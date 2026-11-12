@@ -1,17 +1,18 @@
-import { mount } from '../../ui/dom.js';
+import { mount, esc } from '../../ui/dom.js';
+import { t, ed } from '../../core/edition.js';
 
 export function render(root, app) {
   mount(root, `
     <section class="screen home">
       <div class="home-inner stagger">
-        <img class="home-trophy" src="assets/img/trophy-placeholder.svg" alt="" width="128" height="154">
+        <img class="home-trophy" src="${esc(ed('images.prize'))}" alt="" width="128" height="154">
         <div class="title-lockup">
-          <h1 class="title-main">Who Wants To Win<br><span class="accent">The European Cup</span></h1>
-          <div class="title-edition gold-rule">Celtic Edition</div>
+          <h1 class="title-main">${esc(t('home.titleTop'))}<br><span class="accent">${esc(t('home.titleAccent'))}</span></h1>
+          <div class="title-edition gold-rule">${esc(t('home.edition'))}</div>
         </div>
-        <p class="home-tagline">Guide Celtic through a European campaign. Eight ties. One wrong answer and you're out.</p>
+        <p class="home-tagline">${esc(t('home.tagline'))}</p>
         <div class="home-actions">
-          <button class="btn btn-primary btn-lg btn-block" data-go="play">Kick Off</button>
+          <button class="btn btn-primary btn-lg btn-block" data-go="play">${esc(ed('vars.start'))}</button>
           <div class="row">
             <button class="btn btn-block" data-go="how">How To Play</button>
             <button class="btn btn-block" data-go="stats">Stats</button>

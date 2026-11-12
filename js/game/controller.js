@@ -5,7 +5,8 @@ import { initialState, reduce, summarise, STATUS, FINISHED } from './game-engine
 import { pickQuestions } from './question-picker.js';
 import { recordGame } from './stats.js';
 import { session, local, KEYS } from '../core/storage.js';
-import { TIMING, RECENT_SEEN_LIMIT, SEASON_RESTART_KEY } from '../core/config.js';
+import { TIMING, RECENT_SEEN_LIMIT } from '../core/config.js';
+import { ed, summaryLabels } from '../core/edition.js';
 import { bus } from '../core/events.js';
 
 export const ACTIVE = [STATUS.PLAYING, STATUS.LOCKED, STATUS.REVEALED];
@@ -24,7 +25,7 @@ export function createController({ stages, questions, activeCategories }) {
     session.write(KEYS.gameSnapshot, state);
     bus.emit('game:state', state);
     if (!wasFinished && FINISHED.includes(state.status)) {
-      const summary = summarise(state);
+      const summary = summarise(state, summaryLabels());
       // Statistics count each season as its own game.
       const statsId = summary.season > 1 ? `${state.sessionId}:s${summary.season}` : state.sessionId;
       recordGame({ ...summary, correctCount: summary.seasonCorrectCount, lifelineUsed: summary.lifelineUsedThisSeason }, statsId, stages.length);
@@ -63,7 +64,7 @@ export function createController({ stages, questions, activeCategories }) {
     nextSeason() {
       if (state.status !== STATUS.WON) return false;
       clearTimers();
-      const fromIndex = Math.max(0, stages.findIndex((s) => s.key === SEASON_RESTART_KEY));
+      const fromIndex = Math.max(0, stages.findIndex((s) => s.key === ed('seasons.restartStage')));
       const seen = local.read(KEYS.seen, []);
       const picked = pickQuestions(questions, stages, { seen, activeCategories, fromIndex });
       local.write(KEYS.seen, [...picked.map((q) => q.id), ...seen].slice(0, RECENT_SEEN_LIMIT));

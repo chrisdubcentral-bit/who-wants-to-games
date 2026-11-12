@@ -3,6 +3,7 @@ import { toast } from '../../ui/components/toast.js';
 import { downloadJson } from '../../data-sources/publishers.js';
 import { toFile } from '../../data-sources/json-file-source.js';
 import { formatDate } from '../../core/utils.js';
+import { t } from '../../core/edition.js';
 
 const LOW_STAGE_COUNT = 3;
 const DIFFICULTY_NAMES = ['Easy', 'Fair', 'Medium', 'Hard', 'Expert'];
@@ -85,7 +86,7 @@ export function render(root, ctx) {
     mount(root, `
       <section class="screen-enter">
         <header class="page-head">
-          <span class="eyebrow">Celtic European Nights · Admin</span>
+          <span class="eyebrow">${esc(t('admin.eyebrow'))}</span>
           <h1>Question Dashboard</h1>
         </header>
 

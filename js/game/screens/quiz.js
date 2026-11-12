@@ -4,6 +4,7 @@ import { STATUS } from '../game-engine.js';
 import { bus } from '../../core/events.js';
 import { LETTERS } from '../../core/utils.js';
 import { playCheer } from '../../core/sound.js';
+import { t, ed, prizeCount } from '../../core/edition.js';
 
 export function render(root, app) {
   const { ctrl, meta } = app;
@@ -29,7 +30,7 @@ export function render(root, app) {
           <span class="kbd-hint"><kbd>A</kbd>–<kbd>D</kbd> answer · <kbd>F</kbd> 50:50</span>
         </div>
       </div>
-      <aside class="card ladder" data-ref="ladder" aria-label="Tournament ladder"></aside>
+      <aside class="card ladder" data-ref="ladder" aria-label="${esc(t('quiz.ladderLabel'))}"></aside>
     </section>`);
 
   const ref = (name) => root.querySelector(`[data-ref="${name}"]`);
@@ -54,28 +55,20 @@ export function render(root, app) {
     const next = state.stages[state.stageIndex];
     // Needed the 50:50 on the question just answered? Then they only just scraped through.
     const helped = state.lifeline.usedAtStage === won.key && (state.lifeline.usedAtSeason ?? 1) === (state.season ?? 1);
-    // Some stages always get their own headline, 50:50 or not.
-    const STAGE_HEADLINES = {
-      'qualifier-2': 'Celtic March On',
-      'playoff': 'Celtic Slay Euro Cracks',
-      'round-1': 'Celts Conquer Continental Test',
-      'round-2': 'Green Machine Marches On',
-      'quarter-final': 'Euro Hoops Hit the Big Time',
-      'semi-final': 'Celtic one game from Glory',
-    };
-    const headline = STAGE_HEADLINES[won.key]
-      || (helped ? 'Celtic sneak into the next round'
-      : 'Celtic Progress in Europe');
-    const isLong = headline.length > 'Celtic Progress in Europe'.length;
+    // Some stages always get their own headline (set per edition), 50:50 or not.
+    const standard = t('newspaper.headline');
+    const headline = ed('text.newspaper.stages.' + won.key)
+      || (helped ? t('newspaper.helped') : standard);
+    const isLong = headline.length > standard.length;
     const el = html(`
       <div class="splash" aria-hidden="true">
         <div class="paper">
-          <div class="paper-masthead">The Paradise Gazette</div>
-          <div class="paper-dateline"><span>European Cup Special</span><span>${esc(won.label)}</span><span>Extra!</span></div>
-          <div class="paper-headline${isLong ? ' is-long' : ''}">${headline}</div>
-          <div class="paper-sub">Hoops win the ${esc(won.label)} · Next up: the ${esc(next.label)}</div>
+          <div class="paper-masthead">${esc(t('newspaper.masthead'))}</div>
+          <div class="paper-dateline"><span>${esc(t('newspaper.special'))}</span><span>${esc(won.label)}</span><span>Extra!</span></div>
+          <div class="paper-headline${isLong ? ' is-long' : ''}">${esc(headline)}</div>
+          <div class="paper-sub">${esc(t('newspaper.sub', { won: won.label, next: next.label }))}</div>
           <div class="paper-body">
-            <div class="paper-photo"><img src="assets/img/trophy-placeholder.svg" alt=""></div>
+            <div class="paper-photo"><img src="${esc(ed('images.prize'))}" alt=""></div>
             <div class="paper-cols"><i></i><i></i></div>
           </div>
         </div>
@@ -93,7 +86,7 @@ export function render(root, app) {
     ref('round').textContent = `${season > 1 ? `Season ${season} · ` : ''}Stage ${stage.order} of ${state.stages.length}`;
     ref('stage').textContent = stage.label;
     ref('meta').innerHTML = [
-      cups ? `<span class="badge badge-gold">${cups} European Cup${cups === 1 ? '' : 's'} won</span>` : '',
+      cups ? `<span class="badge badge-gold">${esc(t('quiz.won', { count: prizeCount(cups) }))}</span>` : '',
       stage.key === 'final' ? '<span class="badge badge-gold">The Final</span>' : '',
     ].join('');
     ref('cat').textContent = meta.categoryLabel(q.category);
@@ -156,7 +149,7 @@ export function render(root, app) {
       if (state.status === STATUS.LOCKED) announce(`Final answer: ${LETTERS[state.selected]}`);
       if (state.status === STATUS.REVEALED) {
         if (state.lastCorrect) playCheer();
-        announce(state.lastCorrect ? 'Correct! Celtic go through.' : `Wrong. The correct answer was ${LETTERS[q.correctAnswer]}: ${q.options[q.correctAnswer]}`);
+        announce(state.lastCorrect ? t('quiz.correct') : `Wrong. The correct answer was ${LETTERS[q.correctAnswer]}: ${q.options[q.correctAnswer]}`);
       }
       shownStatus = state.status;
     }
@@ -164,7 +157,7 @@ export function render(root, app) {
 
   function openLadderSheet() {
     const sheet = html(`
-      <div class="sheet-backdrop" role="dialog" aria-modal="true" aria-label="Tournament ladder">
+      <div class="sheet-backdrop" role="dialog" aria-modal="true" aria-label="${esc(t('quiz.ladderLabel'))}">
         <div class="sheet card">
           <div class="ladder">${ladderHtml(ctrl.state)}</div>
           <button type="button" class="btn btn-block" style="margin-top:16px" data-close>Close</button>

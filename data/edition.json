@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "celtic",
+  "vars": {
+    "team": "Celtic",
+    "prize": "European Cup",
+    "prizes": "European Cups",
+    "champion": "European Champion",
+    "start": "Kick Off",
+    "game": "campaign",
+    "games": "campaigns"
+  },
+  "seasons": {
+    "restartStage": "round-1"
+  },
+  "images": {
+    "prize": "assets/img/trophy-placeholder.svg"
+  },
+  "text": {
+    "home": {
+      "titleTop": "Who Wants To Win",
+      "titleAccent": "The {prize}",
+      "edition": "{team} Edition",
+      "tagline": "Guide {team} through a European {game}. Eight ties. One wrong answer and you're out."
+    },
+    "how": {
+      "eyebrow": "Matchday Briefing",
+      "roadTitle": "The Road to the Final",
+      "road": "Each round of the {game} is one question: {stages}. Get it right and {team} go through.",
+      "knockoutTitle": "Knockout Football",
+      "knockout": "One wrong answer and you're eliminated from the tournament. Win the Final and you're crowned {champion}.",
+      "lifeline": "Use it once to remove two wrong answers. Choose the moment carefully: you don't get another one if you play on into a new season.",
+      "seasonsTitle": "Defend the Cup",
+      "seasons": "Win the Final and you can start a new season as holders, going straight into the {restart}. Keep winning to add more {prizes}. A wrong answer ends your run, but you keep the {prizes} you've won.",
+      "top100": "Anyone can add their name and town to the Top 100. The most {prizes} ranks highest, then the furthest round reached. After that, players who didn't use the 50:50 rank above those who did, then the fastest time wins.",
+      "sound": "Hear the crowd roar when you get an answer right. On a phone, the silent switch or volume may also need turning up."
+    },
+    "quiz": {
+      "ladder": "Road to the Final",
+      "ladderLabel": "Tournament ladder",
+      "bye": "not played by the holders",
+      "won": "{count} won",
+      "correct": "Correct! {team} go through."
+    },
+    "newspaper": {
+      "masthead": "The Paradise Gazette",
+      "special": "{prize} Special",
+      "sub": "Hoops win the {won} · Next up: the {next}",
+      "headline": "Celtic Progress in Europe",
+      "helped": "Celtic sneak into the next round",
+      "stages": {
+        "qualifier-2": "Celtic March On",
+        "playoff": "Celtic Slay Euro Cracks",
+        "round-1": "Celts Conquer Continental Test",
+        "round-2": "Green Machine Marches On",
+        "quarter-final": "Euro Hoops Hit the Big Time",
+        "semi-final": "Celtic one game from Glory"
+      }
+    },
+    "results": {
+      "edition": "{team} Edition",
+      "champion": "Champion",
+      "wonOnce": "You Have Won The {prize}",
+      "wonMany": "You Have Won The {prize} {n} Times",
+      "prizeAlt": "The {prize}",
+      "result": "Result",
+      "prizeCount": "{prizes}",
+      "seasonNote": "Carry on as holders from the {restart} and try to win it again. A wrong answer ends your run, but you keep the {prizes} you've won.",
+      "outEyebrow": "Full Time",
+      "out": "Eliminated From The Tournament",
+      "outIn": "Knocked out in the {stage}",
+      "leftIn": "Left during the {stage}"
+    },
+    "top100": {
+      "eyebrow": "Hall of Fame",
+      "prizeColumn": "Cups",
+      "none": "No {prizes}",
+      "rules": "Most {prizes} first, then the furthest round reached. After that, players who didn't use the 50:50 rank higher, then the fastest time. Scores are saved on this device."
+    },
+    "stats": {
+      "eyebrow": "Your European Record",
+      "won": "Won the Final",
+      "outIn": "Out in the {stage}",
+      "none": "No {games} played yet.",
+      "recent": "Recent Campaigns",
+      "barsLabel": "Number of {games} ending at each stage"
+    },
+    "boot": {
+      "notReadyEyebrow": "Team Selection",
+      "notReady": "Squad Not Ready",
+      "notReadyBody": "There aren't enough approved questions to play a full {game} yet.",
+      "delayed": "Kick-off delayed",
+      "resumeTitle": "Resume your {game}?",
+      "resumeBody": "You were in the {stage}. If you don't resume, the {game} ends and counts as being knocked out.",
+      "end": "End Campaign"
+    },
+    "admin": {
+      "eyebrow": "Celtic European Nights · Admin"
+    }
+  }
+}

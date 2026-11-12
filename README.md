@@ -132,9 +132,20 @@ js/data-sources JSON loading, admin working copy, publishing
 js/game/        engine (pure rules), picker, controller, stats, screens
 js/admin/       admin store and views
 js/ui/          DOM helpers, modal, toast, ladder
-data/           question files and stage/category metadata
+data/           edition.json (the edition's wording), question files, stage/category metadata
 tests/          browser unit tests
 ```
+
+## Edition wording
+
+Everything that makes this the Celtic edition is in `data/edition.json`, not in the code: the team and prize names,
+the newspaper name and headlines, the home page title and tagline, and the How To Play, results, Top 100 and stats
+wording. `{team}`, `{prize}`, `{prizes}`, `{champion}`, `{game}` and `{start}` are filled in from its `vars` section.
+Stage names stay in `data/meta/stages.json`. `seasons.restartStage` sets where a champion's next season starts.
+
+Still edition-specific outside that file: the colours (`css/tokens.css`, `css/chrome.css`), the images in `assets/`,
+the page titles in `index.html`, `admin-review.html` and `manifest.webmanifest`, and the
+`<meta name="storage-prefix">` tag in both pages, which keeps each edition's stats and Top 100 separate.
 
 ## Adding to it later
 

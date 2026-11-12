@@ -151,7 +151,9 @@ function durationOf({ startedAt, finishedAt }) {
  * stageReachedIndex: stage the player was on when the game ended (8 = champion).
  * correctCount covers the whole run; seasonCorrectCount only the season just played.
  */
-export function summarise(state) {
+export function summarise(state, labels = {}) {
+  const L = { champion: 'Champion', outIn: 'Knocked out in the {stage}', leftIn: 'Left during the {stage}', ...labels };
+  const withStage = (tpl, stage) => tpl.replace('{stage}', stage);
   const { stages, status } = state;
   const correctCount = state.answers.filter((a) => a.correct).length;
   const byKey = Object.fromEntries(stages.map((s) => [s.key, s]));
@@ -173,7 +175,7 @@ export function summarise(state) {
   };
 
   if (status === STATUS.WON) {
-    return { ...base, stageReachedIndex: stages.length, stageReachedLabel: 'European Champion', finishLabel: 'European Champion' };
+    return { ...base, stageReachedIndex: stages.length, stageReachedLabel: L.champion, finishLabel: L.champion };
   }
 
   const current = stages[state.stageIndex];
@@ -183,7 +185,7 @@ export function summarise(state) {
       stageKey: current.key,
       stageReachedIndex: state.stageIndex,
       stageReachedLabel: current.label,
-      finishLabel: state.forfeited ? `Left during the ${current.label}` : `Knocked out in the ${current.label}`,
+      finishLabel: withStage(state.forfeited ? L.leftIn : L.outIn, current.label),
     };
   }
 

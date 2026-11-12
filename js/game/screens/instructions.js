@@ -1,46 +1,50 @@
-import { mount } from '../../ui/dom.js';
+import { mount, esc } from '../../ui/dom.js';
+import { t, ed } from '../../core/edition.js';
 import { isSoundOn, setSoundOn, playCheer } from '../../core/sound.js';
 
 const soundLabel = (on) => (on ? 'Sound On' : 'Sound Off');
 
-export function render(root) {
+export function render(root, app) {
   const on = isSoundOn();
+  const stages = app.meta.stages.map((s) => s.label);
+  const stageList = stages.length > 1 ? `${stages.slice(0, -1).join(', ')} and the ${stages.at(-1)}` : stages.join('');
+  const restart = app.meta.stageLabel(ed('seasons.restartStage'));
   mount(root, `
     <section class="screen screen-enter">
       <header class="page-head">
-        <span class="eyebrow">Matchday Briefing</span>
+        <span class="eyebrow">${esc(t('how.eyebrow'))}</span>
         <h1>How To Play</h1>
       </header>
       <div class="how-grid stagger">
         <article class="card how-card">
-          <div class="icon">8</div>
-          <h3>The Road to the Final</h3>
-          <p>Each round of the campaign is one question: 1st Qualifier, 2nd Qualifier, Playoff, First Round, Second Round, Quarter Finals, Semi Final and the Final. Get it right and Celtic go through.</p>
+          <div class="icon">${stages.length}</div>
+          <h3>${esc(t('how.roadTitle'))}</h3>
+          <p>${esc(t('how.road', { stages: stageList }))}</p>
         </article>
         <article class="card how-card">
           <div class="icon">✕</div>
-          <h3>Knockout Football</h3>
-          <p>One wrong answer and you're eliminated from the tournament. Win the Final and you're crowned European Champion.</p>
+          <h3>${esc(t('how.knockoutTitle'))}</h3>
+          <p>${esc(t('how.knockout'))}</p>
         </article>
         <article class="card how-card">
           <div class="icon">½</div>
           <h3>50:50 Lifeline</h3>
-          <p>Use it once to remove two wrong answers. Choose the moment carefully: you don't get another one if you play on into a new season.</p>
+          <p>${esc(t('how.lifeline'))}</p>
         </article>
         <article class="card how-card">
           <div class="icon">+1</div>
-          <h3>Defend the Cup</h3>
-          <p>Win the Final and you can start a new season as holders, going straight into the First Round. Keep winning to add more European Cups. A wrong answer ends your run, but you keep the cups you've won.</p>
+          <h3>${esc(t('how.seasonsTitle'))}</h3>
+          <p>${esc(t('how.seasons', { restart }))}</p>
         </article>
         <article class="card how-card">
           <div class="icon icon-sm">100</div>
           <h3>The Top 100</h3>
-          <p>Anyone can add their name and town to the Top 100. The most European Cups ranks highest, then the furthest round reached. After that, players who didn't use the 50:50 rank above those who did, then the fastest time wins.</p>
+          <p>${esc(t('how.top100'))}</p>
         </article>
         <article class="card how-card">
           <div class="icon">♪</div>
           <h3>Sound</h3>
-          <p>Hear the crowd roar when you get an answer right. On a phone, the silent switch or volume may also need turning up.</p>
+          <p>${esc(t('how.sound'))}</p>
           <button type="button" class="btn sound-toggle${on ? ' is-on' : ''}" data-action="sound" aria-pressed="${on}">${soundLabel(on)}</button>
         </article>
         <article class="card how-card">
@@ -50,7 +54,7 @@ export function render(root) {
         </article>
       </div>
       <div class="page-actions">
-        <button class="btn btn-primary btn-lg" data-go="play">Kick Off</button>
+        <button class="btn btn-primary btn-lg" data-go="play">${esc(ed('vars.start'))}</button>
         <button class="btn" data-go="home">Back</button>
       </div>
     </section>`);

@@ -63,14 +63,14 @@ export function recordGame(summary, sessionId, stageCount = 8) {
 }
 
 /** Label for a stage index where `stages.length` means champion. */
-export function stageIndexLabel(index, stages) {
+export function stageIndexLabel(index, stages, champion = 'Champion') {
   if (index < 0) return '—';
-  if (index >= stages.length) return 'European Champion';
+  if (index >= stages.length) return champion;
   return stages[index].label;
 }
 
-export function averageStageLabel(stats, stages) {
+export function averageStageLabel(stats, stages, champion = 'Champion') {
   if (!stats.gamesPlayed) return '—';
   const avg = stats.totalStageIndexReached / stats.gamesPlayed;
-  return stageIndexLabel(Math.round(avg), stages);
+  return stageIndexLabel(Math.round(avg), stages, champion);
 }

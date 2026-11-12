@@ -8,6 +8,7 @@ import { openModal } from '../ui/components/modal.js';
 import { createController, readSnapshot, ACTIVE } from './controller.js';
 import { NotEnoughQuestionsError } from './question-picker.js';
 import { applyBoardReset } from './leaderboard.js';
+import { t } from '../core/edition.js';
 import * as home from './screens/home.js';
 import * as instructions from './screens/instructions.js';
 import * as quiz from './screens/quiz.js';
@@ -44,9 +45,9 @@ function tryStart(begin = () => app.ctrl.start()) {
     if (!(err instanceof NotEnoughQuestionsError)) throw err;
     mount(root, `
       <section class="card notice screen-enter">
-        <span class="eyebrow">Team Selection</span>
-        <h1>Squad Not Ready</h1>
-        <p>There aren't enough approved questions to play a full campaign yet.</p>
+        <span class="eyebrow">${esc(t('boot.notReadyEyebrow'))}</span>
+        <h1>${esc(t('boot.notReady'))}</h1>
+        <p>${esc(t('boot.notReadyBody'))}</p>
         <p class="muted">Missing: ${esc(err.missingStages.join(', '))}</p>
         <div class="page-actions" style="justify-content:center;margin-top:0">
           <a class="btn btn-primary" href="admin-review.html">Review Questions</a>
@@ -61,7 +62,7 @@ function showBootError(err) {
   const isFile = location.protocol === 'file:';
   mount(root, `
     <section class="card notice">
-      <span class="eyebrow">Kick-off delayed</span>
+      <span class="eyebrow">${esc(t('boot.delayed'))}</span>
       <h1>Couldn't load the questions</h1>
       ${isFile
         ? `<p>This page was opened straight from a file, so the browser blocks it from reading the question files.</p>
@@ -111,10 +112,10 @@ async function boot() {
     const stage = meta.stages[snap.stageIndex];
     home.render(root, app); // not renderRoute(): on #play that would start a new game and overwrite the snapshot
     const choice = await openModal({
-      title: 'Resume your campaign?',
-      message: `You were in the ${stage.label}. If you don't resume, the campaign ends and counts as being knocked out.`,
+      title: t('boot.resumeTitle'),
+      message: t('boot.resumeBody', { stage: stage.label }),
       actions: [
-        { label: 'End Campaign', value: 'abandon', className: 'btn-ghost' },
+        { label: t('boot.end'), value: 'abandon', className: 'btn-ghost' },
         { label: 'Resume', value: 'resume', className: 'btn-primary' },
       ],
     });

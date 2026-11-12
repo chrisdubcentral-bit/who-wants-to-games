@@ -1,7 +1,7 @@
 // Admin working copy: moves questions between pending / approved / rejected,
 // validates, keeps an audit log and one level of undo, and publishes to disk.
 
-import { COLLECTIONS } from '../core/config.js';
+import { COLLECTIONS, APP } from '../core/config.js';
 import { validateQuestion } from '../core/validation.js';
 import { migrateQuestion } from '../core/migrations.js';
 import { nowIso, nextQuestionId, deepClone } from '../core/utils.js';
@@ -224,7 +224,7 @@ export function createAdminStore(meta) {
     create(fields) {
       const id = nextQuestionId(allIds());
       const q = migrateQuestion({
-        schemaVersion: 1, club: meta.categoryByKey[fields.category]?.club ?? 'celtic', tags: [], source: 'manual',
+        schemaVersion: 1, club: meta.categoryByKey[fields.category]?.club ?? APP.club, tags: [], source: 'manual',
         ...fields, id, status: 'pending', createdAt: nowIso(), updatedAt: nowIso(),
         review: { reviewedAt: null, rejectionReason: null, rejectionNote: null },
       });

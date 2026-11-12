@@ -2,6 +2,7 @@
 
 import { esc } from '../dom.js';
 import { STATUS } from '../../game/game-engine.js';
+import { t } from '../../core/edition.js';
 
 function rungState(state, i) {
   const { stageIndex, status, lastCorrect } = state;
@@ -28,7 +29,7 @@ export function ladderHtml(state) {
       st === 'bye' && 'is-bye',
       s.key === 'final' && 'is-final',
     ].filter(Boolean).join(' ');
-    const label = `${s.label}${st === 'done' ? ', completed' : st === 'current' ? ', current stage' : st === 'bye' ? ', not played by the holders' : ''}`;
+    const label = `${s.label}${st === 'done' ? ', completed' : st === 'current' ? ', current stage' : st === 'bye' ? `, ${t('quiz.bye')}` : ''}`;
     return `<li class="${cls}" aria-label="${esc(label)}" ${st === 'current' ? 'aria-current="step"' : ''}>
         <span class="num">${s.order}</span>
         <span>${esc(s.label)}</span>
@@ -39,7 +40,7 @@ export function ladderHtml(state) {
   const season = state.season ?? 1;
   return `
     <div class="ladder-head">
-      <span class="eyebrow">${season > 1 ? `Season ${season} · ` : ''}Road to the Final</span>
+      <span class="eyebrow">${season > 1 ? `Season ${season} · ` : ''}${esc(t('quiz.ladder'))}</span>
     </div>
     <ol class="ladder-list" reversed>${items}</ol>`;
 }
@@ -52,7 +53,7 @@ export function stripHtml(state) {
   return `
     <div class="strip-track" aria-hidden="true">${dots}</div>
     <div class="strip-row">
-      <span class="eyebrow">Road to the Final</span>
+      <span class="eyebrow">${esc(t('quiz.ladder'))}</span>
       <button type="button" class="btn btn-ghost btn-sm" data-action="open-ladder">View ladder</button>
     </div>`;
 }

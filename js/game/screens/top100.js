@@ -2,13 +2,14 @@ import { mount, esc } from '../../ui/dom.js';
 import { readBoard, formatDuration, cupsOf, roundsPlayedOf, LIMIT } from '../leaderboard.js';
 import { STATUS } from '../game-engine.js';
 import { formatDate } from '../../core/utils.js';
+import { t, ed, prizeCount } from '../../core/edition.js';
 
-/** Small cup icon × how many European Cups the run won. */
+/** Small prize icon × how many the run won. */
 function cupsCell(e) {
   const n = cupsOf(e);
-  if (!n) return '<span class="no-cups" aria-label="No European Cups">—</span>';
-  return `<span class="cups" aria-label="${n} European Cup${n === 1 ? '' : 's'}">
-      <img src="assets/img/trophy-placeholder.svg" alt="" width="15" height="18"><span aria-hidden="true">× ${n}</span>
+  if (!n) return `<span class="no-cups" aria-label="${esc(t('top100.none'))}">—</span>`;
+  return `<span class="cups" aria-label="${esc(prizeCount(n))}">
+      <img src="${esc(ed('images.prize'))}" alt="" width="15" height="18"><span aria-hidden="true">× ${n}</span>
     </span>`;
 }
 
@@ -48,7 +49,7 @@ export function render(root, app) {
           <tr>
             <th scope="col" class="pos">#</th>
             <th scope="col">Player</th>
-            <th scope="col" class="num">Cups</th>
+            <th scope="col" class="num">${esc(t('top100.prizeColumn'))}</th>
             <th scope="col" class="num col-round">Round</th>
             <th scope="col" class="num" title="Total rounds played">Rounds</th>
             <th scope="col" class="num">50:50</th>
@@ -61,21 +62,21 @@ export function render(root, app) {
     </div>`
     : `<div class="card card-pad board-empty">
         <p>No one is on the board yet.</p>
-        <p class="muted">Finish a campaign and you can add your name to the Top ${LIMIT}.</p>
+        <p class="muted">Finish a ${esc(ed('vars.game'))} and you can add your name to the Top ${LIMIT}.</p>
       </div>`;
 
   mount(root, `
     <section class="screen screen-enter">
       <header class="page-head">
-        <span class="eyebrow">Hall of Fame</span>
+        <span class="eyebrow">${esc(t('top100.eyebrow'))}</span>
         <h1>Top ${LIMIT}</h1>
-        <p class="muted board-rules">Most European Cups first, then the furthest round reached. After that, players who didn't use the 50:50 rank higher, then the fastest time. Scores are saved on this device.</p>
+        <p class="muted board-rules">${esc(t('top100.rules'))}</p>
       </header>
       ${table}
       <div class="page-actions">
         ${canCarryOn
           ? `<button class="btn btn-primary" data-action="season">Start Season ${(state.season ?? 1) + 1}</button>`
-          : '<button class="btn btn-primary" data-go="play">Kick Off</button>'}
+          : `<button class="btn btn-primary" data-go="play">${esc(ed('vars.start'))}</button>`}
         <button class="btn btn-ghost btn-plate-phone" data-go="home">Home</button>
       </div>
     </section>`);

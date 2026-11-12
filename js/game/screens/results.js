@@ -1,7 +1,7 @@
 import { mount, esc } from '../../ui/dom.js';
 import { summarise, STATUS } from '../game-engine.js';
 import { LETTERS } from '../../core/utils.js';
-import { SEASON_RESTART_KEY } from '../../core/config.js';
+import { t, ed, summaryLabels } from '../../core/edition.js';
 import {
   readBoard, saveEntry, readPlayer, entryFromSummary, isEligible, prospectiveRank,
   cleanText, NAME_MAX, TOWN_MAX, LIMIT,
@@ -10,7 +10,7 @@ import {
 export function render(root, app) {
   const state = app.ctrl.state;
   if (!app.ctrl.isFinished) { app.go('home'); return; }
-  const s = summarise(state);
+  const s = summarise(state, summaryLabels());
 
   const stat = (label, value, gold = false) =>
     `<div class="card result-stat"><span class="label">${esc(label)}</span><span class="value ${gold ? 'gold' : ''}">${esc(value)}</span></div>`;
@@ -28,19 +28,18 @@ export function render(root, app) {
   if (won) {
     cls = 'is-won';
     hero = `
-      <img class="trophy" src="assets/img/trophy-placeholder.svg" alt="The European Cup" width="210" height="252">
-      <span class="eyebrow">${later ? `Season ${s.season}` : 'Celtic Edition'}</span>
-      <h1>Champion</h1>
-      <p class="sub">${s.cups > 1 ? `You Have Won The European Cup ${s.cups} Times` : 'You Have Won The European Cup'}</p>`;
+      <img class="trophy" src="${esc(ed('images.prize'))}" alt="${esc(t('results.prizeAlt'))}" width="210" height="252">
+      <span class="eyebrow">${esc(later ? `Season ${s.season}` : t('results.edition'))}</span>
+      <h1>${esc(t('results.champion'))}</h1>
+      <p class="sub">${esc(s.cups > 1 ? t('results.wonMany', { n: s.cups }) : t('results.wonOnce'))}</p>`;
     stats = [
-      stat(s.cups > 1 ? 'European Cups' : 'Result', s.cups > 1 ? String(s.cups) : 'European Champion', true),
+      stat(s.cups > 1 ? t('results.prizeCount') : t('results.result'), s.cups > 1 ? String(s.cups) : ed('vars.champion'), true),
       stat('Correct Answers', correct),
       stat('50:50', s.lifelineUsed ? `Used · ${s.lifelineStage}` : 'Not needed'),
     ].join('');
-    const restart = app.meta.stageLabel(SEASON_RESTART_KEY);
+    const restart = app.meta.stageLabel(ed('seasons.restartStage'));
     extra = `
-      <p class="muted season-note">Carry on as holders from the ${esc(restart)} and try to win it again.
-        A wrong answer ends your run, but you keep the cups you've won.
+      <p class="muted season-note">${esc(t('results.seasonNote', { restart }))}
         ${s.lifelineUsed ? 'Your 50:50 has been used.' : 'Your 50:50 is still there to use.'}</p>`;
     actions = `<button class="btn btn-primary btn-lg" data-action="season">Start Season ${s.season + 1}</button>`;
   } else {
@@ -49,12 +48,12 @@ export function render(root, app) {
     const q = state.questions[state.stageIndex];
     hero = `
       <div class="result-icon is-out" aria-hidden="true">✕</div>
-      <span class="eyebrow">${later ? `Full Time · Season ${s.season}` : 'Full Time'}</span>
-      <h1>Eliminated From The Tournament</h1>
+      <span class="eyebrow">${esc(t('results.outEyebrow'))}${later ? ` · Season ${s.season}` : ''}</span>
+      <h1>${esc(t('results.out'))}</h1>
       <p class="sub">${esc(s.finishLabel)}</p>`;
     stats = [
       stat('Stage Reached', s.stageReachedLabel),
-      s.cups ? stat('European Cups', String(s.cups), true) : stat('Correct Answers', correct),
+      s.cups ? stat(t('results.prizeCount'), String(s.cups), true) : stat('Correct Answers', correct),
       stat('50:50', s.lifelineUsed ? `Used · ${s.lifelineStage}` : 'Unused'),
     ].join('');
     // Only show the missed question if it was actually answered (not when the game was left unfinished).

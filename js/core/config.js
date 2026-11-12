@@ -1,14 +1,20 @@
 // App-wide settings and access to stage/category metadata.
 
+import { setEdition, getEdition } from './edition.js';
+
+// Edition-specific wording and settings live in data/edition.json (see js/core/edition.js).
 export const APP = {
-  title: 'Who Wants To Win The European Cup',
-  edition: 'Celtic Edition',
   schemaVersion: 1,
-  storagePrefix: 'wwtwtec:v1:',
-  club: 'celtic',
+  // Each edition's page can set <meta name="storage-prefix">, so editions keep separate stats and Top 100s.
+  get storagePrefix() {
+    const tag = typeof document.querySelector === 'function' ? document.querySelector('meta[name="storage-prefix"]') : null;
+    return tag?.content || 'wwtwtec:v1:';
+  },
+  get club() { return getEdition().id; },
 };
 
 export const PATHS = {
+  edition: 'data/edition.json',
   stages: 'data/meta/stages.json',
   categories: 'data/meta/categories.json',
   pending: 'data/questions/pending-questions.json',
@@ -33,18 +39,18 @@ export const TIMING = {
 
 export const RECENT_SEEN_LIMIT = 50;
 
-/** A champion who plays another season skips the qualifiers and starts at this stage. */
-export const SEASON_RESTART_KEY = 'round-1';
 
 let meta = null;
 
-/** Loads stages and categories once. `base` lets pages in sub-folders (tests) resolve paths. */
+/** Loads the edition, stages and categories once. `base` lets pages in sub-folders (tests) resolve paths. */
 export async function loadMeta(base = '') {
   if (meta) return meta;
-  const [s, c] = await Promise.all([
+  const [e, s, c] = await Promise.all([
+    fetchJson(base + PATHS.edition),
     fetchJson(base + PATHS.stages),
     fetchJson(base + PATHS.categories),
   ]);
+  setEdition(e);
   meta = buildMeta(s.stages, c.categories);
   return meta;
 }

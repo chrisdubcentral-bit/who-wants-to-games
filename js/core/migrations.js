@@ -1,6 +1,8 @@
 // Schema upgrades for question files and stored data.
 // Add steps as { from, to, up(data) } — they run in order until the data reaches CURRENT.
 
+import { APP } from './config.js';
+
 export const CURRENT_SCHEMA = 1;
 
 const questionSteps = [
@@ -43,7 +45,7 @@ function fromLegacy(q) {
     ? q.category.toLowerCase().replace(/\s+/g, '-')
     : q.category;
   return {
-    club: 'celtic',
+    club: APP.club,
     tags: [],
     source: 'manual',
     status: 'pending',
