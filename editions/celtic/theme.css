@@ -1,5 +1,21 @@
-/* Celtic European Nights — design tokens */
+/* Celtic edition colours and design tokens. Every edition has its own theme.css with these same names.
+   Loaded before the engine's stylesheets (engine/css). */
 :root {
+  /* Game show look (used by engine/css/chrome.css) */
+  --studio-bg: #06100B;
+  --studio-glow-top: rgba(31, 138, 98, 0.50);
+  --studio-glow-bottom: rgba(20, 107, 76, 0.40);
+  --chrome: linear-gradient(180deg, #fbfdfc 0%, #b9c3bd 20%, #66716b 47%, #e6ebe8 53%, #929d97 80%, #f0f4f2 100%);
+  --chrome-text: linear-gradient(180deg, #ffffff 0%, #cfd7d2 38%, #76817b 52%, #f2f5f3 60%, #a9b3ad 100%);
+  --plate: linear-gradient(180deg, #17513c 0%, #0b2b20 55%, #071c15 100%);
+  --plate-hover: linear-gradient(180deg, #1f6a4f 0%, #0e3628 55%, #092219 100%);
+  --plate-panel: linear-gradient(180deg, #0f3a2a 0%, #07160f 100%);
+  --plate-dull: linear-gradient(180deg, #14211b 0%, #0c1511 100%);
+  --gold-plate: linear-gradient(180deg, #f6e2a6 0%, #d2b064 50%, #a78439 100%);
+  --gold-plate-hover: linear-gradient(180deg, #fbecbd 0%, #dcbc73 50%, #b08c3e 100%);
+  --gold-rim: linear-gradient(180deg, #fff3cf 0%, #e0c27a 25%, #8f6f2c 50%, #f1d999 56%, #c7a45a 100%);
+  --ink-gold: #1a1405;
+
   /* Backgrounds */
   --bg-main: #09110C;
   --bg-panel: #0D1712;

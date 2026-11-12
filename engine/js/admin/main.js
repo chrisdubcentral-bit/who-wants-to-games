@@ -5,7 +5,7 @@ import { bus } from '../core/events.js';
 import { mount, esc, on } from '../ui/dom.js';
 import { toast } from '../ui/components/toast.js';
 import { openModal, confirmModal } from '../ui/components/modal.js';
-import { supportsDirectSave, secureAddressHint } from '../data-sources/publishers.js';
+import { supportsDirectSave, secureAddressHint, questionsFolder } from '../data-sources/publishers.js';
 import { createAdminStore } from './admin-store.js';
 import * as dashboard from './views/dashboard.js';
 import * as reviewList from './views/review-list.js';
@@ -60,8 +60,8 @@ async function doPublish() {
   if (secureUrl) {
     const ok = await confirmModal(
       'Download the question files?',
-      `This page is open on a network address (${window.location.host}), so the browser won't let Publish save straight into data/questions. ` +
-      'Three files will download now: copy them into data/questions, replacing the old ones. ' +
+      `This page is open on a network address (${window.location.host}), so the browser won't let Publish save straight into ${questionsFolder()}. ` +
+      `Three files will download now: copy them into ${questionsFolder()}, replacing the old ones. ` +
       `Next time, open the admin page at ${secureUrl.split('#')[0]} and Publish will save the files directly. ` +
       '(Unpublished changes are kept separately for each address, so finish publishing these here first.)',
       'Download', 'Cancel',
@@ -70,7 +70,7 @@ async function doPublish() {
   } else if (!supportsDirectSave()) {
     const ok = await confirmModal(
       'Download the question files?',
-      'This browser can\'t save straight to your project folder. Three files will download — copy them into data/questions, replacing the old ones. (Chrome or Edge can save directly.)',
+      `This browser can't save straight to your project folder. Three files will download — copy them into ${questionsFolder()}, replacing the old ones. (Chrome or Edge can save directly.)`,
       'Download', 'Cancel',
     );
     if (!ok) return;
@@ -82,7 +82,7 @@ async function doPublish() {
     } else {
       const done = await openModal({
         title: 'Files downloaded',
-        message: 'Copy pending-questions.json, approved-questions.json and rejected-questions.json into the data/questions folder. Then mark this as published.',
+        message: `Copy pending-questions.json, approved-questions.json and rejected-questions.json into the ${questionsFolder()} folder. Then mark this as published.`,
         actions: [
           { label: 'Not yet', value: false, className: 'btn-ghost' },
           { label: "I've copied them", value: true, className: 'btn-primary' },

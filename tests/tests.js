@@ -1,14 +1,14 @@
 // Unit tests for the pure modules. Open tests/test-runner.html through a local server.
 
-import { buildMeta, fetchJson } from '../js/core/config.js';
-import { initialState, reduce, summarise, STATUS } from '../js/game/game-engine.js';
-import { pickQuestions, prepareQuestion, NotEnoughQuestionsError } from '../js/game/question-picker.js';
-import { validateQuestion } from '../js/core/validation.js';
-import { migrateQuestion, migrateCollection } from '../js/core/migrations.js';
-import { applyGame, emptyStats } from '../js/game/stats.js';
-import { matchesQuery, applyFilters, idsInQuery } from '../js/core/search.js';
-import { normalise, nextQuestionId, similarity } from '../js/core/utils.js';
-import { compareEntries, insertEntry, upsertEntry, entryFromSummary, prospectiveRank, isEligible, cleanText, formatDuration, rankOfSession, LIMIT } from '../js/game/leaderboard.js';
+import { buildMeta, fetchJson } from '../engine/js/core/config.js';
+import { initialState, reduce, summarise, STATUS } from '../engine/js/game/game-engine.js';
+import { pickQuestions, prepareQuestion, NotEnoughQuestionsError } from '../engine/js/game/question-picker.js';
+import { validateQuestion } from '../engine/js/core/validation.js';
+import { migrateQuestion, migrateCollection } from '../engine/js/core/migrations.js';
+import { applyGame, emptyStats } from '../engine/js/game/stats.js';
+import { matchesQuery, applyFilters, idsInQuery } from '../engine/js/core/search.js';
+import { normalise, nextQuestionId, similarity } from '../engine/js/core/utils.js';
+import { compareEntries, insertEntry, upsertEntry, entryFromSummary, prospectiveRank, isEligible, cleanText, formatDuration, rankOfSession, LIMIT } from '../engine/js/game/leaderboard.js';
 
 const results = [];
 let current = '';
@@ -30,9 +30,9 @@ function seeded(seed = 42) {
 }
 
 const [stagesFile, catsFile, approvedFile] = await Promise.all([
-  fetchJson('../data/meta/stages.json'),
-  fetchJson('../data/meta/categories.json'),
-  fetchJson('../data/questions/approved-questions.json'),
+  fetchJson('../editions/celtic/data/meta/stages.json'),
+  fetchJson('../editions/celtic/data/meta/categories.json'),
+  fetchJson('../editions/celtic/data/questions/approved-questions.json'),
 ]);
 const meta = buildMeta(stagesFile.stages, catsFile.categories);
 const stages = meta.stages;

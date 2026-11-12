@@ -2,7 +2,7 @@
 // Chrome/Edge: File System Access API (pick data/questions once, then save directly).
 // Other browsers: download the three files to copy into data/questions manually.
 
-import { COLLECTIONS } from '../core/config.js';
+import { COLLECTIONS, APP } from '../core/config.js';
 import { toFile } from './json-file-source.js';
 
 const FILE_NAMES = {
@@ -42,15 +42,21 @@ function idb(mode, fn) {
   });
 }
 
+// Each edition remembers its own folder, so one edition's questions can never be saved into another's.
+const handleKey = () => `questionsDir:${APP.club}`;
+
 async function getSavedHandle() {
-  try { return await idb('readonly', (s) => s.get('questionsDir')); } catch { return null; }
+  try { return await idb('readonly', (s) => s.get(handleKey())); } catch { return null; }
 }
 async function saveHandle(handle) {
-  try { await idb('readwrite', (s) => s.put(handle, 'questionsDir')); } catch { /* not critical */ }
+  try { await idb('readwrite', (s) => s.put(handle, handleKey())); } catch { /* not critical */ }
 }
 export async function forgetFolder() {
-  try { await idb('readwrite', (s) => s.delete('questionsDir')); } catch { /* ignore */ }
+  try { await idb('readwrite', (s) => s.delete(handleKey())); } catch { /* ignore */ }
 }
+
+/** Where this edition's question files live, for messages. */
+export const questionsFolder = () => `editions/${APP.club}/data/questions`;
 
 async function ensurePermission(handle) {
   const opts = { mode: 'readwrite' };
@@ -63,7 +69,7 @@ async function getFolder({ forcePick = false } = {}) {
   let handle = forcePick ? null : await getSavedHandle();
   if (handle && !(await ensurePermission(handle))) handle = null;
   if (!handle) {
-    handle = await window.showDirectoryPicker({ id: 'wwtwtec-questions', mode: 'readwrite' });
+    handle = await window.showDirectoryPicker({ id: `questions-${APP.club}`, mode: 'readwrite' });
     await saveHandle(handle);
   }
   return handle;
@@ -76,7 +82,7 @@ export async function publish(collections, { forcePick = false } = {}) {
   if (supportsDirectSave()) {
     const folder = await getFolder({ forcePick });
     if (folder.name !== 'questions') {
-      const ok = window.confirm(`You picked the folder "${folder.name}". The game reads from "data/questions". Save here anyway?`);
+      const ok = window.confirm(`You picked the folder "${folder.name}". The game reads from "${questionsFolder()}". Save here anyway?`);
       if (!ok) { await forgetFolder(); throw new DOMException('Publishing cancelled', 'AbortError'); }
     }
     for (const f of files) {
