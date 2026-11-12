@@ -1,0 +1,52 @@
+import { openModal } from '../../ui/components/modal.js';
+import { REJECTION_REASONS } from '../../core/config.js';
+import { esc } from '../../ui/dom.js';
+
+/** Asks for a rejection reason. Resolves to { reason, note } or null if cancelled. */
+export function askRejection(question) {
+  let picked = null;
+  const body = `
+    <div style="display:grid;gap:16px">
+      <p class="muted" style="font-size:.875rem">${esc(question.question)}</p>
+      <div class="field">
+        <label for="rj-reason">Reason</label>
+        <select id="rj-reason" class="select">
+          ${REJECTION_REASONS.map((r) => `<option value="${esc(r)}">${esc(r)}</option>`).join('')}
+        </select>
+      </div>
+      <div class="field">
+        <label for="rj-note">Note <span data-req hidden>(required)</span></label>
+        <textarea id="rj-note" class="textarea" rows="3" placeholder="Optional details for the record"></textarea>
+        <span class="field-error" data-err hidden>Please add a note when choosing "Other".</span>
+      </div>
+    </div>`;
+
+  return openModal({
+    title: 'Reject question',
+    body,
+    actions: [
+      { label: 'Cancel', value: null, className: 'btn-ghost' },
+      { label: 'Reject', value: 'reject', className: 'btn-danger' },
+    ],
+    onAction(value, el) {
+      if (value !== 'reject') return true;
+      const reason = el.querySelector('#rj-reason').value;
+      const note = el.querySelector('#rj-note').value.trim();
+      if (reason === 'Other' && !note) {
+        el.querySelector('[data-err]').hidden = false;
+        el.querySelector('#rj-note').classList.add('is-invalid');
+        el.querySelector('#rj-note').focus();
+        return false;
+      }
+      picked = { reason, note };
+      return true;
+    },
+  }).then((v) => (v === 'reject' ? picked : null));
+}
+
+// Show "(required)" when Other is selected.
+document.addEventListener('change', (e) => {
+  if (e.target.id !== 'rj-reason') return;
+  const modal = e.target.closest('.modal');
+  modal.querySelector('[data-req]').hidden = e.target.value !== 'Other';
+});

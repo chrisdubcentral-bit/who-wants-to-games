@@ -1,0 +1,1053 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Scottish football was suspended in March 2020 because of what?",
+    "options": [
+      "A referees' strike",
+      "The coronavirus pandemic",
+      "A TV rights dispute",
+      "Heavy snow"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Coronavirus",
+      "2020"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "When the 2019-20 season was ended early, Celtic were named champions for how many titles in a row?",
+    "options": [
+      "Seven",
+      "Eight",
+      "Nine",
+      "Ten"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "Coronavirus",
+      "2020",
+      "Nine in a row"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "What does VAR stand for in football?",
+    "options": [
+      "Verified Action Replay",
+      "Visual Assessment Rule",
+      "Video Appeal Review",
+      "Video Assistant Referee"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "VAR"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Which Celtic supporters' group was locked out of Celtic Park in late 2023?",
+    "options": [
+      "The Green Brigade",
+      "The Jungle Bhoys",
+      "The Celtic Trust",
+      "Bhoys Against Bigotry"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "Green Brigade",
+      "2023"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Which Dutch striker said a £7,000-a-week offer was \"good enough for the homeless\"?",
+    "options": [
+      "Regi Blinker",
+      "Pierre van Hooijdonk",
+      "Glenn Helder",
+      "Wim Jansen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Pierre van Hooijdonk",
+      "1996"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "european-campaigns",
+    "difficulty": 1,
+    "question": "In which city did police clash with Celtic fans in Dam Square in 2013?",
+    "options": [
+      "Rotterdam",
+      "Eindhoven",
+      "Amsterdam",
+      "The Hague"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "Ajax",
+      "Amsterdam",
+      "2013"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "cup-finals",
+    "difficulty": 1,
+    "question": "What happened after Celtic beat Rangers 1-0 in the 1980 Scottish Cup Final?",
+    "options": [
+      "The trophy went missing",
+      "The game was replayed",
+      "Floodlights failed",
+      "A riot broke out on the pitch"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "1980 Scottish Cup Final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "cup-finals",
+    "difficulty": 2,
+    "question": "After the riot at the 1909 Scottish Cup Final replay, what did the SFA do with the trophy?",
+    "options": [
+      "Withheld it",
+      "Gave it to Celtic",
+      "Gave it to Rangers",
+      "Ordered a third match"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "1909 Scottish Cup Final",
+      "Riot"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "What nickname was given to the Celtic board ousted by the 1994 takeover?",
+    "options": [
+      "The Old Guard",
+      "The Biscuit Tin board",
+      "The Piggy Bank board",
+      "The Gang of Five"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Takeover",
+      "1994"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "european-campaigns",
+    "difficulty": 2,
+    "question": "In 1968 Celtic refused to play which Hungarian club after the Soviet-led invasion of Czechoslovakia?",
+    "options": [
+      "Ujpest",
+      "Honved",
+      "Ferencvaros",
+      "Vasas"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "1968",
+      "Ferencvaros"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "european-campaigns",
+    "difficulty": 2,
+    "question": "Celtic's 1968 protest in the European Cup followed the invasion of which country?",
+    "options": [
+      "Hungary",
+      "Poland",
+      "Yugoslavia",
+      "Czechoslovakia"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "1968",
+      "Prague Spring"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "In 1997 there were reports Celtic might buy which English club to take its Premiership place?",
+    "options": [
+      "Wimbledon",
+      "Coventry City",
+      "Southampton",
+      "Bolton Wanderers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "Wimbledon",
+      "1997"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "cup-finals",
+    "difficulty": 2,
+    "question": "Who scored Celtic's extra-time winner in the 1980 Scottish Cup Final against Rangers?",
+    "options": [
+      "Danny McGrain",
+      "George McCluskey",
+      "Roy Aitken",
+      "Bobby Lennox"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "1980 Scottish Cup Final",
+      "George McCluskey"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "european-campaigns",
+    "difficulty": 2,
+    "question": "UEFA ordered Celtic's 1984 tie with Rapid Vienna to be replayed at which ground?",
+    "options": [
+      "Anfield",
+      "Hampden Park",
+      "Old Trafford",
+      "Wembley"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "Rapid Vienna",
+      "1984"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "european-campaigns",
+    "difficulty": 2,
+    "question": "Rapid Vienna's Rudolf Weinhofer falsely claimed to have been hit by what at Celtic Park in 1984?",
+    "options": [
+      "A coin",
+      "A lighter",
+      "A flare",
+      "A bottle"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "Rapid Vienna",
+      "1984"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "european-campaigns",
+    "difficulty": 2,
+    "question": "Celtic's first competitive match with VAR came in 2020 against which club?",
+    "options": [
+      "FC Copenhagen",
+      "Lazio",
+      "Rennes",
+      "Cluj"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "VAR",
+      "2020"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "opponents",
+    "difficulty": 2,
+    "question": "In October 2010 referee Dougie McDonald overturned a penalty he had given Celtic against which club?",
+    "options": [
+      "Hearts",
+      "Dundee United",
+      "Motherwell",
+      "Kilmarnock"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Dougie McDonald",
+      "2010"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Which Celtic manager was given a false explanation for the rescinded penalty at Tannadice in 2010?",
+    "options": [
+      "Tony Mowbray",
+      "Gordon Strachan",
+      "Neil Lennon",
+      "Brendan Rodgers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "Dougie McDonald",
+      "2010"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Which Simple Minds singer fronted a failed bid to buy Celtic with Kenny Dalglish in 1998?",
+    "options": [
+      "Bono",
+      "Rod Stewart",
+      "Marti Pellow",
+      "Jim Kerr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "Takeover",
+      "1998",
+      "Jim Kerr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "In which year was the Offensive Behaviour at Football Act repealed?",
+    "options": [
+      "2018",
+      "2014",
+      "2016",
+      "2021"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "Offensive Behaviour at Football Act"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Who announced \"The game is over. The Rebels have won\" on the steps of Celtic Park in 1994?",
+    "options": [
+      "Fergus McCann",
+      "Brian Dempsey",
+      "David Low",
+      "Kevin Kelly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Takeover",
+      "1994",
+      "Brian Dempsey"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Which Rangers winger suffered racist abuse on his first Old Firm visit to Celtic Park in January 1988?",
+    "options": [
+      "Ian Durrant",
+      "Davie Cooper",
+      "Mark Walters",
+      "Ray Wilkins"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "1988",
+      "Mark Walters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Who scored both goals in Celtic's 2-0 win over Rangers on 2 January 1988?",
+    "options": [
+      "Andy Walker",
+      "Paul McStay",
+      "Brian McClair",
+      "Frank McAvennie"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "1988",
+      "Frank McAvennie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which assistant referee resigned after the rescinded Celtic penalty at Tannadice in 2010?",
+    "options": [
+      "Steven Craven",
+      "Willie Collum",
+      "Craig Thomson",
+      "Iain Brines"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "Dougie McDonald",
+      "2010"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which SFA head of referee development left in 2010 over an offensive email about the Pope?",
+    "options": [
+      "Dougie McDonald",
+      "Hugh Dallas",
+      "Stewart Regan",
+      "Kenny Clark"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Hugh Dallas",
+      "2010"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Which Rangers player was also sent off at Celtic Park in May 1999, along with Mahe and Riseth?",
+    "options": [
+      "Jorg Albertz",
+      "Neil McCann",
+      "Rod Wallace",
+      "Claudio Reyna"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "1999",
+      "Rod Wallace"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which of these clubs was NOT one of the \"Big Five\" behind the 1992 Super League breakaway plan?",
+    "options": [
+      "Hearts",
+      "Aberdeen",
+      "Dundee United",
+      "Hibernian"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "Scottish Super League",
+      "1992"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which Celtic chairman told the Celtic View in 1992 \"I hope the Super League never happens\"?",
+    "options": [
+      "Kevin Kelly",
+      "Jack McGinn",
+      "Desmond White",
+      "Fergus McCann"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "Scottish Super League",
+      "1992"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which section of Celtic Park, home to the Green Brigade, did the club close in August 2013?",
+    "options": [
+      "Section 101",
+      "Section 111",
+      "Section 442",
+      "Section 120"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Green Brigade",
+      "Section 111",
+      "2013"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-campaigns",
+    "difficulty": 3,
+    "question": "Celtic reopened Section 111 in 2013 just before a Champions League qualifier against which club?",
+    "options": [
+      "Elfsborg",
+      "Cliftonville",
+      "Shakhtar Karagandy",
+      "KR Reykjavik"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "Green Brigade",
+      "Section 111",
+      "2013"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-campaigns",
+    "difficulty": 3,
+    "question": "After UEFA re-drew the 1968-69 European Cup first round, Celtic faced which French club?",
+    "options": [
+      "Nantes",
+      "Marseille",
+      "Lyon",
+      "St Etienne"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "1968",
+      "St Etienne"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which Celtic player's 2020 quarantine breach after a trip to Spain led to games being postponed?",
+    "options": [
+      "Boli Bolingoli",
+      "Kristoffer Ajer",
+      "Ryan Christie",
+      "Callum McGregor"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "Coronavirus",
+      "2020"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Celtic's first game with VAR was a 2019 friendly against which Swiss club?",
+    "options": [
+      "FC Basel",
+      "St Gallen",
+      "Young Boys",
+      "FC Zurich"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "VAR",
+      "2019"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "In 1941 the SFA closed Celtic Park for how long after crowd trouble at Ibrox?",
+    "options": [
+      "A week",
+      "A fortnight",
+      "A month",
+      "A whole season"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "1941"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Celtic had two players sent off in a 1946 Victory Cup semi-final replay against which club?",
+    "options": [
+      "Hibernian",
+      "Aberdeen",
+      "Hearts",
+      "Rangers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "Victory Cup",
+      "1946"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Which Celtic chairman led the club's defence in the 1952 flag dispute with the SFA?",
+    "options": [
+      "Bob Kelly",
+      "Tom White",
+      "Desmond White",
+      "Willie Maley"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "1952",
+      "Flag"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "In 1896 Celtic sent a delegation to the Irish Race Convention in which city?",
+    "options": [
+      "Belfast",
+      "Dublin",
+      "Cork",
+      "London"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Irish Race Convention",
+      "1896"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-campaigns",
+    "difficulty": 4,
+    "question": "Which Celtic player missed a penalty in the 3-0 win over Rapid Vienna in 1984?",
+    "options": [
+      "Tommy Burns",
+      "Brian McClair",
+      "Peter Grant",
+      "Murdo MacLeod"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "Rapid Vienna",
+      "1984"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-campaigns",
+    "difficulty": 4,
+    "question": "Which Celtic player was punched by Rapid Vienna's Reinhard Kienast in 1984?",
+    "options": [
+      "Paul McStay",
+      "Roy Aitken",
+      "Davie Provan",
+      "Tommy Burns"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "Rapid Vienna",
+      "1984"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who refereed the 1909 Scottish Cup Final replay that ended in a riot?",
+    "options": [
+      "J.B. Stark",
+      "Tom Dougray",
+      "Peter Craigmyle",
+      "Matthew Dale"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "1909 Scottish Cup Final",
+      "Riot"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "In which year did the Offensive Behaviour at Football Act receive Royal Assent?",
+    "options": [
+      "2010",
+      "2012",
+      "2014",
+      "2016"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Offensive Behaviour at Football Act"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Which senior police officer's proposed security job at Celtic sparked fan protests in 2021?",
+    "options": [
+      "Iain Livingstone",
+      "Steve House",
+      "Bernard Higgins",
+      "Mark Hargreaves"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "Bernard Higgins",
+      "2021"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which Sunday Herald columnist's \"bead-rattling\" remark about Celtic led to an apology in 2008?",
+    "options": [
+      "Graham Spiers",
+      "Hugh Keevins",
+      "Jim Traynor",
+      "Kenny Hodgart"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "Bead-rattlers",
+      "2008"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which Labour MSP brought the bill that repealed the Offensive Behaviour at Football Act?",
+    "options": [
+      "James Kelly",
+      "Anas Sarwar",
+      "Jackie Baillie",
+      "Neil Bibby"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "Offensive Behaviour at Football Act"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which Rangers chairman voted with Celtic during the 1952 flag dispute at the SFA?",
+    "options": [
+      "Bill Struth",
+      "John Wilson",
+      "John Lawrence",
+      "Willie Waddell"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "1952",
+      "Flag"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "european-campaigns",
+    "difficulty": 5,
+    "question": "In Copenhagen in 2020, Fraser Forster saved a VAR-awarded penalty from which player?",
+    "options": [
+      "Dame N'Doye",
+      "Pep Biel",
+      "Jens Stage",
+      "Viktor Fischer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "VAR",
+      "2020",
+      "Fraser Forster"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "George Paterson and which other Celtic player were sent off in the 1946 Victory Cup semi-final replay?",
+    "options": [
+      "Bobby Hogg",
+      "Jimmy Delaney",
+      "Malcolm MacDonald",
+      "Jimmy Mallan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Incidents and Controversies",
+      "Victory Cup",
+      "1946"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Who refereed the 1946 Victory Cup semi-final replay in which two Celtic players were sent off?",
+    "options": [
+      "Matthew Dale",
+      "Peter Craigmyle",
+      "Jack Mowat",
+      "Bobby Calder"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Incidents and Controversies",
+      "Victory Cup",
+      "1946"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-park",
+    "difficulty": 5,
+    "question": "Which old stand was being demolished when fire broke out at Celtic Park in March 1929?",
+    "options": [
+      "The Jungle",
+      "The Grant Stand",
+      "The Rangers End",
+      "The Celtic End"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Incidents and Controversies",
+      "Fire",
+      "1929"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which Celtic president led the club's delegation to the 1896 Irish Race Convention?",
+    "options": [
+      "Willie Maley",
+      "James McKay",
+      "John Glass",
+      "James Kelly"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Incidents and Controversies",
+      "Irish Race Convention",
+      "1896"
+    ],
+    "source": "manual"
+  }
+]

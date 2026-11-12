@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#06100B">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="European Cup">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="assets/img/icon-180.png">
+  <title>Who Wants To Win The European Cup · Celtic Edition</title>
+  <meta name="description" content="Guide Celtic through a European campaign in this football knowledge tournament.">
+  <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800;900&display=swap">
+  <link rel="stylesheet" href="css/tokens.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/animations.css">
+  <link rel="stylesheet" href="css/game.css">
+  <link rel="stylesheet" href="css/chrome.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container">
+      <a class="brand" href="#home" aria-label="Home">
+        <img class="brand-mark" src="assets/img/logo.svg" alt="" width="32" height="32">
+        <span class="brand-text">
+          <span class="brand-title">Who Wants To Win The European Cup</span>
+          <span class="brand-sub">Celtic Edition</span>
+        </span>
+      </a>
+      <div class="topbar-actions" id="topbar-extra"></div>
+    </div>
+  </header>
+
+  <main id="app" class="container" tabindex="-1">
+    <p class="muted" style="text-align:center;padding:64px 0">Floodlights warming up…</p>
+  </main>
+
+  <div id="live" class="sr-only" aria-live="assertive"></div>
+  <noscript><p style="text-align:center;color:#C8D0CA">This game needs JavaScript turned on.</p></noscript>
+  <script>
+    // Opened by double-clicking: browsers won't run the game's modules from a file, so explain what to do.
+    if (location.protocol === 'file:') {
+      document.getElementById('app').innerHTML =
+        '<section class="card notice"><span class="eyebrow">Kick-off delayed</span>' +
+        '<h1>Open this through Live Server</h1>' +
+        '<p>This page was opened straight from a file, so the browser won\'t load the game.</p>' +
+        '<p>In VS Code, right-click <code>index.html</code> and choose <strong>Open with Live Server</strong>.</p></section>';
+    }
+  </script>
+  <script type="module" src="js/game/main.js"></script>
+</body>
+</html>

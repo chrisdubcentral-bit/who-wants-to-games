@@ -1,0 +1,628 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Which Celtic-supporting Glasgow comedian starred alongside Judi Dench in the film \"Mrs Brown\"?",
+    "options": [
+      "Billy Connolly",
+      "Frankie Boyle",
+      "Kevin Bridges",
+      "Rab C. Nesbitt"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Famous fans",
+      "Billy Connolly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Which Boyzone singer is a well-known Celtic fan?",
+    "options": [
+      "Shane Lynch",
+      "Stephen Gately",
+      "Ronan Keating",
+      "Keith Duffy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Famous fans",
+      "Ronan Keating"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Which rock star was filmed in tears at Celtic Park after Celtic beat Barcelona in 2012?",
+    "options": [
+      "Mick Jagger",
+      "Rod Stewart",
+      "Elton John",
+      "Noel Gallagher"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Famous fans",
+      "Rod Stewart",
+      "Barcelona",
+      "2012"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "What nickname is Celtic-supporting comedian Billy Connolly known by?",
+    "options": [
+      "The Big Man",
+      "The Glasgow Kid",
+      "The Funny Bhoy",
+      "The Big Yin"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Famous fans",
+      "Billy Connolly",
+      "Nickname"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Which Scottish actor, star of \"300\" and \"Olympus Has Fallen\", is a famous Celtic fan?",
+    "options": [
+      "James McAvoy",
+      "Gerard Butler",
+      "Ewan McGregor",
+      "Robert Carlyle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Famous fans",
+      "Gerard Butler"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Which Clydebank-born comedian is a passionate Celtic supporter?",
+    "options": [
+      "Kevin Bridges",
+      "Limmy",
+      "Frankie Boyle",
+      "Danny Bhoy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Famous fans",
+      "Kevin Bridges"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Which Scottish singer of \"Someone You Loved\" is a Celtic fan?",
+    "options": [
+      "Paolo Nutini",
+      "Tom Walker",
+      "Lewis Capaldi",
+      "Calvin Harris"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Famous fans",
+      "Lewis Capaldi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which former Manchester United captain joined his boyhood club Celtic in 2005?",
+    "options": [
+      "Bryan Robson",
+      "Steve Bruce",
+      "Gary Neville",
+      "Roy Keane"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Famous fans",
+      "Roy Keane",
+      "Boyhood fan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Which stand at Celtic Park is named after the 1967 European Cup winners?",
+    "options": [
+      "The Lisbon Lions Stand",
+      "The Jock Stein Stand",
+      "The Paradise Stand",
+      "The Lennox Stand"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Famous fans",
+      "Lisbon Lions",
+      "Celtic Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which Simple Minds frontman is a lifelong Celtic fan?",
+    "options": [
+      "Jim Kerr",
+      "Charlie Burchill",
+      "Marti Pellow",
+      "Fran Healy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Famous fans",
+      "Jim Kerr",
+      "Simple Minds"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which Celtic-supporting comedian became famous as a panellist on \"Mock the Week\"?",
+    "options": [
+      "Kevin Bridges",
+      "Frankie Boyle",
+      "Billy Connolly",
+      "Limmy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Famous fans",
+      "Frankie Boyle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which multiple world snooker champion from Wishaw is a well-known Celtic fan?",
+    "options": [
+      "Stephen Hendry",
+      "Graeme Dott",
+      "Stephen Maguire",
+      "John Higgins"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Famous fans",
+      "John Higgins",
+      "Snooker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which Irish striker described his 2010 loan move to Celtic as a boyhood dream come true?",
+    "options": [
+      "Shane Long",
+      "Kevin Doyle",
+      "Robbie Keane",
+      "Damien Duff"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Famous fans",
+      "Robbie Keane",
+      "Boyhood fan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "What did thousands of Celtic fans famously do at the final whistle in Lisbon in 1967?",
+    "options": [
+      "Left before the trophy presentation",
+      "Invaded the pitch",
+      "Sang the Italian anthem",
+      "Booed the referee"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Famous fans",
+      "Lisbon",
+      "1967",
+      "Fans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which Celtic legend famously supported Rangers as a boy?",
+    "options": [
+      "Kenny Dalglish",
+      "Paul McStay",
+      "Tommy Burns",
+      "Billy McNeill"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Famous fans",
+      "Kenny Dalglish",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Brendan Rodgers grew up a Celtic fan in which country?",
+    "options": [
+      "Republic of Ireland",
+      "Scotland",
+      "Northern Ireland",
+      "England"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Famous fans",
+      "Brendan Rodgers",
+      "Boyhood fan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Roughly how many Celtic fans travelled to Seville for the 2003 UEFA Cup Final?",
+    "options": [
+      "10,000",
+      "25,000",
+      "40,000",
+      "80,000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Famous fans",
+      "Seville",
+      "2003",
+      "Fans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which Irish businessman is Celtic's largest shareholder?",
+    "options": [
+      "Michael O'Leary",
+      "Dermot Desmond",
+      "Denis O'Brien",
+      "Fergus McCann"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Famous fans",
+      "Dermot Desmond",
+      "Shareholders"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Celtic fans were praised for their behaviour in Seville in 2003, winning Fair Play awards from UEFA and which other body?",
+    "options": [
+      "The Scottish FA",
+      "FIFA",
+      "The United Nations",
+      "The Spanish FA"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Famous fans",
+      "Seville",
+      "2003",
+      "Fair Play"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "What is the name of the Celtic anthem that begins \"Hail! Hail! The Celts are here\"?",
+    "options": [
+      "The Celtic Song",
+      "The Fields of Athenry",
+      "Willie Maley",
+      "The Celtic Symphony"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Famous fans",
+      "Songs",
+      "Fans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "managers",
+    "difficulty": 4,
+    "question": "Which Celtic manager famously said \"Football without fans is nothing\"?",
+    "options": [
+      "Martin O'Neill",
+      "Billy McNeill",
+      "Willie Maley",
+      "Jock Stein"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Famous fans",
+      "Jock Stein",
+      "Quotes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which left-back, born on the Isle of Man, grew up a Celtic fan before starring for the club?",
+    "options": [
+      "Greg Taylor",
+      "Kieran Tierney",
+      "Emilio Izaguirre",
+      "Lee Naylor"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Famous fans",
+      "Kieran Tierney",
+      "Boyhood fan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Like Kenny Dalglish, which Celtic legend supported Rangers as a boy?",
+    "options": [
+      "Danny McGrain",
+      "Jimmy Johnstone",
+      "Bobby Lennox",
+      "Paul McStay"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Famous fans",
+      "Danny McGrain",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Celtic fan Rod Stewart's father came from which Scottish city?",
+    "options": [
+      "Glasgow",
+      "Aberdeen",
+      "Edinburgh",
+      "Dundee"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Famous fans",
+      "Rod Stewart",
+      "Edinburgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Celtic-supporting band Simple Minds had a US number one with which song?",
+    "options": [
+      "Alive and Kicking",
+      "Belfast Child",
+      "Waterfront",
+      "Don't You (Forget About Me)"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Famous fans",
+      "Simple Minds",
+      "Jim Kerr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Neil Lennon grew up supporting Celtic in which Northern Irish town?",
+    "options": [
+      "Lurgan",
+      "Portadown",
+      "Newry",
+      "Armagh"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Famous fans",
+      "Neil Lennon",
+      "Boyhood fan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which Irish folk band recorded \"Celtic Symphony\" for the club's centenary in 1988?",
+    "options": [
+      "The Dubliners",
+      "The Wolfe Tones",
+      "The Pogues",
+      "The Fureys"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Famous fans",
+      "Songs",
+      "Centenary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Before becoming a Hollywood actor, Celtic fan Gerard Butler trained for which career?",
+    "options": [
+      "Teaching",
+      "Medicine",
+      "Law",
+      "Journalism"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Famous fans",
+      "Gerard Butler"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Before comedy, Celtic fan Billy Connolly worked in the Glasgow shipyards as what?",
+    "options": [
+      "An electrician",
+      "A joiner",
+      "A crane driver",
+      "A welder"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Famous fans",
+      "Billy Connolly",
+      "Shipyards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Celtic fan Rod Stewart was born in which city?",
+    "options": [
+      "London",
+      "Glasgow",
+      "Edinburgh",
+      "Manchester"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Famous fans",
+      "Rod Stewart"
+    ],
+    "source": "manual"
+  }
+]

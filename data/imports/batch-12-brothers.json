@@ -1,0 +1,217 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Kolo Toure, who played for Celtic in 2016-17, is the older brother of which Manchester City star?",
+    "options": [
+      "Didier Drogba",
+      "Yaya Toure",
+      "Gervinho",
+      "Salomon Kalou"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Brothers",
+      "Kolo Toure",
+      "Yaya Toure"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which of Paul McStay's brothers also played for Celtic in the 1980s?",
+    "options": [
+      "Willie McStay",
+      "Jimmy McStay",
+      "Peter McStay",
+      "Tommy McStay"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Brothers",
+      "Paul McStay",
+      "Willie McStay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Victor Wanyama's older brother McDonald Mariga won the 2010 Champions League with which club?",
+    "options": [
+      "AC Milan",
+      "Barcelona",
+      "Inter Milan",
+      "Parma"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Brothers",
+      "Victor Wanyama",
+      "McDonald Mariga"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Celtic's founder, Brother Walfrid, was born in which Irish county?",
+    "options": [
+      "Donegal",
+      "Mayo",
+      "Cork",
+      "Sligo"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Brothers",
+      "Brother Walfrid",
+      "Founding",
+      "Ireland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Willie Maley joined Celtic in 1888 after club officials visited his family home hoping to sign whom?",
+    "options": [
+      "His father",
+      "His brother Tom",
+      "His cousin",
+      "His neighbour"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Brothers",
+      "Willie Maley",
+      "Tom Maley",
+      "Founding"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Brother Walfrid founded Celtic to raise money for which East End charity?",
+    "options": [
+      "The Poor Children's Dinner Table",
+      "The Glasgow Soup Kitchen",
+      "The East End Orphanage",
+      "The Calton Food Fund"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Brothers",
+      "Brother Walfrid",
+      "Founding",
+      "Charity"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "managers",
+    "difficulty": 5,
+    "question": "Paul McStay's great-uncle Jimmy McStay played for Celtic and later held which role at the club?",
+    "options": [
+      "Chairman",
+      "Club doctor",
+      "Manager",
+      "Groundsman"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Brothers",
+      "Jimmy McStay",
+      "McStay family"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "What was Brother Walfrid's name before he joined the Marist Brothers?",
+    "options": [
+      "John Glass",
+      "Patrick Welsh",
+      "Andrew Kerr",
+      "Andrew Kerins"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Brothers",
+      "Brother Walfrid",
+      "Founding"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Tom Maley, brother of Celtic's first manager Willie, managed which English club to FA Cup glory in 1904?",
+    "options": [
+      "Manchester City",
+      "Bradford City",
+      "Aston Villa",
+      "Sheffield Wednesday"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Brothers",
+      "Tom Maley",
+      "Willie Maley",
+      "FA Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Paul McStay's great-uncles, Jimmy and Willie McStay, both played for Celtic mainly in which decade?",
+    "options": [
+      "The 1890s",
+      "The 1920s",
+      "The 1950s",
+      "The 1970s"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Brothers",
+      "McStay family",
+      "Jimmy McStay",
+      "Willie McStay"
+    ],
+    "source": "manual"
+  }
+]

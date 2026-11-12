@@ -1,0 +1,642 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Which German sportswear brand has made Celtic's kits since 2020?",
+    "options": [
+      "Puma",
+      "Adidas",
+      "Nike",
+      "Umbro"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kit",
+      "Adidas",
+      "Kit maker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Celtic's former shirt sponsor Magners is famous for making which drink?",
+    "options": [
+      "Cider",
+      "Whisky",
+      "Lager",
+      "Stout"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kit",
+      "Magners",
+      "Sponsor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Which online betting company became Celtic's main shirt sponsor in 2015?",
+    "options": [
+      "Bet365",
+      "Paddy Power",
+      "Dafabet",
+      "William Hill"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kit",
+      "Dafabet",
+      "Sponsor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Celtic's 2012-13 kit celebrated which club anniversary?",
+    "options": [
+      "100th",
+      "150th",
+      "75th",
+      "125th"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kit",
+      "Anniversary",
+      "2012-13"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Which English brand made Celtic's kits for decades before 2005?",
+    "options": [
+      "Umbro",
+      "Admiral",
+      "Le Coq Sportif",
+      "Bukta"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kit",
+      "Umbro",
+      "Kit maker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Instead of on the back of the hooped shirt, where did Celtic traditionally display player numbers?",
+    "options": [
+      "On the socks",
+      "On the shorts",
+      "On the collar",
+      "They wore no numbers at all"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kit",
+      "Numbers",
+      "Hoops"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which lager brand sponsored the shirts of both Celtic and Rangers from 2003 to 2010?",
+    "options": [
+      "Tennent's",
+      "Stella Artois",
+      "Carling",
+      "McEwan's"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kit",
+      "Carling",
+      "Sponsor",
+      "Old Firm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which Scottish lager sponsored Celtic's shirts from 2010 to 2013?",
+    "options": [
+      "Carling",
+      "Belhaven",
+      "Caledonia Best",
+      "Tennent's"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kit",
+      "Tennent's",
+      "Sponsor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which brand made Celtic's kits in the 2016-17 Invincibles season?",
+    "options": [
+      "New Balance",
+      "Nike",
+      "Adidas",
+      "Umbro"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kit",
+      "New Balance",
+      "Kit maker",
+      "Invincibles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which year appears on the Celtic club crest?",
+    "options": [
+      "1887",
+      "1888",
+      "1890",
+      "1903"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kit",
+      "Crest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Before switching to hoops, Celtic wore what kind of green and white shirts?",
+    "options": [
+      "Quartered shirts",
+      "Halved shirts",
+      "Vertical stripes",
+      "Plain green shirts"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kit",
+      "Stripes",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which cable TV company sponsored Celtic's shirts at the turn of the millennium?",
+    "options": [
+      "Sky",
+      "Telewest",
+      "BT",
+      "NTL"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kit",
+      "NTL",
+      "Sponsor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which Irish cider brand appeared on Celtic's shirts from 2013?",
+    "options": [
+      "Magners",
+      "Bulmers",
+      "Strongbow",
+      "Kopparberg"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kit",
+      "Magners",
+      "Sponsor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which American brand took over Celtic's kit deal in 2005?",
+    "options": [
+      "Reebok",
+      "Nike",
+      "Under Armour",
+      "Warrior"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kit",
+      "Nike",
+      "Kit maker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Celtic's Warrior kits were rebranded under which sister company in 2015?",
+    "options": [
+      "Reebok",
+      "Puma",
+      "New Balance",
+      "Asics"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kit",
+      "New Balance",
+      "Warrior",
+      "Kit maker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "In which year did Celtic first wear their famous green and white hoops?",
+    "options": [
+      "1888",
+      "1895",
+      "1910",
+      "1903"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kit",
+      "Hoops",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "In which year did a sponsor's name first appear on Celtic's shirts?",
+    "options": [
+      "1984",
+      "1977",
+      "1991",
+      "1999"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kit",
+      "Sponsor",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Which brand replaced Nike as Celtic's kit maker in 2013?",
+    "options": [
+      "Kappa",
+      "Warrior",
+      "Macron",
+      "Adidas"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kit",
+      "Warrior",
+      "Kit maker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "What was missing from the front of Celtic's shirts in the 1967 European Cup Final?",
+    "options": [
+      "The hoops",
+      "The colour green",
+      "A club badge",
+      "The collar"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kit",
+      "1967",
+      "Lisbon Lions",
+      "Crest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Celtic's 1987-88 shirts carried a special badge to mark what?",
+    "options": [
+      "The Lisbon Lions' 20th anniversary",
+      "Nine in a row",
+      "A new stadium",
+      "The club's centenary"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kit",
+      "Centenary",
+      "1987-88",
+      "Crest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Which company made Celtic's kit for the 2003 UEFA Cup Final in Seville?",
+    "options": [
+      "Umbro",
+      "Nike",
+      "Adidas",
+      "Puma"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kit",
+      "Umbro",
+      "2003",
+      "Kit maker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "What colour were Celtic's very first shirts in 1888?",
+    "options": [
+      "Green",
+      "White",
+      "Black",
+      "Green and white hoops"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kit",
+      "1888",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which company was Celtic's first ever shirt sponsor, in 1984?",
+    "options": [
+      "NTL",
+      "Ford",
+      "CR Smith",
+      "Tennent's"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kit",
+      "CR Smith",
+      "Sponsor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "In which decade did the four-leaf clover crest first appear on Celtic's shirts?",
+    "options": [
+      "The 1940s",
+      "The 1950s",
+      "The 1960s",
+      "The 1970s"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kit",
+      "Crest",
+      "Four-leaf clover"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which company made Celtic's kit when they beat Barcelona 2-1 in November 2012?",
+    "options": [
+      "Nike",
+      "Umbro",
+      "Warrior",
+      "Adidas"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kit",
+      "Nike",
+      "2012",
+      "Kit maker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Whose name was on the front of Celtic's shirts during the 2016-17 Invincibles season?",
+    "options": [
+      "Magners",
+      "Dafabet",
+      "Tennent's",
+      "Carling"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kit",
+      "Dafabet",
+      "Invincibles",
+      "Sponsor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "What kind of business was CR Smith, Celtic's first shirt sponsor?",
+    "options": [
+      "A brewery",
+      "A bookmaker",
+      "A double-glazing and home improvements firm",
+      "A car dealership"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kit",
+      "CR Smith",
+      "Sponsor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which company's name was on Celtic's shirts in the 2003 UEFA Cup Final?",
+    "options": [
+      "Carling",
+      "CR Smith",
+      "Umbro",
+      "NTL"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kit",
+      "NTL",
+      "2003",
+      "Sponsor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Celtic's original 1888 shirt featured which symbol on the chest?",
+    "options": [
+      "A Celtic cross",
+      "A four-leaf clover",
+      "A shamrock",
+      "A harp"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kit",
+      "1888",
+      "History",
+      "Crest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which company made the kit Celtic wore in the 1967 European Cup Final?",
+    "options": [
+      "Bukta",
+      "Umbro",
+      "Adidas",
+      "Admiral"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kit",
+      "1967",
+      "Lisbon Lions",
+      "Kit maker"
+    ],
+    "source": "manual"
+  }
+]

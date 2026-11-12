@@ -1,0 +1,510 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-park",
+    "difficulty": 1,
+    "question": "Which Celtic Park stand is named after the manager who won the 1967 European Cup?",
+    "options": [
+      "The North Stand",
+      "The Jock Stein Stand",
+      "The Main Stand",
+      "The Lisbon Lions Stand"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Stands",
+      "Jock Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-park",
+    "difficulty": 1,
+    "question": "Which famous Celtic Park terrace, much loved by fans, was demolished in 1994?",
+    "options": [
+      "The Kop",
+      "The Shed",
+      "The Jungle",
+      "The Holte End"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "The Jungle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-park",
+    "difficulty": 1,
+    "question": "The opening ceremony of which major event was held at Celtic Park in 2014?",
+    "options": [
+      "The Commonwealth Games",
+      "The Olympic Games",
+      "The European Championships",
+      "The Rugby World Cup"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Commonwealth Games"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-park",
+    "difficulty": 1,
+    "question": "What is the Celtic Way, opened at Celtic Park in 2014?",
+    "options": [
+      "A club museum",
+      "A new stand",
+      "A statue garden",
+      "A walkway up to the stadium"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Celtic Way"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Which rock star officially opened the new North Stand at Celtic Park in 1995?",
+    "options": [
+      "Rod Stewart",
+      "Jim Kerr",
+      "Bono",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "North Stand",
+      "Rod Stewart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "In which decade did Celtic move to the current Celtic Park site?",
+    "options": [
+      "1880s",
+      "1900s",
+      "1890s",
+      "1920s"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Which Lisbon Lion officially opened the Celtic Way at Celtic Park in 2014?",
+    "options": [
+      "Bertie Auld",
+      "Billy McNeill",
+      "Bobby Lennox",
+      "Jim Craig"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Celtic Way",
+      "Billy McNeill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Why did Celtic leave their first ground for the current Celtic Park site in 1892?",
+    "options": [
+      "It burned down",
+      "It flooded",
+      "The council took the land",
+      "The rent was raised sharply"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "The current Celtic Park was built in 1892 on the site of what?",
+    "options": [
+      "A former brickyard",
+      "A railway yard",
+      "A church",
+      "A farm"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Which stand was the only part of old Celtic Park kept in the 1990s rebuild?",
+    "options": [
+      "The Jungle",
+      "The Main Stand",
+      "The Celtic End",
+      "The Rangers End"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Stands",
+      "Main Stand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which event was held to open the new Celtic Park in August 1892?",
+    "options": [
+      "A match against Rangers",
+      "A church service",
+      "The club's annual Sports Day",
+      "A brass band concert"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which English club played Celtic when the Celtic Park floodlights were first switched on?",
+    "options": [
+      "Manchester United",
+      "Arsenal",
+      "Tottenham Hotspur",
+      "Wolverhampton Wanderers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Floodlights"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "In 2019 Celtic Park hosted the final of which rugby union competition?",
+    "options": [
+      "The Pro14",
+      "The Six Nations",
+      "The Rugby World Cup",
+      "The Heineken Champions Cup"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Rugby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "In which year did the Jock Stein Stand open, completing the rebuild of Celtic Park?",
+    "options": [
+      "1995",
+      "1996",
+      "1998",
+      "2000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "Stands",
+      "Jock Stein Stand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which world championships were held at Celtic Park in 1897?",
+    "options": [
+      "Athletics",
+      "Cycling",
+      "Boxing",
+      "Wrestling"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Cycling"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which club did Celtic play in the friendly to open the new North Stand in 1995?",
+    "options": [
+      "Newcastle United",
+      "Liverpool",
+      "Manchester United",
+      "Barcelona"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "North Stand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "What is the highest confirmed attendance at Celtic Park, set against Rangers in 1938?",
+    "options": [
+      "68,000",
+      "75,000",
+      "98,000",
+      "83,500"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Attendance",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "In which year were floodlights first switched on at Celtic Park?",
+    "options": [
+      "1949",
+      "1959",
+      "1966",
+      "1971"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Floodlights"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "Celtic brought back terracing at Celtic Park in 2016 for a friendly against which club?",
+    "options": [
+      "Wolfsburg",
+      "Ajax",
+      "Porto",
+      "Lyon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Terracing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "What destroyed the Janefield Street stand and pavilion at Celtic Park in 1904?",
+    "options": [
+      "A storm",
+      "A flood",
+      "A fire",
+      "A crowd collapse"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "What was installed at Celtic Park in 1985 to keep the pitch playable in winter?",
+    "options": [
+      "Undersoil heating",
+      "A retractable roof",
+      "An artificial pitch",
+      "Pitch covers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-park",
+    "difficulty": 5,
+    "question": "What was the score when Celtic Park hosted Scotland against England in 1894?",
+    "options": [
+      "1-0",
+      "3-1",
+      "0-0",
+      "2-2"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "History",
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-park",
+    "difficulty": 5,
+    "question": "Which Celtic director built a private two-storey stand at Celtic Park in 1898?",
+    "options": [
+      "John Glass",
+      "James Grant",
+      "Willie Maley",
+      "John McLaughlin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "History",
+      "Stands"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-park",
+    "difficulty": 5,
+    "question": "In 1992 the Celtic board announced plans to move to a new stadium in which town?",
+    "options": [
+      "Motherwell",
+      "East Kilbride",
+      "Cambuslang",
+      "Hamilton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "History"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-park",
+    "difficulty": 5,
+    "question": "In which year were turnstiles first installed at Celtic Park?",
+    "options": [
+      "1888",
+      "1895",
+      "1904",
+      "1914"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "History"
+    ],
+    "source": "manual"
+  }
+]

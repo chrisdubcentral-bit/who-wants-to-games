@@ -1,0 +1,602 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Mark Viduka?",
+    "options": [
+      "Croatia",
+      "Australia",
+      "New Zealand",
+      "England"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mark Viduka",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Jason Denayer?",
+    "options": [
+      "Netherlands",
+      "France",
+      "Belgium",
+      "Luxembourg"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jason Denayer",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Erik Sviatchenko?",
+    "options": [
+      "Denmark",
+      "Ukraine",
+      "Norway",
+      "Sweden"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Erik Sviatchenko",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Aaron Mooy?",
+    "options": [
+      "New Zealand",
+      "Netherlands",
+      "South Africa",
+      "Australia"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Aaron Mooy",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Tomoki Iwata?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "China",
+      "Australia"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tomoki Iwata",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Alexandro Bernabei?",
+    "options": [
+      "Uruguay",
+      "Chile",
+      "Argentina",
+      "Spain"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alexandro Bernabei",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Andreas Hinkel?",
+    "options": [
+      "Germany",
+      "Austria",
+      "Switzerland",
+      "Netherlands"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Andreas Hinkel",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Massimo Donati?",
+    "options": [
+      "Spain",
+      "Portugal",
+      "Switzerland",
+      "Italy"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Massimo Donati",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Landry N'Guemo?",
+    "options": [
+      "Nigeria",
+      "Cameroon",
+      "Ivory Coast",
+      "Gabon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Landry N'Guemo",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nationality is Eyal Berkovic?",
+    "options": [
+      "Greece",
+      "Cyprus",
+      "Israel",
+      "Turkey"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Eyal Berkovic",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Diego Laxalt?",
+    "options": [
+      "Uruguay",
+      "Argentina",
+      "Paraguay",
+      "Chile"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Diego Laxalt",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Shane Duffy?",
+    "options": [
+      "Northern Ireland",
+      "Republic of Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shane Duffy",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Albian Ajeti?",
+    "options": [
+      "Albania",
+      "Kosovo",
+      "Austria",
+      "Switzerland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Albian Ajeti",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Vasilis Barkas?",
+    "options": [
+      "Cyprus",
+      "Bulgaria",
+      "Greece",
+      "Serbia"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Vasilis Barkas",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Patryk Klimala?",
+    "options": [
+      "Poland",
+      "Czech Republic",
+      "Slovakia",
+      "Ukraine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Patryk Klimala",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Kolo Toure?",
+    "options": [
+      "Ghana",
+      "Ivory Coast",
+      "Senegal",
+      "Cameroon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kolo Toure",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Cristian Gamboa?",
+    "options": [
+      "Honduras",
+      "Panama",
+      "Colombia",
+      "Costa Rica"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Cristian Gamboa",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Hatem Abd Elhamed?",
+    "options": [
+      "Egypt",
+      "Lebanon",
+      "Israel",
+      "Jordan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hatem Abd Elhamed",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Stefan Scepovic?",
+    "options": [
+      "Montenegro",
+      "Serbia",
+      "Croatia",
+      "Bosnia and Herzegovina"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Stefan Scepovic",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nationality is Sead Haksabanovic?",
+    "options": [
+      "Serbia",
+      "Albania",
+      "Sweden",
+      "Montenegro"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sead Haksabanovic",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Robbie Keane?",
+    "options": [
+      "Republic of Ireland",
+      "Northern Ireland",
+      "England",
+      "Scotland"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Robbie Keane",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Timothy Weah?",
+    "options": [
+      "Liberia",
+      "France",
+      "United States",
+      "Canada"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Timothy Weah",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Edson Braafheid?",
+    "options": [
+      "Suriname",
+      "Netherlands",
+      "Belgium",
+      "Germany"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Edson Braafheid",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Wakaso Mubarak?",
+    "options": [
+      "Nigeria",
+      "Togo",
+      "Ivory Coast",
+      "Ghana"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Wakaso Mubarak",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Henri Camara?",
+    "options": [
+      "Senegal",
+      "Mali",
+      "Guinea",
+      "Ivory Coast"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Henri Camara",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Moritz Jenz?",
+    "options": [
+      "Austria",
+      "Denmark",
+      "Germany",
+      "Switzerland"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Moritz Jenz",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Yosuke Ideguchi?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "China",
+      "Thailand"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yosuke Ideguchi",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Ramon Vega?",
+    "options": [
+      "Spain",
+      "Italy",
+      "Portugal",
+      "Switzerland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ramon Vega",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Eboue Kouassi?",
+    "options": [
+      "Ivory Coast",
+      "Ghana",
+      "Burkina Faso",
+      "Guinea"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Eboue Kouassi",
+      "Nationality"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What nationality is Gustaf Lagerbielke?",
+    "options": [
+      "Norway",
+      "Denmark",
+      "Sweden",
+      "Finland"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Gustaf Lagerbielke",
+      "Nationality"
+    ],
+    "source": "manual"
+  }
+]

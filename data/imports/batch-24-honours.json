@@ -1,0 +1,623 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "european-campaigns",
+    "difficulty": 1,
+    "question": "In which year did Celtic reach the UEFA Cup Final in Seville?",
+    "options": [
+      "1993",
+      "2003",
+      "2008",
+      "2013"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honours",
+      "UEFA Cup",
+      "2003"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "european-campaigns",
+    "difficulty": 1,
+    "question": "In which year did Celtic finish runners-up in the European Cup?",
+    "options": [
+      "1967",
+      "1972",
+      "1970",
+      "1980"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Honours",
+      "European Cup",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "club-achievements",
+    "difficulty": 1,
+    "question": "How many times have Celtic won the European Cup?",
+    "options": [
+      "Twice",
+      "Three times",
+      "Never",
+      "Once"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Honours",
+      "European Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "club-achievements",
+    "difficulty": 1,
+    "question": "In 2017 Celtic's supporters won which FIFA award?",
+    "options": [
+      "The Best FIFA Fan Award",
+      "The FIFA Fair Play Award",
+      "The Puskas Award",
+      "The Ballon d'Or"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Honours",
+      "FIFA",
+      "Supporters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "club-achievements",
+    "difficulty": 1,
+    "question": "Which BBC award did the Lisbon Lions win in 1967?",
+    "options": [
+      "Match of the Day Team of the Season",
+      "Sports Personality Team of the Year",
+      "Goal of the Season",
+      "Overseas Personality"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honours",
+      "BBC",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "domestic-trophies",
+    "difficulty": 2,
+    "question": "Up to the end of 2025-26, how many domestic trebles had Celtic won?",
+    "options": [
+      "5",
+      "11",
+      "8",
+      "4"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Honours",
+      "Trebles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "domestic-trophies",
+    "difficulty": 2,
+    "question": "In which season did Celtic win their first domestic treble?",
+    "options": [
+      "1968-69",
+      "2000-01",
+      "1953-54",
+      "1966-67"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Honours",
+      "Trebles",
+      "1966-67"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "domestic-trophies",
+    "difficulty": 2,
+    "question": "In which season did Celtic win their first Scottish league title?",
+    "options": [
+      "1892-93",
+      "1888-89",
+      "1904-05",
+      "1910-11"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Honours",
+      "League titles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "domestic-trophies",
+    "difficulty": 2,
+    "question": "Up to the end of 2025-26, how many Scottish league titles had Celtic won?",
+    "options": [
+      "48",
+      "56",
+      "61",
+      "52"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honours",
+      "League titles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "domestic-trophies",
+    "difficulty": 2,
+    "question": "Up to 2026, how many times had Celtic won the Scottish Cup?",
+    "options": [
+      "34",
+      "38",
+      "43",
+      "49"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Honours",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "domestic-trophies",
+    "difficulty": 2,
+    "question": "Up to the end of 2025-26, how many times had Celtic won the Scottish League Cup?",
+    "options": [
+      "17",
+      "13",
+      "27",
+      "22"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Honours",
+      "League Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "domestic-trophies",
+    "difficulty": 2,
+    "question": "Celtic won four domestic trebles in a row, from 2016-17 to which season?",
+    "options": [
+      "2019-20",
+      "2018-19",
+      "2020-21",
+      "2021-22"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Honours",
+      "Trebles",
+      "Quadruple treble"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "At which stadium did Celtic win the 1938 Empire Exhibition Trophy?",
+    "options": [
+      "Hampden Park",
+      "Ibrox",
+      "Celtic Park",
+      "Wembley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honours",
+      "Empire Exhibition Trophy",
+      "1938"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Which English club did Celtic beat in the 1938 Empire Exhibition Trophy final?",
+    "options": [
+      "Sunderland",
+      "Chelsea",
+      "Everton",
+      "Brentford"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Honours",
+      "Empire Exhibition Trophy",
+      "1938"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-achievements",
+    "difficulty": 3,
+    "question": "In 1967 Celtic won a trophy named after which Real Madrid legend?",
+    "options": [
+      "Ferenc Puskas",
+      "Alfredo Di Stefano",
+      "Francisco Gento",
+      "Raymond Kopa"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honours",
+      "Alfredo Di Stefano Trophy",
+      "1967"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-achievements",
+    "difficulty": 3,
+    "question": "Which award did France Football give Celtic in 1970?",
+    "options": [
+      "European Team of the Year",
+      "Best Supporters in Europe",
+      "Club of the Century",
+      "Golden Boot"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Honours",
+      "France Football",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Celtic beat which Scottish club in the semi-final of the 1938 Empire Exhibition Trophy?",
+    "options": [
+      "Rangers",
+      "Aberdeen",
+      "Hearts",
+      "Hibernian"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Honours",
+      "Empire Exhibition Trophy",
+      "1938"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-achievements",
+    "difficulty": 3,
+    "question": "Which trophy did Celtic win in the Middle East in 1989?",
+    "options": [
+      "The Qatar Super Cup",
+      "The Abu Dhabi Trophy",
+      "The Kuwait Gold Cup",
+      "The Dubai Champions Cup"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Honours",
+      "Dubai Champions Cup",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-campaigns",
+    "difficulty": 3,
+    "question": "Which Italian club did Celtic knock out in the 1969-70 European Cup quarter-final?",
+    "options": [
+      "Inter Milan",
+      "AC Milan",
+      "Juventus",
+      "Fiorentina"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Honours",
+      "European Cup",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-achievements",
+    "difficulty": 3,
+    "question": "Which indoor six-a-side tournament did Celtic win in 1992?",
+    "options": [
+      "The Tennent Sixes",
+      "The Guinness Sixes",
+      "The Skol Sixes",
+      "The McEwan's Fives"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Honours",
+      "Tennent Sixes",
+      "1992"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Who scored Celtic's extra-time winner in the 1938 Empire Exhibition Trophy final?",
+    "options": [
+      "John Divers",
+      "Johnny Crum",
+      "Malcolm MacDonald",
+      "Jimmy Delaney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honours",
+      "Empire Exhibition Trophy",
+      "Johnny Crum"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-campaigns",
+    "difficulty": 4,
+    "question": "Celtic reached the European Cup semi-finals in 1971-72 and in which other 1970s season?",
+    "options": [
+      "1970-71",
+      "1975-76",
+      "1973-74",
+      "1977-78"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Honours",
+      "European Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Which English club did Celtic beat in a replay in the 1938 Empire Exhibition Trophy quarter-final?",
+    "options": [
+      "Chelsea",
+      "Sunderland",
+      "Brentford",
+      "Everton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honours",
+      "Empire Exhibition Trophy",
+      "1938"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "domestic-trophies",
+    "difficulty": 4,
+    "question": "How many times have Celtic won the Glasgow Cup?",
+    "options": [
+      "29",
+      "19",
+      "39",
+      "12"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Honours",
+      "Glasgow Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Who scored Celtic's second goal near the end of the 1953 Coronation Cup final?",
+    "options": [
+      "Bobby Collins",
+      "Jimmy Walsh",
+      "Charlie Tully",
+      "Bertie Peacock"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honours",
+      "Coronation Cup",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-campaigns",
+    "difficulty": 4,
+    "question": "Which Lithuanian club did Celtic beat at the start of their 2002-03 UEFA Cup run?",
+    "options": [
+      "Zalgiris Vilnius",
+      "Kaunas",
+      "Suduva",
+      "Ekranas"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Honours",
+      "UEFA Cup",
+      "2003"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Roughly how many fans watched Celtic win the 1953 Coronation Cup final?",
+    "options": [
+      "65,000",
+      "82,000",
+      "97,000",
+      "117,000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Honours",
+      "Coronation Cup",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "In which year did Celtic win the Glasgow Cup for the last time?",
+    "options": [
+      "1982",
+      "1967",
+      "1991",
+      "1975"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Honours",
+      "Glasgow Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-achievements",
+    "difficulty": 5,
+    "question": "Which trophy did Celtic win in 1918, raising money for the war effort?",
+    "options": [
+      "The Victory Cup",
+      "The Navy and Army War Fund Shield",
+      "The Red Cross Cup",
+      "The King's Cup"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honours",
+      "War Fund Shield",
+      "1918"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-achievements",
+    "difficulty": 5,
+    "question": "Which one-off trophy did Celtic win in 1945 to mark the end of the war in Europe?",
+    "options": [
+      "The Liberation Cup",
+      "The Peace Shield",
+      "The Victory in Europe Cup",
+      "The Allied Trophy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Honours",
+      "Victory in Europe Cup",
+      "1945"
+    ],
+    "source": "manual"
+  }
+]

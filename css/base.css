@@ -1,0 +1,72 @@
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  min-height: 100dvh;
+  background-color: var(--bg-main);
+  /* Floodlight glow from the top corners */
+  background-image:
+    radial-gradient(ellipse 60% 45% at 8% -8%, rgba(224, 194, 122, 0.10), transparent 70%),
+    radial-gradient(ellipse 60% 45% at 92% -8%, rgba(224, 194, 122, 0.10), transparent 70%),
+    radial-gradient(ellipse 90% 60% at 50% 115%, rgba(20, 107, 76, 0.22), transparent 70%);
+  background-attachment: fixed;
+  color: var(--grey-light);
+  font-family: var(--font-body);
+  font-size: var(--fs-md);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  color: var(--white);
+  margin: 0;
+  line-height: 1.15;
+  letter-spacing: 0.02em;
+}
+
+p { margin: 0; }
+
+a { color: var(--gold-bright); }
+
+button, input, select, textarea { font: inherit; color: inherit; }
+
+button { cursor: pointer; }
+
+/* Phones: no 300ms tap delay or double-tap zoom on controls, no grey tap flash */
+button, a, .answer { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+
+:focus-visible {
+  outline: 2px solid var(--gold-bright);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 1160px;
+  margin: 0 auto;
+  padding: 0 max(var(--sp-4), env(safe-area-inset-left)) 0 max(var(--sp-4), env(safe-area-inset-right));
+}
+
+.eyebrow {
+  font-family: var(--font-display);
+  font-size: var(--fs-xs);
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold);
+}
+
+.muted { color: var(--grey-muted); }
+
+[hidden] { display: none !important; }

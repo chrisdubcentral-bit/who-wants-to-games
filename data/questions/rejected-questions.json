@@ -1,0 +1,539 @@
+{
+  "schemaVersion": 1,
+  "collection": "rejected",
+  "updatedAt": "2026-11-12T23:16:11.790Z",
+  "questions": [
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "opponents",
+      "difficulty": 3,
+      "question": "Which Rangers winger suffered racist abuse on his first Old Firm visit to Celtic Park in January 1988?",
+      "options": [
+        "Ian Durrant",
+        "Davie Cooper",
+        "Mark Walters",
+        "Ray Wilkins"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Incidents and Controversies",
+        "1988",
+        "Mark Walters"
+      ],
+      "source": "manual",
+      "id": "q_000875",
+      "status": "rejected",
+      "createdAt": "2026-11-12T21:07:27.149Z",
+      "updatedAt": "2026-11-12T21:46:41.913Z",
+      "review": {
+        "reviewedAt": "2026-11-12T21:46:41.912Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not good content for a Celtic site"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "domestic-trophies",
+      "difficulty": 5,
+      "question": "In which year did Celtic win the Glasgow Cup for the last time?",
+      "options": [
+        "1982",
+        "1967",
+        "1991",
+        "1975"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Honours",
+        "Glasgow Cup"
+      ],
+      "source": "manual",
+      "id": "q_000851",
+      "status": "rejected",
+      "createdAt": "2026-11-12T20:46:10.258Z",
+      "updatedAt": "2026-11-12T21:41:35.860Z",
+      "review": {
+        "reviewedAt": "2026-11-12T21:41:35.860Z",
+        "rejectionReason": "Factually Incorrect",
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "club-achievements",
+      "difficulty": 1,
+      "question": "In 2017 Celtic's supporters won which FIFA award?",
+      "options": [
+        "The Best FIFA Fan Award",
+        "The FIFA Fair Play Award",
+        "The Puskas Award",
+        "The Ballon d'Or"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Honours",
+        "FIFA",
+        "Supporters"
+      ],
+      "source": "manual",
+      "id": "q_000827",
+      "status": "rejected",
+      "createdAt": "2026-11-12T20:46:10.258Z",
+      "updatedAt": "2026-11-12T21:36:47.005Z",
+      "review": {
+        "reviewedAt": "2026-11-12T21:36:47.005Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "The first issue of fanzine The Thunder went on sale in 2012 before a match against which team?",
+      "options": [
+        "Ross County",
+        "Inverness Caledonian Thistle",
+        "St Mirren",
+        "Motherwell"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Fanzines",
+        "The Thunder"
+      ],
+      "source": "manual",
+      "id": "q_000688",
+      "status": "rejected",
+      "createdAt": "2026-11-12T19:27:21.551Z",
+      "updatedAt": "2026-11-12T19:45:57.649Z",
+      "review": {
+        "reviewedAt": "2026-11-12T19:45:57.649Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Too obscure"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "CQN Magazine was first released under which name, changed for copyright reasons?",
+      "options": [
+        "Quick News",
+        "CQ Magazine",
+        "The Hoops Review",
+        "Celtic Weekly"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Fanzines",
+        "CQN Magazine"
+      ],
+      "source": "manual",
+      "id": "q_000683",
+      "status": "rejected",
+      "createdAt": "2026-11-12T19:27:21.551Z",
+      "updatedAt": "2026-11-12T19:44:51.663Z",
+      "review": {
+        "reviewedAt": "2026-11-12T19:44:51.663Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": "Not a great website"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "celtic-history",
+      "difficulty": 1,
+      "question": "CQN Magazine grew out of which long-running Celtic blog?",
+      "options": [
+        "Kerrydale Street",
+        "Celtic Underground",
+        "Celtic Quick News",
+        "E-Tims"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Fanzines",
+        "CQN Magazine",
+        "Celtic Quick News"
+      ],
+      "source": "manual",
+      "id": "q_000675",
+      "status": "rejected",
+      "createdAt": "2026-11-12T19:27:21.551Z",
+      "updatedAt": "2026-11-12T19:42:40.525Z",
+      "review": {
+        "reviewedAt": "2026-11-12T19:42:40.525Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not the best website"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Swedish defender Johan Mjallby was nicknamed after which action film star?",
+      "options": [
+        "Arnold Schwarzenegger",
+        "Sylvester Stallone",
+        "Jean-Claude Van Damme",
+        "Dolph Lundgren"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Nicknames",
+        "Johan Mjallby"
+      ],
+      "source": "manual",
+      "id": "q_000659",
+      "status": "rejected",
+      "createdAt": "2026-11-12T19:23:07.009Z",
+      "updatedAt": "2026-11-12T19:41:07.195Z",
+      "review": {
+        "reviewedAt": "2026-11-12T19:41:07.195Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_000634",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "Which brand replaced Nike as Celtic's kit maker in 2013?",
+      "options": [
+        "Kappa",
+        "Warrior",
+        "Macron",
+        "Adidas"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Kit",
+        "Warrior",
+        "Kit maker"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-11T11:40:29.058Z",
+      "updatedAt": "2026-11-11T11:46:33.102Z",
+      "review": {
+        "reviewedAt": "2026-11-11T11:46:33.102Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not sure about this one."
+      }
+    },
+    {
+      "id": "q_000631",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "Celtic's Warrior kits were rebranded under which sister company in 2015?",
+      "options": [
+        "Reebok",
+        "Puma",
+        "New Balance",
+        "Asics"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Kit",
+        "New Balance",
+        "Warrior",
+        "Kit maker"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-11T11:40:29.058Z",
+      "updatedAt": "2026-11-11T11:45:56.626Z",
+      "review": {
+        "reviewedAt": "2026-11-11T11:45:56.626Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not sure about this one."
+      }
+    },
+    {
+      "id": "q_000629",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "Which Irish cider brand appeared on Celtic's shirts from 2013?",
+      "options": [
+        "Magners",
+        "Bulmers",
+        "Strongbow",
+        "Kopparberg"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Kit",
+        "Magners",
+        "Sponsor"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-11T11:40:29.058Z",
+      "updatedAt": "2026-11-11T11:45:27.638Z",
+      "review": {
+        "reviewedAt": "2026-11-11T11:45:27.638Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_000610",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "Ryan Giggs' 2001 testimonial at Old Trafford was against which club?",
+      "options": [
+        "Celtic",
+        "Rangers",
+        "Juventus",
+        "Real Madrid"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Testimonials",
+        "Ryan Giggs",
+        "2001",
+        "Old Trafford"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-11T10:52:26.706Z",
+      "updatedAt": "2026-11-11T10:59:09.054Z",
+      "review": {
+        "reviewedAt": "2026-11-11T10:59:09.054Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Too obvious"
+      }
+    },
+    {
+      "id": "q_000587",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Which Irish striker described his 2010 loan move to Celtic as a boyhood dream come true?",
+      "options": [
+        "Shane Long",
+        "Kevin Doyle",
+        "Robbie Keane",
+        "Damien Duff"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Famous fans",
+        "Robbie Keane",
+        "Boyhood fan"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-11T10:28:16.899Z",
+      "updatedAt": "2026-11-11T10:41:53.529Z",
+      "review": {
+        "reviewedAt": "2026-11-11T10:41:53.529Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not liked at Celtic Park due to his links with Israel"
+      }
+    },
+    {
+      "id": "q_000523",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "opponents",
+      "difficulty": 1,
+      "question": "What is the main colour of Rangers' home shirts?",
+      "options": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Rangers",
+        "Colours"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-11T09:50:26.183Z",
+      "updatedAt": "2026-11-11T09:53:22.074Z",
+      "review": {
+        "reviewedAt": "2026-11-11T09:53:22.074Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Too many Rangers questions"
+      }
+    },
+    {
+      "id": "q_000462",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "Which Porto defender was also sent off in the 2003 UEFA Cup Final against Celtic?",
+      "options": [
+        "Ricardo Carvalho",
+        "Paulo Ferreira",
+        "Deco",
+        "Nuno Valente"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Sent off",
+        "2003",
+        "UEFA Cup",
+        "Porto"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-11T09:08:18.844Z",
+      "updatedAt": "2026-11-11T09:22:03.117Z",
+      "review": {
+        "reviewedAt": "2026-11-11T09:22:03.117Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": "Duplicate"
+      }
+    },
+    {
+      "id": "q_000350",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "club-achievements",
+      "difficulty": 1,
+      "question": "In 1967, Celtic became the first club from which country to win the European Cup?",
+      "options": [
+        "England",
+        "Wales",
+        "Scotland",
+        "Northern Ireland"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "European Cup",
+        "1967",
+        "Lisbon Lions"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-11T07:59:38.107Z",
+      "updatedAt": "2026-11-11T08:04:25.618Z",
+      "review": {
+        "reviewedAt": "2026-11-11T08:04:25.618Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Too easy"
+      }
+    },
+    {
+      "id": "q_000337",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "opponents",
+      "difficulty": 1,
+      "question": "What is the name given to matches between Celtic and Rangers?",
+      "options": [
+        "The Merseyside derby",
+        "The Edinburgh derby",
+        "The New Firm",
+        "The Old Firm"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Old Firm",
+        "Rangers"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-11T07:59:38.107Z",
+      "updatedAt": "2026-11-11T08:03:06.355Z",
+      "review": {
+        "reviewedAt": "2026-11-11T08:03:06.355Z",
+        "rejectionReason": "Factually Incorrect",
+        "rejectionNote": "Rangers died so there is no longer a game called the old firm"
+      }
+    },
+    {
+      "id": "q_000201",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "Who scored the winning goal for Celtic in the 1967 European Cup Final?",
+      "options": [
+        "Stevie Chalmers",
+        "Tommy Gemmell",
+        "Bertie Auld",
+        "Bobby Murdoch"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "European Cup",
+        "1967"
+      ],
+      "source": "seed",
+      "status": "rejected",
+      "createdAt": "2026-11-10T12:00:00Z",
+      "updatedAt": "2026-11-10T12:00:00Z",
+      "review": {
+        "reviewedAt": "2026-11-10T12:00:00Z",
+        "rejectionReason": "Incorrect Answer",
+        "rejectionNote": "Chalmers scored the winner; Gemmell scored the equaliser."
+      }
+    },
+    {
+      "id": "q_000202",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "celtic-history",
+      "difficulty": 1,
+      "question": "Celtic are a football team that plays football in which sport?",
+      "options": [
+        "Football",
+        "Rugby",
+        "Cricket",
+        "Hockey"
+      ],
+      "correctAnswer": 0,
+      "tags": [],
+      "source": "seed",
+      "status": "rejected",
+      "createdAt": "2026-11-10T12:00:00Z",
+      "updatedAt": "2026-11-10T12:00:00Z",
+      "review": {
+        "reviewedAt": "2026-11-10T12:00:00Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": "Answer is given away in the question."
+      }
+    }
+  ]
+}

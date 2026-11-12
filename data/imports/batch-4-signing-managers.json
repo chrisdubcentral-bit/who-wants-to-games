@@ -1,0 +1,632 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Mark Viduka for Celtic?",
+    "options": [
+      "Wim Jansen",
+      "Jozef Venglos",
+      "John Barnes",
+      "Tommy Burns"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mark Viduka",
+      "Jozef Venglos",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Eyal Berkovic for Celtic?",
+    "options": [
+      "Jozef Venglos",
+      "Kenny Dalglish",
+      "Martin O'Neill",
+      "John Barnes"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Eyal Berkovic",
+      "John Barnes",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Jason Denayer for Celtic?",
+    "options": [
+      "Ronny Deila",
+      "Neil Lennon",
+      "Brendan Rodgers",
+      "Tony Mowbray"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jason Denayer",
+      "Ronny Deila",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Erik Sviatchenko for Celtic?",
+    "options": [
+      "Neil Lennon",
+      "Brendan Rodgers",
+      "Ronny Deila",
+      "Gordon Strachan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Erik Sviatchenko",
+      "Ronny Deila",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Aaron Mooy for Celtic?",
+    "options": [
+      "Brendan Rodgers",
+      "Ange Postecoglou",
+      "Neil Lennon",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Aaron Mooy",
+      "Ange Postecoglou",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Tomoki Iwata for Celtic?",
+    "options": [
+      "Neil Lennon",
+      "Brendan Rodgers",
+      "Ronny Deila",
+      "Ange Postecoglou"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tomoki Iwata",
+      "Ange Postecoglou",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Alexandro Bernabei for Celtic?",
+    "options": [
+      "Ange Postecoglou",
+      "Brendan Rodgers",
+      "Neil Lennon",
+      "Tony Mowbray"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alexandro Bernabei",
+      "Ange Postecoglou",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Andreas Hinkel for Celtic?",
+    "options": [
+      "Martin O'Neill",
+      "Gordon Strachan",
+      "Tony Mowbray",
+      "Neil Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Andreas Hinkel",
+      "Gordon Strachan",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Massimo Donati for Celtic?",
+    "options": [
+      "Tony Mowbray",
+      "Martin O'Neill",
+      "Gordon Strachan",
+      "Neil Lennon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Massimo Donati",
+      "Gordon Strachan",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which manager signed Landry N'Guemo for Celtic?",
+    "options": [
+      "Gordon Strachan",
+      "Neil Lennon",
+      "Ronny Deila",
+      "Tony Mowbray"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Landry N'Guemo",
+      "Tony Mowbray",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Marc-Antoine Fortune for Celtic?",
+    "options": [
+      "Tony Mowbray",
+      "Gordon Strachan",
+      "Neil Lennon",
+      "Martin O'Neill"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Marc-Antoine Fortune",
+      "Tony Mowbray",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Efrain Juarez for Celtic?",
+    "options": [
+      "Tony Mowbray",
+      "Neil Lennon",
+      "Gordon Strachan",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Efrain Juarez",
+      "Neil Lennon",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Cha Du-ri for Celtic?",
+    "options": [
+      "Gordon Strachan",
+      "Tony Mowbray",
+      "Neil Lennon",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cha Du-ri",
+      "Neil Lennon",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Kolo Toure for Celtic?",
+    "options": [
+      "Ronny Deila",
+      "Neil Lennon",
+      "Ange Postecoglou",
+      "Brendan Rodgers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kolo Toure",
+      "Brendan Rodgers",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Cristian Gamboa for Celtic?",
+    "options": [
+      "Brendan Rodgers",
+      "Ronny Deila",
+      "Neil Lennon",
+      "Ange Postecoglou"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cristian Gamboa",
+      "Brendan Rodgers",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Diego Laxalt for Celtic?",
+    "options": [
+      "Brendan Rodgers",
+      "Neil Lennon",
+      "Ange Postecoglou",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Diego Laxalt",
+      "Neil Lennon",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Albian Ajeti for Celtic?",
+    "options": [
+      "Ange Postecoglou",
+      "Brendan Rodgers",
+      "Neil Lennon",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Albian Ajeti",
+      "Neil Lennon",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Stefan Scepovic for Celtic?",
+    "options": [
+      "Neil Lennon",
+      "Brendan Rodgers",
+      "Tony Mowbray",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Stefan Scepovic",
+      "Ronny Deila",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Sead Haksabanovic for Celtic?",
+    "options": [
+      "Ange Postecoglou",
+      "Neil Lennon",
+      "Brendan Rodgers",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sead Haksabanovic",
+      "Ange Postecoglou",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Patryk Klimala for Celtic?",
+    "options": [
+      "Brendan Rodgers",
+      "Neil Lennon",
+      "Ange Postecoglou",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Patryk Klimala",
+      "Neil Lennon",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Henri Camara for Celtic?",
+    "options": [
+      "Gordon Strachan",
+      "John Barnes",
+      "Martin O'Neill",
+      "Kenny Dalglish"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Henri Camara",
+      "Martin O'Neill",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Ramon Vega for Celtic?",
+    "options": [
+      "John Barnes",
+      "Kenny Dalglish",
+      "Jozef Venglos",
+      "Martin O'Neill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ramon Vega",
+      "Martin O'Neill",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Robbie Keane for Celtic?",
+    "options": [
+      "Tony Mowbray",
+      "Neil Lennon",
+      "Gordon Strachan",
+      "Martin O'Neill"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Robbie Keane",
+      "Tony Mowbray",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Edson Braafheid for Celtic?",
+    "options": [
+      "Gordon Strachan",
+      "Tony Mowbray",
+      "Neil Lennon",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Edson Braafheid",
+      "Tony Mowbray",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Timothy Weah for Celtic?",
+    "options": [
+      "Neil Lennon",
+      "Ange Postecoglou",
+      "Brendan Rodgers",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Timothy Weah",
+      "Brendan Rodgers",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Wakaso Mubarak for Celtic?",
+    "options": [
+      "Neil Lennon",
+      "Brendan Rodgers",
+      "Tony Mowbray",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Wakaso Mubarak",
+      "Ronny Deila",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Moritz Jenz for Celtic?",
+    "options": [
+      "Ange Postecoglou",
+      "Brendan Rodgers",
+      "Neil Lennon",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Moritz Jenz",
+      "Ange Postecoglou",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Yosuke Ideguchi for Celtic?",
+    "options": [
+      "Neil Lennon",
+      "Ange Postecoglou",
+      "Brendan Rodgers",
+      "Ronny Deila"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yosuke Ideguchi",
+      "Ange Postecoglou",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Eboue Kouassi for Celtic?",
+    "options": [
+      "Ronny Deila",
+      "Neil Lennon",
+      "Brendan Rodgers",
+      "Ange Postecoglou"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Eboue Kouassi",
+      "Brendan Rodgers",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which manager signed Gustaf Lagerbielke for Celtic?",
+    "options": [
+      "Ange Postecoglou",
+      "Neil Lennon",
+      "Ronny Deila",
+      "Brendan Rodgers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Gustaf Lagerbielke",
+      "Brendan Rodgers",
+      "Transfers"
+    ],
+    "source": "manual"
+  }
+]

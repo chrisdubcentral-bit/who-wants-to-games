@@ -1,0 +1,637 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Who was Celtic's top scorer in 1997-98, the season they stopped ten in a row?",
+    "options": [
+      "Harald Brattbakk",
+      "Henrik Larsson",
+      "Craig Burley",
+      "Simon Donnelly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Top scorer",
+      "1997-98",
+      "Henrik Larsson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which French striker was Celtic's top scorer three seasons running, from 2018-19 to 2020-21?",
+    "options": [
+      "Moussa Dembele",
+      "Olivier Ntcham",
+      "Odsonne Edouard",
+      "Christopher Jullien"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Top scorer",
+      "2018-21",
+      "Odsonne Edouard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which Japanese forward was Celtic's top scorer in 2024-25?",
+    "options": [
+      "Daizen Maeda",
+      "Kyogo Furuhashi",
+      "Reo Hatate",
+      "Yosuke Ideguchi"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Top scorer",
+      "2024-25",
+      "Daizen Maeda"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Who was Celtic's top scorer three seasons in a row, from 2010-11 to 2012-13?",
+    "options": [
+      "Anthony Stokes",
+      "Georgios Samaras",
+      "Kris Commons",
+      "Gary Hooper"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Top scorer",
+      "2010-13",
+      "Gary Hooper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which Japanese striker was Celtic's top scorer and the SPFL's Golden Boot winner in 2022-23?",
+    "options": [
+      "Daizen Maeda",
+      "Kyogo Furuhashi",
+      "Reo Hatate",
+      "Tomoki Iwata"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Top scorer",
+      "2022-23",
+      "Kyogo Furuhashi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Who was Celtic's top scorer in 1998-99, the first season of the SPL?",
+    "options": [
+      "Henrik Larsson",
+      "Mark Viduka",
+      "Lubomir Moravcik",
+      "Harald Brattbakk"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Top scorer",
+      "1998-99",
+      "Henrik Larsson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which Welsh striker was Celtic's top scorer in both 2004-05 and 2005-06?",
+    "options": [
+      "Craig Bellamy",
+      "Chris Sutton",
+      "John Hartson",
+      "Dion Dublin"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Top scorer",
+      "2004-06",
+      "John Hartson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which Australian striker was Celtic's top scorer in both 2007-08 and 2008-09?",
+    "options": [
+      "Mark Viduka",
+      "Tim Cahill",
+      "Mile Jedinak",
+      "Scott McDonald"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Top scorer",
+      "2007-09",
+      "Scott McDonald"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which English midfielder was Celtic's top scorer and the league's Golden Boot winner in 2013-14?",
+    "options": [
+      "Kris Commons",
+      "Joe Ledley",
+      "Charlie Mulgrew",
+      "Gary Hooper"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Top scorer",
+      "2013-14",
+      "Kris Commons"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Who was Celtic's top scorer in 2015-16, Ronny Deila's final season?",
+    "options": [
+      "Kris Commons",
+      "Leigh Griffiths",
+      "Nadir Ciftci",
+      "Tom Rogic"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Top scorer",
+      "2015-16",
+      "Leigh Griffiths"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which striker was Celtic's top scorer in 1982-83 before leaving for Arsenal?",
+    "options": [
+      "Frank McGarvey",
+      "Murdo MacLeod",
+      "Charlie Nicholas",
+      "Tommy Burns"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Top scorer",
+      "1982-83",
+      "Charlie Nicholas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "With Henrik Larsson out with a broken leg, who was Celtic's top scorer in 1999-2000?",
+    "options": [
+      "Eyal Berkovic",
+      "Mark Viduka",
+      "Lubomir Moravcik",
+      "Tommy Johnson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Top scorer",
+      "1999-2000",
+      "Mark Viduka"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "How many goals did Henrik Larsson score in all competitions in the 2000-01 treble season?",
+    "options": [
+      "41",
+      "47",
+      "58",
+      "53"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Top scorer",
+      "2000-01",
+      "Henrik Larsson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Who was Celtic's top scorer in all competitions in the 2016-17 Invincibles season?",
+    "options": [
+      "Moussa Dembele",
+      "Scott Sinclair",
+      "Leigh Griffiths",
+      "Stuart Armstrong"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Top scorer",
+      "2016-17",
+      "Moussa Dembele",
+      "Invincibles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Who was Celtic's top scorer in 2002-03, the season of the UEFA Cup Final in Seville?",
+    "options": [
+      "Chris Sutton",
+      "John Hartson",
+      "Henrik Larsson",
+      "Alan Thompson"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Top scorer",
+      "2002-03",
+      "Henrik Larsson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Who finished as Celtic's top scorer in 1966-67, the Lisbon Lions season?",
+    "options": [
+      "Bobby Lennox",
+      "Willie Wallace",
+      "Jimmy Johnstone",
+      "Stevie Chalmers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Top scorer",
+      "1966-67",
+      "Stevie Chalmers",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which Celtic striker scored 35 league goals to top the scoring charts in 1986-87?",
+    "options": [
+      "Brian McClair",
+      "Mo Johnston",
+      "Alan McInally",
+      "Frank McAvennie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Top scorer",
+      "1986-87",
+      "Brian McClair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which Dutch striker was Celtic's top scorer in 1995-96?",
+    "options": [
+      "Regi Blinker",
+      "Pierre van Hooijdonk",
+      "Harald Brattbakk",
+      "Andreas Thom"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Top scorer",
+      "1995-96",
+      "Pierre van Hooijdonk"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which Portuguese striker was Celtic's top scorer in 1996-97?",
+    "options": [
+      "Paolo Di Canio",
+      "Simon Donnelly",
+      "Jorge Cadete",
+      "Andreas Thom"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Top scorer",
+      "1996-97",
+      "Jorge Cadete"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Who was Celtic's top scorer in the 1987-88 centenary double season?",
+    "options": [
+      "Frank McAvennie",
+      "Billy Stark",
+      "Paul McStay",
+      "Andy Walker"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Top scorer",
+      "1987-88",
+      "Andy Walker",
+      "Centenary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "Which Celtic striker had scored 35 goals by Christmas 1966 before injury ended his season?",
+    "options": [
+      "Joe McBride",
+      "Stevie Chalmers",
+      "John Hughes",
+      "Willie Wallace"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Top scorer",
+      "1966-67",
+      "Joe McBride"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "Brian McClair was Celtic's top scorer in every one of his seasons at the club. How many seasons was that?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Top scorer",
+      "1980s",
+      "Brian McClair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "How many goals did Leigh Griffiths score in all competitions in 2015-16?",
+    "options": [
+      "31",
+      "40",
+      "35",
+      "45"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Top scorer",
+      "2015-16",
+      "Leigh Griffiths"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "How many goals did Kyogo Furuhashi score in all competitions in 2022-23?",
+    "options": [
+      "27",
+      "30",
+      "38",
+      "34"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Top scorer",
+      "2022-23",
+      "Kyogo Furuhashi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "How many goals did Daizen Maeda score in all competitions in 2024-25?",
+    "options": [
+      "33",
+      "25",
+      "29",
+      "37"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Top scorer",
+      "2024-25",
+      "Daizen Maeda"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "How many league goals did Jimmy McGrory score in 1935-36, still a Celtic record for one season?",
+    "options": [
+      "44",
+      "47",
+      "50",
+      "53"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Top scorer",
+      "1935-36",
+      "Jimmy McGrory",
+      "Record"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "Which Lisbon Lion was Celtic's top scorer in 1967-68, scoring over 30 league goals?",
+    "options": [
+      "Willie Wallace",
+      "Bobby Lennox",
+      "Stevie Chalmers",
+      "John Hughes"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Top scorer",
+      "1967-68",
+      "Bobby Lennox"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "Who was Celtic's top scorer in 1975-76, Sean Fallon's season in charge while Jock Stein recovered from a car crash?",
+    "options": [
+      "Kenny Dalglish",
+      "Paul Wilson",
+      "Dixie Deans",
+      "Ronnie Glavin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Top scorer",
+      "1975-76",
+      "Kenny Dalglish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "How many league goals did Henrik Larsson score in 2000-01 to win the European Golden Shoe?",
+    "options": [
+      "29",
+      "32",
+      "38",
+      "35"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Top scorer",
+      "2000-01",
+      "Henrik Larsson",
+      "Golden Shoe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "How many league goals did Kris Commons score to win the Golden Boot in 2013-14?",
+    "options": [
+      "21",
+      "24",
+      "27",
+      "31"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Top scorer",
+      "2013-14",
+      "Kris Commons"
+    ],
+    "source": "manual"
+  }
+]

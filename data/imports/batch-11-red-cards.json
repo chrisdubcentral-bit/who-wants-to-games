@@ -1,0 +1,442 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "cup-finals",
+    "difficulty": 2,
+    "question": "Which Celtic defender was sent off in extra time of the 2003 UEFA Cup Final against Porto?",
+    "options": [
+      "Bobo Balde",
+      "Johan Mjallby",
+      "Joos Valgaeren",
+      "Jackie McNamara"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sent off",
+      "2003",
+      "UEFA Cup",
+      "Bobo Balde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "opponents",
+    "difficulty": 2,
+    "question": "How many Rangers players were sent off in the March 2011 Scottish Cup replay at Celtic Park, dubbed the \"shame game\"?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sent off",
+      "2011",
+      "Old Firm",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "opponents",
+    "difficulty": 2,
+    "question": "Which Rangers striker was sent off for an elbow on Scott Brown in Celtic's 2-1 win in March 2019?",
+    "options": [
+      "Jermain Defoe",
+      "Alfredo Morelos",
+      "Kyle Lafferty",
+      "Ryan Kent"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sent off",
+      "2019",
+      "Old Firm",
+      "Alfredo Morelos"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "How many Atletico Madrid players were sent off in the infamous 1974 European Cup semi-final first leg at Celtic Park?",
+    "options": [
+      "One",
+      "Two",
+      "Four",
+      "Three"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sent off",
+      "1974",
+      "Atletico Madrid",
+      "European Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Which Celtic striker was sent off in the 2001 League Cup Final, which Celtic still won 3-0 against Kilmarnock?",
+    "options": [
+      "Henrik Larsson",
+      "Chris Sutton",
+      "Neil Lennon",
+      "Bobby Petta"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sent off",
+      "2001",
+      "League Cup",
+      "Chris Sutton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Which French left-back was sent off for Celtic in the stormy Old Firm game at Celtic Park in May 1999?",
+    "options": [
+      "Marc Rieper",
+      "Tom Boyd",
+      "Stephane Mahe",
+      "Alan Stubbs"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sent off",
+      "1999",
+      "Old Firm",
+      "Stephane Mahe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Which Senegalese Rangers forward was shown a red card after the final whistle of the 2011 \"shame game\"?",
+    "options": [
+      "El Hadji Diouf",
+      "Kyle Lafferty",
+      "Nikica Jelavic",
+      "Steven Naismith"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sent off",
+      "2011",
+      "Old Firm",
+      "El Hadji Diouf"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "How many Celtic players were sent off in the 1967 Intercontinental Cup play-off against Racing Club in Montevideo?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sent off",
+      "1967",
+      "Racing Club",
+      "Battle of Montevideo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Which Porto defender was also sent off in the 2003 UEFA Cup Final against Celtic?",
+    "options": [
+      "Ricardo Carvalho",
+      "Paulo Ferreira",
+      "Deco",
+      "Nuno Valente"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sent off",
+      "2003",
+      "UEFA Cup",
+      "Porto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Which Celtic striker was sent off and later charged by police after the October 1987 Old Firm game at Ibrox?",
+    "options": [
+      "Mick McCarthy",
+      "Frank McAvennie",
+      "Roy Aitken",
+      "Andy Walker"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sent off",
+      "1987",
+      "Old Firm",
+      "Frank McAvennie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Which Algerian defender was one of the Rangers players sent off in the 2011 \"shame game\" at Celtic Park?",
+    "options": [
+      "Madjid Bougherra",
+      "Sasa Papac",
+      "David Weir",
+      "Kirk Broadfoot"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sent off",
+      "2011",
+      "Old Firm",
+      "Madjid Bougherra"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "opponents",
+    "difficulty": 4,
+    "question": "Which Celtic player famously refused to leave the pitch after being sent off against Racing Club in 1967?",
+    "options": [
+      "Jimmy Johnstone",
+      "John Hughes",
+      "Tommy Gemmell",
+      "Bertie Auld"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sent off",
+      "1967",
+      "Racing Club",
+      "Bertie Auld"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "opponents",
+    "difficulty": 4,
+    "question": "Celtic beat Rangers 2-0 in the March 1991 Scottish Cup quarter-final. How many players were sent off in total?",
+    "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sent off",
+      "1991",
+      "Old Firm",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Which Celtic right-back was sent off for conceding a penalty in the December 2019 League Cup Final against Rangers?",
+    "options": [
+      "Kristoffer Ajer",
+      "Christopher Jullien",
+      "Jeremie Frimpong",
+      "Greg Taylor"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sent off",
+      "2019",
+      "League Cup",
+      "Jeremie Frimpong"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Which Celtic forward was famously sent off in Montevideo in 1967 despite apparently doing nothing wrong?",
+    "options": [
+      "Bobby Lennox",
+      "Willie Wallace",
+      "Stevie Chalmers",
+      "Bobby Murdoch"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sent off",
+      "1967",
+      "Racing Club",
+      "Bobby Lennox"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Which Rangers captain was sent off in the October 1987 Old Firm game at Ibrox?",
+    "options": [
+      "Graham Roberts",
+      "Ally McCoist",
+      "Terry Butcher",
+      "Ian Durrant"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sent off",
+      "1987",
+      "Old Firm",
+      "Terry Butcher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Which English striker was one of the three Rangers players sent off against Celtic in the March 1991 Scottish Cup quarter-final?",
+    "options": [
+      "Ally McCoist",
+      "Gary Stevens",
+      "Maurice Johnston",
+      "Mark Hateley"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sent off",
+      "1991",
+      "Old Firm",
+      "Mark Hateley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Which Rangers goalkeeper was sent off in the October 1987 Old Firm game at Ibrox?",
+    "options": [
+      "Andy Goram",
+      "Chris Woods",
+      "Peter McCloy",
+      "Nicky Walker"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sent off",
+      "1987",
+      "Old Firm",
+      "Chris Woods"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Which Celtic player was sent off in the 2-0 win over Rangers in the March 1991 Scottish Cup quarter-final?",
+    "options": [
+      "Peter Grant",
+      "Joe Miller",
+      "Paul Elliott",
+      "Anton Rogan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sent off",
+      "1991",
+      "Old Firm",
+      "Peter Grant"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Which Norwegian, along with Stephane Mahe, was sent off for Celtic against Rangers in May 1999?",
+    "options": [
+      "Harald Brattbakk",
+      "Morten Wieghorst",
+      "Vidar Riseth",
+      "Regi Blinker"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sent off",
+      "1999",
+      "Old Firm",
+      "Vidar Riseth"
+    ],
+    "source": "manual"
+  }
+]

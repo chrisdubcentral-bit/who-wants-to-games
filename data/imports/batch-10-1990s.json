@@ -1,0 +1,625 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Which Scottish-Canadian businessman took control of Celtic in March 1994, saving the club from bankruptcy?",
+    "options": [
+      "Dermot Desmond",
+      "Fergus McCann",
+      "Brian Dempsey",
+      "Kevin Kelly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1990s",
+      "Fergus McCann",
+      "Takeover"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Where did Celtic play their home games in 1994-95 while Celtic Park was being rebuilt?",
+    "options": [
+      "Hampden Park",
+      "Ibrox",
+      "Firhill",
+      "Fir Park"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1990s",
+      "Hampden Park",
+      "Celtic Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "What nickname was given to Celtic captain Paul McStay?",
+    "options": [
+      "Caesar",
+      "Jinky",
+      "The Maestro",
+      "The Big Man"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1990s",
+      "Paul McStay",
+      "Nickname"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Pierre van Hooijdonk, Jorge Cadete and Paolo Di Canio were together known as what?",
+    "options": [
+      "The Three Musketeers",
+      "The Holy Trinity",
+      "The Famous Three",
+      "The Three Amigos"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1990s",
+      "Three Amigos"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Who was Celtic's director of football when John Barnes was appointed head coach in 1999?",
+    "options": [
+      "Kenny Dalglish",
+      "Tommy Burns",
+      "Jock Brown",
+      "Murdo MacLeod"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1990s",
+      "Kenny Dalglish",
+      "John Barnes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Which First Division club beat Celtic on penalties in the 1994 League Cup Final?",
+    "options": [
+      "Airdrieonians",
+      "Dunfermline",
+      "Raith Rovers",
+      "Falkirk"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1990s",
+      "League Cup",
+      "1994"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Who became the first Celtic manager never to have played for the club when he was appointed in 1991?",
+    "options": [
+      "Lou Macari",
+      "Liam Brady",
+      "Tommy Burns",
+      "Wim Jansen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1990s",
+      "Liam Brady"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Who was Celtic manager when Fergus McCann took control of the club in 1994?",
+    "options": [
+      "Liam Brady",
+      "Tommy Burns",
+      "Billy McNeill",
+      "Lou Macari"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1990s",
+      "Lou Macari"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Before becoming Celtic manager in 1997, Wim Jansen had played against Celtic in which match?",
+    "options": [
+      "The 1970 European Cup Final",
+      "The 1967 European Cup Final",
+      "The 1972 European Cup semi-final",
+      "The 1974 World Cup Final"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1990s",
+      "Wim Jansen",
+      "Feyenoord"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Celtic lost the 1990 Scottish Cup Final 9-8 on penalties to which club?",
+    "options": [
+      "Rangers",
+      "Dundee United",
+      "Aberdeen",
+      "Motherwell"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1990s",
+      "Scottish Cup",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Which club did Celtic beat 1-0 in the 1995 Scottish Cup Final?",
+    "options": [
+      "Hearts",
+      "Airdrieonians",
+      "Raith Rovers",
+      "Dundee United"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1990s",
+      "Scottish Cup",
+      "1995"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "How many seasons was Wim Jansen in charge of Celtic before leaving in 1998?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1990s",
+      "Wim Jansen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Which referee was struck by a coin thrown from the crowd during the Old Firm game at Celtic Park in May 1999?",
+    "options": [
+      "Willie Young",
+      "Stuart Dougal",
+      "Kenny Clark",
+      "Hugh Dallas"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1990s",
+      "Old Firm",
+      "1999"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Which Slovak scored twice on his Old Firm debut in Celtic's 5-1 win over Rangers in November 1998?",
+    "options": [
+      "Mark Viduka",
+      "Henrik Larsson",
+      "Lubomir Moravcik",
+      "Craig Burley"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1990s",
+      "Old Firm",
+      "Lubomir Moravcik"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "John Collins left Celtic for which club in 1996, using the new Bosman ruling?",
+    "options": [
+      "Everton",
+      "Marseille",
+      "Fulham",
+      "Monaco"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1990s",
+      "John Collins",
+      "Bosman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "managers",
+    "difficulty": 4,
+    "question": "Tommy Burns left which club to become Celtic manager in 1994?",
+    "options": [
+      "Kilmarnock",
+      "Motherwell",
+      "St Mirren",
+      "Partick Thistle"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1990s",
+      "Tommy Burns"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "managers",
+    "difficulty": 4,
+    "question": "Wim Jansen joined Celtic in 1997 after managing which Japanese club?",
+    "options": [
+      "Jubilo Iwata",
+      "Sanfrecce Hiroshima",
+      "Kashima Antlers",
+      "Urawa Red Diamonds"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1990s",
+      "Wim Jansen",
+      "Japan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "From which club did Celtic sign Portuguese striker Jorge Cadete in 1996?",
+    "options": [
+      "Benfica",
+      "Porto",
+      "Sporting Lisbon",
+      "Celta Vigo"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1990s",
+      "Jorge Cadete",
+      "Three Amigos"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "From which Dutch club did Celtic sign Pierre van Hooijdonk in 1995?",
+    "options": [
+      "Feyenoord",
+      "Vitesse",
+      "PSV Eindhoven",
+      "NAC Breda"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1990s",
+      "Pierre van Hooijdonk",
+      "Three Amigos"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Celtic player won the Scottish PFA Players' Player of the Year award in 1997?",
+    "options": [
+      "Paolo Di Canio",
+      "Jorge Cadete",
+      "Paul McStay",
+      "Tom Boyd"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1990s",
+      "Paolo Di Canio",
+      "Awards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which lawyer and TV commentator was appointed Celtic's general manager in 1997?",
+    "options": [
+      "Murdo MacLeod",
+      "Jock Brown",
+      "Kenny Dalglish",
+      "Brian Dempsey"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1990s",
+      "Jock Brown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "managers",
+    "difficulty": 5,
+    "question": "Which English club had Jozef Venglos managed before he joined Celtic in 1998?",
+    "options": [
+      "Sheffield Wednesday",
+      "Coventry City",
+      "Leeds United",
+      "Aston Villa"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1990s",
+      "Jozef Venglos"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Tom Boyd joined Celtic from Chelsea in 1992 in exchange for which striker?",
+    "options": [
+      "Charlie Nicholas",
+      "Andy Payton",
+      "Tony Cascarino",
+      "Gerry Creaney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1990s",
+      "Tom Boyd",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Celtic signed Norwegian striker Harald Brattbakk from which club in 1997?",
+    "options": [
+      "Rosenborg",
+      "Molde",
+      "Brann",
+      "Viking"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1990s",
+      "Harald Brattbakk",
+      "Norway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "From which club did Celtic sign German forward Andreas Thom in 1995?",
+    "options": [
+      "Borussia Dortmund",
+      "Bayer Leverkusen",
+      "Hamburg",
+      "Schalke 04"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1990s",
+      "Andreas Thom",
+      "Germany"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Henrik Larsson's misplaced pass on his 1997 debut set up a goal for which Hibernian player?",
+    "options": [
+      "Kevin Harper",
+      "Pat McGinlay",
+      "Darren Jackson",
+      "Chic Charnley"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1990s",
+      "Henrik Larsson",
+      "Debut"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Roughly what fee did Celtic pay Feyenoord for Henrik Larsson in 1997?",
+    "options": [
+      "£150,000",
+      "£650,000",
+      "£2 million",
+      "£4 million"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1990s",
+      "Henrik Larsson",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "Celtic finished second in the 1995-96 league despite losing how many league games?",
+    "options": [
+      "One",
+      "Three",
+      "Five",
+      "None"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1990s",
+      "Tommy Burns",
+      "1996"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Which Celtic captain missed the decisive penalty in the 1994 League Cup Final shoot-out?",
+    "options": [
+      "Tom Boyd",
+      "Peter Grant",
+      "Paul McStay",
+      "John Collins"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1990s",
+      "League Cup",
+      "1994",
+      "Paul McStay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Charlie Nicholas returned to Celtic in 1990 from which club?",
+    "options": [
+      "Arsenal",
+      "Luton Town",
+      "Clyde",
+      "Aberdeen"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1990s",
+      "Charlie Nicholas"
+    ],
+    "source": "manual"
+  }
+]

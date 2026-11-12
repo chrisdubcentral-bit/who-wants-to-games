@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    { "key": "celtic-history",     "label": "Celtic History",     "club": "celtic",  "active": true },
+    { "key": "european-campaigns", "label": "European Campaigns", "club": "celtic",  "active": true },
+    { "key": "uefa-competitions",  "label": "UEFA Competitions",  "club": "celtic",  "active": true },
+    { "key": "players",            "label": "Players",            "club": "celtic",  "active": true },
+    { "key": "managers",           "label": "Managers",           "club": "celtic",  "active": true },
+    { "key": "cup-finals",         "label": "Cup Finals",         "club": "celtic",  "active": true },
+    { "key": "european-nights",    "label": "European Nights",    "club": "celtic",  "active": true },
+    { "key": "club-records",       "label": "Club Records",       "club": "celtic",  "active": true },
+    { "key": "opponents",          "label": "Opponents",          "club": "celtic",  "active": true },
+    { "key": "celtic-park",        "label": "Celtic Park",        "club": "celtic",  "active": true },
+    { "key": "domestic-trophies",  "label": "Domestic Trophies",  "club": "celtic",  "active": true },
+    { "key": "club-achievements",  "label": "Club Achievements",  "club": "celtic",  "active": true },
+    { "key": "general-football",   "label": "General Football",   "club": "general", "active": true }
+  ]
+}

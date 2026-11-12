@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="European Cup emblem">
+  <defs>
+    <linearGradient id="lg-gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E0C27A"/>
+      <stop offset="1" stop-color="#C7A45A"/>
+    </linearGradient>
+    <radialGradient id="lg-em" cx="0.5" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#1F8A62"/>
+      <stop offset="1" stop-color="#0E4D38"/>
+    </radialGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#lg-em)" stroke="url(#lg-gold)" stroke-width="2.5"/>
+  <circle cx="32" cy="32" r="25" fill="none" stroke="#E0C27A" stroke-opacity="0.35" stroke-width="1"/>
+  <!-- Cup -->
+  <path d="M23 18h18v6c0 6-4 10.5-9 10.5S23 30 23 24z" fill="url(#lg-gold)"/>
+  <path d="M23 20c-4 0-6.5 1.5-6.5 4.5S19 30 24.5 30" fill="none" stroke="url(#lg-gold)" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M41 20c4 0 6.5 1.5 6.5 4.5S45 30 39.5 30" fill="none" stroke="url(#lg-gold)" stroke-width="2.4" stroke-linecap="round"/>
+  <rect x="30" y="34" width="4" height="6" fill="url(#lg-gold)"/>
+  <path d="M25 46c0-3 3-6 7-6s7 3 7 6z" fill="url(#lg-gold)"/>
+  <!-- Stars -->
+  <g fill="#E0C27A">
+    <circle cx="14" cy="38" r="1.3"/><circle cx="50" cy="38" r="1.3"/>
+    <circle cx="18" cy="46" r="1.1"/><circle cx="46" cy="46" r="1.1"/>
+  </g>
+</svg>

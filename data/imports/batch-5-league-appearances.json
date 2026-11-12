@@ -1,0 +1,602 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Billy McNeill, Chris Sutton, Kenny Dalglish or Henrik Larsson?",
+    "options": [
+      "Billy McNeill",
+      "Chris Sutton",
+      "Kenny Dalglish",
+      "Henrik Larsson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Billy McNeill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Paul McStay, Neil Lennon, Shunsuke Nakamura or Stiliyan Petrov?",
+    "options": [
+      "Paul McStay",
+      "Neil Lennon",
+      "Shunsuke Nakamura",
+      "Stiliyan Petrov"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Paul McStay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Frank McAvennie, Roy Aitken, Charlie Nicholas or Brian McClair?",
+    "options": [
+      "Frank McAvennie",
+      "Roy Aitken",
+      "Charlie Nicholas",
+      "Brian McClair"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "League appearances",
+      "Roy Aitken"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Kenny Dalglish, Danny McGrain, Davie Provan or Frank McAvennie?",
+    "options": [
+      "Kenny Dalglish",
+      "Danny McGrain",
+      "Davie Provan",
+      "Frank McAvennie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "League appearances",
+      "Danny McGrain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Pat Bonner, Pierre van Hooijdonk, Jorge Cadete or Paolo Di Canio?",
+    "options": [
+      "Pat Bonner",
+      "Pierre van Hooijdonk",
+      "Jorge Cadete",
+      "Paolo Di Canio"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Pat Bonner"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Georgios Samaras, Scott Brown, Charlie Mulgrew or Kris Commons?",
+    "options": [
+      "Georgios Samaras",
+      "Scott Brown",
+      "Charlie Mulgrew",
+      "Kris Commons"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "League appearances",
+      "Scott Brown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Kenny Dalglish, Dixie Deans, Lou Macari or Jimmy Johnstone?",
+    "options": [
+      "Kenny Dalglish",
+      "Dixie Deans",
+      "Lou Macari",
+      "Jimmy Johnstone"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "League appearances",
+      "Jimmy Johnstone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Frank McAvennie, Mick McCarthy, Tommy Burns or Davie Provan?",
+    "options": [
+      "Frank McAvennie",
+      "Mick McCarthy",
+      "Tommy Burns",
+      "Davie Provan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "League appearances",
+      "Tommy Burns"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Tom Boyd, Chris Sutton, Lubomir Moravcik or Paolo Di Canio?",
+    "options": [
+      "Tom Boyd",
+      "Chris Sutton",
+      "Lubomir Moravcik",
+      "Paolo Di Canio"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Tom Boyd"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Peter Grant, Jorge Cadete, Andreas Thom or Paolo Di Canio?",
+    "options": [
+      "Peter Grant",
+      "Jorge Cadete",
+      "Andreas Thom",
+      "Paolo Di Canio"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Peter Grant"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Alan Stubbs, John Hartson, Jackie McNamara or Chris Sutton?",
+    "options": [
+      "Alan Stubbs",
+      "John Hartson",
+      "Jackie McNamara",
+      "Chris Sutton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "League appearances",
+      "Jackie McNamara"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Mark Viduka, Jorge Cadete, Chris Sutton or Henrik Larsson?",
+    "options": [
+      "Mark Viduka",
+      "Jorge Cadete",
+      "Chris Sutton",
+      "Henrik Larsson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "League appearances",
+      "Henrik Larsson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Shunsuke Nakamura, Lubomir Moravcik, Didier Agathe or Neil Lennon?",
+    "options": [
+      "Shunsuke Nakamura",
+      "Lubomir Moravcik",
+      "Didier Agathe",
+      "Neil Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "League appearances",
+      "Neil Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Paolo Di Canio, Mark Viduka, Stiliyan Petrov or Lubomir Moravcik?",
+    "options": [
+      "Paolo Di Canio",
+      "Mark Viduka",
+      "Stiliyan Petrov",
+      "Lubomir Moravcik"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "League appearances",
+      "Stiliyan Petrov"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Lou Macari, Willie Wallace, Dixie Deans or Bobby Murdoch?",
+    "options": [
+      "Lou Macari",
+      "Willie Wallace",
+      "Dixie Deans",
+      "Bobby Murdoch"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "League appearances",
+      "Bobby Murdoch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Jimmy Johnstone, Tommy Gemmell, Bobby Murdoch or Billy McNeill?",
+    "options": [
+      "Jimmy Johnstone",
+      "Tommy Gemmell",
+      "Bobby Murdoch",
+      "Billy McNeill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "League appearances",
+      "Billy McNeill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Paul McStay, Murdo MacLeod, Tommy Burns or Davie Provan?",
+    "options": [
+      "Paul McStay",
+      "Murdo MacLeod",
+      "Tommy Burns",
+      "Davie Provan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Paul McStay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Bobby Murdoch, Tommy Gemmell, Danny McGrain or Kenny Dalglish?",
+    "options": [
+      "Bobby Murdoch",
+      "Tommy Gemmell",
+      "Danny McGrain",
+      "Kenny Dalglish"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "League appearances",
+      "Danny McGrain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Roy Aitken, Murdo MacLeod, Tommy Burns or Charlie Nicholas?",
+    "options": [
+      "Roy Aitken",
+      "Murdo MacLeod",
+      "Tommy Burns",
+      "Charlie Nicholas"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Roy Aitken"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Scott Brown, Henrik Larsson, Neil Lennon or Stiliyan Petrov?",
+    "options": [
+      "Scott Brown",
+      "Henrik Larsson",
+      "Neil Lennon",
+      "Stiliyan Petrov"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Scott Brown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Pat Bonner, Artur Boruc, Craig Gordon or Rab Douglas?",
+    "options": [
+      "Pat Bonner",
+      "Artur Boruc",
+      "Craig Gordon",
+      "Rab Douglas"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Pat Bonner"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Joos Valgaeren, Johan Mjallby, Tom Boyd or Bobo Balde?",
+    "options": [
+      "Joos Valgaeren",
+      "Johan Mjallby",
+      "Tom Boyd",
+      "Bobo Balde"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "League appearances",
+      "Tom Boyd"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Lou Macari, Willie Wallace, Joe McBride or Tommy Gemmell?",
+    "options": [
+      "Lou Macari",
+      "Willie Wallace",
+      "Joe McBride",
+      "Tommy Gemmell"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "League appearances",
+      "Tommy Gemmell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Mick McCarthy, Brian McClair, Frank McAvennie or Murdo MacLeod?",
+    "options": [
+      "Mick McCarthy",
+      "Brian McClair",
+      "Frank McAvennie",
+      "Murdo MacLeod"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "League appearances",
+      "Murdo MacLeod"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Joe McBride, Mark Viduka, Kenny Dalglish or Lou Macari?",
+    "options": [
+      "Joe McBride",
+      "Mark Viduka",
+      "Kenny Dalglish",
+      "Lou Macari"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "League appearances",
+      "Kenny Dalglish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Davie Provan, Frank McAvennie, Mick McCarthy or Mark Viduka?",
+    "options": [
+      "Davie Provan",
+      "Frank McAvennie",
+      "Mick McCarthy",
+      "Mark Viduka"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Davie Provan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Jorge Cadete, Paolo Di Canio, Pierre van Hooijdonk or Charlie Nicholas?",
+    "options": [
+      "Jorge Cadete",
+      "Paolo Di Canio",
+      "Pierre van Hooijdonk",
+      "Charlie Nicholas"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "League appearances",
+      "Charlie Nicholas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "Which of these made the most league appearances for Celtic: Robbie Keane, Kris Commons, Paolo Di Canio or Jorge Cadete?",
+    "options": [
+      "Robbie Keane",
+      "Kris Commons",
+      "Paolo Di Canio",
+      "Jorge Cadete"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "League appearances",
+      "Kris Commons"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "Which of these made the most league appearances for Celtic: Georgios Samaras, Robbie Keane, Mark Viduka or Kenny Miller?",
+    "options": [
+      "Georgios Samaras",
+      "Robbie Keane",
+      "Mark Viduka",
+      "Kenny Miller"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League appearances",
+      "Georgios Samaras"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "club-records",
+    "difficulty": 2,
+    "question": "Which of these made the most league appearances for Celtic: Jorge Cadete, Brian McClair, Mick McCarthy or Frank McAvennie?",
+    "options": [
+      "Jorge Cadete",
+      "Brian McClair",
+      "Mick McCarthy",
+      "Frank McAvennie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "League appearances",
+      "Brian McClair"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tests · WWTWTEC</title>
+  <link rel="stylesheet" href="../css/tokens.css">
+  <link rel="stylesheet" href="../css/base.css">
+  <style>
+    body { padding: 24px; }
+    h1 { font-size: 1.5rem; margin-bottom: 8px; }
+    h2 { font-size: .8rem; letter-spacing: .16em; text-transform: uppercase; color: var(--gold); margin: 24px 0 8px; }
+    #summary { font-family: var(--font-display); font-weight: 800; font-size: 1.1rem; }
+    .pass { color: #8fe0b5; } .fail { color: #f3a3a3; }
+    .t { padding: 4px 0; font-size: .9rem; }
+    pre { white-space: pre-wrap; background: var(--bg-panel); padding: 8px; border-radius: 6px; color: #f3a3a3; margin: 6px 0 0 18px; }
+  </style>
+</head>
+<body>
+  <h1>Unit Tests</h1>
+  <div id="summary">Running…</div>
+  <div id="results"></div>
+  <script type="module" src="tests.js"></script>
+</body>
+</html>

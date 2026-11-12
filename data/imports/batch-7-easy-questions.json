@@ -1,0 +1,602 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "What are Celtic's traditional club colours?",
+    "options": [
+      "Blue and white",
+      "Green and white",
+      "Red and white",
+      "Black and white"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Colours",
+      "Kit"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "In which country do Celtic play their league football?",
+    "options": [
+      "England",
+      "Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "opponents",
+    "difficulty": 1,
+    "question": "Which club are Celtic's biggest Glasgow rivals?",
+    "options": [
+      "Rangers",
+      "Hearts",
+      "Aberdeen",
+      "Hibernian"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rangers",
+      "Rivals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "opponents",
+    "difficulty": 1,
+    "question": "What is the name given to matches between Celtic and Rangers?",
+    "options": [
+      "The Merseyside derby",
+      "The Edinburgh derby",
+      "The New Firm",
+      "The Old Firm"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Old Firm",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Which nickname, spelled with an extra \"h\", is given to Celtic?",
+    "options": [
+      "The Gers",
+      "The Bhoys",
+      "The Dons",
+      "The Hibees"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Nickname",
+      "The Bhoys"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "What colour are Celtic's traditional home shorts?",
+    "options": [
+      "White",
+      "Green",
+      "Black",
+      "Blue"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kit",
+      "Colours"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "What kind of animal is Hoopy, Celtic's club mascot?",
+    "options": [
+      "Lion",
+      "Cat",
+      "Dog",
+      "Bear"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mascot",
+      "Hoopy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "What do Celtic players famously form on the pitch just before kick-off?",
+    "options": [
+      "A guard of honour",
+      "A wall",
+      "A line facing the crowd",
+      "A huddle"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Huddle",
+      "Tradition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-park",
+    "difficulty": 1,
+    "question": "The Green Brigade are a well-known group of what at Celtic Park?",
+    "options": [
+      "Supporters",
+      "Coaches",
+      "Youth players",
+      "Club directors"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Green Brigade",
+      "Fans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "Which lucky plant appears on the Celtic club crest?",
+    "options": [
+      "Thistle",
+      "Rose",
+      "Four-leaf clover",
+      "Oak leaf"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Crest",
+      "Four-leaf clover"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "domestic-trophies",
+    "difficulty": 1,
+    "question": "Which is the top division of Scottish football that Celtic play in?",
+    "options": [
+      "The Premier League",
+      "The Scottish Premiership",
+      "The Scottish Championship",
+      "La Liga"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Scottish Premiership",
+      "League"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-park",
+    "difficulty": 1,
+    "question": "In which part of Glasgow is Celtic Park?",
+    "options": [
+      "The West End",
+      "The South Side",
+      "The City Centre",
+      "The East End"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "club-records",
+    "difficulty": 1,
+    "question": "Celtic have won which knockout cup competition more times than any other club?",
+    "options": [
+      "The Scottish Cup",
+      "The FA Cup",
+      "The League Cup",
+      "The Copa del Rey"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Scottish Cup",
+      "Record"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "managers",
+    "difficulty": 1,
+    "question": "Which manager led Celtic to an unbeaten domestic treble in 2016-17?",
+    "options": [
+      "Neil Lennon",
+      "Ronny Deila",
+      "Brendan Rodgers",
+      "Ange Postecoglou"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Brendan Rodgers",
+      "Invincibles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "managers",
+    "difficulty": 1,
+    "question": "Which Australian managed Celtic from 2021 to 2023 before leaving for Tottenham?",
+    "options": [
+      "Ange Postecoglou",
+      "Brendan Rodgers",
+      "Graham Arnold",
+      "Kevin Muscat"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ange Postecoglou",
+      "Australia"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "uefa-competitions",
+    "difficulty": 1,
+    "question": "Which European competition do Celtic usually enter as Scottish champions?",
+    "options": [
+      "The Europa League",
+      "The Champions League",
+      "The Copa Libertadores",
+      "The FA Cup"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Champions League",
+      "Europe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "club-achievements",
+    "difficulty": 1,
+    "question": "In 1967, Celtic became the first club from which country to win the European Cup?",
+    "options": [
+      "England",
+      "Wales",
+      "Scotland",
+      "Northern Ireland"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "European Cup",
+      "1967",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-park",
+    "difficulty": 1,
+    "question": "Celtic Park is often called by the name of its district. What is it?",
+    "options": [
+      "Hampden",
+      "Ibrox",
+      "Firhill",
+      "Parkhead"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Parkhead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "cup-finals",
+    "difficulty": 1,
+    "question": "Which Glasgow stadium, Scotland's national stadium, hosts most of Celtic's cup finals?",
+    "options": [
+      "Hampden Park",
+      "Ibrox",
+      "Murrayfield",
+      "Wembley"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hampden Park",
+      "Cup finals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which Scottish midfielder, known as \"Broony\", captained Celtic for most of the 2010s?",
+    "options": [
+      "Callum McGregor",
+      "Scott Brown",
+      "Kieran Tierney",
+      "James Forrest"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Scott Brown",
+      "Captains"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Who took over as Celtic captain from Scott Brown in 2021?",
+    "options": [
+      "James Forrest",
+      "Kieran Tierney",
+      "Callum McGregor",
+      "Leigh Griffiths"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Callum McGregor",
+      "Captains"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Roughly how many fans can Celtic Park hold?",
+    "options": [
+      "30,000",
+      "45,000",
+      "80,000",
+      "60,000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Capacity"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which Japanese striker joined Celtic from Vissel Kobe in 2021?",
+    "options": [
+      "Kyogo Furuhashi",
+      "Shunsuke Nakamura",
+      "Daizen Maeda",
+      "Reo Hatate"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kyogo Furuhashi",
+      "Japan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which former Celtic captain went on to manage the club and win several trebles?",
+    "options": [
+      "Paul McStay",
+      "Neil Lennon",
+      "Scott Brown",
+      "Tom Boyd"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Neil Lennon",
+      "Trebles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Celtic's training ground is in which village outside Glasgow?",
+    "options": [
+      "Largs",
+      "Auchenhowie",
+      "Lennoxtown",
+      "Cumbernauld"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Training ground",
+      "Lennoxtown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which legendary Celtic manager was known as \"The Big Man\"?",
+    "options": [
+      "Jock Stein",
+      "Willie Maley",
+      "Martin O'Neill",
+      "Gordon Strachan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jock Stein",
+      "Nickname"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which Celtic winger was famously nicknamed \"Jinky\"?",
+    "options": [
+      "Bobby Lennox",
+      "Bobby Murdoch",
+      "Bertie Auld",
+      "Jimmy Johnstone"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jimmy Johnstone",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which Slovak playmaker, known to fans as \"Lubo\", starred for Celtic around 2000?",
+    "options": [
+      "Stiliyan Petrov",
+      "Lubomir Moravcik",
+      "Paolo Di Canio",
+      "Eyal Berkovic"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lubomir Moravcik",
+      "Slovakia"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Shunsuke Nakamura was best known at Celtic for his skill at what?",
+    "options": [
+      "Long throws",
+      "Heading",
+      "Free kicks",
+      "Goalkeeping"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shunsuke Nakamura",
+      "Free kicks"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which Dutch defender played for Celtic before becoming a Liverpool star?",
+    "options": [
+      "Virgil van Dijk",
+      "Jaap Stam",
+      "Frank de Boer",
+      "Matthijs de Ligt"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Virgil van Dijk",
+      "Netherlands"
+    ],
+    "source": "manual"
+  }
+]

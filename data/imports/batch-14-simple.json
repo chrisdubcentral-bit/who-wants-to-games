@@ -1,0 +1,595 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-park",
+    "difficulty": 1,
+    "question": "What is the name of the stadium where Celtic play their home games?",
+    "options": [
+      "Ibrox",
+      "Celtic Park",
+      "Hampden Park",
+      "Tynecastle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "club-achievements",
+    "difficulty": 1,
+    "question": "Which famous trophy did Celtic win in 1967?",
+    "options": [
+      "The World Cup",
+      "The FA Cup",
+      "The European Cup",
+      "An Olympic gold medal"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "European Cup",
+      "1967"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "cup-finals",
+    "difficulty": 1,
+    "question": "Who won the 1967 European Cup Final between Celtic and Inter Milan?",
+    "options": [
+      "Celtic",
+      "Inter Milan",
+      "It was a draw",
+      "It was abandoned"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "European Cup",
+      "1967"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which of these players is a Celtic legend?",
+    "options": [
+      "Lionel Messi",
+      "David Beckham",
+      "Wayne Rooney",
+      "Henrik Larsson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Henrik Larsson",
+      "Legends"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "What is the main colour of the Celtic club badge?",
+    "options": [
+      "Green",
+      "Red",
+      "Blue",
+      "Yellow"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Crest",
+      "Colours"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "What shape is the Celtic club badge?",
+    "options": [
+      "A shield",
+      "A circle",
+      "A square",
+      "A triangle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Crest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "What colour are Celtic's traditional home socks?",
+    "options": [
+      "Black",
+      "Red",
+      "White",
+      "Blue"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kit",
+      "Colours"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "opponents",
+    "difficulty": 1,
+    "question": "At which stadium do Celtic's rivals Rangers play their home games?",
+    "options": [
+      "Celtic Park",
+      "Hampden Park",
+      "Pittodrie",
+      "Ibrox"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rangers",
+      "Ibrox"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "opponents",
+    "difficulty": 1,
+    "question": "What is the main colour of Rangers' home shirts?",
+    "options": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rangers",
+      "Colours"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "general-football",
+    "difficulty": 1,
+    "question": "How many Celtic players start a match on the pitch?",
+    "options": [
+      "Nine",
+      "Ten",
+      "Eleven",
+      "Twelve"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Basics"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "general-football",
+    "difficulty": 1,
+    "question": "How many minutes does a normal Celtic league match last, not counting stoppage time?",
+    "options": [
+      "60",
+      "80",
+      "100",
+      "90"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Basics"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "general-football",
+    "difficulty": 1,
+    "question": "How many points do Celtic get for winning a league match?",
+    "options": [
+      "One",
+      "Three",
+      "Two",
+      "Four"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Basics",
+      "League"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "domestic-trophies",
+    "difficulty": 1,
+    "question": "What is it called when Celtic win the league, the Scottish Cup and the League Cup in the same season?",
+    "options": [
+      "A treble",
+      "A double",
+      "A hat-trick",
+      "A clean sweep"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Treble"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "domestic-trophies",
+    "difficulty": 1,
+    "question": "What is it called when Celtic win the league and the Scottish Cup in the same season?",
+    "options": [
+      "A treble",
+      "A brace",
+      "A double",
+      "A set"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Double"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "club-records",
+    "difficulty": 1,
+    "question": "Celtic's 2016-17 team were called the \"Invincibles\" because they did not do what in domestic games?",
+    "options": [
+      "Score",
+      "Concede",
+      "Draw",
+      "Lose"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Invincibles",
+      "2016-17"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which shirt number did Henrik Larsson famously wear for Celtic?",
+    "options": [
+      "7",
+      "9",
+      "10",
+      "11"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Henrik Larsson",
+      "Shirt number"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which country did Celtic legend Henrik Larsson play for?",
+    "options": [
+      "Norway",
+      "Denmark",
+      "Sweden",
+      "Finland"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Henrik Larsson",
+      "Sweden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which country is Celtic striker Kyogo Furuhashi from?",
+    "options": [
+      "South Korea",
+      "Japan",
+      "China",
+      "Thailand"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kyogo Furuhashi",
+      "Japan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which country did Celtic legend Kenny Dalglish play for?",
+    "options": [
+      "England",
+      "Republic of Ireland",
+      "Wales",
+      "Scotland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kenny Dalglish",
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which country does former Celtic left-back Kieran Tierney play for?",
+    "options": [
+      "Scotland",
+      "England",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kieran Tierney",
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "opponents",
+    "difficulty": 1,
+    "question": "Hearts and Hibernian, two clubs Celtic play regularly, are from which city?",
+    "options": [
+      "Glasgow",
+      "Edinburgh",
+      "Aberdeen",
+      "Dundee"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hearts",
+      "Hibernian",
+      "Edinburgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "club-achievements",
+    "difficulty": 1,
+    "question": "The Lisbon Lions won the European Cup in which country?",
+    "options": [
+      "Spain",
+      "Italy",
+      "Portugal",
+      "France"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lisbon Lions",
+      "1967"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "In which century was Celtic founded?",
+    "options": [
+      "The 17th century",
+      "The 18th century",
+      "The 20th century",
+      "The 19th century"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Founding"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "managers",
+    "difficulty": 1,
+    "question": "Which English club had Brendan Rodgers managed just before he joined Celtic in 2016?",
+    "options": [
+      "Liverpool",
+      "Arsenal",
+      "Chelsea",
+      "Everton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Brendan Rodgers",
+      "Liverpool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which of these players played for Celtic?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Thierry Henry",
+      "Scott Brown",
+      "Steven Gerrard"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Scott Brown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "opponents",
+    "difficulty": 1,
+    "question": "What is the nickname of Aberdeen, who Celtic play in the Scottish Premiership?",
+    "options": [
+      "The Jambos",
+      "The Dons",
+      "The Hibees",
+      "The Gers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Aberdeen",
+      "Nickname"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "domestic-trophies",
+    "difficulty": 1,
+    "question": "What does SPFL, the league Celtic play in, stand for?",
+    "options": [
+      "Scottish Premier Football League",
+      "Scottish Professional Football League",
+      "Scottish Public Football League",
+      "Scottish Primary Football League"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SPFL",
+      "League"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "In which position did Pat Bonner play for Celtic?",
+    "options": [
+      "Goalkeeper",
+      "Striker",
+      "Winger",
+      "Midfielder"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pat Bonner",
+      "Position"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "How did Henrik Larsson famously celebrate his Celtic goals?",
+    "options": [
+      "With a somersault",
+      "With a salute",
+      "With a dance",
+      "With his tongue out"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Henrik Larsson",
+      "Celebration"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 1,
+    "question": "In which position did Celtic captain Billy McNeill play?",
+    "options": [
+      "Goalkeeper",
+      "Winger",
+      "Centre-half",
+      "Striker"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Billy McNeill",
+      "Position"
+    ],
+    "source": "manual"
+  }
+]

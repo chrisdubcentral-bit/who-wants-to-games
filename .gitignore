@@ -1,0 +1,11 @@
+# OS / editor clutter
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Built copies ready to upload (later step)
+dist/
+
+# Advert videos are large and shared between editions: host them, don't commit them
+media/ads/*.mp4
+media/ads/*.webm

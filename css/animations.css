@@ -1,0 +1,56 @@
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+@keyframes riseIn {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes stagePulse {
+  0% { box-shadow: 0 0 0 0 rgba(224, 194, 122, 0.55); }
+  100% { box-shadow: var(--glow-gold); }
+}
+
+@keyframes lockedIn {
+  0%, 100% { box-shadow: var(--glow-gold); }
+  50% { box-shadow: 0 0 0 1px rgba(224,194,122,0.9), 0 0 34px rgba(224,194,122,0.45); }
+}
+
+@keyframes trophyGlow {
+  0%, 100% { filter: drop-shadow(0 0 18px rgba(224, 194, 122, 0.35)); }
+  50% { filter: drop-shadow(0 0 34px rgba(224, 194, 122, 0.6)); }
+}
+
+@keyframes confettiFall {
+  0% { transform: translate3d(0, -10vh, 0) rotate(0deg); opacity: 0; }
+  10% { opacity: 1; }
+  100% { transform: translate3d(var(--drift, 0px), 105vh, 0) rotate(var(--spin, 540deg)); opacity: 0; }
+}
+
+@keyframes shimmer {
+  from { background-position: -200% 0; }
+  to { background-position: 200% 0; }
+}
+
+.screen-enter { animation: riseIn var(--t-slow) var(--ease) both; }
+
+.stagger > * { animation: riseIn var(--t-slow) var(--ease) both; }
+.stagger > *:nth-child(2) { animation-delay: 60ms; }
+.stagger > *:nth-child(3) { animation-delay: 120ms; }
+.stagger > *:nth-child(4) { animation-delay: 180ms; }
+.stagger > *:nth-child(5) { animation-delay: 240ms; }
+.stagger > *:nth-child(6) { animation-delay: 300ms; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+  /* The between-stages newspaper and the cup-winning confetti are short and play once, so they
+     keep their motion even when the phone asks for reduced motion (Android "Remove animations",
+     battery saver, iOS Reduce Motion). */
+  .confetti i { animation-duration: var(--dur, 3s) !important; }
+  .splash .paper { animation-duration: 900ms !important; }
+  .splash { animation-duration: 180ms !important; transition-duration: 300ms !important; }
+}

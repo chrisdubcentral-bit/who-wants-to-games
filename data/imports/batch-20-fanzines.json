@@ -1,0 +1,307 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "The fanzine \"Not the View\" took its name from which official Celtic publication?",
+    "options": [
+      "The Celtic Times",
+      "The Celtic View",
+      "The Celtic Herald",
+      "The Celtic Post"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Fanzines",
+      "Not the View",
+      "Celtic View"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-history",
+    "difficulty": 1,
+    "question": "CQN Magazine grew out of which long-running Celtic blog?",
+    "options": [
+      "Kerrydale Street",
+      "Celtic Underground",
+      "Celtic Quick News",
+      "E-Tims"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Fanzines",
+      "CQN Magazine",
+      "Celtic Quick News"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Which fanzine proudly took the name \"Malcontents\" after the Celtic board used it about fans?",
+    "options": [
+      "The Celt",
+      "The Huddle",
+      "Once A Tim",
+      "Not the View"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fanzines",
+      "Not the View"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "The satirical style of the fanzine Not the View was modelled on which magazine?",
+    "options": [
+      "Private Eye",
+      "Punch",
+      "Viz",
+      "The Beano"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Fanzines",
+      "Not the View"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "The fanzine \"Welcome To Paradise\" was the official fanzine of which Celtic fan group?",
+    "options": [
+      "The Green Brigade",
+      "The Jungle Bhoys",
+      "The Celtic Trust",
+      "Celts For Change"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Fanzines",
+      "Welcome To Paradise",
+      "Jungle Bhoys"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which fanzine, launched by Matt McGlone in 1990, campaigned to oust the Kelly and White board?",
+    "options": [
+      "Hail-Hail",
+      "Not the View",
+      "Once A Tim",
+      "The Shamrock"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Fanzines",
+      "Once A Tim",
+      "Matt McGlone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "The 1990s fanzine Bhoyzone began as an offshoot of what?",
+    "options": [
+      "One of the earliest Celtic websites",
+      "A supporters club newsletter",
+      "A local radio phone-in",
+      "A BBC football programme"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Fanzines",
+      "Bhoyzone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "The short-lived fanzine The Huddle launched after which treble-winning Celtic season?",
+    "options": [
+      "1966-67",
+      "1968-69",
+      "2016-17",
+      "2000-01"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fanzines",
+      "The Huddle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which fanzine did Matt McGlone launch in 2002 as a challenge to the Celtic View?",
+    "options": [
+      "The Alternative View",
+      "More Than 90 Minutes",
+      "The Thunder",
+      "CQN Magazine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Fanzines",
+      "The Alternative View",
+      "Matt McGlone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "CQN Magazine was first released under which name, changed for copyright reasons?",
+    "options": [
+      "Quick News",
+      "CQ Magazine",
+      "The Hoops Review",
+      "Celtic Weekly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Fanzines",
+      "CQN Magazine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "In which decade did The Shamrock, said to be the first Celtic fanzine, appear?",
+    "options": [
+      "1950s",
+      "1970s",
+      "1960s",
+      "1980s"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Fanzines",
+      "The Shamrock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Which Irish-based Celtic fanzine was billed \"For Celtic Fans, By Celtic Fans\"?",
+    "options": [
+      "The Thunder",
+      "The Celt",
+      "Welcome To Paradise",
+      "More Than 90 Minutes"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fanzines",
+      "More Than 90 Minutes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "The 1960s fanzine The Shamrock was produced by a Celtic supporters club in which city?",
+    "options": [
+      "Edinburgh",
+      "Dundee",
+      "Belfast",
+      "Dublin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Fanzines",
+      "The Shamrock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "In which year did The Celt, the fanzine run by George Sheridan and Eugene MacBride, finally end?",
+    "options": [
+      "2007",
+      "2012",
+      "2018",
+      "2022"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Fanzines",
+      "The Celt"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "The first issue of fanzine The Thunder went on sale in 2012 before a match against which team?",
+    "options": [
+      "Ross County",
+      "Inverness Caledonian Thistle",
+      "St Mirren",
+      "Motherwell"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Fanzines",
+      "The Thunder"
+    ],
+    "source": "manual"
+  }
+]

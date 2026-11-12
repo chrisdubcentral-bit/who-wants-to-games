@@ -1,0 +1,210 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did Henrik Larsson join immediately after leaving Celtic?",
+    "options": [
+      "Helsingborgs IF",
+      "Barcelona",
+      "Manchester United",
+      "Feyenoord"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Henrik Larsson",
+      "Transfers",
+      "Sweden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did Virgil van Dijk join immediately after leaving Celtic?",
+    "options": [
+      "Liverpool",
+      "Groningen",
+      "Southampton",
+      "Feyenoord"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Virgil van Dijk",
+      "Transfers",
+      "Netherlands"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did Kieran Tierney join immediately after leaving Celtic?",
+    "options": [
+      "Arsenal",
+      "Real Sociedad",
+      "Manchester United",
+      "Everton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kieran Tierney",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did Moussa Dembele join immediately after leaving Celtic?",
+    "options": [
+      "Fulham",
+      "Paris Saint-Germain",
+      "Atletico Madrid",
+      "Lyon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Moussa Dembele",
+      "Transfers",
+      "France"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did Scott Brown join immediately after leaving Celtic?",
+    "options": [
+      "Hibernian",
+      "Aberdeen",
+      "Dundee United",
+      "Rangers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Scott Brown",
+      "Transfers",
+      "Captains"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Paolo Di Canio join immediately after leaving Celtic?",
+    "options": [
+      "West Ham United",
+      "Lazio",
+      "Sheffield Wednesday",
+      "Charlton Athletic"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paolo Di Canio",
+      "Transfers",
+      "Italy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Pierre van Hooijdonk join immediately after leaving Celtic?",
+    "options": [
+      "Nottingham Forest",
+      "Vitesse",
+      "Feyenoord",
+      "Benfica"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pierre van Hooijdonk",
+      "Transfers",
+      "Netherlands"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Shunsuke Nakamura join immediately after leaving Celtic?",
+    "options": [
+      "Yokohama F. Marinos",
+      "Reggina",
+      "Jubilo Iwata",
+      "Espanyol"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shunsuke Nakamura",
+      "Transfers",
+      "Japan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Aiden McGeady join immediately after leaving Celtic?",
+    "options": [
+      "Everton",
+      "Spartak Moscow",
+      "Sunderland",
+      "Zenit St Petersburg"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Aiden McGeady",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Stiliyan Petrov join immediately after leaving Celtic?",
+    "options": [
+      "CSKA Sofia",
+      "Birmingham City",
+      "Aston Villa",
+      "Everton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Stiliyan Petrov",
+      "Transfers",
+      "Bulgaria"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "cup-finals",
+    "difficulty": 2,
+    "question": "Who scored the first goal in Celtic's 3-0 win over Aberdeen in the November 2016 League Cup Final?",
+    "options": [
+      "James Forrest",
+      "Tom Rogic",
+      "Moussa Dembele",
+      "Scott Sinclair"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "First goal",
+      "League Cup",
+      "2016",
+      "Invincibles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "cup-finals",
+    "difficulty": 2,
+    "question": "Who scored the first goal in Celtic's 3-0 win over Kilmarnock in the 2001 League Cup Final?",
+    "options": [
+      "Henrik Larsson",
+      "Chris Sutton",
+      "Paul Lambert",
+      "Alan Thompson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "First goal",
+      "League Cup",
+      "2001",
+      "Treble"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "cup-finals",
+    "difficulty": 2,
+    "question": "Who scored the first goal in Celtic's 1-0 win over Rangers in the 2024 Scottish Cup Final?",
+    "options": [
+      "Kyogo Furuhashi",
+      "Matt O'Riley",
+      "Cyriel Dessers",
+      "Adam Idah"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "2024",
+      "Old Firm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 2-1 win over Barcelona at Celtic Park in November 2012?",
+    "options": [
+      "Tony Watt",
+      "Lionel Messi",
+      "Victor Wanyama",
+      "Georgios Samaras"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "First goal",
+      "Barcelona",
+      "2012",
+      "Champions League"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 2-0 title-clinching win over St Johnstone in May 1998?",
+    "options": [
+      "Henrik Larsson",
+      "Harald Brattbakk",
+      "Craig Burley",
+      "Simon Donnelly"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "First goal",
+      "1998",
+      "Ten in a row",
+      "St Johnstone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 6-2 win over Rangers at Celtic Park in August 2000?",
+    "options": [
+      "Henrik Larsson",
+      "Stiliyan Petrov",
+      "Lubomir Moravcik",
+      "Chris Sutton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "First goal",
+      "Old Firm",
+      "2000",
+      "Martin O'Neill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 5-1 win over Rangers at Celtic Park in September 2016?",
+    "options": [
+      "Scott Sinclair",
+      "Moussa Dembele",
+      "Stuart Armstrong",
+      "Leigh Griffiths"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "First goal",
+      "Old Firm",
+      "2016",
+      "Brendan Rodgers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 3-0 win over Hibernian in the 2001 Scottish Cup Final?",
+    "options": [
+      "Henrik Larsson",
+      "Chris Sutton",
+      "Jackie McNamara",
+      "Lubomir Moravcik"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "2001",
+      "Treble"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 2-1 defeat at Motherwell on \"Helicopter Sunday\" in May 2005?",
+    "options": [
+      "Scott McDonald",
+      "Chris Sutton",
+      "Alan Thompson",
+      "John Hartson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "First goal",
+      "Helicopter Sunday",
+      "2005",
+      "Motherwell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 2-1 win over AC Milan at Celtic Park in October 2007?",
+    "options": [
+      "Stephen McManus",
+      "Scott McDonald",
+      "Kaka",
+      "Aiden McGeady"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "First goal",
+      "AC Milan",
+      "2007",
+      "Champions League"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 2-1 win over Aberdeen in the 2017 Scottish Cup Final?",
+    "options": [
+      "Stuart Armstrong",
+      "Tom Rogic",
+      "Kenny McLean",
+      "Jonny Hayes"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "2017",
+      "Invincibles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 3-1 win over Inverness Caledonian Thistle in the 2023 Scottish Cup Final?",
+    "options": [
+      "Liel Abada",
+      "Jota",
+      "Kyogo Furuhashi",
+      "Billy Mckay"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "2023",
+      "Treble"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 1-0 win over Barcelona at Celtic Park in the 2003-04 UEFA Cup?",
+    "options": [
+      "Alan Thompson",
+      "Henrik Larsson",
+      "Chris Sutton",
+      "John Hartson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "First goal",
+      "Barcelona",
+      "2004",
+      "UEFA Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 2-0 win over Liverpool at Anfield in the 2003 UEFA Cup quarter-final?",
+    "options": [
+      "John Hartson",
+      "Alan Thompson",
+      "Henrik Larsson",
+      "Emile Heskey"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "First goal",
+      "Liverpool",
+      "2003",
+      "UEFA Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "Who scored the first goal in Celtic's 1-0 home win over Blackburn Rovers in the 2002-03 UEFA Cup?",
+    "options": [
+      "Chris Sutton",
+      "Paul Lambert",
+      "Damien Duff",
+      "Henrik Larsson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "First goal",
+      "Blackburn",
+      "2002",
+      "UEFA Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Who scored the first goal in Celtic's 2-1 win over Dundee United in the 1988 Scottish Cup Final?",
+    "options": [
+      "Frank McAvennie",
+      "Kevin Gallacher",
+      "Andy Walker",
+      "Iain Ferguson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "1988",
+      "Centenary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-nights",
+    "difficulty": 4,
+    "question": "Who scored the first goal in Celtic's 1-0 win over Leeds United at Elland Road in the 1970 European Cup semi-final?",
+    "options": [
+      "George Connelly",
+      "Bobby Murdoch",
+      "John Hughes",
+      "Jimmy Johnstone"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "First goal",
+      "Leeds United",
+      "1970",
+      "European Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-nights",
+    "difficulty": 4,
+    "question": "Who scored the first goal in Celtic's 2-1 win over Leeds United at Hampden in the 1970 European Cup semi-final?",
+    "options": [
+      "John Hughes",
+      "Bobby Murdoch",
+      "Billy Bremner",
+      "Allan Clarke"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "First goal",
+      "Leeds United",
+      "1970",
+      "European Cup",
+      "Hampden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Who scored the first goal in Celtic's 4-0 win over Rangers in the 1969 Scottish Cup Final?",
+    "options": [
+      "George Connelly",
+      "Bobby Lennox",
+      "Stevie Chalmers",
+      "Billy McNeill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "1969",
+      "Old Firm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Who scored the first goal in Celtic's 2-1 win over Hearts in the 2019 Scottish Cup Final?",
+    "options": [
+      "Odsonne Edouard",
+      "Ryan Edwards",
+      "Uche Ikpeazu",
+      "Steven Naismith"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "2019",
+      "Treble treble"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored the first goal in Celtic's 2-1 win over Dundee United in the 1985 Scottish Cup Final?",
+    "options": [
+      "Davie Provan",
+      "Frank McGarvey",
+      "Stuart Beedie",
+      "Paul Sturrock"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "1985"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Who scored the first goal in Celtic's 3-1 home win over Dukla Prague in the 1967 European Cup semi-final?",
+    "options": [
+      "Jimmy Johnstone",
+      "Willie Wallace",
+      "Stevie Chalmers",
+      "Bobby Lennox"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "First goal",
+      "Dukla Prague",
+      "1967",
+      "European Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Who scored the first goal in Celtic's 2-0 home win over Vojvodina in the 1967 European Cup quarter-final?",
+    "options": [
+      "Billy McNeill",
+      "Bobby Lennox",
+      "Jimmy Johnstone",
+      "Stevie Chalmers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "First goal",
+      "Vojvodina",
+      "1967",
+      "European Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored the first goal in the 3-3 draw with Hearts in the December 2020 Scottish Cup Final, which Celtic won on penalties?",
+    "options": [
+      "Odsonne Edouard",
+      "Ryan Christie",
+      "Leigh Griffiths",
+      "Liam Boyce"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "2020",
+      "Quadruple treble"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored the first goal in Celtic's 2-0 win over Aberdeen in the 1967 Scottish Cup Final?",
+    "options": [
+      "Stevie Chalmers",
+      "Bobby Lennox",
+      "Willie Wallace",
+      "Jimmy Johnstone"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "1967",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored the first goal in Celtic's 7-1 win over Rangers in the 1957 League Cup Final?",
+    "options": [
+      "Billy McPhail",
+      "Neil Mochan",
+      "Willie Fernie",
+      "Sammy Wilson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "First goal",
+      "League Cup",
+      "1957",
+      "Old Firm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored the first goal in the 1965 Scottish Cup Final against Dunfermline, Jock Stein's first trophy as Celtic manager?",
+    "options": [
+      "Harry Melrose",
+      "Bertie Auld",
+      "Billy McNeill",
+      "John McLaughlin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "1965",
+      "Jock Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored the first goal in Celtic's 6-1 win over Hibernian in the 1972 Scottish Cup Final?",
+    "options": [
+      "Dixie Deans",
+      "Billy McNeill",
+      "Lou Macari",
+      "Jimmy Johnstone"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "First goal",
+      "Scottish Cup",
+      "1972",
+      "Dixie Deans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored the first goal in Celtic's 1-0 win over Rangers in the October 1966 League Cup Final?",
+    "options": [
+      "Joe McBride",
+      "Stevie Chalmers",
+      "Bobby Lennox",
+      "Willie Wallace"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "First goal",
+      "League Cup",
+      "1966",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored the first goal in Celtic's 3-0 win over Dundee United in the November 1997 League Cup Final?",
+    "options": [
+      "Henrik Larsson",
+      "Craig Burley",
+      "Simon Donnelly",
+      "Marc Rieper"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "First goal",
+      "League Cup",
+      "1997",
+      "Wim Jansen"
+    ],
+    "source": "manual"
+  }
+]

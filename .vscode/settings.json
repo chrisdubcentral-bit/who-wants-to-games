@@ -1,0 +1,14 @@
+{
+  // Publishing writes the question files one at a time. Without this, Live Server
+  // reloads the admin page after the first file and the rest never get saved.
+  "liveServer.settings.ignoreFiles": [
+    ".vscode/**",
+    "data/**"
+  ],
+  // Open pages on 127.0.0.1. Chrome/Edge only let the admin page's Publish save straight into
+  // data/questions on 127.0.0.1/localhost (or https), not on a network address.
+  // For phone testing, change these two lines to "0.0.0.0" and true (see README, "Testing on your phone"),
+  // then change them back afterwards.
+  "liveServer.settings.host": "127.0.0.1",
+  "liveServer.settings.useLocalIp": false
+}

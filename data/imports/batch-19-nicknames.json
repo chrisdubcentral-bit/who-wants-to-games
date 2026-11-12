@@ -1,0 +1,507 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which Celtic legend was nicknamed \"King Kenny\" by the fans?",
+    "options": [
+      "Kenny Miller",
+      "Kenny Dalglish",
+      "Kenny Burns",
+      "Kenny Black"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Nicknames",
+      "Kenny Dalglish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which Welsh centre forward was known to Celtic fans as \"Big Bad John\"?",
+    "options": [
+      "John Collins",
+      "John Kennedy",
+      "John Hartson",
+      "John Guidetti"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Nicknames",
+      "John Hartson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which nickname, rhyming with \"chocolate eclair\", was given to Brian McClair?",
+    "options": [
+      "Choccy",
+      "Eclair",
+      "Brownie",
+      "Sweetie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Nicknames",
+      "Brian McClair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "What animal nickname was given to powerful Celtic captain Roy Aitken?",
+    "options": [
+      "The Bull",
+      "The Lion",
+      "The Tiger",
+      "The Bear"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nicknames",
+      "Roy Aitken"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Australian striker Scott McDonald was nicknamed after which TV kangaroo?",
+    "options": [
+      "Bluey",
+      "Skippy",
+      "Joey",
+      "Roo"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Nicknames",
+      "Scott McDonald"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Which Celtic striker was known as \"Champagne Charlie\"?",
+    "options": [
+      "Charlie Nicholas",
+      "Charlie Tully",
+      "Charlie Mulgrew",
+      "Charlie Gallagher"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Nicknames",
+      "Charlie Nicholas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which Celtic striker was nicknamed \"The Evil Genius\" by supporters?",
+    "options": [
+      "Henrik Larsson",
+      "Craig Bellamy",
+      "John Hartson",
+      "Chris Sutton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nicknames",
+      "Chris Sutton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which Slovak playmaker was known to Celtic fans as \"The Magician\"?",
+    "options": [
+      "Stiliyan Petrov",
+      "Lubomir Moravcik",
+      "Didier Agathe",
+      "Paul Lambert"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Nicknames",
+      "Lubomir Moravcik"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which Celtic winger was nicknamed \"The Derry Pele\"?",
+    "options": [
+      "Aiden McGeady",
+      "Shane Duffy",
+      "Paddy McCourt",
+      "James McClean"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Nicknames",
+      "Paddy McCourt"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which Lisbon Lion was nicknamed \"Buzz Bomb\" for his blistering pace?",
+    "options": [
+      "Bobby Lennox",
+      "Bobby Murdoch",
+      "Willie Wallace",
+      "Stevie Chalmers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Nicknames",
+      "Bobby Lennox",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Swedish defender Johan Mjallby was nicknamed after which action film star?",
+    "options": [
+      "Arnold Schwarzenegger",
+      "Sylvester Stallone",
+      "Jean-Claude Van Damme",
+      "Dolph Lundgren"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nicknames",
+      "Johan Mjallby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "What nickname did 1980s midfielder Murdo MacLeod earn for his strong running?",
+    "options": [
+      "Bulldog",
+      "Rhino",
+      "Buffalo",
+      "Hippo"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Nicknames",
+      "Murdo MacLeod"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which Celtic winger did the French press nickname \"The Flying Flea\"?",
+    "options": [
+      "John Hughes",
+      "Bobby Lennox",
+      "Jimmy Johnstone",
+      "Davie Hay"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Nicknames",
+      "Jimmy Johnstone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which Celtic midfielder was nicknamed \"The Pointer\" for directing his team-mates?",
+    "options": [
+      "Peter Grant",
+      "Paul McStay",
+      "Roy Aitken",
+      "Tommy Burns"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Nicknames",
+      "Peter Grant"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which Celtic captain was nicknamed \"Shep\" for looking after the young players?",
+    "options": [
+      "Kenny Dalglish",
+      "Roy Aitken",
+      "Tommy Burns",
+      "Danny McGrain"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nicknames",
+      "Danny McGrain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which hard-tackling Celtic midfielder was known as \"The Quiet Assassin\"?",
+    "options": [
+      "Bobby Murdoch",
+      "Davie Hay",
+      "John Clark",
+      "Pat Bonner"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Nicknames",
+      "Davie Hay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Lisbon Lion Bertie Auld was given which nickname that rhymes with \"Bertie\"?",
+    "options": [
+      "Half-Ten",
+      "Quarter-Past",
+      "Ten-Thirty",
+      "Five-to-Five"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Nicknames",
+      "Bertie Auld",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "1960s Celtic winger John Hughes was nicknamed after which cartoon bear?",
+    "options": [
+      "Yogi",
+      "Baloo",
+      "Paddington",
+      "Rupert"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Nicknames",
+      "John Hughes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Lisbon Lion was nicknamed \"The Brush\" for his role as sweeper?",
+    "options": [
+      "Billy McNeill",
+      "Jim Craig",
+      "Tommy Gemmell",
+      "John Clark"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nicknames",
+      "John Clark",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Celtic record goalscorer was known as \"The Human Torpedo\"?",
+    "options": [
+      "Jimmy Quinn",
+      "Jimmy McGrory",
+      "Patsy Gallacher",
+      "Bobby Lennox"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Nicknames",
+      "Jimmy McGrory"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Lisbon Lion was nicknamed \"Danny Kaye\" after the American comedian?",
+    "options": [
+      "Jim Craig",
+      "Bobby Murdoch",
+      "Tommy Gemmell",
+      "Stevie Chalmers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Nicknames",
+      "Tommy Gemmell",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which early Celtic striker was nicknamed \"The Croy Express\"?",
+    "options": [
+      "Jimmy Quinn",
+      "Jimmy McGrory",
+      "Patsy Gallacher",
+      "Jimmy McMenemy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Nicknames",
+      "Jimmy Quinn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which small but explosive Celtic forward was known as \"The Mighty Atom\"?",
+    "options": [
+      "Jimmy McMenemy",
+      "Alec McNair",
+      "Sandy McMahon",
+      "Patsy Gallacher"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nicknames",
+      "Patsy Gallacher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which nickname did Jimmy McMenemy earn for the way he marshalled play?",
+    "options": [
+      "The Duke",
+      "Napoleon",
+      "The General",
+      "The Emperor"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Nicknames",
+      "Jimmy McMenemy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Jim Craig was nicknamed \"Cairney\" after an actor who starred in which TV show?",
+    "options": [
+      "Z-Cars",
+      "Dr Finlay's Casebook",
+      "This Man Craig",
+      "The Avengers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Nicknames",
+      "Jim Craig",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  }
+]

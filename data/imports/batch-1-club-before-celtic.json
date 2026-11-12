@@ -1,0 +1,207 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did Chris Sutton play for immediately before joining Celtic?",
+    "options": [
+      "Blackburn Rovers",
+      "Chelsea",
+      "Norwich City",
+      "Aston Villa"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Chris Sutton",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did John Hartson play for immediately before joining Celtic?",
+    "options": [
+      "West Ham United",
+      "Wimbledon",
+      "Coventry City",
+      "Arsenal"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "John Hartson",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did Shunsuke Nakamura play for immediately before joining Celtic?",
+    "options": [
+      "Reggina",
+      "Yokohama F. Marinos",
+      "Espanyol",
+      "Jubilo Iwata"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Shunsuke Nakamura",
+      "Transfers",
+      "Japan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did Scott Brown play for immediately before joining Celtic?",
+    "options": [
+      "Heart of Midlothian",
+      "Dundee United",
+      "Aberdeen",
+      "Hibernian"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Scott Brown",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which club did Kyogo Furuhashi play for immediately before joining Celtic?",
+    "options": [
+      "Kawasaki Frontale",
+      "Vissel Kobe",
+      "FC Gifu",
+      "Yokohama F. Marinos"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kyogo Furuhashi",
+      "Transfers",
+      "Japan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Virgil van Dijk play for immediately before joining Celtic?",
+    "options": [
+      "Willem II",
+      "Feyenoord",
+      "Groningen",
+      "Southampton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Virgil van Dijk",
+      "Transfers",
+      "Netherlands"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Paolo Di Canio play for immediately before joining Celtic?",
+    "options": [
+      "AC Milan",
+      "Juventus",
+      "Napoli",
+      "Lazio"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paolo Di Canio",
+      "Transfers",
+      "Italy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Lubomir Moravcik play for immediately before joining Celtic?",
+    "options": [
+      "Saint-Etienne",
+      "Bastia",
+      "Nitra",
+      "MSV Duisburg"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lubomir Moravcik",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Stiliyan Petrov play for immediately before joining Celtic?",
+    "options": [
+      "Levski Sofia",
+      "CSKA Sofia",
+      "Montana",
+      "Aston Villa"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Stiliyan Petrov",
+      "Transfers",
+      "Bulgaria"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which club did Victor Wanyama play for immediately before joining Celtic?",
+    "options": [
+      "Helsingborgs IF",
+      "Anderlecht",
+      "Beerschot",
+      "Southampton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Victor Wanyama",
+      "Transfers"
+    ],
+    "source": "manual"
+  }
+]

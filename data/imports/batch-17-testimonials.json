@@ -1,0 +1,218 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Roy Keane's 2006 testimonial was played between Celtic and which club?",
+    "options": [
+      "Liverpool",
+      "Arsenal",
+      "Manchester United",
+      "Real Madrid"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Testimonials",
+      "Roy Keane",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "celtic-history",
+    "difficulty": 2,
+    "question": "Henrik Larsson's 2004 testimonial at Celtic Park was against which club?",
+    "options": [
+      "Sevilla",
+      "Porto",
+      "Barcelona",
+      "Feyenoord"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Testimonials",
+      "Henrik Larsson",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "At which stadium was Roy Keane's 2006 testimonial against Celtic played?",
+    "options": [
+      "Celtic Park",
+      "Old Trafford",
+      "Hampden Park",
+      "Wembley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Testimonials",
+      "Roy Keane",
+      "2006",
+      "Old Trafford"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "In which year did Henrik Larsson have his testimonial match at Celtic Park?",
+    "options": [
+      "2002",
+      "2003",
+      "2005",
+      "2004"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Testimonials",
+      "Henrik Larsson",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which team did Roy Keane play for in his 2006 testimonial?",
+    "options": [
+      "Celtic only",
+      "Manchester United only",
+      "One half for each team",
+      "He did not play"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Testimonials",
+      "Roy Keane",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Ryan Giggs' 2001 testimonial at Old Trafford was against which club?",
+    "options": [
+      "Celtic",
+      "Rangers",
+      "Juventus",
+      "Real Madrid"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Testimonials",
+      "Ryan Giggs",
+      "2001",
+      "Old Trafford"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Jock Stein's 1978 testimonial at Celtic Park was against which English club?",
+    "options": [
+      "Manchester United",
+      "Leeds United",
+      "Nottingham Forest",
+      "Liverpool"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Testimonials",
+      "Jock Stein",
+      "1978"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "In 1989 Celtic hosted Liverpool in a fundraising match for the victims of which disaster?",
+    "options": [
+      "Bradford",
+      "Hillsborough",
+      "Heysel",
+      "Ibrox"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Testimonials",
+      "Liverpool",
+      "1989",
+      "Hillsborough",
+      "Fundraiser"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Which former Celtic star played against Celtic for Liverpool in Jock Stein's 1978 testimonial?",
+    "options": [
+      "Kenny Dalglish",
+      "Lou Macari",
+      "Danny McGrain",
+      "Davie Hay"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Testimonials",
+      "Jock Stein",
+      "1978",
+      "Kenny Dalglish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Roughly how many fans attended Roy Keane's 2006 testimonial at Old Trafford?",
+    "options": [
+      "30,000",
+      "45,000",
+      "69,000",
+      "85,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Testimonials",
+      "Roy Keane",
+      "2006",
+      "Crowd"
+    ],
+    "source": "manual"
+  }
+]

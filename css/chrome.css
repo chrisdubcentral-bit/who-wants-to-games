@@ -1,0 +1,256 @@
+/* Chrome Studio — game show look for the game only (index.html).
+   Loaded after game.css. The admin review page does not load this file. */
+
+:root {
+  --chrome: linear-gradient(180deg, #fbfdfc 0%, #b9c3bd 20%, #66716b 47%, #e6ebe8 53%, #929d97 80%, #f0f4f2 100%);
+  --chrome-text: linear-gradient(180deg, #ffffff 0%, #cfd7d2 38%, #76817b 52%, #f2f5f3 60%, #a9b3ad 100%);
+  --plate: linear-gradient(180deg, #17513c 0%, #0b2b20 55%, #071c15 100%);
+  --plate-hover: linear-gradient(180deg, #1f6a4f 0%, #0e3628 55%, #092219 100%);
+  --plate-panel: linear-gradient(180deg, #0f3a2a 0%, #07160f 100%);
+  --plate-dull: linear-gradient(180deg, #14211b 0%, #0c1511 100%);
+  --gold-plate: linear-gradient(180deg, #f6e2a6 0%, #d2b064 50%, #a78439 100%);
+  --gold-plate-hover: linear-gradient(180deg, #fbecbd 0%, #dcbc73 50%, #b08c3e 100%);
+  --gold-rim: linear-gradient(180deg, #fff3cf 0%, #e0c27a 25%, #8f6f2c 50%, #f1d999 56%, #c7a45a 100%);
+  --ink-gold: #1a1405;
+}
+
+/* ================= Studio backdrop ================= */
+body {
+  background-color: #06100B;
+  background-image:
+    radial-gradient(ellipse 70% 55% at 40% -8%, rgba(31, 138, 98, 0.50), transparent 70%),
+    radial-gradient(ellipse 60% 35% at 45% 108%, rgba(20, 107, 76, 0.40), transparent 70%);
+}
+/* Two crossing spotlight beams */
+body::before, body::after {
+  content: ""; position: fixed; z-index: -1; pointer-events: none;
+  top: -20vh; width: clamp(80px, 11vw, 160px); height: 150vh;
+  background: linear-gradient(180deg, rgba(220, 255, 240, 0.15), rgba(220, 255, 240, 0));
+}
+body::before { left: 12vw; transform: rotate(24deg); }
+body::after { right: 32vw; transform: rotate(-24deg); }
+
+/* ================= Top bar ================= */
+.topbar {
+  background: rgba(6, 16, 11, 0.86);
+  border-bottom: 2px solid transparent;
+  border-image: linear-gradient(90deg, #66716b 0%, #fbfdfc 30%, #929d97 50%, #fbfdfc 70%, #66716b 100%) 1;
+}
+.brand-title {
+  font-weight: 900; letter-spacing: 0.2em;
+  background: var(--chrome-text); -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+.brand-sub { color: var(--gold-bright); }
+
+/* ================= Chrome lettering ================= */
+.title-main, .stage-title h1, .page-head h1, .results.is-eliminated .results-hero h1 {
+  font-weight: 900;
+  background: var(--chrome-text); -webkit-background-clip: text; background-clip: text; color: transparent;
+  filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.55));
+  text-shadow: none;
+}
+.stage-title h1 { font-size: clamp(1.35rem, 3.2vw, 2.1rem); line-height: 1.05; }
+.stage-title { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; }
+.stage-title h1 { order: 1; }
+.stage-title .eyebrow { order: 2; }
+.stage-title .eyebrow, .question-panel .eyebrow { color: var(--gold-bright); }
+
+/* ================= Buttons ================= */
+.btn:not(.btn-ghost, .btn-danger, .btn-gold-outline) {
+  --btn-bg: var(--plate);
+  border: 2px solid transparent;
+  background: var(--btn-bg) padding-box, var(--chrome) border-box;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.28), 0 8px 22px rgba(0, 0, 0, 0.45);
+}
+.btn:not(.btn-ghost, .btn-danger, .btn-gold-outline):hover:not(:disabled) {
+  background: var(--plate-hover) padding-box, var(--chrome) border-box;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 24px rgba(31, 138, 98, 0.45);
+}
+.btn.btn-primary {
+  --btn-bg: var(--gold-plate);
+  --btn-color: var(--ink-gold);
+  font-weight: 800;
+  background: var(--gold-plate) padding-box, var(--gold-rim) border-box;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 30px rgba(224, 194, 122, 0.35);
+}
+.btn.btn-primary:hover:not(:disabled) {
+  background: var(--gold-plate-hover) padding-box, var(--gold-rim) border-box;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 40px rgba(224, 194, 122, 0.55);
+}
+.btn.btn-emerald { --btn-bg: linear-gradient(180deg, #2aa878 0%, #146B4C 100%); }
+
+/* ================= Panels ================= */
+.card {
+  border: 2px solid transparent;
+  background: var(--plate-panel) padding-box, var(--chrome) border-box;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.16), 0 16px 40px rgba(0, 0, 0, 0.5);
+}
+.sheet .ladder { background: none; border: 0; box-shadow: none; }
+.how-card .icon { border-radius: 50%; background: var(--chrome); border: 0; color: #0b1a13; }
+.recent li { border-radius: 999px; padding: 10px 18px; }
+
+/* ================= Question ================= */
+.question-panel {
+  border-width: 4px; border-radius: 30px;
+  min-height: clamp(150px, 24vh, 216px);
+  padding: clamp(22px, 4vw, 34px) clamp(20px, 4.5vw, 44px);
+  display: flex; flex-direction: column; align-items: center; justify-content: center; gap: var(--sp-3);
+  text-align: center;
+  background: linear-gradient(180deg, #14503a 0%, #0b2c21 50%, #071a14 100%) padding-box, var(--chrome) border-box;
+  box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.22), inset 0 -30px 60px rgba(0, 0, 0, 0.35),
+    0 16px 40px rgba(0, 0, 0, 0.55), 0 0 60px rgba(31, 138, 98, 0.35);
+}
+.question-panel::before { display: none; }
+.question-panel .eyebrow { margin-bottom: 0; }
+.question-text { font-size: clamp(1.3rem, 2.9vw, 2rem); line-height: 1.25; }
+
+/* ================= Answers ================= */
+.answers { gap: 18px 22px; }
+.answer {
+  min-height: 68px;
+  padding: 8px 22px 8px 12px;
+  gap: var(--sp-4);
+  border: 3px solid transparent; border-radius: 999px;
+  background: var(--plate) padding-box, var(--chrome) border-box;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.28), 0 8px 22px rgba(0, 0, 0, 0.5);
+  font-size: 1.15rem; font-weight: 600;
+}
+.answer .letter {
+  width: 42px; height: 42px; border-radius: 50%; border: 0;
+  background: linear-gradient(160deg, #ffffff 0%, #aab4ae 45%, #6b7670 55%, #e6ebe8 100%);
+  color: #0b1a13; font-weight: 900; font-size: 1.05rem;
+}
+/* Mouse only, so a phone's sticky "hover" doesn't light up the next question's answer. */
+@media (hover: hover) and (pointer: fine) {
+  .answer:hover:not(:disabled) {
+    background: var(--plate-hover) padding-box, var(--chrome) border-box;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), 0 8px 22px rgba(0, 0, 0, 0.5), 0 0 26px rgba(31, 138, 98, 0.55);
+  }
+}
+
+.answer.is-selected {
+  background: var(--gold-plate) padding-box, var(--gold-rim) border-box;
+  color: var(--ink-gold); font-weight: 700;
+}
+.answer.is-selected .letter { background: var(--ink-gold); color: #f6e2a6; }
+.answer.is-selected .mark { opacity: 1; }
+.answer.is-selected .mark::after {
+  content: "Final answer";
+  font-family: var(--font-display); font-size: 0.68rem; font-weight: 800; letter-spacing: 0.16em; text-transform: uppercase;
+}
+
+.answer.is-correct {
+  background: linear-gradient(180deg, #6ee39c 0%, #35b068 55%, #238a4d 100%) padding-box, var(--chrome) border-box;
+  color: #04170b; font-weight: 700;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.5), 0 8px 22px rgba(0, 0, 0, 0.5), 0 0 34px rgba(62, 183, 106, 0.65);
+}
+.answer.is-correct .letter { background: #04170b; color: #a5ecc0; }
+.answer.is-correct .mark { color: #04170b; }
+
+.answer.is-wrong {
+  background: linear-gradient(180deg, #d95252 0%, #b03232 55%, #842020 100%) padding-box, var(--chrome) border-box;
+  color: #ffffff; font-weight: 700;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), 0 8px 22px rgba(0, 0, 0, 0.5), 0 0 34px rgba(224, 78, 78, 0.6);
+}
+.answer.is-wrong .letter { background: #2a0707; color: #ffb4b4; }
+.answer.is-wrong .mark { color: #ffffff; }
+
+.answer.is-removed {
+  background: var(--plate-dull) padding-box, linear-gradient(#4f5a54, #4f5a54) border-box;
+  box-shadow: none;
+}
+
+/* ================= 50:50 ================= */
+/* Gold, like Kick Off, so the lifeline stands out from the green answer plates. */
+.btn.lifeline {
+  --btn-bg: var(--gold-plate);
+  --btn-color: var(--ink-gold);
+  min-height: 52px; font-size: 1.15rem; font-weight: 800; letter-spacing: 0.06em;
+  background: var(--gold-plate) padding-box, var(--gold-rim) border-box;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 30px rgba(224, 194, 122, 0.35);
+}
+.btn.lifeline:hover:not(:disabled) {
+  background: var(--gold-plate-hover) padding-box, var(--gold-rim) border-box;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 40px rgba(224, 194, 122, 0.55);
+}
+.btn.lifeline.is-used {
+  --btn-bg: var(--plate-dull);
+  --btn-color: var(--grey-muted);
+  background: var(--plate-dull) padding-box, linear-gradient(#4f5a54, #4f5a54) border-box;
+  box-shadow: none;
+}
+.kbd-hint { color: #A9B8AF; align-self: center; }
+
+/* Sound toggle on How To Play: gold when on, plain plate when off. */
+.how-card .sound-toggle { justify-self: start; min-width: 140px; }
+.btn.sound-toggle.is-on {
+  --btn-color: var(--ink-gold);
+  background: var(--gold-plate) padding-box, var(--gold-rim) border-box;
+}
+.btn.sound-toggle.is-on:hover:not(:disabled) { background: var(--gold-plate-hover) padding-box, var(--gold-rim) border-box; }
+
+/* ================= Ladder ================= */
+.ladder { border-width: 3px; border-radius: 24px; padding: 22px 18px; }
+.ladder-head { justify-content: center; }
+.ladder-head .eyebrow { color: var(--grey-light); }
+.ladder-list { gap: 9px; }
+.rung {
+  grid-template-columns: 1fr auto auto;
+  min-height: 50px; padding: 0 18px;
+  border-radius: 999px;
+  border: 1px solid rgba(200, 208, 202, 0.25);
+  background: transparent;
+  color: var(--grey-light);
+  font-size: 0.86rem; letter-spacing: 0.06em;
+}
+.rung .num { order: 2; font-size: 0.8rem; color: inherit; opacity: 1; }
+.rung .icons { order: 3; }
+.rung .check { color: #6FE0A6; font-size: 1rem; }
+.rung.is-final { color: var(--gold-bright); border-color: rgba(224, 194, 122, 0.6); font-weight: 800; }
+.rung.is-done {
+  color: var(--white);
+  background: rgba(31, 138, 98, 0.28);
+  border-color: transparent;
+}
+.rung.is-done .num { display: none; }
+.rung.is-current {
+  min-height: 62px;
+  border: 3px solid transparent;
+  background: var(--gold-plate) padding-box, var(--chrome) border-box;
+  color: var(--ink-gold); font-weight: 900; font-size: 0.95rem;
+}
+.rung.is-current .num { color: var(--ink-gold); }
+.rung.is-lost { border: 1px solid rgba(224, 78, 78, 0.7); color: #f3a3a3; background: rgba(224, 78, 78, 0.14); }
+
+/* ================= Small screens ================= */
+@media (max-width: 640px) {
+  .question-panel { border-radius: 22px; border-width: 3px; }
+  .answers { gap: 12px; }
+  .answer { min-height: 60px; font-size: 1.05rem; }
+  .answer .letter { width: 38px; height: 38px; }
+  .answer.is-selected .mark::after { content: ""; }
+  body::after { display: none; }
+}
+
+/* Home title: keep each of the two lines unbroken, scaling down on narrow screens */
+.title-main { white-space: nowrap; font-size: clamp(1.2rem, 6.2vw, 3.6rem); }
+
+/* Phone: no "Road to the Final · View ladder" strip on the game page */
+@media (max-width: 899px) {
+  .quiz .strip { display: none; }
+}
+
+/* Phone: Home on the results and Top 100 pages is a plate button instead of a plain link */
+@media (max-width: 640px) {
+  .results-row .btn.btn-ghost,
+  .btn.btn-ghost.btn-plate-phone {
+    --btn-color: var(--white);
+    border: 2px solid transparent;
+    background: var(--plate) padding-box, var(--chrome) border-box;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.28), 0 8px 22px rgba(0, 0, 0, 0.45);
+  }
+  .results-row .btn.btn-ghost:hover:not(:disabled),
+  .btn.btn-ghost.btn-plate-phone:hover:not(:disabled) {
+    background: var(--plate-hover) padding-box, var(--chrome) border-box;
+  }
+}

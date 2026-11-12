@@ -1,0 +1,625 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "managers",
+    "difficulty": 4,
+    "question": "Which former Celtic striker managed the club throughout the 1950s?",
+    "options": [
+      "Willie Maley",
+      "Jimmy McGrory",
+      "Jock Stein",
+      "Jimmy McStay"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1950s",
+      "Jimmy McGrory"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "By what score did Celtic beat Rangers in the 1957 League Cup Final?",
+    "options": [
+      "5-1",
+      "6-0",
+      "7-1",
+      "4-2"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1950s",
+      "League Cup",
+      "1957",
+      "Old Firm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which country did 1950s Celtic winger Charlie Tully come from?",
+    "options": [
+      "Northern Ireland",
+      "Republic of Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1950s",
+      "Charlie Tully"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Which English club did Celtic beat in the semi-final of the 1953 Coronation Cup?",
+    "options": [
+      "Arsenal",
+      "Tottenham Hotspur",
+      "Newcastle United",
+      "Manchester United"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1950s",
+      "Coronation Cup",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Celtic completed the league and cup double in 1954 by beating which club in the Scottish Cup Final?",
+    "options": [
+      "Hearts",
+      "Aberdeen",
+      "Motherwell",
+      "Clyde"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1950s",
+      "Scottish Cup",
+      "1954",
+      "Double"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "In a 1953 Scottish Cup tie at Falkirk, Charlie Tully famously scored twice directly from what?",
+    "options": [
+      "A free kick",
+      "A kick-off",
+      "A corner",
+      "A goal kick"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1950s",
+      "Charlie Tully",
+      "Falkirk"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "From which Welsh non-league club did Celtic sign Jock Stein as a player in 1951?",
+    "options": [
+      "Swansea Town",
+      "Cardiff City",
+      "Wrexham",
+      "Llanelli"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1950s",
+      "Jock Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "In 1952, the SFA ordered Celtic to stop flying which flag at Celtic Park?",
+    "options": [
+      "The Irish tricolour",
+      "The Union Flag",
+      "The Saltire",
+      "The Papal flag"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1950s",
+      "Flag dispute",
+      "1952"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What nickname was given to small but fearless 1950s Celtic forward Bobby Collins?",
+    "options": [
+      "Jinky",
+      "The Wee Barra",
+      "Caesar",
+      "Smiler"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1950s",
+      "Bobby Collins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which English club signed Bertie Auld from Celtic in 1961, before he returned in 1965?",
+    "options": [
+      "Aston Villa",
+      "Wolverhampton Wanderers",
+      "Birmingham City",
+      "West Bromwich Albion"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1950s",
+      "Bertie Auld"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Which London club did Celtic beat in the first round of the 1953 Coronation Cup?",
+    "options": [
+      "Tottenham Hotspur",
+      "Chelsea",
+      "Fulham",
+      "Arsenal"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1950s",
+      "Coronation Cup",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which Celtic goalkeeper was the hero of the 1953 Coronation Cup Final against Hibernian?",
+    "options": [
+      "Johnny Bonnar",
+      "Frank Haffey",
+      "Dick Beattie",
+      "Willie Miller"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1950s",
+      "Coronation Cup",
+      "Johnny Bonnar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Which club did Celtic beat 1-0 in the 1951 Scottish Cup Final?",
+    "options": [
+      "Hibernian",
+      "Motherwell",
+      "Hearts",
+      "Clyde"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1950s",
+      "Scottish Cup",
+      "1951"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Which club beat Celtic in the 1955 Scottish Cup Final after a replay?",
+    "options": [
+      "Hearts",
+      "Aberdeen",
+      "Clyde",
+      "Rangers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1950s",
+      "Scottish Cup",
+      "1955"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Which Edinburgh club beat Celtic 3-1 in the 1956 Scottish Cup Final?",
+    "options": [
+      "Hibernian",
+      "Heart of Midlothian",
+      "Edinburgh City",
+      "Leith Athletic"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1950s",
+      "Scottish Cup",
+      "1956"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "Celtic won their first ever League Cup in 1956-57, beating which club in a replayed final?",
+    "options": [
+      "Rangers",
+      "Dundee",
+      "Motherwell",
+      "Partick Thistle"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1950s",
+      "League Cup",
+      "1956"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What was the nickname of 1950s Celtic forward Neil Mochan?",
+    "options": [
+      "Smiler",
+      "The Wee Barra",
+      "Cheeky Charlie",
+      "Big Jock"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1950s",
+      "Neil Mochan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Who was Celtic's chairman throughout the 1950s?",
+    "options": [
+      "Tom White",
+      "John Glass",
+      "Robert Kelly",
+      "Desmond White"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1950s",
+      "Chairman",
+      "Robert Kelly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which Irish defender of the 1950s later became Jock Stein's assistant manager at Celtic?",
+    "options": [
+      "Bertie Peacock",
+      "Sean Fallon",
+      "Bobby Evans",
+      "Mike Jackson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1950s",
+      "Sean Fallon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "From which junior club did Celtic sign Billy McNeill in 1957?",
+    "options": [
+      "Pollok",
+      "Cambuslang Rangers",
+      "Kilsyth Rangers",
+      "Blantyre Victoria"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1950s",
+      "Billy McNeill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored Rangers' only goal in their 7-1 League Cup Final defeat to Celtic in 1957?",
+    "options": [
+      "Billy Simpson",
+      "Max Murray",
+      "Johnny Hubbard",
+      "Sammy Baird"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1950s",
+      "League Cup",
+      "1957",
+      "Old Firm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Which Celtic player scored a late penalty to make it 7-1 in the 1957 League Cup Final?",
+    "options": [
+      "Neil Mochan",
+      "Sammy Wilson",
+      "Willie Fernie",
+      "Bobby Collins"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1950s",
+      "League Cup",
+      "1957",
+      "Willie Fernie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "From which English club did Celtic sign Neil Mochan in 1953?",
+    "options": [
+      "Sunderland",
+      "Middlesbrough",
+      "Newcastle United",
+      "Leeds United"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1950s",
+      "Neil Mochan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored Celtic's famous long-range opening goal in the 1953 Coronation Cup Final?",
+    "options": [
+      "Jimmy Walsh",
+      "Charlie Tully",
+      "Bobby Collins",
+      "Neil Mochan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1950s",
+      "Coronation Cup",
+      "Neil Mochan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "Celtic's 1953-54 league title was their first since which year?",
+    "options": [
+      "1938",
+      "1946",
+      "1926",
+      "1948"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1950s",
+      "League title",
+      "1954"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Who captained Celtic to the league and Scottish Cup double in 1953-54?",
+    "options": [
+      "Bertie Peacock",
+      "Bobby Evans",
+      "Jock Stein",
+      "Sean Fallon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1950s",
+      "Jock Stein",
+      "Double"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Celtic won the 1951 St Mungo Cup, part of the Festival of Britain, by beating which club in the final?",
+    "options": [
+      "Hibernian",
+      "Aberdeen",
+      "Motherwell",
+      "Rangers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1950s",
+      "St Mungo Cup",
+      "1951"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which English club bought Bobby Collins from Celtic in 1958?",
+    "options": [
+      "Leeds United",
+      "Liverpool",
+      "Manchester City",
+      "Everton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1950s",
+      "Bobby Collins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which brother of 1957 hat-trick hero Billy McPhail scored Celtic's winner in the 1951 Scottish Cup Final?",
+    "options": [
+      "John McPhail",
+      "Jimmy McPhail",
+      "Peter McPhail",
+      "Tommy McPhail"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1950s",
+      "John McPhail",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Red-haired Celtic and Scotland wing-half Bobby Evans left for which London club in 1960?",
+    "options": [
+      "Arsenal",
+      "Tottenham Hotspur",
+      "Chelsea",
+      "Fulham"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1950s",
+      "Bobby Evans"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "stages": [
+    { "order": 1, "key": "qualifier-1",   "label": "1st Qualifier",  "short": "Q1",    "difficulty": [1, 1] },
+    { "order": 2, "key": "qualifier-2",   "label": "2nd Qualifier",  "short": "Q2",    "difficulty": [1, 2] },
+    { "order": 3, "key": "playoff",       "label": "Playoff",        "short": "PO",    "difficulty": [2, 2] },
+    { "order": 4, "key": "round-1",       "label": "First Round",    "short": "R1",    "difficulty": [2, 3] },
+    { "order": 5, "key": "round-2",       "label": "Second Round",   "short": "R2",    "difficulty": [3, 3] },
+    { "order": 6, "key": "quarter-final", "label": "Quarter Finals", "short": "QF",    "difficulty": [3, 4] },
+    { "order": 7, "key": "semi-final",    "label": "Semi Final",     "short": "SF",    "difficulty": [4, 5] },
+    { "order": 8, "key": "final",         "label": "Final",          "short": "F",     "difficulty": [5, 5] }
+  ]
+}

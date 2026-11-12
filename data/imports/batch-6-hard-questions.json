@@ -1,0 +1,619 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Which Marist brother founded Celtic in 1887 to raise money for the poor of Glasgow's East End?",
+    "options": [
+      "John Glass",
+      "Brother Walfrid",
+      "Tom Maley",
+      "Willie Maley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Founding",
+      "Brother Walfrid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "How many Scottish league titles in a row did Celtic win under Jock Stein from 1966?",
+    "options": [
+      "Seven",
+      "Eight",
+      "Nine",
+      "Ten"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Nine in a row",
+      "Jock Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-campaigns",
+    "difficulty": 4,
+    "question": "Henrik Larsson broke his leg in a 1999 UEFA Cup match against which French club?",
+    "options": [
+      "Lyon",
+      "Bordeaux",
+      "Monaco",
+      "Marseille"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Henrik Larsson",
+      "UEFA Cup",
+      "1999"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-campaigns",
+    "difficulty": 4,
+    "question": "Which English club, managed by Graeme Souness, did Celtic knock out of the 2002-03 UEFA Cup in the second round?",
+    "options": [
+      "Aston Villa",
+      "Leeds United",
+      "Fulham",
+      "Blackburn Rovers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "UEFA Cup",
+      "2003",
+      "Seville run"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "domestic-trophies",
+    "difficulty": 4,
+    "question": "In which year did Celtic win the league to stop Rangers winning ten titles in a row?",
+    "options": [
+      "1996",
+      "1997",
+      "1998",
+      "1999"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ten in a row",
+      "Wim Jansen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Celtic striker won the European Golden Shoe in 2001?",
+    "options": [
+      "Henrik Larsson",
+      "Chris Sutton",
+      "John Hartson",
+      "Mark Viduka"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Henrik Larsson",
+      "Golden Shoe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-nights",
+    "difficulty": 4,
+    "question": "Which teenager scored Celtic's second goal in the 2-1 win over Barcelona at Celtic Park in November 2012?",
+    "options": [
+      "Victor Wanyama",
+      "Tony Watt",
+      "Georgios Samaras",
+      "Gary Hooper"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barcelona",
+      "Tony Watt",
+      "2012"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "managers",
+    "difficulty": 4,
+    "question": "Who managed Celtic to the league and Scottish Cup double in the club's centenary season of 1987-88?",
+    "options": [
+      "David Hay",
+      "Tommy Burns",
+      "Liam Brady",
+      "Billy McNeill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Centenary",
+      "Billy McNeill",
+      "Double"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "By what score did Celtic beat Rangers in Martin O'Neill's first Old Firm game in August 2000?",
+    "options": [
+      "5-1",
+      "6-2",
+      "4-0",
+      "6-1"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Old Firm",
+      "Martin O'Neill",
+      "2000"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-campaigns",
+    "difficulty": 4,
+    "question": "Which club knocked Celtic out of the 2006-07 Champions League last 16 with an extra-time goal from Kaka?",
+    "options": [
+      "AC Milan",
+      "Barcelona",
+      "Inter Milan",
+      "Bayern Munich"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Champions League",
+      "Kaka",
+      "2007"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Celtic won their first ever match, in May 1888, 5-2 against which club?",
+    "options": [
+      "Hibernian",
+      "Queen's Park",
+      "Rangers",
+      "Clyde"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "First match",
+      "1888"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-achievements",
+    "difficulty": 5,
+    "question": "In 1966-67 Celtic won every competition they entered. How many trophies did they win that season?",
+    "options": [
+      "Three",
+      "Four",
+      "Six",
+      "Five"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lisbon Lions",
+      "1967",
+      "Glasgow Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-campaigns",
+    "difficulty": 5,
+    "question": "Which Spanish club did Celtic beat in the third round of the 2002-03 UEFA Cup?",
+    "options": [
+      "Celta Vigo",
+      "Valencia",
+      "Real Betis",
+      "Deportivo La Coruna"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "UEFA Cup",
+      "2003",
+      "Seville run"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-campaigns",
+    "difficulty": 5,
+    "question": "Which German club did Celtic beat in the fourth round of the 2002-03 UEFA Cup?",
+    "options": [
+      "Bayern Munich",
+      "VfB Stuttgart",
+      "Schalke 04",
+      "Hertha Berlin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "UEFA Cup",
+      "2003",
+      "Seville run"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who headed the only goal of the 1995 Scottish Cup Final, ending Celtic's six-year wait for a trophy?",
+    "options": [
+      "Andreas Thom",
+      "John Collins",
+      "Pierre van Hooijdonk",
+      "Paul McStay"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Scottish Cup",
+      "1995",
+      "Airdrieonians"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Which Celtic goalkeeper saved a late Louis Saha penalty in the 1-0 win over Manchester United in November 2006?",
+    "options": [
+      "Rab Douglas",
+      "David Marshall",
+      "Magnus Hedman",
+      "Artur Boruc"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Manchester United",
+      "Artur Boruc",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "uefa-competitions",
+    "difficulty": 5,
+    "question": "In which season did Celtic first reach the last 16 of the Champions League?",
+    "options": [
+      "2001-02",
+      "2003-04",
+      "2006-07",
+      "2007-08"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Champions League",
+      "Gordon Strachan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-campaigns",
+    "difficulty": 5,
+    "question": "Which club beat Celtic 5-0 on aggregate in the 2012-13 Champions League last 16?",
+    "options": [
+      "Juventus",
+      "AC Milan",
+      "Bayern Munich",
+      "Barcelona"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Champions League",
+      "2013"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "Which club ended Celtic's 69-game unbeaten domestic run with a 4-0 win in December 2017?",
+    "options": [
+      "Aberdeen",
+      "Heart of Midlothian",
+      "Rangers",
+      "Hibernian"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Unbeaten run",
+      "Brendan Rodgers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-campaigns",
+    "difficulty": 5,
+    "question": "How was Celtic's 1969-70 European Cup second-round tie against Benfica decided?",
+    "options": [
+      "A penalty shoot-out",
+      "Away goals",
+      "A replay",
+      "The toss of a coin"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Benfica",
+      "European Cup",
+      "1969"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "Celtic's record league victory, 11-0 in October 1895, came against which club?",
+    "options": [
+      "Hibernian",
+      "Dundee",
+      "St Mirren",
+      "Partick Thistle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Record win",
+      "1895"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "How many goals did Jimmy McGrory score in one match against Dunfermline in 1928, a Scottish top-flight record?",
+    "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jimmy McGrory",
+      "Record"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored both Celtic goals in the 2-1 win over Dundee United in the 1988 Scottish Cup Final?",
+    "options": [
+      "Frank McAvennie",
+      "Andy Walker",
+      "Mark McGhee",
+      "Tommy Burns"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Scottish Cup",
+      "1988",
+      "Centenary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored Celtic's late winning header in the 1985 Scottish Cup Final against Dundee United?",
+    "options": [
+      "Davie Provan",
+      "Mo Johnston",
+      "Roy Aitken",
+      "Frank McGarvey"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Scottish Cup",
+      "1985"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "On the final day of 1985-86, Celtic won the league by beating which club 5-0 while Hearts lost at Dundee?",
+    "options": [
+      "Motherwell",
+      "Dundee United",
+      "St Mirren",
+      "Hibernian"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1986",
+      "Title race"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who scored a hat-trick in Celtic's 7-1 win over Rangers in the 1957 League Cup Final?",
+    "options": [
+      "Billy McPhail",
+      "Sammy Wilson",
+      "Neil Mochan",
+      "Charlie Tully"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "League Cup",
+      "1957",
+      "Old Firm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "How many domestic games in a row did Brendan Rodgers' Celtic go unbeaten between 2016 and 2017?",
+    "options": [
+      "59",
+      "62",
+      "75",
+      "69"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Unbeaten run",
+      "Brendan Rodgers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Which Feyenoord player scored the extra-time winner against Celtic in the 1970 European Cup Final?",
+    "options": [
+      "Rinus Israel",
+      "Ove Kindvall",
+      "Wim van Hanegem",
+      "Coen Moulijn"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "European Cup",
+      "1970",
+      "Feyenoord"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Which teenage goalkeeper starred as Celtic drew 0-0 with Barcelona at the Nou Camp in the 2004 UEFA Cup?",
+    "options": [
+      "Rab Douglas",
+      "Magnus Hedman",
+      "David Marshall",
+      "Artur Boruc"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barcelona",
+      "David Marshall",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "european-campaigns",
+    "difficulty": 5,
+    "question": "Which Spanish club knocked Celtic out in the quarter-finals of the 2003-04 UEFA Cup?",
+    "options": [
+      "Villarreal",
+      "Valencia",
+      "Sevilla",
+      "Barcelona"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "UEFA Cup",
+      "2004",
+      "Villarreal"
+    ],
+    "source": "manual"
+  }
+]

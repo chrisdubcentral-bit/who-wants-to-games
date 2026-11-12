@@ -1,0 +1,2002 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Scott Brown joined Celtic in 2007 from which club?",
+    "options": [
+      "Hearts",
+      "Hibernian",
+      "Dunfermline Athletic",
+      "Aberdeen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Scott Brown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Victor Wanyama played international football for which country?",
+    "options": [
+      "Nigeria",
+      "Ghana",
+      "Kenya",
+      "Uganda"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Victor Wanyama"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Stiliyan Petrov played international football for which country?",
+    "options": [
+      "Bulgaria",
+      "Romania",
+      "Serbia",
+      "Croatia"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Stiliyan Petrov"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "John Hartson played international football for which country?",
+    "options": [
+      "Scotland",
+      "Republic of Ireland",
+      "England",
+      "Wales"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "John Hartson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "In which position did Jimmy Johnstone star for Celtic?",
+    "options": [
+      "Goalkeeper",
+      "Winger",
+      "Centre-half",
+      "Full-back"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Jimmy Johnstone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "In which position did Danny McGrain play most of his Celtic career?",
+    "options": [
+      "Right-back",
+      "Goalkeeper",
+      "Centre-forward",
+      "Left wing"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Danny McGrain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Paul McStay played his whole senior career with which club?",
+    "options": [
+      "Hibernian",
+      "Motherwell",
+      "Celtic",
+      "Aberdeen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Paul McStay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Lisbon Lion Tommy Gemmell was famous for what?",
+    "options": [
+      "His goalkeeping",
+      "His long throws",
+      "His heading",
+      "His thunderous shot"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Tommy Gemmell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Moussa Dembele scored his first top-flight hat-trick in a 5-1 win over which club?",
+    "options": [
+      "Rangers",
+      "Aberdeen",
+      "Hearts",
+      "Hibernian"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Moussa Dembele"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Matt O'Riley left Celtic in 2024 for which English club?",
+    "options": [
+      "Fulham",
+      "Brighton",
+      "Brentford",
+      "Crystal Palace"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Matt O'Riley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Daizen Maeda scored at the 2022 World Cup for which country?",
+    "options": [
+      "South Korea",
+      "Australia",
+      "Japan",
+      "USA"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Daizen Maeda"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Jock Stein died in 1985 while managing which national team?",
+    "options": [
+      "Wales",
+      "Northern Ireland",
+      "Republic of Ireland",
+      "Scotland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Jock Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "Celtic signed Chris Sutton from which London club in 2000?",
+    "options": [
+      "Chelsea",
+      "Arsenal",
+      "Tottenham Hotspur",
+      "West Ham United"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Chris Sutton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "At which ground did Jock Stein collapse and die in 1985?",
+    "options": [
+      "Hampden Park",
+      "Ninian Park",
+      "Wembley",
+      "Windsor Park"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Jock Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "How many caps did Kenny Dalglish win for Scotland?",
+    "options": [
+      "76",
+      "85",
+      "102",
+      "120"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Kenny Dalglish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Callum McGregor scored on his Celtic debut in 2014 against a team from which country?",
+    "options": [
+      "Norway",
+      "Faroe Islands",
+      "Finland",
+      "Iceland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Callum McGregor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Henrik Larsson scored two headers in the 2003 UEFA Cup Final against which club?",
+    "options": [
+      "Porto",
+      "Sevilla",
+      "Inter Milan",
+      "Lyon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Henrik Larsson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Kris Commons joined Celtic in 2011 from which club?",
+    "options": [
+      "Nottingham Forest",
+      "Derby County",
+      "Leicester City",
+      "Stoke City"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Kris Commons"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Gary Hooper joined Celtic in 2010 from which club?",
+    "options": [
+      "Southend United",
+      "Leyton Orient",
+      "Scunthorpe United",
+      "Grimsby Town"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Gary Hooper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Celtic sold goalkeeper Fraser Forster in 2014 to which club?",
+    "options": [
+      "Tottenham Hotspur",
+      "Newcastle United",
+      "Stoke City",
+      "Southampton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Fraser Forster"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Matt O'Riley joined Celtic in 2022 from which club?",
+    "options": [
+      "MK Dons",
+      "Fulham",
+      "Charlton Athletic",
+      "Peterborough United"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Matt O'Riley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Kyogo Furuhashi left Celtic in January 2025 for which French club?",
+    "options": [
+      "Lyon",
+      "Rennes",
+      "Monaco",
+      "Nice"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Kyogo Furuhashi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Jota first joined Celtic on loan in 2021 from which Portuguese club?",
+    "options": [
+      "Porto",
+      "Sporting Lisbon",
+      "Benfica",
+      "Braga"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Jota"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which shirt number did Victor Wanyama wear at Celtic, in tribute to the Lisbon Lions?",
+    "options": [
+      "7",
+      "19",
+      "88",
+      "67"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Victor Wanyama"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "players",
+    "difficulty": 2,
+    "question": "John Hartson joined Celtic in 2001 from which club?",
+    "options": [
+      "Coventry City",
+      "Wimbledon",
+      "West Ham United",
+      "Arsenal"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "John Hartson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Shunsuke Nakamura's late free kick at Kilmarnock in April 2007 clinched what for Celtic?",
+    "options": [
+      "The Scottish Cup",
+      "The league title",
+      "The League Cup",
+      "A Champions League place"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Shunsuke Nakamura"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Celtic signed Shunsuke Nakamura in 2005 from which Italian club?",
+    "options": [
+      "Lazio",
+      "Parma",
+      "Reggina",
+      "Sampdoria"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Shunsuke Nakamura"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Stiliyan Petrov joined Celtic in 1999 from which club?",
+    "options": [
+      "Levski Sofia",
+      "Litex Lovech",
+      "Lokomotiv Plovdiv",
+      "CSKA Sofia"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Stiliyan Petrov"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Lubomir Moravcik joined Celtic in 1998 from which German club?",
+    "options": [
+      "MSV Duisburg",
+      "Hamburg",
+      "Cologne",
+      "Schalke"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Lubomir Moravcik"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Paul Lambert joined Celtic in 1997 from which Champions League-winning club?",
+    "options": [
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Schalke",
+      "Hamburg"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Paul Lambert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Alan Thompson joined Celtic in 2000 from which English club?",
+    "options": [
+      "Newcastle United",
+      "Bolton Wanderers",
+      "Aston Villa",
+      "Leeds United"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Alan Thompson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Johan Mjallby joined Celtic in 1998 from which Swedish club?",
+    "options": [
+      "IFK Gothenburg",
+      "Malmo",
+      "Helsingborg",
+      "AIK"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Johan Mjallby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "John Collins became Celtic's first £1 million signing in 1990, joining from which club?",
+    "options": [
+      "Hibernian",
+      "Hearts",
+      "Dundee United",
+      "Aberdeen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "John Collins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "In which season did Tom Boyd captain Celtic to a domestic treble?",
+    "options": [
+      "1997-98",
+      "2000-01",
+      "2003-04",
+      "1987-88"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Tom Boyd"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Brian McClair left Celtic in 1987 for which club?",
+    "options": [
+      "Liverpool",
+      "Arsenal",
+      "Manchester United",
+      "Everton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Brian McClair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Murdo MacLeod left Celtic in 1987 for which German club?",
+    "options": [
+      "Bayern Munich",
+      "Hamburg",
+      "Cologne",
+      "Borussia Dortmund"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Murdo MacLeod"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Davie Hay was sold in 1974 to which London club?",
+    "options": [
+      "Chelsea",
+      "Arsenal",
+      "Tottenham Hotspur",
+      "West Ham United"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Davie Hay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Artur Boruc's shoot-out saves knocked which club out of a 2007 Champions League qualifier?",
+    "options": [
+      "Shakhtar Donetsk",
+      "Spartak Moscow",
+      "Dynamo Kyiv",
+      "Benfica"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Artur Boruc"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Paul Elliott joined Celtic in 1989 from which Italian club?",
+    "options": [
+      "Bari",
+      "Torino",
+      "Pisa",
+      "Udinese"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Paul Elliott"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "In which Swedish city was Henrik Larsson born?",
+    "options": [
+      "Malmo",
+      "Gothenburg",
+      "Stockholm",
+      "Helsingborg"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Henrik Larsson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Kyogo Furuhashi scored a hat-trick on his league debut in 2021 against which club?",
+    "options": [
+      "Dundee",
+      "Hibernian",
+      "Aberdeen",
+      "St Mirren"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Kyogo Furuhashi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Virgil van Dijk joined Celtic in 2013 from which Dutch club?",
+    "options": [
+      "PSV Eindhoven",
+      "Groningen",
+      "Ajax",
+      "Feyenoord"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Virgil van Dijk"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Victor Wanyama joined Celtic in 2011 from which Belgian club?",
+    "options": [
+      "Anderlecht",
+      "Club Brugge",
+      "Beerschot",
+      "Genk"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Victor Wanyama"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which SFA chief delayed Jorge Cadete's registration with Celtic in 1996?",
+    "options": [
+      "Ernie Walker",
+      "David Taylor",
+      "Hugh Dallas",
+      "Jim Farry"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Jorge Cadete"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Frank McAvennie joined Celtic in 1987 from which club?",
+    "options": [
+      "West Ham United",
+      "St Mirren",
+      "Luton Town",
+      "Aston Villa"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Frank McAvennie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "How did Davie Provan score Celtic's equaliser in the 1985 Scottish Cup Final?",
+    "options": [
+      "With a header",
+      "With a direct free kick",
+      "From the penalty spot",
+      "With an overhead kick"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Davie Provan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Roy Aitken left Celtic in 1990 for which club?",
+    "options": [
+      "St Mirren",
+      "Aberdeen",
+      "Newcastle United",
+      "Leeds United"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Roy Aitken"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What was the only trophy Celtic won with Tommy Burns as manager?",
+    "options": [
+      "The 1994 League Cup",
+      "The 1996 league title",
+      "The 1997 League Cup",
+      "The 1995 Scottish Cup"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Tommy Burns"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Pat Bonner was born in which Irish county?",
+    "options": [
+      "Donegal",
+      "Cork",
+      "Mayo",
+      "Kerry"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Pat Bonner"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Brian McClair joined Celtic in 1983 from which club?",
+    "options": [
+      "Aston Villa",
+      "Motherwell",
+      "Airdrieonians",
+      "Hamilton Academical"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Brian McClair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Harry Hood joined Celtic in 1969 from which club?",
+    "options": [
+      "Sunderland",
+      "Partick Thistle",
+      "Clyde",
+      "Queen's Park"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Harry Hood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which Celtic forward scored a hat-trick against Rangers in a 1973 League Cup semi-final?",
+    "options": [
+      "Kenny Dalglish",
+      "Bobby Lennox",
+      "Dixie Deans",
+      "Harry Hood"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Harry Hood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Danny McGrain captained Scotland at which World Cup?",
+    "options": [
+      "1982",
+      "1974",
+      "1978",
+      "1986"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Danny McGrain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which trophy did Davie Hay win as Celtic manager in the 1985-86 season?",
+    "options": [
+      "The Scottish Cup",
+      "The league title",
+      "The League Cup",
+      "The Glasgow Cup"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Davie Hay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "John Collins scored for Scotland against Brazil at which World Cup?",
+    "options": [
+      "1986",
+      "1990",
+      "1998",
+      "2002"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "John Collins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "How many England caps did Chris Sutton win?",
+    "options": [
+      "5",
+      "12",
+      "None",
+      "1"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Chris Sutton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Alan Thompson scored the only goal of which 2005 final for Celtic?",
+    "options": [
+      "The Scottish Cup Final",
+      "The League Cup Final",
+      "The UEFA Cup Final",
+      "The Glasgow Cup Final"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Alan Thompson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Paul Lambert famously marked which star in the 1997 Champions League Final?",
+    "options": [
+      "Alessandro Del Piero",
+      "Zinedine Zidane",
+      "Roberto Baggio",
+      "Didier Deschamps"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Paul Lambert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Johan Mjallby later returned to Celtic as assistant to which manager?",
+    "options": [
+      "Gordon Strachan",
+      "Tony Mowbray",
+      "Neil Lennon",
+      "Brendan Rodgers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Johan Mjallby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Gary Hooper scored twice in the 2013 Scottish Cup Final against which club?",
+    "options": [
+      "Hearts",
+      "Motherwell",
+      "Aberdeen",
+      "Hibernian"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Gary Hooper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Callum McGregor opened the scoring in the 2018 Scottish Cup Final against which club?",
+    "options": [
+      "Motherwell",
+      "Aberdeen",
+      "Hibernian",
+      "Rangers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Callum McGregor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Moussa Dembele's back-heel won a 2016 League Cup semi-final against which club?",
+    "options": [
+      "Aberdeen",
+      "Rangers",
+      "Hibernian",
+      "Motherwell"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Moussa Dembele"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "How many goals did Kenny Dalglish score in a 1971 testimonial against Kilmarnock?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Kenny Dalglish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Willie Fernie left Celtic in 1958 for which English club?",
+    "options": [
+      "Everton",
+      "Sunderland",
+      "Newcastle United",
+      "Middlesbrough"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Willie Fernie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Former Celtic captain Bertie Peacock later managed which national team?",
+    "options": [
+      "Northern Ireland",
+      "Republic of Ireland",
+      "Wales",
+      "Scotland"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Bertie Peacock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Charlie Tully joined Celtic in 1948 from which club?",
+    "options": [
+      "Linfield",
+      "Belfast Celtic",
+      "Glentoran",
+      "Distillery"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Charlie Tully"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Jimmy Johnstone signed for Celtic in 1961 from which junior club?",
+    "options": [
+      "St Roch's",
+      "Maryhill Harp",
+      "Blantyre Celtic",
+      "Ashfield"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Jimmy Johnstone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Bobby Collins became the first Scot to be Football Writers' Player of the Year with which club?",
+    "options": [
+      "Everton",
+      "Bury",
+      "Manchester United",
+      "Leeds United"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Bobby Collins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "From which club did Jock Stein sign Joe McBride in 1965?",
+    "options": [
+      "Motherwell",
+      "Kilmarnock",
+      "Partick Thistle",
+      "Hearts"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Joe McBride"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 3,
+    "question": "From which club did Celtic sign Willie Wallace in December 1966?",
+    "options": [
+      "Hibernian",
+      "Hearts",
+      "Dundee",
+      "Kilmarnock"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Willie Wallace"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What was Lisbon Lion Stevie Chalmers' real first name?",
+    "options": [
+      "Stephen",
+      "James",
+      "Thomas",
+      "William"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Stevie Chalmers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Who became Celtic's first ever substitute when he replaced Jimmy Johnstone in 1966?",
+    "options": [
+      "John Fallon",
+      "Charlie Gallagher",
+      "Joe McBride",
+      "Willie O'Neill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Willie O'Neill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Charlie Gallagher was the first Scottish-born player to be capped by which country?",
+    "options": [
+      "Republic of Ireland",
+      "Northern Ireland",
+      "Wales",
+      "England"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Charlie Gallagher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Fraser Forster won his first England cap in 2013 against which country?",
+    "options": [
+      "Brazil",
+      "Chile",
+      "Germany",
+      "Italy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Fraser Forster"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Ronnie Simpson made his Scotland debut aged 36 in a famous 3-2 win over which country?",
+    "options": [
+      "Wales",
+      "Brazil",
+      "England",
+      "Italy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Ronnie Simpson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Jimmy McGrory left Celtic in 1937 to become manager of which club?",
+    "options": [
+      "Hibernian",
+      "Clyde",
+      "Dundee",
+      "Kilmarnock"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Jimmy McGrory"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "In which war did Celtic captain Willie Lyon win the Military Cross?",
+    "options": [
+      "The Second World War",
+      "The First World War",
+      "The Korean War",
+      "The Boer War"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Willie Lyon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Jimmy Delaney left Celtic in 1946 for which English club?",
+    "options": [
+      "Arsenal",
+      "Manchester United",
+      "Liverpool",
+      "Aston Villa"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Jimmy Delaney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Jimmy Delaney is the grandfather of which later Celtic defender?",
+    "options": [
+      "Stephen McManus",
+      "Mark Wilson",
+      "John Kennedy",
+      "Jackie McNamara"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Jimmy Delaney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Willie Buchan was sold in 1937 for a record fee to which English club?",
+    "options": [
+      "Bolton Wanderers",
+      "Preston North End",
+      "Burnley",
+      "Blackpool"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Willie Buchan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Why was 1930s forward Charlie Napier nicknamed \"Happy Feet\"?",
+    "options": [
+      "He could score with either foot",
+      "He was a dancer",
+      "He never wore boots in training",
+      "He celebrated with a jig"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Charlie Napier"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "From which junior club did Celtic sign goalkeeper John Thomson?",
+    "options": [
+      "St Roch's",
+      "Wellesley Juniors",
+      "Ashfield",
+      "Maryhill Harp"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "John Thomson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Patsy Gallacher, \"The Mighty Atom\", was born in which Irish county?",
+    "options": [
+      "Cork",
+      "Kerry",
+      "Donegal",
+      "Mayo"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Patsy Gallacher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Who scored a hat-trick in the 1904 Scottish Cup Final as Celtic came back from 2-0 down?",
+    "options": [
+      "Jimmy McMenemy",
+      "Peter Somers",
+      "Davie Hamilton",
+      "Jimmy Quinn"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Jimmy Quinn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Celtic captain James Young's nickname \"Sunny Jim\" came from what?",
+    "options": [
+      "A breakfast cereal advert",
+      "A music hall song",
+      "A newspaper cartoon",
+      "A racehorse"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "James Young"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Why was Celtic full-back Alec McNair nicknamed \"The Icicle\"?",
+    "options": [
+      "He played in white boots",
+      "He was cool under pressure",
+      "He came from the Highlands",
+      "He never smiled"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Alec McNair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which club did Tommy McInally join when he left Celtic in 1928?",
+    "options": [
+      "Everton",
+      "Arsenal",
+      "Sunderland",
+      "Bolton Wanderers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Tommy McInally"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Joe Cassidy's 11 goals in the 1923 Scottish Cup share a club record with which player?",
+    "options": [
+      "Jimmy Quinn",
+      "Patsy Gallacher",
+      "Henrik Larsson",
+      "Jimmy McGrory"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Joe Cassidy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Celtic signed goalkeeper Charlie Shaw in 1913 from which English club?",
+    "options": [
+      "Queens Park Rangers",
+      "Fulham",
+      "Chelsea",
+      "Millwall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Charlie Shaw"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Who was Celtic's first captain, playing in the club's first match in 1888?",
+    "options": [
+      "Dan Doyle",
+      "James Kelly",
+      "Willie Maley",
+      "Johnny Campbell"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "James Kelly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Who was the first Celtic player to play in every match of a season, in 1891-92?",
+    "options": [
+      "James Kelly",
+      "Johnny Campbell",
+      "Peter Dowds",
+      "Sandy McMahon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Peter Dowds"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which early Celtic forward was nicknamed \"The Duke\"?",
+    "options": [
+      "Johnny Campbell",
+      "Jimmy Quinn",
+      "Peter Somers",
+      "Sandy McMahon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Sandy McMahon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which 1900s Celtic centre-half was known as \"The Obliterator\"?",
+    "options": [
+      "Willie Loney",
+      "James Hay",
+      "Alec McNair",
+      "Willie Orr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Willie Loney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "How many league titles did Jimmy McMenemy win with Celtic?",
+    "options": [
+      "Six",
+      "Eleven",
+      "Eight",
+      "Thirteen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Jimmy McMenemy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Celtic captain James Hay left in 1911 after a dispute, joining which English club?",
+    "options": [
+      "Sunderland",
+      "Everton",
+      "Newcastle United",
+      "Aston Villa"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "James Hay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which early Celtic forward did Willie Maley nickname \"Celtic's Powder Monkey\"?",
+    "options": [
+      "Jimmy Quinn",
+      "Davie Hamilton",
+      "Jimmy McMenemy",
+      "Peter Somers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Peter Somers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Former Celtic striker Jimmy McColl later served which club as trainer for about 40 years?",
+    "options": [
+      "Hibernian",
+      "Hearts",
+      "Partick Thistle",
+      "Stoke City"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Legends",
+      "Jimmy McColl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Former Celtic captain Willie Cringan became Scottish champion at which sport in 1926?",
+    "options": [
+      "Bowls",
+      "Quoits",
+      "Curling",
+      "Golf"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Legends",
+      "Willie Cringan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "How did Patsy Gallacher famously score in the 1925 Scottish Cup Final?",
+    "options": [
+      "With a 40-yard shot",
+      "Straight from a corner",
+      "By somersaulting into the net with the ball",
+      "With a back-heel"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Legends",
+      "Patsy Gallacher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Johnny Campbell left Celtic in 1895 for which English club, scoring the first goal at their new ground?",
+    "options": [
+      "Sunderland",
+      "Everton",
+      "Preston North End",
+      "Aston Villa"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Legends",
+      "Johnny Campbell"
+    ],
+    "source": "manual"
+  }
+]

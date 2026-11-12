@@ -1,0 +1,64 @@
+/* Celtic European Nights — design tokens */
+:root {
+  /* Backgrounds */
+  --bg-main: #09110C;
+  --bg-panel: #0D1712;
+  --card: #121E17;
+  --card-hover: #1B2A21;
+
+  /* Emerald */
+  --emerald-dark: #0E4D38;
+  --emerald: #146B4C;
+  --emerald-bright: #1F8A62;
+
+  /* Gold */
+  --gold: #C7A45A;
+  --gold-bright: #E0C27A;
+
+  /* Neutrals */
+  --white: #FFFFFF;
+  --grey-light: #C8D0CA;
+  --grey-muted: #89958D;
+
+  /* Status */
+  --success: #3EB76A;
+  --danger: #E04E4E;
+
+  /* Lines & glows */
+  --line: rgba(200, 208, 202, 0.10);
+  --line-strong: rgba(200, 208, 202, 0.18);
+  --glow-gold: 0 0 0 1px rgba(199, 164, 90, 0.55), 0 0 24px rgba(199, 164, 90, 0.30);
+  --glow-emerald: 0 0 0 1px rgba(31, 138, 98, 0.55), 0 0 22px rgba(31, 138, 98, 0.28);
+  --glow-success: 0 0 0 1px rgba(62, 183, 106, 0.7), 0 0 26px rgba(62, 183, 106, 0.35);
+  --glow-danger: 0 0 0 1px rgba(224, 78, 78, 0.7), 0 0 26px rgba(224, 78, 78, 0.35);
+  --shadow-card: 0 10px 30px rgba(0, 0, 0, 0.35), 0 2px 6px rgba(0, 0, 0, 0.25);
+
+  /* Type */
+  --font-display: "Montserrat", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Inter", "Segoe UI", system-ui, sans-serif;
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: clamp(1.35rem, 2.6vw, 1.75rem);
+  --fs-2xl: clamp(1.75rem, 4.5vw, 2.75rem);
+  --fs-3xl: clamp(2.1rem, 6.5vw, 4rem);
+
+  /* Spacing & shape */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --radius-sm: 8px;
+  --radius: 12px;
+  --radius-lg: 18px;
+
+  /* Motion */
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --t-fast: 160ms;
+  --t: 280ms;
+  --t-slow: 450ms;
+}

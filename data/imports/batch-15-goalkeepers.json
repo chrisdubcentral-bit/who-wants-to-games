@@ -1,0 +1,638 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Which country did Celtic goalkeeper Artur Boruc play for?",
+    "options": [
+      "Czech Republic",
+      "Poland",
+      "Ukraine",
+      "Slovakia"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goalkeepers",
+      "Artur Boruc",
+      "Poland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Celtic goalkeeper Pat Bonner played for which national team?",
+    "options": [
+      "Republic of Ireland",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goalkeepers",
+      "Pat Bonner",
+      "Ireland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "From which club did Celtic sign goalkeeper Joe Hart in 2021?",
+    "options": [
+      "Manchester City",
+      "Burnley",
+      "Tottenham Hotspur",
+      "West Ham United"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Goalkeepers",
+      "Joe Hart",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "Celtic goalkeeper Kasper Schmeichel's father Peter was a goalkeeping legend at which club?",
+    "options": [
+      "Liverpool",
+      "Arsenal",
+      "Chelsea",
+      "Manchester United"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Goalkeepers",
+      "Kasper Schmeichel",
+      "Peter Schmeichel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "players",
+    "difficulty": 2,
+    "question": "What nickname did Celtic fans give towering goalkeeper Fraser Forster?",
+    "options": [
+      "The Great Wall",
+      "The Cat",
+      "The Octopus",
+      "The Spider"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goalkeepers",
+      "Fraser Forster",
+      "Nickname"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "What nickname did Celtic fans give Polish goalkeeper Artur Boruc?",
+    "options": [
+      "The Polish Wall",
+      "The Holy Goalie",
+      "The Warsaw Cat",
+      "The Saint"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goalkeepers",
+      "Artur Boruc",
+      "Nickname"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Who was Celtic's goalkeeper in the 2003 UEFA Cup Final against Porto?",
+    "options": [
+      "Magnus Hedman",
+      "David Marshall",
+      "Rab Douglas",
+      "Jonathan Gould"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Goalkeepers",
+      "Rab Douglas",
+      "2003",
+      "UEFA Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Who was Celtic's first-choice goalkeeper in the 2016-17 Invincibles season?",
+    "options": [
+      "Fraser Forster",
+      "Dorus de Vries",
+      "Scott Bain",
+      "Craig Gordon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Goalkeepers",
+      "Craig Gordon",
+      "Invincibles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Who kept goal for Celtic in the 1967 European Cup Final?",
+    "options": [
+      "Ronnie Simpson",
+      "John Fallon",
+      "Frank Haffey",
+      "Evan Williams"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goalkeepers",
+      "Ronnie Simpson",
+      "1967",
+      "Lisbon Lions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Before joining Celtic, goalkeeper Craig Gordon made his name at which Scottish club?",
+    "options": [
+      "Hibernian",
+      "Heart of Midlothian",
+      "Aberdeen",
+      "Dundee United"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goalkeepers",
+      "Craig Gordon",
+      "Hearts"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "At the 1990 World Cup, Pat Bonner famously saved a shoot-out penalty against which country?",
+    "options": [
+      "Italy",
+      "England",
+      "Romania",
+      "Netherlands"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Goalkeepers",
+      "Pat Bonner",
+      "Italia 90"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "From which club did Celtic sign goalkeeper Artur Boruc?",
+    "options": [
+      "Wisla Krakow",
+      "Lech Poznan",
+      "Gornik Zabrze",
+      "Legia Warsaw"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Goalkeepers",
+      "Artur Boruc",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Fraser Forster first joined Celtic on loan in 2010 from which club?",
+    "options": [
+      "Newcastle United",
+      "Sunderland",
+      "Middlesbrough",
+      "Southampton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goalkeepers",
+      "Fraser Forster",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "From which club did Celtic sign goalkeeper Kasper Schmeichel in 2024?",
+    "options": [
+      "Leicester City",
+      "Anderlecht",
+      "Nice",
+      "Club Brugge"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goalkeepers",
+      "Kasper Schmeichel",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Before Celtic, Joe Hart won Premier League titles with which club?",
+    "options": [
+      "Tottenham Hotspur",
+      "Chelsea",
+      "Manchester City",
+      "Arsenal"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Goalkeepers",
+      "Joe Hart",
+      "Manchester City"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "What affectionate nickname did the Lisbon Lions give their veteran goalkeeper Ronnie Simpson?",
+    "options": [
+      "Grandad",
+      "The Old Man",
+      "Uncle Ronnie",
+      "Faither"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Goalkeepers",
+      "Ronnie Simpson",
+      "Nickname"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "In which year did Celtic goalkeeper John Thomson die after a collision during an Old Firm game at Ibrox?",
+    "options": [
+      "1931",
+      "1921",
+      "1938",
+      "1946"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goalkeepers",
+      "John Thomson",
+      "Tragedy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Pat Bonner is often described as which manager's last signing for Celtic?",
+    "options": [
+      "Billy McNeill",
+      "Jock Stein",
+      "Sean Fallon",
+      "David Hay"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goalkeepers",
+      "Pat Bonner",
+      "Jock Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Jonathan Gould, Celtic's goalkeeper in the 1997-98 title win, is the son of Bobby Gould, who managed which national team?",
+    "options": [
+      "Scotland",
+      "Northern Ireland",
+      "Wales",
+      "Republic of Ireland"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Goalkeepers",
+      "Jonathan Gould",
+      "Bobby Gould"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Who was Celtic's goalkeeper in the 1970 European Cup Final against Feyenoord?",
+    "options": [
+      "Ronnie Simpson",
+      "John Fallon",
+      "Denis Connaghan",
+      "Evan Williams"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Goalkeepers",
+      "Evan Williams",
+      "1970",
+      "European Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which Rangers player was involved in the accidental collision that killed Celtic goalkeeper John Thomson in 1931?",
+    "options": [
+      "Sam English",
+      "Alan Morton",
+      "Bob McPhail",
+      "Davie Meiklejohn"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goalkeepers",
+      "John Thomson",
+      "Sam English"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Before joining Celtic, Ronnie Simpson won the FA Cup twice with which English club?",
+    "options": [
+      "Sunderland",
+      "Newcastle United",
+      "Manchester City",
+      "Blackpool"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goalkeepers",
+      "Ronnie Simpson",
+      "FA Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Fraser Forster's 2014 clean-sheet run broke the Scottish top-flight record held by which Aberdeen goalkeeper?",
+    "options": [
+      "Jim Leighton",
+      "Theo Snelders",
+      "Bobby Clark",
+      "Fred Martin"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Goalkeepers",
+      "Fraser Forster",
+      "Record",
+      "Clean sheets"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "From which club did Celtic sign goalkeeper Scott Bain in 2018?",
+    "options": [
+      "Aberdeen",
+      "Hibernian",
+      "Kilmarnock",
+      "Dundee"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Goalkeepers",
+      "Scott Bain",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "From which English club did Celtic sign Swedish goalkeeper Magnus Hedman in 2002?",
+    "options": [
+      "Coventry City",
+      "Leicester City",
+      "Derby County",
+      "Ipswich Town"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goalkeepers",
+      "Magnus Hedman",
+      "Transfers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "How many goals did Celtic goalkeeper Frank Haffey concede for Scotland against England at Wembley in 1961?",
+    "options": [
+      "Six",
+      "Nine",
+      "Seven",
+      "Eight"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goalkeepers",
+      "Frank Haffey",
+      "Scotland",
+      "1961"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Celtic goalkeeper Peter Latchford's brother Bob was a famous striker for which English club?",
+    "options": [
+      "Liverpool",
+      "Aston Villa",
+      "Everton",
+      "Leeds United"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Goalkeepers",
+      "Peter Latchford",
+      "Bob Latchford",
+      "Brothers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Ronnie Simpson's father Jimmy was a centre-half for which club?",
+    "options": [
+      "Celtic",
+      "Hibernian",
+      "Queen's Park",
+      "Rangers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Goalkeepers",
+      "Ronnie Simpson",
+      "Jimmy Simpson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "How old was Celtic goalkeeper John Thomson when he died in 1931?",
+    "options": [
+      "22",
+      "19",
+      "26",
+      "30"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goalkeepers",
+      "John Thomson",
+      "Tragedy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Celtic goalkeeper John Thomson grew up in which part of Scotland?",
+    "options": [
+      "Ayrshire",
+      "Fife",
+      "Lanarkshire",
+      "The Highlands"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goalkeepers",
+      "John Thomson",
+      "Fife"
+    ],
+    "source": "manual"
+  }
+]
