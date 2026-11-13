@@ -100,7 +100,7 @@ export function render(root, ctx) {
           </div>` : ''}
 
         <div class="count-grid stagger">
-          <a class="card card-hover count-card is-pending" href="#review">
+          <a class="card card-hover count-card is-pending" href="#review?status=pending">
             <span class="label">Pending</span><span class="value">${c.pending}</span><span class="hint">Awaiting review</span>
           </a>
           <a class="card card-hover count-card is-approved" href="#review?status=approved">

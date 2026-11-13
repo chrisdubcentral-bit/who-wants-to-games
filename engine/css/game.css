@@ -1,6 +1,11 @@
 /* ================= Layout ================= */
-#app { padding-top: var(--sp-5); padding-bottom: calc(var(--sp-7) + env(safe-area-inset-bottom)); }
-.screen { min-height: calc(100dvh - 60px - 72px); }
+/* The game page has no top bar, so leave room for a phone's notch/status bar instead. */
+#app { padding-top: calc(var(--sp-5) + env(safe-area-inset-top)); padding-bottom: calc(var(--sp-7) + env(safe-area-inset-bottom)); }
+.screen { min-height: calc(100dvh - 72px); }
+.preview-chip.is-floating {
+  position: fixed; z-index: 50; top: calc(8px + env(safe-area-inset-top)); right: 8px;
+  background: var(--bg-main); text-decoration: none;
+}
 
 .preview-chip {
   display: inline-flex; align-items: center; gap: 6px;
@@ -393,7 +398,7 @@
   .home-actions .row .btn { padding: 0 6px; font-size: 0.7rem; letter-spacing: 0.04em; line-height: 1.15; white-space: normal; }
 }
 @media (max-width: 640px) {
-  #app { padding-top: var(--sp-4); }
+  #app { padding-top: calc(var(--sp-4) + env(safe-area-inset-top)); }
   /* Home: start near the top with a smaller cup so Kick Off is visible without scrolling */
   .home { align-content: start; padding: var(--sp-3) 0 var(--sp-5); min-height: 0; }
   .home-inner { gap: var(--sp-4); }

@@ -1,7 +1,17 @@
-# Who Wants To Win The European Cup — Celtic Edition
+# Who Wants To Games
 
-A Celtic-themed football quiz in the "Celtic European Nights" style, plus a question review system.
+A set of themed "Who Wants To Win…" quiz games that all run on one shared game engine, each with its own
+question review system. Every edition has its own wording, stages, categories, questions, colours and images,
+while the gameplay, admin tools and storage come from the engine. A fix to the engine reaches every edition.
 Plain HTML, CSS and JavaScript. No frameworks, no build step.
+
+## Editions
+
+| Edition | Folder | Theme |
+|---|---|---|
+| Who Wants To Win The European Cup — Celtic Edition | `editions/celtic/` | Celtic football quiz in the "Celtic European Nights" style |
+
+To add another, see [Starting a new edition](#starting-a-new-edition).
 
 ## Running it
 
@@ -15,16 +25,16 @@ by double-clicking. Run it from a local web server instead:
 | Page | What it is |
 |---|---|
 | `index.html` | List of editions (development only) |
-| `editions/celtic/index.html` | The Celtic game |
-| `editions/celtic/admin-review.html` | Question review (approve, reject, edit, import, publish) |
+| `editions/<name>/index.html` | An edition's game, e.g. `editions/celtic/index.html` |
+| `editions/<name>/admin-review.html` | An edition's question review (approve, reject, edit, import, publish) |
 | `tests/test-runner.html` | Unit tests for the game rules, validation and picker |
 
 ## Playing on a phone
 
 The game is one responsive page: on a phone the answers stack in a single column, the tournament
 ladder is hidden so the question has the room (the stage name still shows above it) and the 50:50 button stays
-within reach at the bottom of the screen. `editions/celtic/manifest.webmanifest` and the icons in `editions/celtic/assets/img/` let
-it be added to a phone's home screen as an app.
+within reach at the bottom of the screen. Each edition's `manifest.webmanifest` and the icons in its `assets/img/` let
+it be added to a phone's home screen as an app. The examples below use the Celtic edition; swap in another edition's folder as needed.
 
 ### Testing in a desktop browser
 
@@ -56,20 +66,23 @@ proper app that works offline needs the game hosted over `https://`, for example
 
 ## How the game works
 
-- 8 stages: 1st Qualifier → 2nd Qualifier → Playoff → First Round → Second Round → Quarter Finals → Semi Final → Final.
+These rules come from the engine and apply to every edition. Stage names, the prize and the wording come from each
+edition's data; the examples here are from the Celtic edition.
+
+- A ladder of stages, set in the edition's `data/meta/stages.json`. Celtic has 8: 1st Qualifier → 2nd Qualifier → Playoff → First Round → Second Round → Quarter Finals → Semi Final → Final.
 - One question per stage. A wrong answer means elimination.
-- One question per stage is followed, when you get it right, by a spinning newspaper splash ("Celtic Progress in Europe").
+- One question per stage is followed, when you get it right, by a spinning newspaper splash (Celtic: "Celtic Progress in Europe").
   It clears itself after about three seconds, or tap or press any key to skip it.
 - **Sound:** a crowd cheer plays after each correct answer. Turn it on or off on the How To Play page (saved in
   the browser). The cheer is generated in the browser; to use a real recording instead, save it as
-  `editions/celtic/assets/sfx/cheer.mp3` (make sure you're allowed to use it).
+  `editions/<name>/assets/sfx/cheer.mp3` (make sure you're allowed to use it).
 - **50:50:** once per game, removes two wrong answers. It isn't handed back if you play on into a new season.
-- **Seasons:** win the Final and you can start another season as holders, from the First Round (five questions).
-  You can keep going until a wrong answer, and you keep the European Cups already won.
+- **Seasons:** win the Final and you can start another season as holders, from the stage set by `seasons.restartStage`
+  (Celtic: the First Round, five questions). You can keep going until a wrong answer, and you keep the prizes already won.
 - If you refresh mid-game you can resume; ending the campaign instead counts as being knocked out at that stage.
 - Keyboard: `A`–`D` or `1`–`4` to answer, `F` for 50:50.
 - Statistics are saved in the browser (localStorage).
-- **Top 100:** anyone who finishes a game can enter their name and city or town. It ranks by most European Cups,
+- **Top 100:** anyone who finishes a game can enter their name and city or town. It ranks by most prizes won,
   then the furthest round reached, then players who didn't use the 50:50, then the fastest time. A champion who
   plays on keeps one row, which is updated as they win more.
   The board is stored in the browser, so it only shows games played on that device. An online board would need a
@@ -77,13 +90,13 @@ proper app that works offline needs the game hosted over `https://`, for example
 
 ## Reviewing questions
 
-Questions live in three files in `editions/celtic/data/questions/`:
+Each edition has its own questions, in three files in `editions/<name>/data/questions/`:
 
 - `pending-questions.json`: waiting for review
 - `approved-questions.json`: live in the game
 - `rejected-questions.json`: rejected, with the reason
 
-In `editions/celtic/admin-review.html` you can approve, reject (with a reason), edit, add, import and export questions.
+In the edition's `admin-review.html` you can approve, reject (with a reason), edit, add, import and export questions.
 The search box on the Review page looks through the question, answers, tags and labels, and also finds questions by
 id: `q_000527`, `q527`, or several ids at once. The status filter starts on Pending; if a search finds nothing there,
 a button offers to show the matches in all questions.
@@ -96,11 +109,11 @@ correct answer, stage, category, difficulty, and duplicates against the approved
 
 A browser can't change files on your disk by itself, so your changes are kept in the browser until you **Publish**:
 
-- **Chrome / Edge:** Publish asks you to pick the edition's `data/questions` folder (`editions/celtic/data/questions`) once, then saves the three files directly.
+- **Chrome / Edge:** Publish asks you to pick the edition's `data/questions` folder (e.g. `editions/celtic/data/questions`) once, then saves the three files directly.
   This only works when the admin page is open on `http://127.0.0.1:5500` or `http://localhost:5500`. On the PC's network
   address (e.g. `http://192.168.1.72:5500`, used for phone testing) the browser blocks saving to folders, so Publish downloads
   the files instead.
-- **Other browsers:** Publish downloads the three files. Copy them into `editions/celtic/data/questions`, replacing the old ones.
+- **Other browsers:** Publish downloads the three files. Copy them into the edition's `data/questions` folder, replacing the old ones.
 
 The project's `.vscode/settings.json` tells Live Server to ignore the `data` folder. Without it, Live Server
 reloads the page after the first file is saved and the other files are never written.
@@ -114,7 +127,7 @@ or lost on the next Publish.
 
 ## Seed questions: please fact-check
 
-The starter questions (48 approved, 10 pending) were written from general knowledge and should be checked
+The Celtic edition's starter questions (48 approved, 10 pending) were written from general knowledge and should be checked
 before you rely on them. Some pending questions are broken on purpose so you can see the validation working:
 
 - `q_000106`: two identical answers
@@ -153,7 +166,7 @@ tests/                     browser unit tests (run against the Celtic data)
 
 ## Edition wording
 
-Everything that makes this the Celtic edition lives in `editions/celtic/`. The wording is in `data/edition.json`:
+Everything that makes an edition what it is lives in its own folder, e.g. `editions/celtic/`. The wording is in `data/edition.json`:
 the team and prize names, the newspaper name and headlines, the home page title and tagline, and the How To Play,
 results, Top 100 and stats wording. `{team}`, `{prize}`, `{prizes}`, `{champion}`, `{game}` and `{start}` are
 filled in from its `vars` section. Stage names are in `data/meta/stages.json`. `seasons.restartStage` sets where a
@@ -167,7 +180,7 @@ admin changes separate. Every edition needs its own prefix. Publish also remembe
 
 Copy `editions/celtic` to `editions/<name>`, then change `data/edition.json` (including its `id`, which must match
 the folder name), the stages, categories and questions, `theme.css`, the images, the titles, and the storage prefix.
-Add a line for it to the root `index.html`.
+Add a line for it to the root `index.html` and to the [Editions](#editions) table above.
 
 ## Adding to it later
 

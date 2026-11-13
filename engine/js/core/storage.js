@@ -45,6 +45,7 @@ export const KEYS = {
   settings: 'settings',
   adminWorking: 'admin:working',
   adminAudit: 'admin:audit',
+  adminReviewStatus: 'admin:reviewStatus',
   gameSnapshot: 'game:snapshot',
   leaderboard: 'leaderboard',
   boardReset: 'leaderboard:reset',

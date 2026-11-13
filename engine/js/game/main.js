@@ -98,8 +98,9 @@ async function boot() {
   });
 
   if (loaded.preview) {
-    document.getElementById('topbar-extra').innerHTML =
-      '<a class="preview-chip" href="admin-review.html" title="This browser has unpublished question changes">Preview mode · unpublished questions</a>';
+    // Small corner badge (the game has no top bar) so it's clear these aren't the published questions.
+    document.body.insertAdjacentHTML('beforeend',
+      '<a class="preview-chip is-floating" href="admin-review.html" title="This browser has unpublished question changes">Preview · unpublished questions</a>');
   }
 
   bus.on('game:finished', () => go('results'));

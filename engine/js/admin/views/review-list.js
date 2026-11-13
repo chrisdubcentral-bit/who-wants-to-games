@@ -3,6 +3,16 @@ import { toast } from '../../ui/components/toast.js';
 import { applyFilters, highlight } from '../../core/search.js';
 import { debounce, LETTERS, formatDate } from '../../core/utils.js';
 import { askRejection } from './reject-modal.js';
+import { local, KEYS } from '../../core/storage.js';
+
+const STATUSES = ['', 'pending', 'approved', 'rejected'];   // '' = All
+
+/** The Status filter stays on whatever was last chosen, unless a link asks for a particular one. */
+function startingStatus(params) {
+  if (params.has('status') && STATUSES.includes(params.get('status'))) return params.get('status');
+  const saved = local.read(KEYS.adminReviewStatus, 'pending');
+  return STATUSES.includes(saved) ? saved : 'pending';
+}
 
 const STATUS_BADGE = {
   pending: '<span class="badge badge-gold">Pending</span>',
@@ -17,12 +27,13 @@ export function stars(n) {
 export function render(root, ctx, params) {
   const { store, meta } = ctx;
   const f = {
-    status: params.get('status') ?? 'pending',
+    status: startingStatus(params),
     stage: params.get('stage') ?? '',
     category: params.get('category') ?? '',
     difficulty: params.get('difficulty') ?? '',
     query: params.get('q') ?? '',
   };
+  local.write(KEYS.adminReviewStatus, f.status); // a dashboard card's choice counts as choosing it
 
   const opt = (value, label, current) => `<option value="${esc(value)}" ${String(current) === String(value) ? 'selected' : ''}>${esc(label)}</option>`;
 
@@ -78,7 +89,7 @@ export function render(root, ctx, params) {
 
   function syncHash() {
     const p = new URLSearchParams();
-    if (f.status !== 'pending') p.set('status', f.status);
+    p.set('status', f.status);
     ['stage', 'category', 'difficulty'].forEach((k) => f[k] && p.set(k, f[k]));
     if (f.query) p.set('q', f.query);
     const qs = p.toString();
@@ -149,6 +160,7 @@ export function render(root, ctx, params) {
   const readForm = () => {
     const data = new FormData(form);
     ['status', 'stage', 'category', 'difficulty', 'query'].forEach((k) => { f[k] = String(data.get(k) ?? ''); });
+    local.write(KEYS.adminReviewStatus, f.status);
     syncHash();
     draw();
   };
