@@ -174,6 +174,7 @@ function build() {
   checkTop100(ids);
   // Top 100 moderation page (password-protected by TOP100_ADMIN_KEY, not linked from the game).
   copy(path.join(ROOT, 'admin/top100.html'), path.join(DIST, 'admin/top100.html'));
+  copy(path.join(ROOT, 'admin/stats.html'), path.join(DIST, 'admin/stats.html'));
   writeLandingPage(editions);
 
   // Netlify reads this file: keep the test site out of search engines.

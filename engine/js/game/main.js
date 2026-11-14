@@ -1,6 +1,7 @@
 // Game bootstrap and hash router.
 
-import { loadMeta } from '../core/config.js';
+import { loadMeta, APP } from '../core/config.js';
+import { startAnalytics, track } from '../core/analytics.js';
 import { loadGameQuestions } from '../core/question-repo.js';
 import { bus } from '../core/events.js';
 import { mount, on, esc } from '../ui/dom.js';
@@ -40,6 +41,7 @@ function renderRoute() {
 /** A new game: also asks the online Top 100 for a run token in the background. */
 function newGame() {
   app.ctrl.start();
+  track('game_start');
   startRun(app.ctrl.state.sessionId);
 }
 
@@ -103,6 +105,9 @@ async function boot() {
     },
   });
 
+  // Anonymous visit statistics (not counted for the admin's preview of unpublished questions).
+  if (!loaded.preview) startAnalytics({ edition: APP.club });
+
   if (loaded.preview) {
     // Small corner badge (the game has no top bar) so it's clear these aren't the published questions.
     document.body.insertAdjacentHTML('beforeend',
@@ -110,6 +115,9 @@ async function boot() {
   }
 
   bus.on('game:finished', () => go('results'));
+  bus.on('game:finished', ({ summary }) => track('game_end', {
+    stage: summary.stageReachedIndex, season: summary.season, value: summary.cups, detail: summary.result,
+  }));
   on(document.body, 'click', '[data-go]', (e, el) => { e.preventDefault(); go(el.dataset.go); });
   window.addEventListener('hashchange', renderRoute);
 

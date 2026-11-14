@@ -52,6 +52,11 @@ export function render(root, app) {
           <h3>Controls</h3>
           <p>Tap an answer, or use <strong>A–D</strong> / <strong>1–4</strong> on a keyboard. Press <strong>F</strong> for 50:50. Your choice is locked in, so think before you answer.</p>
         </article>
+        <article class="card how-card">
+          <div class="icon icon-sm">i</div>
+          <h3>Privacy</h3>
+          <p>We count visits, games and advert clicks anonymously to improve the game. There are no tracking cookies and nothing that identifies you is stored. Your browser's Do Not Track or Global Privacy Control setting switches this off.</p>
+        </article>
       </div>
       <div class="page-actions">
         <button class="btn btn-primary btn-lg" data-go="play">${esc(ed('vars.start'))}</button>

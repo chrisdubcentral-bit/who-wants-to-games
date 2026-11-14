@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T16:55:21.575Z",
+  "updatedAt": "2026-11-14T17:31:57.277Z",
   "adverts": [
     {
       "id": "weekly-lottery",
       "name": "Weekly lottery",
       "enabled": true,
-      "from": null,
+      "from": "2026-11-13",
       "until": null,
       "after": "round-1",
       "label": "Celtic Pools",
@@ -20,8 +20,8 @@
       "id": "beanie-promo",
       "name": "Beanie hat promo",
       "enabled": true,
-      "from": null,
-      "until": null,
+      "from": "2026-11-14",
+      "until": "2026-11-19",
       "after": "round-1",
       "label": "Celtic Pools",
       "url": "https://celticpools.securecollections.net/index.aspx?Agent=3572",

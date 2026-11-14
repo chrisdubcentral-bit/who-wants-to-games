@@ -7,6 +7,7 @@ import {
   fetchBoard, cachedBoard, submitEntry, hasRunToken, myEntry, readPlayer, entryFromSummary, isEligible,
   prospectiveRank, cleanText, NAME_MAX, TOWN_MAX, LIMIT,
 } from '../leaderboard.js';
+import { track } from '../../core/analytics.js';
 
 export function render(root, app) {
   const state = app.ctrl.state;
@@ -250,6 +251,7 @@ function wireEntryForm(form, app, state, s, takeFocus) {
       return;
     }
     app.lastBoardEntry = r.rank ? r.id : null;
+    track('top100_entry');
     // The form only appears once the run is over, so go and see the board.
     app.go('top100');
   });

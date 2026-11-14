@@ -1,8 +1,67 @@
 {
   "schemaVersion": 1,
   "collection": "rejected",
-  "updatedAt": "2026-11-14T17:27:26.572Z",
+  "updatedAt": "2026-11-14T17:52:21.930Z",
   "questions": [
+    {
+      "id": "q_001264",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Kenny Dalglish, Danny McGrain and which other player were key to Celtic's 1977 double?",
+      "options": [
+        "Roy Aitken",
+        "Johannes Edvaldsson",
+        "Pat Stanton",
+        "Ronnie Glavin"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Double",
+        "1977"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:51:52.991Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:51:52.991Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Conjecture"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Which Slovak playmaker was known to Celtic fans as \"The Magician\"?",
+      "options": [
+        "Stiliyan Petrov",
+        "Lubomir Moravcik",
+        "Didier Agathe",
+        "Paul Lambert"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Nicknames",
+        "Lubomir Moravcik"
+      ],
+      "source": "manual",
+      "id": "q_000656",
+      "status": "rejected",
+      "createdAt": "2026-11-12T19:23:07.009Z",
+      "updatedAt": "2026-11-14T17:39:45.342Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:39:45.342Z",
+        "rejectionReason": "Factually Incorrect",
+        "rejectionNote": null
+      }
+    },
     {
       "id": "q_001163",
       "schemaVersion": 1,

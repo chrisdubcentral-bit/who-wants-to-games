@@ -10,6 +10,7 @@
 import { html, esc } from '../ui/dom.js';
 import { t } from '../core/edition.js';
 import { getAdverts, showingAfter } from '../core/adverts.js';
+import { track } from '../core/analytics.js';
 import { local, KEYS } from '../core/storage.js';
 
 const MAX_HOLD_MS = 20000;     // the longest an advert can hold the game, even if the video stalls
@@ -90,6 +91,13 @@ export function showAdvert(brk, preloaded = null) {
       </div>
     </div>`);
   el.querySelector('.advert-media').append(video);
+  // Statistics: which advert was shown, and whether it was clicked, skipped or watched to the end.
+  const advertId = brk.id ?? null;
+  track('advert_shown', { advert: advertId });
+  el.querySelectorAll('a[href]').forEach((a) => a.addEventListener('click', () => {
+    track('advert_click', { advert: advertId, detail: a.classList.contains('advert-link') ? 'button' : 'video' });
+  }));
+  const skipped = () => track('advert_skip', { advert: advertId, value: Math.round(performance.now() - started) });
   const skipBtn = el.querySelector('.advert-skip');
 
   const started = performance.now();
@@ -120,8 +128,8 @@ export function showAdvert(brk, preloaded = null) {
     timers.push(setTimeout(countdown, 250));
   }
 
-  skipBtn.addEventListener('click', () => { if (canSkip) finish(); });
-  video.addEventListener('ended', () => finish());
+  skipBtn.addEventListener('click', () => { if (canSkip) { skipped(); finish(); } });
+  video.addEventListener('ended', () => { track('advert_complete', { advert: advertId }); finish(); });
   video.addEventListener('error', () => finish());
   timers.push(setTimeout(() => finish(), MAX_HOLD_MS));
 
@@ -133,7 +141,7 @@ export function showAdvert(brk, preloaded = null) {
 
   return {
     done,
-    skip() { if (canSkip) finish(); },
+    skip() { if (canSkip) { skipped(); finish(); } },
     close() { finish(false); },
   };
 }

@@ -1,0 +1,383 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Site Statistics</title>
+  <!-- Visit statistics dashboard. Published at /admin/stats.html by tools/build.js. Uses the TOP100_ADMIN_KEY. -->
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b0f0d; --surface: #141b17; --surface-2: #101612; --line: #26302a; --grid: #1f2823;
+      --text: #e8ece9; --text-2: #b9c3bd; --muted: #8a978f; --gold: #e0c27a; --bad: #f3a3a3;
+      --series-1: #3987e5;   /* single-series charts (validated on --surface) */
+      --part-1: #3987e5; --part-2: #d95926; --part-3: #199e70;   /* devices: first three categorical slots, dark */
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 24px 16px 48px; background: var(--bg); color: var(--text); font: 15px/1.5 "Segoe UI", system-ui, sans-serif; }
+    main { max-width: 1120px; margin: 0 auto; display: grid; gap: 16px; }
+    main > *, #report > * { min-width: 0; }   /* wide tables scroll inside their panel instead of widening the page */
+    h1 { margin: 0; font-size: 1.4rem; }
+    h2 { margin: 0 0 12px; font-size: .8rem; letter-spacing: .12em; text-transform: uppercase; color: var(--text-2); }
+    p { margin: 0; }
+    .muted { color: var(--muted); }
+    .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 16px; min-width: 0; }
+    form, .controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: end; }
+    label { display: grid; gap: 4px; font-size: .8rem; color: var(--muted); }
+    input, select { background: var(--bg); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font: inherit; min-width: 0; }
+    button { background: var(--gold); color: var(--bg); border: 0; border-radius: 8px; padding: 8px 14px; font: inherit; font-weight: 600; cursor: pointer; }
+    button.ghost { background: transparent; color: var(--text); border: 1px solid var(--line); }
+    button.ghost.is-on { border-color: var(--gold); color: var(--gold); }
+    button:disabled { opacity: .5; cursor: default; }
+    #status { min-height: 1.5em; }
+    #status.error { color: var(--bad); }
+    .tiles { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+    .tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; display: grid; gap: 2px; }
+    .tile .label { font-size: .75rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+    .tile .value { font-size: 1.8rem; font-weight: 700; line-height: 1.15; font-variant-numeric: tabular-nums; }
+    .tile .hint { font-size: .8rem; color: var(--muted); }
+    .grid-2 { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 16px; }
+    .chart-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+    .chart-head h2 { margin-bottom: 8px; }
+    svg { display: block; width: 100%; height: auto; overflow: visible; }
+    .axis text { fill: var(--muted); font-size: 11px; }
+    .axis line { stroke: var(--grid); }
+    .hbars { display: grid; gap: 8px; }
+    .hbar { display: grid; grid-template-columns: minmax(90px, 30%) minmax(0, 1fr) auto; gap: 10px; align-items: center; font-size: .875rem; }
+    .hbar .name { color: var(--text-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .hbar .track { display: block; height: 14px; }
+    .hbar .bar { display: block; height: 14px; min-width: 2px; background: var(--series-1); border-radius: 0 4px 4px 0; }
+    .hbar .num { color: var(--text); font-variant-numeric: tabular-nums; white-space: nowrap; }
+    .hbar .num .muted { margin-left: 6px; }
+    .hbar:hover .bar, .hbar:focus-visible .bar { filter: brightness(1.2); }
+    .seg { display: flex; gap: 2px; height: 28px; margin: 8px 0 12px; }
+    .seg span { border-radius: 4px; min-width: 2px; }
+    .legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: .875rem; color: var(--text-2); }
+    .legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+    table { width: 100%; border-collapse: collapse; font-size: .875rem; }
+    th, td { text-align: left; padding: 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+    th { color: var(--muted); font-weight: 600; font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; }
+    td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .table-wrap { overflow-x: auto; }
+    .meter { display: inline-block; width: 60px; height: 6px; border-radius: 3px; background: var(--grid); vertical-align: middle; margin-left: 8px; overflow: hidden; }
+    .meter span { display: block; height: 100%; background: var(--series-1); border-radius: 3px; }
+    .empty { color: var(--muted); padding: 24px 0; text-align: center; }
+    .note { font-size: .8rem; color: var(--muted); margin-top: 10px; }
+    #tip {
+      position: fixed; pointer-events: none; z-index: 10; display: none; max-width: 260px;
+      background: #1d2621; border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: .8rem; color: var(--text);
+      box-shadow: 0 8px 24px rgba(0,0,0,.45);
+    }
+    #tip strong { display: block; margin-bottom: 2px; }
+    .hidden { display: none !important; }
+    @media (max-width: 860px) { .tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); } .grid-2 { grid-template-columns: minmax(0, 1fr); } }
+    @media (max-width: 420px) { .tile .value { font-size: 1.5rem; } .hbar { grid-template-columns: 90px minmax(0, 1fr) auto; } }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Site Statistics</h1>
+      <p class="muted">Anonymous visit counts for the game. No cookies and nothing that identifies a player is stored.</p>
+    </header>
+
+    <form class="panel" id="login">
+      <label>Admin key <input type="password" name="key" autocomplete="current-password" required size="28"></label>
+      <label>Edition <select name="edition"><option value="celtic">Celtic</option></select></label>
+      <button type="submit">Load</button>
+    </form>
+
+    <div class="panel controls hidden" id="range" role="group" aria-label="Date range">
+      <button type="button" class="ghost" data-days="7">7 days</button>
+      <button type="button" class="ghost is-on" data-days="30">30 days</button>
+      <button type="button" class="ghost" data-days="90">90 days</button>
+      <button type="button" class="ghost" data-days="365">12 months</button>
+      <label>From <input type="date" name="from"></label>
+      <label>To <input type="date" name="to"></label>
+      <button type="button" class="ghost" id="apply">Apply dates</button>
+      <button type="button" class="ghost" id="refresh">Refresh</button>
+    </div>
+
+    <p id="status" role="status"></p>
+
+    <div id="report" class="hidden">
+      <div class="tiles" id="tiles"></div>
+
+      <section class="panel" style="margin-top:16px">
+        <div class="chart-head">
+          <h2>Visits per day</h2>
+          <button type="button" class="ghost" id="toggle-daily" aria-pressed="false">Show as table</button>
+        </div>
+        <div id="daily"></div>
+      </section>
+
+      <section class="panel" style="margin-top:16px">
+        <h2>Adverts</h2>
+        <div id="adverts"></div>
+      </section>
+
+      <div class="grid-2" style="margin-top:16px">
+        <section class="panel">
+          <h2>How far players get (first season)</h2>
+          <div id="funnel"></div>
+        </section>
+        <section class="panel">
+          <h2>Where visitors come from</h2>
+          <div id="sources"></div>
+          <p class="note">Add <code>?utm_source=name</code> to links you share (e.g. <code>?utm_source=facebook-group</code>) to tell posts apart. Most WhatsApp shares show as Direct.</p>
+        </section>
+        <section class="panel">
+          <h2>Time on site</h2>
+          <div id="time"></div>
+        </section>
+        <section class="panel">
+          <h2>Devices</h2>
+          <div id="devices"></div>
+        </section>
+        <section class="panel">
+          <h2>Countries</h2>
+          <div id="countries"></div>
+        </section>
+        <section class="panel">
+          <h2>Regions</h2>
+          <div id="regions"></div>
+        </section>
+      </div>
+
+      <p class="note">Visitors are counted once per day per device, so the visitors figure for a longer range adds up the
+        daily counts. Time on site counts only while the game is on screen. Visits from your own devices can be left out
+        by opening the game once with <code>?notrack</code> on the end of the address (and <code>?track</code> to undo).</p>
+    </div>
+  </main>
+  <div id="tip" role="tooltip"></div>
+
+  <script>
+    const $ = (s) => document.querySelector(s);
+    const esc = (t) => String(t ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    const fmt = (n) => Number(n || 0).toLocaleString('en-GB');
+    const pct = (a, b) => (b ? `${Math.round((a / b) * 100)}%` : '–');
+    const pct1 = (r) => `${(r * 100).toFixed(r && r < 0.1 ? 1 : 0)}%`;
+    const dur = (ms) => {
+      const s = Math.round((ms || 0) / 1000);
+      if (s < 60) return `${s}s`;
+      const m = Math.floor(s / 60);
+      return m < 60 ? `${m}m ${String(s % 60).padStart(2, '0')}s` : `${Math.floor(m / 60)}h ${String(m % 60).padStart(2, '0')}m`;
+    };
+    const dayLabel = (d, opts = { day: 'numeric', month: 'short' }) => new Date(`${d}T12:00:00`).toLocaleDateString('en-GB', opts);
+    const ukToday = () => new Intl.DateTimeFormat('en-CA', { timeZone: 'Europe/London' }).format(new Date());
+    const addDays = (d, n) => { const x = new Date(`${d}T12:00:00Z`); x.setUTCDate(x.getUTCDate() + n); return x.toISOString().slice(0, 10); };
+
+    let key = ''; let edition = 'celtic'; let range = { days: 30 }; let report = null; let advertNames = {};
+    try { key = sessionStorage.getItem('top100-admin-key') || ''; } catch {}
+    if (key) $('#login').elements.key.value = key;
+
+    function say(t, isError = false) { $('#status').textContent = t; $('#status').className = isError ? 'error' : ''; }
+
+    /* ---------- tooltip (every mark with data-tip) ---------- */
+    const tip = $('#tip');
+    function showTip(html, x, y) {
+      tip.innerHTML = html; tip.style.display = 'block';
+      const r = tip.getBoundingClientRect();
+      tip.style.left = `${Math.min(window.innerWidth - r.width - 8, Math.max(8, x + 14))}px`;
+      tip.style.top = `${Math.max(8, y - r.height - 12)}px`;
+    }
+    const hideTip = () => { tip.style.display = 'none'; };
+    document.addEventListener('mousemove', (e) => {
+      const el = e.target.closest('[data-tip]');
+      if (el && !el.closest('#daily')) showTip(el.dataset.tip, e.clientX, e.clientY); else if (!e.target.closest('#daily svg')) hideTip();
+    });
+    document.addEventListener('focusin', (e) => {
+      const el = e.target.closest('[data-tip]');
+      if (el) { const r = el.getBoundingClientRect(); showTip(el.dataset.tip, r.left + r.width / 2, r.top); }
+    });
+    document.addEventListener('focusout', hideTip);
+
+    /* ---------- pieces ---------- */
+    function tile(label, value, hint = '') {
+      return `<div class="tile"><span class="label">${esc(label)}</span><span class="value">${esc(value)}</span>${hint ? `<span class="hint">${esc(hint)}</span>` : ''}</div>`;
+    }
+
+    /** Horizontal bars: one series, the value beside each bar, a tooltip on hover/focus. */
+    function hbars(rows, { total = null, label = (r) => r.name, extra = () => '' } = {}) {
+      if (!rows.length || rows.every((r) => !r.n)) return '<p class="empty">Nothing recorded in this period yet.</p>';
+      const max = Math.max(...rows.map((r) => r.n), 1);
+      return `<div class="hbars">${rows.map((r) => {
+        const share = total ? ` (${pct(r.n, total)})` : '';
+        const tipText = `<strong>${esc(label(r))}</strong>${fmt(r.n)}${share}${extra(r)}`;
+        return `<div class="hbar" tabindex="0" data-tip="${esc(tipText)}">
+          <span class="name">${esc(label(r))}</span>
+          <span class="track"><span class="bar" style="width:${(r.n / max) * 100}%"></span></span>
+          <span class="num">${fmt(r.n)}${total ? `<span class="muted">${pct(r.n, total)}</span>` : ''}</span>
+        </div>`;
+      }).join('')}</div>`;
+    }
+
+    /** Visits per day: a 2px line with a crosshair tooltip (visits, visitors, games). */
+    function dailyChart(daily) {
+      if (!daily.some((d) => d.visits)) return '<p class="empty">No visits recorded in this period yet.</p>';
+      const W = 1000, H = 260, L = 44, R = 12, T = 12, B = 30;
+      const max = Math.max(...daily.map((d) => d.visits), 1);
+      const step = Math.pow(10, Math.floor(Math.log10(max)));
+      const nice = Math.ceil(max / step) * step;
+      const x = (i) => L + (daily.length === 1 ? (W - L - R) / 2 : (i / (daily.length - 1)) * (W - L - R));
+      const y = (v) => T + (1 - v / nice) * (H - T - B);
+      const ticks = [0, nice / 2, nice];
+      const pts = daily.map((d, i) => `${x(i).toFixed(1)},${y(d.visits).toFixed(1)}`).join(' ');
+      const every = Math.max(1, Math.ceil(daily.length / 8));
+      const last = daily.length - 1;
+      // A label every `every` days, plus the last day unless it would crowd the one before it.
+      const labels = daily.map((d, i) => ((i % every === 0 && (i === last || last - i >= every / 2)) || i === last)
+        ? `<text x="${x(i)}" y="${H - 8}" text-anchor="middle">${esc(dayLabel(d.day))}</text>` : '').join('');
+      return `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Visits per day, line chart">
+        <g class="axis">
+          ${ticks.map((t) => `<line x1="${L}" x2="${W - R}" y1="${y(t)}" y2="${y(t)}"></line><text x="${L - 8}" y="${y(t) + 4}" text-anchor="end">${fmt(t)}</text>`).join('')}
+          ${labels}
+        </g>
+        <polyline points="${pts}" fill="none" stroke="var(--series-1)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"></polyline>
+        ${daily.length <= 45 ? daily.map((d, i) => `<circle cx="${x(i)}" cy="${y(d.visits)}" r="3" fill="var(--series-1)" stroke="var(--surface)" stroke-width="2"></circle>`).join('') : ''}
+        <line id="cross" x1="0" x2="0" y1="${T}" y2="${H - B}" stroke="var(--muted)" stroke-dasharray="3 3" visibility="hidden"></line>
+        <circle id="cross-dot" r="5" fill="var(--series-1)" stroke="var(--surface)" stroke-width="2" visibility="hidden"></circle>
+        <rect id="hit" x="${L}" y="${T}" width="${W - L - R}" height="${H - T - B}" fill="transparent"></rect>
+      </svg>`;
+    }
+
+    function wireDaily(daily) {
+      const svg = $('#daily svg');
+      if (!svg) return;
+      const hit = svg.querySelector('#hit'), cross = svg.querySelector('#cross'), dot = svg.querySelector('#cross-dot');
+      const W = 1000, L = 44, R = 12, T = 12, B = 30, H = 260;
+      const max = Math.max(...daily.map((d) => d.visits), 1);
+      const step = Math.pow(10, Math.floor(Math.log10(max)));
+      const nice = Math.ceil(max / step) * step;
+      hit.addEventListener('mousemove', (e) => {
+        const box = svg.getBoundingClientRect();
+        const vx = ((e.clientX - box.left) / box.width) * W;
+        const i = Math.max(0, Math.min(daily.length - 1, Math.round(((vx - L) / (W - L - R)) * (daily.length - 1))));
+        const d = daily[i];
+        const cx = L + (daily.length === 1 ? (W - L - R) / 2 : (i / (daily.length - 1)) * (W - L - R));
+        const cy = T + (1 - d.visits / nice) * (H - T - B);
+        cross.setAttribute('x1', cx); cross.setAttribute('x2', cx); cross.setAttribute('visibility', 'visible');
+        dot.setAttribute('cx', cx); dot.setAttribute('cy', cy); dot.setAttribute('visibility', 'visible');
+        showTip(`<strong>${esc(dayLabel(d.day, { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' }))}</strong>Visits: ${fmt(d.visits)}<br>Visitors: ${fmt(d.visitors)}<br>Games started: ${fmt(d.games)}`, e.clientX, e.clientY);
+      });
+      hit.addEventListener('mouseleave', () => { cross.setAttribute('visibility', 'hidden'); dot.setAttribute('visibility', 'hidden'); hideTip(); });
+    }
+
+    function dailyTable(daily) {
+      return `<div class="table-wrap"><table><thead><tr><th>Day</th><th class="num">Visits</th><th class="num">Visitors</th><th class="num">Games started</th></tr></thead>
+        <tbody>${[...daily].reverse().map((d) => `<tr><td>${esc(dayLabel(d.day, { weekday: 'short', day: 'numeric', month: 'short', year: 'numeric' }))}</td><td class="num">${fmt(d.visits)}</td><td class="num">${fmt(d.visitors)}</td><td class="num">${fmt(d.games)}</td></tr>`).join('')}</tbody></table></div>`;
+    }
+
+    function advertsTable(list) {
+      if (!list.length) return '<p class="empty">No adverts shown in this period yet.</p>';
+      return `<div class="table-wrap"><table>
+        <thead><tr><th>Advert</th><th class="num">Shown</th><th class="num">Clicks</th><th class="num">Click rate</th><th class="num">Via video / button</th><th class="num">Skipped</th><th class="num">Watched before skip</th><th class="num">Watched to end</th></tr></thead>
+        <tbody>${list.map((a) => `<tr>
+          <td>${esc(advertNames[a.id] || a.id)}</td>
+          <td class="num">${fmt(a.shown)}</td>
+          <td class="num">${fmt(a.clicks)}</td>
+          <td class="num">${pct1(a.clickRate)}<span class="meter" aria-hidden="true"><span style="width:${Math.min(100, a.clickRate * 100)}%"></span></span></td>
+          <td class="num">${fmt(a.clickVia.video)} / ${fmt(a.clickVia.button)}</td>
+          <td class="num">${fmt(a.skipped)} <span class="muted">${pct(a.skipped, a.shown)}</span></td>
+          <td class="num">${a.skipped ? dur(a.avgWatchedBeforeSkipMs) : '–'}</td>
+          <td class="num">${fmt(a.completed)} <span class="muted">${pct(a.completed, a.shown)}</span></td>
+        </tr>`).join('')}</tbody></table></div>
+        <p class="note">Clicks open the advertiser's page in a new tab. Sign-ups from those clicks are counted in the advertiser's own affiliate account, not here.</p>`;
+    }
+
+    function devices(rows) {
+      const total = rows.reduce((s, r) => s + r.n, 0);
+      if (!total) return '<p class="empty">Nothing recorded in this period yet.</p>';
+      const order = ['phone', 'desktop', 'tablet'];
+      const names = { phone: 'Phone', desktop: 'Desktop', tablet: 'Tablet' };
+      const colour = { phone: 'var(--part-1)', desktop: 'var(--part-2)', tablet: 'var(--part-3)' };
+      const parts = order.map((k) => ({ k, n: rows.find((r) => r.name === k)?.n ?? 0 })).filter((p) => p.n);
+      return `<div class="seg" role="img" aria-label="${esc(parts.map((p) => `${names[p.k]} ${pct(p.n, total)}`).join(', '))}">
+          ${parts.map((p) => `<span tabindex="0" style="flex:${p.n};background:${colour[p.k]}" data-tip="${esc(`<strong>${names[p.k]}</strong>${fmt(p.n)} visits (${pct(p.n, total)})`)}"></span>`).join('')}
+        </div>
+        <div class="legend">${parts.map((p) => `<span><i style="background:${colour[p.k]}"></i>${names[p.k]} ${pct(p.n, total)} <span class="muted">(${fmt(p.n)})</span></span>`).join('')}</div>`;
+    }
+
+    function render() {
+      const r = report, t = r.totals;
+      const finishedPerStart = t.gamesStarted ? t.gamesFinished / t.gamesStarted : 0;
+      $('#tiles').innerHTML = [
+        tile('Visits', fmt(t.visits), `${dayLabel(r.range.from)} – ${dayLabel(r.range.to)}`),
+        tile('Visitors', fmt(t.visitors), 'counted once per device per day'),
+        tile('Average time on site', dur(t.avgActiveMs), `typical visit ${dur(t.medianActiveMs)}`),
+        tile('Left within 10 seconds', pct(t.bounces, t.visits), 'without starting a game'),
+        tile('Games started', fmt(t.gamesStarted), t.visits ? `${(t.gamesStarted / t.visits).toFixed(1)} per visit` : ''),
+        tile('Games finished', fmt(t.gamesFinished), t.gamesStarted ? `${Math.round(finishedPerStart * 100)}% of games started` : ''),
+        tile('Top 100 entries', fmt(t.top100Entries), t.seasonsWon ? `${fmt(t.seasonsWon)} ${t.seasonsWon === 1 ? 'season' : 'seasons'} won` : ''),
+        tile('Advert click rate', t.advertsShown ? pct1(t.advertClicks / t.advertsShown) : '–', `${fmt(t.advertClicks)} ${t.advertClicks === 1 ? 'click' : 'clicks'} from ${fmt(t.advertsShown)} ${t.advertsShown === 1 ? 'view' : 'views'}`),
+      ].join('');
+      const showTable = $('#toggle-daily').getAttribute('aria-pressed') === 'true';
+      $('#daily').innerHTML = showTable ? dailyTable(r.daily) : dailyChart(r.daily);
+      if (!showTable) wireDaily(r.daily);
+      $('#adverts').innerHTML = advertsTable(r.adverts);
+      const starts = r.funnel[0]?.n ?? 0;
+      $('#funnel').innerHTML = hbars(r.funnel, { total: starts || null, extra: (row) => (starts ? `<br>${pct(row.n, starts)} of first-season games` : '') });
+      $('#sources').innerHTML = hbars(r.sources, { total: t.visits });
+      $('#time').innerHTML = hbars(r.time, { total: t.visits });
+      $('#devices').innerHTML = devices(r.devices);
+      $('#countries').innerHTML = hbars(r.countries, { total: t.visits });
+      $('#regions').innerHTML = hbars(r.regions, { total: t.visits });
+      $('#report').classList.remove('hidden');
+    }
+
+    async function load() {
+      const to = range.to ?? ukToday();
+      const from = range.from ?? addDays(to, -(range.days - 1));
+      document.querySelector('#range [name="from"]').value = from;
+      document.querySelector('#range [name="to"]').value = to;
+      say('Loading…');
+      try {
+        const res = await fetch(`/api/stats/report?edition=${encodeURIComponent(edition)}&from=${from}&to=${to}`, { headers: { 'x-admin-key': key }, cache: 'no-store' });
+        let data = null;
+        try { data = await res.json(); } catch {}
+        if (!data && res.status === 404) throw new Error('There is no statistics server here. Open this page on the Netlify site, or run "npm run dev" and use http://localhost:8888/admin/stats.html (key: dev).');
+        if (!res.ok || !data?.ok) throw new Error(data?.message || `Request failed (${res.status})`);
+        report = data;
+        try {
+          const ads = await (await fetch(`/editions/${encodeURIComponent(edition)}/data/adverts.json`, { cache: 'no-store' })).json();
+          advertNames = Object.fromEntries((ads.adverts || []).map((a) => [a.id, a.name || a.id]));
+        } catch { advertNames = {}; }
+        $('#range').classList.remove('hidden');
+        say(`Updated ${new Date().toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' })}`);
+        render();
+      } catch (err) {
+        say(err.message, true);
+      }
+    }
+
+    $('#login').addEventListener('submit', (e) => {
+      e.preventDefault();
+      key = e.target.elements.key.value.trim();
+      edition = e.target.elements.edition.value;
+      try { sessionStorage.setItem('top100-admin-key', key); } catch {}
+      load();
+    });
+    document.querySelectorAll('[data-days]').forEach((b) => b.addEventListener('click', () => {
+      document.querySelectorAll('[data-days]').forEach((x) => x.classList.toggle('is-on', x === b));
+      range = { days: Number(b.dataset.days) };
+      load();
+    }));
+    $('#apply').addEventListener('click', () => {
+      const from = document.querySelector('#range [name="from"]').value;
+      const to = document.querySelector('#range [name="to"]').value;
+      if (!from || !to) return say('Choose both dates.', true);
+      document.querySelectorAll('[data-days]').forEach((x) => x.classList.remove('is-on'));
+      range = from <= to ? { from, to } : { from: to, to: from };
+      load();
+    });
+    $('#refresh').addEventListener('click', load);
+    $('#toggle-daily').addEventListener('click', (e) => {
+      const on = e.currentTarget.getAttribute('aria-pressed') !== 'true';
+      e.currentTarget.setAttribute('aria-pressed', String(on));
+      e.currentTarget.textContent = on ? 'Show as chart' : 'Show as table';
+      if (report) render();
+    });
+  </script>
+</body>
+</html>

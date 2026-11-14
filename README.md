@@ -156,6 +156,36 @@ database under the old name.
 `npm run test:server` runs the server tests: the word filter, result checks (using games played through the real
 engine) and the API with an in-memory store.
 
+## Site statistics
+
+A dashboard of anonymous visit figures, at `https://<your site>/admin/stats.html` (same admin key as the Top 100 page;
+locally `npm run dev` then `http://localhost:8888/admin/stats.html`, key `dev`). Pick 7 days, 30 days, 90 days,
+12 months or your own dates. It shows:
+
+- visits, visitors, average and typical time on site, and how many leave within 10 seconds without playing;
+- visits per day (hover for visitors and games; **Show as table** for the numbers);
+- **adverts**: views, clicks (and whether the video or the button was tapped), click rate, skips and how long people
+  watched before skipping, and how many watched to the end;
+- how far players get in their first season, stage by stage;
+- where visitors come from, time-on-site bands, phone / desktop / tablet, countries and regions.
+
+**Telling your posts apart:** add `?utm_source=` to links you share, e.g.
+`https://<your site>/?utm_source=facebook-group` or `?utm_source=newsletter`. Each shows as its own source. Shares on
+WhatsApp and in apps usually arrive with no referrer, so they show as Direct unless tagged.
+
+**Leaving yourself out:** open the game once on each of your devices with `?notrack` on the end of the address. That
+device is no longer counted (open it with `?track` to undo).
+
+**Privacy:** no cookies, nothing saved on the player's device for tracking, and no IP addresses stored. Each visit gets
+a random id that only exists while the page is open. Unique visitors are counted with a salted code of IP address and
+browser that includes the date, so it changes daily and can't be traced to a person or followed across days. Players
+with Do Not Track or Global Privacy Control switched on aren't counted. The How To Play page tells players this.
+Figures older than about 13 months are deleted automatically. The admin's preview of unpublished questions isn't counted.
+
+How it fits together: `engine/js/core/analytics.js` (in the game), `netlify/functions/stats.mjs` and `server/stats/`
+(the server), `netlify/database/migrations/0002_create-stats.sql` (the tables, created on the next deploy) and
+`admin/stats.html` (the dashboard). Advert sign-ups aren't visible here: those are in the advertiser's affiliate account.
+
 ## How the game works
 
 These rules come from the engine and apply to every edition. Stage names, the prize and the wording come from each
@@ -282,11 +312,13 @@ editions/
     data/questions/        pending / approved / rejected
     data/imports/          question batches as they were first written
 media/ads/                 advert videos played between stages (compressed 720p copies)
-netlify/functions/         the online Top 100 API (Netlify Function)
+netlify/functions/         the online Top 100 and site statistics APIs (Netlify Functions)
 netlify/database/          the Top 100's database tables (migrations)
 server/top100/             the Top 100's checks, word filter and storage, used by the function
 moderation/                banned-words.json, the Top 100 word filter
 admin/top100.html          Top 100 moderation page (published at /admin/top100.html)
+admin/stats.html           site statistics dashboard (published at /admin/stats.html)
+server/stats/              the site statistics: event checks, report and storage
 tools/build.js             makes dist/, the game-only copy for a web host (dist/ is not in git)
 tools/dev-server.mjs       local server with a working Top 100 (npm run dev)
 netlify.toml               tells Netlify how to build the test site from the live branch

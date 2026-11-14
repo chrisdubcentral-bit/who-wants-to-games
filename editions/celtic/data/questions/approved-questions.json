@@ -1,8 +1,2564 @@
 {
   "schemaVersion": 1,
   "collection": "approved",
-  "updatedAt": "2026-11-14T17:27:26.572Z",
+  "updatedAt": "2026-11-14T17:52:21.930Z",
   "questions": [
+    {
+      "id": "q_001269",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-park",
+      "difficulty": 5,
+      "question": "Celtic opened their new main stand in September 1971 with a friendly against which club?",
+      "options": [
+        "Inter Milan",
+        "Nacional of Uruguay",
+        "Benfica",
+        "Real Madrid"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Celtic Park",
+        "1971"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:52:19.323Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:52:19.323Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001268",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "How many league goals did Celtic concede in 38 games in 2014-15, their best defensive record for almost 100 years?",
+      "options": [
+        "9",
+        "24",
+        "29",
+        "17"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Ronny Deila",
+        "2015"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:52:14.323Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:52:14.323Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001267",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "european-campaigns",
+      "difficulty": 5,
+      "question": "Which Porto player put them 2-1 ahead in the 2003 UEFA Cup Final?",
+      "options": [
+        "Ricardo Carvalho",
+        "Deco",
+        "Dmitri Alenichev",
+        "Derlei"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Porto",
+        "Seville",
+        "2003"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:52:07.632Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:52:07.632Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001266",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "cup-finals",
+      "difficulty": 5,
+      "question": "Celtic's 1995 Scottish Cup win was their what in the competition?",
+      "options": [
+        "33rd",
+        "28th",
+        "25th",
+        "30th"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Scottish Cup",
+        "1995"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:52:02.332Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:52:02.332Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001265",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "domestic-trophies",
+      "difficulty": 5,
+      "question": "Celtic's 1988 centenary title was their league title number what?",
+      "options": [
+        "33rd",
+        "35th",
+        "30th",
+        "38th"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Centenary",
+        "1988"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:51:57.414Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:51:57.414Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001263",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "european-campaigns",
+      "difficulty": 5,
+      "question": "Celtic first wore numbers on the backs of their shirts in a 1975 Cup Winners' Cup tie against which club?",
+      "options": [
+        "Zwickau",
+        "Valur",
+        "Real Madrid",
+        "Boavista"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Kit",
+        "Cup Winners' Cup",
+        "1975"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:51:31.502Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:51:31.502Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001262",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "european-campaigns",
+      "difficulty": 5,
+      "question": "Along with Jock Stein and Sean Fallon, who was in Celtic's management team in Lisbon in 1967?",
+      "options": [
+        "Neil Mochan",
+        "Bob Rooney",
+        "John McPhail",
+        "Jimmy McGrory"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Lisbon Lions",
+        "1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:51:26.290Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:51:26.290Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001261",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "european-campaigns",
+      "difficulty": 5,
+      "question": "How many goals did Tommy Gemmell score in the 1966-67 European Cup?",
+      "options": [
+        "Six",
+        "One",
+        "Two",
+        "Four"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Tommy Gemmell",
+        "Lisbon Lions",
+        "1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:51:21.028Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:51:21.028Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001260",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "cup-finals",
+      "difficulty": 5,
+      "question": "Who scored the winner in the 1969-70 League Cup Final against St Johnstone?",
+      "options": [
+        "Willie Wallace",
+        "John Hughes",
+        "Bobby Lennox",
+        "Bertie Auld"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Bertie Auld",
+        "League Cup",
+        "1969"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:51:14.827Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:51:14.827Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001259",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "Celtic first wore numbers on their shorts in May 1960, in a 5-1 win over which club?",
+      "options": [
+        "Ajax",
+        "Feyenoord",
+        "PSV Eindhoven",
+        "Sparta Rotterdam"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Kit",
+        "1960"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:51:07.625Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:51:07.625Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001258",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "In which regional league did Celtic play during the Second World War?",
+      "options": [
+        "The Northern Division",
+        "The Western League",
+        "The Southern Division",
+        "The Glasgow League"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "1940s",
+        "Second World War"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:56.216Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:56.216Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001257",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Who ended Jimmy McGrory's run as Celtic's top scorer by topping the charts in 1933-34?",
+      "options": [
+        "Jimmy Delaney",
+        "Charlie Napier",
+        "Frank O'Donnell",
+        "Willie Buchan"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Jimmy McGrory",
+        "1934"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:50.427Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:50.427Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001256",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "cup-finals",
+      "difficulty": 5,
+      "question": "Who scored with Sandy McMahon as Celtic beat Rangers 2-0 in the 1899 Scottish Cup Final?",
+      "options": [
+        "Dan Doyle",
+        "Jimmy Quinn",
+        "Johnny Campbell",
+        "John Hodge"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Scottish Cup",
+        "1899"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:39.547Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:39.547Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001255",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "cup-finals",
+      "difficulty": 5,
+      "question": "Celtic won their first trophy, the 1889 North-Eastern Cup, by beating which club 6-1 in the final?",
+      "options": [
+        "Cowlairs",
+        "Third Lanark",
+        "Hibernian",
+        "Clyde"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "North-Eastern Cup",
+        "1889"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:34.138Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:34.138Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001254",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Who were the first Celtic players to be capped for Scotland, in March 1889?",
+      "options": [
+        "Willie Maley and Tom Maley",
+        "James Kelly and Neilly McCallum",
+        "Sandy McMahon and Johnny Campbell",
+        "Willie Groves and Mick McKeown"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Scotland",
+        "1889"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:29.283Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:29.283Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001253",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-park",
+      "difficulty": 5,
+      "question": "The very first match at Celtic Park, in May 1888, was played between which two clubs?",
+      "options": [
+        "Queen's Park and Renton",
+        "Celtic and Hibernian",
+        "Celtic and Rangers",
+        "Hibernian and Cowlairs"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Celtic Park",
+        "1888"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:25.829Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:25.829Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001252",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "St Mary's Church Hall, where Celtic were formed, was in East Rose Street. What is that street called now?",
+      "options": [
+        "Abercromby Street",
+        "London Road",
+        "Forbes Street",
+        "Bain Street"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "St Mary's Hall",
+        "1887"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:20.004Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:20.004Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001251",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "How many league titles did Willie Maley win as Celtic manager?",
+      "options": [
+        "19",
+        "13",
+        "10",
+        "16"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Willie Maley"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:13.675Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:13.675Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001250",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "How old was Willie Maley when he was appointed Celtic's secretary-manager?",
+      "options": [
+        "35",
+        "29",
+        "41",
+        "24"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Willie Maley",
+        "1897"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:10.739Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:10.739Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001249",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-park",
+      "difficulty": 5,
+      "question": "In which year did the Lisbon Lions Stand at Celtic Park officially open?",
+      "options": [
+        "1996",
+        "1998",
+        "1993",
+        "2000"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Lisbon Lions Stand",
+        "1996"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:07.618Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:07.618Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001248",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "Who scored the most League Cup goals for Celtic, with 63?",
+      "options": [
+        "Kenny Dalglish",
+        "Jimmy Johnstone",
+        "Henrik Larsson",
+        "Bobby Lennox"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Bobby Lennox",
+        "League Cup"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:04.794Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:04.794Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001247",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "How many Scottish Cup Finals did Willie Maley win as Celtic manager, a club record?",
+      "options": [
+        "10",
+        "14",
+        "16",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Willie Maley",
+        "Scottish Cup"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:50:01.429Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:50:01.429Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001246",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "Who was the first Celtic player to appear in a record eight Scottish Cup Finals?",
+      "options": [
+        "Billy McNeill",
+        "Bobby Lennox",
+        "Roy Aitken",
+        "Danny McGrain"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Bobby Lennox",
+        "Scottish Cup"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:49:54.575Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:49:54.575Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001245",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "Who holds Celtic's record for most league appearances, with 583?",
+      "options": [
+        "Danny McGrain",
+        "Billy McNeill",
+        "Alec McNair",
+        "Paul McStay"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Alec McNair",
+        "Records"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:48:08.725Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:48:08.725Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001244",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "Celtic's record league defeat, 8-0 in 1937, was against which club?",
+      "options": [
+        "Aberdeen",
+        "Rangers",
+        "Hearts",
+        "Motherwell"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Records",
+        "1937"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:48:01.578Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:48:01.578Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001243",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "From 2016 to 2020, Celtic won how many consecutive domestic trophies?",
+      "options": [
+        "9",
+        "12",
+        "10",
+        "14"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Quadruple Treble",
+        "2020"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:47:56.800Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:47:56.800Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001242",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "domestic-trophies",
+      "difficulty": 5,
+      "question": "Celtic sealed six in a row in 2017 with a 5-0 win at which ground?",
+      "options": [
+        "Tynecastle",
+        "Easter Road",
+        "Pittodrie",
+        "Ibrox"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Six in a row",
+        "2017"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:47:51.956Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:47:51.956Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001241",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "Roughly how many fans welcomed Brendan Rodgers at Celtic Park on his first day as manager in May 2016?",
+      "options": [
+        "13,000",
+        "3,000",
+        "30,000",
+        "60,000"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Brendan Rodgers",
+        "2016"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:47:44.044Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:47:44.044Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001240",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "What was Neil Lennon's job at Celtic just before he became caretaker manager in 2010?",
+      "options": [
+        "Club captain",
+        "Development squad coach",
+        "Assistant manager",
+        "Chief scout"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Neil Lennon",
+        "2010"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:47:39.545Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:47:39.545Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001190",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "Celtic's first ground was on Dalmarnock Street. What is that street called now?",
+      "options": [
+        "Springfield Road",
+        "London Road",
+        "Kerrydale Street",
+        "Janefield Street"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Celtic Park",
+        "1888"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:47:34.228Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:47:34.228Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001189",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Which club stopped Celtic winning Scotland's first ever double by beating them in the 1893 Scottish Cup Final?",
+      "options": [
+        "Queen's Park",
+        "Hearts",
+        "Rangers",
+        "Third Lanark"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Scottish Cup",
+        "1893"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:47:24.489Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:47:24.489Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001188",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Celtic won their first league title in 1893 by how many points from Rangers?",
+      "options": [
+        "Two",
+        "Three",
+        "Five",
+        "One"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "1893"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:47:09.048Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:47:09.048Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001187",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "At which ground did Celtic win their first Scottish Cup Final in 1892?",
+      "options": [
+        "Cathkin Park",
+        "Celtic Park",
+        "Hampden Park",
+        "Ibrox"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Scottish Cup",
+        "1892"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:47:01.442Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:47:01.442Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001186",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "How many acres did Celtic's committee lease on Dalmarnock Street in November 1887 for the first Celtic Park?",
+      "options": [
+        "Four",
+        "Ten",
+        "Two",
+        "Six"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Celtic Park",
+        "1887"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:46:57.301Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:46:57.301Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001239",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "Roughly what percentage of matches did Martin O'Neill win in his first spell as Celtic manager?",
+      "options": [
+        "65%",
+        "58%",
+        "76%",
+        "84%"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Martin O'Neill"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:46:49.253Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:46:49.253Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001238",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "club-achievements",
+      "difficulty": 5,
+      "question": "How many major trophies did Celtic win in the 2000s?",
+      "options": [
+        "11",
+        "17",
+        "14",
+        "9"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "2000s"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:45:43.847Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:45:43.847Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001237",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Who succeeded Neil Lennon as Celtic captain in 2007?",
+      "options": [
+        "Stephen McManus",
+        "Lee Naylor",
+        "Scott Brown",
+        "Gary Caldwell"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Stephen McManus",
+        "Captains"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:45:39.693Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:45:39.693Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001236",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Who scored with Aiden McGeady as Celtic beat Rangers 2-0 after extra time in the 2009 League Cup Final?",
+      "options": [
+        "Darren O'Dea",
+        "Stephen McManus",
+        "Georgios Samaras",
+        "Scott McDonald"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "League Cup",
+        "Rangers",
+        "2009"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:45:35.409Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:45:35.409Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001234",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which of these players was NOT in Celtic's Greatest Ever XI, voted by fans in 2002?",
+      "options": [
+        "Bobby Lennox",
+        "Jimmy McGrory",
+        "Paul McStay",
+        "Bertie Auld"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Greatest XI",
+        "2002"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:45:31.397Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:45:31.397Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001233",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "Where does Henrik Larsson rank among Celtic's all-time top goalscorers?",
+      "options": [
+        "Second",
+        "Fifth",
+        "First",
+        "Third"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Henrik Larsson"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:45:27.100Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:45:27.100Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001232",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "uefa-competitions",
+      "difficulty": 4,
+      "question": "How many of their three home group games did Celtic win in the 2001-02 Champions League?",
+      "options": [
+        "One",
+        "All three",
+        "None",
+        "Two"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Champions League",
+        "2001"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:45:23.332Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:45:23.332Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001231",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Whose goal against St Mirren at Celtic Park clinched the 2000-01 league title?",
+      "options": [
+        "Tommy Johnson",
+        "Alan Thompson",
+        "Lubomir Moravcik",
+        "Henrik Larsson"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Tommy Johnson",
+        "Treble",
+        "2001"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:45:16.037Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:45:16.037Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001230",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "From which season did Celtic wear numbers on the backs of their shirts in domestic matches?",
+      "options": [
+        "1988-89",
+        "1994-95",
+        "1975-76",
+        "1966-67"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Kit",
+        "1994"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:45:11.845Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:45:11.845Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001229",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "After the 1994 takeover, Celtic became a plc and launched the most successful what in British football history?",
+      "options": [
+        "Television deal",
+        "Shirt sponsorship deal",
+        "Season ticket campaign",
+        "Share issue"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Fergus McCann",
+        "1994"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:45:07.544Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:45:07.544Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001228",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "Lou Macari won his first Old Firm game as Celtic manager, three days after his appointment in 1993. What was the score?",
+      "options": [
+        "2-1",
+        "4-2",
+        "1-0",
+        "3-1"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Lou Macari",
+        "Rangers",
+        "1993"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:59.971Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:59.971Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001227",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "Liam Brady's Celtic suffered a 5-1 European defeat to which Swiss club?",
+      "options": [
+        "Neuchatel Xamax",
+        "Young Boys",
+        "FC Basel",
+        "Grasshoppers"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Liam Brady",
+        "1991"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:54.423Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:54.423Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001226",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "Which Celtic legend officially opened the new main stand at Celtic Park in September 1971?",
+      "options": [
+        "Jimmy Quinn",
+        "Willie Maley",
+        "Billy McNeill",
+        "Jimmy McGrory"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Jimmy McGrory",
+        "Celtic Park",
+        "1971"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:49.902Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:49.902Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001225",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "As part of the 1987-88 centenary, what was added to the front of the main stand at Celtic Park?",
+      "options": [
+        "A glass atrium",
+        "A statue of Brother Walfrid",
+        "A red brick facade",
+        "A giant club crest"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Celtic Park",
+        "Centenary"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:44.651Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:44.651Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001224",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "In Davie Hay's first season as manager, 1983-84, where did Celtic finish in every competition?",
+      "options": [
+        "Runners-up",
+        "Third",
+        "Winners",
+        "Out in the semi-finals"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Davie Hay",
+        "1984"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:34.437Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:34.437Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001223",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "Davie Hay had a short spell in charge of which club before becoming Celtic manager?",
+      "options": [
+        "Partick Thistle",
+        "Motherwell",
+        "St Mirren",
+        "Dundee United"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Davie Hay"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:25.990Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:25.990Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001222",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "How old was Davie Hay when he became Celtic manager in 1983?",
+      "options": [
+        "35",
+        "40",
+        "31",
+        "44"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Davie Hay",
+        "1983"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:22.597Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:22.597Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001221",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Celtic's 1988 centenary double was their first double for how many years?",
+      "options": [
+        "15",
+        "8",
+        "11",
+        "5"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Centenary",
+        "1988"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:18.657Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:18.657Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001220",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "What were Jock Stein's last major honours as Celtic manager?",
+      "options": [
+        "The 1978 Scottish Cup",
+        "The 1977 league and Scottish Cup double",
+        "The 1974 league title",
+        "The 1975 League Cup"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Jock Stein",
+        "1977"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:14.780Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:14.780Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001219",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "How many league titles did Celtic win in the 1970s?",
+      "options": [
+        "Nine",
+        "Seven",
+        "Five",
+        "Six"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "1970s"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:10.244Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:10.244Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001218",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Which pre-season competition did Celtic win in the 1970s, reaching all four of its early finals?",
+      "options": [
+        "The Anglo-Scottish Cup",
+        "The Drybrough Cup",
+        "The Texaco Cup",
+        "The Tennent Caledonian Cup"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Drybrough Cup",
+        "1970s"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:44:07.072Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:44:07.072Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001217",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "In which year was the statue of Jock Stein holding the European Cup unveiled at Celtic Park?",
+      "options": [
+        "2004",
+        "2017",
+        "1997",
+        "2011"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Jock Stein",
+        "Statues",
+        "2011"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:59.828Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:59.828Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001216",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "On which day of the week was the 1967 European Cup Final played?",
+      "options": [
+        "Saturday",
+        "Thursday",
+        "Wednesday",
+        "Tuesday"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Lisbon Lions",
+        "1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:54.332Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:54.332Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001215",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "Who was Celtic's unused substitute goalkeeper in the 1967 European Cup Final?",
+      "options": [
+        "Evan Williams",
+        "Frank Haffey",
+        "John Fallon",
+        "Dick Beattie"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "John Fallon",
+        "Lisbon Lions",
+        "1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:48.998Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:48.998Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001214",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "Who was Celtic's top scorer in the 1966-67 European Cup, with five goals?",
+      "options": [
+        "Bobby Lennox",
+        "Joe McBride",
+        "Tommy Gemmell",
+        "Stevie Chalmers"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Stevie Chalmers",
+        "Lisbon Lions",
+        "1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:44.931Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:44.931Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001213",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "What was the score in the second leg of Celtic's 1967 European Cup semi-final in Prague?",
+      "options": [
+        "1-0 to Celtic",
+        "2-1 to Dukla Prague",
+        "0-0",
+        "1-1"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Dukla Prague",
+        "1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:39.214Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:39.214Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001212",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "Celtic lost one match on the road to Lisbon in 1966-67. Who beat them 1-0?",
+      "options": [
+        "FC Zurich",
+        "Vojvodina Novi Sad",
+        "Dukla Prague",
+        "Nantes"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Lisbon Lions",
+        "Vojvodina",
+        "1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:34.649Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:34.649Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001211",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Where did Celtic finish in the league in 1964-65, the season Jock Stein arrived as manager?",
+      "options": [
+        "Eighth",
+        "Fifth",
+        "Second",
+        "Twelfth"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Jock Stein",
+        "1965"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:24.605Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:24.605Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001210",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "How many major trophies did Celtic win under Jock Stein?",
+      "options": [
+        "21",
+        "18",
+        "30",
+        "25"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Jock Stein"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:20.037Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:20.037Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001209",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Celtic won five League Cups in a row from 1965-66. Which club did they beat 1-0 in the fifth final?",
+      "options": [
+        "Dundee",
+        "Hibernian",
+        "St Johnstone",
+        "Rangers"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "League Cup",
+        "1969"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:17.096Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:17.096Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001208",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "Which European semi-final did Celtic reach in the early 1960s, before Jock Stein arrived?",
+      "options": [
+        "The Fairs Cup",
+        "The Cup Winners' Cup",
+        "The UEFA Cup",
+        "The European Cup"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Cup Winners' Cup",
+        "1960s"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:07.663Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:07.663Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001207",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which Northern Irishman captained Celtic from 1957 to 1961?",
+      "options": [
+        "Charlie Tully",
+        "Sean Fallon",
+        "Bertie Peacock",
+        "John McPhail"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Bertie Peacock",
+        "Captains"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:43:00.314Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:43:00.314Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001206",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Which Celtic player said the 1957 League Cup Final 'would have been 10-1' if it had lasted another ten minutes?",
+      "options": [
+        "Bertie Peacock",
+        "Bobby Evans",
+        "Willie Fernie",
+        "Billy McPhail"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Bobby Evans",
+        "League Cup",
+        "1957"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:56.276Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:56.276Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001205",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "As well as scoring seven, how many times did Celtic hit the woodwork in the 1957 League Cup Final?",
+      "options": [
+        "Once",
+        "Four",
+        "Twice",
+        "Six"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "League Cup",
+        "1957"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:49.681Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:49.681Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001204",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Who scored twice in the 7-1 League Cup Final of 1957, alongside Billy McPhail's hat-trick?",
+      "options": [
+        "Bobby Collins",
+        "Charlie Tully",
+        "Neilly Mochan",
+        "Sammy Wilson"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Neil Mochan",
+        "League Cup",
+        "1957"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:44.671Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:44.671Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001203",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "What was Jock Stein's role at Celtic at the time of the 7-1 League Cup Final in 1957?",
+      "options": [
+        "Chief scout",
+        "Club captain",
+        "Reserve team coach",
+        "Assistant manager"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Jock Stein",
+        "1957"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:40.745Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:40.745Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001202",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Whose hat-trick at Dens Park in 1948 helped Celtic avoid the threat of relegation?",
+      "options": [
+        "John McPhail",
+        "Jock Weir",
+        "Charlie Tully",
+        "Bobby Hogg"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Jock Weir",
+        "Relegation",
+        "1948"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:36.883Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:36.883Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001201",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Roughly how many people attended goalkeeper John Thomson's funeral in Fife in 1931?",
+      "options": [
+        "More than 30,000",
+        "About 10,000",
+        "About 3,000",
+        "More than 100,000"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "John Thomson",
+        "1931"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:31.822Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:31.822Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001200",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Who headed Celtic's late winner in the 1925 Scottish Cup Final against Dundee?",
+      "options": [
+        "Adam McLean",
+        "Patsy Gallacher",
+        "Jimmy McGrory",
+        "Tommy McInally"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Jimmy McGrory",
+        "Scottish Cup",
+        "1925"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:25.572Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:25.572Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001199",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "After the 1914 league and cup double, roughly how long did Celtic wait for their next one?",
+      "options": [
+        "About 60 years",
+        "About 10 years",
+        "About 20 years",
+        "About 40 years"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Double",
+        "1954"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:21.278Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:21.278Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001198",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Celtic won the Scottish Cup three times in four years in the early 1910s. Which year in that run did they miss out?",
+      "options": [
+        "1913",
+        "1912",
+        "1914",
+        "1911"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Scottish Cup",
+        "1910s"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:12.856Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:12.856Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001197",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Celtic missed the 1917-18 title by how many points, which cost them another six in a row?",
+      "options": [
+        "One",
+        "Five",
+        "Three",
+        "Two"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "1910s"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:42:05.483Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:42:05.483Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001196",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "After Jimmy Quinn in 1904, who was the next player to score a hat-trick in a Scottish Cup Final, in 1972?",
+      "options": [
+        "Kenny Dalglish",
+        "Dixie Deans",
+        "Harry Hood",
+        "Lou Macari"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Dixie Deans",
+        "Scottish Cup",
+        "1972"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:41:53.246Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:41:53.246Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001195",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "In the 1900s, Celtic won a then-record how many major trophies in a single decade?",
+      "options": [
+        "Twelve",
+        "Six",
+        "Seven",
+        "Nine"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "1900s"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:41:46.491Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:41:46.491Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001194",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "In 1897, Celtic became what kind of business?",
+      "options": [
+        "A members' co-operative",
+        "A private limited liability company",
+        "A public limited company",
+        "A registered charity"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "1897"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:41:39.715Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:41:39.715Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001193",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "For how long did supporters volunteer their labour to prepare the new Celtic Park site in 1892?",
+      "options": [
+        "A year",
+        "Six weeks",
+        "Two years",
+        "Six months"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Celtic Park",
+        "1892"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:41:34.003Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:41:34.003Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001192",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "On a visit to the Midlands in the 1890s, how were Celtic billed locally?",
+      "options": [
+        "The Kings of the North",
+        "The Pride of Scotland",
+        "The Greatest Team on Earth",
+        "The Invincibles"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "1890s"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:41:27.009Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:41:27.009Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001191",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "The current Celtic Park sits beside which cemetery, which inspired the 'Paradise' nickname?",
+      "options": [
+        "The Southern Necropolis",
+        "Sighthill Cemetery",
+        "The Glasgow Necropolis",
+        "The Eastern Necropolis"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Paradise",
+        "Celtic Park"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:41:21.546Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:41:21.546Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001235",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "The 2007 Scottish Cup Final, a 1-0 win over Dunfermline, was whose last game for Celtic?",
+      "options": [
+        "John Hartson",
+        "Jackie McNamara",
+        "Stiliyan Petrov",
+        "Neil Lennon"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Neil Lennon",
+        "Scottish Cup",
+        "2007"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:39:57.932Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:39:57.932Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001185",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Who scored Celtic's first ever goal, against Rangers in May 1888?",
+      "options": [
+        "James Kelly",
+        "Mick McKeown",
+        "Willie Groves",
+        "Neilly McCallum"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "celticfc.com history",
+        "Neilly McCallum",
+        "1888"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:38:45.056Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:38:45.056Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001184",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Which club beat Celtic 2-1 in the 1889 Scottish Cup Final, in Celtic's first full season?",
+      "options": [
+        "Renton",
+        "Dumbarton",
+        "Third Lanark",
+        "Queen's Park"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "celticfc.com history",
+        "Scottish Cup",
+        "1889"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:38:37.028Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:38:37.028Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
     {
       "id": "q_001183",
       "schemaVersion": 1,
@@ -15712,35 +18268,6 @@
       "updatedAt": "2026-11-12T19:40:54.467Z",
       "review": {
         "reviewedAt": "2026-11-12T19:40:54.467Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "qualifier-2",
-      "category": "players",
-      "difficulty": 2,
-      "question": "Which Slovak playmaker was known to Celtic fans as \"The Magician\"?",
-      "options": [
-        "Stiliyan Petrov",
-        "Lubomir Moravcik",
-        "Didier Agathe",
-        "Paul Lambert"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Nicknames",
-        "Lubomir Moravcik"
-      ],
-      "source": "manual",
-      "id": "q_000656",
-      "status": "approved",
-      "createdAt": "2026-11-12T19:23:07.009Z",
-      "updatedAt": "2026-11-12T19:40:48.361Z",
-      "review": {
-        "reviewedAt": "2026-11-12T19:40:48.361Z",
         "rejectionReason": null,
         "rejectionNote": null
       }
