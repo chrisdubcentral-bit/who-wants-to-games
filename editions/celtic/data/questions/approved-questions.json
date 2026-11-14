@@ -1,13 +1,100 @@
 {
   "schemaVersion": 1,
   "collection": "approved",
-  "updatedAt": "2026-11-13T23:44:39.974Z",
+  "updatedAt": "2026-11-14T09:02:14.397Z",
   "questions": [
+    {
+      "id": "q_000348",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "managers",
+      "difficulty": 1,
+      "question": "Which Australian managed Celtic from 2021 to 2023 before leaving for Tottenham?",
+      "options": [
+        "Ange Postecoglou",
+        "Brendan Rodgers",
+        "Graham Arnold",
+        "Kevin Muscat"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Ange Postecoglou",
+        "Australia"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-11T07:59:38.107Z",
+      "updatedAt": "2026-11-14T09:02:12.770Z",
+      "review": {
+        "reviewedAt": "2026-11-14T09:02:12.770Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Gil Heron, who played for Celtic in 1951-52, was the father of which musician and poet?",
+      "options": [
+        "Bob Marley",
+        "Curtis Mayfield",
+        "Marvin Gaye",
+        "Gil Scott-Heron"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Gil Heron"
+      ],
+      "source": "manual",
+      "id": "q_001056",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-14T08:32:43.970Z",
+      "review": {
+        "reviewedAt": "2026-11-14T08:32:43.970Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "club-achievements",
+      "difficulty": 1,
+      "question": "How many times have Celtic won the European Cup?",
+      "options": [
+        "Twice",
+        "Three times",
+        "Never",
+        "Once"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Honours",
+        "European Cup"
+      ],
+      "source": "manual",
+      "id": "q_000826",
+      "status": "approved",
+      "createdAt": "2026-11-12T20:46:10.258Z",
+      "updatedAt": "2026-11-14T08:31:46.272Z",
+      "review": {
+        "reviewedAt": "2026-11-14T08:31:46.272Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
     {
       "id": "q_000626",
       "schemaVersion": 1,
       "club": "celtic",
-      "stage": "qualifier-2",
+      "stage": "qualifier-1",
       "category": "celtic-history",
       "difficulty": 1,
       "question": "Which year appears on the Celtic club crest?",
@@ -25,9 +112,160 @@
       "source": "manual",
       "status": "approved",
       "createdAt": "2026-11-11T11:40:29.058Z",
-      "updatedAt": "2026-11-13T23:44:37.757Z",
+      "updatedAt": "2026-11-14T08:30:39.235Z",
       "review": {
-        "reviewedAt": "2026-11-13T23:44:37.757Z",
+        "reviewedAt": "2026-11-14T08:30:39.235Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "Who headed Celtic's winning goal in the 1965 Scottish Cup Final?",
+      "options": [
+        "John Hughes",
+        "Bertie Auld",
+        "Billy McNeill",
+        "Bobby Lennox"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "Billy McNeill",
+        "1965"
+      ],
+      "source": "manual",
+      "id": "q_000950",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-14T08:30:04.745Z",
+      "review": {
+        "reviewedAt": "2026-11-14T08:30:04.745Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_000015",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "Which club did Celtic face in the 2003 UEFA Cup Final?",
+      "options": [
+        "Benfica",
+        "Valencia",
+        "Lazio",
+        "Porto"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Porto",
+        "Portugal",
+        "UEFA Cup",
+        "Seville",
+        "2003"
+      ],
+      "source": "seed",
+      "status": "approved",
+      "createdAt": "2026-11-10T12:00:00Z",
+      "updatedAt": "2026-11-14T08:29:18.463Z",
+      "review": {
+        "reviewedAt": "2026-11-14T08:29:18.463Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_000360",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Which Celtic winger was famously nicknamed \"Jinky\"?",
+      "options": [
+        "Bobby Lennox",
+        "Bobby Murdoch",
+        "Bertie Auld",
+        "Jimmy Johnstone"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy Johnstone",
+        "Lisbon Lions"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-11T07:59:38.107Z",
+      "updatedAt": "2026-11-14T02:17:11.759Z",
+      "review": {
+        "reviewedAt": "2026-11-14T02:17:11.759Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "tags": [
+        "England",
+        "Alan Thompson",
+        "International"
+      ],
+      "source": "manual",
+      "question": "Who was the first Celtic player to be capped by England while playing for Celtic?",
+      "options": [
+        "Fraser Forster",
+        "Chris Sutton",
+        "Alan Thompson",
+        "Peter Latchford"
+      ],
+      "correctAnswer": 2,
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "id": "q_001066",
+      "status": "approved",
+      "createdAt": "2026-11-14T02:16:17.525Z",
+      "updatedAt": "2026-11-14T02:16:19.663Z",
+      "review": {
+        "reviewedAt": "2026-11-14T02:16:19.663Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "tags": [
+        "Jim Craig",
+        "Lisbon Lion",
+        "Dentistry"
+      ],
+      "source": "manual",
+      "question": "What career did Lisbon Lion Jim Craig enter after retiring from football?",
+      "options": [
+        "Dentistry",
+        "Journalism",
+        "Civil Servant",
+        "Engineering"
+      ],
+      "correctAnswer": 0,
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "id": "q_001065",
+      "status": "approved",
+      "createdAt": "2026-11-14T02:07:19.464Z",
+      "updatedAt": "2026-11-14T02:07:21.927Z",
+      "review": {
+        "reviewedAt": "2026-11-14T02:07:21.927Z",
         "rejectionReason": null,
         "rejectionNote": null
       }
@@ -272,35 +510,6 @@
       "updatedAt": "2026-11-13T17:45:31.830Z",
       "review": {
         "reviewedAt": "2026-11-13T17:45:31.830Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "playoff",
-      "category": "players",
-      "difficulty": 2,
-      "question": "Gil Heron, who played for Celtic in 1951-52, was the father of which musician and poet?",
-      "options": [
-        "Bob Marley",
-        "Curtis Mayfield",
-        "Marvin Gaye",
-        "Gil Scott-Heron"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "The Shamrock",
-        "Gil Heron"
-      ],
-      "source": "manual",
-      "id": "q_001056",
-      "status": "approved",
-      "createdAt": "2026-11-13T00:44:53.822Z",
-      "updatedAt": "2026-11-13T17:45:12.918Z",
-      "review": {
-        "reviewedAt": "2026-11-13T17:45:12.918Z",
         "rejectionReason": null,
         "rejectionNote": null
       }
@@ -3378,36 +3587,6 @@
       "updatedAt": "2026-11-13T06:49:50.120Z",
       "review": {
         "reviewedAt": "2026-11-13T06:49:50.120Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "qualifier-1",
-      "category": "cup-finals",
-      "difficulty": 1,
-      "question": "Who headed Celtic's winning goal in the 1965 Scottish Cup Final?",
-      "options": [
-        "John Hughes",
-        "Bertie Auld",
-        "Billy McNeill",
-        "Bobby Lennox"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "1965 Scottish Cup Final",
-        "Billy McNeill",
-        "1965"
-      ],
-      "source": "manual",
-      "id": "q_000950",
-      "status": "approved",
-      "createdAt": "2026-11-13T00:44:53.822Z",
-      "updatedAt": "2026-11-13T06:49:41.196Z",
-      "review": {
-        "reviewedAt": "2026-11-13T06:49:41.196Z",
         "rejectionReason": null,
         "rejectionNote": null
       }
@@ -7200,35 +7379,6 @@
       "updatedAt": "2026-11-12T21:37:14.549Z",
       "review": {
         "reviewedAt": "2026-11-12T21:37:14.549Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "qualifier-2",
-      "category": "club-achievements",
-      "difficulty": 1,
-      "question": "How many times have Celtic won the European Cup?",
-      "options": [
-        "Twice",
-        "Three times",
-        "Never",
-        "Once"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Honours",
-        "European Cup"
-      ],
-      "source": "manual",
-      "id": "q_000826",
-      "status": "approved",
-      "createdAt": "2026-11-12T20:46:10.258Z",
-      "updatedAt": "2026-11-12T21:29:46.503Z",
-      "review": {
-        "reviewedAt": "2026-11-12T21:29:46.503Z",
         "rejectionReason": null,
         "rejectionNote": null
       }
@@ -20639,35 +20789,6 @@
       }
     },
     {
-      "id": "q_000360",
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "playoff",
-      "category": "players",
-      "difficulty": 2,
-      "question": "Which Celtic winger was famously nicknamed \"Jinky\"?",
-      "options": [
-        "Bobby Lennox",
-        "Bobby Murdoch",
-        "Bertie Auld",
-        "Jimmy Johnstone"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Jimmy Johnstone",
-        "Lisbon Lions"
-      ],
-      "source": "manual",
-      "status": "approved",
-      "createdAt": "2026-11-11T07:59:38.107Z",
-      "updatedAt": "2026-11-11T08:06:01.499Z",
-      "review": {
-        "reviewedAt": "2026-11-11T08:06:01.499Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_000359",
       "schemaVersion": 1,
       "club": "celtic",
@@ -20953,35 +21074,6 @@
       "updatedAt": "2026-11-11T08:04:03.647Z",
       "review": {
         "reviewedAt": "2026-11-11T08:04:03.647Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_000348",
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "qualifier-2",
-      "category": "managers",
-      "difficulty": 1,
-      "question": "Which Australian managed Celtic from 2021 to 2023 before leaving for Tottenham?",
-      "options": [
-        "Ange Postecoglou",
-        "Brendan Rodgers",
-        "Graham Arnold",
-        "Kevin Muscat"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "Ange Postecoglou",
-        "Australia"
-      ],
-      "source": "manual",
-      "status": "approved",
-      "createdAt": "2026-11-11T07:59:38.107Z",
-      "updatedAt": "2026-11-11T08:03:55.038Z",
-      "review": {
-        "reviewedAt": "2026-11-11T08:03:55.038Z",
         "rejectionReason": null,
         "rejectionNote": null
       }
@@ -25549,38 +25641,6 @@
         "Jimmy McGrory",
         "Goals",
         "Record"
-      ],
-      "source": "seed",
-      "status": "approved",
-      "createdAt": "2026-11-10T12:00:00Z",
-      "updatedAt": "2026-11-10T12:00:00Z",
-      "review": {
-        "reviewedAt": "2026-11-10T12:00:00Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_000015",
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "playoff",
-      "category": "cup-finals",
-      "difficulty": 2,
-      "question": "Which club did Celtic face in the 2003 UEFA Cup Final?",
-      "options": [
-        "Benfica",
-        "Valencia",
-        "Lazio",
-        "Porto"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Porto",
-        "Portugal",
-        "UEFA Cup",
-        "Seville",
-        "2003"
       ],
       "source": "seed",
       "status": "approved",

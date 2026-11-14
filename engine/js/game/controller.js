@@ -83,6 +83,9 @@ export function createController({ stages, questions, activeCategories }) {
 
     useFiftyFifty() { dispatch({ type: 'USE_5050' }); },
 
+    /** Gives back time the game was held (an advert between stages), so it doesn't count in the player's time. */
+    creditPause(ms) { dispatch({ type: 'PAUSE_CREDIT', ms }); },
+
     /** Restores a game after a page refresh. A locked answer still gets revealed — no retries. */
     resume(snapshot) {
       clearTimers();

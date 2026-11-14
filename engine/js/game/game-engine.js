@@ -132,6 +132,14 @@ export function reduce(state, action) {
       return { ...state, retired: true };
     }
 
+    // Time the game was held, e.g. by an advert between stages, is not counted: the start time moves forward by that much.
+    case 'PAUSE_CREDIT': {
+      if (state.status !== STATUS.PLAYING || !Number.isFinite(action.ms) || action.ms <= 0) return state;
+      const started = Date.parse(state.startedAt);
+      if (!Number.isFinite(started)) return state;
+      return { ...state, startedAt: new Date(started + action.ms).toISOString() };
+    }
+
     // A game left unfinished (e.g. not resumed after a page refresh) counts as knocked out.
     case 'FORFEIT': {
       if (state.status !== STATUS.PLAYING) return state;

@@ -5,6 +5,7 @@ import { bus } from '../../core/events.js';
 import { LETTERS } from '../../core/utils.js';
 import { playCheer } from '../../core/sound.js';
 import { t, ed, prizeCount } from '../../core/edition.js';
+import { breakAfter, preloadAdvert, showAdvert } from '../advert.js';
 
 export function render(root, app) {
   const { ctrl, meta } = app;
@@ -37,19 +38,36 @@ export function render(root, app) {
   let shownStage = -1;
   let shownStatus = null;
   let splashTimers = [];
+  let splashNext = null;   // what to do once the newspaper has been dismissed (an advert break, if one is set)
+  let advert = null;       // the advert overlay while one is playing
+  let preloaded = null;    // an advert video loading in the background
 
-  /** Removes the newspaper splash, if one is showing. */
+  /** Removes the newspaper splash, if one is showing. Instant removal (leaving the screen) skips what was to follow. */
   function closeSplash(instant = false) {
     splashTimers.forEach(clearTimeout); splashTimers = [];
     const el = document.querySelector('.splash');
     if (!el) return;
-    if (instant) { el.remove(); return; }
+    if (instant) { splashNext = null; el.remove(); return; }
     el.classList.add('is-leaving');
     splashTimers.push(setTimeout(() => el.remove(), 320));
+    const next = splashNext; splashNext = null;
+    if (next) next();
+  }
+
+  /** An advert break set for the stage just won (edition.json "adverts.breaks") plays once the newspaper has gone.
+      The time it holds the game is given back, so it doesn't count against the player's Top 100 time. */
+  function advertAfter(state) {
+    const brk = breakAfter(state.stages[state.stageIndex - 1].key);
+    if (!brk) return null;
+    return () => {
+      advert = showAdvert(brk, preloaded);
+      preloaded = null;
+      advert.done.then((heldMs) => { advert = null; if (heldMs > 0) ctrl.creditPause(heldMs); });
+    };
   }
 
   /** A newspaper spins in between stages to mark a correct answer. Tap or press a key to skip. */
-  function showSplash(state) {
+  function showSplash(state, afterwards = null) {
     closeSplash(true);
     const won = state.stages[state.stageIndex - 1];
     const next = state.stages[state.stageIndex];
@@ -75,6 +93,7 @@ export function render(root, app) {
       </div>`);
     el.addEventListener('click', () => closeSplash());
     document.body.appendChild(el);
+    splashNext = afterwards;
     splashTimers.push(setTimeout(() => closeSplash(), 2800));
   }
 
@@ -91,6 +110,9 @@ export function render(root, app) {
     ].join('');
     ref('cat').textContent = meta.categoryLabel(q.category);
     ref('question').textContent = q.question;
+    // An advert after this stage? Start loading it now so it plays without a pause.
+    const brk = breakAfter(stage.key);
+    if (brk && preloaded?.dataset.after !== stage.key) { preloaded?.remove(); preloaded = preloadAdvert(brk); }
     ref('answers').innerHTML = q.options.map((opt, i) => `
       <button type="button" class="answer" data-index="${i}" aria-label="${LETTERS[i]}: ${esc(opt)}">
         <span class="letter" aria-hidden="true">${LETTERS[i]}</span>
@@ -109,7 +131,7 @@ export function render(root, app) {
     if (state.stageIndex !== shownStage) {
       const advanced = shownStage >= 0 && state.stageIndex === shownStage + 1 && state.status === STATUS.PLAYING;
       renderQuestion(state);
-      if (advanced) showSplash(state);
+      if (advanced) showSplash(state, advertAfter(state));
       shownStage = state.stageIndex;
     }
 
@@ -180,6 +202,8 @@ export function render(root, app) {
 
   const onKey = (e) => {
     if (e.ctrlKey || e.metaKey || e.altKey || document.querySelector('.modal-backdrop, .sheet-backdrop')) return;
+    // While an advert is playing, keys can't answer the hidden question; Escape, Enter or Space skip it once allowed.
+    if (advert) { e.preventDefault(); if (['Escape', 'Enter', ' '].includes(e.key)) advert.skip(); return; }
     // While the newspaper is up, any key just dismisses it (so it can't answer the hidden question).
     if (document.querySelector('.splash:not(.is-leaving)')) { e.preventDefault(); closeSplash(); return; }
     const k = e.key.toLowerCase();
@@ -196,5 +220,7 @@ export function render(root, app) {
     document.removeEventListener('keydown', onKey);
     document.querySelectorAll('.sheet-backdrop').forEach((n) => n.remove());
     closeSplash(true);
+    advert?.close(); advert = null;
+    preloaded?.remove(); preloaded = null;
   };
 }

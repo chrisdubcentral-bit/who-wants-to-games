@@ -16,6 +16,19 @@
   "images": {
     "prize": "assets/img/trophy-placeholder.svg"
   },
+  "adverts": {
+    "breaks": [
+      {
+        "after": "round-1",
+        "label": "Celtic Pools",
+        "url": "https://celticpools.securecollections.net/index.aspx?Agent=3572",
+        "linkText": "Join Now",
+        "landscape": "../../media/ads/celtic-pools-weekly-lottery-landscape-1280x720.mp4",
+        "portrait": "../../media/ads/celtic-pools-weekly-lottery-portrait-720x1280.mp4",
+        "skipAfterMs": 5000
+      }
+    ]
+  },
   "text": {
     "home": {
       "titleTop": "Who Wants To Win",
@@ -41,6 +54,12 @@
       "bye": "not played by the holders",
       "won": "{count} won",
       "correct": "Correct! {team} go through."
+    },
+    "advert": {
+      "eyebrow": "A word from our sponsor",
+      "skipIn": "Skip in {s}",
+      "skip": "Skip advert",
+      "link": "Find out more"
     },
     "newspaper": {
       "masthead": "The Paradise Gazette",

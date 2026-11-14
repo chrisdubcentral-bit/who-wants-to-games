@@ -105,6 +105,23 @@ test('input is ignored while an answer is locked in', () => {
   ok(reduce(st, { type: 'FORFEIT' }) === st, 'forfeit');
   ok(reduce(st, { type: 'USE_5050' }) === st, '50:50');
 });
+test('time held by an advert between stages is not counted', () => {
+  let st = reduce(initialState(stages), { type: 'START', questions: fakeQs, startedAt: '2026-01-01T00:00:00.000Z' });
+  st = reduce(st, { type: 'PAUSE_CREDIT', ms: 8000 });
+  st = reduce(st, { type: 'SELECT', index: 1 }); st = reduce(st, { type: 'REVEAL' });
+  st = reduce(st, { type: 'ADVANCE', at: '2026-01-01T00:01:00.000Z' });
+  eq(summarise(st).durationMs, 52000);
+});
+test('a pause credit is ignored unless a question is on screen, and must be a positive time', () => {
+  const playing = play([]);
+  ok(reduce(playing, { type: 'PAUSE_CREDIT', ms: 0 }) === playing, 'zero');
+  ok(reduce(playing, { type: 'PAUSE_CREDIT', ms: -5 }) === playing, 'negative');
+  ok(reduce(playing, { type: 'PAUSE_CREDIT', ms: 'soon' }) === playing, 'not a number');
+  const locked = reduce(playing, { type: 'SELECT', index: 0 });
+  ok(reduce(locked, { type: 'PAUSE_CREDIT', ms: 1000 }) === locked, 'locked in');
+  const out = play([1]);
+  ok(reduce(out, { type: 'PAUSE_CREDIT', ms: 1000 }) === out, 'eliminated');
+});
 
 /* ---------------- Picker ---------------- */
 group('Question picker');
