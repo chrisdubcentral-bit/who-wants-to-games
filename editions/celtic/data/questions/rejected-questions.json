@@ -1,8 +1,68 @@
 {
   "schemaVersion": 1,
   "collection": "rejected",
-  "updatedAt": "2026-11-14T16:34:43.427Z",
+  "updatedAt": "2026-11-14T17:27:26.572Z",
   "questions": [
+    {
+      "id": "q_001163",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "Brother Walfrid's 1887 appeal said the club would maintain dinner tables for the children and which other group?",
+      "options": [
+        "Widows",
+        "The unemployed",
+        "Soldiers",
+        "The elderly"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "celticfc.com history",
+        "Brother Walfrid",
+        "1887"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T17:03:41.579Z",
+      "review": {
+        "reviewedAt": "2026-11-14T17:03:41.579Z",
+        "rejectionReason": "Factually Incorrect",
+        "rejectionNote": "This had been disputed"
+      }
+    },
+    {
+      "id": "q_001105",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "uefa-competitions",
+      "difficulty": 2,
+      "question": "In which season did Celtic first play in the Champions League group stage?",
+      "options": [
+        "2001-02",
+        "2003-04",
+        "1997-98",
+        "1998-99"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "celticfc.com history",
+        "Champions League",
+        "2001"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-14T16:36:16.715Z",
+      "updatedAt": "2026-11-14T16:44:51.654Z",
+      "review": {
+        "reviewedAt": "2026-11-14T16:44:51.654Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
     {
       "schemaVersion": 1,
       "club": "celtic",
