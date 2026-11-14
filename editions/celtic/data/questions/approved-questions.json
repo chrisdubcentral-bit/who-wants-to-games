@@ -1,8 +1,98 @@
 {
   "schemaVersion": 1,
   "collection": "approved",
-  "updatedAt": "2026-11-14T09:02:14.397Z",
+  "updatedAt": "2026-11-14T16:34:43.427Z",
   "questions": [
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "tags": [
+        "Winger",
+        "Subs",
+        "Substitute"
+      ],
+      "source": "manual",
+      "question": "Which winger came off he bench 21 times in season 1994-95?",
+      "options": [
+        "Simon Donnelly",
+        "Stuart Slater",
+        "Joe Miller",
+        "Brain McLaughlin"
+      ],
+      "correctAnswer": 3,
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "id": "q_001069",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:34:37.165Z",
+      "updatedAt": "2026-11-14T16:34:41.095Z",
+      "review": {
+        "reviewedAt": "2026-11-14T16:34:41.095Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "tags": [
+        "Subs",
+        "Substitute",
+        "Chris Killen"
+      ],
+      "source": "manual",
+      "question": "Which Celtic Striker made 24 sub appearances in Season 2007-08?",
+      "options": [
+        "Chris Killen",
+        "Scott McDonald",
+        "Geogios Samaras",
+        "Maciej Zurawski"
+      ],
+      "correctAnswer": 0,
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "id": "q_001068",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:30:43.727Z",
+      "updatedAt": "2026-11-14T16:30:46.744Z",
+      "review": {
+        "reviewedAt": "2026-11-14T16:30:46.744Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "tags": [
+        "Lisbon Lions",
+        "Appearances",
+        "Substitute"
+      ],
+      "source": "manual",
+      "question": "Which Lisbon Lion made the most substitute appearances (81)?",
+      "options": [
+        "John Clark",
+        "Jim Craig",
+        "Bobby Lennox",
+        "Bobby Murdoch"
+      ],
+      "correctAnswer": 2,
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "id": "q_001067",
+      "status": "approved",
+      "createdAt": "2026-11-14T16:27:04.999Z",
+      "updatedAt": "2026-11-14T16:27:08.924Z",
+      "review": {
+        "reviewedAt": "2026-11-14T16:27:08.924Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
     {
       "id": "q_000348",
       "schemaVersion": 1,
