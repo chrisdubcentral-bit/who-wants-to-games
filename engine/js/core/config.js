@@ -1,6 +1,7 @@
 // App-wide settings and access to stage/category metadata.
 
 import { setEdition, getEdition } from './edition.js';
+import { setAdverts } from './adverts.js';
 
 // Edition-specific wording and settings live in data/edition.json (see js/core/edition.js).
 export const APP = {
@@ -15,6 +16,7 @@ export const APP = {
 
 export const PATHS = {
   edition: 'data/edition.json',
+  adverts: 'data/adverts.json',
   stages: 'data/meta/stages.json',
   categories: 'data/meta/categories.json',
   pending: 'data/questions/pending-questions.json',
@@ -45,12 +47,15 @@ let meta = null;
 /** Loads the edition, stages and categories once. `base` lets pages in sub-folders (tests) resolve paths. */
 export async function loadMeta(base = '') {
   if (meta) return meta;
-  const [e, s, c] = await Promise.all([
+  const [e, s, c, a] = await Promise.all([
     fetchJson(base + PATHS.edition),
     fetchJson(base + PATHS.stages),
     fetchJson(base + PATHS.categories),
+    fetchJson(base + PATHS.adverts).catch(() => null), // optional: an edition without adverts.json has no adverts
   ]);
   setEdition(e);
+  // Older editions kept their adverts in edition.json under adverts.breaks.
+  setAdverts(a?.adverts ?? e?.adverts?.breaks ?? []);
   meta = buildMeta(s.stages, c.categories);
   return meta;
 }

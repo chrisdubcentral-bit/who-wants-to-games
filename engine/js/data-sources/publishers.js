@@ -1,6 +1,6 @@
-// Writes the three question files back to disk.
-// Chrome/Edge: File System Access API (pick data/questions once, then save directly).
-// Other browsers: download the three files to copy into data/questions manually.
+// Writes the three question files back to disk, and the adverts file (data/adverts.json).
+// Chrome/Edge: File System Access API (pick data/questions once, or data for adverts, then save directly).
+// Other browsers: download the files to copy into the folder manually.
 
 import { COLLECTIONS, APP } from '../core/config.js';
 import { toFile } from './json-file-source.js';
@@ -34,10 +34,14 @@ function idb(mode, fn) {
     open.onupgradeneeded = () => open.result.createObjectStore(STORE);
     open.onerror = () => reject(open.error);
     open.onsuccess = () => {
-      const tx = open.result.transaction(STORE, mode);
-      const req = fn(tx.objectStore(STORE));
-      tx.oncomplete = () => resolve(req?.result);
-      tx.onerror = () => reject(tx.error);
+      try {
+        const tx = open.result.transaction(STORE, mode);
+        const req = fn(tx.objectStore(STORE));
+        tx.oncomplete = () => resolve(req?.result);
+        tx.onerror = () => reject(tx.error);
+      } catch (err) {
+        reject(err); // e.g. the browser can't store the folder: carry on without remembering it
+      }
     };
   });
 }
@@ -45,11 +49,11 @@ function idb(mode, fn) {
 // Each edition remembers its own folder, so one edition's questions can never be saved into another's.
 const handleKey = () => `questionsDir:${APP.club}`;
 
-async function getSavedHandle() {
-  try { return await idb('readonly', (s) => s.get(handleKey())); } catch { return null; }
+async function getSavedHandle(key = handleKey()) {
+  try { return await idb('readonly', (s) => s.get(key)); } catch { return null; }
 }
-async function saveHandle(handle) {
-  try { await idb('readwrite', (s) => s.put(handle, handleKey())); } catch { /* not critical */ }
+async function saveHandle(handle, key = handleKey()) {
+  try { await idb('readwrite', (s) => s.put(handle, key)); } catch { /* not critical */ }
 }
 export async function forgetFolder() {
   try { await idb('readwrite', (s) => s.delete(handleKey())); } catch { /* ignore */ }
@@ -108,4 +112,50 @@ export function downloadJson(name, data) {
   a.click();
   a.remove();
   setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+/* ---------- Adverts (data/adverts.json) ---------- */
+
+const ADVERTS_FILE = 'adverts.json';
+const dataKey = () => `dataDir:${APP.club}`;
+
+/** Where this edition's adverts file lives, for messages. */
+export const advertsPath = () => `editions/${APP.club}/data/${ADVERTS_FILE}`;
+
+/** True if the folder is this edition's data folder (it holds an edition.json with this edition's id). */
+async function isEditionDataFolder(folder) {
+  try {
+    const file = await (await folder.getFileHandle('edition.json')).getFile();
+    return JSON.parse(await file.text())?.id === APP.club;
+  } catch { return false; }
+}
+
+async function getDataFolder({ forcePick = false } = {}) {
+  let handle = forcePick ? null : await getSavedHandle(dataKey());
+  if (handle && !(await ensurePermission(handle))) handle = null;
+  if (!handle) {
+    handle = await window.showDirectoryPicker({ id: `data-${APP.club}`, mode: 'readwrite' });
+    if (!(await isEditionDataFolder(handle))) {
+      throw new Error(`That isn't the ${APP.club} edition's data folder. Pick editions/${APP.club}/data (the folder with edition.json in it).`);
+    }
+    await saveHandle(handle, dataKey());
+  }
+  return handle;
+}
+
+/**
+ * Saves the adverts file. The first time, Chrome/Edge ask for the edition's data folder.
+ * @returns {{method:'direct'|'download'}}
+ */
+export async function saveAdvertsFile(data, { forcePick = false } = {}) {
+  if (supportsDirectSave()) {
+    const folder = await getDataFolder({ forcePick });
+    const fh = await folder.getFileHandle(ADVERTS_FILE, { create: true });
+    const w = await fh.createWritable();
+    await w.write(JSON.stringify(data, null, 2) + '\n');
+    await w.close();
+    return { method: 'direct' };
+  }
+  downloadJson(ADVERTS_FILE, data);
+  return { method: 'download' };
 }

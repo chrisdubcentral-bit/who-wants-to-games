@@ -17,6 +17,7 @@ const EDITION_FILES = [
   'theme.css',
   'assets',
   'data/edition.json',
+  'data/adverts.json',
   'data/meta',
   'data/questions/approved-questions.json',
 ];
@@ -55,7 +56,7 @@ function copyEdition(id) {
   for (const item of EDITION_FILES) {
     const src = path.join(from, item);
     if (!fs.existsSync(src)) {
-      if (item !== 'assets') warnings.push(`${id}: ${item} is missing`);
+      if (item !== 'assets' && item !== 'data/adverts.json') warnings.push(`${id}: ${item} is missing`);
       continue;
     }
     copy(src, path.join(to, item));
@@ -68,18 +69,24 @@ function copyEdition(id) {
   return { id, title };
 }
 
-/** Warns about advert videos an edition asks for that didn't make it into dist/. */
+/** Reads an edition's adverts: data/adverts.json, or adverts.breaks in edition.json for older editions. */
+function readAdverts(editionDir) {
+  const read = (p) => { try { return JSON.parse(fs.readFileSync(path.join(editionDir, p), 'utf8')); } catch { return null; } };
+  return read('data/adverts.json')?.adverts ?? read('data/edition.json')?.adverts?.breaks ?? [];
+}
+
+/** Warns about adverts that won't play: missing videos, or dates that leave them switched off. */
 function checkAdverts(id) {
   const editionDir = path.join(DIST, 'editions', id);
-  let edition;
-  try {
-    edition = JSON.parse(fs.readFileSync(path.join(editionDir, 'data/edition.json'), 'utf8'));
-  } catch {
-    return;
-  }
-  for (const brk of edition.adverts?.breaks ?? []) {
+  const today = new Date().toISOString().slice(0, 10);
+  const isDay = (v) => typeof v === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(v);
+  for (const ad of readAdverts(editionDir)) {
+    const name = ad.name || ad.id || ad.label || 'an advert';
+    if (ad.enabled === false) continue;
+    if (isDay(ad.until) && ad.until < today) { warnings.push(`${id}: advert "${name}" ended on ${ad.until}, so it won't play`); continue; }
+    if (isDay(ad.from) && isDay(ad.until) && ad.until < ad.from) warnings.push(`${id}: advert "${name}" ends before it starts`);
     for (const shape of ['landscape', 'portrait']) {
-      const file = brk[shape];
+      const file = ad[shape];
       if (!file || /^https?:\/\//i.test(file)) continue;
       if (!fs.existsSync(path.resolve(editionDir, file))) {
         warnings.push(`${id}: advert video not found, testers won't see it: ${file}`);

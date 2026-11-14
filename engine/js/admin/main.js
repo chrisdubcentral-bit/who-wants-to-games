@@ -10,6 +10,7 @@ import { createAdminStore } from './admin-store.js';
 import * as dashboard from './views/dashboard.js';
 import * as reviewList from './views/review-list.js';
 import * as editForm from './views/edit-form.js';
+import * as adverts from './views/adverts.js';
 
 const root = document.getElementById('admin');
 const nav = document.getElementById('admin-nav');
@@ -36,6 +37,7 @@ function renderRoute() {
   if (path === 'review') { section = 'review'; cleanup = reviewList.render(root, ctx, params); }
   else if (path.startsWith('edit/')) { section = 'review'; cleanup = editForm.render(root, ctx, decodeURIComponent(path.slice(5))); }
   else if (path === 'new') { section = 'new'; cleanup = editForm.render(root, ctx, null); }
+  else if (path === 'adverts') { section = 'adverts'; cleanup = adverts.render(root, ctx); }
   else { cleanup = dashboard.render(root, ctx); }
   nav.querySelectorAll('a').forEach((a) => a.classList.toggle('is-active', a.dataset.section === section));
   window.scrollTo({ top: 0 });

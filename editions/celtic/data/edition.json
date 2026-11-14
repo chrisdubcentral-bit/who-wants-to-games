@@ -19,28 +19,6 @@
   "images": {
     "prize": "assets/img/trophy-placeholder.svg"
   },
-  "adverts": {
-    "breaks": [
-      {
-        "after": "round-1",
-        "label": "Celtic Pools",
-        "url": "https://celticpools.securecollections.net/index.aspx?Agent=3572",
-        "linkText": "Join Now",
-        "landscape": "../../media/ads/celtic-pools-weekly-lottery-landscape-1280x720.mp4",
-        "portrait": "../../media/ads/celtic-pools-weekly-lottery-portrait-720x1280.mp4",
-        "skipAfterMs": 5000
-      },
-      {
-        "after": "round-1",
-        "label": "Celtic Pools",
-        "url": "https://celticpools.securecollections.net/index.aspx?Agent=3572",
-        "linkText": "Join Now",
-        "landscape": "../../media/ads/celtic-pools-beanie-promo-landscape-832x464.mp4",
-        "portrait": "../../media/ads/celtic-pools-beanie-promo-portrait-464x832.mp4",
-        "skipAfterMs": 5000
-      }
-    ]
-  },
   "text": {
     "home": {
       "titleTop": "Who Wants To Win",

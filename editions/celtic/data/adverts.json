@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-14T16:55:21.575Z",
+  "adverts": [
+    {
+      "id": "weekly-lottery",
+      "name": "Weekly lottery",
+      "enabled": true,
+      "from": null,
+      "until": null,
+      "after": "round-1",
+      "label": "Celtic Pools",
+      "url": "https://celticpools.securecollections.net/index.aspx?Agent=3572",
+      "linkText": "Join Now",
+      "landscape": "../../media/ads/celtic-pools-weekly-lottery-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/celtic-pools-weekly-lottery-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "beanie-promo",
+      "name": "Beanie hat promo",
+      "enabled": true,
+      "from": null,
+      "until": null,
+      "after": "round-1",
+      "label": "Celtic Pools",
+      "url": "https://celticpools.securecollections.net/index.aspx?Agent=3572",
+      "linkText": "Join Now",
+      "landscape": "../../media/ads/celtic-pools-beanie-promo-landscape-832x464.mp4",
+      "portrait": "../../media/ads/celtic-pools-beanie-promo-portrait-464x832.mp4",
+      "skipAfterMs": 5000
+    }
+  ]
+}

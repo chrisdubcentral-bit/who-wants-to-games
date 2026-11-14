@@ -8,6 +8,7 @@ import { migrateQuestion, migrateCollection } from '../engine/js/core/migrations
 import { applyGame, emptyStats } from '../engine/js/game/stats.js';
 import { matchesQuery, applyFilters, idsInQuery } from '../engine/js/core/search.js';
 import { normalise, nextQuestionId, similarity } from '../engine/js/core/utils.js';
+import { advertStatus, showingAfter, advertProblems, dayKey } from '../engine/js/core/adverts.js';
 import { compareEntries, insertEntry, upsertEntry, entryFromSummary, prospectiveRank, isEligible, cleanText, formatDuration, rankOfSession, LIMIT } from '../engine/js/game/leaderboard.js';
 
 const results = [];
@@ -409,6 +410,41 @@ test('a finished game records how long it took', () => {
   st = reduce(st, { type: 'REVEAL' });
   st = reduce(st, { type: 'ADVANCE', at: '2026-01-01T00:01:30.000Z' });
   eq(summarise(st).durationMs, 90000);
+});
+
+/* ---------------- Adverts ---------------- */
+group('Adverts');
+const ad = (o = {}) => ({ id: 'a', name: 'Ad', enabled: true, from: null, until: null, after: 'round-1', landscape: 'x.mp4', portrait: 'y.mp4', ...o });
+test('an advert with no dates shows whenever it is switched on', () => {
+  eq(advertStatus(ad(), '2026-11-14'), 'showing');
+  eq(advertStatus(ad({ enabled: false }), '2026-11-14'), 'off');
+});
+test('start and end dates both count as showing days', () => {
+  const xmas = ad({ from: '2026-12-01', until: '2026-12-25' });
+  eq(advertStatus(xmas, '2026-11-30'), 'scheduled');
+  eq(advertStatus(xmas, '2026-12-01'), 'showing');
+  eq(advertStatus(xmas, '2026-12-25'), 'showing');
+  eq(advertStatus(xmas, '2026-12-26'), 'expired');
+});
+test('switching an advert off beats its dates, and no video means it cannot play', () => {
+  eq(advertStatus(ad({ enabled: false, from: '2026-01-01' }), '2026-06-01'), 'off');
+  eq(advertStatus(ad({ landscape: null, portrait: null }), '2026-06-01'), 'no-video');
+});
+test('only adverts showing today after the stage take turns, in the order listed', () => {
+  const list = [ad({ id: '1' }), ad({ id: '2', until: '2026-01-01' }), ad({ id: '3', after: 'round-2' }), ad({ id: '4' })];
+  eq(showingAfter(list, 'round-1', '2026-06-01').map((a) => a.id), ['1', '4']);
+  eq(showingAfter(list, 'final', '2026-06-01'), []);
+});
+test('advert problems are spotted', () => {
+  eq(advertProblems(ad(), ['round-1']), []);
+  ok(advertProblems(ad({ from: '2026-12-25', until: '2026-12-01' })).some((p) => p.includes('before the start')));
+  ok(advertProblems(ad({ url: 'celticpools.com' })).some((p) => p.includes('https://')));
+  ok(advertProblems(ad({ after: 'final' }), ['round-1']).some((p) => p.includes('stage')));
+});
+test('dates are the player\'s local day as YYYY-MM-DD', () => { eq(dayKey(new Date(2026, 0, 5, 23, 30)), '2026-01-05'); });
+const advertsFile = await fetchJson('../editions/celtic/data/adverts.json');
+test('the Celtic adverts file has no problems', () => {
+  for (const a of advertsFile.adverts) eq(advertProblems(a, stages.map((s) => s.key)), [], a.name);
 });
 
 /* ---------------- Render ---------------- */

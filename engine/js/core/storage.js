@@ -46,6 +46,7 @@ export const KEYS = {
   adminWorking: 'admin:working',
   adminAudit: 'admin:audit',
   adminReviewStatus: 'admin:reviewStatus',
+  adminAdverts: 'admin:adverts',      // unsaved changes on the admin page's Adverts tab
   gameSnapshot: 'game:snapshot',
   leaderboard: 'leaderboard',        // old per-device board, cleared on start-up
   boardReset: 'leaderboard:reset',   // old per-device board, cleared on start-up

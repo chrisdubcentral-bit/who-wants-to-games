@@ -57,7 +57,7 @@ export function render(root, app) {
     if (next) next();
   }
 
-  /** An advert break set for the stage just won (edition.json "adverts.breaks") plays once the newspaper has gone.
+  /** An advert showing today after the stage just won (data/adverts.json) plays once the newspaper has gone.
       The time it holds the game is given back, so it doesn't count against the player's Top 100 time. */
   function advertAfter(state) {
     const brk = breakAfter(state.stages[state.stageIndex - 1].key, advertRun(state));

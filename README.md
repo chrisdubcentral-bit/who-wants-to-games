@@ -26,7 +26,7 @@ by double-clicking. Run it from a local web server instead:
 |---|---|
 | `index.html` | List of editions (development only) |
 | `editions/<name>/index.html` | An edition's game, e.g. `editions/celtic/index.html` |
-| `editions/<name>/admin-review.html` | An edition's question review (approve, reject, edit, import, publish) |
+| `editions/<name>/admin-review.html` | An edition's question review (approve, reject, edit, import, publish) and its Adverts tab |
 | `tests/test-runner.html` | Unit tests for the game rules, validation and picker |
 
 Live Server has no online Top 100 behind it, so the Top 100 shows "Couldn't reach the Top 100" there. To try it
@@ -171,11 +171,11 @@ edition's data; the examples here are from the Celtic edition.
   hide the toggle, set `"sound": { "enabled": false }` in the edition's `data/edition.json` (Celtic: off for now).
 - **Adverts:** an edition can play a short video between stages, after the newspaper (Celtic: after the First Round,
   halfway through the eight stages).
-  It plays muted, a Skip button appears after five seconds, and the time it holds the game is given back so it
-  doesn't count towards your Top 100 time. The breaks are set in `adverts.breaks` in `data/edition.json` (one file
-  for landscape screens and one for phones held upright, and optionally a `url` that tapping the video or the
-  link button opens in a new tab). The videos live in `media/ads/` at the project root (the compressed 720p copies
-  only; see `media/ads/README.md`). If a video is missing the game simply carries on.
+  It plays muted, a Skip button appears after a few seconds, and the time it holds the game is given back so it
+  doesn't count towards your Top 100 time. Adverts after the same stage take turns, one per game. They are managed
+  on the [Adverts tab](#managing-adverts) and stored in the edition's `data/adverts.json`. The videos live in
+  `media/ads/` at the project root (the compressed 720p copies only; see `media/ads/README.md`). If a video is
+  missing the game simply carries on.
 - **50:50:** once per game, removes two wrong answers. It isn't handed back if you play on into a new season.
 - **Seasons:** win the Final and you can start another season as holders, from the stage set by `seasons.restartStage`
   (Celtic: the First Round, five questions). You can keep going until a wrong answer, and you keep the prizes already won.
@@ -224,6 +224,26 @@ If new questions are added to the files while you have unpublished changes (for 
 `pending-questions.json`), the review page adds them to your unpublished copy when it next loads, so they are not hidden
 or lost on the next Publish.
 
+## Managing adverts
+
+The **Adverts** tab on the edition's `admin-review.html` lists every advert with a video preview. For each one you can:
+
+- switch it **on or off**;
+- give it a **Show from** and/or **Show until** date, so a time-limited advert starts and stops by itself (both days
+  included, using the player's own date). Its badge says **Showing now**, **Starts …**, **Ended …** or **Off**;
+- change the stage it **plays after**, when the **Skip** button appears, the **advertiser name** shown under the
+  video, the **button text** and the **link**;
+- change the **turn order** (adverts after the same stage take turns in the order listed), or **delete** it.
+
+The panel at the top says which adverts are showing today. Changes are kept in the browser until you click
+**Save Adverts** (separate from the questions' Publish). The first time, Chrome or Edge asks for the edition's `data`
+folder (e.g. `editions/celtic/data`, the one with `edition.json` in it); other browsers download `adverts.json` to
+copy there. Then push to `live` as usual. The game reads the adverts file fresh each time it starts, so phones get
+the change as soon as the site is rebuilt, and dated adverts switch on and off by themselves without another push.
+
+**A new advert:** put its compressed videos in `media/ads/`, then click **Add Advert**, type the file names (just the
+file name is enough) and fill in the rest. The tab checks the files are there. New adverts start switched off.
+
 ## Seed questions: please fact-check
 
 The Celtic edition's starter questions (48 approved, 10 pending) were written from general knowledge and should be checked
@@ -257,6 +277,7 @@ editions/
     theme.css              colours and design tokens
     assets/                logo, prize image, icons (and sfx/cheer.mp3 if added)
     data/edition.json      the edition's wording
+    data/adverts.json      the adverts played between stages (Adverts tab)
     data/meta/             stages.json, categories.json
     data/questions/        pending / approved / rejected
     data/imports/          question batches as they were first written

@@ -1,13 +1,15 @@
-// Short video adverts between stages. Each edition lists its breaks in data/edition.json:
-//   "adverts": { "breaks": [ { "after": "round-1", "landscape": "….mp4", "portrait": "….mp4", "skipAfterMs": 5000,
-//                              "label": "Celtic Pools", "url": "https://…", "linkText": "Join Now" } ] }
+// Short video adverts between stages. Each edition lists them in data/adverts.json (managed on the admin page's
+// Adverts tab); which ones are showing today is decided in core/adverts.js (on/off switch and start/end dates):
+//   { "id", "name", "enabled": true, "from": "2026-12-01", "until": null, "after": "round-1", "landscape": "….mp4",
+//     "portrait": "….mp4", "skipAfterMs": 5000, "label": "Celtic Pools", "url": "https://…", "linkText": "Join Now" }
 // The advert plays once the newspaper splash has gone. It's muted (phones only autoplay muted video) and a Skip button
 // appears after skipAfterMs. With a "url", tapping the video or the link button opens it in a new tab, so the game
 // carries on underneath. A missing or broken video never holds the game up: the overlay just closes.
-// Several breaks with the same "after" take turns: one per game, in the order listed (a new season counts as a new game).
+// Adverts showing after the same stage take turns: one per game, in the order listed (a new season counts as a new game).
 
 import { html, esc } from '../ui/dom.js';
-import { t, ed } from '../core/edition.js';
+import { t } from '../core/edition.js';
+import { getAdverts, showingAfter } from '../core/adverts.js';
 import { local, KEYS } from '../core/storage.js';
 
 const MAX_HOLD_MS = 20000;     // the longest an advert can hold the game, even if the video stalls
@@ -18,9 +20,7 @@ const DEFAULT_SKIP_MS = 5000;
  * runKey identifies the game, so the same game always gets the same advert and the next game gets the next one.
  */
 export function breakAfter(stageKey, runKey = null) {
-  const breaks = ed('adverts.breaks', []);
-  if (!Array.isArray(breaks)) return undefined;
-  const options = breaks.filter((b) => b && b.after === stageKey && (b.landscape || b.portrait));
+  const options = showingAfter(getAdverts(), stageKey);
   if (options.length <= 1 || !runKey) return options[0];
 
   const turns = local.read(KEYS.advertTurns, {}) ?? {};
