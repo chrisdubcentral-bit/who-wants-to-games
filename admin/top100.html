@@ -92,6 +92,9 @@
       });
       let data = null;
       try { data = await res.json(); } catch {}
+      if (!data && res.status === 404) {
+        throw new Error('There is no Top 100 server here. Open this page on the Netlify site, or run "npm run dev" and use http://localhost:8888/admin/top100.html (key: dev). Live Server can\'t run it.');
+      }
       if (!res.ok || !data?.ok) throw new Error(data?.message || `Request failed (${res.status})`);
       return data;
     }

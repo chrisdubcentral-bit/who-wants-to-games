@@ -167,7 +167,8 @@ edition's data; the examples here are from the Celtic edition.
   It clears itself after about three seconds, or tap or press any key to skip it.
 - **Sound:** a crowd cheer plays after each correct answer. Turn it on or off on the How To Play page (saved in
   the browser). The cheer is generated in the browser; to use a real recording instead, save it as
-  `editions/<name>/assets/sfx/cheer.mp3` (make sure you're allowed to use it).
+  `editions/<name>/assets/sfx/cheer.mp3` (make sure you're allowed to use it). To switch sound off for everyone and
+  hide the toggle, set `"sound": { "enabled": false }` in the edition's `data/edition.json` (Celtic: off for now).
 - **Adverts:** an edition can play a short video between stages, after the newspaper (Celtic: after the First Round,
   halfway through the eight stages).
   It plays muted, a Skip button appears after five seconds, and the time it holds the game is given back so it

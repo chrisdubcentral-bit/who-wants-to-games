@@ -1,8 +1,10 @@
 // Sound effects. On by default; the choice is saved in this browser.
+// An edition can switch sound off completely with "sound": { "enabled": false } in data/edition.json.
 // Plays assets/sfx/cheer.mp3 if that file exists, otherwise builds a crowd roar with Web Audio.
 // Phones only allow sound after a tap, so the audio is unlocked on the first tap or key press.
 
 import { local, KEYS } from './storage.js';
+import { ed } from './edition.js';
 
 const CHEER_FILE = 'assets/sfx/cheer.mp3';
 const VOLUME = 0.55;
@@ -15,7 +17,10 @@ function settings() {
   return s && typeof s === 'object' ? s : {};
 }
 
-export function isSoundOn() { return settings().sound !== false; }
+/** False when the edition has switched sound off for everyone (the How To Play toggle is hidden too). */
+export const soundAvailable = () => ed('sound.enabled', true) !== false;
+
+export function isSoundOn() { return soundAvailable() && settings().sound !== false; }
 
 export function setSoundOn(on) {
   local.write(KEYS.settings, { ...settings(), sound: !!on });

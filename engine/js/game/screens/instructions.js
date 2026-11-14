@@ -1,6 +1,6 @@
 import { mount, esc } from '../../ui/dom.js';
 import { t, ed } from '../../core/edition.js';
-import { isSoundOn, setSoundOn, playCheer } from '../../core/sound.js';
+import { isSoundOn, setSoundOn, playCheer, soundAvailable } from '../../core/sound.js';
 
 const soundLabel = (on) => (on ? 'Sound On' : 'Sound Off');
 
@@ -41,12 +41,12 @@ export function render(root, app) {
           <h3>The Top 100</h3>
           <p>${esc(t('how.top100'))}</p>
         </article>
-        <article class="card how-card">
+        ${soundAvailable() ? `<article class="card how-card">
           <div class="icon">♪</div>
           <h3>Sound</h3>
           <p>${esc(t('how.sound'))}</p>
           <button type="button" class="btn sound-toggle${on ? ' is-on' : ''}" data-action="sound" aria-pressed="${on}">${soundLabel(on)}</button>
-        </article>
+        </article>` : ''}
         <article class="card how-card">
           <div class="icon">⌨</div>
           <h3>Controls</h3>
@@ -60,7 +60,7 @@ export function render(root, app) {
     </section>`);
 
   const btn = root.querySelector('[data-action="sound"]');
-  btn.addEventListener('click', () => {
+  btn?.addEventListener('click', () => {
     const next = !isSoundOn();
     setSoundOn(next);
     btn.classList.toggle('is-on', next);

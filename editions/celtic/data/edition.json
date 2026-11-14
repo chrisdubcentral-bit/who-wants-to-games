@@ -13,6 +13,9 @@
   "seasons": {
     "restartStage": "round-1"
   },
+  "sound": {
+    "enabled": false
+  },
   "images": {
     "prize": "assets/img/trophy-placeholder.svg"
   },
@@ -56,7 +59,7 @@
       "correct": "Correct! {team} go through."
     },
     "advert": {
-      "eyebrow": "A word from our sponsor",
+      "eyebrow": "Affiliate link",
       "skipIn": "Skip in {s}",
       "skip": "Skip advert",
       "link": "Find out more"
