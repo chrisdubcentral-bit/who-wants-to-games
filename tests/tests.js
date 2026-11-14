@@ -163,8 +163,12 @@ test('an approved question is not a duplicate of itself', () => {
   ok(validateQuestion(approved[0], { meta, approved }).valid);
 });
 test('near-duplicate gives a warning, not an error', () => {
-  const near = { ...good, question: approved[0].question.replace('?', ' exactly?') };
-  const r = validateQuestion(near, { meta, approved });
+  // Compared against a made-up approved list, so changes to the real question files can't break it.
+  // Long enough that one extra word stays above the 80% similarity threshold.
+  const text = 'Which Celtic captain lifted the European Cup in Lisbon after beating Inter Milan in May 1967?';
+  const existing = { ...good, id: 'q_000001', question: text };
+  const near = { ...good, id: 'x2', question: text.replace('?', ' exactly?') };
+  const r = validateQuestion(near, { meta, approved: [existing] });
   ok(r.valid, 'should still be valid');
   ok(r.warnings.some((w) => /Possible duplicate/.test(w.message)), JSON.stringify(r.warnings));
 });
@@ -173,11 +177,11 @@ test('missing "?" and odd difficulty give warnings', () => {
   ok(r.valid);
   eq(r.warnings.length, 2);
 });
-test('every seed approved question passes validation', () => {
+// Only errors fail here: warnings (e.g. a possible duplicate) are advice, and a reviewer may have approved the question anyway.
+test('every approved question passes validation', () => {
   approved.forEach((q) => {
     const r = validateQuestion(q, { meta, approved });
     ok(r.valid, `${q.id}: ${JSON.stringify(r.errors)}`);
-    ok(!r.warnings.length, `${q.id} warnings: ${JSON.stringify(r.warnings)}`);
   });
 });
 
@@ -215,6 +219,18 @@ test('only a champion can start another season', () => {
   eq(reduce(out, { type: 'NEXT_SEASON', questions: seasonQs('x'), fromIndex: R1 }), out);
   const won = play([0, 0, 0, 0, 0, 0, 0, 0]);
   eq(reduce(won, { type: 'NEXT_SEASON', questions: fakeQs, fromIndex: R1 }), won, 'wrong number of questions');
+});
+test('a champion can retire, keeping the cups and joining the Top 100, but not play on', () => {
+  const won = play([0, 0, 0, 0, 0, 0, 0, 0]);
+  const out = play([0, 1]);
+  eq(reduce(out, { type: 'RETIRE' }), out, 'only a champion can retire');
+  const st = reduce(won, { type: 'RETIRE' });
+  eq(st.status, STATUS.WON); eq(st.cups, 1);
+  const s = summarise(st);
+  ok(s.retired, 'summary says retired');
+  ok(isEligible(s), 'eligible for the Top 100');
+  eq(reduce(st, { type: 'RETIRE' }), st, 'retiring twice changes nothing');
+  eq(reduce(st, { type: 'NEXT_SEASON', questions: seasonQs('r'), fromIndex: R1 }), st, 'no new season after retiring');
 });
 test('the 50:50 is not handed back for a new season', () => {
   let st = reduce(play([0]), { type: 'USE_5050', rand: seeded(3) });

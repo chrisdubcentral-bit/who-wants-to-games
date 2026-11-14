@@ -1,0 +1,1092 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "domestic-trophies",
+    "difficulty": 1,
+    "question": "Celtic beat Rangers 4-2 at Celtic Park in May 1979 to win which trophy?",
+    "options": [
+      "The Scottish Cup",
+      "The league title",
+      "The Glasgow Cup",
+      "The League Cup"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Was There",
+      "Ten men won the league",
+      "1979",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "On what date did Celtic beat Rangers 7-1 in the League Cup Final?",
+    "options": [
+      "20 May 1953",
+      "24 April 1965",
+      "19 October 1957",
+      "25 May 1967"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Rangers",
+      "1957",
+      "League Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Who scored to make it 4-1 in the 1957 League Cup Final, as heard by a young fan on a neighbour's radio?",
+    "options": [
+      "Sammy Wilson",
+      "Charlie Tully",
+      "Billy McPhail",
+      "Neilly Mochan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Billy McPhail",
+      "1957",
+      "League Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "cup-finals",
+    "difficulty": 2,
+    "question": "At which ground did Celtic beat Rangers 7-1 in the 1957 League Cup Final?",
+    "options": [
+      "Ibrox",
+      "Celtic Park",
+      "Hampden Park",
+      "Firhill"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Hampden",
+      "1957",
+      "League Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Which hymn did Celtic supporters sing during the 7-1 League Cup Final, according to one fan who was there?",
+    "options": [
+      "Abide With Me",
+      "Amazing Grace",
+      "Hail Glorious St Patrick",
+      "Faith of Our Fathers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "1957",
+      "Supporters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "domestic-trophies",
+    "difficulty": 2,
+    "question": "Celtic clinched the 1979 league title by beating Rangers 4-2 with how many men?",
+    "options": [
+      "Eight",
+      "Nine",
+      "Ten",
+      "Eleven"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Ten men won the league",
+      "1979",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Which Celtic player was sent off in the 4-2 title win over Rangers in May 1979?",
+    "options": [
+      "Roy Aitken",
+      "Johnny Doyle",
+      "Murdo MacLeod",
+      "Tom McAdam"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Was There",
+      "Johnny Doyle",
+      "1979",
+      "Red cards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Who scored Celtic's fourth goal from about 25 yards in the last minute against Rangers in May 1979?",
+    "options": [
+      "Davie Provan",
+      "Murdo MacLeod",
+      "George McCluskey",
+      "Roy Aitken"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Was There",
+      "Murdo MacLeod",
+      "1979",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "domestic-trophies",
+    "difficulty": 4,
+    "question": "Which Rangers player scored an own goal in Celtic's 4-2 title win in May 1979?",
+    "options": [
+      "Alex MacDonald",
+      "Derek Johnstone",
+      "Peter McCloy",
+      "Colin Jackson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "1979",
+      "Rangers",
+      "Own goals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Who managed Celtic when they won the league with ten men against Rangers in 1979?",
+    "options": [
+      "Jock Stein",
+      "Davie Hay",
+      "Billy McNeill",
+      "Sean Fallon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Billy McNeill",
+      "1979"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "On which day of the week was Celtic's 4-2 title win over Rangers in May 1979 played?",
+    "options": [
+      "Wednesday",
+      "Sunday",
+      "Monday",
+      "Saturday"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "1979",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "opponents",
+    "difficulty": 4,
+    "question": "Who opened the scoring for Rangers after nine minutes in the 'Ten Men Won The League' game in 1979?",
+    "options": [
+      "Alex MacDonald",
+      "Bobby Russell",
+      "Davie Cooper",
+      "Derek Johnstone"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "1979",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Who was in goal for Celtic in the 4-2 title win over Rangers in May 1979?",
+    "options": [
+      "Peter Latchford",
+      "Denis Connaghan",
+      "Roy Baines",
+      "Pat Bonner"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Peter Latchford",
+      "1979",
+      "Goalkeepers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "european-nights",
+    "difficulty": 2,
+    "question": "When Feyenoord beat Celtic in the 1970 European Cup Final, they became the first club from which country to win it?",
+    "options": [
+      "Portugal",
+      "The Netherlands",
+      "Belgium",
+      "West Germany"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Was There",
+      "Feyenoord",
+      "1970",
+      "European Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Who equalised for Celtic after 66 minutes in the 4-2 title win over Rangers in May 1979?",
+    "options": [
+      "Murdo MacLeod",
+      "Roy Aitken",
+      "George McCluskey",
+      "Davie Provan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Was There",
+      "Roy Aitken",
+      "1979",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-nights",
+    "difficulty": 4,
+    "question": "Who came on for Bertie Auld in the 1970 European Cup Final?",
+    "options": [
+      "George Connelly",
+      "Lou Macari",
+      "Willie Wallace",
+      "Harry Hood"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "George Connelly",
+      "Feyenoord",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Who was Feyenoord's trainer when they beat Celtic in the 1970 European Cup Final?",
+    "options": [
+      "Ernst Happel",
+      "Rinus Michels",
+      "Stefan Kovacs",
+      "Wim Jansen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Feyenoord",
+      "1970",
+      "Managers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Who was named Celtic's best player on the night of the 1970 European Cup Final?",
+    "options": [
+      "Evan Williams",
+      "Billy McNeill",
+      "Jimmy Johnstone",
+      "Bobby Murdoch"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Evan Williams",
+      "Feyenoord",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Which Celtic forward hit a shot against the Feyenoord keeper in extra time of the 1970 final, and felt it ended his Celtic career?",
+    "options": [
+      "Willie Wallace",
+      "Bobby Lennox",
+      "John Hughes",
+      "Jimmy Johnstone"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "John Hughes",
+      "Feyenoord",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Which Celtic player was injured in the first minute of the 1970 European Cup Final?",
+    "options": [
+      "Jim Brogan",
+      "Tommy Gemmell",
+      "Bertie Auld",
+      "Davie Hay"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Jim Brogan",
+      "Feyenoord",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which future Celtic manager played in the side that won the 1953 Coronation Cup?",
+    "options": [
+      "Jock Stein",
+      "Sean Fallon",
+      "Billy McNeill",
+      "Jimmy McGrory"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Jock Stein",
+      "Coronation Cup",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Neilly Mochan, scorer in the 1953 Coronation Cup Final, had joined Celtic from which club?",
+    "options": [
+      "Sunderland",
+      "Hibernian",
+      "Morton",
+      "Middlesbrough"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "Neilly Mochan",
+      "Coronation Cup",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Who scored Celtic's second goal in the 4-2 title win over Rangers in May 1979?",
+    "options": [
+      "Murdo MacLeod",
+      "Roy Aitken",
+      "George McCluskey",
+      "Johnny Doyle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "George McCluskey",
+      "1979",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "opponents",
+    "difficulty": 4,
+    "question": "What was Hibernian's forward line known as when Celtic beat them in the 1953 Coronation Cup Final?",
+    "options": [
+      "The Terrible Trio",
+      "The Fab Four",
+      "The Famous Five",
+      "The Golden Line"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Hibernian",
+      "Coronation Cup",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "On the last day of the 2007-08 season, Rangers lost to which club, letting Celtic win the title?",
+    "options": [
+      "Aberdeen",
+      "Hearts",
+      "Hibernian",
+      "Motherwell"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Rangers",
+      "2008",
+      "League title"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "Celtic beat Rapid Vienna 3-0 at Celtic Park in November 1984 in which competition?",
+    "options": [
+      "Fairs Cup",
+      "European Cup",
+      "UEFA Cup",
+      "Cup Winners' Cup"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "Rapid Vienna",
+      "1984"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-nights",
+    "difficulty": 4,
+    "question": "Who scored Celtic's second goal, just before half-time, in the 3-0 win over Rapid Vienna in November 1984?",
+    "options": [
+      "Paul McStay",
+      "Tommy Burns",
+      "Murdo MacLeod",
+      "Frank McGarvey"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Murdo MacLeod",
+      "Rapid Vienna",
+      "1984"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-nights",
+    "difficulty": 4,
+    "question": "Who scored Celtic's first goal in the 3-0 win over Rapid Vienna at Celtic Park in November 1984?",
+    "options": [
+      "Tommy Burns",
+      "Paul McStay",
+      "Brian McClair",
+      "Frank McGarvey"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Brian McClair",
+      "Rapid Vienna",
+      "1984"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Which Rapid Vienna star led the protests around the referee at Celtic Park in November 1984?",
+    "options": [
+      "Herbert Prohaska",
+      "Bruno Pezzey",
+      "Hans Krankl",
+      "Toni Polster"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Rapid Vienna",
+      "1984"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Which Celtic player was sent off in the 3-1 first-leg defeat to Rapid Vienna in 1984?",
+    "options": [
+      "Roy Aitken",
+      "Peter Grant",
+      "Frank McGarvey",
+      "Alan McInally"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "Alan McInally",
+      "Rapid Vienna",
+      "1984",
+      "Red cards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "On the last day of 1985-86, Celtic needed to win at Love Street by at least how many goals, and hope Hearts lost?",
+    "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Four"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "St Mirren",
+      "Hearts",
+      "1986"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Who was Celtic manager when the league title was won at Love Street in May 1986?",
+    "options": [
+      "Frank Connor",
+      "Billy McNeill",
+      "Jock Stein",
+      "Davie Hay"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "Davie Hay",
+      "1986"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "What was the attendance at Love Street when Celtic won the league title there in May 1986?",
+    "options": [
+      "32,000",
+      "25,400",
+      "9,850",
+      "17,575"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "St Mirren",
+      "1986",
+      "Attendances"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Who had just taken charge at Rangers when Celtic won the title at Love Street in 1986?",
+    "options": [
+      "Graeme Souness",
+      "Walter Smith",
+      "John Greig",
+      "Jock Wallace"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Rangers",
+      "1986"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "european-nights",
+    "difficulty": 2,
+    "question": "How many goals did Dariusz Dziekanowski score against Partizan Belgrade at Celtic Park in September 1989?",
+    "options": [
+      "Four",
+      "Three",
+      "Two",
+      "Five"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Dariusz Dziekanowski",
+      "Partizan Belgrade",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "Celtic beat Partizan Belgrade 5-4 in September 1989. How did Celtic go out of the tie?",
+    "options": [
+      "On away goals",
+      "On penalties",
+      "On the toss of a coin",
+      "After a replay"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Partizan Belgrade",
+      "1989",
+      "Away goals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-campaigns",
+    "difficulty": 4,
+    "question": "In which city was Partizan Belgrade's home leg against Celtic played in 1989, after it was moved from Belgrade?",
+    "options": [
+      "Zagreb",
+      "Mostar",
+      "Sarajevo",
+      "Split"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Was There",
+      "Partizan Belgrade",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-nights",
+    "difficulty": 4,
+    "question": "Who scored Celtic's fifth goal in the 5-4 win over Partizan Belgrade in 1989?",
+    "options": [
+      "Andy Walker",
+      "Joe Miller",
+      "Roy Aitken",
+      "Paul McStay"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Andy Walker",
+      "Partizan Belgrade",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-campaigns",
+    "difficulty": 5,
+    "question": "What was the aggregate score when Celtic went out to Partizan Belgrade in 1989?",
+    "options": [
+      "7-7",
+      "5-5",
+      "4-4",
+      "6-6"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "Partizan Belgrade",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-campaigns",
+    "difficulty": 3,
+    "question": "In which competition did Celtic play Partizan Belgrade in September 1989?",
+    "options": [
+      "Intertoto Cup",
+      "European Cup",
+      "UEFA Cup",
+      "Cup Winners' Cup"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "Partizan Belgrade",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "opponents",
+    "difficulty": 3,
+    "question": "Who scored twice in the closing minutes for Motherwell on 'Black Sunday', 22 May 2005?",
+    "options": [
+      "Richie Foran",
+      "David Clarkson",
+      "Scott McDonald",
+      "Jim Hamilton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Black Sunday",
+      "Motherwell",
+      "2005"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "managers",
+    "difficulty": 3,
+    "question": "Which Celtic manager said his side had 'enough chances to win the game by six or seven goals' on Black Sunday in 2005?",
+    "options": [
+      "Tony Mowbray",
+      "Neil Lennon",
+      "Martin O'Neill",
+      "Gordon Strachan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Martin O'Neill",
+      "Black Sunday",
+      "2005"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "opponents",
+    "difficulty": 4,
+    "question": "Which former Celtic goalkeeper was in goal for Motherwell on 'Black Sunday' in May 2005?",
+    "options": [
+      "Jonathan Gould",
+      "Pat Bonner",
+      "Stewart Kerr",
+      "Gordon Marshall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "Black Sunday",
+      "Motherwell",
+      "2005",
+      "Goalkeepers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "Who refereed Motherwell v Celtic on 'Black Sunday', 22 May 2005?",
+    "options": [
+      "Hugh Dallas",
+      "Willie Young",
+      "Stuart Dougal",
+      "Kenny Clark"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Black Sunday",
+      "2005",
+      "Referees"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "domestic-trophies",
+    "difficulty": 4,
+    "question": "On 'Black Sunday' in May 2005, Rangers won the title by beating which club away?",
+    "options": [
+      "Hearts",
+      "Dundee United",
+      "Aberdeen",
+      "Hibernian"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "Black Sunday",
+      "2005",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Who headed the winner at Tannadice to clinch the 2007-08 league title for Celtic?",
+    "options": [
+      "Jan Vennegoor of Hesselink",
+      "Aiden McGeady",
+      "Georgios Samaras",
+      "Scott McDonald"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Was There",
+      "Jan Vennegoor of Hesselink",
+      "2008",
+      "League title"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Whose corner led to the title-winning goal at Tannadice in May 2008?",
+    "options": [
+      "Aiden McGeady",
+      "Shunsuke Nakamura",
+      "Paul Hartley",
+      "Barry Robson"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Paul Hartley",
+      "2008",
+      "League title"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "The 2007-08 league title was dedicated to which Celtic figure, who had died a couple of months earlier?",
+    "options": [
+      "Bobby Murdoch",
+      "Jimmy Johnstone",
+      "Sean Fallon",
+      "Tommy Burns"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Was There",
+      "Tommy Burns",
+      "2008"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Which Rangers player was sent off at Aberdeen on the final day of the 2007-08 season?",
+    "options": [
+      "Carlos Cuellar",
+      "Kris Boyd",
+      "Nacho Novo",
+      "Barry Ferguson"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Was There",
+      "Rangers",
+      "2008",
+      "Red cards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "domestic-trophies",
+    "difficulty": 4,
+    "question": "Celtic won the 2007-08 title on the last day at Tannadice. On which day of the week was the game played?",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Saturday",
+      "Sunday"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Was There",
+      "Dundee United",
+      "2008",
+      "League title"
+    ],
+    "source": "manual"
+  }
+]

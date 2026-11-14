@@ -1,0 +1,1065 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Which Scottish composer wrote the piano concerto 'The Berserking', inspired by Celtic v Partizan Belgrade in 1989?",
+    "options": [
+      "Thea Musgrave",
+      "Peter Maxwell Davies",
+      "Craig Armstrong",
+      "James MacMillan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "James MacMillan",
+      "Partizan Belgrade",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "James MacMillan wrote a piece in 2008 for the unveiling of which statue at Celtic Park?",
+    "options": [
+      "Billy McNeill",
+      "Jock Stein",
+      "Brother Walfrid",
+      "Jimmy Johnstone"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "James MacMillan",
+      "Brother Walfrid",
+      "Statues"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which Celtic captain had received a diploma from the Royal Academy of Music while still at school?",
+    "options": [
+      "Danny McGrain",
+      "Billy McNeill",
+      "Paul McStay",
+      "Roy Aitken"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Roy Aitken"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "general-football",
+    "difficulty": 5,
+    "question": "Which composer is credited with the first football song, 'He Banged the Leather for Goal'?",
+    "options": [
+      "Ralph Vaughan Williams",
+      "Gustav Holst",
+      "Benjamin Britten",
+      "Edward Elgar"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "Whose shot from near the corner flag went in off the post for Celtic's second goal in the 1905 league play-off?",
+    "options": [
+      "Alec Bennett",
+      "Davie Hamilton",
+      "Jimmy McMenemy",
+      "Jimmy Quinn"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Shamrock",
+      "Davie Hamilton",
+      "1905",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Against which club did the Lisbon Lions play their last game together, on 1 May 1971?",
+    "options": [
+      "Rangers",
+      "Kilmarnock",
+      "Hibernian",
+      "Clyde"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Lisbon Lions",
+      "1971"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "general-football",
+    "difficulty": 5,
+    "question": "In which city did Belfast Celtic beat the Scotland international team 2-0 in May 1949?",
+    "options": [
+      "Boston",
+      "Dublin",
+      "New York",
+      "Toronto"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Belfast Celtic",
+      "1949"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Celtic player was known as the 'Professor of Football'?",
+    "options": [
+      "Bobby Evans",
+      "Malky MacDonald",
+      "Patsy Gallacher",
+      "Charlie Tully"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Shamrock",
+      "Malky MacDonald",
+      "Nicknames"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "managers",
+    "difficulty": 5,
+    "question": "Willie Maley was fined in 1943 for exceeding his fish quota at which restaurant he owned?",
+    "options": [
+      "The Rogano",
+      "The Grosvenor",
+      "The Ivy",
+      "The Bank"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Willie Maley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Celtic were founded to support three East End parishes: Sacred Heart, St Mary's and which other?",
+    "options": [
+      "St Patrick's",
+      "St Andrew's",
+      "St Mungo's",
+      "St Michael's"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Founding",
+      "Brother Walfrid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "managers",
+    "difficulty": 4,
+    "question": "Willie Maley served Celtic as player, secretary and manager until which year?",
+    "options": [
+      "1946",
+      "1925",
+      "1931",
+      "1940"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Willie Maley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "In September 1887 Brother Walfrid, John Glass and Pat Welsh recruited which player, whose brother Willie also signed?",
+    "options": [
+      "Neilly McCallum",
+      "James Kelly",
+      "Tom Maley",
+      "Dan Doyle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Tom Maley",
+      "Founding",
+      "1887"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "In which hall was Celtic formally constituted on 6 November 1887?",
+    "options": [
+      "St Mary's Hall, Calton",
+      "St Andrew's Halls",
+      "Sacred Heart Hall, Bridgeton",
+      "The City Halls"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Shamrock",
+      "Founding",
+      "1887"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "Brother Walfrid was the first headteacher of which Glasgow school, opened in January 1874?",
+    "options": [
+      "St Mary's",
+      "St Michael's",
+      "Sacred Heart",
+      "St Mungo's Academy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Brother Walfrid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which future Celt scored five goals for Renton in a 6-0 East End Charity Cup replay in 1887?",
+    "options": [
+      "Willie Maley",
+      "James Kelly",
+      "Neilly McCallum",
+      "Tom Maley"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Neilly McCallum",
+      "1887"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "Jimmy McGrory scored a hat-trick in how many minutes against Motherwell in 1936?",
+    "options": [
+      "Fifteen",
+      "Five",
+      "Ten",
+      "Three"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Jimmy McGrory",
+      "Hat-tricks",
+      "1936"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "In which year did Brother Walfrid leave Glasgow for London?",
+    "options": [
+      "1897",
+      "1888",
+      "1892",
+      "1905"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Brother Walfrid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "What was the attendance at the 1904 Scottish Cup Final, then a record?",
+    "options": [
+      "40,180",
+      "102,000",
+      "28,500",
+      "64,323"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "1904",
+      "Attendances"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "How was the 1904-05 Scottish League title decided between Celtic and Rangers, who finished level?",
+    "options": [
+      "A play-off at Hampden",
+      "The title was shared",
+      "The toss of a coin",
+      "Goal average"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Shamrock",
+      "Rangers",
+      "1905",
+      "League title"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "domestic-trophies",
+    "difficulty": 5,
+    "question": "Who scored Celtic's first goal in their 2-1 win over Rangers in the 1905 league title play-off?",
+    "options": [
+      "Willie Loney",
+      "Jimmy Quinn",
+      "Davie Hamilton",
+      "Jimmy McMenemy"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Jimmy McMenemy",
+      "1905",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Who captained Celtic in the 1905 league play-off and was the only survivor of the 1898 title team?",
+    "options": [
+      "Jimmy Hay",
+      "Willie Orr",
+      "Jimmy Quinn",
+      "Davie Adams"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Shamrock",
+      "Willie Orr",
+      "1905",
+      "Captains"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "How tall was Jimmy McGrory, according to The Shamrock?",
+    "options": [
+      "6ft 1in",
+      "5ft 2in",
+      "5ft 6in",
+      "5ft 11in"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Jimmy McGrory"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-achievements",
+    "difficulty": 5,
+    "question": "In which season did Celtic first win the Scottish League and Scottish Cup double?",
+    "options": [
+      "1921-22",
+      "1913-14",
+      "1906-07",
+      "1892-93"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Double",
+      "1907"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "What happened to Jimmy Quinn in the 1905 Scottish Cup semi-final at Celtic Park?",
+    "options": [
+      "He broke his leg",
+      "He was sent off and banned for a month",
+      "He played in goal",
+      "He scored four goals"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Shamrock",
+      "Jimmy Quinn",
+      "1905",
+      "Red cards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "How did Celtic's New Year's Day 1905 league match at Ibrox end?",
+    "options": [
+      "Rangers won 2-1",
+      "Abandoned at 0-0",
+      "Celtic won 3-1",
+      "A 1-1 draw"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Shamrock",
+      "Rangers",
+      "1905",
+      "Abandoned"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Jimmy McGrory scored eight in a 9-0 win over Dunfermline in 1928. Who scored Celtic's other goal?",
+    "options": [
+      "Adam McLean",
+      "Tommy McInally",
+      "Alec Thomson",
+      "Paddy Connolly"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Alec Thomson",
+      "Jimmy McGrory",
+      "1928"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "At which ground did Celtic beat Third Lanark 5-1 during a total solar eclipse in January 1925?",
+    "options": [
+      "Shawfield",
+      "Firhill",
+      "Hampden Park",
+      "Cathkin Park"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Third Lanark",
+      "1925"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "club-records",
+    "difficulty": 4,
+    "question": "How many hat-tricks did Jimmy McGrory score in his career, a British record?",
+    "options": [
+      "72",
+      "38",
+      "48",
+      "55"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Jimmy McGrory",
+      "Hat-tricks",
+      "Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "Jimmy McGrory scored 63 goals in 1927-28, a joint British record shared with which English player?",
+    "options": [
+      "Dixie Dean",
+      "Jimmy Greaves",
+      "Hughie Gallacher",
+      "Steve Bloomer"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Shamrock",
+      "Jimmy McGrory",
+      "1928",
+      "Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "club-records",
+    "difficulty": 3,
+    "question": "How many goals did Jimmy McGrory score in his career, according to The Shamrock?",
+    "options": [
+      "550",
+      "468",
+      "612",
+      "410"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Shamrock",
+      "Jimmy McGrory",
+      "Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "From which Canadian port did Gil Heron sail to join Celtic in July 1951?",
+    "options": [
+      "Montreal",
+      "Quebec City",
+      "Halifax",
+      "Vancouver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Shamrock",
+      "Gil Heron",
+      "1951"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "club-records",
+    "difficulty": 5,
+    "question": "Dixie Deans scored six in a 7-0 win in November 1973 against which club?",
+    "options": [
+      "Partick Thistle",
+      "Hibernian",
+      "Motherwell",
+      "Dundee"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Shamrock",
+      "Dixie Deans",
+      "1973"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Jimmy McGrory scored four in a 5-1 Scottish Cup win in January 1925, played during a total solar eclipse. Who were the opponents?",
+    "options": [
+      "Partick Thistle",
+      "Clyde",
+      "Third Lanark",
+      "Queen's Park"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Jimmy McGrory",
+      "1925"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Salim's Celtic reserve debut in August 1936 was a 7-1 win at Celtic Park against which club?",
+    "options": [
+      "Hamilton Academical",
+      "Clyde",
+      "Galston",
+      "Partick Thistle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Salim",
+      "1936",
+      "Debuts"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Salim, Celtic's first Asian player, was famous for playing how?",
+    "options": [
+      "In spectacles",
+      "Barefoot",
+      "Wearing gloves",
+      "With a cap on"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Shamrock",
+      "Salim",
+      "1936"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Celtic trainer bandaged Salim's feet for a photograph in 1936?",
+    "options": [
+      "Willie Maley",
+      "Jimmy McStay",
+      "Jimmy McMenemy",
+      "Patsy Gallacher"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Salim",
+      "Jimmy McMenemy",
+      "1936"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Salim scored a penalty for Celtic's reserves in a 6-0 win in September 1936 against which club?",
+    "options": [
+      "Clyde",
+      "Hamilton Academical",
+      "Queen of the South",
+      "Partick Thistle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Shamrock",
+      "Salim",
+      "1936"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "In which year did Salim, Celtic's first Asian player, make his debut for the reserves?",
+    "options": [
+      "1936",
+      "1948",
+      "1955",
+      "1929"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Shamrock",
+      "Salim",
+      "1936"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Celtic beat Motherwell 3-1 at Fir Park in March 1914, before a then ground-record crowd, in which competition?",
+    "options": [
+      "Charity Cup",
+      "Scottish League",
+      "Glasgow Cup",
+      "Scottish Cup"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Motherwell",
+      "1914"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Which club did Celtic beat 4-1 in a replay to win the 1914 Scottish Cup?",
+    "options": [
+      "Hearts",
+      "Third Lanark",
+      "Rangers",
+      "Hibernian"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Hibernian",
+      "1914",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which Jamaican-born forward scored on his Celtic debut against Morton in August 1951?",
+    "options": [
+      "Ian Wright",
+      "Andrew Watson",
+      "Viv Anderson",
+      "Gil Heron"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Gil Heron",
+      "1951",
+      "Debuts"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Gil Heron, who played for Celtic in 1951-52, was the father of which musician and poet?",
+    "options": [
+      "Bob Marley",
+      "Curtis Mayfield",
+      "Marvin Gaye",
+      "Gil Scott-Heron"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Gil Heron"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Gil Heron was called 'the Babe Ruth of soccer' while top scorer for which American club?",
+    "options": [
+      "Chicago Sting",
+      "Philadelphia Nationals",
+      "Detroit Wolverines",
+      "New York Cosmos"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Gil Heron"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Which Scottish club did Gil Heron join after leaving Celtic, scoring twice on his debut?",
+    "options": [
+      "St Mirren",
+      "Partick Thistle",
+      "Third Lanark",
+      "Morton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Gil Heron",
+      "Third Lanark"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Scott Brown's famous 'Broony' celebration at Ibrox in February 2011 was aimed at which Rangers player?",
+    "options": [
+      "Nikica Jelavic",
+      "Madjid Bougherra",
+      "Kyle Lafferty",
+      "El Hadji Diouf"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Scott Brown",
+      "2011",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Celtic goalkeeper was sent off in the Scottish Cup tie at Ibrox in February 2011 in which Scott Brown scored?",
+    "options": [
+      "Lukasz Zaluska",
+      "Craig Gordon",
+      "Artur Boruc",
+      "Fraser Forster"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Fraser Forster",
+      "2011",
+      "Red cards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Which club did Celtic beat in the 2011 Scottish Cup Final?",
+    "options": [
+      "Hearts",
+      "Hibernian",
+      "Motherwell",
+      "Dundee United"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Shamrock",
+      "Motherwell",
+      "2011",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Who was Liam Brady's first signing as Celtic manager, for a club-record £1.1 million in July 1991?",
+    "options": [
+      "Tony Cascarino",
+      "Gary Gillespie",
+      "Stuart Slater",
+      "Tom Boyd"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Shamrock",
+      "Tony Cascarino",
+      "Liam Brady",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "managers",
+    "difficulty": 4,
+    "question": "Until 1989, what had Liam Brady been to Tony Cascarino, whom he later signed for Celtic?",
+    "options": [
+      "His team-mate",
+      "His agent",
+      "His coach",
+      "His brother-in-law"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Shamrock",
+      "Tony Cascarino",
+      "Liam Brady"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Tony Cascarino was sent off for striking which Hearts player in October 1991?",
+    "options": [
+      "Gary Mackay",
+      "Dave McPherson",
+      "John Robertson",
+      "Craig Levein"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Shamrock",
+      "Tony Cascarino",
+      "Hearts",
+      "Red cards"
+    ],
+    "source": "manual"
+  }
+]

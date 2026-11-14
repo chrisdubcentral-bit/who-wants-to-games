@@ -1,8 +1,4848 @@
 {
   "schemaVersion": 1,
   "collection": "approved",
-  "updatedAt": "2026-11-12T23:16:11.790Z",
+  "updatedAt": "2026-11-13T23:44:39.974Z",
   "questions": [
+    {
+      "id": "q_000626",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "celtic-history",
+      "difficulty": 1,
+      "question": "Which year appears on the Celtic club crest?",
+      "options": [
+        "1887",
+        "1888",
+        "1890",
+        "1903"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Kit",
+        "Crest"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-11T11:40:29.058Z",
+      "updatedAt": "2026-11-13T23:44:37.757Z",
+      "review": {
+        "reviewedAt": "2026-11-13T23:44:37.757Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Tony Cascarino was sent off for striking which Hearts player in October 1991?",
+      "options": [
+        "Gary Mackay",
+        "Dave McPherson",
+        "John Robertson",
+        "Craig Levein"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Tony Cascarino",
+        "Hearts",
+        "Red cards"
+      ],
+      "source": "manual",
+      "id": "q_001064",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:46:52.089Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:46:52.089Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "Until 1989, what had Liam Brady been to Tony Cascarino, whom he later signed for Celtic?",
+      "options": [
+        "His team-mate",
+        "His agent",
+        "His coach",
+        "His brother-in-law"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "The Shamrock",
+        "Tony Cascarino",
+        "Liam Brady"
+      ],
+      "source": "manual",
+      "id": "q_001063",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:46:46.079Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:46:46.079Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Who was Liam Brady's first signing as Celtic manager, for a club-record £1.1 million in July 1991?",
+      "options": [
+        "Tony Cascarino",
+        "Gary Gillespie",
+        "Stuart Slater",
+        "Tom Boyd"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "The Shamrock",
+        "Tony Cascarino",
+        "Liam Brady",
+        "1991"
+      ],
+      "source": "manual",
+      "id": "q_001062",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:46:35.465Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:46:35.465Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "Which club did Celtic beat in the 2011 Scottish Cup Final?",
+      "options": [
+        "Hearts",
+        "Hibernian",
+        "Motherwell",
+        "Dundee United"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Motherwell",
+        "2011",
+        "Scottish Cup"
+      ],
+      "source": "manual",
+      "id": "q_001061",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:46:21.274Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:46:21.274Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which Celtic goalkeeper was sent off in the Scottish Cup tie at Ibrox in February 2011 in which Scott Brown scored?",
+      "options": [
+        "Lukasz Zaluska",
+        "Craig Gordon",
+        "Artur Boruc",
+        "Fraser Forster"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Fraser Forster",
+        "2011",
+        "Red cards"
+      ],
+      "source": "manual",
+      "id": "q_001060",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:46:14.370Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:46:14.370Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Scott Brown's famous 'Broony' celebration at Ibrox in February 2011 was aimed at which Rangers player?",
+      "options": [
+        "Nikica Jelavic",
+        "Madjid Bougherra",
+        "Kyle Lafferty",
+        "El Hadji Diouf"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Scott Brown",
+        "2011",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_001059",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:45:56.142Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:45:56.142Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Which Scottish club did Gil Heron join after leaving Celtic, scoring twice on his debut?",
+      "options": [
+        "St Mirren",
+        "Partick Thistle",
+        "Third Lanark",
+        "Morton"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Gil Heron",
+        "Third Lanark"
+      ],
+      "source": "manual",
+      "id": "q_001058",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:45:38.943Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:45:38.943Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Gil Heron was called 'the Babe Ruth of soccer' while top scorer for which American club?",
+      "options": [
+        "Chicago Sting",
+        "Philadelphia Nationals",
+        "Detroit Wolverines",
+        "New York Cosmos"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Gil Heron"
+      ],
+      "source": "manual",
+      "id": "q_001057",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:45:31.830Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:45:31.830Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Gil Heron, who played for Celtic in 1951-52, was the father of which musician and poet?",
+      "options": [
+        "Bob Marley",
+        "Curtis Mayfield",
+        "Marvin Gaye",
+        "Gil Scott-Heron"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Gil Heron"
+      ],
+      "source": "manual",
+      "id": "q_001056",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:45:12.918Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:45:12.918Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Which Jamaican-born forward scored on his Celtic debut against Morton in August 1951?",
+      "options": [
+        "Ian Wright",
+        "Andrew Watson",
+        "Viv Anderson",
+        "Gil Heron"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Gil Heron",
+        "1951",
+        "Debuts"
+      ],
+      "source": "manual",
+      "id": "q_001055",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:44:46.587Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:44:46.587Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Which club did Celtic beat 4-1 in a replay to win the 1914 Scottish Cup?",
+      "options": [
+        "Hearts",
+        "Third Lanark",
+        "Rangers",
+        "Hibernian"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Hibernian",
+        "1914",
+        "Scottish Cup"
+      ],
+      "source": "manual",
+      "id": "q_001054",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:44:38.915Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:44:38.915Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 5,
+      "question": "Celtic beat Motherwell 3-1 at Fir Park in March 1914, before a then ground-record crowd, in which competition?",
+      "options": [
+        "Charity Cup",
+        "Scottish League",
+        "Glasgow Cup",
+        "Scottish Cup"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Motherwell",
+        "1914"
+      ],
+      "source": "manual",
+      "id": "q_001053",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:44:29.631Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:44:29.631Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "In which year did Salim, Celtic's first Asian player, make his debut for the reserves?",
+      "options": [
+        "1936",
+        "1948",
+        "1955",
+        "1929"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "The Shamrock",
+        "Salim",
+        "1936"
+      ],
+      "source": "manual",
+      "id": "q_001052",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:44:17.014Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:44:17.014Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Salim scored a penalty for Celtic's reserves in a 6-0 win in September 1936 against which club?",
+      "options": [
+        "Clyde",
+        "Hamilton Academical",
+        "Queen of the South",
+        "Partick Thistle"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "The Shamrock",
+        "Salim",
+        "1936"
+      ],
+      "source": "manual",
+      "id": "q_001051",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:43:54.247Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:43:54.247Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which Celtic trainer bandaged Salim's feet for a photograph in 1936?",
+      "options": [
+        "Willie Maley",
+        "Jimmy McStay",
+        "Jimmy McMenemy",
+        "Patsy Gallacher"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Salim",
+        "Jimmy McMenemy",
+        "1936"
+      ],
+      "source": "manual",
+      "id": "q_001050",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:43:45.796Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:43:45.796Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Salim, Celtic's first Asian player, was famous for playing how?",
+      "options": [
+        "In spectacles",
+        "Barefoot",
+        "Wearing gloves",
+        "With a cap on"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "The Shamrock",
+        "Salim",
+        "1936"
+      ],
+      "source": "manual",
+      "id": "q_001049",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:43:30.265Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:43:30.265Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Salim's Celtic reserve debut in August 1936 was a 7-1 win at Celtic Park against which club?",
+      "options": [
+        "Hamilton Academical",
+        "Clyde",
+        "Galston",
+        "Partick Thistle"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Salim",
+        "1936",
+        "Debuts"
+      ],
+      "source": "manual",
+      "id": "q_001048",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:43:16.221Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:43:16.221Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Jimmy McGrory scored four in a 5-1 Scottish Cup win in January 1925, played during a total solar eclipse. Who were the opponents?",
+      "options": [
+        "Partick Thistle",
+        "Clyde",
+        "Third Lanark",
+        "Queen's Park"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Jimmy McGrory",
+        "1925"
+      ],
+      "source": "manual",
+      "id": "q_001047",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:42:51.034Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:42:51.034Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "Dixie Deans scored six in a 7-0 win in November 1973 against which club?",
+      "options": [
+        "Partick Thistle",
+        "Hibernian",
+        "Motherwell",
+        "Dundee"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "The Shamrock",
+        "Dixie Deans",
+        "1973"
+      ],
+      "source": "manual",
+      "id": "q_001046",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:42:33.813Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:42:33.813Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "From which Canadian port did Gil Heron sail to join Celtic in July 1951?",
+      "options": [
+        "Montreal",
+        "Quebec City",
+        "Halifax",
+        "Vancouver"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "The Shamrock",
+        "Gil Heron",
+        "1951"
+      ],
+      "source": "manual",
+      "id": "q_001045",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:42:26.079Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:42:26.079Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "How many goals did Jimmy McGrory score in his career?",
+      "options": [
+        "550",
+        "468",
+        "612",
+        "410"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "The Shamrock",
+        "Jimmy McGrory",
+        "Records"
+      ],
+      "source": "manual",
+      "id": "q_001044",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:42:19.796Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:42:19.796Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "Jimmy McGrory scored 63 goals in 1927-28, a joint British record shared with which English player?",
+      "options": [
+        "Dixie Dean",
+        "Jimmy Greaves",
+        "Hughie Gallacher",
+        "Steve Bloomer"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "The Shamrock",
+        "Jimmy McGrory",
+        "1928",
+        "Records"
+      ],
+      "source": "manual",
+      "id": "q_001043",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:41:47.503Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:41:47.503Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "How many hat-tricks did Jimmy McGrory score in his career, a British record?",
+      "options": [
+        "72",
+        "38",
+        "48",
+        "55"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Jimmy McGrory",
+        "Hat-tricks",
+        "Records"
+      ],
+      "source": "manual",
+      "id": "q_001042",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:41:38.808Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:41:38.808Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 5,
+      "question": "At which ground did Celtic beat Third Lanark 5-1 during a total solar eclipse in January 1925?",
+      "options": [
+        "Shawfield",
+        "Firhill",
+        "Hampden Park",
+        "Cathkin Park"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Third Lanark",
+        "1925"
+      ],
+      "source": "manual",
+      "id": "q_001041",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:41:21.726Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:41:21.725Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Jimmy McGrory scored eight in a 9-0 win over Dunfermline in 1928. Who scored Celtic's other goal?",
+      "options": [
+        "Adam McLean",
+        "Tommy McInally",
+        "Alec Thomson",
+        "Paddy Connolly"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Alec Thomson",
+        "Jimmy McGrory",
+        "1928"
+      ],
+      "source": "manual",
+      "id": "q_001040",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:41:12.812Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:41:12.812Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "opponents",
+      "difficulty": 5,
+      "question": "How did Celtic's New Year's Day 1905 league match at Ibrox end?",
+      "options": [
+        "Rangers won 2-1",
+        "Abandoned at 0-0",
+        "Celtic won 3-1",
+        "A 1-1 draw"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "The Shamrock",
+        "Rangers",
+        "1905",
+        "Abandoned"
+      ],
+      "source": "manual",
+      "id": "q_001039",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:41:05.889Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:41:05.888Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "What happened to Jimmy Quinn in the 1905 Scottish Cup semi-final at Celtic Park?",
+      "options": [
+        "He broke his leg",
+        "He was sent off and banned for a month",
+        "He played in goal",
+        "He scored four goals"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "The Shamrock",
+        "Jimmy Quinn",
+        "1905",
+        "Red cards"
+      ],
+      "source": "manual",
+      "id": "q_001038",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:40:57.092Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:40:57.092Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "club-achievements",
+      "difficulty": 5,
+      "question": "In which season did Celtic first win the Scottish League and Scottish Cup double?",
+      "options": [
+        "1921-22",
+        "1913-14",
+        "1906-07",
+        "1892-93"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Double",
+        "1907"
+      ],
+      "source": "manual",
+      "id": "q_001037",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:40:50.091Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:40:50.091Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "How tall was Jimmy McGrory?",
+      "options": [
+        "6ft 1in",
+        "5ft 2in",
+        "5ft 6in",
+        "5ft 11in"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Jimmy McGrory"
+      ],
+      "source": "manual",
+      "id": "q_001036",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:40:40.739Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:40:40.739Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Who captained Celtic in the 1905 league play-off and was the only survivor of the 1898 title team?",
+      "options": [
+        "Jimmy Hay",
+        "Willie Orr",
+        "Jimmy Quinn",
+        "Davie Adams"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "The Shamrock",
+        "Willie Orr",
+        "1905",
+        "Captains"
+      ],
+      "source": "manual",
+      "id": "q_001035",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:40:05.299Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:40:05.299Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "domestic-trophies",
+      "difficulty": 5,
+      "question": "Who scored Celtic's first goal in their 2-1 win over Rangers in the 1905 league title play-off?",
+      "options": [
+        "Willie Loney",
+        "Jimmy Quinn",
+        "Davie Hamilton",
+        "Jimmy McMenemy"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Jimmy McMenemy",
+        "1905",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_001034",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:39:54.019Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:39:54.019Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "How was the 1904-05 Scottish League title decided between Celtic and Rangers, who finished level?",
+      "options": [
+        "A play-off at Hampden",
+        "The title was shared",
+        "The toss of a coin",
+        "Goal average"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "The Shamrock",
+        "Rangers",
+        "1905",
+        "League title"
+      ],
+      "source": "manual",
+      "id": "q_001033",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:39:47.438Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:39:47.438Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "cup-finals",
+      "difficulty": 5,
+      "question": "What was the attendance at the 1904 Scottish Cup Final, then a record?",
+      "options": [
+        "40,180",
+        "102,000",
+        "28,500",
+        "64,323"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "1904",
+        "Attendances"
+      ],
+      "source": "manual",
+      "id": "q_001032",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:39:21.470Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:39:21.470Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "In which year did Brother Walfrid leave Glasgow for London?",
+      "options": [
+        "1897",
+        "1888",
+        "1892",
+        "1905"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Brother Walfrid"
+      ],
+      "source": "manual",
+      "id": "q_001031",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:38:51.466Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:38:51.466Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "club-records",
+      "difficulty": 5,
+      "question": "Jimmy McGrory scored a hat-trick in how many minutes against Motherwell in 1936?",
+      "options": [
+        "Fifteen",
+        "Five",
+        "Ten",
+        "Three"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Jimmy McGrory",
+        "Hat-tricks",
+        "1936"
+      ],
+      "source": "manual",
+      "id": "q_001030",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:38:46.735Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:38:46.735Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which future Celt scored five goals for Renton in a 6-0 East End Charity Cup replay in 1887?",
+      "options": [
+        "Willie Maley",
+        "James Kelly",
+        "Neilly McCallum",
+        "Tom Maley"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Neilly McCallum",
+        "1887"
+      ],
+      "source": "manual",
+      "id": "q_001029",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:38:39.873Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:38:39.873Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "Brother Walfrid was the first headteacher of which Glasgow school, opened in January 1874?",
+      "options": [
+        "St Mary's",
+        "St Michael's",
+        "Sacred Heart",
+        "St Mungo's Academy"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Brother Walfrid"
+      ],
+      "source": "manual",
+      "id": "q_001028",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:38:34.316Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:38:34.316Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "In which hall was Celtic formally constituted on 6 November 1887?",
+      "options": [
+        "St Mary's Hall, Calton",
+        "St Andrew's Halls",
+        "Sacred Heart Hall, Bridgeton",
+        "The City Halls"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "The Shamrock",
+        "Founding",
+        "1887"
+      ],
+      "source": "manual",
+      "id": "q_001027",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:38:28.516Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:38:28.516Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "Willie Maley served Celtic as player, secretary and manager until which year?",
+      "options": [
+        "1946",
+        "1925",
+        "1931",
+        "1940"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Willie Maley"
+      ],
+      "source": "manual",
+      "id": "q_001025",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:38:03.887Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:38:03.887Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "Celtic were founded to support three East End parishes: Sacred Heart, St Mary's and which other?",
+      "options": [
+        "St Patrick's",
+        "St Andrew's",
+        "St Mungo's",
+        "St Michael's"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Founding",
+        "Brother Walfrid"
+      ],
+      "source": "manual",
+      "id": "q_001024",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:37:56.335Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:37:56.335Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "Willie Maley was fined in 1943 for exceeding his fish quota at which restaurant he owned?",
+      "options": [
+        "The Rogano",
+        "The Grosvenor",
+        "The Ivy",
+        "The Bank"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Willie Maley"
+      ],
+      "source": "manual",
+      "id": "q_001023",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:37:35.842Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:37:35.842Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which Celtic player was known as the 'Professor of Football'?",
+      "options": [
+        "Bobby Evans",
+        "Malky MacDonald",
+        "Patsy Gallacher",
+        "Charlie Tully"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "The Shamrock",
+        "Malky MacDonald",
+        "Nicknames"
+      ],
+      "source": "manual",
+      "id": "q_001022",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:36:58.464Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:36:58.464Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Against which club did the Lisbon Lions play their last game together, on 1 May 1971?",
+      "options": [
+        "Rangers",
+        "Kilmarnock",
+        "Hibernian",
+        "Clyde"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Lisbon Lions",
+        "1971"
+      ],
+      "source": "manual",
+      "id": "q_001020",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:36:32.672Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:36:32.672Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "domestic-trophies",
+      "difficulty": 5,
+      "question": "Whose shot from near the corner flag went in off the post for Celtic's second goal in the 1905 league play-off?",
+      "options": [
+        "Alec Bennett",
+        "Davie Hamilton",
+        "Jimmy McMenemy",
+        "Jimmy Quinn"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "The Shamrock",
+        "Davie Hamilton",
+        "1905",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_001019",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:36:26.244Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:36:26.244Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Which Celtic captain had received a diploma from the Royal Academy of Music while still at school?",
+      "options": [
+        "Danny McGrain",
+        "Billy McNeill",
+        "Paul McStay",
+        "Roy Aitken"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Roy Aitken"
+      ],
+      "source": "manual",
+      "id": "q_001017",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:35:32.735Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:35:32.735Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-park",
+      "difficulty": 5,
+      "question": "James MacMillan wrote a piece in 2008 for the unveiling of which statue at Celtic Park?",
+      "options": [
+        "Billy McNeill",
+        "Jock Stein",
+        "Brother Walfrid",
+        "Jimmy Johnstone"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "James MacMillan",
+        "Brother Walfrid",
+        "Statues"
+      ],
+      "source": "manual",
+      "id": "q_001016",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:35:26.073Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:35:26.073Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "Which Scottish composer wrote the piano concerto 'The Berserking', inspired by Celtic v Partizan Belgrade in 1989?",
+      "options": [
+        "Thea Musgrave",
+        "Peter Maxwell Davies",
+        "Craig Armstrong",
+        "James MacMillan"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "James MacMillan",
+        "Partizan Belgrade",
+        "1989"
+      ],
+      "source": "manual",
+      "id": "q_001015",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:35:09.344Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:35:09.344Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "Who allegedly sold the rights to 'The Celtic Song' to Glen Daly for a fiver?",
+      "options": [
+        "Irving Kaufman",
+        "Mick 'Garngad Mick' McLaughlin",
+        "Liam Mallory",
+        "Theodore Morse"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Celtic songs",
+        "The Celtic Song",
+        "Glen Daly"
+      ],
+      "source": "manual",
+      "id": "q_001014",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:34:51.883Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:34:51.883Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "Whose name appears in the lyric credit for 'The Celtic Song', though nobody seems to know who he was?",
+      "options": [
+        "Irving Kaufman",
+        "Mick McLaughlin",
+        "Liam Mallory",
+        "Theodore Morse"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic songs",
+        "The Celtic Song"
+      ],
+      "source": "manual",
+      "id": "q_001013",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:34:41.547Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:34:41.547Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "The 'Hail Hail' tune can be traced back to the Anvil Chorus from which Verdi opera?",
+      "options": [
+        "Il Trovatore",
+        "Rigoletto",
+        "Aida",
+        "La Traviata"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic songs",
+        "Hail Hail"
+      ],
+      "source": "manual",
+      "id": "q_001012",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:34:22.430Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:34:22.430Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "The tune of 'Hail Hail, the gang's all here' comes from a song in which Gilbert and Sullivan opera?",
+      "options": [
+        "HMS Pinafore",
+        "The Gondoliers",
+        "The Pirates of Penzance",
+        "The Mikado"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic songs",
+        "Hail Hail"
+      ],
+      "source": "manual",
+      "id": "q_001011",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:33:45.626Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:33:45.626Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "Who recorded 'The Celtic Song' in 1961?",
+      "options": [
+        "The Wolfe Tones",
+        "Irving Kaufman",
+        "Glen Daly",
+        "Frankie Miller"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic songs",
+        "Glen Daly",
+        "The Celtic Song"
+      ],
+      "source": "manual",
+      "id": "q_001010",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:33:23.923Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:33:23.923Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Celtic won the 2007-08 title on the last day at Tannadice. On which day of the week was the game played?",
+      "options": [
+        "Wednesday",
+        "Thursday",
+        "Saturday",
+        "Sunday"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "I Was There",
+        "Dundee United",
+        "2008",
+        "League title"
+      ],
+      "source": "manual",
+      "id": "q_001009",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:33:10.271Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:33:10.271Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "opponents",
+      "difficulty": 3,
+      "question": "Which Rangers player was sent off at Aberdeen on the final day of the 2007-08 season?",
+      "options": [
+        "Carlos Cuellar",
+        "Kris Boyd",
+        "Nacho Novo",
+        "Barry Ferguson"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Rangers",
+        "2008",
+        "Red cards"
+      ],
+      "source": "manual",
+      "id": "q_001008",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:33:01.381Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:33:01.381Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "The 2007-08 league title was dedicated to which Celtic figure, who had died a couple of weeks earlier?",
+      "options": [
+        "Bobby Murdoch",
+        "Jimmy Johnstone",
+        "Sean Fallon",
+        "Tommy Burns"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "Tommy Burns",
+        "2008"
+      ],
+      "source": "manual",
+      "id": "q_001007",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:05:03.171Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:05:03.171Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "Whose corner led to the title-winning goal at Tannadice in May 2008?",
+      "options": [
+        "Aiden McGeady",
+        "Shunsuke Nakamura",
+        "Paul Hartley",
+        "Barry Robson"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Paul Hartley",
+        "2008",
+        "League title"
+      ],
+      "source": "manual",
+      "id": "q_001006",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:02:02.139Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:02:02.139Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "Who headed the winner at Tannadice to clinch the 2007-08 league title for Celtic?",
+      "options": [
+        "Jan Vennegoor of Hesselink",
+        "Aiden McGeady",
+        "Georgios Samaras",
+        "Scott McDonald"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Jan Vennegoor of Hesselink",
+        "2008",
+        "League title"
+      ],
+      "source": "manual",
+      "id": "q_001005",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:01:56.655Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:01:56.655Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "On 'Black Sunday' in May 2005, Rangers won the title by beating which club away?",
+      "options": [
+        "Hearts",
+        "Dundee United",
+        "Aberdeen",
+        "Hibernian"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "Black Sunday",
+        "2005",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_001004",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:01:51.462Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:01:51.462Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "domestic-trophies",
+      "difficulty": 5,
+      "question": "Who refereed Motherwell v Celtic on 'Black Sunday', 22 May 2005?",
+      "options": [
+        "Hugh Dallas",
+        "Willie Young",
+        "Stuart Dougal",
+        "Kenny Clark"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Black Sunday",
+        "2005",
+        "Referees"
+      ],
+      "source": "manual",
+      "id": "q_001003",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:01:40.690Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:01:40.690Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "opponents",
+      "difficulty": 4,
+      "question": "Which former Celtic goalkeeper was in goal for Motherwell on 'Black Sunday' in May 2005?",
+      "options": [
+        "Jonathan Gould",
+        "Pat Bonner",
+        "Stewart Kerr",
+        "Gordon Marshall"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "Black Sunday",
+        "Motherwell",
+        "2005",
+        "Goalkeepers"
+      ],
+      "source": "manual",
+      "id": "q_001002",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:01:32.452Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:01:32.452Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "managers",
+      "difficulty": 3,
+      "question": "Which Celtic manager said his side had 'enough chances to win the game by six or seven goals' on Black Sunday in 2005?",
+      "options": [
+        "Tony Mowbray",
+        "Neil Lennon",
+        "Martin O'Neill",
+        "Gordon Strachan"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Martin O'Neill",
+        "Black Sunday",
+        "2005"
+      ],
+      "source": "manual",
+      "id": "q_001001",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:01:27.003Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:01:27.003Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "opponents",
+      "difficulty": 3,
+      "question": "Who scored twice in the closing minutes for Motherwell on 'Black Sunday', 22 May 2005?",
+      "options": [
+        "Richie Foran",
+        "David Clarkson",
+        "Scott McDonald",
+        "Jim Hamilton"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Black Sunday",
+        "Motherwell",
+        "2005"
+      ],
+      "source": "manual",
+      "id": "q_001000",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:01:20.234Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:01:20.234Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "european-campaigns",
+      "difficulty": 3,
+      "question": "In which competition did Celtic play Partizan Belgrade in September 1989?",
+      "options": [
+        "Intertoto Cup",
+        "European Cup",
+        "UEFA Cup",
+        "Cup Winners' Cup"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "Partizan Belgrade",
+        "1989"
+      ],
+      "source": "manual",
+      "id": "q_000999",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:01:14.026Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:01:14.026Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-campaigns",
+      "difficulty": 5,
+      "question": "What was the aggregate score when Celtic went out to Partizan Belgrade in 1989?",
+      "options": [
+        "7-7",
+        "5-5",
+        "4-4",
+        "6-6"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "Partizan Belgrade",
+        "1989"
+      ],
+      "source": "manual",
+      "id": "q_000998",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:01:08.196Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:01:08.196Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "european-nights",
+      "difficulty": 4,
+      "question": "Who scored Celtic's fifth goal in the 5-4 win over Partizan Belgrade in 1989?",
+      "options": [
+        "Andy Walker",
+        "Joe Miller",
+        "Roy Aitken",
+        "Paul McStay"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Andy Walker",
+        "Partizan Belgrade",
+        "1989"
+      ],
+      "source": "manual",
+      "id": "q_000997",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:00:59.620Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:00:59.620Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "In which city was Partizan Belgrade's home leg against Celtic played in 1989, after it was moved from Belgrade?",
+      "options": [
+        "Zagreb",
+        "Mostar",
+        "Sarajevo",
+        "Split"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "I Was There",
+        "Partizan Belgrade",
+        "1989"
+      ],
+      "source": "manual",
+      "id": "q_000996",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:00:51.760Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:00:51.760Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "european-nights",
+      "difficulty": 3,
+      "question": "Celtic beat Partizan Belgrade 5-4 in September 1989. How did Celtic go out of the tie?",
+      "options": [
+        "On away goals",
+        "On penalties",
+        "On the toss of a coin",
+        "After a replay"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Partizan Belgrade",
+        "1989",
+        "Away goals"
+      ],
+      "source": "manual",
+      "id": "q_000995",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:00:35.288Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:00:35.288Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "european-nights",
+      "difficulty": 2,
+      "question": "How many goals did Dariusz Dziekanowski score against Partizan Belgrade at Celtic Park in September 1989?",
+      "options": [
+        "Four",
+        "Three",
+        "Two",
+        "Five"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Dariusz Dziekanowski",
+        "Partizan Belgrade",
+        "1989"
+      ],
+      "source": "manual",
+      "id": "q_000994",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:00:27.389Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:00:27.389Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "opponents",
+      "difficulty": 3,
+      "question": "Who had just taken charge at Rangers when Celtic won the title at Love Street in 1986?",
+      "options": [
+        "Graeme Souness",
+        "Walter Smith",
+        "John Greig",
+        "Jock Wallace"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Rangers",
+        "1986"
+      ],
+      "source": "manual",
+      "id": "q_000993",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:00:18.276Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:00:18.276Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "domestic-trophies",
+      "difficulty": 5,
+      "question": "What was the attendance at Love Street when Celtic won the league title there in May 1986?",
+      "options": [
+        "32,000",
+        "25,400",
+        "9,850",
+        "17,575"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "St Mirren",
+        "1986",
+        "Attendances"
+      ],
+      "source": "manual",
+      "id": "q_000992",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T07:00:08.067Z",
+      "review": {
+        "reviewedAt": "2026-11-13T07:00:08.067Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "managers",
+      "difficulty": 3,
+      "question": "Who was Celtic manager when the league title was won at Love Street in May 1986?",
+      "options": [
+        "Frank Connor",
+        "Billy McNeill",
+        "Jock Stein",
+        "Davie Hay"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "Davie Hay",
+        "1986"
+      ],
+      "source": "manual",
+      "id": "q_000991",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:59:58.255Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:59:58.255Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "On the last day of 1985-86, Celtic needed to win at Love Street by at least how many goals, and hope Hearts lost?",
+      "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Four"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "St Mirren",
+        "Hearts",
+        "1986"
+      ],
+      "source": "manual",
+      "id": "q_000990",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:59:52.938Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:59:52.938Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Which Celtic player was sent off in the 3-1 first-leg defeat to Rapid Vienna in 1984?",
+      "options": [
+        "Roy Aitken",
+        "Peter Grant",
+        "Frank McGarvey",
+        "Alan McInally"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "Alan McInally",
+        "Rapid Vienna",
+        "1984",
+        "Red cards"
+      ],
+      "source": "manual",
+      "id": "q_000989",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:59:43.508Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:59:43.508Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 5,
+      "question": "Which Rapid Vienna star led the protests around the referee at Celtic Park in November 1984?",
+      "options": [
+        "Herbert Prohaska",
+        "Bruno Pezzey",
+        "Hans Krankl",
+        "Toni Polster"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Rapid Vienna",
+        "1984"
+      ],
+      "source": "manual",
+      "id": "q_000988",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:59:32.934Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:59:32.934Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "european-nights",
+      "difficulty": 4,
+      "question": "Who scored Celtic's first goal in the 3-0 win over Rapid Vienna at Celtic Park in November 1984?",
+      "options": [
+        "Tommy Burns",
+        "Paul McStay",
+        "Brian McClair",
+        "Frank McGarvey"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Brian McClair",
+        "Rapid Vienna",
+        "1984"
+      ],
+      "source": "manual",
+      "id": "q_000987",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:59:26.005Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:59:26.005Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "european-nights",
+      "difficulty": 4,
+      "question": "Who scored Celtic's second goal, just before half-time, in the 3-0 win over Rapid Vienna in November 1984?",
+      "options": [
+        "Paul McStay",
+        "Tommy Burns",
+        "Murdo MacLeod",
+        "Frank McGarvey"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Murdo MacLeod",
+        "Rapid Vienna",
+        "1984"
+      ],
+      "source": "manual",
+      "id": "q_000986",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:59:21.003Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:59:21.003Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "european-nights",
+      "difficulty": 3,
+      "question": "Celtic beat Rapid Vienna 3-0 at Celtic Park in November 1984 in which competition?",
+      "options": [
+        "Fairs Cup",
+        "European Cup",
+        "UEFA Cup",
+        "Cup Winners' Cup"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "Rapid Vienna",
+        "1984"
+      ],
+      "source": "manual",
+      "id": "q_000985",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:59:13.840Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:59:13.840Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "On the last day of the 2007-08 season, Rangers lost to which club, whilst Celtic were winning the title?",
+      "options": [
+        "Aberdeen",
+        "Hearts",
+        "Hibernian",
+        "Motherwell"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Rangers",
+        "2008",
+        "League title"
+      ],
+      "source": "manual",
+      "id": "q_000984",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:59:00.783Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:59:00.783Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "opponents",
+      "difficulty": 4,
+      "question": "What was Hibernian's forward line known as when Celtic beat them in the 1953 Coronation Cup Final?",
+      "options": [
+        "The Terrible Trio",
+        "The Fab Four",
+        "The Famous Five",
+        "The Golden Line"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Hibernian",
+        "Coronation Cup",
+        "1953"
+      ],
+      "source": "manual",
+      "id": "q_000983",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:58:02.566Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:58:02.566Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "Who scored Celtic's second goal in the 4-2 title win over Rangers in May 1979?",
+      "options": [
+        "Murdo MacLeod",
+        "Roy Aitken",
+        "George McCluskey",
+        "Johnny Doyle"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "George McCluskey",
+        "1979",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_000982",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:57:56.797Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:57:56.797Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Neilly Mochan, scorer in the 1953 Coronation Cup Final, had joined Celtic from which club?",
+      "options": [
+        "Sunderland",
+        "Hibernian",
+        "Morton",
+        "Middlesbrough"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "Neilly Mochan",
+        "Coronation Cup",
+        "1953"
+      ],
+      "source": "manual",
+      "id": "q_000981",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:57:46.940Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:57:46.940Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "managers",
+      "difficulty": 3,
+      "question": "Which future Celtic manager played in the side that won the 1953 Coronation Cup?",
+      "options": [
+        "Jock Stein",
+        "Sean Fallon",
+        "Billy McNeill",
+        "Jimmy McGrory"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Jock Stein",
+        "Coronation Cup",
+        "1953"
+      ],
+      "source": "manual",
+      "id": "q_000980",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:57:37.412Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:57:37.412Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Which Celtic player was injured in the first minute of the 1970 European Cup Final?",
+      "options": [
+        "Jim Brogan",
+        "Tommy Gemmell",
+        "Bertie Auld",
+        "Davie Hay"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Jim Brogan",
+        "Feyenoord",
+        "1970"
+      ],
+      "source": "manual",
+      "id": "q_000979",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:57:27.532Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:57:27.532Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Which Celtic forward hit a shot against the Feyenoord keeper in extra time of the 1970 final, and felt it ended his Celtic career?",
+      "options": [
+        "Willie Wallace",
+        "Bobby Lennox",
+        "John Hughes",
+        "Jimmy Johnstone"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "John Hughes",
+        "Feyenoord",
+        "1970"
+      ],
+      "source": "manual",
+      "id": "q_000978",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:57:22.059Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:57:22.059Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Who was named Celtic's best player on the night of the 1970 European Cup Final?",
+      "options": [
+        "Evan Williams",
+        "Billy McNeill",
+        "Jimmy Johnstone",
+        "Bobby Murdoch"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Evan Williams",
+        "Feyenoord",
+        "1970"
+      ],
+      "source": "manual",
+      "id": "q_000977",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:57:07.625Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:57:07.625Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 5,
+      "question": "Who was Feyenoord's trainer when they beat Celtic in the 1970 European Cup Final?",
+      "options": [
+        "Ernst Happel",
+        "Rinus Michels",
+        "Stefan Kovacs",
+        "Wim Jansen"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Feyenoord",
+        "1970",
+        "Managers"
+      ],
+      "source": "manual",
+      "id": "q_000976",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:56:55.213Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:56:55.213Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "european-nights",
+      "difficulty": 4,
+      "question": "Who came on for Bertie Auld in the 1970 European Cup Final?",
+      "options": [
+        "George Connelly",
+        "Lou Macari",
+        "Willie Wallace",
+        "Harry Hood"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "George Connelly",
+        "Feyenoord",
+        "1970"
+      ],
+      "source": "manual",
+      "id": "q_000975",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:56:46.707Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:56:46.707Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Who equalised for Celtic after 66 minutes in the 4-2 title win over Rangers in May 1979?",
+      "options": [
+        "Murdo MacLeod",
+        "Roy Aitken",
+        "George McCluskey",
+        "Davie Provan"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "I Was There",
+        "Roy Aitken",
+        "1979",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_000974",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:56:38.254Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:56:38.254Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "managers",
+      "difficulty": 3,
+      "question": "How many league titles did Celtic win under Martin O'Neill in his first spell?",
+      "options": [
+        "Five",
+        "Three",
+        "Six",
+        "Four"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Most Memorable Game",
+        "Martin O'Neill"
+      ],
+      "source": "manual",
+      "id": "q_000949",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:56:20.726Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:56:20.726Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "european-nights",
+      "difficulty": 2,
+      "question": "When Feyenoord beat Celtic in the 1970 European Cup Final, they became the first club from which country to win it?",
+      "options": [
+        "Portugal",
+        "The Netherlands",
+        "Belgium",
+        "West Germany"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "I Was There",
+        "Feyenoord",
+        "1970",
+        "European Cup"
+      ],
+      "source": "manual",
+      "id": "q_000973",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:55:34.168Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:55:34.168Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Who was in goal for Celtic in the 4-2 title win over Rangers in May 1979?",
+      "options": [
+        "Peter Latchford",
+        "Denis Connaghan",
+        "Roy Baines",
+        "Pat Bonner"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "Peter Latchford",
+        "1979",
+        "Goalkeepers"
+      ],
+      "source": "manual",
+      "id": "q_000972",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:54:41.414Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:54:41.414Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "opponents",
+      "difficulty": 4,
+      "question": "Who opened the scoring for Rangers after nine minutes in the 'Ten Men Won The League' game in 1979?",
+      "options": [
+        "Alex MacDonald",
+        "Bobby Russell",
+        "Davie Cooper",
+        "Derek Johnstone"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "I Was There",
+        "1979",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_000971",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:54:24.660Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:54:24.660Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "domestic-trophies",
+      "difficulty": 5,
+      "question": "On which day of the week was Celtic's 4-2 title win over Rangers in May 1979 played?",
+      "options": [
+        "Wednesday",
+        "Sunday",
+        "Monday",
+        "Saturday"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "1979",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_000970",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:54:17.300Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:54:17.300Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "managers",
+      "difficulty": 3,
+      "question": "Who managed Celtic when they won the league with ten men against Rangers in 1979?",
+      "options": [
+        "Jock Stein",
+        "Davie Hay",
+        "Billy McNeill",
+        "Sean Fallon"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Billy McNeill",
+        "1979"
+      ],
+      "source": "manual",
+      "id": "q_000969",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:54:10.838Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:54:10.838Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Which Rangers player scored an own goal in Celtic's 4-2 title win in May 1979?",
+      "options": [
+        "Alex MacDonald",
+        "Derek Johnstone",
+        "Peter McCloy",
+        "Colin Jackson"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "I Was There",
+        "1979",
+        "Rangers",
+        "Own goals"
+      ],
+      "source": "manual",
+      "id": "q_000968",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:54:05.914Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:54:05.914Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "Who scored Celtic's fourth goal from about 25 yards in the last minute against Rangers in May 1979?",
+      "options": [
+        "Davie Provan",
+        "Murdo MacLeod",
+        "George McCluskey",
+        "Roy Aitken"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "I Was There",
+        "Murdo MacLeod",
+        "1979",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_000967",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:54:00.910Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:54:00.910Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "Which Celtic player was sent off in the 4-2 title win over Rangers in May 1979?",
+      "options": [
+        "Roy Aitken",
+        "Johnny Doyle",
+        "Murdo MacLeod",
+        "Tom McAdam"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "I Was There",
+        "Johnny Doyle",
+        "1979",
+        "Red cards"
+      ],
+      "source": "manual",
+      "id": "q_000966",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:53:55.073Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:53:55.073Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "domestic-trophies",
+      "difficulty": 2,
+      "question": "Celtic clinched the 1979 league title by beating Rangers 4-2 with how many men?",
+      "options": [
+        "Eight",
+        "Nine",
+        "Ten",
+        "Eleven"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Ten men won the league",
+        "1979",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_000965",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:53:48.815Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:53:48.815Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "At which ground did Celtic beat Rangers 7-1 in the 1957 League Cup Final?",
+      "options": [
+        "Ibrox",
+        "Celtic Park",
+        "Hampden Park",
+        "Firhill"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Hampden",
+        "1957",
+        "League Cup"
+      ],
+      "source": "manual",
+      "id": "q_000963",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:53:05.317Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:53:05.317Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "On what date did Celtic beat Rangers 7-1 in the League Cup Final?",
+      "options": [
+        "20 May 1953",
+        "24 April 1965",
+        "19 October 1957",
+        "25 May 1967"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Rangers",
+        "1957",
+        "League Cup"
+      ],
+      "source": "manual",
+      "id": "q_000961",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:52:10.205Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:52:10.205Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "domestic-trophies",
+      "difficulty": 1,
+      "question": "Celtic beat Rangers 4-2 at Celtic Park in May 1979 to win which trophy?",
+      "options": [
+        "The Scottish Cup",
+        "The league title",
+        "The Glasgow Cup",
+        "The League Cup"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "I Was There",
+        "Ten men won the league",
+        "1979",
+        "Rangers"
+      ],
+      "source": "manual",
+      "id": "q_000960",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:52:05.283Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:52:05.283Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "What was Jock Stein's half-time message with Celtic 2-1 down in the 1965 Scottish Cup Final?",
+      "options": [
+        "Change nothing, the rewards will come",
+        "Shut up shop and play for a replay",
+        "Get the ball to the wingers",
+        "Push everyone forward"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "Jock Stein",
+        "1965"
+      ],
+      "source": "manual",
+      "id": "q_000959",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:51:51.173Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:51:51.173Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "cup-finals",
+      "difficulty": 5,
+      "question": "What was the attendance at Hampden for the 1965 Scottish Cup Final?",
+      "options": [
+        "85,000",
+        "74,000",
+        "108,000",
+        "136,000"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "1965",
+        "Attendances"
+      ],
+      "source": "manual",
+      "id": "q_000958",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:51:31.734Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:51:31.734Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "Which club did Celtic beat in the semi-final on the way to the 1965 Scottish Cup Final?",
+      "options": [
+        "Motherwell",
+        "Kilmarnock",
+        "Hibernian",
+        "Rangers"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "Motherwell",
+        "1965"
+      ],
+      "source": "manual",
+      "id": "q_000957",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:51:23.804Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:51:23.804Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "Which club was Jock Stein managing immediately before he returned to Celtic in 1965?",
+      "options": [
+        "Aberdeen",
+        "Kilmarnock",
+        "Dunfermline Athletic",
+        "Hibernian"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "Jock Stein",
+        "1965"
+      ],
+      "source": "manual",
+      "id": "q_000956",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:50:59.530Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:50:59.530Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Before the 1965 Scottish Cup Final, what was Celtic's last major trophy?",
+      "options": [
+        "The 1957 League Cup",
+        "The 1954 Scottish Cup",
+        "The 1962 League title",
+        "The 1960 Scottish Cup"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "1965",
+        "1957"
+      ],
+      "source": "manual",
+      "id": "q_000955",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:50:39.362Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:50:39.362Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Who managed Dunfermline Athletic against Celtic in the 1965 Scottish Cup Final?",
+      "options": [
+        "Eddie Turnbull",
+        "Willie Cunningham",
+        "Bob Shankly",
+        "Willie Waddell"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "Dunfermline",
+        "1965",
+        "Managers"
+      ],
+      "source": "manual",
+      "id": "q_000954",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:50:26.105Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:50:26.105Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "From whose corner did Billy McNeill head the winner in the 1965 Scottish Cup Final?",
+      "options": [
+        "Jimmy Johnstone",
+        "Bobby Lennox",
+        "Charlie Gallagher",
+        "Bertie Auld"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "Charlie Gallagher",
+        "Billy McNeill",
+        "1965"
+      ],
+      "source": "manual",
+      "id": "q_000953",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:50:04.224Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:50:04.224Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "Who scored Celtic's other two goals in the 3-2 win in the 1965 Scottish Cup Final?",
+      "options": [
+        "Bobby Lennox",
+        "Stevie Chalmers",
+        "Bertie Auld",
+        "Charlie Gallagher"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "Bertie Auld",
+        "1965"
+      ],
+      "source": "manual",
+      "id": "q_000952",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:49:57.021Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:49:57.021Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "Celtic beat which club 3-2 in the 1965 Scottish Cup Final?",
+      "options": [
+        "Dunfermline Athletic",
+        "Kilmarnock",
+        "Motherwell",
+        "Hibernian"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "Dunfermline",
+        "1965"
+      ],
+      "source": "manual",
+      "id": "q_000951",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:49:50.120Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:49:50.120Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "cup-finals",
+      "difficulty": 1,
+      "question": "Who headed Celtic's winning goal in the 1965 Scottish Cup Final?",
+      "options": [
+        "John Hughes",
+        "Bertie Auld",
+        "Billy McNeill",
+        "Bobby Lennox"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "1965 Scottish Cup Final",
+        "Billy McNeill",
+        "1965"
+      ],
+      "source": "manual",
+      "id": "q_000950",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:49:41.196Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:49:41.196Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "Celtic clinched the league title against St Johnstone on the last day of which season?",
+      "options": [
+        "1978-79",
+        "2000-01",
+        "1997-98",
+        "1987-88"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Most Memorable Game",
+        "St Johnstone",
+        "1998",
+        "League title"
+      ],
+      "source": "manual",
+      "id": "q_000948",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:48:33.815Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:48:33.815Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Which Celtic substitute replaced the injured Jackie McNamara early in the second half at the Nou Camp in 2004?",
+      "options": [
+        "Ross Wallace",
+        "Stephen Pearson",
+        "Liam Miller",
+        "Shaun Maloney"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Most Memorable Game",
+        "Liam Miller",
+        "Barcelona",
+        "2004"
+      ],
+      "source": "manual",
+      "id": "q_000947",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:48:25.386Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:48:25.386Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 5,
+      "question": "Celtic lost to Dundee at Celtic Park on 4 May 1985. Who scored the goal that sealed the defeat?",
+      "options": [
+        "John Brown",
+        "Tosh McKinlay",
+        "Albert Kidd",
+        "Ray Stephen"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Most Memorable Game",
+        "Dundee",
+        "1985"
+      ],
+      "source": "manual",
+      "id": "q_000946",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:48:15.885Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:48:15.885Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "Which two players scored as Celtic beat Dundee in April 1988, a game that could clinch the Centenary title?",
+      "options": [
+        "Frank McAvennie and Paul McStay",
+        "Roy Aitken and Joe Miller",
+        "Mark McGhee and Tommy Burns",
+        "Chris Morris and Andy Walker"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Most Memorable Game",
+        "Dundee",
+        "1988",
+        "Centenary"
+      ],
+      "source": "manual",
+      "id": "q_000945",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:48:02.960Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:48:02.960Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "european-nights",
+      "difficulty": 4,
+      "question": "Celtic beat Leeds United at Hampden in April 1970. Who did Scotland play there the following week?",
+      "options": [
+        "Brazil",
+        "England",
+        "Wales",
+        "Northern Ireland"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Most Memorable Game",
+        "Leeds United",
+        "1970",
+        "Hampden"
+      ],
+      "source": "manual",
+      "id": "q_000944",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:47:36.230Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:47:36.230Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "european-nights",
+      "difficulty": 4,
+      "question": "On what date did Celtic beat Leeds United 2-1 at Hampden in the 1970 European Cup semi-final?",
+      "options": [
+        "25 May 1970",
+        "15 April 1970",
+        "1 April 1970",
+        "6 May 1970"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Most Memorable Game",
+        "Leeds United",
+        "European Cup",
+        "1970"
+      ],
+      "source": "manual",
+      "id": "q_000943",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:47:11.677Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:47:11.677Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "european-nights",
+      "difficulty": 3,
+      "question": "What was the official attendance at Hampden for Celtic v Leeds United in the 1970 European Cup semi-final?",
+      "options": [
+        "136,000",
+        "98,000",
+        "108,000",
+        "150,000"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Most Memorable Game",
+        "Leeds United",
+        "European Cup",
+        "1970",
+        "Hampden"
+      ],
+      "source": "manual",
+      "id": "q_000942",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:47:04.348Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:47:04.348Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Which Celtic player scored with his knee in the second half of the 5-0 title win at Love Street in 1986?",
+      "options": [
+        "Paul McStay",
+        "Brian McClair",
+        "Mo Johnston",
+        "Murdo MacLeod"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Most Memorable Game",
+        "Brian McClair",
+        "St Mirren",
+        "1986"
+      ],
+      "source": "manual",
+      "id": "q_000941",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:46:58.506Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:46:58.506Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "What was the half-time score when Celtic won 5-0 at St Mirren on the last day of 1985-86?",
+      "options": [
+        "3-0",
+        "4-0",
+        "2-0",
+        "1-0"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Most Memorable Game",
+        "St Mirren",
+        "1986",
+        "League title"
+      ],
+      "source": "manual",
+      "id": "q_000940",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:46:48.204Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:46:48.204Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "Whose two goals for Dundee against Hearts at Dens Park helped Celtic win the 1986 league title?",
+      "options": [
+        "Ray Stephen",
+        "Tosh McKinlay",
+        "Albert Kidd",
+        "John Brown"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Most Memorable Game",
+        "Albert Kidd",
+        "1986",
+        "League title"
+      ],
+      "source": "manual",
+      "id": "q_000939",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:46:37.056Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:46:37.056Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "domestic-trophies",
+      "difficulty": 4,
+      "question": "Who scored Celtic's second goal in the 5-0 title-winning win at St Mirren in May 1986?",
+      "options": [
+        "Tommy Burns",
+        "Brian McClair",
+        "Paul McStay",
+        "Mo Johnston"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Most Memorable Game",
+        "Mo Johnston",
+        "St Mirren",
+        "1986"
+      ],
+      "source": "manual",
+      "id": "q_000938",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:46:28.275Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:46:28.275Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Around 30,000 Celtic fans travelled to Barcelona in March 2004. Roughly how many got into the Nou Camp?",
+      "options": [
+        "About 15,000",
+        "About 25,000",
+        "About 2,000",
+        "7,000 to 8,000"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Most Memorable Game",
+        "Barcelona",
+        "2004",
+        "Supporters"
+      ],
+      "source": "manual",
+      "id": "q_000937",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:46:14.945Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:46:14.945Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Which three players were sent off in the first leg of Celtic v Barcelona in the 2004 UEFA Cup?",
+      "options": [
+        "Neil Lennon, Xavi and Patrick Kluivert",
+        "Rab Douglas, Thiago Motta and Javier Saviola",
+        "Bobo Balde, Carles Puyol and Ronaldinho",
+        "Chris Sutton, Edgar Davids and Luis Garcia"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Most Memorable Game",
+        "Barcelona",
+        "2004",
+        "Red cards"
+      ],
+      "source": "manual",
+      "id": "q_000936",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:45:58.651Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:45:58.651Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 5,
+      "question": "Barcelona had won how many La Liga games in a row before Celtic held them 0-0 in March 2004?",
+      "options": [
+        "Five",
+        "Three",
+        "Twelve",
+        "Nine"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Most Memorable Game",
+        "Barcelona",
+        "2004"
+      ],
+      "source": "manual",
+      "id": "q_000935",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:45:37.126Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:45:37.126Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Whose back-pass did David Marshall fumble about 20 seconds into Celtic's 0-0 draw at the Nou Camp in 2004?",
+      "options": [
+        "Alan Thompson",
+        "Didier Agathe",
+        "Neil Lennon",
+        "Jackie McNamara"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Most Memorable Game",
+        "David Marshall",
+        "Jackie McNamara",
+        "Barcelona",
+        "2004"
+      ],
+      "source": "manual",
+      "id": "q_000934",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:45:30.419Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:45:30.419Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Which Italian referee took charge of Barcelona 0-0 Celtic at the Nou Camp in March 2004?",
+      "options": [
+        "Roberto Rosetti",
+        "Pierluigi Collina",
+        "Domenico Messina",
+        "Stefano Farina"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Most Memorable Game",
+        "Barcelona",
+        "2004",
+        "Referees"
+      ],
+      "source": "manual",
+      "id": "q_000933",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:45:19.712Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:45:19.712Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "opponents",
+      "difficulty": 4,
+      "question": "Who managed Barcelona when Celtic knocked them out of the UEFA Cup in 2004?",
+      "options": [
+        "Pep Guardiola",
+        "Bobby Robson",
+        "Louis van Gaal",
+        "Frank Rijkaard"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Most Memorable Game",
+        "Barcelona",
+        "2004",
+        "Managers"
+      ],
+      "source": "manual",
+      "id": "q_000932",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:45:15.905Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:45:15.905Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 5,
+      "question": "Which suspended defender was replaced by John Kennedy for the 0-0 draw in Barcelona in March 2004?",
+      "options": [
+        "Bobo Balde",
+        "Stanislav Varga",
+        "Johan Mjallby",
+        "Joos Valgaeren"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Most Memorable Game",
+        "Bobo Balde",
+        "John Kennedy",
+        "Barcelona",
+        "2004"
+      ],
+      "source": "manual",
+      "id": "q_000931",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:45:11.929Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:45:11.929Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 5,
+      "question": "Which Barcelona defender went off injured after 34 minutes of the 0-0 draw with Celtic in March 2004?",
+      "options": [
+        "Michael Reiziger",
+        "Oleguer",
+        "Rafael Marquez",
+        "Carles Puyol"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Most Memorable Game",
+        "Barcelona",
+        "2004"
+      ],
+      "source": "manual",
+      "id": "q_000930",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:45:06.392Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:45:06.392Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "uefa-competitions",
+      "difficulty": 3,
+      "question": "In which round of the 2003-04 UEFA Cup did Celtic knock out Barcelona?",
+      "options": [
+        "Quarter-final",
+        "Third round",
+        "Semi-final",
+        "Fourth round"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Most Memorable Game",
+        "Barcelona",
+        "UEFA Cup",
+        "2004"
+      ],
+      "source": "manual",
+      "id": "q_000929",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:45:01.015Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:45:01.015Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "european-nights",
+      "difficulty": 3,
+      "question": "Which suspended goalkeeper did David Marshall replace for the 0-0 draw at the Nou Camp in March 2004?",
+      "options": [
+        "Rab Douglas",
+        "Artur Boruc",
+        "Magnus Hedman",
+        "Jonathan Gould"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Most Memorable Game",
+        "Rab Douglas",
+        "Barcelona",
+        "2004",
+        "Goalkeepers"
+      ],
+      "source": "manual",
+      "id": "q_000928",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:44:53.093Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:44:53.093Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "cup-finals",
+      "difficulty": 5,
+      "question": "The 1988 Scottish Cup Final was played how many days short of the centenary of Celtic's first ever match?",
+      "options": [
+        "14",
+        "28",
+        "1",
+        "7"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Most Memorable Game",
+        "1988",
+        "Centenary"
+      ],
+      "source": "manual",
+      "id": "q_000927",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:44:34.807Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:44:34.807Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "What was the half-time score in the 1988 Scottish Cup Final between Celtic and Dundee United?",
+      "options": [
+        "0-0",
+        "1-1",
+        "1-0 to Dundee United",
+        "1-0 to Celtic"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Most Memorable Game",
+        "1988",
+        "Scottish Cup"
+      ],
+      "source": "manual",
+      "id": "q_000926",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:44:28.385Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:44:28.385Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Which Celtic substitute diverted Joe Miller's cross for Frank McAvennie's late winner in the 1988 Scottish Cup Final?",
+      "options": [
+        "Billy Stark",
+        "Peter Grant",
+        "Mark McGhee",
+        "Anton Rogan"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Most Memorable Game",
+        "Billy Stark",
+        "1988",
+        "Scottish Cup"
+      ],
+      "source": "manual",
+      "id": "q_000925",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:44:20.664Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:44:20.664Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "Who managed Dundee United in the 1988 Scottish Cup Final against Celtic?",
+      "options": [
+        "Ivan Golac",
+        "Paul Sturrock",
+        "Jim McLean",
+        "Alex Smith"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Most Memorable Game",
+        "Dundee United",
+        "1988",
+        "Managers"
+      ],
+      "source": "manual",
+      "id": "q_000924",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:43:59.878Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:43:59.878Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "Who captained Celtic and lifted the Scottish Cup in the 1988 Centenary season?",
+      "options": [
+        "Danny McGrain",
+        "Paul McStay",
+        "Tommy Burns",
+        "Roy Aitken"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Most Memorable Game",
+        "Roy Aitken",
+        "1988",
+        "Centenary"
+      ],
+      "source": "manual",
+      "id": "q_000923",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:43:43.175Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:43:43.175Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "Which Prime Minister attended the 1988 Scottish Cup Final and was booed by fans waving red cards?",
+      "options": [
+        "Tony Blair",
+        "Margaret Thatcher",
+        "John Major",
+        "James Callaghan"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Most Memorable Game",
+        "1988",
+        "Scottish Cup"
+      ],
+      "source": "manual",
+      "id": "q_000922",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:43:36.771Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:43:36.771Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "cup-finals",
+      "difficulty": 5,
+      "question": "Who refereed the 1988 Scottish Cup Final between Celtic and Dundee United?",
+      "options": [
+        "Brian McGinlay",
+        "G B Smith",
+        "David Syme",
+        "Bob Valentine"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Most Memorable Game",
+        "1988",
+        "Scottish Cup",
+        "Referees"
+      ],
+      "source": "manual",
+      "id": "q_000921",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:43:30.143Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:43:30.143Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Who crossed for Frank McAvennie's headed equaliser in the 1988 Scottish Cup Final?",
+      "options": [
+        "Anton Rogan",
+        "Paul McStay",
+        "Billy Stark",
+        "Joe Miller"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Most Memorable Game",
+        "Anton Rogan",
+        "Frank McAvennie",
+        "1988"
+      ],
+      "source": "manual",
+      "id": "q_000920",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:43:25.703Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:43:25.703Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "european-campaigns",
+      "difficulty": 5,
+      "question": "Lou Macari scored the winner in Budapest in a March 1972 European Cup quarter-final against which club?",
+      "options": [
+        "Ferencvaros",
+        "Honved",
+        "Ujpest Dozsa",
+        "Vasas"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Quality Street Gang",
+        "Lou Macari",
+        "European Cup",
+        "1972"
+      ],
+      "source": "manual",
+      "id": "q_000919",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:43:19.928Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:43:19.928Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "european-campaigns",
+      "difficulty": 3,
+      "question": "Pat McCluskey scored in a 1972 European Cup semi-final penalty shoot-out against which club?",
+      "options": [
+        "Ujpest Dozsa",
+        "Feyenoord",
+        "Ajax",
+        "Inter Milan"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Quality Street Gang",
+        "Pat McCluskey",
+        "European Cup",
+        "1972"
+      ],
+      "source": "manual",
+      "id": "q_000918",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:43:09.054Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:43:09.054Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Pat McCluskey was one of Scotland's 'Copenhagen Five', banned after an incident in Denmark in which year?",
+      "options": [
+        "1975",
+        "1982",
+        "1978",
+        "1971"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Quality Street Gang",
+        "Pat McCluskey",
+        "Scotland"
+      ],
+      "source": "manual",
+      "id": "q_000917",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:42:48.310Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:42:48.310Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Brian McLaughlin's top-level career was wrecked by a tackle from which club's Willie McVie in 1973?",
+      "options": [
+        "Airdrie",
+        "Dundee",
+        "Clyde",
+        "Falkirk"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Quality Street Gang",
+        "Brian McLaughlin",
+        "1973"
+      ],
+      "source": "manual",
+      "id": "q_000916",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:42:38.991Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:42:38.991Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "players",
+      "difficulty": 3,
+      "question": "John Gorman's only Celtic first-team game, at Hamilton in September 1968, was also the debut of which future star?",
+      "options": [
+        "Paul Wilson",
+        "Kenny Dalglish",
+        "Lou Macari",
+        "Danny McGrain"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Quality Street Gang",
+        "John Gorman",
+        "Kenny Dalglish",
+        "Debuts"
+      ],
+      "source": "manual",
+      "id": "q_000915",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:42:34.154Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:42:34.154Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Who gave Davie Hay the nickname 'The Quiet Assassin'?",
+      "options": [
+        "Tommy Docherty",
+        "Billy McNeill",
+        "Jock Stein",
+        "Bill Shankly"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Quality Street Gang",
+        "Davie Hay",
+        "Nicknames"
+      ],
+      "source": "manual",
+      "id": "q_000914",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:42:19.858Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:42:19.858Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Which Quality Street Gang player was the grandson of the legendary Jimmy 'Mighty' Quinn?",
+      "options": [
+        "Paul Wilson",
+        "Jimmy Quinn",
+        "John Gorman",
+        "Vic Davidson"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Quality Street Gang",
+        "Jimmy Quinn"
+      ],
+      "source": "manual",
+      "id": "q_000913",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:42:14.328Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:42:14.328Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Which Quality Street Gang player left Celtic for Manchester United in 1973?",
+      "options": [
+        "Lou Macari",
+        "Vic Davidson",
+        "Davie Hay",
+        "Kenny Dalglish"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Quality Street Gang",
+        "Lou Macari",
+        "Manchester United"
+      ],
+      "source": "manual",
+      "id": "q_000912",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:41:46.981Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:41:46.981Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which Quality Street Gang player was Scotland's Player of the Year in 1973 and was compared by Jock Stein to Franz Beckenbauer?",
+      "options": [
+        "Danny McGrain",
+        "Davie Hay",
+        "Kenny Dalglish",
+        "George Connelly"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Quality Street Gang",
+        "George Connelly",
+        "1973"
+      ],
+      "source": "manual",
+      "id": "q_000911",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:41:39.098Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:41:39.098Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 3,
+      "question": "In 1970-71 the Quality Street Gang reserves beat Rangers 7-1, 4-1 and 6-1 within how many days?",
+      "options": [
+        "Three",
+        "Twenty-one",
+        "Fourteen",
+        "Eight"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Quality Street Gang",
+        "Rangers",
+        "1970-71"
+      ],
+      "source": "manual",
+      "id": "q_000910",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:41:32.472Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:41:32.472Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "In autumn 1968 the Quality Street Gang beat a full Scotland international XI by what score?",
+      "options": [
+        "2-1",
+        "5-2",
+        "4-0",
+        "3-1"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Quality Street Gang",
+        "1968"
+      ],
+      "source": "manual",
+      "id": "q_000909",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:41:14.489Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:41:14.489Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "In August 1968 Lou Macari scored four as Celtic's reserves ran up a huge Reserve League Cup win over which club?",
+      "options": [
+        "Partick Thistle",
+        "Clyde",
+        "Queen's Park",
+        "Hamilton Accies"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Quality Street Gang",
+        "Lou Macari",
+        "1968"
+      ],
+      "source": "manual",
+      "id": "q_000908",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:41:08.713Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:41:08.713Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "players",
+      "difficulty": 3,
+      "question": "The Quality Street Gang met for kickabouts in whose back garden?",
+      "options": [
+        "Lou Macari",
+        "George Connelly",
+        "David Cattanach",
+        "Danny McGrain"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Quality Street Gang",
+        "David Cattanach"
+      ],
+      "source": "manual",
+      "id": "q_000907",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:41:02.489Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:41:02.489Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "managers",
+      "difficulty": 2,
+      "question": "Which Celtic manager brought the Quality Street Gang through to replace the Lisbon Lions?",
+      "options": [
+        "Jimmy McGrory",
+        "Billy McNeill",
+        "Davie Hay",
+        "Jock Stein"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Quality Street Gang",
+        "Jock Stein"
+      ],
+      "source": "manual",
+      "id": "q_000906",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:40:49.151Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:40:49.151Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "players",
+      "difficulty": 2,
+      "question": "What nickname was given to the young Celtic reserves who came through to replace the Lisbon Lions?",
+      "options": [
+        "The Lisbon Cubs",
+        "The Quality Street Gang",
+        "The Famous Five",
+        "The Kelly Kids"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Quality Street Gang"
+      ],
+      "source": "manual",
+      "id": "q_000905",
+      "status": "approved",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:40:11.748Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:40:11.748Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_000301",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "club-records",
+      "difficulty": 3,
+      "question": "Which of these made the most league appearances for Celtic: Keane, Commons, Di Canio or Cadete?",
+      "options": [
+        "Robbie Keane",
+        "Kris Commons",
+        "Paolo Di Canio",
+        "Jorge Cadete"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "League appearances",
+        "Kris Commons"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-11T06:55:25.111Z",
+      "updatedAt": "2026-11-13T00:10:14.444Z",
+      "review": {
+        "reviewedAt": "2026-11-13T00:10:14.444Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_000302",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "Which of these made the most league appearances for Celtic: Samaras, Keane, Viduka or Miller?",
+      "options": [
+        "Georgios Samaras",
+        "Robbie Keane",
+        "Mark Viduka",
+        "Kenny Miller"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "League appearances",
+        "Georgios Samaras"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-11T06:55:25.111Z",
+      "updatedAt": "2026-11-13T00:06:31.654Z",
+      "review": {
+        "reviewedAt": "2026-11-13T00:06:31.654Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_000303",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "club-records",
+      "difficulty": 2,
+      "question": "Which of these made the most league appearances for Celtic:",
+      "options": [
+        "Jorge Cadete",
+        "Brian McClair",
+        "Mick McCarthy",
+        "Frank McAvennie"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "League appearances",
+        "Brian McClair"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-11T06:55:25.111Z",
+      "updatedAt": "2026-11-13T00:05:36.182Z",
+      "review": {
+        "reviewedAt": "2026-11-13T00:05:36.182Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
     {
       "id": "q_000327",
       "schemaVersion": 1,
@@ -8096,35 +12936,6 @@
       "updatedAt": "2026-11-11T11:45:10.097Z",
       "review": {
         "reviewedAt": "2026-11-11T11:45:10.097Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_000626",
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "round-1",
-      "category": "celtic-history",
-      "difficulty": 3,
-      "question": "Which year appears on the Celtic club crest?",
-      "options": [
-        "1887",
-        "1888",
-        "1890",
-        "1903"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Kit",
-        "Crest"
-      ],
-      "source": "manual",
-      "status": "approved",
-      "createdAt": "2026-11-11T11:40:29.058Z",
-      "updatedAt": "2026-11-11T11:45:01.189Z",
-      "review": {
-        "reviewedAt": "2026-11-11T11:45:01.189Z",
         "rejectionReason": null,
         "rejectionNote": null
       }
@@ -17375,93 +22186,6 @@
       "updatedAt": "2026-11-11T07:48:01.003Z",
       "review": {
         "reviewedAt": "2026-11-11T07:48:01.003Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_000303",
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "round-1",
-      "category": "club-records",
-      "difficulty": 2,
-      "question": "Which of these made the most league appearances for Celtic: Jorge Cadete, Brian McClair, Mick McCarthy or Frank McAvennie?",
-      "options": [
-        "Jorge Cadete",
-        "Brian McClair",
-        "Mick McCarthy",
-        "Frank McAvennie"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "League appearances",
-        "Brian McClair"
-      ],
-      "source": "manual",
-      "status": "approved",
-      "createdAt": "2026-11-11T06:55:25.111Z",
-      "updatedAt": "2026-11-11T06:59:25.592Z",
-      "review": {
-        "reviewedAt": "2026-11-11T06:59:25.592Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_000302",
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "quarter-final",
-      "category": "club-records",
-      "difficulty": 4,
-      "question": "Which of these made the most league appearances for Celtic: Georgios Samaras, Robbie Keane, Mark Viduka or Kenny Miller?",
-      "options": [
-        "Georgios Samaras",
-        "Robbie Keane",
-        "Mark Viduka",
-        "Kenny Miller"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "League appearances",
-        "Georgios Samaras"
-      ],
-      "source": "manual",
-      "status": "approved",
-      "createdAt": "2026-11-11T06:55:25.111Z",
-      "updatedAt": "2026-11-11T06:59:21.773Z",
-      "review": {
-        "reviewedAt": "2026-11-11T06:59:21.773Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_000301",
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "round-2",
-      "category": "club-records",
-      "difficulty": 3,
-      "question": "Which of these made the most league appearances for Celtic: Robbie Keane, Kris Commons, Paolo Di Canio or Jorge Cadete?",
-      "options": [
-        "Robbie Keane",
-        "Kris Commons",
-        "Paolo Di Canio",
-        "Jorge Cadete"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "League appearances",
-        "Kris Commons"
-      ],
-      "source": "manual",
-      "status": "approved",
-      "createdAt": "2026-11-11T06:55:25.111Z",
-      "updatedAt": "2026-11-11T06:59:15.208Z",
-      "review": {
-        "reviewedAt": "2026-11-11T06:59:15.208Z",
         "rejectionReason": null,
         "rejectionNote": null
       }

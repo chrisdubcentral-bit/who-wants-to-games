@@ -1,8 +1,159 @@
 {
   "schemaVersion": 1,
   "collection": "rejected",
-  "updatedAt": "2026-11-12T23:16:11.790Z",
+  "updatedAt": "2026-11-13T23:44:39.974Z",
   "questions": [
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "In September 1887 Brother Walfrid, John Glass and Pat Welsh recruited which player, whose brother Willie also signed?",
+      "options": [
+        "Neilly McCallum",
+        "James Kelly",
+        "Tom Maley",
+        "Dan Doyle"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Tom Maley",
+        "Founding",
+        "1887"
+      ],
+      "source": "manual",
+      "id": "q_001026",
+      "status": "rejected",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:38:21.401Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:38:21.401Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "general-football",
+      "difficulty": 5,
+      "question": "In which city did Belfast Celtic beat the Scotland international team 2-0 in May 1949?",
+      "options": [
+        "Boston",
+        "Dublin",
+        "New York",
+        "Toronto"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "The Shamrock",
+        "Belfast Celtic",
+        "1949"
+      ],
+      "source": "manual",
+      "id": "q_001021",
+      "status": "rejected",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:37:19.530Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:37:19.530Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not Glasgow Celtic related"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "general-football",
+      "difficulty": 5,
+      "question": "Which composer is credited with the first football song, 'He Banged the Leather for Goal'?",
+      "options": [
+        "Ralph Vaughan Williams",
+        "Gustav Holst",
+        "Benjamin Britten",
+        "Edward Elgar"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "The Shamrock",
+        "Music"
+      ],
+      "source": "manual",
+      "id": "q_001018",
+      "status": "rejected",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T17:36:06.115Z",
+      "review": {
+        "reviewedAt": "2026-11-13T17:36:06.115Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not Celtic related"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "Which hymn did Celtic supporters sing during the 7-1 League Cup Final, according to one fan who was there?",
+      "options": [
+        "Abide With Me",
+        "Amazing Grace",
+        "Hail Glorious St Patrick",
+        "Faith of Our Fathers"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "1957",
+        "Supporters"
+      ],
+      "source": "manual",
+      "id": "q_000964",
+      "status": "rejected",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:53:35.582Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:53:35.582Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Conjecture"
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "Who scored to make it 4-1 in the 1957 League Cup Final, as heard by a young fan on a neighbour's radio?",
+      "options": [
+        "Sammy Wilson",
+        "Charlie Tully",
+        "Billy McPhail",
+        "Neilly Mochan"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "I Was There",
+        "Billy McPhail",
+        "1957",
+        "League Cup"
+      ],
+      "source": "manual",
+      "id": "q_000962",
+      "status": "rejected",
+      "createdAt": "2026-11-13T00:44:53.822Z",
+      "updatedAt": "2026-11-13T06:52:42.765Z",
+      "review": {
+        "reviewedAt": "2026-11-13T06:52:42.765Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not sure if this is true"
+      }
+    },
     {
       "schemaVersion": 1,
       "club": "celtic",

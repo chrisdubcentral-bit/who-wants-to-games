@@ -62,13 +62,19 @@ export function createController({ stages, questions, activeCategories }) {
 
     /** A champion plays on: new questions from the First Round, same run. Returns false if the game isn't won. */
     nextSeason() {
-      if (state.status !== STATUS.WON) return false;
+      if (state.status !== STATUS.WON || state.retired) return false;
       clearTimers();
       const fromIndex = Math.max(0, stages.findIndex((s) => s.key === ed('seasons.restartStage')));
       const seen = local.read(KEYS.seen, []);
       const picked = pickQuestions(questions, stages, { seen, activeCategories, fromIndex });
       local.write(KEYS.seen, [...picked.map((q) => q.id), ...seen].slice(0, RECENT_SEEN_LIMIT));
       return dispatch({ type: 'NEXT_SEASON', questions: picked, fromIndex });
+    },
+
+    /** A champion ends the run instead of playing on. Returns false if the game isn't won. */
+    retire() {
+      clearTimers();
+      return dispatch({ type: 'RETIRE' });
     },
 
     select(index) {

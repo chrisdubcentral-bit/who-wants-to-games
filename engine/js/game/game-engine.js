@@ -103,7 +103,7 @@ export function reduce(state, action) {
     // A champion carries on: same run, next season, starting at stage `fromIndex`.
     // The 50:50 is not handed back, and time spent on the champion screen isn't counted.
     case 'NEXT_SEASON': {
-      if (state.status !== STATUS.WON) return state;
+      if (state.status !== STATUS.WON || state.retired) return state;
       const from = action.fromIndex;
       if (!Number.isInteger(from) || from < 0 || from >= state.stages.length) return state;
       if (!Array.isArray(action.questions) || action.questions.length !== state.stages.length - from) return state;
@@ -124,6 +124,12 @@ export function reduce(state, action) {
         lastCorrect: null,
         lifeline: { ...state.lifeline, removed: [] },
       };
+    }
+
+    // A champion stops instead of playing another season: the run ends with the cups won so far.
+    case 'RETIRE': {
+      if (state.status !== STATUS.WON || state.retired) return state;
+      return { ...state, retired: true };
     }
 
     // A game left unfinished (e.g. not resumed after a page refresh) counts as knocked out.
@@ -171,6 +177,7 @@ export function summarise(state, labels = {}) {
     lifelineUsed: state.lifeline.fiftyFiftyUsed,
     lifelineStage: state.lifeline.usedAtStage ? byKey[state.lifeline.usedAtStage]?.label : null,
     forfeited: !!state.forfeited,
+    retired: !!state.retired,
     durationMs: durationOf(state),
   };
 

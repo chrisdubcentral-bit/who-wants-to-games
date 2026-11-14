@@ -264,8 +264,9 @@
 .results.is-won .results-hero .sub { color: var(--white); }
 .results.is-eliminated .results-hero h1 { font-size: var(--fs-2xl); color: var(--white); }
 .results.is-eliminated .results-hero .sub { color: #f3a3a3; }
+.results.is-retired .results-hero .sub { color: var(--gold-bright); }
 
-.trophy { width: clamp(140px, 30vw, 210px); animation: trophyGlow 3.5s ease-in-out infinite; }
+.trophy { width: clamp(140px, 30vw, 210px); height: auto; animation: trophyGlow 3.5s ease-in-out infinite; }
 .result-icon {
   width: 84px; height: 84px; border-radius: 50%;
   display: grid; place-items: center;
@@ -288,12 +289,31 @@
 .missed .yours { color: #f3a3a3; }
 .missed .right { color: #a5ecc0; }
 .results .page-actions { justify-content: center; margin-top: 0; }
+/* The champion's season note lives in the actions so phones can put it under Start Season; elsewhere it sits above the buttons. */
+.results .page-actions .season-note { flex: 1 1 100%; order: -1; margin: 0; }
 .results-row { display: contents; }
 @media (max-width: 640px) {
   /* Phones: Play Again on its own line, then Top 100 · Stats · Home side by side */
   .results .page-actions .btn-lg { flex: 1 1 100%; }
   .results-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--sp-2); width: 100%; }
   .results-row .btn { padding: 0 6px; font-size: 0.7rem; letter-spacing: 0.04em; line-height: 1.15; white-space: normal; }
+  /* Knocked out on a phone: no ✕ badge or Stage Reached box (the subtitle already says where you went out),
+     and the Top 100 entry comes before "The one that got away". */
+  .results.is-eliminated .result-icon,
+  .results.is-eliminated .is-stage-reached { display: none; }
+  .results.is-eliminated .missed { order: 1; }
+  .results.is-eliminated .page-actions { order: 2; }
+  /* Champion on a phone: trophy at the top with the title tucked under it, no edition line or Result box. */
+  .results.is-won { padding-top: 0; align-content: start; gap: var(--sp-6); }
+  .results.is-won .results-hero { gap: var(--sp-1); }
+  /* Breathing space between the note, Start Season and the button row (the hero above stays tight). */
+  .results.is-won .page-actions { row-gap: var(--sp-5); }
+  .results.is-won .results-row { gap: var(--sp-3); }
+  .results.is-won .trophy { width: 120px; }
+  .results.is-won .eyebrow.is-edition,
+  .results.is-won .is-result { display: none; }
+  /* Admin happens on the desktop browser, so phones don't show the unpublished-questions badge. */
+  .preview-chip.is-floating { display: none; }
 }
 
 .confetti { position: fixed; inset: 0; pointer-events: none; overflow: hidden; z-index: 60; }

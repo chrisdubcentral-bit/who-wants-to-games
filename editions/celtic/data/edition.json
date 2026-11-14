@@ -69,7 +69,9 @@
       "outEyebrow": "Full Time",
       "out": "Eliminated From The Tournament",
       "outIn": "Knocked out in the {stage}",
-      "leftIn": "Left during the {stage}"
+      "leftIn": "Left during the {stage}",
+      "retired": "Campaign Over",
+      "retiredSub": "Retired as holders with {count}"
     },
     "top100": {
       "eyebrow": "Hall of Fame",

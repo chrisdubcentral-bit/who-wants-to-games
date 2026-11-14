@@ -1,0 +1,658 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Who crossed for Frank McAvennie's headed equaliser in the 1988 Scottish Cup Final?",
+    "options": [
+      "Anton Rogan",
+      "Paul McStay",
+      "Billy Stark",
+      "Joe Miller"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Most Memorable Game",
+      "Anton Rogan",
+      "Frank McAvennie",
+      "1988"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Who refereed the 1988 Scottish Cup Final between Celtic and Dundee United?",
+    "options": [
+      "Brian McGinlay",
+      "G B Smith",
+      "David Syme",
+      "Bob Valentine"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Most Memorable Game",
+      "1988",
+      "Scottish Cup",
+      "Referees"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Which Prime Minister attended the 1988 Scottish Cup Final and was booed by fans waving red cards?",
+    "options": [
+      "Tony Blair",
+      "Margaret Thatcher",
+      "John Major",
+      "James Callaghan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Most Memorable Game",
+      "1988",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "cup-finals",
+    "difficulty": 2,
+    "question": "Who captained Celtic and lifted the Scottish Cup in the 1988 Centenary season?",
+    "options": [
+      "Danny McGrain",
+      "Paul McStay",
+      "Tommy Burns",
+      "Roy Aitken"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "Roy Aitken",
+      "1988",
+      "Centenary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Who managed Dundee United in the 1988 Scottish Cup Final against Celtic?",
+    "options": [
+      "Ivan Golac",
+      "Paul Sturrock",
+      "Jim McLean",
+      "Alex Smith"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Most Memorable Game",
+      "Dundee United",
+      "1988",
+      "Managers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "Which Celtic substitute diverted Joe Miller's cross for Frank McAvennie's late winner in the 1988 Scottish Cup Final?",
+    "options": [
+      "Billy Stark",
+      "Peter Grant",
+      "Mark McGhee",
+      "Anton Rogan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Most Memorable Game",
+      "Billy Stark",
+      "1988",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "What was the half-time score in the 1988 Scottish Cup Final between Celtic and Dundee United?",
+    "options": [
+      "0-0",
+      "1-1",
+      "1-0 to Dundee United",
+      "1-0 to Celtic"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Most Memorable Game",
+      "1988",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "The 1988 Scottish Cup Final was played how many days short of the centenary of Celtic's first ever match?",
+    "options": [
+      "14",
+      "28",
+      "1",
+      "7"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Most Memorable Game",
+      "1988",
+      "Centenary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "Which suspended goalkeeper did David Marshall replace for the 0-0 draw at the Nou Camp in March 2004?",
+    "options": [
+      "Rab Douglas",
+      "Artur Boruc",
+      "Magnus Hedman",
+      "Jonathan Gould"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Most Memorable Game",
+      "Rab Douglas",
+      "Barcelona",
+      "2004",
+      "Goalkeepers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "uefa-competitions",
+    "difficulty": 3,
+    "question": "In which round of the 2003-04 UEFA Cup did Celtic knock out Barcelona?",
+    "options": [
+      "Quarter-final",
+      "Third round",
+      "Semi-final",
+      "Fourth round"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "Barcelona",
+      "UEFA Cup",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Which Barcelona defender went off injured after 34 minutes of the 0-0 draw with Celtic in March 2004?",
+    "options": [
+      "Michael Reiziger",
+      "Oleguer",
+      "Rafael Marquez",
+      "Carles Puyol"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "Barcelona",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Which suspended defender was replaced by John Kennedy for the 0-0 draw in Barcelona in March 2004?",
+    "options": [
+      "Bobo Balde",
+      "Stanislav Varga",
+      "Johan Mjallby",
+      "Joos Valgaeren"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Most Memorable Game",
+      "Bobo Balde",
+      "John Kennedy",
+      "Barcelona",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "opponents",
+    "difficulty": 4,
+    "question": "Who managed Barcelona when Celtic knocked them out of the UEFA Cup in 2004?",
+    "options": [
+      "Pep Guardiola",
+      "Bobby Robson",
+      "Louis van Gaal",
+      "Frank Rijkaard"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "Barcelona",
+      "2004",
+      "Managers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Which Italian referee took charge of Barcelona 0-0 Celtic at the Nou Camp in March 2004?",
+    "options": [
+      "Roberto Rosetti",
+      "Pierluigi Collina",
+      "Domenico Messina",
+      "Stefano Farina"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Most Memorable Game",
+      "Barcelona",
+      "2004",
+      "Referees"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Whose back-pass did David Marshall fumble about 20 seconds into Celtic's 0-0 draw at the Nou Camp in 2004?",
+    "options": [
+      "Alan Thompson",
+      "Didier Agathe",
+      "Neil Lennon",
+      "Jackie McNamara"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "David Marshall",
+      "Jackie McNamara",
+      "Barcelona",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Barcelona had won how many La Liga games in a row before Celtic held them 0-0 in March 2004?",
+    "options": [
+      "Five",
+      "Three",
+      "Twelve",
+      "Nine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "Barcelona",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Which three players were sent off in the first leg of Celtic v Barcelona in the 2004 UEFA Cup?",
+    "options": [
+      "Neil Lennon, Xavi and Patrick Kluivert",
+      "Rab Douglas, Thiago Motta and Javier Saviola",
+      "Bobo Balde, Carles Puyol and Ronaldinho",
+      "Chris Sutton, Edgar Davids and Luis Garcia"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Most Memorable Game",
+      "Barcelona",
+      "2004",
+      "Red cards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Around 30,000 Celtic fans travelled to Barcelona in March 2004. Roughly how many got into the Nou Camp?",
+    "options": [
+      "About 15,000",
+      "About 25,000",
+      "About 2,000",
+      "7,000 to 8,000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "Barcelona",
+      "2004",
+      "Supporters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "domestic-trophies",
+    "difficulty": 4,
+    "question": "Who scored Celtic's second goal in the 5-0 title-winning win at St Mirren in May 1986?",
+    "options": [
+      "Tommy Burns",
+      "Brian McClair",
+      "Paul McStay",
+      "Mo Johnston"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "Mo Johnston",
+      "St Mirren",
+      "1986"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Whose two goals for Dundee against Hearts at Dens Park helped Celtic win the 1986 league title?",
+    "options": [
+      "Ray Stephen",
+      "Tosh McKinlay",
+      "Albert Kidd",
+      "John Brown"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Most Memorable Game",
+      "Albert Kidd",
+      "1986",
+      "League title"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "What was the half-time score when Celtic won 5-0 at St Mirren on the last day of 1985-86?",
+    "options": [
+      "3-0",
+      "4-0",
+      "2-0",
+      "1-0"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Most Memorable Game",
+      "St Mirren",
+      "1986",
+      "League title"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "domestic-trophies",
+    "difficulty": 4,
+    "question": "Which Celtic player scored with his knee in the second half of the 5-0 title win at Love Street in 1986?",
+    "options": [
+      "Paul McStay",
+      "Brian McClair",
+      "Mo Johnston",
+      "Murdo MacLeod"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Most Memorable Game",
+      "Brian McClair",
+      "St Mirren",
+      "1986"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "european-nights",
+    "difficulty": 3,
+    "question": "What was the official attendance at Hampden for Celtic v Leeds United in the 1970 European Cup semi-final?",
+    "options": [
+      "136,000",
+      "98,000",
+      "108,000",
+      "150,000"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Most Memorable Game",
+      "Leeds United",
+      "European Cup",
+      "1970",
+      "Hampden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "european-nights",
+    "difficulty": 4,
+    "question": "On what date did Celtic beat Leeds United 2-1 at Hampden in the 1970 European Cup semi-final?",
+    "options": [
+      "25 May 1970",
+      "15 April 1970",
+      "1 April 1970",
+      "6 May 1970"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Most Memorable Game",
+      "Leeds United",
+      "European Cup",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "european-nights",
+    "difficulty": 2,
+    "question": "Celtic beat Leeds United at Hampden in April 1970. Who did Scotland play there the following week?",
+    "options": [
+      "Brazil",
+      "England",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Most Memorable Game",
+      "Leeds United",
+      "1970",
+      "Hampden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Which two players scored as Celtic beat Dundee in April 1988, a game that could clinch the Centenary title?",
+    "options": [
+      "Frank McAvennie and Paul McStay",
+      "Roy Aitken and Joe Miller",
+      "Mark McGhee and Tommy Burns",
+      "Chris Morris and Andy Walker"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "Dundee",
+      "1988",
+      "Centenary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "opponents",
+    "difficulty": 5,
+    "question": "Celtic lost to Dundee at Celtic Park on 4 May 1985. Who scored the goal that sealed the defeat?",
+    "options": [
+      "John Brown",
+      "Tosh McKinlay",
+      "Albert Kidd",
+      "Ray Stephen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Most Memorable Game",
+      "Dundee",
+      "1985"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-nights",
+    "difficulty": 5,
+    "question": "Which Celtic substitute replaced the injured Jackie McNamara early in the second half at the Nou Camp in 2004?",
+    "options": [
+      "Ross Wallace",
+      "Stephen Pearson",
+      "Liam Miller",
+      "Shaun Maloney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Most Memorable Game",
+      "Liam Miller",
+      "Barcelona",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "domestic-trophies",
+    "difficulty": 3,
+    "question": "Celtic clinched the league title against St Johnstone on the last day of which season?",
+    "options": [
+      "1978-79",
+      "2000-01",
+      "1997-98",
+      "1987-88"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Most Memorable Game",
+      "St Johnstone",
+      "1998",
+      "League title"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "managers",
+    "difficulty": 4,
+    "question": "How many league titles did Celtic win under Martin O'Neill?",
+    "options": [
+      "Five",
+      "Three",
+      "Six",
+      "Four"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Most Memorable Game",
+      "Martin O'Neill"
+    ],
+    "source": "manual"
+  }
+]

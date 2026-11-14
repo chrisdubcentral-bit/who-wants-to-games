@@ -1,0 +1,104 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "Who recorded 'The Celtic Song' in 1961?",
+    "options": [
+      "The Wolfe Tones",
+      "Irving Kaufman",
+      "Glen Daly",
+      "Frankie Miller"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic songs",
+      "Glen Daly",
+      "The Celtic Song"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-history",
+    "difficulty": 3,
+    "question": "The tune of 'Hail Hail, the gang's all here' comes from a song in which Gilbert and Sullivan opera?",
+    "options": [
+      "HMS Pinafore",
+      "The Gondoliers",
+      "The Pirates of Penzance",
+      "The Mikado"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic songs",
+      "Hail Hail"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-history",
+    "difficulty": 4,
+    "question": "The 'Hail Hail' tune can be traced back to the Anvil Chorus from which Verdi opera?",
+    "options": [
+      "Il Trovatore",
+      "Rigoletto",
+      "Aida",
+      "La Traviata"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic songs",
+      "Hail Hail"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Whose name appears in the lyric credit for 'The Celtic Song', though nobody seems to know who he was?",
+    "options": [
+      "Irving Kaufman",
+      "Mick McLaughlin",
+      "Liam Mallory",
+      "Theodore Morse"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic songs",
+      "The Celtic Song"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-history",
+    "difficulty": 5,
+    "question": "Who allegedly sold the rights to 'The Celtic Song' to Glen Daly for a fiver?",
+    "options": [
+      "Irving Kaufman",
+      "Mick 'Garngad Mick' McLaughlin",
+      "Liam Mallory",
+      "Theodore Morse"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic songs",
+      "The Celtic Song",
+      "Glen Daly"
+    ],
+    "source": "manual"
+  }
+]

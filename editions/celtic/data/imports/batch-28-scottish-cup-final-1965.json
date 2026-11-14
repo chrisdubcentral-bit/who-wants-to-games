@@ -1,0 +1,214 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "cup-finals",
+    "difficulty": 1,
+    "question": "Who headed Celtic's winning goal in the 1965 Scottish Cup Final?",
+    "options": [
+      "John Hughes",
+      "Bertie Auld",
+      "Billy McNeill",
+      "Bobby Lennox"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "Billy McNeill",
+      "1965"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "cup-finals",
+    "difficulty": 2,
+    "question": "Celtic beat which club 3-2 in the 1965 Scottish Cup Final?",
+    "options": [
+      "Dunfermline Athletic",
+      "Kilmarnock",
+      "Motherwell",
+      "Hibernian"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "Dunfermline",
+      "1965"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Who scored Celtic's other two goals in the 3-2 win in the 1965 Scottish Cup Final?",
+    "options": [
+      "Bobby Lennox",
+      "Stevie Chalmers",
+      "Bertie Auld",
+      "Charlie Gallagher"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "Bertie Auld",
+      "1965"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "From whose corner did Billy McNeill head the winner in the 1965 Scottish Cup Final?",
+    "options": [
+      "Jimmy Johnstone",
+      "Bobby Lennox",
+      "Charlie Gallagher",
+      "Bertie Auld"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "Charlie Gallagher",
+      "Billy McNeill",
+      "1965"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "cup-finals",
+    "difficulty": 4,
+    "question": "Who managed Dunfermline Athletic against Celtic in the 1965 Scottish Cup Final?",
+    "options": [
+      "Eddie Turnbull",
+      "Willie Cunningham",
+      "Bob Shankly",
+      "Willie Waddell"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "Dunfermline",
+      "1965",
+      "Managers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "domestic-trophies",
+    "difficulty": 4,
+    "question": "Before the 1965 Scottish Cup Final, what was Celtic's last major trophy?",
+    "options": [
+      "The 1957 League Cup",
+      "The 1954 Scottish Cup",
+      "The 1962 League title",
+      "The 1960 Scottish Cup"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "1965",
+      "1957"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "managers",
+    "difficulty": 5,
+    "question": "Which club was Jock Stein managing immediately before he returned to Celtic in 1965?",
+    "options": [
+      "Aberdeen",
+      "Kilmarnock",
+      "Dunfermline Athletic",
+      "Hibernian"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "Jock Stein",
+      "1965"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "cup-finals",
+    "difficulty": 3,
+    "question": "Which club did Celtic beat in the semi-final on the way to the 1965 Scottish Cup Final?",
+    "options": [
+      "Motherwell",
+      "Kilmarnock",
+      "Hibernian",
+      "Rangers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "Motherwell",
+      "1965"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "cup-finals",
+    "difficulty": 5,
+    "question": "What was the attendance at Hampden for the 1965 Scottish Cup Final?",
+    "options": [
+      "85,000",
+      "74,000",
+      "108,000",
+      "136,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "1965",
+      "Attendances"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "managers",
+    "difficulty": 5,
+    "question": "What was Jock Stein's half-time message with Celtic 2-1 down in the 1965 Scottish Cup Final?",
+    "options": [
+      "Change nothing, the rewards will come",
+      "Shut up shop and play for a replay",
+      "Get the ball to the wingers",
+      "Push everyone forward"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 Scottish Cup Final",
+      "Jock Stein",
+      "1965"
+    ],
+    "source": "manual"
+  }
+]

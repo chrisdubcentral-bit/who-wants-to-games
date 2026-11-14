@@ -1,0 +1,314 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "players",
+    "difficulty": 1,
+    "question": "What nickname was given to the young Celtic reserves who came through to replace the Lisbon Lions?",
+    "options": [
+      "The Lisbon Cubs",
+      "The Quality Street Gang",
+      "The Famous Five",
+      "The Kelly Kids"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Quality Street Gang"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "playoff",
+    "category": "managers",
+    "difficulty": 2,
+    "question": "Which Celtic manager brought the Quality Street Gang through to replace the Lisbon Lions?",
+    "options": [
+      "Jimmy McGrory",
+      "Billy McNeill",
+      "Davie Hay",
+      "Jock Stein"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Quality Street Gang",
+      "Jock Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "The Quality Street Gang met for kickabouts in whose back garden?",
+    "options": [
+      "Lou Macari",
+      "George Connelly",
+      "David Cattanach",
+      "Danny McGrain"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Quality Street Gang",
+      "David Cattanach"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "In August 1968 Lou Macari scored four as Celtic's reserves ran up a huge Reserve League Cup win over which club?",
+    "options": [
+      "Partick Thistle",
+      "Clyde",
+      "Queen's Park",
+      "Hamilton Accies"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Quality Street Gang",
+      "Lou Macari",
+      "1968"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "In autumn 1968 the Quality Street Gang beat a full Scotland international XI by what score?",
+    "options": [
+      "2-1",
+      "5-2",
+      "4-0",
+      "3-1"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Quality Street Gang",
+      "1968"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "In 1970-71 the Quality Street Gang reserves beat Rangers 7-1, 4-1 and 6-1 within how many days?",
+    "options": [
+      "Three",
+      "Twenty-one",
+      "Fourteen",
+      "Eight"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Quality Street Gang",
+      "Rangers",
+      "1970-71"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Quality Street Gang player was Scotland's Player of the Year in 1973 and was compared by Jock Stein to Franz Beckenbauer?",
+    "options": [
+      "Danny McGrain",
+      "Davie Hay",
+      "Kenny Dalglish",
+      "George Connelly"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Quality Street Gang",
+      "George Connelly",
+      "1973"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "players",
+    "difficulty": 3,
+    "question": "Which Quality Street Gang player left Celtic for Manchester United in 1973?",
+    "options": [
+      "Lou Macari",
+      "Vic Davidson",
+      "Davie Hay",
+      "Kenny Dalglish"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Quality Street Gang",
+      "Lou Macari",
+      "Manchester United"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Which Quality Street Gang player was the grandson of the legendary Jimmy 'Mighty' Quinn?",
+    "options": [
+      "Paul Wilson",
+      "Jimmy Quinn",
+      "John Gorman",
+      "Vic Davidson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Quality Street Gang",
+      "Jimmy Quinn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Who gave Davie Hay the nickname 'The Quiet Assassin'?",
+    "options": [
+      "Tommy Docherty",
+      "Billy McNeill",
+      "Jock Stein",
+      "Bill Shankly"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Quality Street Gang",
+      "Davie Hay",
+      "Nicknames"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "players",
+    "difficulty": 3,
+    "question": "John Gorman's only Celtic first-team game, at Hamilton in September 1968, was also the debut of which future star?",
+    "options": [
+      "Paul Wilson",
+      "Kenny Dalglish",
+      "Lou Macari",
+      "Danny McGrain"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Quality Street Gang",
+      "John Gorman",
+      "Kenny Dalglish",
+      "Debuts"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "players",
+    "difficulty": 5,
+    "question": "Brian McLaughlin's top-level career was wrecked by a tackle from which club's Willie McVie in 1973?",
+    "options": [
+      "Airdrie",
+      "Dundee",
+      "Clyde",
+      "Falkirk"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Quality Street Gang",
+      "Brian McLaughlin",
+      "1973"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "players",
+    "difficulty": 4,
+    "question": "Pat McCluskey was one of Scotland's 'Copenhagen Five', banned after an incident in Denmark in which year?",
+    "options": [
+      "1975",
+      "1982",
+      "1978",
+      "1971"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Quality Street Gang",
+      "Pat McCluskey",
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "european-campaigns",
+    "difficulty": 5,
+    "question": "Pat McCluskey scored in a 1972 European Cup semi-final penalty shoot-out against which club?",
+    "options": [
+      "Ujpest Dozsa",
+      "Feyenoord",
+      "Ajax",
+      "Inter Milan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Quality Street Gang",
+      "Pat McCluskey",
+      "European Cup",
+      "1972"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "european-campaigns",
+    "difficulty": 5,
+    "question": "Lou Macari scored the winner in Budapest in a March 1972 European Cup quarter-final against which club?",
+    "options": [
+      "Ferencvaros",
+      "Honved",
+      "Ujpest Dozsa",
+      "Vasas"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Quality Street Gang",
+      "Lou Macari",
+      "European Cup",
+      "1972"
+    ],
+    "source": "manual"
+  }
+]
