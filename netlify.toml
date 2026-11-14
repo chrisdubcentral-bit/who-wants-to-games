@@ -1,0 +1,8 @@
+# Netlify builds the test site from this repo. Set the site's production branch to "live"
+# (Site configuration → Build & deploy → Branches), so pushes to main don't reach testers.
+[build]
+  command = "node tools/build.js"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"

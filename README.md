@@ -66,14 +66,30 @@ proper app that works offline needs the game hosted over `https://`, for example
 
 ## Sharing a test link
 
-To let people play away from your Wi-Fi, put a game-only copy on a web host. Netlify's free plan is enough.
+Testers play a hosted copy on Netlify (free plan), built from the GitHub repo's **`live`** branch. Day-to-day work
+goes to `main` and testers don't see it until it's copied to `live`.
 
-1. In a terminal in the project folder run `node tools/build.js`. It makes a `dist` folder with the game, the
-   approved questions and the advert videos. The question review page, pending and rejected questions, import
-   batches and tests are left out.
-2. The first time: sign in to Netlify, open `https://app.netlify.com/drop` and drag the `dist` folder onto the page.
-   You get a link like `https://something.netlify.app` to send to testers. You can rename it in the site's settings.
-3. To update it later: run the build again, open the site in Netlify, go to **Deploys** and drag `dist` onto the page.
+`tools/build.js` makes the hosted copy in `dist/`: the game, the approved questions and the advert videos. The
+question review page, pending and rejected questions, import batches and tests are left out. `netlify.toml` tells
+Netlify to run it, so you never need to run it yourself (`node tools/build.js` still works locally to check the output).
+
+### Setting it up (once)
+
+1. In Netlify choose **Add new site → Import an existing project → GitHub**, allow access to the
+   `who-wants-to-games` repository and pick it.
+2. Set **Branch to deploy** to `live`. Leave the build command and publish directory as they are; Netlify reads them
+   from `netlify.toml`. Then deploy.
+3. You get a link like `https://something.netlify.app` to send to testers. You can rename it in the site's settings.
+
+### Updating what testers see
+
+Publish any question changes and push your work to `main`, then copy `main` to `live`:
+
+```
+git push origin main:live
+```
+
+Netlify rebuilds the site a minute or two later. The link stays the same.
 
 Each tester's statistics and Top 100 stay on their own device. Because the link is `https://`, adding it to a phone's
 home screen installs it as a proper app. The build asks search engines not to list the site, but anyone with the link
@@ -96,9 +112,8 @@ edition's data; the examples here are from the Celtic edition.
   It plays muted, a Skip button appears after five seconds, and the time it holds the game is given back so it
   doesn't count towards your Top 100 time. The breaks are set in `adverts.breaks` in `data/edition.json` (one file
   for landscape screens and one for phones held upright, and optionally a `url` that tapping the video or the
-  link button opens in a new tab). The videos live in `media/ads/` at the project root;
-  git ignores them because of their size, so copy them in (see `media/ads/README.md`). If a video is missing the
-  game simply carries on.
+  link button opens in a new tab). The videos live in `media/ads/` at the project root (the compressed 720p copies
+  only; see `media/ads/README.md`). If a video is missing the game simply carries on.
 - **50:50:** once per game, removes two wrong answers. It isn't handed back if you play on into a new season.
 - **Seasons:** win the Final and you can start another season as holders, from the stage set by `seasons.restartStage`
   (Celtic: the First Round, five questions). You can keep going until a wrong answer, and you keep the prizes already won.
@@ -184,8 +199,9 @@ editions/
     data/meta/             stages.json, categories.json
     data/questions/        pending / approved / rejected
     data/imports/          question batches as they were first written
-media/ads/                 advert videos played between stages (the .mp4 files are not in git)
+media/ads/                 advert videos played between stages (compressed 720p copies)
 tools/build.js             makes dist/, the game-only copy for a web host (dist/ is not in git)
+netlify.toml               tells Netlify how to build the test site from the live branch
 tests/                     browser unit tests (run against the Celtic data)
 ```
 

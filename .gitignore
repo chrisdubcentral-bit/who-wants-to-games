@@ -6,6 +6,7 @@ desktop.ini
 # Built copies ready to upload (later step)
 dist/
 
-# Advert videos are large and shared between editions: host them, don't commit them
-media/ads/*.mp4
-media/ads/*.webm
+# Advert videos: commit the compressed 720p copies (Netlify builds the test site from git),
+# never the large 1080p masters, which stay in the Marketing project.
+media/ads/*1920x1080*
+media/ads/*1080x1920*

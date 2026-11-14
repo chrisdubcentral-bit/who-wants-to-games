@@ -3,9 +3,8 @@
 Short videos played between stages of the game. Which ones play, and after which stage, is set per edition in
 `editions/<name>/data/edition.json` under `adverts.breaks`.
 
-The `.mp4` files are **not committed to git** (see `.gitignore`), because they're large and change independently of
-the code. After cloning, copy them in from the Marketing project (`Who Wants To Games - Marketing`), or host them
-and point `adverts.breaks` at the hosted URLs.
+The compressed 720p copies **are committed to git**, because Netlify builds the test site from the repo. The large
+1080p masters are not (see `.gitignore`); they stay in the Marketing project (`Who Wants To Games - Marketing`).
 
 Use the compressed 720p copies, not the 1080p masters:
 
