@@ -83,6 +83,16 @@
   color: var(--white);
 }
 .stage-meta { display: flex; flex-wrap: wrap; gap: var(--sp-2); }
+@media (max-width: 640px) {
+  /* Phones: the cups-won badge sits on the right, level with the stage name, instead of on a line of its own */
+  .stage-head { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 4px var(--sp-3); }
+  .stage-head .stage-title { display: contents; }
+  .stage-head .stage-title h1 { grid-row: 1; grid-column: 1; }
+  .stage-head .stage-title .eyebrow { grid-row: 2; grid-column: 1 / -1; }
+  .stage-meta { grid-row: 1; grid-column: 2; flex-direction: column; align-items: flex-end; gap: 6px; }
+  .stage-meta:empty { display: none; }
+  .stage-meta .badge { font-size: 0.62rem; letter-spacing: 0.06em; padding: 3px 8px; }
+}
 
 .question-panel {
   position: relative;
