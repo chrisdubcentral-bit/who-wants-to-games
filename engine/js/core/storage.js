@@ -52,4 +52,5 @@ export const KEYS = {
   boardTokens: 'top100:tokens',      // session: run tokens for the online Top 100
   boardMine: 'top100:mine',          // this device's entries on the online Top 100
   player: 'player',
+  advertTurns: 'adverts:turns',     // which advert plays next when several share a break
 };

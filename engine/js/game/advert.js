@@ -4,18 +4,32 @@
 // The advert plays once the newspaper splash has gone. It's muted (phones only autoplay muted video) and a Skip button
 // appears after skipAfterMs. With a "url", tapping the video or the link button opens it in a new tab, so the game
 // carries on underneath. A missing or broken video never holds the game up: the overlay just closes.
+// Several breaks with the same "after" take turns: one per game, in the order listed (a new season counts as a new game).
 
 import { html, esc } from '../ui/dom.js';
 import { t, ed } from '../core/edition.js';
+import { local, KEYS } from '../core/storage.js';
 
 const MAX_HOLD_MS = 20000;     // the longest an advert can hold the game, even if the video stalls
 const DEFAULT_SKIP_MS = 5000;
 
-/** The break set to play after the given stage, or undefined. */
-export function breakAfter(stageKey) {
+/**
+ * The break to play after the given stage, or undefined. When several breaks share the stage they take turns:
+ * runKey identifies the game, so the same game always gets the same advert and the next game gets the next one.
+ */
+export function breakAfter(stageKey, runKey = null) {
   const breaks = ed('adverts.breaks', []);
   if (!Array.isArray(breaks)) return undefined;
-  return breaks.find((b) => b && b.after === stageKey && (b.landscape || b.portrait));
+  const options = breaks.filter((b) => b && b.after === stageKey && (b.landscape || b.portrait));
+  if (options.length <= 1 || !runKey) return options[0];
+
+  const turns = local.read(KEYS.advertTurns, {}) ?? {};
+  let turn = turns[stageKey];
+  if (!turn || turn.run !== runKey) {
+    turn = { run: runKey, n: turn && Number.isInteger(turn.n) ? turn.n + 1 : 0 };
+    local.write(KEYS.advertTurns, { ...turns, [stageKey]: turn });
+  }
+  return options[turn.n % options.length];
 }
 
 /** The landscape file on a wide screen, the portrait one on a phone held upright (or whichever one is set). */

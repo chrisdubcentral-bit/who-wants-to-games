@@ -7,6 +7,9 @@ import { playCheer } from '../../core/sound.js';
 import { t, ed, prizeCount } from '../../core/edition.js';
 import { breakAfter, preloadAdvert, showAdvert } from '../advert.js';
 
+/** Identifies one game for advert turns: each new game, and each new season, gets the next advert. */
+const advertRun = (state) => `${state.sessionId}:${state.season ?? 1}`;
+
 export function render(root, app) {
   const { ctrl, meta } = app;
 
@@ -57,7 +60,7 @@ export function render(root, app) {
   /** An advert break set for the stage just won (edition.json "adverts.breaks") plays once the newspaper has gone.
       The time it holds the game is given back, so it doesn't count against the player's Top 100 time. */
   function advertAfter(state) {
-    const brk = breakAfter(state.stages[state.stageIndex - 1].key);
+    const brk = breakAfter(state.stages[state.stageIndex - 1].key, advertRun(state));
     if (!brk) return null;
     return () => {
       advert = showAdvert(brk, preloaded);
@@ -111,7 +114,7 @@ export function render(root, app) {
     ref('cat').textContent = meta.categoryLabel(q.category);
     ref('question').textContent = q.question;
     // An advert after this stage? Start loading it now so it plays without a pause.
-    const brk = breakAfter(stage.key);
+    const brk = breakAfter(stage.key, advertRun(state));
     if (brk && preloaded?.dataset.after !== stage.key) { preloaded?.remove(); preloaded = preloadAdvert(brk); }
     ref('answers').innerHTML = q.options.map((opt, i) => `
       <button type="button" class="answer" data-index="${i}" aria-label="${LETTERS[i]}: ${esc(opt)}">
