@@ -332,6 +332,7 @@
 .board-entry-done .eyebrow { grid-column: 1 / -1; }
 .board-entry-done strong { color: var(--gold-bright); }
 .board-miss { font-size: var(--fs-sm); }
+.board-note { width: min(100%, 760px); display: grid; gap: var(--sp-2); justify-items: start; text-align: left; }
 
 .board-rules { font-size: var(--fs-sm); max-width: 640px; }
 .board-wrap { padding: var(--sp-2) var(--sp-4); overflow-x: auto; }

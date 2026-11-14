@@ -6,3 +6,7 @@
 
 [build.environment]
   NODE_VERSION = "22"
+
+# Online Top 100: netlify/functions/top100.mjs, with its tables in netlify/database/migrations.
+[functions]
+  node_bundler = "esbuild"

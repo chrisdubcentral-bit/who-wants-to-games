@@ -7,7 +7,7 @@ import { mount, on, esc } from '../ui/dom.js';
 import { openModal } from '../ui/components/modal.js';
 import { createController, readSnapshot, ACTIVE } from './controller.js';
 import { NotEnoughQuestionsError } from './question-picker.js';
-import { applyBoardReset } from './leaderboard.js';
+import { clearLocalBoard, startRun } from './leaderboard.js';
 import { t } from '../core/edition.js';
 import * as home from './screens/home.js';
 import * as instructions from './screens/instructions.js';
@@ -37,7 +37,13 @@ function renderRoute() {
   window.scrollTo({ top: 0 });
 }
 
-function tryStart(begin = () => app.ctrl.start()) {
+/** A new game: also asks the online Top 100 for a run token in the background. */
+function newGame() {
+  app.ctrl.start();
+  startRun(app.ctrl.state.sessionId);
+}
+
+function tryStart(begin = newGame) {
   try {
     begin();
     return true;
@@ -72,7 +78,7 @@ function showBootError(err) {
 }
 
 async function boot() {
-  applyBoardReset();
+  clearLocalBoard();
   let meta, loaded;
   try {
     meta = await loadMeta();

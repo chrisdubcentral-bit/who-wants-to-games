@@ -10,3 +10,7 @@ dist/
 # never the large 1080p masters, which stay in the Marketing project.
 media/ads/*1920x1080*
 media/ads/*1080x1920*
+
+# Online Top 100 (Netlify Functions + Database)
+node_modules/
+.netlify/

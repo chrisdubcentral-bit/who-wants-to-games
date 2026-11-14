@@ -3,6 +3,7 @@
 //
 // The folder layout is kept, so the pages' relative paths (../../engine, ../../media/ads) still work.
 // Left out: the question review page, pending and rejected questions, import batches, tests and docs.
+// The online Top 100 isn't in dist/: Netlify deploys it from netlify/functions and netlify/database.
 
 const fs = require('node:fs');
 const path = require('node:path');
@@ -87,6 +88,14 @@ function checkAdverts(id) {
   }
 }
 
+/** Warns about editions the online Top 100 doesn't know about yet (server/top100/editions.js). */
+function checkTop100(ids) {
+  const src = fs.readFileSync(path.join(ROOT, 'server/top100/editions.js'), 'utf8');
+  for (const id of ids) {
+    if (!new RegExp(`^\\s*${id}:`, 'm').test(src)) warnings.push(`${id}: not in server/top100/editions.js, so its Top 100 won't work online`);
+  }
+}
+
 function esc(text) {
   return String(text).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 }
@@ -155,6 +164,9 @@ function build() {
 
   const editions = ids.map(copyEdition);
   ids.forEach(checkAdverts);
+  checkTop100(ids);
+  // Top 100 moderation page (password-protected by TOP100_ADMIN_KEY, not linked from the game).
+  copy(path.join(ROOT, 'admin/top100.html'), path.join(DIST, 'admin/top100.html'));
   writeLandingPage(editions);
 
   // Netlify reads this file: keep the test site out of search engines.

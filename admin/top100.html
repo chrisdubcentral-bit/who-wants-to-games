@@ -1,0 +1,169 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Top 100 Admin</title>
+  <!-- Moderation for the online Top 100. Published at /admin/top100.html by tools/build.js.
+       Needs the TOP100_ADMIN_KEY set in Netlify. Not linked from the game. -->
+  <style>
+    :root { --bg: #0b0f0d; --panel: #141b17; --line: #26302a; --text: #e8ece9; --muted: #93a098; --gold: #e0c27a; --bad: #f3a3a3; --warn: #f0c674; }
+    * { box-sizing: border-box; }
+    body { margin: 0; padding: 24px 16px 48px; background: var(--bg); color: var(--text); font: 15px/1.5 "Segoe UI", system-ui, sans-serif; }
+    main { max-width: 980px; margin: 0 auto; display: grid; gap: 16px; }
+    h1 { margin: 0; font-size: 1.4rem; }
+    p { margin: 0; }
+    .muted { color: var(--muted); }
+    .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 16px; }
+    form { display: flex; flex-wrap: wrap; gap: 8px; align-items: end; }
+    label { display: grid; gap: 4px; font-size: .85rem; color: var(--muted); }
+    input, select { background: var(--bg); color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font: inherit; min-width: 0; }
+    button { background: var(--gold); color: var(--bg); border: 0; border-radius: 8px; padding: 8px 14px; font: inherit; font-weight: 600; cursor: pointer; }
+    button.ghost { background: transparent; color: var(--text); border: 1px solid var(--line); }
+    button:disabled { opacity: .5; cursor: default; }
+    .filters { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+    th, td { text-align: left; padding: 8px; border-bottom: 1px solid var(--line); white-space: nowrap; }
+    th { color: var(--muted); font-weight: 600; font-size: .8rem; text-transform: uppercase; letter-spacing: .05em; }
+    td.who { white-space: normal; min-width: 160px; }
+    td.who small { display: block; color: var(--muted); }
+    tr.is-hidden td { opacity: .55; }
+    .tag { display: inline-block; padding: 1px 8px; border-radius: 999px; font-size: .75rem; font-weight: 600; }
+    .tag.hidden { background: rgba(243,163,163,.15); color: var(--bad); }
+    .tag.blocked { background: rgba(240,198,116,.15); color: var(--warn); }
+    .tag.live { background: rgba(143,224,181,.12); color: #8fe0b5; }
+    #status { min-height: 1.5em; }
+    #status.error { color: var(--bad); }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Top 100 Admin</h1>
+      <p class="muted">Hide entries with offensive names or towns. Hidden entries stay in the database and can be shown again.
+        To block a word for good, add it to <code>moderation/banned-words.json</code> and deploy.</p>
+    </header>
+
+    <form class="panel" id="login">
+      <label>Admin key <input type="password" name="key" autocomplete="current-password" required size="32"></label>
+      <label>Edition <select name="edition"><option value="celtic">Celtic</option></select></label>
+      <button type="submit">Load</button>
+    </form>
+
+    <p id="status" role="status"></p>
+
+    <section class="panel" id="list" hidden>
+      <div class="filters">
+        <label style="display:flex;gap:6px;align-items:center;color:var(--text)"><input type="checkbox" id="only-problems"> Only hidden or blocked</label>
+        <input type="search" id="search" placeholder="Search names and towns" aria-label="Search names and towns">
+        <button class="ghost" type="button" id="refresh">Refresh</button>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead><tr><th>#</th><th>Player</th><th>Status</th><th>Cups</th><th>Rounds</th><th>Time</th><th>Updated</th><th></th></tr></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const $ = (s) => document.querySelector(s);
+    const status = $('#status');
+    const esc = (t) => String(t ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+    const REASONS = { word: 'banned word', link: 'link', characters: 'symbols' };
+    let entries = [];
+    let key = '';
+    let edition = 'celtic';
+
+    try { key = sessionStorage.getItem('top100-admin-key') || ''; } catch {}
+    if (key) $('#login').elements.key.value = key;
+
+    function say(text, isError = false) { status.textContent = text; status.className = isError ? 'error' : ''; }
+
+    async function api(method, body) {
+      const res = await fetch('/api/top100/admin' + (method === 'GET' ? `?edition=${encodeURIComponent(edition)}` : ''), {
+        method,
+        headers: { 'x-admin-key': key, ...(body ? { 'content-type': 'application/json' } : {}) },
+        body: body ? JSON.stringify(body) : undefined,
+        cache: 'no-store',
+      });
+      let data = null;
+      try { data = await res.json(); } catch {}
+      if (!res.ok || !data?.ok) throw new Error(data?.message || `Request failed (${res.status})`);
+      return data;
+    }
+
+    const time = (ms) => {
+      if (!Number.isFinite(ms)) return '—';
+      const s = Math.round(ms / 1000), h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), r = s % 60;
+      return h ? `${h}:${String(m).padStart(2, '0')}:${String(r).padStart(2, '0')}` : `${m}:${String(r).padStart(2, '0')}`;
+    };
+
+    function render() {
+      const q = $('#search').value.trim().toLowerCase();
+      const only = $('#only-problems').checked;
+      let livePos = 0;
+      const rows = entries.map((e) => {
+        const live = !e.hidden && !e.blocked;
+        const pos = live ? ++livePos : null;
+        return { e, pos };
+      }).filter(({ e }) => (!only || e.hidden || e.blocked) && (!q || `${e.name} ${e.town}`.toLowerCase().includes(q)));
+
+      $('#list tbody').innerHTML = rows.map(({ e, pos }) => `
+        <tr class="${e.hidden ? 'is-hidden' : ''}">
+          <td>${pos != null && pos <= 100 ? pos : '—'}</td>
+          <td class="who"><strong>${esc(e.name)}</strong><small>${esc(e.town)}</small></td>
+          <td>${e.hidden ? '<span class="tag hidden">Hidden</span> ' : ''}${e.blocked ? `<span class="tag blocked">Blocked: ${esc(REASONS[e.blocked] || e.blocked)}</span>` : ''}${!e.hidden && !e.blocked ? '<span class="tag live">On board</span>' : ''}</td>
+          <td>${e.cups}</td>
+          <td>${e.roundsPlayed}</td>
+          <td>${time(e.durationMs)}</td>
+          <td>${esc(new Date(e.date).toLocaleString('en-GB', { dateStyle: 'short', timeStyle: 'short' }))}</td>
+          <td><button class="${e.hidden ? '' : 'ghost'}" data-id="${e.id}" data-hide="${!e.hidden}">${e.hidden ? 'Show' : 'Hide'}</button></td>
+        </tr>`).join('') || '<tr><td colspan="8" class="muted">No entries.</td></tr>';
+    }
+
+    async function load() {
+      say('Loading…');
+      try {
+        const data = await api('GET');
+        entries = data.entries;
+        $('#list').hidden = false;
+        const hidden = entries.filter((e) => e.hidden).length;
+        const blocked = entries.filter((e) => e.blocked).length;
+        say(`${entries.length} entries on board "${data.board}" · ${hidden} hidden · ${blocked} blocked by the word list`);
+        render();
+      } catch (err) {
+        say(err.message, true);
+      }
+    }
+
+    $('#login').addEventListener('submit', (e) => {
+      e.preventDefault();
+      key = e.target.elements.key.value.trim();
+      edition = e.target.elements.edition.value;
+      try { sessionStorage.setItem('top100-admin-key', key); } catch {}
+      load();
+    });
+    $('#refresh').addEventListener('click', load);
+    $('#search').addEventListener('input', render);
+    $('#only-problems').addEventListener('change', render);
+    $('#list tbody').addEventListener('click', async (e) => {
+      const btn = e.target.closest('button[data-id]');
+      if (!btn) return;
+      btn.disabled = true;
+      try {
+        await api('POST', { id: Number(btn.dataset.id), hidden: btn.dataset.hide === 'true' });
+        const entry = entries.find((x) => x.id === Number(btn.dataset.id));
+        entry.hidden = btn.dataset.hide === 'true';
+        render();
+      } catch (err) {
+        say(err.message, true);
+        btn.disabled = false;
+      }
+    });
+  </script>
+</body>
+</html>

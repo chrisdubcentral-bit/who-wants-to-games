@@ -29,6 +29,10 @@ by double-clicking. Run it from a local web server instead:
 | `editions/<name>/admin-review.html` | An edition's question review (approve, reject, edit, import, publish) |
 | `tests/test-runner.html` | Unit tests for the game rules, validation and picker |
 
+Live Server has no online Top 100 behind it, so the Top 100 shows "Couldn't reach the Top 100" there. To try it
+locally, run `npm install` once and then `npm run dev`, and open `http://localhost:8888`. That serves the same
+files plus a working Top 100 kept in memory (empty each time it starts). See [Online Top 100](#online-top-100).
+
 ## Playing on a phone
 
 The game is one responsive page: on a phone the answers stack in a single column, the tournament
@@ -54,7 +58,7 @@ as "iPhone 14" or "Pixel 7". Refresh after switching so the layout and fonts set
    get a prompt asking to allow it on private networks; otherwise allow **Node.js** or **Code** through the
    firewall for private networks.
 
-The phone and the PC each keep their own statistics and Top 100, because those are stored in the browser.
+The phone and the PC each keep their own statistics, because those are stored in the browser.
 
 ### Adding it to the home screen
 
@@ -91,9 +95,66 @@ git push origin main:live
 
 Netlify rebuilds the site a minute or two later. The link stays the same.
 
-Each tester's statistics and Top 100 stay on their own device. Because the link is `https://`, adding it to a phone's
+Each tester's statistics stay on their own device; the Top 100 is shared by everyone. Because the link is `https://`, adding it to a phone's
 home screen installs it as a proper app. The build asks search engines not to list the site, but anyone with the link
 can play, and the approved questions and answers can be read from the page's files, as with any browser game.
+
+## Online Top 100
+
+One Top 100 per edition, shared by every player. It runs on the same Netlify site:
+
+- `netlify/functions/top100.mjs`: the API the game calls (`/api/top100`). The logic is in `server/top100/`.
+- `netlify/database/migrations/`: the database tables. Netlify Database creates the database and applies these on
+  deploy. Never edit one that has been deployed; add a new numbered file.
+- `moderation/banned-words.json`: the word filter (see below).
+- `admin/top100.html`: moderation page, published at `https://<your site>/admin/top100.html`.
+
+### Setting it up (once)
+
+1. In Netlify open the site, go to **Data & Storage → Database** and create the database (or just deploy: Netlify
+   creates it when it sees `netlify/database/migrations`). Netlify sets `NETLIFY_DB_URL` for you.
+2. In **Site configuration → Environment variables**, add:
+   - `TOP100_ADMIN_KEY`: the password for the admin page. Make it long and random.
+   - `TOP100_IP_SALT`: any random text. It makes the stored IP hashes impossible to reverse.
+3. Deploy (`git push origin main:live`). The first deploy applies the migration and creates the tables.
+
+### How it stops cheating and abuse
+
+- **Run tokens:** when a game starts, the game asks the server for a token, and the server notes the time. An entry
+  needs a token, and the run must have lasted at least 3 seconds per question answered. A game started without a
+  connection can't be entered (the player is told why).
+- **Plausible results only:** the server checks that the cups, rounds won, stage reached, rounds played and time all fit
+  the edition's tournament, and works out the stage name itself.
+- **Rate limits:** 120 new games an hour per connection, and 20 updates per run. IP addresses are only stored as a
+  salted hash.
+- **Limits of this:** the game runs in the browser, so someone determined could still script a perfect run in a
+  believable time. Stopping that would need the server to deal and mark every question.
+
+### Word filter
+
+`moderation/banned-words.json` lists words and phrases that can't be used in a name or town. Its `_help` section explains
+the lists: `words` (whole words only, so "Scunthorpe" is fine), `anywhere` (blocked inside other words too), and
+extra lists per edition under `editions` (rival clubs and sectarian terms for Celtic). The checker ignores capitals and
+accents and sees through tricks like `f.u.c.k`, `fuuuck`, `sh1t` and look-alike letters. Links, emoji and symbols
+are refused too.
+
+The board is re-checked every time it loads, so after adding a word and deploying, any existing entry that uses it
+disappears straight away. It stays in the database and the admin page shows it as **Blocked**.
+
+### Admin page
+
+Open `/admin/top100.html` on the site and enter `TOP100_ADMIN_KEY`. It lists every entry. **Hide** takes one off the
+board (and **Show** puts it back). Entries caught by the word list are marked **Blocked**.
+
+### Starting a fresh board
+
+Change `BOARD` at the top of `server/top100/handlers.js` (e.g. to `"2027"`) and deploy. The old entries stay in the
+database under the old name.
+
+### Tests
+
+`npm run test:server` runs the server tests: the word filter, result checks (using games played through the real
+engine) and the API with an in-memory store.
 
 ## How the game works
 
@@ -122,9 +183,8 @@ edition's data; the examples here are from the Celtic edition.
 - Statistics are saved in the browser (localStorage).
 - **Top 100:** anyone who finishes a game can enter their name and city or town. It ranks by most prizes won,
   then the furthest round reached, then players who didn't use the 50:50, then the fastest time. A champion who
-  plays on keeps one row, which is updated as they win more.
-  The board is stored in the browser, so it only shows games played on that device. An online board would need a
-  hosted database; `engine/js/game/leaderboard.js` keeps the ranking rules separate from storage to make that swap easy.
+  plays on keeps one row, which is updated as they win more. The board is online and shared by all players (see
+  [Online Top 100](#online-top-100)). The ranking rules are in `engine/js/game/ranking.js`, used by the game and the server.
 
 ## Reviewing questions
 
@@ -200,9 +260,15 @@ editions/
     data/questions/        pending / approved / rejected
     data/imports/          question batches as they were first written
 media/ads/                 advert videos played between stages (compressed 720p copies)
+netlify/functions/         the online Top 100 API (Netlify Function)
+netlify/database/          the Top 100's database tables (migrations)
+server/top100/             the Top 100's checks, word filter and storage, used by the function
+moderation/                banned-words.json, the Top 100 word filter
+admin/top100.html          Top 100 moderation page (published at /admin/top100.html)
 tools/build.js             makes dist/, the game-only copy for a web host (dist/ is not in git)
+tools/dev-server.mjs       local server with a working Top 100 (npm run dev)
 netlify.toml               tells Netlify how to build the test site from the live branch
-tests/                     browser unit tests (run against the Celtic data)
+tests/                     browser unit tests (run against the Celtic data); tests/server/ for the Top 100 server
 ```
 
 ## Edition wording
@@ -221,7 +287,9 @@ admin changes separate. Every edition needs its own prefix. Publish also remembe
 
 Copy `editions/celtic` to `editions/<name>`, then change `data/edition.json` (including its `id`, which must match
 the folder name), the stages, categories and questions, `theme.css`, the images, the titles, and the storage prefix.
-Add a line for it to the root `index.html` and to the [Editions](#editions) table above.
+Add a line for it to the root `index.html` and to the [Editions](#editions) table above. For its online Top 100,
+add it to `server/top100/editions.js` (the build warns if you forget) and, if needed, give it its own word list under
+`editions` in `moderation/banned-words.json`.
 
 ## Adding to it later
 

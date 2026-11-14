@@ -1,133 +1,134 @@
-// Top 100 leaderboard. Kept in this browser's localStorage.
-// The ranking rules are pure functions so they can be tested and reused by an online source later.
+// Top 100 leaderboard: one board shared by every player, kept online (netlify/functions/top100.mjs).
+// The ranking rules live in ranking.js, which the server uses too.
+//
+// How a run gets onto the board:
+//   1. When a new game starts, startRun() asks the server for a run token. The server notes the time,
+//      so it can check later that the run took as long as it claims.
+//   2. When the run is over, submitEntry() sends the name, town and result with that token.
+//   3. The server checks the entry (word filter, plausible result and time) and returns the new board.
+// A game that started without a connection has no token, so it can't be added.
 
-import { local, KEYS } from '../core/storage.js';
-import { STATUS, FINISHED } from './game-engine.js';
+import { local, session, KEYS } from '../core/storage.js';
+import { APP } from '../core/config.js';
+import { cleanText, compareEntries, LIMIT, NAME_MAX, TOWN_MAX } from './ranking.js';
 
-export const LIMIT = 100;
-export const NAME_MAX = 20;
-export const TOWN_MAX = 30;
+export * from './ranking.js';
 
-/** Trims, removes control characters, collapses spaces and caps the length. */
-export function cleanText(value, max) {
-  return String(value ?? '').replace(/[\u0000-\u001f\u007f]/g, ' ').replace(/\s+/g, ' ').trim().slice(0, max);
+const API = '/api/top100';
+const TIMEOUT_MS = 10000;
+
+/* ---------- Server calls ---------- */
+
+async function call(path, { method = 'GET', body } = {}) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), TIMEOUT_MS);
+  try {
+    const res = await fetch(API + path, {
+      method,
+      headers: body ? { 'content-type': 'application/json' } : undefined,
+      body: body ? JSON.stringify(body) : undefined,
+      cache: 'no-store',
+      signal: ctrl.signal,
+    });
+    let data = null;
+    try { data = await res.json(); } catch { /* not JSON, e.g. no server behind Live Server */ }
+    if (!data || typeof data !== 'object') return { ok: false, offline: true };
+    return { ...data, ok: res.ok && data.ok !== false, status: res.status };
+  } catch {
+    return { ok: false, offline: true };
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
-const timeOf = (e) => (Number.isFinite(e.durationMs) ? e.durationMs : Number.MAX_SAFE_INTEGER);
+const sortBoard = (board) => (Array.isArray(board) ? board.filter((e) => e && e.name).sort(compareEntries).slice(0, LIMIT) : []);
 
-/** European Cups won in the run. Entries saved before seasons existed were all one-time winners. */
-export function cupsOf(e) {
-  if (Number.isFinite(e.cups)) return e.cups;
-  return e.result === STATUS.WON ? 1 : 0;
+/* ---------- Board ---------- */
+
+let lastBoard = null;
+
+/** The board from the last successful fetch, or null. Used where waiting for the network isn't possible. */
+export const cachedBoard = () => lastBoard;
+
+/** Fetches the board. Returns { ok: true, board } or { ok: false, offline }. */
+export async function fetchBoard() {
+  const r = await call(`?edition=${encodeURIComponent(APP.club)}`);
+  if (!r.ok) return { ok: false, offline: !!r.offline };
+  lastBoard = sortBoard(r.board);
+  return { ok: true, board: lastBoard };
 }
 
-/** Rounds won over the whole run, which also orders players by how far they got in their last season. */
-const roundsOf = (e) => (Number.isFinite(e.correctCount) ? e.correctCount : 0);
+/* ---------- Runs ---------- */
 
-/** Questions answered in the run. Older entries didn't store it, so work it out: wins plus the one that was lost. */
-export function roundsPlayedOf(e) {
-  if (Number.isFinite(e.roundsPlayed)) return e.roundsPlayed;
-  return roundsOf(e) + (e.result === STATUS.ELIMINATED ? 1 : 0);
+const readTokens = () => {
+  const t = session.read(KEYS.boardTokens, {});
+  return t && typeof t === 'object' ? t : {};
+};
+
+const pending = new Map();
+
+/** Asks for a run token for a game that has just started. Fire and forget: the game doesn't wait for it. */
+export function startRun(sessionId) {
+  if (!sessionId) return;
+  const request = call('/start', { method: 'POST', body: { edition: APP.club } }).then((r) => {
+    if (!r.ok || typeof r.token !== 'string') return;
+    // Keep only a few recent runs; a page refresh mid-game still finds its token.
+    const kept = Object.entries(readTokens()).slice(-4);
+    session.write(KEYS.boardTokens, Object.fromEntries([...kept, [sessionId, r.token]]));
+  }).finally(() => pending.delete(sessionId));
+  pending.set(sessionId, request);
 }
 
-/** Most European Cups, then furthest round, then no 50:50, then fastest, then whoever got there first. */
-export function compareEntries(a, b) {
-  return (cupsOf(b) - cupsOf(a))
-    || (roundsOf(b) - roundsOf(a))
-    || (Number(a.lifelineUsed) - Number(b.lifelineUsed))
-    || (timeOf(a) - timeOf(b))
-    || String(a.date).localeCompare(String(b.date));
+/** The run's token, waiting for the request if a very short game finished before it came back. */
+async function runToken(sessionId) {
+  await pending.get(sessionId);
+  return readTokens()[sessionId] ?? null;
 }
 
-/** Any finished game can join the board. One that was walked away from only counts if a cup was won first. */
-export function isEligible(summary) {
-  if (!summary || !FINISHED.includes(summary.result)) return false;
-  return !summary.forfeited || cupsOf(summary) > 0;
+export const hasRunToken = async (sessionId) => !!(await runToken(sessionId));
+
+/** This device's entry on the board for a run: { id, name, town }, or null. */
+export function myEntry(sessionId) {
+  const mine = local.read(KEYS.boardMine, {});
+  return (mine && typeof mine === 'object' && mine[sessionId]) || null;
 }
 
-export function entryFromSummary(summary, { name, town, sessionId, date = new Date().toISOString() }) {
-  return {
-    name: cleanText(name, NAME_MAX),
-    town: cleanText(town, TOWN_MAX),
-    sessionId: sessionId ?? null,
-    date,
-    result: summary.result,
-    cups: cupsOf(summary),
-    season: summary.season ?? 1,
-    stageKey: summary.stageKey ?? null,
-    stageReachedIndex: summary.stageReachedIndex,
-    stageReachedLabel: summary.stageReachedLabel,
-    correctCount: summary.correctCount,
-    roundsPlayed: summary.roundsPlayed,
-    lifelineUsed: !!summary.lifelineUsed,
-    durationMs: Number.isFinite(summary.durationMs) ? summary.durationMs : null,
-  };
-}
-
-/** 1-based position the entry would take, or null if it wouldn't make the board. */
-export function prospectiveRank(board, entry) {
-  const ahead = board.filter((e) => compareEntries(e, entry) <= 0).length;
-  return ahead < LIMIT ? ahead + 1 : null;
-}
-
-/** Returns the new board (sorted, capped) and the entry's 1-based rank (null if it fell off). */
-export function insertEntry(board, entry) {
-  const next = [...board, entry].sort(compareEntries).slice(0, LIMIT);
-  const i = next.indexOf(entry);
-  return { board: next, rank: i === -1 ? null : i + 1 };
+function rememberMine(sessionId, value) {
+  const mine = local.read(KEYS.boardMine, {});
+  const kept = Object.entries(mine && typeof mine === 'object' ? mine : {}).slice(-19);
+  local.write(KEYS.boardMine, Object.fromEntries([...kept, [sessionId, value]]));
 }
 
 /**
- * Adds the entry, or updates the one the same run already has (a champion who carried on).
- * The earlier entry stays if it ranks at least as high, so playing on can never cost a place.
+ * Adds or updates the run's entry.
+ * Returns { ok: true, rank, id, board } or { ok: false, error, message }.
+ * error is 'name' (word filter), 'no-run' (no token), 'offline', or another server code.
  */
-export function upsertEntry(board, entry) {
-  const old = entry.sessionId ? board.find((e) => e.sessionId === entry.sessionId) : null;
-  if (old && compareEntries(old, entry) <= 0) return { board, rank: board.indexOf(old) + 1, changed: false };
-  return { ...insertEntry(board.filter((e) => e !== old), entry), changed: true };
+export async function submitEntry(entry, sessionId) {
+  const token = await runToken(sessionId);
+  if (!token) return { ok: false, error: 'no-run' };
+  const r = await call('', { method: 'POST', body: { edition: APP.club, token, entry } });
+  if (!r.ok) return { ok: false, error: r.offline ? 'offline' : (r.error || 'failed'), message: r.message, field: r.field };
+  lastBoard = sortBoard(r.board);
+  if (r.id != null) rememberMine(sessionId, { id: r.id, name: entry.name, town: entry.town });
+  local.write(KEYS.player, { name: entry.name, town: entry.town });
+  return { ok: true, rank: r.rank ?? null, id: r.id ?? null, board: lastBoard };
 }
 
-export function rankOfSession(board, sessionId) {
-  if (!sessionId) return null;
-  const i = board.findIndex((e) => e.sessionId === sessionId);
-  return i === -1 ? null : i + 1;
-}
-
-const isValidEntry = (e) => e && typeof e === 'object'
-  && typeof e.name === 'string' && e.name && typeof e.town === 'string' && e.town
-  && FINISHED.includes(e.result);
-
-/* ---------- Storage ---------- */
-
-// Change this to clear the Top 100 on every device the next time it opens the game (once per device).
-const BOARD_RESET = '2026-11-12';
-
-/** Clears this device's board if it hasn't had the current reset yet. */
-export function applyBoardReset() {
-  if (local.read(KEYS.boardReset, null) === BOARD_RESET) return false;
-  local.remove(KEYS.leaderboard);
-  local.write(KEYS.boardReset, BOARD_RESET);
-  return true;
-}
-
-export function readBoard() {
-  const raw = local.read(KEYS.leaderboard, []);
-  return Array.isArray(raw) ? raw.filter(isValidEntry).sort(compareEntries).slice(0, LIMIT) : [];
-}
-
-/** Saves or updates the run's entry and returns { rank, saved }. */
-export function saveEntry(entry) {
-  const { board, rank, changed } = upsertEntry(readBoard(), entry);
-  if (!changed) return { rank, saved: true };
-  const saved = local.write(KEYS.leaderboard, board);
-  if (saved) local.write(KEYS.player, { name: entry.name, town: entry.town });
-  return { rank, saved };
-}
+/* ---------- Player ---------- */
 
 export function readPlayer() {
   const p = local.read(KEYS.player, null);
   return { name: cleanText(p?.name, NAME_MAX), town: cleanText(p?.town, TOWN_MAX) };
 }
+
+/** Clears the old per-device board left by earlier versions of the game. */
+export function clearLocalBoard() {
+  local.remove(KEYS.leaderboard);
+  local.remove(KEYS.boardReset);
+}
+
+/* ---------- Formatting ---------- */
 
 /** 4:05, or 1:02:09 for an hour or more. */
 export function formatDuration(ms) {

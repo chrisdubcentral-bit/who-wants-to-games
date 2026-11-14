@@ -1,0 +1,40 @@
+{
+  "_help": [
+    "Words and phrases that can't be used in a Top 100 name or town. Lower case, one per line.",
+    "The checker ignores capitals and accents, sees through common tricks (f.u.c.k, fuuuck, sh1t, $hit,",
+    "look-alike letters from other alphabets) and also catches a plural 's' on the end.",
+    "",
+    "words:    blocked as a whole word only, so 'cunt' doesn't block Scunthorpe. Use this for most entries.",
+    "anywhere: blocked even inside another word, e.g. 'fuck' also blocks 'fuckface'.",
+    "          Only put a word here if no real name or place contains it.",
+    "editions: extra 'words' and 'anywhere' lists for one edition only (rival clubs, sectarian terms).",
+    "",
+    "After changing this file, commit and deploy. The board is re-checked every time it loads, so",
+    "existing entries that use a newly banned word disappear straight away (they stay in the database",
+    "and show as 'blocked' on the Top 100 admin page)."
+  ],
+
+  "anywhere": [
+    "fuck", "nigger", "nigga", "faggot", "motherfucker", "wanker", "kkk"
+  ],
+
+  "words": [
+    "shit", "shite", "cunt", "twat", "bastard", "bitch", "prick", "cock", "bellend", "knob", "knobhead",
+    "wank", "tosser", "arse", "arsehole", "asshole", "pussy", "slut", "whore", "fanny", "minge", "piss",
+    "rape", "rapist", "nonce", "paedo", "pedo", "paedophile", "pedophile",
+    "nazi", "hitler", "heil", "sieg heil", "1488", "88",
+    "fag", "paki", "chink", "coon", "wog", "spic", "kike", "gook", "pikey", "gyppo", "tranny",
+    "retard", "spastic", "spaz", "mong",
+    "terrorist"
+  ],
+
+  "editions": {
+    "celtic": {
+      "words": [
+        "fenian", "taig", "papist", "bead rattler", "beadrattler", "famine", "ftp", "ftq",
+        "1690", "no surrender", "billy boys", "uvf", "uda", "lvf",
+        "hun", "huns", "sevco", "rangers", "gers", "teddy bears"
+      ]
+    }
+  }
+}

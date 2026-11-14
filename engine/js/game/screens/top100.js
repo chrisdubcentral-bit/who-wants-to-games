@@ -1,5 +1,5 @@
 import { mount, esc } from '../../ui/dom.js';
-import { readBoard, formatDuration, cupsOf, roundsPlayedOf, LIMIT } from '../leaderboard.js';
+import { fetchBoard, cachedBoard, myEntry, formatDuration, cupsOf, roundsPlayedOf, LIMIT } from '../leaderboard.js';
 import { STATUS } from '../game-engine.js';
 import { formatDate } from '../../core/utils.js';
 import { t, ed, prizeCount } from '../../core/edition.js';
@@ -20,20 +20,16 @@ function roundCell(e, meta) {
   return `<span class="reached">${esc(stage?.label ?? e.stageReachedLabel ?? '—')}</span>`;
 }
 
-export function render(root, app) {
-  const board = readBoard();
-  const youSession = app.lastBoardEntry ?? null;
-  const state = app.ctrl.state;
-  const canCarryOn = state.status === STATUS.WON;
-
+/** The board table, or a message when it's empty. youId highlights this player's entry. */
+function boardHtml(board, youId, meta) {
   const rows = board.map((e, i) => {
     const pos = i + 1;
     return `
-      <tr class="${e.sessionId && e.sessionId === youSession ? 'is-you' : ''}">
+      <tr class="${youId != null && e.id === youId ? 'is-you' : ''}">
         <td class="pos"><span class="pos-badge ${pos <= 3 ? `pos-${pos}` : ''}">${pos}</span></td>
         <td class="who"><strong>${esc(e.name)}</strong><span class="town">${esc(e.town)}</span></td>
         <td class="num">${cupsCell(e)}</td>
-        <td class="num col-round">${roundCell(e, app.meta)}</td>
+        <td class="num col-round">${roundCell(e, meta)}</td>
         <td class="num">${roundsPlayedOf(e)}</td>
         <td class="num">${e.lifelineUsed ? 'Used' : '<span class="clean">Not used</span>'}</td>
         <td class="num">${esc(formatDuration(e.durationMs))}</td>
@@ -41,7 +37,7 @@ export function render(root, app) {
       </tr>`;
   }).join('');
 
-  const table = board.length ? `
+  return board.length ? `
     <div class="card board-wrap">
       <table class="board">
         <caption class="sr-only">Top ${LIMIT} leaderboard</caption>
@@ -64,6 +60,20 @@ export function render(root, app) {
         <p>No one is on the board yet.</p>
         <p class="muted">Finish a ${esc(ed('vars.game'))} and you can add your name to the Top ${LIMIT}.</p>
       </div>`;
+}
+
+const statusCard = (text, retry = false) => `
+  <div class="card card-pad board-empty">
+    <p class="muted">${esc(text)}</p>
+    ${retry ? '<div><button class="btn btn-sm" type="button" data-action="board-retry">Try Again</button></div>' : ''}
+  </div>`;
+
+export function render(root, app) {
+  const state = app.ctrl.state;
+  const canCarryOn = state.status === STATUS.WON;
+  const youId = app.lastBoardEntry ?? myEntry(state.sessionId)?.id ?? null;
+  // Show the board from the last visit straight away (e.g. just after adding a name), then refresh it.
+  const cached = cachedBoard();
 
   mount(root, `
     <section class="screen screen-enter">
@@ -72,7 +82,7 @@ export function render(root, app) {
         <h1>Top ${LIMIT}</h1>
         <p class="muted board-rules">${esc(t('top100.rules'))}</p>
       </header>
-      ${table}
+      <div class="board-slot">${cached ? boardHtml(cached, youId, app.meta) : statusCard('Loading the board…')}</div>
       <div class="page-actions">
         ${canCarryOn
           ? `<button class="btn btn-primary" data-action="season">Start Season ${(state.season ?? 1) + 1}</button>`
@@ -83,4 +93,25 @@ export function render(root, app) {
 
   root.querySelector('[data-action="season"]')?.addEventListener('click', () => app.nextSeason());
   root.querySelector('.is-you')?.scrollIntoView({ block: 'center' });
+
+  const slot = root.querySelector('.board-slot');
+  const load = async () => {
+    const r = await fetchBoard();
+    if (!slot.isConnected) return;
+    if (!r.ok) {
+      // Keep what's already showing if there is one; otherwise explain.
+      if (!cached) {
+        slot.innerHTML = statusCard(`Couldn't load the Top ${LIMIT}. Check your connection and try again.`, true);
+        slot.querySelector('[data-action="board-retry"]').addEventListener('click', () => {
+          slot.innerHTML = statusCard('Loading the board…');
+          load();
+        });
+      }
+      return;
+    }
+    const hadYou = !!slot.querySelector('.is-you');
+    slot.innerHTML = boardHtml(r.board, youId, app.meta);
+    if (!hadYou) slot.querySelector('.is-you')?.scrollIntoView({ block: 'center' });
+  };
+  load();
 }

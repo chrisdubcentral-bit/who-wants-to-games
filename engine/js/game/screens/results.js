@@ -4,8 +4,8 @@ import { LETTERS } from '../../core/utils.js';
 import { t, ed, summaryLabels, prizeCount } from '../../core/edition.js';
 import { openModal } from '../../ui/components/modal.js';
 import {
-  readBoard, saveEntry, readPlayer, entryFromSummary, isEligible, prospectiveRank,
-  cleanText, NAME_MAX, TOWN_MAX, LIMIT,
+  fetchBoard, cachedBoard, submitEntry, hasRunToken, myEntry, readPlayer, entryFromSummary, isEligible,
+  prospectiveRank, cleanText, NAME_MAX, TOWN_MAX, LIMIT,
 } from '../leaderboard.js';
 
 export function render(root, app) {
@@ -88,7 +88,7 @@ export function render(root, app) {
       <div class="results-hero stagger">${hero}</div>
       <div class="result-stats stagger">${stats}</div>
       ${won ? '' : extra}
-      ${boardPanel(state, s, !won)}
+      <div class="board-slot" aria-live="polite"></div>
       <div class="page-actions">
         ${actions}
         ${won ? extra : ''}
@@ -102,9 +102,9 @@ export function render(root, app) {
 
   root.querySelector('[data-action="again"]')?.addEventListener('click', () => app.startGame());
   root.querySelector('[data-action="season"]')?.addEventListener('click', () => app.nextSeason());
-  const form = root.querySelector('.board-entry');
-  if (form) wireEntryForm(form, app, state, s);
-  else root.querySelector('.page-actions .btn-lg').focus({ preventScroll: true });
+  const primary = root.querySelector('.page-actions .btn-lg');
+  primary.focus({ preventScroll: true });
+  fillBoardPanel(root.querySelector('.board-slot'), app, state, s, !won, primary);
 
   if (won) {
     // Leaving the champion screen ends the run, so check first and offer the Top 100 on the way out.
@@ -129,83 +129,127 @@ export function render(root, app) {
   }
 }
 
-/** True if this run isn't on the Top 100 yet but would make it. */
+/** True if this run isn't on the Top 100 yet but would make it, going by the board this screen fetched. */
 function wouldMakeBoard(state, s) {
-  if (!isEligible(s)) return false;
-  const board = readBoard();
-  if (board.some((e) => e.sessionId === state.sessionId)) return false;
+  const board = cachedBoard();
+  if (!board || !isEligible(s) || myEntry(state.sessionId)) return false;
   return !!prospectiveRank(board, entryFromSummary(s, { name: '', town: '', sessionId: state.sessionId }));
 }
 
-/**
- * Top 100 card: the entry form if the game qualifies, or the position already taken.
- * The form is only offered once the run is over (canEnter); a champion still playing on isn't asked.
- */
-function boardPanel(state, s, canEnter) {
-  if (!isEligible(s)) return '';
-  const mine = readBoard().find((e) => e.sessionId === state.sessionId);
-  // Already on the board from an earlier season of this run: bring the entry up to date.
-  const entered = mine
-    ? saveEntry(entryFromSummary(s, { name: mine.name, town: mine.town, sessionId: state.sessionId })).rank
-    : null;
-  const board = readBoard();
-  if (!entered && !canEnter) return '';
-  if (entered) {
-    return `
-      <div class="card board-entry-done">
-        <span class="eyebrow">Top ${LIMIT}</span>
-        <p>You're number <strong>${entered}</strong> in the Top ${LIMIT}.</p>
-        <button class="btn btn-sm" data-go="top100">View Top ${LIMIT}</button>
-      </div>`;
-  }
-  const rank = prospectiveRank(board, entryFromSummary(s, { name: '', town: '', sessionId: state.sessionId }));
-  if (!rank) return `<p class="muted board-miss">Not quite enough for the Top ${LIMIT} this time.</p>`;
-  const player = readPlayer();
-  return `
-    <form class="card board-entry" novalidate>
-      <span class="eyebrow">Top ${LIMIT}</span>
-      <h2>You've made the Top ${LIMIT} at number ${rank}</h2>
-      <p class="muted">Add your name to the leaderboard.</p>
-      <div class="board-fields">
-        <div class="field">
-          <label for="lb-name">Your name</label>
-          <input class="input" id="lb-name" name="name" maxlength="${NAME_MAX}" autocomplete="nickname" value="${esc(player.name)}" required>
-        </div>
-        <div class="field">
-          <label for="lb-town">City or town</label>
-          <input class="input" id="lb-town" name="town" maxlength="${TOWN_MAX}" autocomplete="address-level2" value="${esc(player.town)}" required>
-        </div>
+const OFFLINE = `Couldn't reach the Top ${LIMIT}. Check your connection and try again.`;
+
+const doneCard = (rank) => `
+  <div class="card board-entry-done">
+    <span class="eyebrow">Top ${LIMIT}</span>
+    <p>You're number <strong>${rank}</strong> in the Top ${LIMIT}.</p>
+    <button class="btn btn-sm" data-go="top100">View Top ${LIMIT}</button>
+  </div>`;
+
+const noteCard = (text, retry = false) => `
+  <div class="card card-pad board-note">
+    <p class="muted">${esc(text)}</p>
+    ${retry ? '<button class="btn btn-sm" type="button" data-action="board-retry">Try Again</button>' : ''}
+  </div>`;
+
+const formCard = (rank, player) => `
+  <form class="card board-entry" novalidate>
+    <span class="eyebrow">Top ${LIMIT}</span>
+    <h2>You've made the Top ${LIMIT} at number ${rank}</h2>
+    <p class="muted">Add your name to the leaderboard. Your name and town will be shown to everyone who plays.</p>
+    <div class="board-fields">
+      <div class="field">
+        <label for="lb-name">Your name</label>
+        <input class="input" id="lb-name" name="name" maxlength="${NAME_MAX}" autocomplete="nickname" value="${esc(player.name)}" required>
       </div>
-      <p class="field-error" role="alert" hidden></p>
-      <button class="btn btn-primary" type="submit">Add To Top ${LIMIT}</button>
-    </form>`;
+      <div class="field">
+        <label for="lb-town">City or town</label>
+        <input class="input" id="lb-town" name="town" maxlength="${TOWN_MAX}" autocomplete="address-level2" value="${esc(player.town)}" required>
+      </div>
+    </div>
+    <p class="field-error" role="alert" hidden></p>
+    <button class="btn btn-primary" type="submit">Add To Top ${LIMIT}</button>
+  </form>`;
+
+/**
+ * Fills the Top 100 card once the board has loaded: the entry form if the game qualifies,
+ * or the position already taken. The form is only offered once the run is over (canEnter);
+ * a champion still playing on isn't asked, but an entry from an earlier season is brought up to date.
+ */
+async function fillBoardPanel(slot, app, state, s, canEnter, primary) {
+  if (!slot || !isEligible(s)) return;
+  const show = (html) => { if (slot.isConnected) slot.innerHTML = html; return slot.isConnected; };
+  const retry = () => slot.querySelector('[data-action="board-retry"]')?.addEventListener('click', () => {
+    fillBoardPanel(slot, app, state, s, canEnter, null);
+  });
+
+  const mine = myEntry(state.sessionId);
+  if (!mine && !canEnter) { fetchBoard(); return; } // loads the board for the "End your run?" check
+
+  show(`<p class="muted board-miss">Checking the Top ${LIMIT}…</p>`);
+
+  if (mine) {
+    const r = await submitEntry(entryFromSummary(s, { name: mine.name, town: mine.town, sessionId: state.sessionId }), state.sessionId);
+    if (r.ok && r.rank) { app.lastBoardEntry = r.id; show(doneCard(r.rank)); return; }
+    if (r.ok) { show(`<p class="muted board-miss">Your entry has dropped out of the Top ${LIMIT}.</p>`); return; }
+    if (show(noteCard(r.error === 'offline' ? OFFLINE : (r.message || OFFLINE), r.error === 'offline'))) retry();
+    return;
+  }
+
+  if (!(await hasRunToken(state.sessionId))) {
+    show(noteCard(`This game couldn't connect to the online Top ${LIMIT} when it started, so it can't be added. Check your connection before your next game.`));
+    return;
+  }
+
+  const b = await fetchBoard();
+  if (!b.ok) { if (show(noteCard(OFFLINE, true))) retry(); return; }
+  const rank = prospectiveRank(b.board, entryFromSummary(s, { name: '', town: '', sessionId: state.sessionId }));
+  if (!rank) { show(`<p class="muted board-miss">Not quite enough for the Top ${LIMIT} this time.</p>`); return; }
+
+  // Only take the focus if the player hasn't moved it since the screen opened.
+  const takeFocus = !primary || document.activeElement === primary || document.activeElement === document.body;
+  if (show(formCard(rank, readPlayer()))) wireEntryForm(slot.querySelector('.board-entry'), app, state, s, takeFocus);
 }
 
-function wireEntryForm(form, app, state, s) {
+function wireEntryForm(form, app, state, s, takeFocus) {
   const name = form.elements.name;
   const town = form.elements.town;
   const error = form.querySelector('.field-error');
-  (name.value ? town.value ? form.querySelector('[type="submit"]') : town : name).focus({ preventScroll: true });
+  const button = form.querySelector('[type="submit"]');
+  if (takeFocus) (name.value ? town.value ? button : town : name).focus({ preventScroll: true });
 
-  form.addEventListener('submit', (e) => {
+  const showError = (text, field = null) => {
+    error.textContent = text;
+    error.hidden = false;
+    name.classList.toggle('is-invalid', field === name);
+    town.classList.toggle('is-invalid', field === town);
+    field?.focus();
+  };
+
+  form.addEventListener('submit', async (e) => {
     e.preventDefault();
+    if (button.disabled) return;
     const n = cleanText(name.value, NAME_MAX);
     const t = cleanText(town.value, TOWN_MAX);
-    name.classList.toggle('is-invalid', !n);
-    town.classList.toggle('is-invalid', !t);
     if (!n || !t) {
-      error.textContent = !n && !t ? 'Enter your name and your city or town.' : !n ? 'Enter your name.' : 'Enter your city or town.';
-      error.hidden = false;
-      (!n ? name : town).focus();
+      showError(!n && !t ? 'Enter your name and your city or town.' : !n ? 'Enter your name.' : 'Enter your city or town.', !n ? name : town);
+      name.classList.toggle('is-invalid', !n);
+      town.classList.toggle('is-invalid', !t);
       return;
     }
-    const { rank, saved } = saveEntry(entryFromSummary(s, { name: n, town: t, sessionId: state.sessionId }));
-    if (!saved) {
-      error.textContent = "Couldn't save to this browser. Storage may be full or blocked.";
-      error.hidden = false;
+
+    button.disabled = true;
+    button.textContent = 'Adding…';
+    const r = await submitEntry(entryFromSummary(s, { name: n, town: t, sessionId: state.sessionId }), state.sessionId);
+    if (!form.isConnected) return;
+    button.disabled = false;
+    button.textContent = `Add To Top ${LIMIT}`;
+
+    if (!r.ok) {
+      const field = r.field === 'town' ? town : r.field === 'name' ? name : null;
+      showError(r.error === 'offline' ? OFFLINE : (r.message || OFFLINE), field);
       return;
     }
-    app.lastBoardEntry = rank ? state.sessionId : null;
+    app.lastBoardEntry = r.rank ? r.id : null;
     // The form only appears once the run is over, so go and see the board.
     app.go('top100');
   });

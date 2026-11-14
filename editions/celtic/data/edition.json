@@ -45,7 +45,7 @@
       "lifeline": "Use it once to remove two wrong answers. Choose the moment carefully: you don't get another one if you play on into a new season.",
       "seasonsTitle": "Defend the Cup",
       "seasons": "Win the Final and you can start a new season as holders, going straight into the {restart}. Keep winning to add more {prizes}. A wrong answer ends your run, but you keep the {prizes} you've won.",
-      "top100": "Anyone can add their name and town to the Top 100. The most {prizes} ranks highest, then the furthest round reached. After that, players who didn't use the 50:50 rank above those who did, then the fastest time wins.",
+      "top100": "The Top 100 is shared with players everywhere, and anyone can add their name and town to it. The most {prizes} ranks highest, then the furthest round reached. After that, players who didn't use the 50:50 rank above those who did, then the fastest time wins.",
       "sound": "Hear the crowd roar when you get an answer right. On a phone, the silent switch or volume may also need turning up."
     },
     "quiz": {
@@ -96,7 +96,7 @@
       "eyebrow": "Hall of Fame",
       "prizeColumn": "Cups",
       "none": "No {prizes}",
-      "rules": "Most {prizes} first, then the furthest round reached. After that, players who didn't use the 50:50 rank higher, then the fastest time. Scores are saved on this device."
+      "rules": "Most {prizes} first, then the furthest round reached. After that, players who didn't use the 50:50 rank higher, then the fastest time. One board for players everywhere."
     },
     "stats": {
       "eyebrow": "Your European Record",

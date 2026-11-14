@@ -1,0 +1,13 @@
+{
+  "name": "who-wants-to-games",
+  "private": true,
+  "description": "Who Wants To Win quiz games. The game itself has no build step; this file is for the online Top 100 (Netlify Functions + Netlify Database).",
+  "scripts": {
+    "dev": "node tools/dev-server.mjs",
+    "build": "node tools/build.js",
+    "test:server": "node --test tests/server/"
+  },
+  "dependencies": {
+    "@netlify/database": "^2.0.3"
+  }
+}

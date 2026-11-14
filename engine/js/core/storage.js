@@ -47,7 +47,9 @@ export const KEYS = {
   adminAudit: 'admin:audit',
   adminReviewStatus: 'admin:reviewStatus',
   gameSnapshot: 'game:snapshot',
-  leaderboard: 'leaderboard',
-  boardReset: 'leaderboard:reset',
+  leaderboard: 'leaderboard',        // old per-device board, cleared on start-up
+  boardReset: 'leaderboard:reset',   // old per-device board, cleared on start-up
+  boardTokens: 'top100:tokens',      // session: run tokens for the online Top 100
+  boardMine: 'top100:mine',          // this device's entries on the online Top 100
   player: 'player',
 };
