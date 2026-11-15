@@ -8,6 +8,7 @@ import {
   prospectiveRank, cleanText, NAME_MAX, TOWN_MAX, LIMIT,
 } from '../leaderboard.js';
 import { track } from '../../core/analytics.js';
+import { shareCardHtml, wireShareCard } from '../share.js';
 
 export function render(root, app) {
   const state = app.ctrl.state;
@@ -139,13 +140,6 @@ function wouldMakeBoard(state, s) {
 
 const OFFLINE = `Couldn't reach the Top ${LIMIT}. Check your connection and try again.`;
 
-const doneCard = (rank) => `
-  <div class="card board-entry-done">
-    <span class="eyebrow">Top ${LIMIT}</span>
-    <p>You're number <strong>${rank}</strong> in the Top ${LIMIT}.</p>
-    <button class="btn btn-sm" data-go="top100">View Top ${LIMIT}</button>
-  </div>`;
-
 const noteCard = (text, retry = false) => `
   <div class="card card-pad board-note">
     <p class="muted">${esc(text)}</p>
@@ -189,8 +183,13 @@ async function fillBoardPanel(slot, app, state, s, canEnter, primary) {
   show(`<p class="muted board-miss">Checking the Top ${LIMIT}…</p>`);
 
   if (mine) {
-    const r = await submitEntry(entryFromSummary(s, { name: mine.name, town: mine.town, sessionId: state.sessionId }), state.sessionId);
-    if (r.ok && r.rank) { app.lastBoardEntry = r.id; show(doneCard(r.rank)); return; }
+    const entry = entryFromSummary(s, { name: mine.name, town: mine.town, sessionId: state.sessionId });
+    const r = await submitEntry(entry, state.sessionId);
+    if (r.ok && r.rank) {
+      app.lastBoardEntry = r.id;
+      if (show(shareCardHtml(r.rank, { link: true }))) wireShareCard(slot, entry, r.rank, app.meta);
+      return;
+    }
     if (r.ok) { show(`<p class="muted board-miss">Your entry has dropped out of the Top ${LIMIT}.</p>`); return; }
     if (show(noteCard(r.error === 'offline' ? OFFLINE : (r.message || OFFLINE), r.error === 'offline'))) retry();
     return;

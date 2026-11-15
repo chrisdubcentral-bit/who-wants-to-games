@@ -3,6 +3,7 @@ import { fetchBoard, cachedBoard, myEntry, formatDuration, cupsOf, roundsPlayedO
 import { STATUS } from '../game-engine.js';
 import { formatDate } from '../../core/utils.js';
 import { t, ed, prizeCount } from '../../core/edition.js';
+import { shareCardHtml, wireShareCard } from '../share.js';
 
 /** Small prize icon × how many the run won. */
 function cupsCell(e) {
@@ -82,6 +83,7 @@ export function render(root, app) {
         <h1>Top ${LIMIT}</h1>
         <p class="muted board-rules">${esc(t('top100.rules'))}</p>
       </header>
+      <div class="share-slot"></div>
       <div class="board-slot">${cached ? boardHtml(cached, youId, app.meta) : statusCard('Loading the board…')}</div>
       <div class="page-actions">
         ${canCarryOn
@@ -95,6 +97,18 @@ export function render(root, app) {
   root.querySelector('.is-you')?.scrollIntoView({ block: 'center' });
 
   const slot = root.querySelector('.board-slot');
+  // This player's own place, with a Share button. Redrawn only if their position changes.
+  const shareSlot = root.querySelector('.share-slot');
+  let sharedRank = null;
+  const showShare = (board) => {
+    const i = youId == null ? -1 : board.findIndex((e) => e.id === youId);
+    if (i < 0) { shareSlot.innerHTML = ''; sharedRank = null; return; }
+    if (sharedRank === i + 1) return;
+    sharedRank = i + 1;
+    shareSlot.innerHTML = shareCardHtml(sharedRank);
+    wireShareCard(shareSlot, board[i], sharedRank, app.meta);
+  };
+  if (cached) showShare(cached);
   const load = async () => {
     const r = await fetchBoard();
     if (!slot.isConnected) return;
@@ -111,6 +125,7 @@ export function render(root, app) {
     }
     const hadYou = !!slot.querySelector('.is-you');
     slot.innerHTML = boardHtml(r.board, youId, app.meta);
+    showShare(r.board);
     if (!hadYou) slot.querySelector('.is-you')?.scrollIntoView({ block: 'center' });
   };
   load();

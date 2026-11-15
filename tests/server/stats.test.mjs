@@ -104,6 +104,20 @@ test('the report adds up visits, games, the stage funnel and advert click rates'
   assert.equal(r.time.find((t) => t.name === 'Under 10s').n, 1);
 });
 
+test('shares are counted by method, and visits from shared links get their own source', async () => {
+  const { send, report } = setup();
+  const a = randomUUID(); const b = randomUUID();
+  await send(a, { visit: { device: 'phone' }, events: [
+    { type: 'top100_entry' }, { type: 'share', detail: 'share_menu' }, { type: 'share', detail: 'whatsapp' }, { type: 'share', detail: 'share_menu' },
+  ] });
+  await send(b, { visit: { device: 'phone', utm: 'shared-score' }, activeMs: 30000 });
+  const r = (await report({ from: '2026-11-14', to: '2026-11-14' })).body;
+  assert.equal(r.totals.shares, 3);
+  assert.equal(r.totals.sharedVisits, 1);
+  assert.deepEqual(r.shareVia, [{ name: 'share_menu', n: 2 }, { name: 'whatsapp', n: 1 }]);
+  assert.equal(sourceOf({ utm: 'shared-score' }), 'Shared scores');
+});
+
 test('the report needs the admin key', async () => {
   const { h } = setup();
   assert.equal((await h.report({ query: { edition: 'celtic' }, headers: {} })).status, 401);

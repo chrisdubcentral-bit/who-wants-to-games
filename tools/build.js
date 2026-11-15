@@ -69,6 +69,27 @@ function copyEdition(id) {
   return { id, title };
 }
 
+/**
+ * Link previews need full addresses: turns the relative og:image in an edition's index.html into one and adds
+ * og:url. Netlify sets URL (the site's main address) during its builds; SITE_URL overrides it.
+ */
+function absoluteShareTags(id) {
+  const file = path.join(DIST, 'editions', id, 'index.html');
+  let html = fs.readFileSync(file, 'utf8');
+  if (!/property="og:image"/.test(html)) return;
+  const site = (process.env.SITE_URL || process.env.URL || '').replace(/\/+$/, '');
+  if (!site) {
+    warnings.push(`${id}: no site address (Netlify sets URL when it builds), so link previews have no picture in this build`);
+    return;
+  }
+  const page = `${site}/editions/${id}/`;
+  html = html.replace(/(<meta property="og:image" content=")(?!https?:)([^"]+)"/, (m, a, rel) => `${a}${new URL(rel, page).href}"`);
+  if (!/property="og:url"/.test(html)) {
+    html = html.replace(/(\s*)(<meta property="og:image" )/, `$1<meta property="og:url" content="${esc(page)}">$1$2`);
+  }
+  fs.writeFileSync(file, html);
+}
+
 /** Reads an edition's adverts: data/adverts.json, or adverts.breaks in edition.json for older editions. */
 function readAdverts(editionDir) {
   const read = (p) => { try { return JSON.parse(fs.readFileSync(path.join(editionDir, p), 'utf8')); } catch { return null; } };
@@ -107,6 +128,16 @@ function esc(text) {
   return String(text).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 }
 
+/** The link-preview tags from an edition's built page, so links to the site's front page get the same preview. */
+function previewTags(id) {
+  try {
+    const page = fs.readFileSync(path.join(DIST, 'editions', id, 'index.html'), 'utf8');
+    const tags = page.match(/<meta (property="og:|name="twitter:)[^>]*>/g) ?? [];
+    return tags.map((tag) => `
+  ${tag}`).join('');
+  } catch { return ''; }
+}
+
 function writeLandingPage(editions) {
   const link = (e) => `editions/${encodeURIComponent(e.id)}/index.html`;
   const head = `<!doctype html>
@@ -117,7 +148,7 @@ function writeLandingPage(editions) {
   <meta name="robots" content="noindex">`;
 
   const html = editions.length === 1
-    ? `${head}
+    ? `${head}${previewTags(editions[0].id)}
   <meta http-equiv="refresh" content="0; url=${link(editions[0])}">
   <title>${esc(editions[0].title)}</title>
 </head>
@@ -171,6 +202,7 @@ function build() {
 
   const editions = ids.map(copyEdition);
   ids.forEach(checkAdverts);
+  ids.forEach(absoluteShareTags);
   checkTop100(ids);
   // Top 100 moderation page (password-protected by TOP100_ADMIN_KEY, not linked from the game).
   copy(path.join(ROOT, 'admin/top100.html'), path.join(DIST, 'admin/top100.html'));

@@ -88,6 +88,15 @@
       "none": "No {prizes}",
       "rules": "Most {prizes} first, then the furthest round reached. After that, players who didn't use the 50:50 rank higher, then the fastest time. One board for players everywhere."
     },
+    "share": {
+      "game": "Who Wants To Win The {prize} ({team} Edition)",
+      "withCups": "I'm number {rank} in the Top 100 on {game} 🏆 {count} won. Can you beat me?",
+      "noCups": "I'm number {rank} in the Top 100 on {game}. I reached the {stage}. Can you beat me?",
+      "cardTitleTop": "Who Wants To Win",
+      "cardTitle": "The {prize}",
+      "cardEdition": "{team} Edition",
+      "cardCta": "Can you beat me?"
+    },
     "stats": {
       "eyebrow": "Your European Record",
       "won": "Won the Final",

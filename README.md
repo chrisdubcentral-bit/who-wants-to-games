@@ -156,6 +156,24 @@ database under the old name.
 `npm run test:server` runs the server tests: the word filter, result checks (using games played through the real
 engine) and the API with an in-memory store.
 
+## Sharing scores
+
+Players on the Top 100 get a **Share Your Score** button (on the Top 100 page and on the results screen). It shares a
+message like "I'm number 12 in the Top 100 on Who Wants To Win The European Cup (Celtic Edition)… Can you beat me?"
+with a link to the game, plus a scorecard picture drawn in the browser (name, town, position, cups, round, 50:50).
+
+- **Phones and tablets:** opens the phone's own share menu (WhatsApp, Instagram, Facebook, Messages…), with the picture.
+- **Computers:** a panel with WhatsApp, X, Facebook, Copy Message and Save Image.
+- The wording is in `text.share` in the edition's `data/edition.json`; the code is `engine/js/game/share.js`.
+- Shared links end in `?utm_source=shared-score`, so the dashboard counts the visits they bring as **Shared scores**,
+  and the **Shared scores** panel shows how many players shared and how.
+
+**Link previews:** the game page has preview tags, so links to it show a card with
+`editions/celtic/assets/img/share-preview.png` (1200 × 630) on Facebook, WhatsApp, X and iMessage. The build makes the
+picture's address absolute using the site address Netlify supplies (`URL`; set `SITE_URL` to override, e.g. once you
+have your own domain). Facebook keeps previews for a while: after changing the picture, paste the link into
+https://developers.facebook.com/tools/debug/ and press **Scrape Again**.
+
 ## Site statistics
 
 A dashboard of anonymous visit figures, at `https://<your site>/admin/stats.html` (same admin key as the Top 100 page;

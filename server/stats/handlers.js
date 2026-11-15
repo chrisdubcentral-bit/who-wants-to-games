@@ -7,7 +7,12 @@
 
 import { createHash, timingSafeEqual } from 'node:crypto';
 
-export const EVENT_TYPES = ['game_start', 'game_end', 'advert_shown', 'advert_click', 'advert_skip', 'advert_complete', 'top100_entry'];
+export const EVENT_TYPES = ['game_start', 'game_end', 'advert_shown', 'advert_click', 'advert_skip', 'advert_complete', 'top100_entry', 'share'];
+
+/** utm_source on links players share from the game (engine/js/game/share.js), and the name the dashboard shows for it. */
+export const SHARE_TAG = 'shared-score';
+export const SHARE_SOURCE = 'Shared scores';
+export const SHARE_METHODS = ['share_menu', 'whatsapp', 'x', 'facebook', 'copy', 'download'];
 
 export const LIMITS = {
   eventsPerRequest: 50,
@@ -49,6 +54,7 @@ const KNOWN_SOURCES = [
 /** Where a visit came from: an explicit ?utm_source, else a tidy name for the referring site, else Direct. */
 export function sourceOf({ utm, referrer } = {}, ownHost = '') {
   const tag = String(utm ?? '').trim().toLowerCase().replace(/[^a-z0-9 ._-]/g, '').slice(0, 40);
+  if (tag === SHARE_TAG) return SHARE_SOURCE;
   if (tag) {
     const named = KNOWN_SOURCES.find(([re]) => re.test(`${tag}.com`) || re.test(tag));
     return named ? named[1] : tag;
@@ -208,6 +214,8 @@ export function buildReport({ sessions, events, from, to, stages }) {
       top100Entries: byType('top100_entry').length,
       advertsShown: byType('advert_shown').length,
       advertClicks: byType('advert_click').length,
+      shares: byType('share').length,
+      sharedVisits: sessions.filter((s) => s.source === SHARE_SOURCE).length,
     },
     daily,
     devices: count(sessions, (s) => s.device),
@@ -217,5 +225,6 @@ export function buildReport({ sessions, events, from, to, stages }) {
     time,
     funnel,
     adverts,
+    shareVia: count(byType('share'), (e) => (SHARE_METHODS.includes(e.detail) ? e.detail : 'share_menu')),
   };
 }

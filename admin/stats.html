@@ -128,6 +128,10 @@
           <p class="note">Add <code>?utm_source=name</code> to links you share (e.g. <code>?utm_source=facebook-group</code>) to tell posts apart. Most WhatsApp shares show as Direct.</p>
         </section>
         <section class="panel">
+          <h2>Shared scores</h2>
+          <div id="shares"></div>
+        </section>
+        <section class="panel">
           <h2>Time on site</h2>
           <div id="time"></div>
         </section>
@@ -299,6 +303,17 @@
         <div class="legend">${parts.map((p) => `<span><i style="background:${colour[p.k]}"></i>${names[p.k]} ${pct(p.n, total)} <span class="muted">(${fmt(p.n)})</span></span>`).join('')}</div>`;
     }
 
+    /** Shares from the Top 100 (by how they were shared) and the visits those shared links brought in. */
+    function sharesPanel(r, t) {
+      const names = { share_menu: "Phone's share menu", whatsapp: 'WhatsApp', x: 'X (Twitter)', facebook: 'Facebook', copy: 'Copied the message', download: 'Saved the image' };
+      const shares = t.shares ?? 0, visits = t.sharedVisits ?? 0;
+      const summary = `<p class="note" style="margin-top:0"><strong>${fmt(shares)}</strong> ${shares === 1 ? 'share' : 'shares'}${t.top100Entries ? ` (${pct(shares, t.top100Entries)} of Top 100 entries)` : ''}
+        brought <strong>${fmt(visits)}</strong> ${visits === 1 ? 'visit' : 'visits'} from friends opening the link.</p>`;
+      const rows = (r.shareVia ?? []).map((x) => ({ ...x, name: names[x.name] ?? x.name }));
+      return summary + hbars(rows, { total: shares || null }) +
+        '<p class="note">On phones, the share menu doesn\'t say which app was chosen.</p>';
+    }
+
     function render() {
       const r = report, t = r.totals;
       const finishedPerStart = t.gamesStarted ? t.gamesFinished / t.gamesStarted : 0;
@@ -319,6 +334,7 @@
       const starts = r.funnel[0]?.n ?? 0;
       $('#funnel').innerHTML = hbars(r.funnel, { total: starts || null, extra: (row) => (starts ? `<br>${pct(row.n, starts)} of first-season games` : '') });
       $('#sources').innerHTML = hbars(r.sources, { total: t.visits });
+      $('#shares').innerHTML = sharesPanel(r, t);
       $('#time').innerHTML = hbars(r.time, { total: t.visits });
       $('#devices').innerHTML = devices(r.devices);
       $('#countries').innerHTML = hbars(r.countries, { total: t.visits });
