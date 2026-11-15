@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "collection": "approved",
-  "updatedAt": "2026-11-14T17:52:21.930Z",
+  "updatedAt": "2026-11-14T18:50:46.044Z",
   "questions": [
     {
       "id": "q_001269",
@@ -4443,36 +4443,6 @@
       "updatedAt": "2026-11-14T16:50:58.021Z",
       "review": {
         "reviewedAt": "2026-11-14T16:50:58.021Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001119",
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "playoff",
-      "category": "cup-finals",
-      "difficulty": 2,
-      "question": "What happened in the sky as Tom Rogic scored the winner in the 2017 Scottish Cup Final?",
-      "options": [
-        "A plane flew over with a Celtic banner",
-        "A rainbow appeared",
-        "The sun broke through the clouds",
-        "There was lightning and thunder"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "celticfc.com history",
-        "Tom Rogic",
-        "2017"
-      ],
-      "source": "manual",
-      "status": "approved",
-      "createdAt": "2026-11-14T16:36:16.715Z",
-      "updatedAt": "2026-11-14T16:50:52.979Z",
-      "review": {
-        "reviewedAt": "2026-11-14T16:50:52.979Z",
         "rejectionReason": null,
         "rejectionNote": null
       }
