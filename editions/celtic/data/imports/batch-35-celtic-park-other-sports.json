@@ -1,0 +1,317 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Which Irish province beat Glasgow Warriors in the 2019 Pro14 final at Celtic Park?",
+    "options": [
+      "Munster",
+      "Leinster",
+      "Ulster",
+      "Connacht"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Pro14 final 2019"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Which Chariots of Fire Olympian ran at the Celtic Sports athletics meetings at Celtic Park in the early 1920s?",
+    "options": [
+      "Harold Abrahams",
+      "Eric Liddell",
+      "Lord Burghley",
+      "Jesse Owens"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Eric Liddell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "What was the name of the annual athletics meeting held at Celtic Park from 1890?",
+    "options": [
+      "The Parkhead Games",
+      "The Glasgow Highland Games",
+      "The Celtic Sports",
+      "The Paradise Mile"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Celtic Sports"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which motor sport held its first meeting in Scotland at Celtic Park in 1928?",
+    "options": [
+      "Speedway",
+      "Stock car racing",
+      "Motocross",
+      "Go-karting"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Speedway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which Scottish world flyweight champion boxed at Celtic Park in 1937?",
+    "options": [
+      "Ken Buchanan",
+      "Walter McGowan",
+      "Jackie Paterson",
+      "Benny Lynch"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Benny Lynch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Scotland beat which team 6-0 in a Euro 2008 qualifier at Celtic Park in 2006?",
+    "options": [
+      "San Marino",
+      "Liechtenstein",
+      "Faroe Islands",
+      "Andorra"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "In 1909 Celtic Park hosted the first game in Scotland of which sport, featuring the touring Australians?",
+    "options": [
+      "Rugby league",
+      "Australian rules football",
+      "Cricket",
+      "Lacrosse"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Rugby league"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "What was the score when Leinster beat Glasgow Warriors in the 2019 Pro14 final at Celtic Park?",
+    "options": [
+      "21-17",
+      "15-12",
+      "24-20",
+      "18-15"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Pro14 final 2019"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which famous Welsh referee took charge of the 2019 Pro14 final at Celtic Park?",
+    "options": [
+      "Nigel Owens",
+      "Wayne Barnes",
+      "Alain Rolland",
+      "Jaco Peyper"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Pro14 final 2019"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Scotland beat which nation 1-0 at Celtic Park in a Euro 2016 qualifier in November 2014?",
+    "options": [
+      "Northern Ireland",
+      "Republic of Ireland",
+      "Wales",
+      "England"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which sport did American servicemen play in front of a big crowd at Celtic Park in September 1918?",
+    "options": [
+      "American football",
+      "Basketball",
+      "Baseball",
+      "Ice hockey"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Baseball"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "Why was Scotland's 2006 match against the Faroe Islands moved to Celtic Park?",
+    "options": [
+      "Hampden was hosting a concert",
+      "Hampden's pitch was being relaid",
+      "A Hampden stand was being rebuilt",
+      "Hampden was hosting a rugby match"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "Which two clubs met in the 1993 Scottish Cup final, played at Celtic Park while Hampden was being rebuilt?",
+    "options": [
+      "Hearts and Hibernian",
+      "Aberdeen and Dundee United",
+      "Rangers and Hearts",
+      "Rangers and Aberdeen"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Scottish Cup final 1993"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-park",
+    "difficulty": 5,
+    "question": "Roughly how many people watched Scotland play England at Celtic Park in 1894?",
+    "options": [
+      "15,000",
+      "25,000",
+      "45,000",
+      "65,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-park",
+    "difficulty": 5,
+    "question": "Which German won the professional sprint at the 1897 cycling world championships at Celtic Park?",
+    "options": [
+      "Willy Arend",
+      "Thaddäus Robl",
+      "Walter Rütt",
+      "August Lehr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Other sports",
+      "Cycling world championships 1897"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-park",
+    "difficulty": 1,
+    "question": "Which Irish band played two concerts at Celtic Park in August 1993?",
+    "options": [
+      "Simple Minds",
+      "U2",
+      "The Pogues",
+      "The Cranberries"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "U2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-1",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Which band, famous for \"My Generation\", played Celtic Park in June 1976?",
+    "options": [
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "The Who",
+      "Queen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "The Who"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Which American star played Celtic Park in June 1992 on his Diamonds and Pearls tour?",
+    "options": [
+      "Prince",
+      "Michael Jackson",
+      "Bruce Springsteen",
+      "Lionel Richie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "Prince"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Which Canadian singer played Celtic Park in July 1992 on his \"Waking Up the Neighbours\" tour?",
+    "options": [
+      "Neil Young",
+      "Bryan Adams",
+      "Michael Bublé",
+      "Leonard Cohen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "Bryan Adams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "qualifier-2",
+    "category": "celtic-park",
+    "difficulty": 2,
+    "question": "Bryan Adams played his Robin Hood film hit at Celtic Park in 1992. What was it called?",
+    "options": [
+      "Summer of '69",
+      "Heaven",
+      "Please Forgive Me",
+      "(Everything I Do) I Do It for You"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "Bryan Adams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "In which year did U2 play their two concerts at Celtic Park?",
+    "options": [
+      "1987",
+      "1997",
+      "1993",
+      "2005"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "U2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-1",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which Scottish band supported The Who at Celtic Park in 1976?",
+    "options": [
+      "The Sensational Alex Harvey Band",
+      "Nazareth",
+      "Average White Band",
+      "Big Country"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "The Who"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which Beatle had a Celtic Park concert planned for 2003 that was later cancelled?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which band, known for \"More Than Words\", supported Bryan Adams at Celtic Park in 1992?",
+    "options": [
+      "Extreme",
+      "Mr. Big",
+      "Bon Jovi",
+      "Def Leppard"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "Bryan Adams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "round-2",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Wet Wet Wet's September 1997 Celtic Park concert was put back a day because of which event?",
+    "options": [
+      "A Celtic home match",
+      "A storm over Glasgow",
+      "The funeral of Diana, Princess of Wales",
+      "A general election"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "Wet Wet Wet"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 3,
+    "question": "Which duo, who had a number one with \"Stay\", supported Prince at Celtic Park in 1992?",
+    "options": [
+      "Eurythmics",
+      "Shakespears Sister",
+      "Roxette",
+      "Everything but the Girl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "Prince"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "quarter-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "Which future Baywatch actress was a support act for Prince at Celtic Park in 1992?",
+    "options": [
+      "Pamela Anderson",
+      "Yasmine Bleeth",
+      "Carmen Electra",
+      "Nicole Eggert"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "Prince"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "Wet Wet Wet's 1997 Celtic Park concert was released on video under which tongue-in-cheek title?",
+    "options": [
+      "Home and Away",
+      "Live in Paradise",
+      "Away Day",
+      "Playing Away at Home"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "Wet Wet Wet"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "semi-final",
+    "category": "celtic-park",
+    "difficulty": 4,
+    "question": "Which singer-songwriter supported U2 on the first of their two Celtic Park nights in August 1993?",
+    "options": [
+      "PJ Harvey",
+      "Björk",
+      "Sinéad O'Connor",
+      "Tori Amos"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "U2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "celtic",
+    "stage": "final",
+    "category": "celtic-park",
+    "difficulty": 5,
+    "question": "Which music magazine's 1996 poll named U2's 1993 Celtic Park concert among the best gigs of all time?",
+    "options": [
+      "NME",
+      "Rolling Stone",
+      "Kerrang!",
+      "Q"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic Park",
+      "Concerts",
+      "U2"
+    ],
+    "source": "manual"
+  }
+]

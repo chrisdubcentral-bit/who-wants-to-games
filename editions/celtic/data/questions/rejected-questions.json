@@ -1,8 +1,182 @@
 {
   "schemaVersion": 1,
   "collection": "rejected",
-  "updatedAt": "2026-11-14T18:50:46.044Z",
+  "updatedAt": "2026-11-15T23:53:25.630Z",
   "questions": [
+    {
+      "id": "q_001514",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "Which German club were in Celtic's 2009-10 Europa League group?",
+      "options": [
+        "Hamburg",
+        "Wolfsburg",
+        "Werder Bremen",
+        "Schalke"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Transfermarkt",
+        "Hamburg"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-15T17:29:53.194Z",
+      "updatedAt": "2026-11-15T23:35:41.847Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:35:41.846Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001490",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "club-achievements",
+      "difficulty": 3,
+      "question": "Which European final did Celtic reach in 2002-03, according to their Transfermarkt honours list?",
+      "options": [
+        "UEFA Cup",
+        "European Cup",
+        "Cup Winners' Cup",
+        "Champions League"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Transfermarkt",
+        "Honours"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-15T17:29:53.194Z",
+      "updatedAt": "2026-11-15T23:32:25.459Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:32:25.459Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001420",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "What capacity does Transfermarkt list for Celtic Park?",
+      "options": [
+        "58,102",
+        "56,500",
+        "60,411",
+        "62,148"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Transfermarkt",
+        "Stadium"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-15T17:29:53.194Z",
+      "updatedAt": "2026-11-15T23:20:12.927Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:20:12.927Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001419",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "How many Scottish League Cups does Transfermarkt credit Celtic with, the last in 2024-25?",
+      "options": [
+        "20",
+        "22",
+        "24",
+        "21"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Transfermarkt",
+        "Honours"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-15T17:29:53.194Z",
+      "updatedAt": "2026-11-15T23:20:04.187Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:20:04.187Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001418",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "How many Scottish Cups does Transfermarkt credit Celtic with after winning it in 2025-26?",
+      "options": [
+        "43",
+        "42",
+        "41",
+        "45"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Transfermarkt",
+        "Honours"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-15T17:29:53.194Z",
+      "updatedAt": "2026-11-15T23:19:56.104Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:19:56.104Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001359",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Who is second on Transfermarkt's list of Celtic's top scorers, with 123 goals?",
+      "options": [
+        "Kyogo Furuhashi",
+        "Leigh Griffiths",
+        "John Hartson",
+        "Chris Sutton"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Transfermarkt",
+        "Leigh Griffiths"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-15T17:29:53.194Z",
+      "updatedAt": "2026-11-15T22:26:24.502Z",
+      "review": {
+        "reviewedAt": "2026-11-15T22:26:24.502Z",
+        "rejectionReason": "Factually Incorrect",
+        "rejectionNote": null
+      }
+    },
     {
       "id": "q_001264",
       "schemaVersion": 1,
