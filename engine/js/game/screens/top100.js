@@ -81,7 +81,8 @@ export function render(root, app) {
 
   mount(root, `
     <section class="screen screen-enter">
-      <header class="page-head">
+      <header class="page-head has-corner-action">
+        <button class="btn btn-ghost btn-sm btn-plate-phone page-corner-action" data-go="home">Home</button>
         <span class="eyebrow">${esc(t('top100.eyebrow'))}</span>
         <h1>Top ${LIMIT}</h1>
         <p class="muted board-rules">${esc(t('top100.rules'))}</p>

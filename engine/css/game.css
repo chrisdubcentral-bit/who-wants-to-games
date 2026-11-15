@@ -53,6 +53,9 @@
 /* ================= Section headers ================= */
 .page-head { display: grid; gap: var(--sp-2); margin-bottom: var(--sp-5); }
 .page-head h1 { font-size: var(--fs-2xl); text-transform: uppercase; letter-spacing: 0.04em; }
+/* A button pinned to the top right of a page header (e.g. Home on the Top 100). */
+.page-head.has-corner-action { position: relative; padding-right: 96px; }
+.page-corner-action { position: absolute; top: 0; right: 0; }
 .page-actions { display: flex; flex-wrap: wrap; gap: var(--sp-3); margin-top: var(--sp-6); }
 
 /* ================= Instructions ================= */

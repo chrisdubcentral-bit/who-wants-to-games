@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T17:31:57.277Z",
+  "updatedAt": "2026-11-15T22:48:49.825Z",
   "adverts": [
     {
       "id": "weekly-lottery",
@@ -28,6 +28,20 @@
       "linkText": "Join Now",
       "landscape": "../../media/ads/celtic-pools-beanie-promo-landscape-832x464.mp4",
       "portrait": "../../media/ads/celtic-pools-beanie-promo-portrait-464x832.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "rhebel-rhebel",
+      "name": "Rhebel Rhebel t-shirts",
+      "enabled": true,
+      "from": "2026-11-15",
+      "until": null,
+      "after": "round-2",
+      "label": "Rhebel Rhebel",
+      "url": "https://rhebelrhebel.myspreadshop.co.uk/",
+      "linkText": "Shop Now",
+      "landscape": "../../media/ads/rhebel-rhebel-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/rhebel-rhebel-portrait-720x1280.mp4",
       "skipAfterMs": 5000
     }
   ]

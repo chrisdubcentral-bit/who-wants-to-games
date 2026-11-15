@@ -15,10 +15,14 @@ Use the compressed 720p copies, not the 1080p masters:
 | `celtic-pools-weekly-lottery-portrait-720x1280.mp4` | 9:16 | phone held upright |
 | `celtic-pools-beanie-promo-landscape-832x464.mp4` | 16:9 | browser / phone held sideways |
 | `celtic-pools-beanie-promo-portrait-464x832.mp4` | 9:16 | phone held upright |
+| `rhebel-rhebel-landscape-1280x720.mp4` | 16:9 | browser / phone held sideways |
+| `rhebel-rhebel-portrait-720x1280.mp4` | 9:16 | phone held upright |
 
-Sources, in `Who Wants To Games - Marketing/editions/CelticPools/Adverts/`:
+Sources, in `Who Wants To Games - Marketing/editions/CelticPools/Adverts/` (Celtic Pools) and
+`…/editions/celtic/Adverts/` (everything else):
 
 - Weekly lottery: `weekly-lottery/output/`.
 - Beanie promo: `BeaniePromo/`. Its files are smaller than their names say (832x464 and 464x832), and two are named
   with the wrong shape: `Beanie-CelticPools-Landscape-1280x720.MP4` and `Beanie-CelticPools-Portrait-1080x1920.MP4` are
   the ones used here.
+- Rhebel Rhebel t-shirts: `rhebel-rhebel/output/` (9 seconds, links to the shop at rhebelrhebel.myspreadshop.co.uk).
