@@ -93,6 +93,12 @@ export function myEntry(sessionId) {
   return (mine && typeof mine === 'object' && mine[sessionId]) || null;
 }
 
+/** Ids of every board entry added from this device (its last 20 games that made the board). */
+export function myEntryIds() {
+  const mine = local.read(KEYS.boardMine, {});
+  return new Set(Object.values(mine && typeof mine === 'object' ? mine : {}).map((m) => m?.id).filter((id) => id != null));
+}
+
 function rememberMine(sessionId, value) {
   const mine = local.read(KEYS.boardMine, {});
   const kept = Object.entries(mine && typeof mine === 'object' ? mine : {}).slice(-19);

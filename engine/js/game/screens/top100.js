@@ -1,5 +1,5 @@
 import { mount, esc } from '../../ui/dom.js';
-import { fetchBoard, cachedBoard, myEntry, formatDuration, cupsOf, roundsPlayedOf, LIMIT } from '../leaderboard.js';
+import { fetchBoard, cachedBoard, myEntry, myEntryIds, formatDuration, cupsOf, roundsPlayedOf, LIMIT } from '../leaderboard.js';
 import { STATUS } from '../game-engine.js';
 import { formatDate } from '../../core/utils.js';
 import { t, ed, prizeCount } from '../../core/edition.js';
@@ -73,6 +73,9 @@ export function render(root, app) {
   const state = app.ctrl.state;
   const canCarryOn = state.status === STATUS.WON;
   const youId = app.lastBoardEntry ?? myEntry(state.sessionId)?.id ?? null;
+  // The entry to highlight and share: this game's, or else this device's best place still on the board.
+  const mineIds = myEntryIds();
+  const ownId = (board) => (youId != null && board.some((e) => e.id === youId) ? youId : board.find((e) => mineIds.has(e.id))?.id ?? null);
   // Show the board from the last visit straight away (e.g. just after adding a name), then refresh it.
   const cached = cachedBoard();
 
@@ -84,7 +87,7 @@ export function render(root, app) {
         <p class="muted board-rules">${esc(t('top100.rules'))}</p>
       </header>
       <div class="share-slot"></div>
-      <div class="board-slot">${cached ? boardHtml(cached, youId, app.meta) : statusCard('Loading the board…')}</div>
+      <div class="board-slot">${cached ? boardHtml(cached, ownId(cached), app.meta) : statusCard('Loading the board…')}</div>
       <div class="page-actions">
         ${canCarryOn
           ? `<button class="btn btn-primary" data-action="season">Start Season ${(state.season ?? 1) + 1}</button>`
@@ -101,7 +104,8 @@ export function render(root, app) {
   const shareSlot = root.querySelector('.share-slot');
   let sharedRank = null;
   const showShare = (board) => {
-    const i = youId == null ? -1 : board.findIndex((e) => e.id === youId);
+    const id = ownId(board);
+    const i = id == null ? -1 : board.findIndex((e) => e.id === id);
     if (i < 0) { shareSlot.innerHTML = ''; sharedRank = null; return; }
     if (sharedRank === i + 1) return;
     sharedRank = i + 1;
@@ -124,7 +128,7 @@ export function render(root, app) {
       return;
     }
     const hadYou = !!slot.querySelector('.is-you');
-    slot.innerHTML = boardHtml(r.board, youId, app.meta);
+    slot.innerHTML = boardHtml(r.board, ownId(r.board), app.meta);
     showShare(r.board);
     if (!hadYou) slot.querySelector('.is-you')?.scrollIntoView({ block: 'center' });
   };
