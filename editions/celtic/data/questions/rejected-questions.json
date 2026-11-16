@@ -1,8 +1,98 @@
 {
   "schemaVersion": 1,
   "collection": "rejected",
-  "updatedAt": "2026-11-15T23:53:25.630Z",
+  "updatedAt": "2026-11-16T00:04:02.661Z",
   "questions": [
+    {
+      "id": "q_001699",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-park",
+      "difficulty": 5,
+      "question": "Which German won the professional sprint at the 1897 cycling world championships at Celtic Park?",
+      "options": [
+        "Willy Arend",
+        "Thaddäus Robl",
+        "Walter Rütt",
+        "August Lehr"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Cycling world championships 1897"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:03:58.116Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:03:58.116Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Too difficult for Football fans"
+      }
+    },
+    {
+      "id": "q_001693",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Which famous Welsh referee took charge of the 2019 Pro14 final at Celtic Park?",
+      "options": [
+        "Nigel Owens",
+        "Wayne Barnes",
+        "Alain Rolland",
+        "Jaco Peyper"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Pro14 final 2019"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:02:36.344Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:02:36.344Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "To difficult for Football fans"
+      }
+    },
+    {
+      "id": "q_001692",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "What was the score when Leinster beat Glasgow Warriors in the 2019 Pro14 final at Celtic Park?",
+      "options": [
+        "21-17",
+        "15-12",
+        "24-20",
+        "18-15"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Pro14 final 2019"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:02:16.082Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:02:16.082Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Too difficult for football fans"
+      }
+    },
     {
       "id": "q_001514",
       "schemaVersion": 1,

@@ -1,8 +1,818 @@
 {
   "schemaVersion": 1,
   "collection": "approved",
-  "updatedAt": "2026-11-15T23:53:25.630Z",
+  "updatedAt": "2026-11-16T00:04:02.661Z",
   "questions": [
+    {
+      "id": "q_001698",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-park",
+      "difficulty": 5,
+      "question": "Roughly how many people watched Scotland play England at Celtic Park in 1894?",
+      "options": [
+        "15,000",
+        "25,000",
+        "45,000",
+        "65,000"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Scotland"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:03:35.269Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:03:35.269Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001697",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "Which two clubs met in the 1993 Scottish Cup final, played at Celtic Park while Hampden was being rebuilt?",
+      "options": [
+        "Hearts and Hibernian",
+        "Aberdeen and Dundee United",
+        "Rangers and Hearts",
+        "Rangers and Aberdeen"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Scottish Cup final 1993"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:03:30.112Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:03:30.112Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001696",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "Why was Scotland's 2006 match against the Faroe Islands moved to Celtic Park?",
+      "options": [
+        "Hampden was hosting a concert",
+        "Hampden's pitch was being relaid",
+        "A Hampden stand was being rebuilt",
+        "Hampden was hosting a rugby match"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Scotland"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:02:57.083Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:02:57.083Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001695",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Which sport did American servicemen play in front of a big crowd at Celtic Park in September 1918?",
+      "options": [
+        "American football",
+        "Basketball",
+        "Baseball",
+        "Ice hockey"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Baseball"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:02:49.278Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:02:49.278Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001694",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Scotland beat which nation 1-0 at Celtic Park in a Euro 2016 qualifier in November 2014?",
+      "options": [
+        "Northern Ireland",
+        "Republic of Ireland",
+        "Wales",
+        "England"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Scotland"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:02:42.916Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:02:42.916Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001691",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "In 1909 Celtic Park hosted the first game in Scotland of which sport, featuring the touring Australians?",
+      "options": [
+        "Rugby league",
+        "Australian rules football",
+        "Cricket",
+        "Lacrosse"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Rugby league"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:01:57.333Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:01:57.333Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001690",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Scotland beat which team 6-0 in a Euro 2008 qualifier at Celtic Park in 2006?",
+      "options": [
+        "San Marino",
+        "Liechtenstein",
+        "Faroe Islands",
+        "Andorra"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Scotland"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:01:49.961Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:01:49.961Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001689",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Which Scottish world flyweight champion boxed at Celtic Park in 1937?",
+      "options": [
+        "Ken Buchanan",
+        "Walter McGowan",
+        "Jackie Paterson",
+        "Benny Lynch"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Benny Lynch"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:01:44.589Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:01:44.589Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001688",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Which motor sport held its first meeting in Scotland at Celtic Park in 1928?",
+      "options": [
+        "Speedway",
+        "Stock car racing",
+        "Motocross",
+        "Go-karting"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Speedway"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:01:36.407Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:01:36.407Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001687",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "What was the name of the annual athletics meeting held at Celtic Park from 1890?",
+      "options": [
+        "The Parkhead Games",
+        "The Glasgow Highland Games",
+        "The Celtic Sports",
+        "The Paradise Mile"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Celtic Sports"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:01:20.538Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:01:20.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001686",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-park",
+      "difficulty": 2,
+      "question": "Which Chariots of Fire Olympian ran at the Celtic Sports athletics meetings at Celtic Park in the early 1920s?",
+      "options": [
+        "Harold Abrahams",
+        "Eric Liddell",
+        "Lord Burghley",
+        "Jesse Owens"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Eric Liddell"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:01:06.993Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:01:06.993Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001685",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "Which Irish province beat Glasgow Warriors in the 2019 Pro14 final at Celtic Park?",
+      "options": [
+        "Munster",
+        "Leinster",
+        "Ulster",
+        "Connacht"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Celtic Park",
+        "Other sports",
+        "Pro14 final 2019"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:00:49.907Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:00:49.907Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001684",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-park",
+      "difficulty": 5,
+      "question": "Which music magazine's 1996 poll named U2's 1993 Celtic Park concert among the best gigs of all time?",
+      "options": [
+        "NME",
+        "Rolling Stone",
+        "Kerrang!",
+        "Q"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "U2"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:00:33.027Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:00:33.027Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001683",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "Which singer-songwriter supported U2 on the first of their two Celtic Park nights in August 1993?",
+      "options": [
+        "PJ Harvey",
+        "Björk",
+        "Sinéad O'Connor",
+        "Tori Amos"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "U2"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:00:22.913Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:00:22.913Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001682",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "Wet Wet Wet's 1997 Celtic Park concert was released on video under which tongue-in-cheek title?",
+      "options": [
+        "Home and Away",
+        "Live in Paradise",
+        "Away Day",
+        "Playing Away at Home"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "Wet Wet Wet"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:00:18.106Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:00:18.106Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001681",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "Which future Baywatch actress was a support act for Prince at Celtic Park in 1992?",
+      "options": [
+        "Pamela Anderson",
+        "Yasmine Bleeth",
+        "Carmen Electra",
+        "Nicole Eggert"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "Prince"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-16T00:00:04.764Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:00:04.764Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001680",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Which duo, who had a number one with \"Stay\", supported Prince at Celtic Park in 1992?",
+      "options": [
+        "Eurythmics",
+        "Shakespears Sister",
+        "Roxette",
+        "Everything but the Girl"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "Prince"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:58.881Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:58.881Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001679",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Wet Wet Wet's September 1997 Celtic Park concert was put back a day because of which event?",
+      "options": [
+        "A Celtic home match",
+        "A storm over Glasgow",
+        "The funeral of Diana, Princess of Wales",
+        "A general election"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "Wet Wet Wet"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:54.444Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:54.444Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001678",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Which band, known for \"More Than Words\", supported Bryan Adams at Celtic Park in 1992?",
+      "options": [
+        "Extreme",
+        "Mr. Big",
+        "Bon Jovi",
+        "Def Leppard"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "Bryan Adams"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:47.405Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:47.405Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001677",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Which Beatle had a Celtic Park concert planned for 2003 that was later cancelled?",
+      "options": [
+        "Ringo Starr",
+        "Paul McCartney",
+        "George Harrison",
+        "John Lennon"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "Paul McCartney"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:38.522Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:38.522Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001676",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "Which Scottish band supported The Who at Celtic Park in 1976?",
+      "options": [
+        "The Sensational Alex Harvey Band",
+        "Nazareth",
+        "Average White Band",
+        "Big Country"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "The Who"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:26.954Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:26.954Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001675",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "In which year did U2 play their two concerts at Celtic Park?",
+      "options": [
+        "1987",
+        "1997",
+        "1993",
+        "2005"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "U2"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:22.839Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:22.839Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001674",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "celtic-park",
+      "difficulty": 2,
+      "question": "Bryan Adams played his Robin Hood film hit at Celtic Park in 1992. What was it called?",
+      "options": [
+        "Summer of '69",
+        "Heaven",
+        "Please Forgive Me",
+        "(Everything I Do) I Do It for You"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "Bryan Adams"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:19.701Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:19.701Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001673",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "celtic-park",
+      "difficulty": 2,
+      "question": "Which Canadian singer played Celtic Park in July 1992 on his \"Waking Up the Neighbours\" tour?",
+      "options": [
+        "Neil Young",
+        "Bryan Adams",
+        "Michael Bublé",
+        "Leonard Cohen"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "Bryan Adams"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:12.302Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:12.302Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001672",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "celtic-park",
+      "difficulty": 2,
+      "question": "Which American star played Celtic Park in June 1992 on his Diamonds and Pearls tour?",
+      "options": [
+        "Prince",
+        "Michael Jackson",
+        "Bruce Springsteen",
+        "Lionel Richie"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "Prince"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:08.064Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:08.064Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001671",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "celtic-park",
+      "difficulty": 2,
+      "question": "Which band, famous for \"My Generation\", played Celtic Park in June 1976?",
+      "options": [
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "The Who",
+        "Queen"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "The Who"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:59:03.263Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:59:03.263Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001670",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "celtic-park",
+      "difficulty": 1,
+      "question": "Which Irish band played two concerts at Celtic Park in August 1993?",
+      "options": [
+        "Simple Minds",
+        "U2",
+        "The Pogues",
+        "The Cranberries"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Celtic Park",
+        "Concerts",
+        "U2"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-15T23:58:33.957Z",
+      "updatedAt": "2026-11-15T23:58:56.982Z",
+      "review": {
+        "reviewedAt": "2026-11-15T23:58:56.982Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
     {
       "id": "q_001669",
       "schemaVersion": 1,
