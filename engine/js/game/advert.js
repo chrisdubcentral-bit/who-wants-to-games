@@ -6,10 +6,11 @@
 // appears after skipAfterMs. With a "url", tapping the video or the link button opens it in a new tab, so the game
 // carries on underneath. A missing or broken video never holds the game up: the overlay just closes.
 // Adverts showing after the same stage take turns: one per game, in the order listed (a new season counts as a new game).
+// With "order": "random" in the file, each break instead plays any of the adverts showing today, picked at random.
 
 import { html, esc } from '../ui/dom.js';
 import { t } from '../core/edition.js';
-import { getAdverts, showingAfter } from '../core/adverts.js';
+import { getAdverts, getAdvertOrder, showingAfter, randomAfter, breakStages, isShowing } from '../core/adverts.js';
 import { track } from '../core/analytics.js';
 import { local, KEYS } from '../core/storage.js';
 
@@ -21,6 +22,7 @@ const DEFAULT_SKIP_MS = 5000;
  * runKey identifies the game, so the same game always gets the same advert and the next game gets the next one.
  */
 export function breakAfter(stageKey, runKey = null) {
+  if (getAdvertOrder() === 'random') return randomBreakAfter(stageKey, runKey);
   const options = showingAfter(getAdverts(), stageKey);
   if (options.length <= 1 || !runKey) return options[0];
 
@@ -31,6 +33,33 @@ export function breakAfter(stageKey, runKey = null) {
     local.write(KEYS.advertTurns, { ...turns, [stageKey]: turn });
   }
   return options[turn.n % options.length];
+}
+
+const RANDOM_TURN = '~random';   // where the random picks are kept, beside the per-stage turns
+
+/**
+ * Random order: each break plays one of all the adverts showing today, and a game never gets the same one twice.
+ * The picks are remembered per game, so preloading, showing and a reload mid-game all get the same advert.
+ */
+function randomBreakAfter(stageKey, runKey) {
+  const list = getAdverts();
+  const turns = local.read(KEYS.advertTurns, {}) ?? {};
+  const saved = turns[RANDOM_TURN];
+  const picks = runKey && saved?.run === runKey && saved.picks && typeof saved.picks === 'object' ? saved.picks : {};
+
+  // Still showing today? (An advert can end at midnight, or be switched off, in the middle of a game.)
+  let pick = picks[stageKey] != null
+    ? list.find((a) => a.id === picks[stageKey] && isShowing(a) && breakStages(list).includes(stageKey))
+    : null;
+  if (!pick) {
+    const used = Object.entries(picks).filter(([key]) => key !== stageKey).map(([, id]) => id);
+    pick = randomAfter(list, stageKey, used);
+    if (pick && runKey) {
+      local.write(KEYS.advertTurns, { ...turns, [RANDOM_TURN]: { run: runKey, picks: { ...picks, [stageKey]: pick.id } } });
+    }
+  }
+  // "after" is the break it is playing in, which the preloader uses to match the video to the stage.
+  return pick ? { ...pick, after: stageKey } : undefined;
 }
 
 /** The landscape file on a wide screen, the portrait one on a phone held upright (or whichever one is set). */

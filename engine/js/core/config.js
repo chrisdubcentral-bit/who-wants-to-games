@@ -55,7 +55,7 @@ export async function loadMeta(base = '') {
   ]);
   setEdition(e);
   // Older editions kept their adverts in edition.json under adverts.breaks.
-  setAdverts(a?.adverts ?? e?.adverts?.breaks ?? []);
+  setAdverts(a?.adverts ?? e?.adverts?.breaks ?? [], a?.order);
   meta = buildMeta(s.stages, c.categories);
   return meta;
 }

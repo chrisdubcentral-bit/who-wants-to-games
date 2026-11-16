@@ -5,13 +5,23 @@
 //   enabled      false switches it off whatever the dates say
 //   from, until  optional 'YYYY-MM-DD' dates, both inclusive, in the player's own time zone
 //   after        the stage key it plays after (e.g. "round-1"); adverts sharing a stage take turns
+//
+// The file's "order" says how adverts are chosen:
+//   'turns'   (the default) each advert plays after its own stage; adverts sharing a stage take turns
+//   'random'  every stage that has an advert is an advert break, and each break plays one of all the adverts
+//             showing today, picked at random, with no advert shown twice in the same game
+
+export const ORDERS = ['turns', 'random'];
 
 let adverts = [];
+let order = 'turns';
 
-export function setAdverts(list) {
+export function setAdverts(list, newOrder = 'turns') {
   adverts = Array.isArray(list) ? list.filter((a) => a && typeof a === 'object') : [];
+  order = ORDERS.includes(newOrder) ? newOrder : 'turns';
 }
 export const getAdverts = () => adverts;
+export const getAdvertOrder = () => order;
 
 const DAY = /^\d{4}-\d{2}-\d{2}$/;
 export const isDay = (v) => typeof v === 'string' && DAY.test(v);
@@ -43,6 +53,24 @@ export const isShowing = (ad, today) => advertStatus(ad, today) === 'showing';
 /** The adverts showing today after the given stage, in the order listed. */
 export function showingAfter(list, stageKey, today = dayKey()) {
   return (Array.isArray(list) ? list : []).filter((a) => a && a.after === stageKey && isShowing(a, today));
+}
+
+/** The stages that have an advert break today (at least one advert showing after them). */
+export function breakStages(list, today = dayKey()) {
+  return [...new Set((Array.isArray(list) ? list : []).filter((a) => a && isShowing(a, today)).map((a) => a.after))];
+}
+
+/**
+ * Random order: the advert for the break after the given stage, or undefined if that stage has no break.
+ * Picked from every advert showing today, leaving out the ones already shown this game (usedIds) while
+ * there are others left.
+ */
+export function randomAfter(list, stageKey, usedIds = [], rand = Math.random, today = dayKey()) {
+  if (!breakStages(list, today).includes(stageKey)) return undefined;
+  const showing = list.filter((a) => a && isShowing(a, today));
+  const unseen = showing.filter((a) => !usedIds.includes(a.id));
+  const pool = unseen.length ? unseen : showing;
+  return pool[Math.min(pool.length - 1, Math.floor(rand() * pool.length))];
 }
 
 /** Problems that would stop an advert working properly (shown on the admin page, checked by the build). */

@@ -2,7 +2,8 @@
 
 Short videos played between stages of the game. Which ones play, after which stage, and on which dates is set on the
 **Adverts** tab of the edition's `admin-review.html`, which saves `editions/<name>/data/adverts.json`. Adverts after
-the same stage take turns: one per game (a new season counts as a new game), in the order listed.
+the same stage take turns: one per game (a new season counts as a new game), in the order listed. With the tab's
+**Order** set to Random, each advert break instead plays any of the adverts showing that day, picked at random.
 
 The compressed 720p copies **are committed to git**, because Netlify builds the test site from the repo. The large
 1080p masters are not (see `.gitignore`); they stay in the Marketing project (`Who Wants To Games - Marketing`).

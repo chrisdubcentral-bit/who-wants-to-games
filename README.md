@@ -220,7 +220,8 @@ edition's data; the examples here are from the Celtic edition.
 - **Adverts:** an edition can play a short video between stages, after the newspaper (Celtic: after the First Round,
   halfway through the eight stages).
   It plays muted, a Skip button appears after a few seconds, and the time it holds the game is given back so it
-  doesn't count towards your Top 100 time. Adverts after the same stage take turns, one per game. They are managed
+  doesn't count towards your Top 100 time. Adverts after the same stage take turns, one per game, or the edition can
+  pick them at random (Celtic does). They are managed
   on the [Adverts tab](#managing-adverts) and stored in the edition's `data/adverts.json`. The videos live in
   `media/ads/` at the project root (the compressed 720p copies only; see `media/ads/README.md`). If a video is
   missing the game simply carries on.
@@ -282,6 +283,11 @@ The **Adverts** tab on the edition's `admin-review.html` lists every advert with
 - change the stage it **plays after**, when the **Skip** button appears, the **advertiser name** shown under the
   video, the **button text** and the **link**;
 - change the **turn order** (adverts after the same stage take turns in the order listed), or **delete** it.
+
+The **Order** setting above the list chooses how adverts are picked. **Take turns** plays each advert after its own
+stage. **Random** (Celtic) treats every stage that has an advert as an advert break and plays any of the adverts
+showing today in each one, picked at random, never the same advert twice in one game. It is saved as `"order"` in
+`adverts.json`.
 
 The panel at the top says which adverts are showing today. Changes are kept in the browser until you click
 **Save Adverts** (separate from the questions' Publish). The first time, Chrome or Edge asks for the edition's `data`

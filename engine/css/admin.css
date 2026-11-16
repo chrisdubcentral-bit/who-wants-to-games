@@ -163,6 +163,7 @@
 .adverts .page-head p { max-width: 780px; }
 .adverts-bar { display: flex; justify-content: space-between; align-items: center; gap: var(--sp-4); flex-wrap: wrap; margin-bottom: var(--sp-4); }
 .adverts-save { display: flex; align-items: center; gap: var(--sp-2); flex-wrap: wrap; }
+.ad-order { max-width: 520px; margin-bottom: var(--sp-4); }
 .ad-today { margin: 0; display: grid; gap: 4px; font-size: var(--fs-sm); color: var(--grey-light); }
 .ad-today strong { color: var(--white); }
 .adlist { display: grid; gap: var(--sp-4); }

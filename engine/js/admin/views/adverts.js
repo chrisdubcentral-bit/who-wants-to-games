@@ -1,5 +1,5 @@
 // Admin "Adverts" tab: switch adverts on and off, give them start/end dates, edit their link and button,
-// change the stage they play after and the order they take turns in. Saves data/adverts.json.
+// change the stage they play after and the order they take turns in (or have them picked at random). Saves data/adverts.json.
 // Unsaved changes are kept in this browser (like the question working copy) until saved or discarded.
 
 import { esc, on, mount } from '../../ui/dom.js';
@@ -7,19 +7,21 @@ import { toast } from '../../ui/components/toast.js';
 import { openModal, confirmModal } from '../../ui/components/modal.js';
 import { local, KEYS } from '../../core/storage.js';
 import { fetchJson, PATHS } from '../../core/config.js';
-import { advertStatus, advertProblems, dayKey, isDay, setAdverts } from '../../core/adverts.js';
+import { advertStatus, advertProblems, dayKey, isDay, setAdverts, ORDERS } from '../../core/adverts.js';
 import { saveAdvertsFile, advertsPath, supportsDirectSave, secureAddressHint } from '../../data-sources/publishers.js';
 
 const VIDEO_DIR = '../../media/ads/';
 const DEFAULT_SKIP_MS = 5000;
 
 // Kept between visits to the tab while the page is open.
-let file = null;     // the adverts file as last loaded or saved: { schemaVersion, updatedAt, adverts }
+let file = null;     // the adverts file as last loaded or saved: { schemaVersion, updatedAt, order, adverts }
 let draft = null;    // the list being edited
+let order = 'turns'; // how adverts are chosen, being edited: 'turns' or 'random' (see core/adverts.js)
 let dirty = false;
 let baseUpdatedAt = null;   // file.updatedAt when the unsaved changes were started
 
 const clone = (v) => JSON.parse(JSON.stringify(v));
+const validOrder = (v) => (ORDERS.includes(v) ? v : 'turns');
 const pretty = (day) => (isDay(day)
   ? new Date(`${day}T12:00:00`).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' })
   : '');
@@ -27,9 +29,9 @@ const pretty = (day) => (isDay(day)
 async function loadFile() {
   try {
     const f = await fetchJson(PATHS.adverts);
-    return { schemaVersion: 1, updatedAt: f.updatedAt ?? null, adverts: Array.isArray(f.adverts) ? f.adverts : [] };
+    return { schemaVersion: 1, updatedAt: f.updatedAt ?? null, order: validOrder(f.order), adverts: Array.isArray(f.adverts) ? f.adverts : [] };
   } catch {
-    return { schemaVersion: 1, updatedAt: null, adverts: [], missing: true };
+    return { schemaVersion: 1, updatedAt: null, order: 'turns', adverts: [], missing: true };
   }
 }
 
@@ -38,10 +40,12 @@ async function loadState({ fresh = false } = {}) {
   const saved = fresh ? null : local.read(KEYS.adminAdverts, null);
   if (saved && Array.isArray(saved.adverts)) {
     draft = saved.adverts;
+    order = validOrder(saved.order ?? file.order);
     baseUpdatedAt = saved.base ?? null;
     dirty = true;
   } else {
     draft = clone(file.adverts);
+    order = file.order;
     baseUpdatedAt = file.updatedAt;
     dirty = false;
   }
@@ -49,7 +53,7 @@ async function loadState({ fresh = false } = {}) {
 
 function keepDraft() {
   dirty = true;
-  local.write(KEYS.adminAdverts, { base: baseUpdatedAt, adverts: draft });
+  local.write(KEYS.adminAdverts, { base: baseUpdatedAt, order, adverts: draft });
 }
 
 function clearDraft() {
@@ -110,7 +114,10 @@ export function render(root, ctx) {
     const byStage = stageKeys
       .map((k) => ({ k, ads: showing.filter((a) => a.after === k) }))
       .filter((g) => g.ads.length);
-    const lines = byStage.map((g) => g.ads.length === 1
+    const list = (items) => (items.length > 1 ? `${items.slice(0, -1).join(', ')} and ${items.at(-1)}` : items.join(''));
+    const lines = order === 'random' && showing.length > 1
+      ? [`<span>After the ${list(byStage.map((g) => `<strong>${esc(stageLabel(g.k))}</strong>`))}: one of ${showing.map((a) => esc(a.name)).join(', ')}, picked at random</span>`]
+      : byStage.map((g) => g.ads.length === 1
       ? `<span>After the <strong>${esc(stageLabel(g.k))}</strong>: ${esc(g.ads[0].name)}</span>`
       : `<span>After the <strong>${esc(stageLabel(g.k))}</strong>, taking turns: ${g.ads.map((a) => esc(a.name)).join(', ')}</span>`);
     return `
@@ -213,7 +220,8 @@ export function render(root, ctx) {
           <span class="eyebrow">Admin</span>
           <h1>Adverts</h1>
           <p class="muted">Adverts play between stages. Switch them on or off, or give them dates so a time-limited advert
-            starts and stops by itself. Adverts after the same stage take turns, one per game, in the order below.
+            starts and stops by itself. Adverts after the same stage take turns, one per game, in the order below,
+            unless the order is set to random.
             Dates use the player's own date and include the end day. Save here, then push to <code>live</code> to update the game.</p>
         </header>
         <div class="card card-pad adverts-bar">
@@ -222,6 +230,13 @@ export function render(root, ctx) {
         </div>
         ${conflict ? `<div class="alert"><span><strong>The adverts file has changed</strong> since you started these unsaved changes
           (it was saved somewhere else). Saving will replace it with what you see here. Discard to start again from the file.</span></div>` : ''}
+        <div class="field ad-order">
+          <label for="ad-order">Order</label>
+          <select class="select" id="ad-order" data-order>
+            <option value="turns" ${order === 'turns' ? 'selected' : ''}>Take turns: each advert plays after its own stage</option>
+            <option value="random" ${order === 'random' ? 'selected' : ''}>Random: any advert can play in any break, none twice in a game</option>
+          </select>
+        </div>
         <div class="adlist">${draft.length ? draft.map(cardHtml).join('') : '<div class="card card-pad muted">No adverts yet.</div>'}</div>
         <div class="page-actions" style="justify-content:flex-start">
           <button type="button" class="btn" data-action="add">Add Advert</button>
@@ -288,7 +303,7 @@ export function render(root, ctx) {
         'Download', 'Cancel');
       if (!ok) return;
     }
-    const data = { schemaVersion: 1, updatedAt: new Date().toISOString(), adverts: draft.map((a) => ({ ...a, name: a.name.trim() })) };
+    const data = { schemaVersion: 1, updatedAt: new Date().toISOString(), order, adverts: draft.map((a) => ({ ...a, name: a.name.trim() })) };
     try {
       const res = await saveAdvertsFile(data);
       if (res.method === 'download') {
@@ -306,7 +321,7 @@ export function render(root, ctx) {
       draft = clone(data.adverts);
       baseUpdatedAt = data.updatedAt;
       clearDraft();
-      setAdverts(draft);
+      setAdverts(draft, order);
       draw();
       toast({ message: 'Adverts saved. Push to live to update the game.', tone: 'success', duration: 6000 });
     } catch (err) {
@@ -325,6 +340,12 @@ export function render(root, ctx) {
         card.querySelector('.adcard-media').innerHTML = mediaHtml(adOf(el));
         checkFiles(card);
       }
+    }),
+    on(root, 'change', '[data-order]', (e, el) => {
+      order = validOrder(el.value);
+      keepDraft();
+      root.querySelector('[data-ref="summary"]').innerHTML = summaryHtml();
+      root.querySelector('[data-ref="bar"]').innerHTML = barHtml();
     }),
     on(root, 'click', '[data-shape]', (e, btn) => {
       const ad = adOf(btn);

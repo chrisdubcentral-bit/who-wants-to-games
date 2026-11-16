@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-11-15T22:48:49.825Z",
+  "order": "random",
   "adverts": [
     {
       "id": "weekly-lottery",

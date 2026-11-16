@@ -8,7 +8,7 @@ import { migrateQuestion, migrateCollection } from '../engine/js/core/migrations
 import { applyGame, emptyStats } from '../engine/js/game/stats.js';
 import { matchesQuery, applyFilters, idsInQuery } from '../engine/js/core/search.js';
 import { normalise, nextQuestionId, similarity } from '../engine/js/core/utils.js';
-import { advertStatus, showingAfter, advertProblems, dayKey } from '../engine/js/core/adverts.js';
+import { advertStatus, showingAfter, randomAfter, breakStages, advertProblems, dayKey } from '../engine/js/core/adverts.js';
 import { compareEntries, insertEntry, upsertEntry, entryFromSummary, prospectiveRank, isEligible, cleanText, formatDuration, rankOfSession, LIMIT } from '../engine/js/game/leaderboard.js';
 
 const results = [];
@@ -434,6 +434,17 @@ test('only adverts showing today after the stage take turns, in the order listed
   const list = [ad({ id: '1' }), ad({ id: '2', until: '2026-01-01' }), ad({ id: '3', after: 'round-2' }), ad({ id: '4' })];
   eq(showingAfter(list, 'round-1', '2026-06-01').map((a) => a.id), ['1', '4']);
   eq(showingAfter(list, 'final', '2026-06-01'), []);
+});
+test('random order: any showing advert can play in a break, and none twice in a game', () => {
+  const list = [ad({ id: '1' }), ad({ id: '2' }), ad({ id: '3', after: 'round-2' }), ad({ id: '4', after: 'round-3', enabled: false })];
+  eq(breakStages(list, '2026-06-01'), ['round-1', 'round-2']);
+  eq(randomAfter(list, 'round-3', [], () => 0, '2026-06-01'), undefined);   // no advert showing after it: no break
+  eq(randomAfter(list, 'round-1', [], () => 0.99, '2026-06-01').id, '3');   // an advert listed after another stage
+  eq(randomAfter(list, 'round-2', ['3'], () => 0.99, '2026-06-01').id, '2'); // not the one already shown
+  eq(randomAfter(list, 'round-2', ['1', '2', '3'], () => 0, '2026-06-01').id, '1'); // all shown: any of them
+  const seen = new Set();
+  for (let i = 0; i < 200; i++) seen.add(randomAfter(list, 'round-1', [], Math.random, '2026-06-01').id);
+  eq([...seen].sort(), ['1', '2', '3']);
 });
 test('advert problems are spotted', () => {
   eq(advertProblems(ad(), ['round-1']), []);
