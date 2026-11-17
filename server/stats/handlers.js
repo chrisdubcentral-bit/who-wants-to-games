@@ -15,7 +15,7 @@ export const SHARE_SOURCE = 'Shared scores';
 export const SHARE_METHODS = ['share_menu', 'whatsapp', 'x', 'facebook', 'copy', 'download'];
 
 export const LIMITS = {
-  eventsPerRequest: 50,
+  eventsPerRequest: 200,   // a whole visit's events arrive together when the page is hidden (engine/js/core/analytics.js)
   eventsPerSession: 1000,
   sessionsPerVisitorPerDay: 300,
   maxActiveMs: 6 * 3600 * 1000,

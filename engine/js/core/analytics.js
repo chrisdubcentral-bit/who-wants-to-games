@@ -7,12 +7,15 @@
 //
 // What's sent: the visit (device type, the referring site's name, any ?utm_source), time on screen, and game
 // events: game started/finished (stage reached), adverts shown/clicked/skipped, Top 100 entries.
+//
+// Everything waits in memory and goes in one request when the page is hidden or closed (switching tab or app,
+// locking the phone, leaving). The database is billed for the time it's awake, and any request wakes it, so
+// regular pings while people play would keep it running all day.
 
 import { local } from './storage.js';
 
 const API = '/api/stats';
-const FLUSH_MS = 5000;           // send queued events this often
-const PING_MS = 30000;           // update time on screen this often while the page is visible
+const MAX_EVENTS = 200;          // per request; must match LIMITS.eventsPerRequest in server/stats/handlers.js
 const MAX_TRACKED_MS = 6 * 3600 * 1000;
 const OPT_OUT = 'stats:off';
 
@@ -49,7 +52,7 @@ function activeNow() {
 }
 
 function payload() {
-  const body = { sid: state.sid, edition: state.edition, activeMs: activeNow(), events: state.queue.splice(0, 50) };
+  const body = { sid: state.sid, edition: state.edition, activeMs: activeNow(), events: state.queue.splice(0, MAX_EVENTS) };
   if (!state.visitSent) {
     const params = new URLSearchParams(location.search);
     body.visit = { device: device(), referrer: referrerHost(), utm: params.get('utm_source') ?? '' };
@@ -57,22 +60,19 @@ function payload() {
   return body;
 }
 
-/** Sends whatever is waiting. On the way out of the page it uses sendBeacon, which survives the page closing. */
-function flush({ leaving = false, force = false } = {}) {
+/** Sends whatever is waiting, if anything changed since the last send. Uses sendBeacon, which survives the page closing. */
+function flush() {
   if (!state) return;
-  const changed = state.queue.length || !state.visitSent || activeNow() - state.lastSentActive >= PING_MS - 1000;
-  if (!changed && !force) return;
+  const changed = state.queue.length || !state.visitSent || activeNow() - state.lastSentActive >= 1000;
+  if (!changed) return;
   const body = payload();
   const wasVisitSent = state.visitSent;
   state.visitSent = true;
   state.lastSentActive = body.activeMs;
   const text = JSON.stringify(body);
   try {
-    if (leaving && navigator.sendBeacon) {
-      navigator.sendBeacon(API, new Blob([text], { type: 'text/plain' }));
-      return;
-    }
-    fetch(API, { method: 'POST', body: text, headers: { 'content-type': 'text/plain' } })
+    if (navigator.sendBeacon?.(API, new Blob([text], { type: 'text/plain' }))) return;
+    fetch(API, { method: 'POST', body: text, headers: { 'content-type': 'text/plain' }, keepalive: true })
       .then(async (res) => {
         await res.text(); // read the reply so the browser can close the request
         if (!res.ok && res.status >= 500) throw new Error();
@@ -93,7 +93,7 @@ function onVisibility() {
     if (state.visibleSince == null) state.visibleSince = performance.now();
   } else {
     if (state.visibleSince != null) { state.activeMs += performance.now() - state.visibleSince; state.visibleSince = null; }
-    flush({ leaving: true, force: true });
+    flush();
   }
 }
 
@@ -107,9 +107,7 @@ export function startAnalytics({ edition }) {
     visibleSince: document.visibilityState === 'visible' ? performance.now() : null,
   };
   document.addEventListener('visibilitychange', onVisibility);
-  window.addEventListener('pagehide', () => flush({ leaving: true, force: true }));
-  setInterval(() => flush(), FLUSH_MS);
-  flush();
+  window.addEventListener('pagehide', () => flush());
 }
 
 /** Records an event: game_start, game_end, advert_shown, advert_click, advert_skip, advert_complete, top100_entry. */

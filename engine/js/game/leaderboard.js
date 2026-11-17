@@ -27,7 +27,8 @@ async function call(path, { method = 'GET', body } = {}) {
       method,
       headers: body ? { 'content-type': 'application/json' } : undefined,
       body: body ? JSON.stringify(body) : undefined,
-      cache: 'no-store',
+      // The board GET may come from Netlify's CDN cache (netlify/functions/top100.mjs); 'no-store' would bypass it.
+      cache: method === 'GET' ? 'default' : 'no-store',
       signal: ctrl.signal,
     });
     let data = null;

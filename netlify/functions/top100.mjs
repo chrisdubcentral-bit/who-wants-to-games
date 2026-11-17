@@ -25,10 +25,19 @@ const handlers = createHandlers({
   log: (msg, data) => console.log(`[top100] ${msg}`, JSON.stringify(data)),
 });
 
-const json = ({ status, body }, cache = 'no-store') => new Response(JSON.stringify(body), {
+const json = ({ status, body }, extraHeaders = {}) => new Response(JSON.stringify(body), {
   status,
-  headers: { 'content-type': 'application/json; charset=utf-8', 'cache-control': cache },
+  headers: { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store', ...extraHeaders },
 });
+
+// The board is cached at Netlify's CDN for a minute, so most views don't wake the database (it's billed for
+// the time it's awake). New entries show within a minute; the player who submits gets the fresh board back.
+// Browsers always ask the CDN (max-age=0), and the cache is kept per edition.
+const BOARD_CACHE = {
+  'cache-control': 'public, max-age=0, must-revalidate',
+  'netlify-cdn-cache-control': 'public, s-maxage=60, stale-while-revalidate=60',
+  'netlify-vary': 'query=edition',
+};
 
 export default async (req, context) => {
   const url = new URL(req.url);
@@ -49,7 +58,10 @@ export default async (req, context) => {
       return json(await handlers.admin({ method: req.method, query, body, headers }));
     }
     if (route === 'start' && req.method === 'POST') return json(await handlers.start({ body, ip: context.ip }));
-    if (route === 'top100' && req.method === 'GET') return json(await handlers.board({ query }));
+    if (route === 'top100' && req.method === 'GET') {
+      const r = await handlers.board({ query });
+      return json(r, r.status === 200 ? BOARD_CACHE : {});
+    }
     if (route === 'top100' && req.method === 'POST') return json(await handlers.submit({ body, ip: context.ip }));
     return json({ status: 404, body: { ok: false, error: 'not-found' } });
   } catch (err) {
