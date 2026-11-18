@@ -7,12 +7,14 @@ export function createMemoryStore() {
   let nextId = 1;
   return {
     runs, entries,
-    async createRun({ token, edition, ipHash, createdAt }) { runs.set(token, { edition, ipHash, createdAt, submits: 0 }); },
     async countRecentRuns(ipHash, sinceIso) {
       return [...runs.values()].filter((r) => r.ipHash === ipHash && r.createdAt > sinceIso).length;
     },
     async getRun(token) { const r = runs.get(token); return r ? { ...r } : null; },
-    async bumpSubmits(token) { runs.get(token).submits++; },
+    async recordSubmit({ token, edition, ipHash, createdAt }) {
+      const r = runs.get(token);
+      if (r) r.submits++; else runs.set(token, { edition, ipHash, createdAt, submits: 1 });
+    },
     async pruneRuns(beforeIso) { for (const [k, r] of runs) if (r.createdAt < beforeIso) runs.delete(k); },
     async listEntries(edition, board, { includeHidden, limit }) {
       return entries.filter((e) => e.edition === edition && e.board === board && (includeHidden || !e.hidden))

@@ -2,8 +2,8 @@
 // The ranking rules live in ranking.js, which the server uses too.
 //
 // How a run gets onto the board:
-//   1. When a new game starts, startRun() asks the server for a run token. The server notes the time,
-//      so it can check later that the run took as long as it claims.
+//   1. When a new game starts, startRun() asks the server for a signed run token holding the start time,
+//      so the server can check later that the run took as long as it claims.
 //   2. When the run is over, submitEntry() sends the name, town and result with that token.
 //   3. The server checks the entry (word filter, plausible result and time) and returns the new board.
 // A game that started without a connection has no token, so it can't be added.

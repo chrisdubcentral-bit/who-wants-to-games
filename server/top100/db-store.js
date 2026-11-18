@@ -27,11 +27,6 @@ export function createDbStore() {
   const db = () => (sql ??= getDatabase().sql);
 
   return {
-    async createRun({ token, edition, ipHash, createdAt }) {
-      await db()`INSERT INTO top100_runs (token, edition, ip_hash, created_at)
-                 VALUES (${token}, ${edition}, ${ipHash}, ${createdAt})`;
-    },
-
     async countRecentRuns(ipHash, sinceIso) {
       const [r] = await db()`SELECT count(*)::int AS n FROM top100_runs
                              WHERE ip_hash = ${ipHash} AND created_at > ${sinceIso}`;
@@ -43,8 +38,11 @@ export function createDbStore() {
       return r ? { edition: r.edition, createdAt: iso(r.created_at), submits: r.submits } : null;
     },
 
-    async bumpSubmits(token) {
-      await db()`UPDATE top100_runs SET submits = submits + 1 WHERE token = ${token}`;
+    /** Counts an entry from this run. The run's row is made by its first entry, so games that never enter cost nothing. */
+    async recordSubmit({ token, edition, ipHash, createdAt }) {
+      await db()`INSERT INTO top100_runs (token, edition, ip_hash, created_at, submits)
+                 VALUES (${token}, ${edition}, ${ipHash}, ${createdAt}, 1)
+                 ON CONFLICT (token) DO UPDATE SET submits = top100_runs.submits + 1`;
     },
 
     async pruneRuns(beforeIso) {

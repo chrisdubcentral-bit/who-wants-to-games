@@ -113,9 +113,6 @@ export function render(root, app) {
     ].join('');
     ref('cat').textContent = meta.categoryLabel(q.category);
     ref('question').textContent = q.question;
-    // An advert after this stage? Start loading it now so it plays without a pause.
-    const brk = breakAfter(stage.key, advertRun(state));
-    if (brk && preloaded?.dataset.after !== stage.key) { preloaded?.remove(); preloaded = preloadAdvert(brk); }
     ref('answers').innerHTML = q.options.map((opt, i) => `
       <button type="button" class="answer" data-index="${i}" aria-label="${LETTERS[i]}: ${esc(opt)}">
         <span class="letter" aria-hidden="true">${LETTERS[i]}</span>
@@ -173,7 +170,14 @@ export function render(root, app) {
     if (state.status !== shownStatus) {
       if (state.status === STATUS.LOCKED) announce(`Final answer: ${LETTERS[state.selected]}`);
       if (state.status === STATUS.REVEALED) {
-        if (state.lastCorrect) playCheer();
+        if (state.lastCorrect) {
+          playCheer();
+          // An advert after this stage? Load it during the newspaper, so it plays without a pause. Waiting for a
+          // correct answer means players knocked out here don't download a video they'll never see.
+          const stageKey = state.stages[state.stageIndex].key;
+          const brk = breakAfter(stageKey, advertRun(state));
+          if (brk && preloaded?.dataset.after !== stageKey) { preloaded?.remove(); preloaded = preloadAdvert(brk); }
+        }
         announce(state.lastCorrect ? t('quiz.correct') : `Wrong. The correct answer was ${LETTERS[q.correctAnswer]}: ${q.options[q.correctAnswer]}`);
       }
       shownStatus = state.status;

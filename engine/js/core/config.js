@@ -78,7 +78,8 @@ export function setMeta(m) { meta = m; }
 export function getMeta() { return meta; }
 
 export async function fetchJson(url) {
-  const res = await fetch(url, { cache: 'no-store' });
+  // 'no-cache' always asks the server, but an unchanged file isn't downloaded again, which saves bandwidth.
+  const res = await fetch(url, { cache: 'no-cache' });
   if (!res.ok) throw new Error(`Could not load ${url} (${res.status})`);
   return res.json();
 }

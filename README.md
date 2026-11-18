@@ -115,7 +115,7 @@ One Top 100 per edition, shared by every player. It runs on the same Netlify sit
    creates it when it sees `netlify/database/migrations`). Netlify sets `NETLIFY_DB_URL` for you.
 2. In **Site configuration → Environment variables**, add:
    - `TOP100_ADMIN_KEY`: the password for the admin page. Make it long and random.
-   - `TOP100_IP_SALT`: any random text. It makes the stored IP hashes impossible to reverse.
+   - `TOP100_IP_SALT`: any random text. It makes the stored IP hashes impossible to reverse and signs the run tokens, so changing it stops games in progress from entering the Top 100.
 3. Deploy (`git push origin main:live`). The first deploy applies the migration and creates the tables.
 
 ### How it stops cheating and abuse

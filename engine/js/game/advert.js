@@ -81,7 +81,7 @@ function makeVideo(brk) {
   return v;
 }
 
-/** Starts loading the advert ahead of time (while the question before the break is on screen). Returns the <video>. */
+/** Starts loading the advert ahead of time (once the question before the break is answered correctly). Returns the <video>. */
 export function preloadAdvert(brk) {
   const v = makeVideo(brk);
   v.hidden = true;

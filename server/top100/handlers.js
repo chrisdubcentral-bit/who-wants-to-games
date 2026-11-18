@@ -3,7 +3,7 @@
 //
 // Each handler returns { status, body }. netlify/functions/top100.mjs turns that into a Response.
 
-import { createHash, randomUUID, timingSafeEqual } from 'node:crypto';
+import { createHash, createHmac, randomUUID, timingSafeEqual } from 'node:crypto';
 import { compareEntries, LIMIT } from '../../engine/js/game/ranking.js';
 import { checkResult, cleanName, cleanTown, MIN_MS_PER_ROUND } from './validate.js';
 
@@ -12,14 +12,16 @@ export const BOARD = 'launch';
 
 const HOUR = 3600 * 1000;
 export const LIMITS = {
-  runsPerHourPerIp: 120,   // new games per hour from one connection
+  runsPerHourPerIp: 120,   // different games one connection can enter in an hour
   submitsPerRun: 20,       // a champion's entry is updated after each season
   runMaxAgeMs: 3 * 24 * HOUR,
   pruneRunsAfterMs: 7 * 24 * HOUR,
   timeSlackMs: 5000,       // network delay between the game starting and the token being made
 };
 
-const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
+// A run token is "<run id>.<start time in ms>.<signature>". The signature proves the server issued it, so starting
+// a game needs no database: the database is billed for the time it's awake, and most games never reach the board.
+const RUN_TOKEN = /^([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})\.(\d{13})\.([A-Za-z0-9_-]{43})$/;
 
 const MESSAGES = {
   name: "That name or town can't be used on the Top 100. Please choose another.",
@@ -37,6 +39,20 @@ const fail = (status, error, extra = {}) => ({ status, body: { ok: false, error,
 export function createHandlers({ store, wordFilter, editions, adminKey = '', ipSalt = '', now = () => Date.now(), log = () => {} }) {
   const hashIp = (ip) => createHash('sha256').update(`${ipSalt}:${ip ?? 'unknown'}`).digest('hex').slice(0, 32);
   const isoAgo = (ms) => new Date(now() - ms).toISOString();
+
+  const tokenSecret = ipSalt || adminKey;
+  const signRun = (id, edition, startedAt) => createHmac('sha256', `run-token:${tokenSecret}`)
+    .update(`${id}.${edition}.${startedAt}`).digest('base64url');
+
+  /** The run a token stands for, as { id, startedAt }, or null if this server didn't issue it for this edition. */
+  function readRunToken(token, edition) {
+    const m = tokenSecret && typeof token === 'string' ? RUN_TOKEN.exec(token) : null;
+    if (!m) return null;
+    const [, id, startedAt, signature] = m;
+    const given = Buffer.from(signature);
+    const want = Buffer.from(signRun(id, edition, startedAt));
+    return given.length === want.length && timingSafeEqual(given, want) ? { id, startedAt: Number(startedAt) } : null;
+  }
 
   const nameProblem = (entry, edition) => {
     for (const field of ['name', 'town']) {
@@ -86,12 +102,13 @@ export function createHandlers({ store, wordFilter, editions, adminKey = '', ipS
     async start({ body, ip }) {
       const edition = body?.edition;
       if (!editions[edition]) return fail(400, 'edition');
-      const ipHash = hashIp(ip);
-      if (await store.countRecentRuns(ipHash, isoAgo(HOUR)) >= LIMITS.runsPerHourPerIp) return fail(429, 'busy');
-      const token = randomUUID();
-      await store.createRun({ token, edition, ipHash, createdAt: new Date(now()).toISOString() });
-      if (Math.random() < 0.02) await store.pruneRuns(isoAgo(LIMITS.pruneRunsAfterMs));
-      return ok({ token });
+      if (!tokenSecret) {
+        log('run tokens are off', { why: 'set TOP100_IP_SALT' });
+        return fail(503, 'no-run');
+      }
+      const id = randomUUID();
+      const startedAt = now();
+      return ok({ token: `${id}.${startedAt}.${signRun(id, edition, startedAt)}` });
     },
 
     /** POST /api/top100 { edition, token, entry } → { rank, id, board } */
@@ -99,15 +116,10 @@ export function createHandlers({ store, wordFilter, editions, adminKey = '', ipS
       const edition = body?.edition;
       const ed = editions[edition];
       if (!ed) return fail(400, 'edition');
-      const token = body?.token;
-      if (typeof token !== 'string' || !UUID.test(token)) return fail(403, 'no-run');
-
-      const run = await store.getRun(token);
-      if (!run || run.edition !== edition) return fail(403, 'no-run');
-      const elapsed = now() - Date.parse(run.createdAt);
+      const run = readRunToken(body?.token, edition);
+      if (!run) return fail(403, 'no-run');
+      const elapsed = now() - run.startedAt;
       if (elapsed > LIMITS.runMaxAgeMs) return fail(403, 'expired');
-      if (run.submits >= LIMITS.submitsPerRun) return fail(429, 'busy');
-      await store.bumpSubmits(token);
 
       const name = cleanName(body.entry?.name);
       const town = cleanTown(body.entry?.town);
@@ -129,12 +141,22 @@ export function createHandlers({ store, wordFilter, editions, adminKey = '', ipS
         return fail(400, 'invalid');
       }
 
+      // Everything above is checked without the database, so a refused entry doesn't wake it.
+      const ipHash = hashIp(ip);
+      const seen = await store.getRun(run.id);
+      const busy = seen
+        ? seen.submits >= LIMITS.submitsPerRun
+        : await store.countRecentRuns(ipHash, isoAgo(HOUR)) >= LIMITS.runsPerHourPerIp;
+      if (busy) return fail(429, 'busy');
+      await store.recordSubmit({ token: run.id, edition, ipHash, createdAt: new Date(now()).toISOString() });
+      if (Math.random() < 0.02) await store.pruneRuns(isoAgo(LIMITS.pruneRunsAfterMs));
+
       const entry = { ...checked.entry, name, town, updatedAt: new Date(now()).toISOString() };
-      const old = await store.getEntryByToken(token);
+      const old = await store.getEntryByToken(run.id);
       let id = old?.id ?? null;
       // A champion who plays on and does worse keeps their earlier, better entry.
       if (!old || compareEntries({ ...old, date: old.updatedAt }, { ...entry, date: entry.updatedAt }) > 0) {
-        id = await store.saveEntry({ ...entry, edition, board: BOARD, runToken: token, ipHash: hashIp(ip) });
+        id = await store.saveEntry({ ...entry, edition, board: BOARD, runToken: run.id, ipHash });
       }
 
       const board = await visibleBoard(edition);

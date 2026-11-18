@@ -7,7 +7,7 @@
 //
 // Environment variables (Netlify → Site configuration → Environment variables):
 //   TOP100_ADMIN_KEY  password for the admin page (/admin/top100.html). Long and random.
-//   TOP100_IP_SALT    any random text; makes the stored IP hashes impossible to reverse.
+//   TOP100_IP_SALT    any random text; makes the stored IP hashes impossible to reverse, and signs the run tokens.
 //   NETLIFY_DB_URL    set by Netlify Database automatically.
 
 import { createHandlers } from '../../server/top100/handlers.js';
