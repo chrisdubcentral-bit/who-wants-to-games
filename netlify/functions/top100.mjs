@@ -30,12 +30,13 @@ const json = ({ status, body }, extraHeaders = {}) => new Response(JSON.stringif
   headers: { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store', ...extraHeaders },
 });
 
-// The board is cached at Netlify's CDN for a minute, so most views don't wake the database (it's billed for
-// the time it's awake). New entries show within a minute; the player who submits gets the fresh board back.
+// The board is cached at Netlify's CDN for 10 minutes, so views almost never wake the database (it's billed for
+// the time it's awake). Other players see new entries within about 10 minutes; the player who submits sees
+// theirs at once (BOARD_CACHE_MS in engine/js/game/leaderboard.js).
 // Browsers always ask the CDN (max-age=0), and the cache is kept per edition.
 const BOARD_CACHE = {
   'cache-control': 'public, max-age=0, must-revalidate',
-  'netlify-cdn-cache-control': 'public, s-maxage=60, stale-while-revalidate=60',
+  'netlify-cdn-cache-control': 'public, s-maxage=600, stale-while-revalidate=60',
   'netlify-vary': 'query=edition',
 };
 

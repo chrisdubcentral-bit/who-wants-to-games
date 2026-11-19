@@ -10,7 +10,7 @@
 
 import { local, session, KEYS } from '../core/storage.js';
 import { APP } from '../core/config.js';
-import { cleanText, compareEntries, LIMIT, NAME_MAX, TOWN_MAX } from './ranking.js';
+import { cleanText, compareEntries, withOwnEntries, LIMIT, NAME_MAX, TOWN_MAX } from './ranking.js';
 
 export * from './ranking.js';
 
@@ -47,6 +47,10 @@ const sortBoard = (board) => (Array.isArray(board) ? board.filter((e) => e && e.
 /* ---------- Board ---------- */
 
 let lastBoard = null;
+// The board GET can come from Netlify's CDN cache, up to 11 minutes old (netlify/functions/top100.mjs). For that long
+// after an entry, the board the server returned with it supplies this device's entries, so the player still sees theirs.
+const BOARD_CACHE_MS = 11 * 60 * 1000;
+let submitted = null; // { board, at }
 
 /** The board from the last successful fetch, or null. Used where waiting for the network isn't possible. */
 export const cachedBoard = () => lastBoard;
@@ -56,6 +60,7 @@ export async function fetchBoard() {
   const r = await call(`?edition=${encodeURIComponent(APP.club)}`);
   if (!r.ok) return { ok: false, offline: !!r.offline };
   lastBoard = sortBoard(r.board);
+  if (submitted && Date.now() - submitted.at < BOARD_CACHE_MS) lastBoard = withOwnEntries(lastBoard, submitted.board, myEntryIds());
   return { ok: true, board: lastBoard };
 }
 
@@ -118,6 +123,7 @@ export async function submitEntry(entry, sessionId) {
   if (!r.ok) return { ok: false, error: r.offline ? 'offline' : (r.error || 'failed'), message: r.message, field: r.field };
   lastBoard = sortBoard(r.board);
   if (r.id != null) rememberMine(sessionId, { id: r.id, name: entry.name, town: entry.town });
+  submitted = { board: lastBoard, at: Date.now() };
   local.write(KEYS.player, { name: entry.name, town: entry.town });
   return { ok: true, rank: r.rank ?? null, id: r.id ?? null, board: lastBoard };
 }

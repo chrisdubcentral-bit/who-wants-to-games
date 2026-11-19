@@ -15,6 +15,9 @@
 import { local } from './storage.js';
 
 const API = '/api/stats';
+// Switched off: each visit's send woke Netlify Database for at least 5 minutes, and that was most of the bill.
+// Set to true to collect again (and COLLECTING in netlify/functions/stats.mjs), ideally once stats move off it.
+const COLLECTING = false;
 const MAX_EVENTS = 200;          // per request; must match LIMITS.eventsPerRequest in server/stats/handlers.js
 const MAX_TRACKED_MS = 6 * 3600 * 1000;
 const OPT_OUT = 'stats:off';
@@ -99,7 +102,7 @@ function onVisibility() {
 
 /** Starts counting this visit. Does nothing for players who opt out, or if it has already started. */
 export function startAnalytics({ edition }) {
-  if (state || !edition || optedOut() || typeof fetch !== 'function') return;
+  if (!COLLECTING || state || !edition || optedOut() || typeof fetch !== 'function') return;
   let sid;
   try { sid = crypto.randomUUID(); } catch { return; }
   state = {

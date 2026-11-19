@@ -65,6 +65,16 @@ export function entryFromSummary(summary, { name, town, sessionId, date = new Da
 }
 
 /** 1-based position the entry would take, or null if it wouldn't make the board. */
+/**
+ * A board from the CDN cache can be older than this device's latest entries. Puts the copies of the entries in
+ * `ids` from `fresh` (the board returned when they were submitted) into `board`, replacing older copies.
+ */
+export function withOwnEntries(board, fresh, ids) {
+  const own = new Map(fresh.filter((e) => ids.has(e.id)).map((e) => [e.id, e]));
+  if (!own.size) return board;
+  return [...board.filter((e) => !own.has(e.id)), ...own.values()].sort(compareEntries).slice(0, LIMIT);
+}
+
 export function prospectiveRank(board, entry) {
   const ahead = board.filter((e) => compareEntries(e, entry) <= 0).length;
   return ahead < LIMIT ? ahead + 1 : null;

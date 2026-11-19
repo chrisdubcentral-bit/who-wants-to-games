@@ -17,6 +17,9 @@ const handlers = createStatsHandlers({
   salt: process.env.STATS_SALT ?? process.env.TOP100_IP_SALT ?? '',
 });
 
+// Switched off with COLLECTING in engine/js/core/analytics.js: events are dropped without waking the database.
+const COLLECTING = false;
+
 const json = ({ status, body }) => new Response(JSON.stringify(body), {
   status,
   headers: { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store' },
@@ -26,6 +29,9 @@ export default async (req, context) => {
   const url = new URL(req.url);
   const route = url.pathname.replace(/\/+$/, '').split('/').pop();
   try {
+    if (route === 'stats' && req.method === 'POST' && !COLLECTING) {
+      return json({ status: 202, body: { ok: true, ignored: 'off' } });
+    }
     if (route === 'stats' && req.method === 'POST') {
       // Sent with fetch or navigator.sendBeacon, so the body may arrive as text/plain.
       let body = null;
