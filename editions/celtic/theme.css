@@ -15,6 +15,18 @@
   --gold-plate-hover: linear-gradient(180deg, #fbecbd 0%, #dcbc73 50%, #b08c3e 100%);
   --gold-rim: linear-gradient(180deg, #fff3cf 0%, #e0c27a 25%, #8f6f2c 50%, #f1d999 56%, #c7a45a 100%);
   --ink-gold: #1a1405;
+  --gold-pale: #f6e2a6;
+  --studio-beam: rgba(220, 255, 240, 0.15);
+  --topbar-bg: rgba(6, 16, 11, 0.86);
+  --chrome-rule: linear-gradient(90deg, #66716b 0%, #fbfdfc 30%, #929d97 50%, #fbfdfc 70%, #66716b 100%);
+  --question-plate: linear-gradient(180deg, #14503a 0%, #0b2c21 50%, #071a14 100%);
+  --chrome-disc: linear-gradient(160deg, #ffffff 0%, #aab4ae 45%, #6b7670 55%, #e6ebe8 100%);
+  --chrome-disc-ink: #0b1a13;
+  --rim-dull: #4f5a54;
+  --tick: #6FE0A6;
+  --kbd-hint: #A9B8AF;
+  --emerald-plate: linear-gradient(180deg, #2aa878 0%, #146B4C 100%);
+  --splash-bg: radial-gradient(circle at 50% 45%, rgba(6, 16, 11, 0.82), rgba(3, 8, 5, 0.96));
 
   /* Backgrounds */
   --bg-main: #09110C;
@@ -30,6 +42,12 @@
   /* Gold */
   --gold: #C7A45A;
   --gold-bright: #E0C27A;
+  /* The same colours as "r, g, b", for see-through glows: rgba(var(--gold-rgb), 0.3) */
+  --gold-rgb: 199, 164, 90;
+  --gold-bright-rgb: 224, 194, 122;
+  --emerald-rgb: 20, 107, 76;
+  --emerald-bright-rgb: 31, 138, 98;
+  --emerald-ink: #8fe0b5;
 
   /* Neutrals */
   --white: #FFFFFF;

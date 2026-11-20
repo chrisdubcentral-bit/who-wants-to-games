@@ -1,0 +1,96 @@
+# Beatles people, part C (actors, photographers, artists, Liverpool figures, Apple artists). Source: Wikipedia biographies.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | people | Which Welsh actor appeared in A Hard Day's Night, Help! and Magical Mystery Tour? | Victor Spinetti | Richard Burton | Roy Kinnear | Leo McKern | Victor Spinetti
+4 | people | In which year did the actor Victor Spinetti die? | 2012 | 1985 | 1999 | 2020 | Victor Spinetti
+5 | people | For which stage show did Victor Spinetti win a Tony Award? | Oh, What a Lovely War! | Oliver! | Hair | Cabaret | Victor Spinetti
+3 | people | Who wrote the only authorised biography of The Beatles, published in 1968? | Hunter Davies | Philip Norman | Mark Lewisohn | Ray Coleman | Hunter Davies
+3 | people | Which son of George Martin has remixed many Beatles albums since 2006? | Giles Martin | Gregory Martin | James Martin | Julian Martin | Giles Martin
+5 | people | Giles Martin shares his 9 October birthday with which Beatle? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Giles Martin; John Lennon
+4 | people | Which producer, who helped on the White Album as George Martin's young assistant, later produced the Sex Pistols? | Chris Thomas | Glyn Johns | Ken Scott | Alan Parsons | Chris Thomas
+3 | people | Who wrote The Complete Beatles Recording Sessions, published in 1988? | Mark Lewisohn | Hunter Davies | Barry Miles | Ian MacDonald | Mark Lewisohn
+4 | people | What is the overall title of Mark Lewisohn's multi-volume Beatles biography, begun in 2013? | All These Years | Shout! | Many Years from Now | The Love You Make | Mark Lewisohn; All These Years
+4 | people | What is the title of the first volume of Mark Lewisohn's Beatles biography? | Tune In | Turn On | Drop Out | Come Together | Mark Lewisohn; Tune In
+4 | people | Which director made The Beatles' promotional films for "Paperback Writer", "Hey Jude" and "Revolution"? | Michael Lindsay-Hogg | Richard Lester | Peter Goldmann | Joe McGrath | Michael Lindsay-Hogg; Promotional films
+3 | people | What name is given to Phil Spector's dense production style? | Wall of Sound | Tower of Power | Sea of Sound | Big Beat | Phil Spector
+4 | solo-years | Which George Harrison triple album of 1970 was co-produced by Phil Spector? | All Things Must Pass | Living in the Material World | Dark Horse | Cloud Nine | Phil Spector; All Things Must Pass
+4 | solo-years | Which 1971 John Lennon album was co-produced by Phil Spector? | Imagine | Double Fantasy | Mind Games | Walls and Bridges | Phil Spector; Imagine
+4 | people | In which year did Phil Spector die? | 2021 | 2003 | 2009 | 2015 | Phil Spector
+3 | people | Who produced the films A Hard Day's Night and Help!? | Walter Shenson | Richard Lester | Brian Epstein | Denis O'Dell | Walter Shenson
+5 | people | Which Peter Sellers comedy of 1959 was produced by Walter Shenson before he worked with The Beatles? | The Mouse That Roared | I'm All Right Jack | The Ladykillers | Two-Way Stretch | Walter Shenson
+4 | people | In which year did Ed Sullivan die? | 1974 | 1964 | 1980 | 1990 | Ed Sullivan
+4 | films-tv | Under what title did The Ed Sullivan Show begin in 1948? | Toast of the Town | Talk of the Town | Stars on Sunday | The Big Show | Ed Sullivan
+4 | films-tv | In which year did The Ed Sullivan Show end its run? | 1971 | 1966 | 1980 | 1985 | Ed Sullivan
+2 | people | Which Liverpool singer, a friend of The Beatles, had number ones with "Anyone Who Had a Heart" and "You're My World"? | Cilla Black | Dusty Springfield | Sandie Shaw | Lulu | Cilla Black
+3 | people | What was Cilla Black's real surname? | White | Green | Brown | Grey | Cilla Black
+4 | people | In which year did Cilla Black have her two UK number one singles? | 1964 | 1962 | 1966 | 1968 | Cilla Black
+4 | people | In which year did Cilla Black die? | 2015 | 1999 | 2007 | 2020 | Cilla Black
+3 | people | Which artist of the Sgt. Pepper sleeve also designed the Band Aid single cover in 1984? | Peter Blake | Richard Hamilton | Klaus Voormann | Alan Aldridge | Peter Blake
+4 | people | In which year was the Sgt. Pepper artist Peter Blake knighted? | 2002 | 1967 | 1983 | 2012 | Peter Blake
+3 | people | What nationality was the session drummer Andy White, who played on "Love Me Do"? | Scottish | Irish | Welsh | American | Andy White
+4 | people | In which year did the drummer Andy White die? | 2015 | 1975 | 1990 | 2003 | Andy White
+4 | songs | On which other song, the B-side of "Love Me Do", does session drummer Andy White play? | P.S. I Love You | Ask Me Why | Please Please Me | Thank You Girl | Andy White; P.S. I Love You
+4 | in-the-studio | What did Ringo Starr play on the Andy White version of "Love Me Do"? | Tambourine | Maracas | Bongos | Nothing at all | Love Me Do; Ringo Starr
+3 | people | Which New York disc jockey liked to call himself "the fifth Beatle" in 1964? | Murray the K | Wolfman Jack | Alan Freed | Cousin Brucie | Murray the K
+4 | people | What was the real name of the DJ Murray the K? | Murray Kaufman | Murray Klein | Murray Katz | Murray King | Murray the K
+3 | people | Which pop artist designed the plain white sleeve of the White Album? | Richard Hamilton | Peter Blake | Andy Warhol | Jann Haworth | Richard Hamilton; White Album
+4 | albums | What did artist Richard Hamilton design to go inside the White Album? | A poster collage | A pop-up apple | A set of stickers | A paper moustache | Richard Hamilton; White Album
+4 | albums | What unique marking did early copies of the White Album carry on the front? | A stamped serial number | A hologram | A gold star | A fingerprint | White Album
+4 | people | In which year was stand-in drummer Jimmie Nicol born? | 1939 | 1930 | 1945 | 1950 | Jimmie Nicol
+5 | people | With which Swedish instrumental group did Jimmie Nicol later play? | The Spotnicks | The Hep Stars | The Tages | Ola and the Janglers | Jimmie Nicol; The Spotnicks
+5 | people | What happened to Jimmie Nicol financially in 1965, the year after he drummed for The Beatles? | He was declared bankrupt | He won the pools | He bought a nightclub | He inherited a fortune | Jimmie Nicol
+3 | people | Which actor played Paul's grandfather in A Hard Day's Night? | Wilfrid Brambell | Harry H. Corbett | Arthur Lowe | Stanley Holloway | Wilfrid Brambell; A Hard Day's Night
+3 | people | Wilfrid Brambell was famous in Britain as old man Steptoe in which sitcom? | Steptoe and Son | Dad's Army | Till Death Us Do Part | Hancock's Half Hour | Wilfrid Brambell
+3 | films-tv | In A Hard Day's Night, how is Paul's grandfather repeatedly described, as a joke on his sitcom role? | Very clean | Very rich | Very deaf | Very tall | A Hard Day's Night; Wilfrid Brambell
+4 | people | In which country was Mona Best, mother of Pete, born? | India | Ireland | Scotland | Malta | Mona Best
+4 | people | In which year did Mona Best open the Casbah Coffee Club? | 1959 | 1955 | 1961 | 1963 | Mona Best; Casbah
+5 | people | According to legend, how did Mona Best raise the money to buy the house with the Casbah cellar? | A winning bet on a racehorse | A football pools win | An inheritance from India | Selling a family farm | Mona Best
+5 | people | Which Beatles associate was the father of Mona Best's youngest son, Roag? | Neil Aspinall | Mal Evans | Brian Epstein | Bob Wooler | Mona Best; Neil Aspinall
+3 | people | What was the real name of the Liverpool singer Rory Storm? | Alan Caldwell | Alan Clayton | Ronald Wycherley | Richard Storm | Rory Storm
+4 | people | In which year did Rory Storm die? | 1972 | 1962 | 1980 | 1995 | Rory Storm
+5 | people | Which West Side Story song did Rory Storm and the Hurricanes record, produced by Brian Epstein? | America | Maria | Tonight | Somewhere | Rory Storm; Brian Epstein
+4 | people | Which chain of restaurants was later founded by John Lennon's old friend Pete Shotton? | Fatty Arbuckle's | Little Chef | Pizza Express | Beefeater | Pete Shotton
+5 | places | Which Hayling Island business did John Lennon buy for Pete Shotton to run in the 1960s? | A supermarket | A pub | A garage | A fish and chip shop | Pete Shotton
+4 | people | In which year did Pete Shotton die? | 2017 | 1980 | 1999 | 2008 | Pete Shotton
+4 | people | Ivan Vaughan, who introduced Lennon to McCartney, shared what with Paul McCartney? | His exact date of birth | His surname | His first guitar teacher | His left-handedness | Ivan Vaughan; Paul McCartney
+4 | people | In which year did Ivan Vaughan die? | 1993 | 1962 | 1980 | 2010 | Ivan Vaughan
+3 | people | Who founded the Liverpool music paper Mersey Beat? | Bill Harry | Bob Wooler | Brian Epstein | Tony Barrow | Bill Harry; Mersey Beat
+4 | people | How much did Bill Harry borrow to launch Mersey Beat? | £50 | £5 | £500 | £5,000 | Bill Harry; Mersey Beat
+4 | records | In which year was the newspaper Mersey Beat first published? | 1961 | 1957 | 1963 | 1965 | Mersey Beat
+4 | people | Which photographer took the withdrawn "butcher cover" picture? | Robert Whitaker | Robert Freeman | Dezo Hoffmann | David Bailey | Robert Whitaker; Butcher cover
+5 | people | For the sleeve of which Cream album were Robert Whitaker's photos used? | Disraeli Gears | Fresh Cream | Wheels of Fire | Goodbye | Robert Whitaker; Cream
+4 | people | In which country was the photographer Dezo Hoffmann born? | Czechoslovakia | Hungary | Poland | Germany | Dezo Hoffmann
+3 | people | Who took the cover photograph for Abbey Road? | Iain Macmillan | Robert Freeman | Linda McCartney | Ethan Russell | Iain Macmillan; Abbey Road
+4 | people | What nationality was Iain Macmillan, the Abbey Road cover photographer? | Scottish | Irish | Canadian | Australian | Iain Macmillan
+4 | people | Who introduced the photographer Iain Macmillan to John Lennon? | Yoko Ono | Linda Eastman | Neil Aspinall | Peter Blake | Iain Macmillan; Yoko Ono
+4 | albums | On which date in 1969 was the Abbey Road cover photograph taken? | 8 August | 30 January | 20 July | 26 September | Abbey Road; Iain Macmillan
+4 | albums | Roughly how long did the Abbey Road cover shoot take? | About ten minutes | About two hours | A whole day | Three days | Abbey Road; Iain Macmillan
+4 | albums | What did photographer Iain Macmillan stand on to take the Abbey Road cover photo? | A stepladder | A double-decker bus | A police car | A garden wall | Abbey Road; Iain Macmillan
+4 | people | Between which years did Bob Wooler work as DJ and compère at the Cavern Club? | 1961 to 1967 | 1957 to 1960 | 1963 to 1973 | 1959 to 1962 | Bob Wooler; Cavern Club
+4 | people | In which year did Bob Wooler die? | 2002 | 1967 | 1980 | 2015 | Bob Wooler
+4 | people | Which of these album covers was photographed by Robert Freeman? | Rubber Soul | Abbey Road | Sgt. Pepper's Lonely Hearts Club Band | Let It Be | Robert Freeman; Rubber Soul
+4 | people | Which photographer shot the covers of Beatles for Sale and Help!? | Robert Freeman | Angus McBean | Iain Macmillan | Robert Whitaker | Robert Freeman
+5 | people | What did Robert Freeman design for the films A Hard Day's Night and Help!? | The end credit sequences | The costumes | The stage sets | The opening songs | Robert Freeman
+4 | people | Who took the stairwell photograph on the cover of the Please Please Me album? | Angus McBean | Robert Freeman | Dezo Hoffmann | Fiona Adams | Angus McBean; Please Please Me
+4 | places | In which building was the Please Please Me cover photograph taken? | EMI's headquarters in Manchester Square | Abbey Road Studios | The Cavern Club | Broadcasting House | Please Please Me; Manchester Square
+4 | people | Jann Haworth, co-creator of the Sgt. Pepper cover, was a pioneer of which kind of art? | Soft sculpture | Op art | Land art | Video art | Jann Haworth
+4 | people | Which promoter brought The Beatles to both Carnegie Hall and Shea Stadium? | Sid Bernstein | Bill Graham | Norman Weiss | Arthur Howes | Sid Bernstein
+4 | people | In which year did the promoter Sid Bernstein die? | 2013 | 1975 | 1990 | 2001 | Sid Bernstein
+3 | people | Which American singer of "Without You" and "Everybody's Talkin'" was a close friend of John Lennon and Ringo Starr? | Harry Nilsson | Neil Diamond | Jim Croce | Don McLean | Harry Nilsson
+4 | solo-years | Which 1974 Harry Nilsson album was produced by John Lennon? | Pussy Cats | Nilsson Schmilsson | Son of Schmilsson | Aerial Ballet | Harry Nilsson; John Lennon
+4 | people | Which American singer-songwriter made his debut album for Apple Records in 1968? | James Taylor | Jackson Browne | Neil Young | Cat Stevens | James Taylor; Apple Records
+4 | people | Who signed James Taylor to Apple as the label's head of A&R? | Peter Asher | Derek Taylor | Ron Kass | Tony Bramwell | Peter Asher; James Taylor
+4 | people | Peter Asher of Peter and Gordon was the brother of which girlfriend of Paul McCartney? | Jane Asher | Linda Eastman | Dot Rhone | Maggie McGivern | Peter Asher; Jane Asher
+3 | people | Which Donovan hit of 1966 features Paul McCartney among the party voices? | Mellow Yellow | Sunshine Superman | Catch the Wind | Hurdy Gurdy Man | Donovan; Mellow Yellow
+3 | people | Which Apple band took their name from the working title of "With a Little Help from My Friends"? | Badfinger | Grapefruit | Hot Chocolate | White Trash | Badfinger
+4 | songs | What was the working title of "With a Little Help from My Friends"? | Bad Finger Boogie | Billy's Song | Friends Like These | Ringo's Tune | With a Little Help from My Friends; Badfinger
+4 | people | In which Welsh city were Badfinger formed? | Swansea | Cardiff | Newport | Wrexham | Badfinger
+4 | people | Which Badfinger song, written by Pete Ham and Tom Evans, became a worldwide hit for Harry Nilsson? | Without You | Day After Day | Baby Blue | No Matter What | Badfinger; Without You
+4 | people | Which George Harrison-produced Badfinger single was a hit in 1971 and 1972? | Day After Day | Come and Get It | No Matter What | Rock of All Ages | Badfinger; George Harrison
+3 | people | Which Billy J. Kramer hit of 1963, written by John Lennon, reached number one in the UK? | Bad to Me | Little Children | Trains and Boats and Planes | From a Window | Billy J. Kramer; Bad to Me
+4 | people | What was the name of Billy J. Kramer's backing group? | The Dakotas | The Pacemakers | The Dreamers | The Rebel Rousers | Billy J. Kramer
+2 | people | Which Welsh singer had a 1968 number one on Apple with "Those Were the Days"? | Mary Hopkin | Bonnie Tyler | Shirley Bassey | Cerys Matthews | Mary Hopkin; Apple Records
+3 | people | Who produced Mary Hopkin's "Those Were the Days"? | Paul McCartney | George Harrison | George Martin | Mickie Most | Mary Hopkin; Paul McCartney
+4 | people | Which model recommended Mary Hopkin to Paul McCartney after seeing her on Opportunity Knocks? | Twiggy | Jean Shrimpton | Pattie Boyd | Penelope Tree | Mary Hopkin; Twiggy
+4 | people | Which Lennon-McCartney song, never recorded by The Beatles, was Mary Hopkin's 1969 follow-up hit? | Goodbye | Step Inside Love | It's for You | Woman | Mary Hopkin; Goodbye
+4 | band-members | On which date was John Lennon shot dead? | 8 December 1980 | 9 October 1980 | 29 November 2001 | 8 December 1970 | John Lennon
+4 | band-members | To which New York hospital was John Lennon taken after he was shot? | Roosevelt Hospital | Bellevue Hospital | Mount Sinai Hospital | Lenox Hill Hospital | John Lennon

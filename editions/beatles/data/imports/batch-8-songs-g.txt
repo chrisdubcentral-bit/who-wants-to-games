@@ -1,0 +1,84 @@
+# Beatles songs, part G (She Said She Said to This Boy). Source: Wikipedia song articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+4 | songs | Which actor's remarks during an LSD trip inspired "She Said She Said"? | Peter Fonda | Dennis Hopper | Jack Nicholson | Marlon Brando | She Said She Said; Peter Fonda
+3 | albums | "She Said She Said" is on which album? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | She Said She Said; Revolver
+5 | in-the-studio | Which song was the last to be recorded for Revolver? | She Said She Said | Tomorrow Never Knows | Yellow Submarine | Here, There and Everywhere | She Said She Said; Revolver
+5 | songs | What was the original title of "She Said She Said"? | He Said | I Know What It's Like | Peter Said | The Void | She Said She Said
+3 | albums | "Run for Your Life" closes which album? | Rubber Soul | Revolver | Help! | Beatles for Sale | Run for Your Life; Rubber Soul
+3 | songs | Who wrote "Roll Over Beethoven", covered on With the Beatles? | Chuck Berry | Little Richard | Jerry Lee Lewis | Bo Diddley | Roll Over Beethoven; Chuck Berry
+3 | songs | Who sings lead on the Beatles' version of "Roll Over Beethoven"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Roll Over Beethoven; George Harrison
+4 | singles | "She's a Woman" was the B-side of which single? | I Feel Fine | Ticket to Ride | Eight Days a Week | Help! | She's a Woman; I Feel Fine
+4 | songs | Who was the main writer of "She's a Woman"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | She's a Woman; Paul McCartney
+5 | singles | Although a B-side, "She's a Woman" reached which position on the US Billboard Hot 100? | Number 4 | Number 1 | Number 14 | Number 40 | She's a Woman
+5 | early-years | Which song about a desert romance did George Harrison sing at the Decca audition? | The Sheik of Araby | Besame Mucho | September in the Rain | Three Cool Cats | The Sheik of Araby; Decca audition
+5 | early-years | Which Coasters song, written by Leiber and Stoller, did The Beatles play at their Decca audition? | Searchin' | Yakety Yak | Poison Ivy | Charlie Brown | Searchin'; Decca audition
+5 | early-years | The earliest film of The Beatles at the Cavern, shot by Granada TV in 1962, shows them playing which song? | Some Other Guy | Love Me Do | Twist and Shout | Money | Some Other Guy; Cavern Club
+1 | songs | Which Beatle wrote "Strawberry Fields Forever"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Strawberry Fields Forever; John Lennon
+3 | singles | On which date was the "Strawberry Fields Forever" / "Penny Lane" single released? | 13 February 1967 | 1 June 1967 | 5 August 1966 | 24 November 1967 | Strawberry Fields Forever; Penny Lane
+3 | places | Strawberry Field, where John Lennon played as a child, was what kind of place? | A children's home | A fruit farm | A public park | A cemetery | Strawberry Fields Forever; Strawberry Field
+2 | albums | "Taxman" opens which album? | Revolver | Rubber Soul | Help! | Abbey Road | Taxman; Revolver
+3 | songs | Which British prime minister's government is the target of "Taxman"? | Harold Wilson | Harold Macmillan | Edward Heath | Alec Douglas-Home | Taxman; Harold Wilson
+4 | songs | Which Beatle helped George Harrison with the lyrics of "Taxman"? | John Lennon | Paul McCartney | Ringo Starr | None of them | Taxman; John Lennon
+4 | songs | Who wrote "Think for Yourself" on Rubber Soul? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Think for Yourself; George Harrison
+5 | albums | Which two George Harrison songs appear on the British Rubber Soul? | Think for Yourself and If I Needed Someone | Taxman and Love You To | I Need You and You Like Me Too Much | Don't Bother Me and I Need You | Rubber Soul; George Harrison
+4 | singles | "Thank You Girl" was the B-side of which British single? | From Me to You | Please Please Me | She Loves You | Love Me Do | Thank You Girl; From Me to You
+5 | albums | "Thank You Girl" did not appear on a UK album until which 1978 compilation? | Rarities | Love Songs | Rock 'n' Roll Music | Hey Jude | Thank You Girl; Rarities
+4 | songs | Who wrote "Things We Said Today"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Things We Said Today; Paul McCartney
+5 | places | Where was Paul McCartney on holiday when he wrote "Things We Said Today"? | The Virgin Islands | Tenerife | The Bahamas | Greece | Things We Said Today
+4 | albums | "Tell Me What You See" appears on which British album? | Help! | Beatles for Sale | Rubber Soul | A Hard Day's Night | Tell Me What You See; Help!
+4 | albums | "Tell Me Why" is a song from which album? | A Hard Day's Night | Help! | With the Beatles | Please Please Me | Tell Me Why; A Hard Day's Night
+4 | songs | Which song on Please Please Me comes from a British play of the same name that became a 1961 film? | A Taste of Honey | Till There Was You | Anna (Go to Him) | Chains | A Taste of Honey
+3 | songs | Who sings lead on the Beatles' version of "A Taste of Honey"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | A Taste of Honey; Paul McCartney
+4 | albums | "There's a Place" is on which album? | Please Please Me | With the Beatles | A Hard Day's Night | Beatles for Sale | There's a Place; Please Please Me
+5 | singles | "There's a Place" was the American B-side of which single in 1964? | Twist and Shout | Love Me Do | Please Please Me | Do You Want to Know a Secret | There's a Place; Twist and Shout
+5 | songs | John Lennon said "There's a Place" was his attempt at a song in which style? | Motown | Skiffle | Country and western | Calypso | There's a Place
+3 | films-tv | Who directed the 1970 film Let It Be? | Michael Lindsay-Hogg | Richard Lester | Peter Jackson | Joe McGrath | Let It Be; Michael Lindsay-Hogg
+3 | albums | Let It Be was The Beatles' studio album of which number? | Twelfth | Tenth | Eleventh | Fourteenth | Let It Be
+4 | solo-years | "Teddy Boy", rehearsed during the Get Back sessions, was released on which solo album? | McCartney | All Things Must Pass | Imagine | Ringo | Teddy Boy; Paul McCartney
+4 | people | George Harrison gave his song "Sour Milk Sea" to which Apple singer? | Jackie Lomax | Mary Hopkin | James Taylor | Doris Troy | Sour Milk Sea; Jackie Lomax
+5 | people | How many Beatles play on Jackie Lomax's recording of "Sour Milk Sea"? | Three | One | Two | Four | Sour Milk Sea; Jackie Lomax
+4 | people | Which American singer released the Lennon-McCartney song "That Means a Lot" in 1965? | P.J. Proby | Del Shannon | Gene Pitney | Bobby Vee | That Means a Lot; P.J. Proby
+4 | people | Paul McCartney wrote "Step Inside Love" as a TV theme for which singer? | Cilla Black | Lulu | Sandie Shaw | Petula Clark | Step Inside Love; Cilla Black
+1 | albums | "When I'm Sixty-Four" is on which album? | Sgt. Pepper's Lonely Hearts Club Band | Abbey Road | Help! | Let It Be | When I'm Sixty-Four; Sgt. Pepper
+3 | songs | About how old was Paul McCartney when he wrote "When I'm Sixty-Four"? | 14 | 8 | 21 | 24 | When I'm Sixty-Four; Paul McCartney
+4 | in-the-studio | Which woodwind instruments feature prominently on "When I'm Sixty-Four"? | Clarinets | Flutes | Oboes | Bassoons | When I'm Sixty-Four
+4 | in-the-studio | Why was the recording of "When I'm Sixty-Four" sped up? | To make Paul's voice sound younger | To fit it onto the album side | To match the film footage | To hide a tape fault | When I'm Sixty-Four
+2 | songs | Which American group's version of "Twist and Shout" did The Beatles base their cover on? | The Isley Brothers | The Drifters | The Coasters | The Miracles | Twist and Shout; The Isley Brothers
+2 | songs | Who sings the lead vocal on the Beatles' "Twist and Shout"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Twist and Shout; John Lennon
+2 | albums | "Twist and Shout" closes which Beatles album? | Please Please Me | With the Beatles | A Hard Day's Night | Beatles for Sale | Twist and Shout; Please Please Me
+2 | singles | In which year was "Ticket to Ride" released? | 1965 | 1963 | 1964 | 1966 | Ticket to Ride
+2 | albums | "Ticket to Ride" is on which album? | Help! | Rubber Soul | A Hard Day's Night | Revolver | Ticket to Ride; Help!
+3 | songs | Who was the main writer of "Ticket to Ride"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Ticket to Ride; John Lennon
+4 | singles | "Ticket to Ride" was The Beatles' consecutive UK number one of which count? | Seventh | Third | Fifth | Tenth | Ticket to Ride
+3 | singles | Which Beatles single was the UK Christmas number one of 1965? | Day Tripper / We Can Work It Out | Help! | Yesterday | Ticket to Ride | We Can Work It Out; Christmas number one
+4 | records | "We Can Work It Out" won which award as the top-selling British A-side of 1965? | Ivor Novello Award | Grammy Award | Brit Award | NME Award | We Can Work It Out; Ivor Novello
+3 | songs | Which Rubber Soul song features Ringo Starr on lead vocals? | What Goes On | Wait | Girl | The Word | What Goes On; Ringo Starr
+5 | songs | "What Goes On" is the only Beatles song with which writing credit? | Lennon-McCartney-Starkey | Harrison-Starkey | McCartney-Starkey | Lennon-Starkey | What Goes On; Songwriting credits
+5 | singles | "What Goes On" was the US B-side of which single? | Nowhere Man | Yesterday | Paperback Writer | Day Tripper | What Goes On; Nowhere Man
+4 | albums | "Wait" is a track on which album? | Rubber Soul | Help! | Revolver | Beatles for Sale | Wait; Rubber Soul
+3 | albums | "Two of Us" opens which album? | Let It Be | Abbey Road | The White Album | Yellow Submarine | Two of Us; Let It Be
+4 | songs | Who wrote "Two of Us"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Two of Us; Paul McCartney
+5 | films-tv | The 2000 TV film Two of Us imagines a 1976 meeting between which two Beatles? | John Lennon and Paul McCartney | George Harrison and Ringo Starr | John Lennon and George Harrison | Paul McCartney and Ringo Starr | Two of Us
+2 | albums | "Tomorrow Never Knows" is the final track on which album? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Tomorrow Never Knows; Revolver
+4 | in-the-studio | Which song was the first to be recorded for Revolver? | Tomorrow Never Knows | Taxman | Eleanor Rigby | Got to Get You into My Life | Tomorrow Never Knows; Revolver
+4 | songs | "Tomorrow Never Knows" drew on a 1964 book co-written by which LSD advocate? | Timothy Leary | Aldous Huxley | Ken Kesey | Allen Ginsberg | Tomorrow Never Knows; Timothy Leary
+3 | songs | Who was the main writer of "Tomorrow Never Knows"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Tomorrow Never Knows; John Lennon
+3 | singles | "This Boy" was the British B-side of which single? | I Want to Hold Your Hand | She Loves You | From Me to You | Can't Buy Me Love | This Boy; I Want to Hold Your Hand
+5 | films-tv | Under what title does an instrumental version of "This Boy" appear in the film A Hard Day's Night? | Ringo's Theme | Paul's Lament | George's Walk | John's Tune | This Boy; A Hard Day's Night
+4 | films-tv | On which British comedy duo's TV show did The Beatles perform "This Boy" in 1963? | Morecambe and Wise | The Two Ronnies | Mike and Bernie Winters | Peter Cook and Dudley Moore | This Boy; Morecambe and Wise
+5 | in-the-studio | Which unreleased 1969 song was recorded while George Harrison had temporarily left the group? | Watching Rainbows | Madman | Suzy Parker | Commonwealth | Watching Rainbows; Get Back sessions
+5 | albums | On which American album was "Things We Said Today" released? | Something New | Beatles '65 | Meet the Beatles! | Beatles VI | Things We Said Today; Something New
+1 | songs | Which Beatles song is about a street with a barber, a banker and a fireman? | Penny Lane | Abbey Road | Strawberry Fields Forever | Eleanor Rigby | Penny Lane
+1 | songs | Which Beatles song begins "It's been a hard day's night"? | A Hard Day's Night | Eight Days a Week | I'm So Tired | Help! | A Hard Day's Night
+1 | songs | Complete the Beatles song title: "I Want to Hold Your ..."? | Hand | Heart | Love | Arm | I Want to Hold Your Hand
+1 | songs | Complete the Beatles song title: "Lucy in the Sky with ..."? | Diamonds | Rainbows | Starlight | Kites | Lucy in the Sky with Diamonds
+1 | songs | Complete the Beatles song title: "With a Little Help from My ..."? | Friends | Family | Band | Brothers | With a Little Help from My Friends
+1 | songs | Complete the Beatles song title: "While My Guitar Gently ..."? | Weeps | Sleeps | Plays | Sings | While My Guitar Gently Weeps
+1 | songs | Complete the Beatles song title: "Can't Buy Me ..."? | Love | Time | Friends | Happiness | Can't Buy Me Love
+1 | songs | Complete the Beatles song title: "Eight Days a ..."? | Week | Month | Year | Fortnight | Eight Days a Week
+1 | songs | Complete the Beatles song title: "Ticket to ..."? | Ride | Fly | Paradise | Liverpool | Ticket to Ride
+1 | songs | Complete the Beatles song title: "Strawberry Fields ..."? | Forever | Tonight | Again | Tomorrow | Strawberry Fields Forever
+1 | songs | Complete the Beatles song title: "The Long and Winding ..."? | Road | River | Lane | Path | The Long and Winding Road
+1 | songs | Complete the Beatles song title: "Maxwell's Silver ..."? | Hammer | Spoon | Bullet | Whistle | Maxwell's Silver Hammer
+1 | songs | Complete the Beatles song title: "Sgt. Pepper's Lonely Hearts Club ..."? | Band | Dance | Choir | Show | Sgt. Pepper
+1 | songs | Complete the Beatles song title: "Back in the ..."? | U.S.S.R. | U.S.A. | Saddle | Cavern | Back in the U.S.S.R.

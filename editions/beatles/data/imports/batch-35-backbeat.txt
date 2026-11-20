@@ -1,0 +1,7 @@
+# Backbeat (1994 film about Stuart Sutcliffe and the Beatles in Hamburg). Source: https://en.wikipedia.org/wiki/Backbeat_(film)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | films-tv | Who directed the 1994 film Backbeat? | Iain Softley | Sam Taylor-Johnson | Danny Boyle | Richard Lester | Backbeat; Iain Softley
+3 | films-tv | Which actress played Astrid Kirchherr in the film Backbeat? | Sheryl Lee | Jennifer Ehle | Kristin Scott Thomas | Helena Bonham Carter | Backbeat; Astrid Kirchherr
+4 | films-tv | Which Nirvana member played drums on the soundtrack of the film Backbeat? | Dave Grohl | Krist Novoselic | Pat Smear | Chad Channing | Backbeat; Dave Grohl
+4 | films-tv | Which award did Don Was win for his score for the film Backbeat? | BAFTA Award | Academy Award | Golden Globe | Ivor Novello Award | Backbeat; Don Was
+5 | films-tv | Which punk singer provided Stuart Sutcliffe's singing voice in the film Backbeat? | Henry Rollins | Dave Pirner | Greg Dulli | Iggy Pop | Backbeat; Henry Rollins; Stuart Sutcliffe

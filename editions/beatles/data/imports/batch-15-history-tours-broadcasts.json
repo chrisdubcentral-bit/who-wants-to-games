@@ -1,0 +1,1335 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "live",
+    "difficulty": 3,
+    "question": "Which drummer replaced the ill Ringo Starr for the first shows of the 1964 world tour?",
+    "options": [
+      "Pete Best",
+      "Andy White",
+      "Jimmie Nicol",
+      "Alan White"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1964 world tour",
+      "Jimmie Nicol"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which illness put Ringo Starr in hospital on the eve of the 1964 world tour?",
+    "options": [
+      "Appendicitis",
+      "Pneumonia",
+      "Tonsillitis",
+      "Measles"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1964 world tour",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "In which city did The Beatles' 1964 world tour begin on 4 June?",
+    "options": [
+      "Amsterdam",
+      "Sydney",
+      "Hong Kong",
+      "Copenhagen"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1964 world tour",
+      "Copenhagen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "In which Australian city did Ringo Starr rejoin The Beatles on the 1964 tour?",
+    "options": [
+      "Sydney",
+      "Adelaide",
+      "Brisbane",
+      "Melbourne"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1964 world tour",
+      "Melbourne"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How many shows did Jimmie Nicol play as a Beatle in June 1964?",
+    "options": [
+      "Fifteen",
+      "Twenty-four",
+      "Eight",
+      "Two"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1964 world tour",
+      "Jimmie Nicol"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Jimmie Nicol's stock reply when asked how he was doing inspired which Sgt. Pepper song?",
+    "options": [
+      "Fixing a Hole",
+      "Getting Better",
+      "Good Morning Good Morning",
+      "With a Little Help from My Friends"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Getting Better",
+      "Jimmie Nicol"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "What farewell gift did Brian Epstein give Jimmie Nicol along with £500?",
+    "options": [
+      "A gold disc",
+      "A Rickenbacker guitar",
+      "A Ludwig snare drum",
+      "A gold watch"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jimmie Nicol",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which Beatle most wanted to postpone the 1964 tour rather than go without Ringo?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon",
+      "None of them"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1964 world tour",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How many concerts did The Beatles play on their 1964 North American tour?",
+    "options": [
+      "12",
+      "19",
+      "32",
+      "64"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1964 North American tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "In which city did The Beatles' 1964 North American tour open on 19 August?",
+    "options": [
+      "Seattle",
+      "New York",
+      "Los Angeles",
+      "San Francisco"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1964 North American tour",
+      "San Francisco"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How many cities did The Beatles visit on their 1964 North American tour?",
+    "options": [
+      "10",
+      "24",
+      "40",
+      "16"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1964 North American tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which duo, later famous for \"You've Lost That Lovin' Feelin'\", supported The Beatles on the 1964 North American tour?",
+    "options": [
+      "Sam and Dave",
+      "The Righteous Brothers",
+      "Jan and Dean",
+      "The Everly Brothers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1964 North American tour",
+      "The Righteous Brothers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which singer-songwriter, later the writer of \"Bette Davis Eyes\", supported The Beatles on the 1964 North American tour?",
+    "options": [
+      "Lesley Gore",
+      "Jackie DeShannon",
+      "Carole King",
+      "Dionne Warwick"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1964 North American tour",
+      "Jackie DeShannon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which young Miami radio reporter travelled with The Beatles on their 1964 and 1965 American tours?",
+    "options": [
+      "Wolfman Jack",
+      "Murray the K",
+      "Casey Kasem",
+      "Larry Kane"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1964 North American tour",
+      "Larry Kane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who was The Beatles' press officer on the 1964 North American tour?",
+    "options": [
+      "Andrew Loog Oldham",
+      "Brian Sommerville",
+      "Derek Taylor",
+      "Tony Barrow"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1964 North American tour",
+      "Derek Taylor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which songwriter met The Beatles for the first time in a New York hotel on 28 August 1964?",
+    "options": [
+      "Brian Wilson",
+      "Smokey Robinson",
+      "Paul Simon",
+      "Bob Dylan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bob Dylan",
+      "1964 North American tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which journalist introduced Bob Dylan to The Beatles in 1964?",
+    "options": [
+      "Larry Kane",
+      "Jann Wenner",
+      "Al Aronowitz",
+      "Ralph Gleason"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Bob Dylan",
+      "Al Aronowitz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "At which New York hotel did The Beatles first meet Bob Dylan?",
+    "options": [
+      "The Plaza",
+      "The Warwick",
+      "The Chelsea",
+      "The Delmonico"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bob Dylan",
+      "Hotel Delmonico"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "In which Florida city did The Beatles refuse to play in 1964 unless the audience was unsegregated?",
+    "options": [
+      "Orlando",
+      "Tampa",
+      "Miami",
+      "Jacksonville"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1964 North American tour",
+      "Jacksonville"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which hurricane forced The Beatles' plane to divert to Key West in September 1964?",
+    "options": [
+      "Hurricane Betsy",
+      "Hurricane Carla",
+      "Hurricane Dora",
+      "Hurricane Camille"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1964 North American tour",
+      "Key West"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "On which date in 1964 did George Martin first record The Beatles at the Hollywood Bowl?",
+    "options": [
+      "15 August",
+      "9 February",
+      "23 August",
+      "30 August"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hollywood Bowl",
+      "1964 North American tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which union's refusal stopped Capitol recording The Beatles at Carnegie Hall in February 1964?",
+    "options": [
+      "The Screen Actors Guild",
+      "The American Federation of Musicians",
+      "The Teamsters",
+      "Actors' Equity"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Carnegie Hall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How did George Martin describe recording over the screaming at the Hollywood Bowl?",
+    "options": [
+      "Like a football crowd in a tunnel",
+      "Like recording under water",
+      "Like a thousand kettles boiling",
+      "Like a microphone at the tail of a jet"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hollywood Bowl",
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "What was The Beatles' minimum fee per show on the 1964 North American tour?",
+    "options": [
+      "$160,000",
+      "$10,000",
+      "$2,400",
+      "$50,000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1964 North American tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Recording for which album began in August 1964, just before the North American tour?",
+    "options": [
+      "Beatles for Sale",
+      "Rubber Soul",
+      "A Hard Day's Night",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "In which month of 1965 did The Beatles play their final UK tour?",
+    "options": [
+      "December",
+      "September",
+      "June",
+      "March"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 UK tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How many shows did The Beatles play on their last UK tour in December 1965?",
+    "options": [
+      "6",
+      "30",
+      "52",
+      "18"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1965 UK tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "In which city did The Beatles' final UK tour open in December 1965?",
+    "options": [
+      "Liverpool",
+      "London",
+      "Glasgow",
+      "Cardiff"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1965 UK tour",
+      "Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which Birmingham group, later famous for \"Nights in White Satin\", supported The Beatles on their last UK tour?",
+    "options": [
+      "The Moody Blues",
+      "The Spencer Davis Group",
+      "The Fortunes",
+      "The Move"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 UK tour",
+      "The Moody Blues"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which song opened The Beatles' shows on their December 1965 UK tour?",
+    "options": [
+      "I Feel Fine",
+      "Day Tripper",
+      "Twist and Shout",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 UK tour",
+      "I Feel Fine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "At which Liverpool theatre did The Beatles play their last hometown concerts on 5 December 1965?",
+    "options": [
+      "The Philharmonic Hall",
+      "The Playhouse",
+      "The Royal Court",
+      "The Empire"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1965 UK tour",
+      "Liverpool Empire"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which George Harrison guitar was destroyed when it fell from the car on the way to Scotland in December 1965?",
+    "options": [
+      "Rickenbacker 360-12",
+      "Gretsch Duo Jet",
+      "Fender Stratocaster",
+      "Gretsch Tennessean"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "George Harrison",
+      "1965 UK tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "What was The Beatles' fee per engagement on the 1965 UK tour, then a British record?",
+    "options": [
+      "£1,000",
+      "£25,000",
+      "£100",
+      "£5,000"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 UK tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which song did Ringo Starr sing on The Beatles' 1965 European tour?",
+    "options": [
+      "I Wanna Be Your Man",
+      "Act Naturally",
+      "Honey Don't",
+      "Boys"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 European tour",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which twelve-string guitar did George Harrison use on stage for \"A Hard Day's Night\"?",
+    "options": [
+      "Vox Phantom XII",
+      "Rickenbacker 360-12",
+      "Gibson J-160E",
+      "Fender Electric XII"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison",
+      "Rickenbacker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which make of drum kit did Ringo Starr play on tour with The Beatles?",
+    "options": [
+      "Ludwig",
+      "Slingerland",
+      "Gretsch",
+      "Premier"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ringo Starr",
+      "Ludwig"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which acoustic-electric guitar did John Lennon use on stage for \"I Feel Fine\" in 1965?",
+    "options": [
+      "Epiphone Texan",
+      "Martin D-28",
+      "Framus Hootenanny",
+      "Gibson J-160E"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Gibson J-160E"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 3,
+    "question": "Which teenage singer headlined The Beatles' first national UK tour in February 1963?",
+    "options": [
+      "Lulu",
+      "Sandie Shaw",
+      "Cilla Black",
+      "Helen Shapiro"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Helen Shapiro tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "On which date did The Beatles' first nationwide British tour begin?",
+    "options": [
+      "1 November 1963",
+      "18 May 1963",
+      "2 February 1963",
+      "5 October 1962"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Helen Shapiro tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Where were The Beatles placed on the eleven-act bill of the Helen Shapiro tour?",
+    "options": [
+      "Last",
+      "Second",
+      "Fourth",
+      "First"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Helen Shapiro tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which singer on the Helen Shapiro tour was the first artist to cover a Beatles song?",
+    "options": [
+      "Danny Williams",
+      "Kenny Lynch",
+      "Dave Allen",
+      "Billie Davis"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Helen Shapiro tour",
+      "Kenny Lynch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Irish comedian was the compère on the Helen Shapiro tour?",
+    "options": [
+      "Jimmy Cricket",
+      "Frank Carson",
+      "Dave Allen",
+      "Val Doonican"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Helen Shapiro tour",
+      "Dave Allen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which agency promoted The Beatles' first national tour in 1963?",
+    "options": [
+      "The Larry Parnes Agency",
+      "NEMS Enterprises",
+      "The Grade Organisation",
+      "The Arthur Howes Agency"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Helen Shapiro tour",
+      "Arthur Howes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "On which date did The Beatles record ten songs in one day for their first album?",
+    "options": [
+      "11 February 1963",
+      "5 October 1962",
+      "22 March 1963",
+      "4 September 1962"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "How many tracks did The Beatles record in the single-day session for the Please Please Me album?",
+    "options": [
+      "Ten",
+      "Twenty",
+      "Four",
+      "Fourteen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 3,
+    "question": "Which American star was meant to headline a 1963 UK tour before The Beatles were promoted to close the show?",
+    "options": [
+      "Gene Pitney",
+      "Roy Orbison",
+      "Del Shannon",
+      "Chuck Berry"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Roy Orbison tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which other Liverpool group was on the bill of the 1963 Roy Orbison tour?",
+    "options": [
+      "The Fourmost",
+      "Gerry and the Pacemakers",
+      "The Swinging Blue Jeans",
+      "The Searchers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Roy Orbison tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "The Roy Orbison tour of 1963 was The Beatles' nationwide UK tour of which number?",
+    "options": [
+      "Second",
+      "First",
+      "Fifth",
+      "Third"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Roy Orbison tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "On which BBC radio network was Pop Go the Beatles broadcast in 1963?",
+    "options": [
+      "The Light Programme",
+      "The Home Service",
+      "Radio Luxembourg",
+      "The Third Programme"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pop Go the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "How many episodes of Pop Go the Beatles were made?",
+    "options": [
+      "Fifteen",
+      "Thirty",
+      "Four",
+      "Fifty-two"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pop Go the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "The theme of Pop Go the Beatles was a rock version of which nursery tune?",
+    "options": [
+      "London Bridge Is Falling Down",
+      "Oranges and Lemons",
+      "Pop Goes the Weasel",
+      "Three Blind Mice"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pop Go the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who presented the first four episodes of Pop Go the Beatles?",
+    "options": [
+      "Rodney Burke",
+      "Brian Matthew",
+      "Alan Freeman",
+      "Lee Peters"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pop Go the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "What was the budget for each episode of Pop Go the Beatles?",
+    "options": [
+      "£10",
+      "£5,000",
+      "£1,000",
+      "£100"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pop Go the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "About how many listeners did the BBC estimate for Pop Go the Beatles?",
+    "options": [
+      "2.8 million",
+      "280,000",
+      "10 million",
+      "22 million"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pop Go the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In which year was the TV special Around the Beatles made?",
+    "options": [
+      "1968",
+      "1964",
+      "1962",
+      "1966"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Around the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who produced the 1964 TV special Around the Beatles?",
+    "options": [
+      "Michael Lindsay-Hogg",
+      "Richard Lester",
+      "Brian Epstein",
+      "Jack Good"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Around the Beatles",
+      "Jack Good"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In Around the Beatles, the band performed a comic scene from which Shakespeare play?",
+    "options": [
+      "Macbeth",
+      "A Midsummer Night's Dream",
+      "Romeo and Juliet",
+      "Hamlet"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Around the Beatles",
+      "Shakespeare"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which Beatle played Thisbe in the Shakespeare sketch in Around the Beatles?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Around the Beatles",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which Beatle played the Lion in the Shakespeare sketch in Around the Beatles?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Around the Beatles",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Around the Beatles contains the group's only recorded performance of which Isley Brothers song?",
+    "options": [
+      "Shout",
+      "This Old Heart of Mine",
+      "Respectable",
+      "Twist and Shout"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Around the Beatles",
+      "Shout"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which blues singer was backed by The Beatles singing from the balcony in Around the Beatles?",
+    "options": [
+      "Long John Baldry",
+      "Georgie Fame",
+      "Alexis Korner",
+      "John Mayall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Around the Beatles",
+      "Long John Baldry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "On which date did the group first perform under the name The Beatles?",
+    "options": [
+      "15 August 1960",
+      "9 February 1961",
+      "6 July 1957",
+      "5 October 1962"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles",
+      "Name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "About how many concert appearances did The Beatles make during their touring years?",
+    "options": [
+      "About 600",
+      "About 250",
+      "Over 5,000",
+      "Over 1,400"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Touring"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "On which date did Ringo Starr officially play his first show as a Beatle?",
+    "options": [
+      "9 February 1961",
+      "18 August 1962",
+      "5 October 1962",
+      "1 January 1963"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "What is the title of Ron Howard's 2016 documentary about The Beatles' touring years?",
+    "options": [
+      "A Hard Day's Night",
+      "Get Back",
+      "Ticket to Ride",
+      "Eight Days a Week"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Eight Days a Week",
+      "Ron Howard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which 2024 documentary film covers The Beatles' first visit to America?",
+    "options": [
+      "Beatles '64",
+      "Good Ol' Freda",
+      "Get Back",
+      "Eight Days a Week"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles '64"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How many number one singles did The Beatles have in America in the six months after their first visit in February 1964?",
+    "options": [
+      "Two",
+      "Fourteen",
+      "Six",
+      "Ten"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "America",
+      "1964"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "How much did the film A Hard Day's Night take in its first week in the United States?",
+    "options": [
+      "$50 million",
+      "$13 million",
+      "$1.3 million",
+      "$130,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  }
+]

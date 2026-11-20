@@ -1,0 +1,92 @@
+# Beatles songs, part H (What You're Doing to Young Blood). Source: Wikipedia song articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+4 | albums | "What You're Doing" is on which British album? | Beatles for Sale | Help! | A Hard Day's Night | With the Beatles | What You're Doing; Beatles for Sale
+5 | albums | How many original compositions are on Beatles for Sale? | Eight | Six | Ten | Fourteen | Beatles for Sale
+4 | albums | "When I Get Home" is on which British album? | A Hard Day's Night | Beatles for Sale | With the Beatles | Help! | When I Get Home; A Hard Day's Night
+3 | songs | "Till There Was You", covered on With the Beatles, comes from which stage musical? | The Music Man | West Side Story | Oklahoma! | My Fair Lady | Till There Was You; The Music Man
+3 | songs | Who sings lead on the Beatles' version of "Till There Was You"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Till There Was You; Paul McCartney
+5 | songs | Which John Lennon song was recorded for the White Album but left off it, eventually surfacing on Anthology 3? | What's the New Mary Jane | Not Guilty | Child of Nature | Circles | What's the New Mary Jane; White Album
+5 | people | Which Beatles assistant takes part in the recording of "What's the New Mary Jane"? | Mal Evans | Neil Aspinall | Derek Taylor | Alistair Taylor | What's the New Mary Jane; Mal Evans
+5 | early-years | Who chose the fifteen songs The Beatles played at their Decca audition? | Brian Epstein | George Martin | John Lennon | Dick Rowe | Decca audition; Brian Epstein
+5 | early-years | How many songs did The Beatles record at their Decca audition? | Fifteen | Five | Ten | Twenty-five | Decca audition
+5 | early-years | Which Coasters B-side did George Harrison sing at the Decca audition? | Three Cool Cats | Young Blood | Along Came Jones | Little Egypt | Three Cool Cats; Decca audition
+5 | early-years | Paul McCartney's early song "Thinking of Linking" was inspired by a cinema advert for what? | A furniture shop | A dance hall | A bus company | A brand of tea | Thinking of Linking; Paul McCartney
+1 | songs | Which Beatle wrote and sang "Yesterday"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Yesterday; Paul McCartney
+2 | albums | On which British album was "Yesterday" first released? | Help! | Rubber Soul | Revolver | Beatles for Sale | Yesterday; Help!
+3 | records | "Yesterday" is famous as one of the most what in the history of recorded music? | Covered songs | Expensive recordings | Banned records | Sampled tracks | Yesterday
+4 | singles | In which year was "Yesterday" first issued as the lead track of a UK EP? | 1966 | 1965 | 1970 | 1976 | Yesterday
+3 | singles | In which country was "Yesterday" released as a single in September 1965, reaching number one? | United States | United Kingdom | Australia | West Germany | Yesterday
+2 | songs | Who sings lead on "With a Little Help from My Friends"? | Ringo Starr | Paul McCartney | John Lennon | George Harrison | With a Little Help from My Friends; Ringo Starr
+3 | songs | On Sgt. Pepper, Ringo Starr sings "With a Little Help from My Friends" as which character? | Billy Shears | Sgt. Pepper | Mr. Kite | Henry the Horse | With a Little Help from My Friends; Billy Shears
+3 | people | Who topped the UK chart in 1968 with a cover of "With a Little Help from My Friends"? | Joe Cocker | Rod Stewart | Tom Jones | Steve Winwood | With a Little Help from My Friends; Joe Cocker
+2 | songs | Who wrote "While My Guitar Gently Weeps"? | George Harrison | John Lennon | Paul McCartney | Eric Clapton | While My Guitar Gently Weeps; George Harrison
+2 | albums | "While My Guitar Gently Weeps" is on which album? | The White Album | Abbey Road | Let It Be | Revolver | While My Guitar Gently Weeps; White Album
+5 | songs | George Harrison wrote "While My Guitar Gently Weeps" as an exercise in randomness inspired by which Chinese text? | I Ching | Tao Te Ching | The Art of War | The Analects | While My Guitar Gently Weeps
+3 | albums | "You Won't See Me" is on which album? | Rubber Soul | Revolver | Help! | A Hard Day's Night | You Won't See Me; Rubber Soul
+5 | solo-years | Which Canadian singer had a 1974 hit with "You Won't See Me"? | Anne Murray | Joni Mitchell | Buffy Sainte-Marie | Carole Pope | You Won't See Me; Anne Murray
+3 | songs | Who wrote "Within You Without You"? | George Harrison | John Lennon | Paul McCartney | Ravi Shankar | Within You Without You; George Harrison
+3 | albums | "Within You Without You" is on which album? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Magical Mystery Tour | The White Album | Within You Without You; Sgt. Pepper
+4 | in-the-studio | How many of the other Beatles play on "Within You Without You"? | None | One | Two | Three | Within You Without You
+4 | songs | Which White Album song is John Lennon's parody of British blues bands? | Yer Blues | Revolution 1 | Glass Onion | I'm So Tired | Yer Blues; John Lennon
+4 | singles | "You Know My Name (Look Up the Number)" was the B-side of which single? | Let It Be | Get Back | The Long and Winding Road | Something | You Know My Name; Let It Be
+5 | people | Which Rolling Stone plays saxophone on "You Know My Name (Look Up the Number)"? | Brian Jones | Keith Richards | Charlie Watts | Bill Wyman | You Know My Name; Brian Jones
+4 | albums | "The Word" is on which album? | Rubber Soul | Revolver | Help! | Magical Mystery Tour | The Word; Rubber Soul
+4 | singles | "You Can't Do That" was the B-side of which single? | Can't Buy Me Love | A Hard Day's Night | I Feel Fine | She Loves You | You Can't Do That; Can't Buy Me Love
+4 | albums | Which song opens the long medley on side two of Abbey Road? | You Never Give Me Your Money | Because | Sun King | Golden Slumbers | You Never Give Me Your Money; Abbey Road
+4 | songs | Who wrote "You Never Give Me Your Money"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | You Never Give Me Your Money; Paul McCartney
+5 | songs | Whose liking for "Wild Honey Pie" helped get it onto the White Album? | Pattie Boyd | Yoko Ono | Linda Eastman | Maureen Starkey | Wild Honey Pie; Pattie Boyd
+4 | in-the-studio | Who recorded "Wild Honey Pie" without any of his bandmates? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Wild Honey Pie; Paul McCartney
+4 | songs | Who wrote and sang "Why Don't We Do It in the Road?"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Why Don't We Do It in the Road?; Paul McCartney
+4 | songs | Who wrote "You Like Me Too Much" on the Help! album? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | You Like Me Too Much; George Harrison
+4 | songs | Who wrote "Words of Love", covered on Beatles for Sale? | Buddy Holly | Carl Perkins | Roy Orbison | The Everly Brothers | Words of Love; Buddy Holly
+4 | singles | "Yes It Is" was the B-side of which single? | Ticket to Ride | Help! | I Feel Fine | Day Tripper | Yes It Is; Ticket to Ride
+1 | songs | Which Beatle sings lead on "Yellow Submarine"? | Ringo Starr | John Lennon | Paul McCartney | George Harrison | Yellow Submarine; Ringo Starr
+2 | albums | The song "Yellow Submarine" first appeared on which album? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Yellow Submarine; Revolver
+4 | singles | What position did "Yellow Submarine" reach on the US Billboard Hot 100? | Number 2 | Number 1 | Number 5 | Number 12 | Yellow Submarine
+5 | songs | Which song was the second George Harrison composition recorded by The Beatles, unreleased until Anthology 1? | You Know What to Do | I Need You | You Like Me Too Much | If I Needed Someone | You Know What to Do; George Harrison
+4 | people | Which duo had a transatlantic number one in 1964 with Paul McCartney's "A World Without Love"? | Peter and Gordon | Chad and Jeremy | David and Jonathan | The Everly Brothers | A World Without Love; Peter and Gordon
+5 | early-years | The early home recording "You'll Be Mine" is a parody of which American vocal group? | The Ink Spots | The Platters | The Coasters | The Drifters | You'll Be Mine; Anthology 1
+3 | albums | "You've Got to Hide Your Love Away" is on which album? | Help! | Rubber Soul | Beatles for Sale | Revolver | You've Got to Hide Your Love Away; Help!
+3 | songs | Who wrote and sang "You've Got to Hide Your Love Away"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | You've Got to Hide Your Love Away; John Lennon
+4 | albums | "Your Mother Should Know" appears on which Beatles release? | Magical Mystery Tour | Sgt. Pepper's Lonely Hearts Club Band | Yellow Submarine | The White Album | Your Mother Should Know; Magical Mystery Tour
+5 | films-tv | What do The Beatles wear for the "Your Mother Should Know" dance number in Magical Mystery Tour? | White evening tails | Military uniforms | Animal costumes | Black polo necks | Your Mother Should Know; Magical Mystery Tour
+4 | albums | "You're Going to Lose That Girl" is on which album? | Help! | A Hard Day's Night | Rubber Soul | Beatles for Sale | You're Going to Lose That Girl; Help!
+4 | songs | Who wrote "You've Really Got a Hold on Me", covered on With the Beatles? | Smokey Robinson | Berry Gordy | Marvin Gaye | Sam Cooke | You've Really Got a Hold on Me; Smokey Robinson
+4 | songs | Which Motown group first recorded "You've Really Got a Hold on Me"? | The Miracles | The Temptations | The Four Tops | The Contours | You've Really Got a Hold on Me; The Miracles
+1 | songs | Which Beatles song begins "Yesterday, all my troubles seemed so far away"? | Yesterday | Let It Be | Help! | In My Life | Yesterday
+1 | songs | Which Beatles song has the line "We all live in a yellow submarine"? | Yellow Submarine | Octopus's Garden | All Together Now | Penny Lane | Yellow Submarine
+1 | songs | Which Beatles song includes the line "All you need is love"? | All You Need Is Love | Love Me Do | She Loves You | Can't Buy Me Love | All You Need Is Love
+1 | songs | In which Beatles song does the singer want to be "under the sea" in a garden "in the shade"? | Octopus's Garden | Yellow Submarine | Rain | Blue Jay Way | Octopus's Garden
+2 | songs | Which Beatles song begins with the words "Picture yourself in a boat on a river"? | Lucy in the Sky with Diamonds | Yellow Submarine | Penny Lane | I Am the Walrus | Lucy in the Sky with Diamonds
+2 | songs | Which Beatles song begins "I read the news today, oh boy"? | A Day in the Life | Paperback Writer | Good Morning Good Morning | Eleanor Rigby | A Day in the Life
+2 | songs | Which Beatles song tells of "all the lonely people"? | Eleanor Rigby | Nowhere Man | Yesterday | She's Leaving Home | Eleanor Rigby
+2 | songs | In "Eleanor Rigby", what is the name of the priest? | Father McKenzie | Father Murphy | Father O'Malley | Father Brown | Eleanor Rigby
+2 | songs | In "Ob-La-Di, Ob-La-Da", what are the names of the couple? | Desmond and Molly | Rocky and Nancy | Maxwell and Joan | Billy and Rita | Ob-La-Di, Ob-La-Da
+2 | songs | Which Beatles song begins "When I find myself in times of trouble"? | Let It Be | Help! | Hey Jude | Yesterday | Let It Be
+2 | songs | In "Let It Be", who comes to the singer "speaking words of wisdom"? | Mother Mary | Sister Sarah | Lady Madonna | Sweet Loretta | Let It Be
+2 | songs | Which Beatles song begins "Here come old flat-top"? | Come Together | Get Back | I Am the Walrus | Glass Onion | Come Together
+2 | songs | In "Get Back", which character "thought he was a loner"? | Jojo | Desmond | Rocky | Maxwell | Get Back
+2 | songs | In "Rocky Raccoon", what does Rocky find in his hotel room? | Gideon's Bible | A silver hammer | A paperback novel | A ticket to ride | Rocky Raccoon
+3 | songs | In "Lovely Rita", what does Rita's bag across her shoulder make her look like? | A military man | A schoolteacher | A sailor | A postman | Lovely Rita
+3 | songs | In "Penny Lane", what does the banker never wear in the pouring rain? | A mac | A hat | A scarf | His shoes | Penny Lane
+3 | songs | In "A Day in the Life", how many holes are there in Blackburn, Lancashire? | Four thousand | Four hundred | Ten thousand | A million | A Day in the Life
+3 | songs | In "Being for the Benefit of Mr. Kite!", what is the name of the horse that dances the waltz? | Henry | Charlie | Dobbin | Arthur | Being for the Benefit of Mr. Kite!
+3 | songs | In "Lady Madonna", on which day of the week does the child learn "to tie his bootlace"? | Thursday | Monday | Tuesday | Sunday | Lady Madonna
+3 | songs | In "Drive My Car", what does the girl want to be? | A famous film star | A racing driver | A pop singer | A fashion model | Drive My Car
+3 | songs | In "Paperback Writer", for which newspaper does the hero's son work? | The Daily Mail | The Times | The Daily Mirror | The Guardian | Paperback Writer
+3 | songs | In "When I'm Sixty-Four", what are the names of the grandchildren? | Vera, Chuck and Dave | Tom, Dick and Harry | Molly, Desmond and Jack | Rita, Sue and Bob | When I'm Sixty-Four
+3 | songs | In "When I'm Sixty-Four", where might the couple rent a cottage every summer? | The Isle of Wight | The Isle of Man | Blackpool | Cornwall | When I'm Sixty-Four
+3 | songs | In "Back in the U.S.S.R.", which airline does the singer fly in from Miami Beach? | BOAC | Pan Am | Aeroflot | TWA | Back in the U.S.S.R.
+3 | songs | In "The Ballad of John and Yoko", where do the couple finally get married? | Gibraltar | Paris | Amsterdam | Vienna | The Ballad of John and Yoko
+3 | songs | In "Maxwell's Silver Hammer", what is Joan studying at home? | Pataphysical science | Ancient history | Higher mathematics | Modern dance | Maxwell's Silver Hammer
+4 | songs | In "Rocky Raccoon", by what name is the girl Lil known to everyone? | Nancy | Rita | Sadie | Prudence | Rocky Raccoon
+4 | songs | In "Norwegian Wood", where does the narrator end up sleeping? | In the bath | On the sofa | In the garden | On the stairs | Norwegian Wood
+4 | songs | In "She's Leaving Home", on which day of the week does the girl slip away at five o'clock? | Wednesday | Monday | Friday | Sunday | She's Leaving Home
+4 | songs | In "I Am the Walrus", where is the singer "sitting on a cornflake"? | Waiting for the van to come | In an English garden | On a London bus | At the Eiffel Tower | I Am the Walrus
+4 | songs | In "Come Together", which soft drink is mentioned? | Coca-Cola | Pepsi | Dr Pepper | Lemonade | Come Together
+4 | songs | In "Happiness Is a Warm Gun", who is said to "jump the gun"? | Mother Superior | Sister Mary | Lady Madonna | Sexy Sadie | Happiness Is a Warm Gun
+4 | songs | In "Glass Onion", who does John Lennon say "the walrus" was? | Paul | John | George | Ringo | Glass Onion
+4 | songs | In "The Continuing Story of Bungalow Bill", who does Bill take along on the tiger hunt in case of accidents? | His mum | His butler | His brother | His dog | Bungalow Bill
+5 | songs | In "Mean Mr. Mustard", what is the name of Mr. Mustard's sister? | Pam | Rita | Shirley | Molly | Mean Mr. Mustard
+5 | songs | In "Cry Baby Cry", who is in the parlour "playing piano for the children of the King"? | The Queen | The Duchess of Kirkcaldy | The Duke | The Bishop | Cry Baby Cry
+5 | songs | In "Lovely Rita", how many sisters sit on the sofa at the end? | One or two | Three or four | Five or six | None | Lovely Rita

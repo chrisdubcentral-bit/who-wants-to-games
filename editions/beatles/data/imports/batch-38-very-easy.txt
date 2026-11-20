@@ -1,0 +1,102 @@
+# 100 very easy questions (difficulty 1) to fill the early rounds. Checked against every approved and pending question.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | band-members | Which Beatle had the surname Harrison? | George | John | Paul | Ringo | George Harrison
+1 | band-members | Which Beatle had the surname McCartney? | Paul | John | George | Ringo | Paul McCartney
+1 | band-members | In which country were The Beatles formed? | England | Scotland | Wales | Ireland | Liverpool
+1 | band-members | Which Beatle died in 2001? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | George Harrison
+1 | band-members | What name was given to The Beatles' famous early haircut? | The mop-top | The mullet | The quiff | The crew cut | Beatlemania
+1 | band-members | Which kind of guitar did John Lennon mainly play in The Beatles? | Rhythm guitar | Bass guitar | Steel guitar | Flamenco guitar | John Lennon
+1 | band-members | In which decade did The Beatles have their first hit record? | The 1960s | The 1950s | The 1970s | The 1980s | Love Me Do
+1 | early-years | The Beatles' name is a pun on which insect? | Beetle | Bee | Ant | Butterfly | Band name
+1 | early-years | Which future Beatle did John Lennon meet at a church fete in 1957? | Paul McCartney | George Harrison | Ringo Starr | Stuart Sutcliffe | The Quarrymen; Paul McCartney
+1 | early-years | Which instrument did Pete Best play in The Beatles? | Drums | Bass guitar | Piano | Trumpet | Pete Best
+1 | early-years | Hamburg, where The Beatles played in the early 1960s, is in which country? | Germany | The Netherlands | Austria | Denmark | Hamburg
+1 | places | Which river flows through Liverpool, The Beatles' home city? | The Mersey | The Thames | The Clyde | The Tyne | Liverpool
+1 | places | In which city was John Lennon living when he died in 1980? | New York | London | Liverpool | Los Angeles | John Lennon
+1 | in-the-studio | In which city are Abbey Road Studios? | London | Liverpool | New York | Hamburg | Abbey Road Studios
+1 | in-the-studio | Which instrument does Paul McCartney play on the Beatles recording of "Let It Be"? | Piano | Drums | Trumpet | Violin | Let It Be
+1 | in-the-studio | What kind of guitar does Paul McCartney play on "Blackbird"? | An acoustic guitar | An electric guitar | A bass guitar | A banjo | Blackbird
+1 | albums | Which Beatles album shares its title with their 1968 animated film? | Yellow Submarine | Help! | Revolver | Abbey Road | Yellow Submarine
+1 | albums | Which Beatles album shares its title with their 1967 TV film? | Magical Mystery Tour | Rubber Soul | Abbey Road | Revolver | Magical Mystery Tour
+1 | albums | Which Beatles album title is also a type of gun? | Revolver | Rubber Soul | Help! | Let It Be | Revolver
+1 | albums | Which Beatles album title sounds like part of a shoe? | Rubber Soul | Revolver | Abbey Road | Help! | Rubber Soul
+1 | albums | Which of these is a Beatles album? | Abbey Road | Thriller | Rumours | Nevermind | Abbey Road
+1 | albums | Which of these is NOT a Beatles album? | Exile on Main St. | Revolver | Help! | Let It Be | Album quiz
+1 | albums | Which of these albums was made by The Beatles? | Sgt. Pepper's Lonely Hearts Club Band | The Dark Side of the Moon | Pet Sounds | Led Zeppelin IV | Sgt. Pepper
+1 | albums | Which Beatles album shares its title with their 1970 documentary film? | Let It Be | Abbey Road | Revolver | Rubber Soul | Let It Be
+1 | albums | In which decade was Abbey Road released? | The 1960s | The 1950s | The 1970s | The 1980s | Abbey Road
+1 | albums | How many Beatles are shown walking across the road on the Abbey Road cover? | Four | Two | Three | Five | Abbey Road
+1 | albums | Which Beatle leads the line, dressed all in white, on the Abbey Road cover? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Abbey Road; John Lennon
+1 | albums | Which Beatles album title suggests the band were up for sale? | Beatles for Sale | With the Beatles | Help! | Revolver | Beatles for Sale
+1 | albums | What colour is the cover of the White Album? | White | Black | Yellow | Red | White Album
+1 | albums | Which fictional sergeant gives his name to a 1967 Beatles album? | Sgt. Pepper | Sgt. Bilko | Sgt. Rock | Sgt. Salt | Sgt. Pepper
+1 | songs | Complete the Beatles song title: "Here Comes the ..."? | Sun | Moon | Rain | Night | Here Comes the Sun
+1 | songs | Complete the Beatles song title: "All You Need Is ..."? | Love | Money | Time | Hope | All You Need Is Love
+1 | songs | Complete the Beatles song title: "Come ..."? | Together | Home | Back | Along | Come Together
+1 | songs | Complete the Beatles song title: "Get ..."? | Back | Up | Out | Home | Get Back
+1 | songs | Complete the Beatles song title: "Day ..."? | Tripper | Dreamer | Breaker | Walker | Day Tripper
+1 | songs | Complete the Beatles song title: "Paperback ..."? | Writer | Reader | Novel | Hero | Paperback Writer
+1 | songs | Complete the Beatles song title: "Lady ..."? | Madonna | Luck | Jane | Grey | Lady Madonna
+1 | songs | Complete the Beatles song title: "Norwegian ..."? | Wood | Wind | Night | Way | Norwegian Wood
+1 | songs | Complete the Beatles song title: "Eleanor ..."? | Rigby | Riley | Robson | Rowley | Eleanor Rigby
+1 | songs | Complete the Beatles song title: "Twist and ..."? | Shout | Turn | Spin | Jump | Twist and Shout
+1 | songs | Complete the Beatles song title: "I Saw Her Standing ..."? | There | Still | Alone | Up | I Saw Her Standing There
+1 | songs | Complete the Beatles song title: "We Can Work It ..."? | Out | Up | Through | Off | We Can Work It Out
+1 | songs | Complete the Beatles song title: "The Fool on the ..."? | Hill | Hall | Road | Bus | The Fool on the Hill
+1 | songs | Complete the Beatles song title: "A Day in the ..."? | Life | Sun | City | Park | A Day in the Life
+1 | songs | Complete the Beatles song title: "Please Please ..."? | Me | You | Her | Stay | Please Please Me
+1 | songs | Complete the Beatles song title: "From Me to ..."? | You | Her | Them | Home | From Me to You
+1 | songs | Complete the Beatles song title: "Magical Mystery ..."? | Tour | Train | Trip | Ride | Magical Mystery Tour
+1 | songs | Complete the Beatles song title: "Here, There and ..."? | Everywhere | Anywhere | Somewhere | Nowhere | Here, There and Everywhere
+1 | songs | Complete the Beatles song title: "Love Me ..."? | Do | Now | Back | Too | Love Me Do
+1 | songs | Complete the Beatles song title: "She Loves ..."? | You | Me | Him | Them | She Loves You
+1 | songs | Complete the Beatles song title: "Nowhere ..."? | Man | Land | Road | Town | Nowhere Man
+1 | songs | Complete the Beatles song title: "Good Day ..."? | Sunshine | Sunday | Tomorrow | Today | Good Day Sunshine
+1 | songs | Complete the Beatles song title: "Helter ..."? | Skelter | Shelter | Smelter | Swelter | Helter Skelter
+1 | songs | Complete the Beatles song title: "Dear ..."? | Prudence | Patience | Prunella | Penelope | Dear Prudence
+1 | songs | Complete the Beatles song title: "I Am the ..."? | Walrus | Eggman | Captain | Winner | I Am the Walrus
+1 | songs | Complete the Beatles song title: "Lovely ..."? | Rita | Rose | Ruby | Rachel | Lovely Rita
+1 | songs | Complete the Beatles song title: "Polythene ..."? | Pam | Pat | Polly | Peg | Polythene Pam
+1 | songs | Complete the Beatles song title: "Martha My ..."? | Dear | Love | Girl | Friend | Martha My Dear
+1 | songs | Complete the Beatles song title: "Sexy ..."? | Sadie | Susie | Sally | Sophie | Sexy Sadie
+1 | songs | Complete the Beatles song title: "Doctor ..."? | Robert | Richard | Rodney | Ronald | Doctor Robert
+1 | songs | Complete the Beatles song title: "Mean Mr. ..."? | Mustard | Muffin | Moonlight | Marmalade | Mean Mr. Mustard
+1 | songs | Complete the Beatles song title: "Glass ..."? | Onion | Eye | Slipper | House | Glass Onion
+1 | songs | Complete the Beatles song title: "Baby, You're a Rich ..."? | Man | Girl | Kid | Boy | Baby, You're a Rich Man
+1 | songs | Complete the Beatles song title: "Your Mother Should ..."? | Know | Go | Call | Sing | Your Mother Should Know
+1 | songs | Complete the Beatles song title: "Hey ..."? | Bulldog | Bloodhound | Beagle | Boxer | Hey Bulldog
+1 | songs | Complete the Beatles song title: "Old Brown ..."? | Shoe | Hat | Coat | Dog | Old Brown Shoe
+1 | songs | Complete the Beatles song title: "The Ballad of John and ..."? | Yoko | Paul | Julia | Cynthia | The Ballad of John and Yoko
+1 | songs | Complete the Beatles song title: "Ob-La-Di, ..."? | Ob-La-Da | Ob-La-Do | Ob-La-Dee | Ob-La-Day | Ob-La-Di, Ob-La-Da
+1 | songs | Complete the Beatles song title: "Penny ..."? | Lane | Street | Road | Avenue | Penny Lane
+1 | songs | In the Beatles song title "Rocky Raccoon", what kind of animal is Rocky? | A raccoon | A dog | A bear | A fox | Rocky Raccoon
+1 | songs | Which country does "U.S.S.R." in "Back in the U.S.S.R." refer to? | The Soviet Union | The United States | The United Kingdom | South Africa | Back in the U.S.S.R.
+1 | songs | Which Beatles song is named after a bird? | Blackbird | Penny Lane | Help! | Something | Blackbird
+1 | songs | Which Beatles song title is both a greeting and a farewell? | Hello, Goodbye | Yesterday | Help! | Girl | Hello, Goodbye
+1 | songs | Which Beatles song complains about paying too much tax? | Taxman | Help! | Michelle | Yesterday | Taxman
+1 | songs | Which of these Beatles song titles includes a fruit? | Strawberry Fields Forever | Penny Lane | Come Together | Something | Strawberry Fields Forever
+1 | songs | Which Beatles song would you most likely sing at a party for someone's special day? | Birthday | Yesterday | Help! | Taxman | Birthday
+1 | songs | Which of these Beatles song titles is about driving? | Drive My Car | Something | Girl | Michelle | Drive My Car
+1 | songs | Which of these Beatles song titles is a girl's name? | Michelle | Something | Help! | Yesterday | Michelle
+1 | songs | Which Beatles song title is a single word meaning "the day before today"? | Yesterday | Something | Help! | Girl | Yesterday
+1 | songs | Which of these Beatles song titles contains a number? | Eight Days a Week | Penny Lane | Help! | Something | Eight Days a Week
+1 | singles | Which Beatles single came out first? | Love Me Do | Hey Jude | Get Back | Let It Be | Love Me Do
+1 | singles | Which of these Beatles songs was released earliest? | She Loves You | Penny Lane | Hello, Goodbye | Lady Madonna | She Loves You
+1 | singles | Which of these songs was a Beatles hit? | Hey Jude | Good Vibrations | My Generation | Waterloo Sunset | Hey Jude
+1 | singles | Which of these songs was NOT by The Beatles? | Bohemian Rhapsody | Penny Lane | Let It Be | Get Back | Song quiz
+1 | singles | Which of these songs did The Beatles NOT record? | (I Can't Get No) Satisfaction | Help! | Yesterday | Something | Song quiz
+1 | films-tv | Which Beatles film follows a coach trip around the countryside? | Magical Mystery Tour | Help! | A Hard Day's Night | Let It Be | Magical Mystery Tour
+1 | films-tv | In the film Yellow Submarine, what colour is the submarine? | Yellow | Blue | Red | Green | Yellow Submarine
+1 | films-tv | On which streaming service was the 2021 documentary series The Beatles: Get Back first shown? | Disney+ | Netflix | Amazon Prime Video | Apple TV+ | Get Back (2021)
+1 | live | What did fans do so loudly at Beatles concerts that the band could barely hear themselves? | Scream | Sing along | Clap | Stamp their feet | Beatlemania
+1 | live | Which sweets did British fans famously throw at The Beatles on stage? | Jelly babies | Mints | Toffees | Chocolate buttons | Beatlemania
+1 | records | Which honour did the Queen give each of The Beatles in 1965? | The MBE | A knighthood | A peerage | The George Cross | MBE
+1 | solo-years | Which 1971 John Lennon song asks the listener to picture a world at peace? | Imagine | Woman | Jealous Guy | Mind Games | Imagine; John Lennon
+1 | solo-years | Which Wings hit is named after a part of Scotland? | Mull of Kintyre | Band on the Run | Jet | Silly Love Songs | Wings; Mull of Kintyre
+1 | solo-years | Which children's TV series about a railway engine did Ringo Starr narrate? | Thomas the Tank Engine | Postman Pat | Bob the Builder | Fireman Sam | Ringo Starr
+1 | solo-years | Which Christmas song did John Lennon and Yoko Ono release in 1971? | Happy Xmas (War Is Over) | Wonderful Christmastime | Do They Know It's Christmas? | Last Christmas | John Lennon; Christmas
+1 | solo-years | Which Christmas song did Paul McCartney release in 1979? | Wonderful Christmastime | Happy Xmas (War Is Over) | Last Christmas | Mistletoe and Wine | Paul McCartney; Christmas
+1 | solo-years | Which singer recorded "Ebony and Ivory" with Paul McCartney? | Stevie Wonder | Michael Jackson | Elton John | Lionel Richie | Paul McCartney
+1 | solo-years | Which singer recorded "Say Say Say" with Paul McCartney? | Michael Jackson | Stevie Wonder | Elton John | Lionel Richie | Paul McCartney; Michael Jackson
+1 | solo-years | Which peace song did John Lennon record during his 1969 bed-in in Montreal? | Give Peace a Chance | Imagine | Power to the People | Instant Karma! | John Lennon; Bed-ins
+1 | solo-years | At which 2012 London event did Paul McCartney lead the crowd in "Hey Jude"? | The Olympic Games opening ceremony | The FA Cup Final | The Wimbledon final | The London Marathon | Paul McCartney; Hey Jude

@@ -35,7 +35,7 @@
       "lifeline": "Use it once to remove two wrong answers. Choose the moment carefully: you don't get another one if you play on into a new season.",
       "seasonsTitle": "Defend the Cup",
       "seasons": "Win the Final and you can start a new season as holders, going straight into the {restart}. Keep winning to add more {prizes}. A wrong answer ends your run, but you keep the {prizes} you've won.",
-      "top100": "The Top 100 is shared with players everywhere, and anyone can add their name and town to it. The most {prizes} ranks highest, then the furthest round reached. After that, players who didn't use the 50:50 rank above those who did, then the fastest time wins.",
+      "top100": "The Top 40 is shared with players everywhere, and anyone can add their name and town to it. The most {prizes} ranks highest, then the furthest round reached. After that, players who didn't use the 50:50 rank above those who did, then the fastest time wins.",
       "sound": "Hear the crowd roar when you get an answer right. On a phone, the silent switch or volume may also need turning up."
     },
     "quiz": {
@@ -90,8 +90,8 @@
     },
     "share": {
       "game": "Who Wants To Win The {prize} ({team} Edition)",
-      "withCups": "I'm number {rank} in the Top 100 on {game} 🏆 {count} won. Can you beat me?",
-      "noCups": "I'm number {rank} in the Top 100 on {game}. I reached the {stage}. Can you beat me?",
+      "withCups": "I'm number {rank} in the Top 40 on {game} 🏆 {count} won. Can you beat me?",
+      "noCups": "I'm number {rank} in the Top 40 on {game}. I reached the {stage}. Can you beat me?",
       "cardTitleTop": "Who Wants To Win",
       "cardTitle": "The {prize}",
       "cardEdition": "{team} Edition",

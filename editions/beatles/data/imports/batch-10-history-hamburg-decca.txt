@@ -1,0 +1,57 @@
+# Beatles history: Hamburg and the Decca audition. Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | early-years | In which year did The Beatles first travel to Hamburg? | 1960 | 1958 | 1962 | 1963 | Hamburg
+3 | early-years | How many musicians were in the Beatles line-up that first went to Hamburg in 1960? | Five | Three | Four | Six | Hamburg; Line-up
+3 | early-years | Who was the Beatles' drummer during their first Hamburg trips? | Pete Best | Ringo Starr | Tommy Moore | Norman Chapman | Hamburg; Pete Best
+4 | people | Which Liverpool promoter arranged The Beatles' first Hamburg booking? | Allan Williams | Brian Epstein | Sam Leach | Ray McFall | Hamburg; Allan Williams
+4 | early-years | Why was George Harrison deported from West Germany in 1960? | He was under age | He had no passport | He started a fire | He was caught stealing | Hamburg; George Harrison
+4 | early-years | Which two Beatles were arrested and deported from Hamburg in 1960 on suspicion of attempted arson? | Paul McCartney and Pete Best | John Lennon and Stuart Sutcliffe | George Harrison and Pete Best | John Lennon and Paul McCartney | Hamburg; Deportation
+3 | people | Which Hamburg photographer is credited with inspiring the Beatles' "mop-top" haircut? | Astrid Kirchherr | Klaus Voormann | Jürgen Vollmer | Linda Eastman | Hamburg; Astrid Kirchherr
+3 | early-years | What caused the death of former Beatle Stuart Sutcliffe in 1962? | A brain haemorrhage | A car crash | Pneumonia | A drowning accident | Stuart Sutcliffe
+4 | early-years | Why did Stuart Sutcliffe leave The Beatles? | To carry on with his art studies | To join another band | He was sacked by Brian Epstein | He was called up for national service | Stuart Sutcliffe
+5 | people | Which other Allan Williams group went to Hamburg before The Beatles and did well there? | Derry and the Seniors | The Big Three | The Searchers | Kingsize Taylor and the Dominoes | Hamburg; Derry and the Seniors
+5 | early-years | Which group turned down the Hamburg booking because of a Butlins holiday camp season, before The Beatles were offered it? | Rory Storm and the Hurricanes | The Remo Four | The Swinging Blue Jeans | Faron's Flamingos | Hamburg; Rory Storm
+5 | people | Who owned the Indra and the Kaiserkeller, the first two Hamburg clubs The Beatles played? | Bruno Koschmider | Peter Eckhorn | Manfred Weissleder | Horst Fascher | Hamburg; Bruno Koschmider
+4 | places | What was the name of Allan Williams's Liverpool coffee bar, where The Beatles played in 1960? | The Jacaranda | The Casbah | The Blue Angel | The Kardomah | Jacaranda; Allan Williams
+5 | early-years | With which group was Pete Best playing when The Beatles recruited him in August 1960? | The Black Jacks | The Hurricanes | The Dominoes | The Remo Four | Pete Best
+5 | early-years | How much was Pete Best told each Beatle would earn per week in Hamburg? | £15 | £5 | £50 | £100 | Hamburg; Pete Best
+5 | early-years | On which date did The Beatles arrive in Hamburg for the first time? | 17 August 1960 | 1 January 1960 | 5 October 1960 | 27 March 1961 | Hamburg
+5 | early-years | At which English port did The Beatles' van board the ferry on their first trip to Hamburg? | Harwich | Dover | Hull | Southampton | Hamburg
+5 | early-years | When The Beatles were held up at the port in 1960 without work permits, what did Allan Williams tell officials they were? | Students on holiday | A football team | Merchant seamen | A church choir | Hamburg; Allan Williams
+4 | places | In which district of Hamburg were the clubs where The Beatles played? | St. Pauli | Altona | Blankenese | Eimsbüttel | Hamburg; St. Pauli
+4 | places | On which Hamburg street were the Indra and the Kaiserkeller? | Grosse Freiheit | Herbertstrasse | Kirchenallee | Jungfernstieg | Hamburg; Grosse Freiheit
+5 | places | In what kind of building did The Beatles sleep during their first Hamburg stay? | A cinema | A church hall | A railway station | A boat | Hamburg; Bambi Kino
+5 | places | What was the name of the small Hamburg cinema where The Beatles were lodged in 1960? | Bambi Kino | Roxy Kino | Savoy Kino | Astra Kino | Hamburg; Bambi Kino
+4 | early-years | Why did the Indra club stop putting on The Beatles in October 1960? | Neighbours complained about the noise | It burned down | The owner went bankrupt | The band were deported | Hamburg; Indra
+4 | early-years | To which club did The Beatles move on 4 October 1960, after the Indra? | The Kaiserkeller | The Top Ten Club | The Star-Club | The Mambo | Hamburg; Kaiserkeller
+4 | early-years | What did the Hamburg club owner shout at The Beatles to liven up their act? | Mach Schau! | Schnell, schnell! | Lauter, bitte! | Noch einmal! | Hamburg; Mach Schau
+5 | early-years | Which Beatle had studied German at school and could talk to the Hamburg club owner? | Pete Best | Paul McCartney | Stuart Sutcliffe | George Harrison | Hamburg; Pete Best
+5 | early-years | Which song did Pete Best step forward to sing in Hamburg while Paul McCartney played drums? | Peppermint Twist | Matchbox | Boys | Wild Cat | Hamburg; Pete Best
+4 | early-years | Which Liverpool group, with Ringo Starr on drums, shared the bill with The Beatles at the Kaiserkeller in 1960? | Rory Storm and the Hurricanes | Gerry and the Pacemakers | The Searchers | The Undertakers | Hamburg; Rory Storm
+5 | people | Which former boxer worked as a bouncer in Hamburg and became a friend and protector of The Beatles? | Horst Fascher | Bruno Koschmider | Peter Eckhorn | Georg Sterner | Hamburg; Horst Fascher
+5 | early-years | Which ballad was Stuart Sutcliffe's vocal showpiece on stage in Hamburg? | Love Me Tender | Besame Mucho | Summertime | Over the Rainbow | Hamburg; Stuart Sutcliffe
+5 | early-years | Which Ray Charles song did The Beatles sometimes stretch to enormous length on stage in Hamburg? | What'd I Say | Hit the Road Jack | Georgia on My Mind | I Got a Woman | Hamburg; Ray Charles
+5 | early-years | On 15 October 1960 in Hamburg, John, Paul, George and Ringo recorded together for the first time, backing which singer? | Lou Walters | Tony Sheridan | Rory Storm | Johnny Gentle | Hamburg; Lou Walters
+5 | early-years | Which of these songs was recorded at the 1960 Hamburg session where John, Paul, George and Ringo first played together? | Summertime | My Bonnie | Ain't She Sweet | Cry for a Shadow | Hamburg; Lou Walters
+5 | people | Who opened Hamburg's Top Ten Club in October 1960 and lured The Beatles there? | Peter Eckhorn | Bruno Koschmider | Manfred Weissleder | Horst Fascher | Hamburg; Top Ten Club
+4 | places | On which famous Hamburg street was the Top Ten Club? | The Reeperbahn | Grosse Freiheit | Mönckebergstrasse | Kirchenallee | Hamburg; Top Ten Club
+4 | people | Which English singer and guitarist led the house band at the Top Ten Club and later recorded with The Beatles? | Tony Sheridan | Cliff Richard | Vince Taylor | Johnny Kidd | Hamburg; Tony Sheridan
+3 | early-years | Between which years did the original Beatles play their Hamburg club residencies? | 1960 to 1962 | 1956 to 1958 | 1963 to 1965 | 1958 to 1959 | Hamburg
+4 | early-years | In which months of 1962 did The Beatles play Hamburg with Ringo Starr on drums? | November and December | January and February | April and May | July and August | Hamburg; Star-Club
+4 | people | Who lost his way driving The Beatles to London for the Decca audition, turning it into a ten-hour trip? | Neil Aspinall | Mal Evans | Brian Epstein | Allan Williams | Decca audition; Neil Aspinall
+3 | early-years | On which date did The Beatles audition for Decca Records? | 1 January 1962 | 6 June 1962 | 5 October 1962 | 9 November 1961 | Decca audition
+4 | early-years | Which group did Decca sign instead of The Beatles? | Brian Poole and the Tremeloes | The Dave Clark Five | Freddie and the Dreamers | The Rolling Stones | Decca audition; Brian Poole and the Tremeloes
+4 | places | In which part of London were the Decca studios where The Beatles auditioned? | West Hampstead | Soho | Hammersmith | Islington | Decca audition
+5 | people | Which Decca A&R man saw The Beatles at the Cavern and invited them to audition? | Mike Smith | Dick Rowe | Tony Meehan | Ron Richards | Decca audition; Mike Smith
+4 | early-years | Which famous phrase is Decca said to have used when turning The Beatles down? | Guitar groups are on the way out | Nobody wants Liverpool acts | Rock and roll is finished | They will never sell in America | Decca audition
+5 | people | Which Decca executive was long blamed for rejecting The Beatles, though he always denied the "guitar groups" remark? | Dick Rowe | Mike Smith | Norrie Paramor | Walter Ridley | Decca audition; Dick Rowe
+5 | early-years | How many Lennon-McCartney originals did The Beatles play at the Decca audition? | Three | None | One | Seven | Decca audition
+5 | early-years | How many of the Decca audition recordings were released on Anthology 1? | Five | Two | Ten | All fifteen | Decca audition; Anthology 1
+5 | early-years | Why did Decca prefer Brian Poole and the Tremeloes to The Beatles, according to the usual account? | They were local and cheaper to work with | They had a number one already | They wrote their own songs | They had a famous manager | Decca audition
+5 | people | Which of these EMI producers declined to record The Beatles before George Martin took an interest? | Norrie Paramor | Joe Meek | Mickie Most | Shel Talmy | EMI; Norrie Paramor
+4 | films-tv | Which 1978 spoof film about the Rutles parodies the record executive who turned down The Beatles? | All You Need Is Cash | This Is Spinal Tap | Help! I'm a Rutle | A Hard Day's Rut | The Rutles
+5 | people | What is the title of Brian Epstein's 1964 autobiography? | A Cellarful of Noise | The Man Who Made the Beatles | A Twist of Lennon | Many Years from Now | Brian Epstein
+4 | people | The title "Fifth Beatle" has been applied to early bassist Stuart Sutcliffe. Which instrument did he play in the band? | Bass guitar | Drums | Piano | Rhythm guitar | Stuart Sutcliffe
+4 | early-years | Which pills did the Beatles take in Hamburg to stay awake through long nights on stage? | Preludin | Aspirin | Valium | Penicillin | Hamburg
+5 | places | From which port did The Beatles' ferry arrive on the Continent on their first trip to Hamburg? | Hook of Holland | Calais | Ostend | Bremerhaven | Hamburg
+5 | early-years | Which Hamburg club did Bruno Koschmider own that was larger and smarter than the Indra? | The Kaiserkeller | The Top Ten Club | The Star-Club | The Beer-Shop | Hamburg; Kaiserkeller

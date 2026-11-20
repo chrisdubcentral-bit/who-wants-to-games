@@ -4,7 +4,7 @@ import { STATUS } from '../game-engine.js';
 import { bus } from '../../core/events.js';
 import { LETTERS } from '../../core/utils.js';
 import { playCheer } from '../../core/sound.js';
-import { t, ed, prizeCount } from '../../core/edition.js';
+import { t, ed, prizeCount, seasonName } from '../../core/edition.js';
 import { breakAfter, preloadAdvert, showAdvert } from '../advert.js';
 
 /** Identifies one game for advert turns: each new game, and each new season, gets the next advert. */
@@ -105,7 +105,7 @@ export function render(root, app) {
     const stage = state.stages[state.stageIndex];
     const season = state.season ?? 1;
     const cups = state.cups ?? 0;
-    ref('round').textContent = `${season > 1 ? `Season ${season} · ` : ''}Stage ${stage.order} of ${state.stages.length}`;
+    ref('round').textContent = `${season > 1 ? `${seasonName()} ${season} · ` : ''}Stage ${stage.order} of ${state.stages.length}`;
     ref('stage').textContent = stage.label;
     ref('meta').innerHTML = [
       cups ? `<span class="badge badge-gold">${esc(t('quiz.won', { count: prizeCount(cups) }))}</span>` : '',

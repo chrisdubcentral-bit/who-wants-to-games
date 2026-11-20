@@ -1,0 +1,409 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Whose live version of \"Yesterday\" topped Cover Me's 2024 list of the best Beatles covers?",
+    "options": [
+      "Aretha Franklin",
+      "Ray Charles",
+      "Donny Hathaway",
+      "Marvin Gaye"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "Yesterday",
+      "Donny Hathaway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "At which Hollywood club was Donny Hathaway's celebrated live cover of \"Yesterday\" recorded in 1971?",
+    "options": [
+      "The Whisky a Go Go",
+      "The Palladium",
+      "The Troubadour",
+      "The Roxy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "Donny Hathaway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Donny Hathaway's 1971 live \"Yesterday\" was not officially released until which year?",
+    "options": [
+      "1995",
+      "2004",
+      "1980",
+      "1972"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Covers",
+      "Donny Hathaway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which soul singer's 1968 cover of \"Hey Jude\" features Duane Allman on guitar?",
+    "options": [
+      "Sam Cooke",
+      "Otis Redding",
+      "Solomon Burke",
+      "Wilson Pickett"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Hey Jude",
+      "Wilson Pickett"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "At which Muscle Shoals studio did Wilson Pickett record his cover of \"Hey Jude\"?",
+    "options": [
+      "FAME",
+      "Sun Studio",
+      "Muscle Shoals Sound",
+      "Stax"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which guitarist rang Atlantic Records to find out who had played the solo on Wilson Pickett's \"Hey Jude\"?",
+    "options": [
+      "George Harrison",
+      "Jeff Beck",
+      "Jimi Hendrix",
+      "Eric Clapton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Hey Jude",
+      "Duane Allman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Aretha Franklin's version of \"Let It Be\" was released how long before The Beatles' own?",
+    "options": [
+      "A week",
+      "Six months",
+      "About a year",
+      "About two months"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Let It Be",
+      "Aretha Franklin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which Motown star sang his cover of \"We Can Work It Out\" for Paul McCartney at the White House in 2010?",
+    "options": [
+      "Marvin Gaye",
+      "Smokey Robinson",
+      "Stevie Wonder",
+      "Lionel Richie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "We Can Work It Out",
+      "Stevie Wonder"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which magazine declared Stevie Wonder's \"We Can Work It Out\" \"The Greatest Beatles Cover\" in 2016?",
+    "options": [
+      "Mojo",
+      "Rolling Stone",
+      "Pitchfork",
+      "Slate"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Stevie Wonder"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which jazz singer recorded \"Savoy Truffle\" on her 1969 album Ella?",
+    "options": [
+      "Peggy Lee",
+      "Nina Simone",
+      "Sarah Vaughan",
+      "Ella Fitzgerald"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Savoy Truffle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Queen of Salsa recorded \"Ob-La-Di, Ob-La-Da\" with all-Spanish lyrics?",
+    "options": [
+      "Gloria Estefan",
+      "Celia Cruz",
+      "La Lupe",
+      "Olga Tañón"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Covers",
+      "Ob-La-Di, Ob-La-Da"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which band recorded \"Dear Prudence\" with Robert Smith of The Cure helping out?",
+    "options": [
+      "The Smiths",
+      "Siouxsie and the Banshees",
+      "The Psychedelic Furs",
+      "Echo and the Bunnymen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Covers",
+      "Dear Prudence"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "At which ceremony did Prince play his famous guitar solo on \"While My Guitar Gently Weeps\" with Tom Petty and Dhani Harrison?",
+    "options": [
+      "Live Aid",
+      "The Grammy Awards",
+      "The Rock and Roll Hall of Fame",
+      "The Concert for George"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "While My Guitar Gently Weeps",
+      "Prince"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which progressive rock band, famous for \"Roundabout\", covered \"Every Little Thing\"?",
+    "options": [
+      "Genesis",
+      "Yes",
+      "Emerson, Lake and Palmer",
+      "King Crimson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Covers",
+      "Every Little Thing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which all-female 1970s band recorded \"Hey Bulldog\" at Apple Studios with engineer Geoff Emerick?",
+    "options": [
+      "The Slits",
+      "The Runaways",
+      "Girlschool",
+      "Fanny"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Hey Bulldog",
+      "Fanny"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which American alternative band led by Kim Deal covered \"Happiness Is a Warm Gun\"?",
+    "options": [
+      "Throwing Muses",
+      "Belly",
+      "The Breeders",
+      "Pixies"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "Happiness Is a Warm Gun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which singer-songwriter released a version of \"What Goes On\" ranked in Cover Me's top 20?",
+    "options": [
+      "Sufjan Stevens",
+      "Iron and Wine",
+      "Bon Iver",
+      "Elliott Smith"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "What Goes On"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Black Keys cover appears on Cover Me's list of the best Beatles covers?",
+    "options": [
+      "Revolution",
+      "Come Together",
+      "Helter Skelter",
+      "She Said, She Said"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "The Black Keys"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which singer covered \"All My Loving\", making Cover Me's list of the best Beatles covers?",
+    "options": [
+      "Duffy",
+      "Lily Allen",
+      "Amy Winehouse",
+      "Adele"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "All My Loving"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which short-lived Italian band's \"Mystery Tour\" was number two on Cover Me's list?",
+    "options": [
+      "Le Orme",
+      "I Giganti",
+      "Camel",
+      "Premiata Forneria Marconi"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  }
+]

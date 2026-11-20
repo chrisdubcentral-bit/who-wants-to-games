@@ -1,0 +1,64 @@
+# Beatles history: Hamburg (later residencies) and The Ed Sullivan Show. Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+5 | early-years | On which date in 1960 was George Harrison deported from West Germany? | 21 November | 17 August | 4 October | 31 December | Hamburg; George Harrison
+5 | people | Who stood in on bass for Stuart Sutcliffe for four Beatles shows in Liverpool in December 1960? | Chas Newby | Ken Brown | Johnny Gustafson | Colin Hanton | Chas Newby
+5 | places | At which Liverpool club did The Beatles play on 17 December 1960, just after returning from their first Hamburg trip? | The Casbah Coffee Club | The Cavern Club | The Jacaranda | Litherland Town Hall | Casbah
+4 | early-years | The Beatles' second Hamburg residency, from March to July 1961, was at which club? | The Top Ten Club | The Star-Club | The Indra | The Kaiserkeller | Hamburg; Top Ten Club
+5 | early-years | For how many consecutive nights did The Beatles play the Top Ten Club with Tony Sheridan in 1961? | 92 | 28 | 48 | 150 | Hamburg; Top Ten Club
+3 | band-members | Who took over as The Beatles' bass player when Stuart Sutcliffe left? | Paul McCartney | John Lennon | George Harrison | Pete Best | Paul McCartney; Bass
+4 | band-members | Which make of "violin" bass guitar did Paul McCartney buy in Hamburg in 1961? | Höfner | Fender | Rickenbacker | Gibson | Paul McCartney; Höfner bass
+5 | band-members | About how much did Paul McCartney pay for his first Höfner violin bass in Hamburg? | £30 | £5 | £100 | £250 | Paul McCartney; Höfner bass
+5 | band-members | Which make of guitar did John Lennon buy in Hamburg, a 1958 model 325 Capri? | Rickenbacker | Gretsch | Epiphone | Fender | John Lennon; Rickenbacker
+5 | people | Under which pop artist did Stuart Sutcliffe study at the Hamburg College of Art? | Eduardo Paolozzi | Peter Blake | Richard Hamilton | David Hockney | Stuart Sutcliffe; Eduardo Paolozzi
+4 | early-years | What did The Beatles wear on stage in Hamburg after their matching jackets wore out? | Black leather | Collarless suits | Military tunics | Kaftans | Hamburg; Leather
+4 | early-years | On which date in 1962 did The Beatles open Hamburg's new Star-Club? | 13 April | 1 January | 6 June | 5 October | Hamburg; Star-Club
+5 | people | Who opened the Star-Club in Hamburg in 1962? | Manfred Weissleder | Bruno Koschmider | Peter Eckhorn | Bert Kaempfert | Hamburg; Star-Club
+4 | people | Which friend gave up accountancy to become The Beatles' road manager? | Neil Aspinall | Mal Evans | Alistair Taylor | Tony Barrow | Neil Aspinall
+4 | early-years | What sad news were The Beatles given when they arrived in Hamburg in April 1962? | Stuart Sutcliffe had died | The Star-Club had burned down | Brian Epstein had resigned | Their record deal was cancelled | Hamburg; Stuart Sutcliffe
+5 | early-years | On which date did Stuart Sutcliffe die? | 10 April 1962 | 9 October 1960 | 22 June 1961 | 16 August 1962 | Stuart Sutcliffe
+5 | people | Whose group's associate taped The Beatles at the Star-Club at the end of 1962? | Kingsize Taylor's | Rory Storm's | Gerry Marsden's | Tony Sheridan's | Hamburg; Star-Club tapes
+5 | albums | In which year were the Star-Club tapes first released as an album? | 1977 | 1964 | 1970 | 1995 | Live! at the Star-Club
+4 | people | Which German bandleader produced The Beatles' recordings with Tony Sheridan? | Bert Kaempfert | James Last | Kurt Edelhagen | Max Greger | Hamburg; Bert Kaempfert
+4 | early-years | On which German record label was "My Bonnie" released in 1961? | Polydor | Odeon | Telefunken | Philips | My Bonnie; Polydor
+4 | early-years | Under which name were The Beatles credited on the German release of "My Bonnie"? | The Beat Brothers | The Silver Beetles | The Quarrymen | The Top Ten Boys | My Bonnie; Beat Brothers
+5 | early-years | On which date in 1961 did The Beatles first record with Tony Sheridan? | 22 June | 1 April | 31 October | 9 November | Hamburg; Tony Sheridan
+5 | early-years | On which date was "My Bonnie" released in the UK? | 5 January 1962 | 31 October 1961 | 5 October 1962 | 11 January 1963 | My Bonnie
+4 | people | Who was Astrid Kirchherr's boyfriend when she first saw The Beatles, later the designer of the Revolver sleeve? | Klaus Voormann | Jürgen Vollmer | Stuart Sutcliffe | Horst Fascher | Klaus Voormann; Astrid Kirchherr
+4 | people | To which Beatle did Astrid Kirchherr become engaged in November 1960? | Stuart Sutcliffe | John Lennon | Pete Best | George Harrison | Astrid Kirchherr; Stuart Sutcliffe
+5 | people | Who designed the cover artwork for the three Beatles Anthology albums in the 1990s? | Klaus Voormann | Peter Blake | Richard Hamilton | Alan Aldridge | Anthology; Klaus Voormann
+5 | people | Which Hamburg friend took the photo of John Lennon used on the cover of his Rock 'n' Roll album? | Jürgen Vollmer | Astrid Kirchherr | Klaus Voormann | Robert Freeman | Jürgen Vollmer; John Lennon
+4 | band-members | Which Beatle said "I might have been born in Liverpool, but I grew up in Hamburg"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | John Lennon; Hamburg
+5 | live | In which year did The Beatles return to Hamburg to play two concerts at the Ernst-Merck-Halle? | 1966 | 1963 | 1964 | 1968 | Hamburg; 1966 tour
+5 | places | In which year was Beatles-Platz, a memorial square, opened in Hamburg? | 2008 | 1980 | 1995 | 2016 | Hamburg; Beatles-Platz
+5 | places | How many Beatle figures stand in Hamburg's Beatles-Platz? | Five | Three | Four | Six | Hamburg; Beatles-Platz
+1 | films-tv | On which American TV show did The Beatles appear in February 1964, watched by a record audience? | The Ed Sullivan Show | The Tonight Show | American Bandstand | Saturday Night Live | Ed Sullivan Show
+2 | films-tv | About how many people watched The Beatles' first Ed Sullivan Show appearance? | 73 million | 7 million | 23 million | 150 million | Ed Sullivan Show
+2 | films-tv | On which date did The Beatles first appear live on The Ed Sullivan Show? | 9 February 1964 | 22 November 1963 | 15 August 1965 | 29 August 1966 | Ed Sullivan Show
+3 | films-tv | Which song did The Beatles open with on their first Ed Sullivan Show? | All My Loving | I Want to Hold Your Hand | She Loves You | Twist and Shout | Ed Sullivan Show; All My Loving
+3 | films-tv | Which caption appeared under John Lennon during The Beatles' first Ed Sullivan Show? | Sorry girls, he's married | The clever one | The leader | He writes the songs | Ed Sullivan Show; John Lennon
+4 | films-tv | What sight at London Airport in October 1963 made Ed Sullivan interested in The Beatles? | Crowds of fans greeting them | A poster for their film | Their private jet | A press conference | Ed Sullivan Show
+4 | films-tv | How much were The Beatles paid for each of their three Ed Sullivan Shows in 1964? | $2,400 | $240 | $24,000 | $100,000 | Ed Sullivan Show
+4 | live | On which date did The Beatles land in New York for their first American visit? | 7 February 1964 | 9 February 1964 | 1 January 1964 | 22 August 1964 | America; JFK
+3 | places | At which New York airport did The Beatles land in February 1964? | John F. Kennedy | LaGuardia | Newark | Teterboro | America; JFK
+3 | places | At which New York hotel did The Beatles stay on their first visit in February 1964? | The Plaza | The Waldorf Astoria | The Chelsea | The Dakota | America; Plaza Hotel
+4 | band-members | Which Beatle missed the Ed Sullivan rehearsal on 8 February 1964 because of a throat infection? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Ed Sullivan Show; George Harrison
+5 | people | Who stood in for the ill George Harrison at rehearsals for the first Ed Sullivan Show? | Neil Aspinall | Mal Evans | Brian Epstein | Murray the K | Ed Sullivan Show; Neil Aspinall
+5 | films-tv | How many seats were in the studio for The Beatles' first Ed Sullivan Show, for which 50,000 people applied? | 728 | 150 | 2,500 | 5,000 | Ed Sullivan Show
+4 | films-tv | Ed Sullivan opened the first show by reading a telegram of good wishes from which star and his manager? | Elvis Presley | Frank Sinatra | Buddy Holly | Chuck Berry | Ed Sullivan Show; Elvis Presley
+4 | films-tv | From which city was The Beatles' second Ed Sullivan Show broadcast on 16 February 1964? | Miami Beach | Washington, D.C. | Los Angeles | Chicago | Ed Sullivan Show; Miami
+4 | people | Which boxer did The Beatles pose with in a Miami gym in February 1964? | Cassius Clay | Sonny Liston | Floyd Patterson | Joe Frazier | Miami; Cassius Clay
+4 | live | At which New York concert hall did The Beatles play two shows on 12 February 1964? | Carnegie Hall | Radio City Music Hall | Madison Square Garden | The Apollo Theater | Carnegie Hall; America
+4 | live | At which venue did The Beatles play their first American concert on 11 February 1964? | Washington Coliseum | Carnegie Hall | Shea Stadium | The Hollywood Bowl | Washington Coliseum; America
+5 | films-tv | At which Miami Beach hotel was The Beatles' second Ed Sullivan Show staged? | The Deauville | The Fontainebleau | The Eden Roc | The Delano | Ed Sullivan Show; Miami
+5 | films-tv | The Beatles' third Ed Sullivan Show of February 1964 had actually been taped on which date? | 9 February | 16 February | 22 February | 1 February | Ed Sullivan Show
+5 | films-tv | On which date in 1965 were The Beatles last taped live for The Ed Sullivan Show? | 14 August | 9 February | 12 September | 29 August | Ed Sullivan Show
+5 | films-tv | Which song closed The Beatles' final Ed Sullivan Show performance, broadcast in September 1965? | Help! | Yesterday | Ticket to Ride | I'm Down | Ed Sullivan Show
+4 | records | How many records did The Beatles sell in America in the month after their first Ed Sullivan Show? | 2.5 million | 250,000 | 10 million | 25 million | Ed Sullivan Show; America
+4 | films-tv | Which evangelist watched The Beatles on Ed Sullivan and called Beatlemania a "passing phase"? | Billy Graham | Oral Roberts | Jerry Falwell | Norman Vincent Peale | Ed Sullivan Show; Billy Graham
+3 | records | The Beatles' arrival on American television in 1964 is seen as the start of which musical movement? | The British Invasion | The Summer of Love | The folk revival | The New Wave | British Invasion
+5 | films-tv | Which CBS newsreader's report on The Beatles prompted Ed Sullivan to ask how to get hold of them? | Walter Cronkite | Dan Rather | Edward R. Murrow | David Brinkley | Ed Sullivan Show; Walter Cronkite
+5 | singles | Capitol had planned to release "I Want to Hold Your Hand" in the US in mid-January 1964; when did it actually rush it out? | Late December 1963 | Early November 1963 | February 1964 | March 1964 | I Want to Hold Your Hand; Capitol
+5 | singles | On which date did "I Want to Hold Your Hand" reach the top of the US Billboard Hot 100? | 25 January 1964 | 9 February 1964 | 4 April 1964 | 29 November 1963 | I Want to Hold Your Hand
+5 | films-tv | The Beatles' final appearance on The Ed Sullivan Show, in March 1970, was on film performing "Let It Be" and which other song? | Two of Us | Get Back | The Long and Winding Road | Don't Let Me Down | Ed Sullivan Show
+4 | films-tv | Which studio in New York, where The Beatles played in 1964, was later renamed after the show's host? | The Ed Sullivan Theater | The Letterman Theater | The Paley Center | Studio 54 | Ed Sullivan Show
+5 | band-members | Which guitar maker gave John Lennon a new model 325 for the Miami Ed Sullivan Show? | Rickenbacker | Gretsch | Gibson | Vox | John Lennon; Rickenbacker

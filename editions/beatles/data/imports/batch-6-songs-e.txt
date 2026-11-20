@@ -1,0 +1,88 @@
+# Beatles songs, part E (Let It Be to Michelle). Source: Wikipedia song articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | songs | Which Beatle wrote and sang "Let It Be"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Let It Be; Paul McCartney
+3 | singles | In which year was the single "Let It Be" released? | 1970 | 1968 | 1969 | 1971 | Let It Be
+4 | singles | On which date was the "Let It Be" single released? | 6 March 1970 | 8 May 1970 | 11 April 1969 | 26 September 1969 | Let It Be
+4 | in-the-studio | Who produced the single version of "Let It Be", with its softer guitar solo? | George Martin | Phil Spector | Glyn Johns | Chris Thomas | Let It Be; George Martin
+5 | singles | "Let It Be" set a record by entering the US Billboard Hot 100 at which position? | Number 6 | Number 1 | Number 2 | Number 15 | Let It Be
+2 | songs | Who was the main writer of "Lady Madonna"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Lady Madonna; Paul McCartney
+3 | singles | What was the B-side of "Lady Madonna"? | The Inner Light | Old Brown Shoe | Hey Bulldog | Blue Jay Way | Lady Madonna; The Inner Light
+3 | singles | In which year was "Lady Madonna" released? | 1968 | 1966 | 1967 | 1969 | Lady Madonna
+4 | singles | Which single was The Beatles' last release on the Parlophone label in Britain? | Lady Madonna | Hello, Goodbye | Hey Jude | All You Need Is Love | Lady Madonna; Parlophone
+4 | songs | "Lady Madonna" draws on which piano style? | Boogie-woogie | Ragtime | Baroque | Bossa nova | Lady Madonna
+2 | albums | "In My Life" appears on which album? | Rubber Soul | Revolver | Help! | Abbey Road | In My Life; Rubber Soul
+3 | in-the-studio | Who played the piano solo on "In My Life"? | George Martin | Paul McCartney | John Lennon | Billy Preston | In My Life; George Martin
+3 | songs | Who wrote the lyrics of "In My Life"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | In My Life; John Lennon
+5 | records | Which magazine named "In My Life" the best song of all time in 2000? | Mojo | Rolling Stone | NME | Q | In My Life
+3 | songs | Who wrote "If I Needed Someone"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | If I Needed Someone; George Harrison
+4 | people | Which British group released a single of "If I Needed Someone" on the same day as Rubber Soul came out? | The Hollies | The Searchers | The Moody Blues | The Tremeloes | If I Needed Someone; The Hollies
+4 | songs | "If I Needed Someone" shows the influence of which American band? | The Byrds | The Beach Boys | The Doors | The Lovin' Spoonful | If I Needed Someone; The Byrds
+3 | albums | On which British album is "I've Just Seen a Face"? | Help! | Rubber Soul | Beatles for Sale | Revolver | I've Just Seen a Face; Help!
+5 | songs | What was the working title of "I've Just Seen a Face"? | Auntie Gin's Theme | Uncle Albert's Tune | Scrambled Eggs | Daisy Hawkins | I've Just Seen a Face
+4 | albums | "I've Just Seen a Face" was the opening track of the American version of which album? | Rubber Soul | Help! | Revolver | Beatles VI | I've Just Seen a Face; Rubber Soul
+3 | albums | "If I Fell" appears on which album? | A Hard Day's Night | With the Beatles | Help! | Beatles for Sale | If I Fell; A Hard Day's Night
+4 | songs | Which song did John Lennon call his "first attempt at a ballad proper"? | If I Fell | Yes It Is | This Boy | In My Life | If I Fell; John Lennon
+3 | albums | "It Won't Be Long" opens which album? | With the Beatles | Please Please Me | A Hard Day's Night | Beatles for Sale | It Won't Be Long; With the Beatles
+4 | songs | Who wrote "It's All Too Much"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | It's All Too Much; George Harrison
+4 | albums | "It's All Too Much" appears on which album? | Yellow Submarine | Magical Mystery Tour | The White Album | Sgt. Pepper's Lonely Hearts Club Band | It's All Too Much; Yellow Submarine
+4 | films-tv | How many new songs did The Beatles supply for the Yellow Submarine film? | Four | One | Six | Ten | Yellow Submarine
+5 | films-tv | To which film company did The Beatles owe the Yellow Submarine film under contract? | United Artists | Paramount | Warner Bros. | Rank Organisation | Yellow Submarine; United Artists
+4 | singles | Which song was the first George Harrison composition to appear on a Beatles single? | The Inner Light | Something | Old Brown Shoe | Taxman | The Inner Light; George Harrison
+5 | songs | The words of "The Inner Light" are based on which ancient text? | Tao Te Ching | Bhagavad Gita | I Ching | The Tibetan Book of the Dead | The Inner Light
+2 | songs | John Lennon's song "Julia" is about whom? | His mother | His aunt | His first wife | His daughter | Julia; Julia Lennon
+4 | band-members | In which year did John Lennon's mother Julia die? | 1958 | 1955 | 1961 | 1964 | Julia Lennon
+4 | in-the-studio | Which song was the last to be recorded for the White Album? | Julia | Good Night | Revolution 9 | Helter Skelter | Julia; White Album
+5 | singles | In 1976 "Julia" was the B-side of which Beatles single? | Ob-La-Di, Ob-La-Da | Got to Get You into My Life | Back in the U.S.S.R. | Yesterday | Julia
+4 | in-the-studio | How many Beatles perform on "Julia"? | One | Two | Three | Four | Julia; John Lennon
+5 | songs | Which unreleased 1965 song was meant to be Ringo's vocal spot on the Help! album before "Act Naturally" replaced it? | If You've Got Trouble | That Means a Lot | Wait | Leave My Kitten Alone | If You've Got Trouble; Ringo Starr
+4 | songs | Which songwriting duo wrote "Kansas City", covered by The Beatles on Beatles for Sale? | Leiber and Stoller | Goffin and King | Holland and Dozier | Pomus and Shuman | Kansas City; Leiber and Stoller
+4 | albums | On which British album is "It's Only Love"? | Help! | Rubber Soul | Beatles for Sale | Revolver | It's Only Love; Help!
+4 | solo-years | "Junk", written in India in 1968, was released on which Paul McCartney solo album? | McCartney | Ram | Wild Life | Band on the Run | Junk; Paul McCartney
+5 | early-years | In which year did Paul McCartney write "Like Dreamers Do"? | 1959 | 1956 | 1962 | 1963 | Like Dreamers Do; Paul McCartney
+4 | early-years | Who played drums at The Beatles' Decca audition? | Pete Best | Ringo Starr | Andy White | Tommy Moore | Decca audition; Pete Best
+4 | singles | What is the title of the German-language version of "I Want to Hold Your Hand"? | Komm, gib mir deine Hand | Sie liebt dich | Ich will deine Hand | Halt meine Hand | Komm, gib mir deine Hand
+4 | singles | "Sie liebt dich" is the German version of which Beatles hit? | She Loves You | Love Me Do | Please Please Me | All My Loving | Sie liebt dich; She Loves You
+5 | people | Who wrote the German lyrics for "Komm, gib mir deine Hand" and "Sie liebt dich"? | Camillo Felgen | Bert Kaempfert | Tony Sheridan | Klaus Voormann | Komm, gib mir deine Hand
+5 | singles | Which label released the Beatles' German-language single in West Germany in 1964? | Odeon | Polydor | Parlophone | Electrola | Komm, gib mir deine Hand; Odeon
+2 | albums | "Lucy in the Sky with Diamonds" is on which album? | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Revolver | Yellow Submarine | Lucy in the Sky with Diamonds; Sgt. Pepper
+2 | songs | Many listeners thought the title "Lucy in the Sky with Diamonds" hid a reference to which drug? | LSD | Cannabis | Heroin | Cocaine | Lucy in the Sky with Diamonds
+2 | songs | Who wrote "The Long and Winding Road"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | The Long and Winding Road; Paul McCartney
+3 | albums | "The Long and Winding Road" is on which album? | Let It Be | Abbey Road | The White Album | Magical Mystery Tour | The Long and Winding Road; Let It Be
+5 | songs | Which singer did Paul McCartney imagine performing "The Long and Winding Road" when he wrote it? | Ray Charles | Frank Sinatra | Tom Jones | Elvis Presley | The Long and Winding Road; Ray Charles
+3 | albums | On which date was Abbey Road released in the UK? | 26 September 1969 | 22 November 1968 | 8 May 1970 | 1 June 1967 | Abbey Road
+3 | albums | Abbey Road was the Beatles' studio album of which number? | Eleventh | Ninth | Tenth | Thirteenth | Abbey Road
+5 | albums | What nickname did the Abbey Road medley have during recording? | The Long One | The Big One | Huge Melody | The Pop Opera | Abbey Road; Medley
+1 | singles | What was The Beatles' debut single? | Love Me Do | She Loves You | Please Please Me | Help! | Love Me Do
+3 | singles | On which date was "Love Me Do" released in the UK? | 5 October 1962 | 11 January 1963 | 22 March 1963 | 4 September 1962 | Love Me Do
+3 | in-the-studio | Which instrument does John Lennon play prominently on "Love Me Do"? | Harmonica | Piano | Tambourine | Banjo | Love Me Do; John Lennon
+4 | singles | In which year did "Love Me Do" top the American chart? | 1964 | 1962 | 1963 | 1966 | Love Me Do
+4 | songs | Who wrote "Mean Mr. Mustard"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Mean Mr. Mustard; John Lennon
+4 | albums | Which song comes directly before "Mean Mr. Mustard" in the Abbey Road medley? | Sun King | Polythene Pam | Golden Slumbers | Because | Mean Mr. Mustard; Abbey Road
+3 | songs | In "Maxwell's Silver Hammer", what is Maxwell's surname? | Edison | Newton | Faraday | Franklin | Maxwell's Silver Hammer
+3 | albums | "Maxwell's Silver Hammer" appears on which album? | Abbey Road | The White Album | Let It Be | Sgt. Pepper's Lonely Hearts Club Band | Maxwell's Silver Hammer; Abbey Road
+3 | songs | Who wrote and sang "Maxwell's Silver Hammer"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Maxwell's Silver Hammer; Paul McCartney
+3 | songs | "Martha My Dear" was named after Paul McCartney's what? | Old English Sheepdog | Housekeeper | Younger sister | First car | Martha My Dear; Paul McCartney
+3 | albums | "Martha My Dear" is on which album? | The White Album | Abbey Road | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Martha My Dear; White Album
+4 | songs | Who wrote the White Album track "Long, Long, Long"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Long, Long, Long; George Harrison
+3 | songs | What is the job of the title character in "Lovely Rita"? | Meter maid | Barmaid | Nurse | Bus conductress | Lovely Rita
+3 | albums | "Lovely Rita" is on which album? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Magical Mystery Tour | The White Album | Lovely Rita; Sgt. Pepper
+4 | songs | Which Revolver track by George Harrison features sitar and tabla? | Love You To | I Want to Tell You | Taxman | She Said She Said | Love You To; George Harrison
+5 | people | Who played tabla on "Love You To"? | Anil Bhagwat | Ravi Shankar | Alla Rakha | Zakir Hussain | Love You To
+5 | songs | Which With the Beatles song was written for Ringo Starr, who was given "I Wanna Be Your Man" instead? | Little Child | Hold Me Tight | Not a Second Time | All I've Got to Do | Little Child; With the Beatles
+3 | songs | Which Little Richard song gave its name to a 1964 Beatles EP? | Long Tall Sally | Lucille | Tutti Frutti | Good Golly, Miss Molly | Long Tall Sally; Little Richard
+3 | songs | Who sings lead on the Beatles' version of "Long Tall Sally"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Long Tall Sally; Paul McCartney
+4 | songs | Who wrote "Matchbox", sung by Ringo Starr on a 1964 Beatles EP? | Carl Perkins | Chuck Berry | Buddy Holly | Little Richard | Matchbox; Carl Perkins
+3 | songs | Who was the main writer of the song "Magical Mystery Tour"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Magical Mystery Tour; Paul McCartney
+3 | films-tv | In which month and year was the Magical Mystery Tour film first shown on television? | December 1967 | June 1967 | December 1966 | March 1968 | Magical Mystery Tour
+4 | songs | "Maggie Mae" on Let It Be is a traditional folk song from which city? | Liverpool | Dublin | Glasgow | Belfast | Maggie Mae; Liverpool
+5 | people | Which composer based a 1964 West End musical on the folk song "Maggie May"? | Lionel Bart | Andrew Lloyd Webber | Leslie Bricusse | Anthony Newley | Maggie May; Lionel Bart
+4 | people | Which singer recorded Paul McCartney's "Love of the Loved" as her debut single in 1963? | Cilla Black | Sandie Shaw | Dusty Springfield | Lulu | Love of the Loved; Cilla Black
+5 | early-years | Which Lennon-McCartney song from the Decca audition was left off Anthology 1? | Love of the Loved | Hello Little Girl | Like Dreamers Do | Searchin' | Love of the Loved; Decca audition
+2 | albums | "Norwegian Wood" appears on which album? | Rubber Soul | Revolver | Help! | Sgt. Pepper's Lonely Hearts Club Band | Norwegian Wood; Rubber Soul
+3 | songs | What is the subtitle of "Norwegian Wood"? | This Bird Has Flown | I Once Had a Girl | Isn't It Good | Knowing She Would | Norwegian Wood
+3 | songs | Who was the main writer of "Norwegian Wood"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Norwegian Wood; John Lennon
+4 | songs | The lyrics of "Norwegian Wood" show the influence of which American songwriter? | Bob Dylan | Paul Simon | Brian Wilson | Smokey Robinson | Norwegian Wood; Bob Dylan
+2 | songs | Part of the lyric of "Michelle" is sung in which language? | French | Italian | Spanish | German | Michelle
+2 | albums | "Michelle" appears on which album? | Rubber Soul | Revolver | Help! | Beatles for Sale | Michelle; Rubber Soul
+4 | people | Which group had a UK number one with a cover of "Michelle" in 1966? | The Overlanders | The Seekers | The Bachelors | The Fortunes | Michelle; The Overlanders
+3 | songs | Who was the main writer of "Michelle"? | Paul McCartney | John Lennon | George Harrison | George Martin | Michelle; Paul McCartney

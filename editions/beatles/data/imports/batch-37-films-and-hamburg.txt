@@ -1,0 +1,9 @@
+# Film and Hamburg facts supplied by the admin, checked against Wikipedia (The Beatles in Hamburg, Help!, A Hard Day's Night, Magical Mystery Tour).
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | early-years | For what was Paul McCartney deported from Germany in 1960? | Attempted arson | Theft | Working under age | Assault | Hamburg; Paul McCartney
+3 | films-tv | How many of The Beatles' feature films were shot in black and white? | One | None | Two | Three | A Hard Day's Night
+3 | films-tv | Which Beatle is accidentally shrunk in the film Help!? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Help! (film); Paul McCartney
+2 | films-tv | The 1965 film Help! is a spoof of which film series? | James Bond | The Pink Panther | Carry On | Batman | Help! (film); James Bond
+2 | films-tv | Which Beatle is arrested in the film A Hard Day's Night? | Ringo Starr | John Lennon | Paul McCartney | George Harrison | A Hard Day's Night; Ringo Starr
+3 | films-tv | Which Beatle wins the race in the film Magical Mystery Tour? | Ringo Starr | John Lennon | Paul McCartney | George Harrison | Magical Mystery Tour; Ringo Starr
+3 | films-tv | Which song plays as The Beatles dance in white tailcoats at the end of Magical Mystery Tour? | Your Mother Should Know | I Am the Walrus | The Fool on the Hill | Blue Jay Way | Magical Mystery Tour; Your Mother Should Know

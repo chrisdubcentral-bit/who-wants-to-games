@@ -1,0 +1,109 @@
+/* Beatles edition only: the "Scream" extras that colours alone can't do.
+   Loaded after the engine's stylesheets (engine/css/chrome.css), so these rules win.
+   Colours come from theme.css. */
+
+/* ================= Crowd and film grain ================= */
+/* Real 1964 fans along the bottom of every screen: the crowd at the Beatles' concert in Blokker, the Netherlands,
+   6 June 1964 ("No live without Beatles"). Photo: Fotopersbureau De Boer / Noord-Hollands Archief, CC0 (public domain),
+   via Wikimedia Commons. Cropped, darkened and faded to black at the top so it melts into the backdrop. */
+body {
+  background-image:
+    url("assets/img/crowd.jpg"),
+    radial-gradient(ellipse 70% 55% at 40% -8%, var(--studio-glow-top), transparent 70%),
+    radial-gradient(ellipse 60% 35% at 45% 108%, var(--studio-glow-bottom), transparent 70%);
+  background-repeat: no-repeat;
+  background-position: center bottom, 0 0, 0 0;
+  /* About the bottom half of the screen: never wider than 115vh (its edges fade to black), never narrower than 900px */
+  background-size: max(min(100%, 115vh), 900px) auto, auto, auto;
+  background-attachment: fixed;
+}
+/* Press-photo grain over the backdrop (behind the content) */
+html::before {
+  content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  opacity: 0.07;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.9 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+
+/* ================= Lettering ================= */
+/* Tall condensed headline type, like a 60s concert poster */
+.title-main, .stage-title h1, .page-head h1, .results-hero h1 {
+  font-family: var(--font-title);
+  font-weight: 400;
+  letter-spacing: 0.03em;
+}
+/* Anton is narrow, so the home title can run larger than the engine's size and still fit on one line each */
+.title-main { line-height: 0.95; font-size: clamp(1.6rem, 8vw, 4.4rem); }
+/* Plain solid white lettering: no chrome band through the titles */
+.brand-title, .title-main, .title-main .accent, .stage-title h1, .page-head h1, .results-hero h1,
+.results.is-won .results-hero h1, .results.is-eliminated .results-hero h1 {
+  background: none;
+  -webkit-background-clip: border-box; background-clip: border-box;
+  color: var(--white);
+}
+
+/* Home title "Who Wants To Play Shea Stadium" in soft silver: light to mid silver, no dark chrome band */
+.title-main, .title-main .accent {
+  background: linear-gradient(180deg, #f4f4f4 0%, #d4d4d4 45%, #b4b4b4 75%, #c8c8c8 100%);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+
+/* ================= Round buttons: plain white discs, no chrome ================= */
+.answer .letter, .how-card .icon { background: #ffffff; color: #000000; }
+
+/* ================= Front page: a Shea Stadium ticket instead of the gold disc ================= */
+/* The image is set by images.home in data/edition.json; the prize elsewhere is still the gold disc. */
+/* Ticket sits near the top of the page, with the title and buttons below it */
+.home { align-content: start; padding-top: clamp(14px, 3vh, 32px); }
+.home-trophy {
+  width: clamp(200px, 30vw, 300px); height: auto;
+  rotate: -4deg;
+  margin-bottom: clamp(28px, 6vh, 56px); /* clear space between the ticket and the title */
+  animation: none;
+  filter: drop-shadow(0 14px 22px rgba(0, 0, 0, 0.65)) drop-shadow(0 0 34px rgba(255, 255, 255, 0.12));
+}
+@media (max-width: 640px) {
+  .home { padding-top: 36px; }
+  .home-trophy { width: min(62vw, 240px); margin-bottom: 30px; }
+}
+
+/* ================= Squarer corners ================= */
+.btn, .answer, .rung, .recent li { border-radius: var(--radius); }
+.ladder { border-radius: var(--radius-lg); }
+
+/* ================= Question: a cream ticket stub ================= */
+.question-panel {
+  --stub: 46px;
+  --notch: 11px;
+  border-radius: var(--radius-lg);
+  padding-left: calc(var(--stub) + clamp(16px, 4vw, 40px));
+  background: var(--question-plate) padding-box, var(--question-plate) border-box;
+  box-shadow: inset 0 -30px 60px rgba(0, 0, 0, 0.06);
+  /* Half-circle notches at each end of the perforation */
+  -webkit-mask:
+    radial-gradient(circle var(--notch) at var(--stub) 0, transparent 97%, #000 100%),
+    radial-gradient(circle var(--notch) at var(--stub) 100%, transparent 97%, #000 100%);
+  -webkit-mask-composite: source-in;
+  mask:
+    radial-gradient(circle var(--notch) at var(--stub) 0, transparent 97%, #000 100%),
+    radial-gradient(circle var(--notch) at var(--stub) 100%, transparent 97%, #000 100%);
+  mask-composite: intersect;
+}
+/* The stub: "Admit One" running up the side, with a dashed tear line */
+.question-panel::before {
+  display: flex; align-items: center; justify-content: center;
+  content: "Admit One";
+  left: 0; top: 0; bottom: 0; right: auto;
+  width: var(--stub); height: auto;
+  background: none;
+  border-left: 2px dashed #8a877f;
+  writing-mode: vertical-rl; transform: rotate(180deg);
+  font-family: var(--font-title); font-size: 0.9rem; letter-spacing: 0.22em; text-transform: uppercase;
+  color: #1b1a17;
+}
+.question-panel .eyebrow { color: #55524b; }
+.question-text { color: #111111; }
+
+@media (max-width: 640px) {
+  .question-panel { --stub: 36px; --notch: 9px; border-radius: var(--radius); }
+  .question-panel::before { font-size: 0.75rem; letter-spacing: 0.16em; }
+}

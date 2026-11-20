@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-15T22:48:49.825Z",
+  "updatedAt": "2026-11-20T10:34:15.874Z",
   "order": "random",
   "adverts": [
     {
@@ -37,7 +37,7 @@
       "enabled": true,
       "from": "2026-11-15",
       "until": null,
-      "after": "round-2",
+      "after": "round-1",
       "label": "Rhebel Rhebel",
       "url": "https://rhebelrhebel.myspreadshop.co.uk/",
       "linkText": "Shop Now",

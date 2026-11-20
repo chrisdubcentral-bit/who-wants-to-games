@@ -1,0 +1,76 @@
+# Beatles albums, part D (later compilations, live albums, Anthology, EPs). Source: Wikipedia album articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+4 | albums | In which year was the double-album compilation Rock 'n' Roll Music released? | 1976 | 1970 | 1973 | 1982 | Rock 'n' Roll Music
+5 | albums | How many tracks are on the Rock 'n' Roll Music compilation? | 28 | 14 | 20 | 40 | Rock 'n' Roll Music
+5 | albums | Which George Harrison song is the only one of his compositions on Rock 'n' Roll Music? | Taxman | Something | Savoy Truffle | Old Brown Shoe | Rock 'n' Roll Music; Taxman
+5 | albums | Which song opens the Rock 'n' Roll Music compilation? | Twist and Shout | Rock and Roll Music | Long Tall Sally | Back in the U.S.S.R. | Rock 'n' Roll Music
+5 | albums | Which B-side made its first appearance on a Beatles album with Rock 'n' Roll Music in 1976? | I'm Down | Rain | The Inner Light | Yes It Is | Rock 'n' Roll Music; I'm Down
+3 | albums | What was The Beatles' first official live album, released in 1977? | The Beatles at the Hollywood Bowl | Live at the BBC | Live! at the Star-Club | Get Back | The Beatles at the Hollywood Bowl
+4 | albums | How many Hollywood Bowl concerts were used to make The Beatles' 1977 live album? | Three | One | Two | Six | The Beatles at the Hollywood Bowl
+4 | albums | Which song opens The Beatles at the Hollywood Bowl? | Twist and Shout | She Loves You | A Hard Day's Night | I Saw Her Standing There | The Beatles at the Hollywood Bowl
+4 | albums | Which song closes the original The Beatles at the Hollywood Bowl album? | Long Tall Sally | She Loves You | Help! | Twist and Shout | The Beatles at the Hollywood Bowl
+4 | albums | In which year was the Hollywood Bowl album reissued as Live at the Hollywood Bowl? | 2016 | 1987 | 1995 | 2009 | Live at the Hollywood Bowl
+4 | albums | In which month of 1977 was The Beatles at the Hollywood Bowl released? | May | January | August | December | The Beatles at the Hollywood Bowl
+4 | albums | In which year was the compilation Love Songs released? | 1977 | 1970 | 1982 | 1990 | Love Songs
+5 | albums | Which song opens the Love Songs compilation? | Yesterday | Something | Michelle | And I Love Her | Love Songs
+5 | albums | The Beatles' image on the Love Songs cover reworked a 1967 portrait by which photographer? | Richard Avedon | David Bailey | Robert Freeman | Linda McCartney | Love Songs; Richard Avedon
+5 | albums | On what colour vinyl was the Love Songs compilation also available? | Yellow | Red | Blue | White | Love Songs
+3 | albums | On which date were the two volumes of Past Masters first released? | 7 March 1988 | 26 February 1987 | 20 November 1995 | 13 November 2000 | Past Masters
+4 | people | Which Beatles historian compiled Past Masters and wrote its notes? | Mark Lewisohn | Hunter Davies | Philip Norman | Ian MacDonald | Past Masters; Mark Lewisohn
+4 | albums | Past Masters is counted as which number among The Beatles' core releases? | 14th | 10th | 12th | 20th | Past Masters
+4 | albums | Which British EP is included in full on Past Masters? | Long Tall Sally | Twist and Shout | Magical Mystery Tour | All My Loving | Past Masters; Long Tall Sally
+4 | albums | How many German-language Beatles recordings are on Past Masters? | Two | None | Four | Six | Past Masters
+3 | albums | On which date was Anthology 1 released? | 20 November 1995 | 7 March 1988 | 18 March 1996 | 13 November 2000 | Anthology 1
+3 | albums | Which period of The Beatles' career does Anthology 1 cover? | 1958 to 1964 | 1965 to 1968 | 1968 to 1970 | 1970 to 1980 | Anthology 1
+3 | albums | Which new song opens Anthology 1? | Free as a Bird | Real Love | Now and Then | In Spite of All the Danger | Anthology 1; Free as a Bird
+4 | albums | Which two former Beatles can be heard on early tracks on Anthology 1? | Stuart Sutcliffe and Pete Best | Jimmie Nicol and Andy White | Chas Newby and Tommy Moore | Ken Brown and Colin Hanton | Anthology 1; Pete Best
+4 | albums | What position did Anthology 1 reach on the UK albums chart? | Number 2 | Number 1 | Number 5 | Number 12 | Anthology 1
+4 | albums | Which Beatles instrumental, written by Harrison and Lennon and recorded in Hamburg, appears on Anthology 1? | Cry for a Shadow | Flying | 12-Bar Original | Cayenne | Anthology 1; Cry for a Shadow
+3 | albums | On which date was Anthology 2 released? | 18 March 1996 | 20 November 1995 | 28 October 1996 | 13 November 2000 | Anthology 2
+3 | albums | Which new song opens Anthology 2? | Real Love | Free as a Bird | Now and Then | A Beginning | Anthology 2; Real Love
+4 | albums | Anthology 2 begins with outtakes from the sessions for which 1965 album? | Help! | Rubber Soul | Beatles for Sale | Revolver | Anthology 2
+3 | albums | On which date was Anthology 3 released? | 28 October 1996 | 18 March 1996 | 20 November 1995 | 17 November 2003 | Anthology 3
+4 | albums | Anthology 3 covers The Beatles' work from the White Album sessions to which final albums? | Let It Be and Abbey Road | Revolver and Sgt. Pepper | Help! and Rubber Soul | Magical Mystery Tour and Yellow Submarine | Anthology 3
+5 | albums | Which orchestral piece by George Martin opens Anthology 3? | A Beginning | Pepperland | Sea of Time | Theme One | Anthology 3; A Beginning
+5 | records | With Anthology 3, The Beatles equalled a US record for three number one double albums in a row set by which singer? | Donna Summer | Barbra Streisand | Elton John | Stevie Wonder | Anthology 3; Donna Summer
+4 | albums | In which year were the Anthology albums first made available as digital downloads? | 2011 | 2000 | 2005 | 2019 | Anthology
+2 | albums | Which Beatles compilation of number one hits was released in November 2000? | 1 | Past Masters | Love | 20 Greatest Hits | 1 (album)
+3 | albums | On which date was the compilation 1 released? | 13 November 2000 | 20 November 1995 | 17 November 2003 | 9 September 2009 | 1 (album)
+3 | albums | About how many copies has the compilation 1 sold worldwide? | Over 31 million | About 3 million | About 10 million | Over 100 million | 1 (album)
+3 | albums | Which song opens the compilation 1? | Love Me Do | Please Please Me | From Me to You | She Loves You | 1 (album); Love Me Do
+4 | albums | The compilation 1 was released on which anniversary of The Beatles' break-up? | The 30th | The 20th | The 25th | The 40th | 1 (album)
+4 | albums | What was the best-selling album of the 2000s in the United States? | 1 by The Beatles | Thriller by Michael Jackson | 21 by Adele | Come Away with Me by Norah Jones | 1 (album)
+4 | band-members | On which date did George Harrison die? | 29 November 2001 | 8 December 1980 | 30 November 1999 | 8 March 2016 | George Harrison
+4 | albums | What is the title of the expanded 2015 edition of 1 that includes discs of promotional films? | 1+ | 1 Deluxe | 1 Plus Video | 27 | 1 (album)
+3 | albums | On which date was Let It Be... Naked released? | 17 November 2003 | 13 November 2000 | 8 May 1970 | 9 September 2009 | Let It Be... Naked
+3 | albums | Which Beatle initiated the Let It Be... Naked project? | Paul McCartney | George Harrison | Ringo Starr | John Lennon's estate | Let It Be... Naked; Paul McCartney
+3 | albums | What does Let It Be... Naked remove from the original Let It Be album? | Most of Phil Spector's additions | All of George Harrison's songs | Billy Preston's keyboards | The rooftop recordings | Let It Be... Naked; Phil Spector
+4 | albums | Which song opens Let It Be... Naked? | Get Back | Two of Us | Let It Be | Dig a Pony | Let It Be... Naked; Get Back
+4 | albums | Which song closes Let It Be... Naked? | Let It Be | Get Back | The Long and Winding Road | Across the Universe | Let It Be... Naked
+5 | albums | What is the title of the bonus disc of studio chat and rehearsals that came with Let It Be... Naked? | Fly on the Wall | Behind the Glass | The Twickenham Tapes | Rooftop Rehearsal | Let It Be... Naked
+3 | albums | The 2006 album Love was made for a stage show by which company? | Cirque du Soleil | The Royal Shakespeare Company | Disney on Ice | The Royal Ballet | Love (album); Cirque du Soleil
+3 | people | Who produced the album Love together with George Martin? | His son Giles Martin | Jeff Lynne | Paul McCartney | Phil Spector | Love (album); Giles Martin
+4 | albums | In which month and year was the album Love released? | November 2006 | November 2000 | June 2004 | September 2009 | Love (album)
+4 | albums | Which a cappella Abbey Road song opens the album Love? | Because | Sun King | Her Majesty | Golden Slumbers | Love (album); Because
+5 | albums | What is the title of the track on Love made from "Sun King" played backwards? | Gnik Nus | Nus Gnik | King Sun | Sun Gnik | Love (album)
+4 | people | Which album was George Martin's last as a producer? | Love | Let It Be... Naked | Anthology 3 | 1 | George Martin; Love (album)
+4 | people | In which year did George Martin die? | 2016 | 2001 | 2009 | 2021 | George Martin
+5 | people | Who remixed the songs for the Yellow Submarine Songtrack in 1999? | Peter Cobbin | Giles Martin | Geoff Emerick | Jeff Lynne | Yellow Submarine Songtrack
+5 | albums | Which song from the Yellow Submarine film was left off the Yellow Submarine Songtrack? | A Day in the Life | Eleanor Rigby | Nowhere Man | When I'm Sixty-Four | Yellow Submarine Songtrack
+4 | albums | In which year was On Air - Live at the BBC Volume 2 released? | 2013 | 1994 | 2003 | 2021 | On Air - Live at the BBC Volume 2
+5 | albums | How many previously unreleased BBC performances are on On Air - Live at the BBC Volume 2? | 40 | 10 | 23 | 88 | On Air - Live at the BBC Volume 2
+3 | albums | On which date were The Beatles' remastered albums and the box set The Beatles in Mono released? | 9 September 2009 | 13 November 2000 | 7 March 1988 | 2 November 2023 | The Beatles in Mono; 2009 remasters
+4 | albums | In which year were The Beatles' original albums first released on CD? | 1987 | 1982 | 1991 | 1995 | CD releases
+4 | albums | What was The Beatles' first British EP, released in July 1963? | Twist and Shout | Long Tall Sally | The Beatles' Hits | All My Loving | Twist and Shout (EP)
+5 | albums | For how many weeks did the Twist and Shout EP top the UK EP chart? | Twenty-one | Three | Eight | Fifty-two | Twist and Shout (EP)
+5 | people | Who took the cover photo of The Beatles leaping in the air for the Twist and Shout EP? | Fiona Adams | Robert Freeman | Angus McBean | Dezo Hoffmann | Twist and Shout (EP); Fiona Adams
+4 | albums | On which date was the Long Tall Sally EP released in the UK? | 19 June 1964 | 12 July 1963 | 10 July 1964 | 4 December 1964 | Long Tall Sally (EP)
+4 | albums | How many songs are on the Long Tall Sally EP? | Four | Two | Six | Eight | Long Tall Sally (EP)
+5 | albums | The Long Tall Sally EP was The Beatles' British EP of which number? | Fifth | First | Third | Tenth | Long Tall Sally (EP)
+5 | albums | Which song on the Long Tall Sally EP is the only Lennon-McCartney original? | I Call Your Name | Slow Down | Matchbox | Long Tall Sally | Long Tall Sally (EP); I Call Your Name
+5 | albums | What kind of record was Capitol's 1964 double album The Beatles' Story? | A documentary with interviews and narration | A live concert album | A collection of cover versions | A soundtrack to a cartoon | The Beatles' Story
+5 | albums | Capitol issued The Beatles' Story in response to which Vee-Jay interview album? | Hear the Beatles Tell All | The Beatles Speak | Beatle Talk | Meet the Press | The Beatles' Story; Vee-Jay
+5 | albums | What position did The Beatles' Story reach on the US album chart? | Number 7 | Number 1 | Number 25 | Number 99 | The Beatles' Story
+2 | records | By what nickname were The Beatles known as their fame grew? | The Fab Four | The Mersey Men | The Four Kings | The Cavern Four | Fab Four
+3 | band-members | Since which year had Lennon, McCartney and Harrison been playing together? | 1958 | 1955 | 1960 | 1962 | Early years
+3 | singles | Which was The Beatles' first hit record, in late 1962? | Love Me Do | Please Please Me | From Me to You | My Bonnie | Love Me Do

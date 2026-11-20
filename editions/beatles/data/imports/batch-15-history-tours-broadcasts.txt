@@ -1,0 +1,70 @@
+# Beatles history: 1963-65 tours, BBC radio and TV specials. Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | live | Which drummer replaced the ill Ringo Starr for the first shows of the 1964 world tour? | Jimmie Nicol | Pete Best | Andy White | Alan White | 1964 world tour; Jimmie Nicol
+4 | band-members | Which illness put Ringo Starr in hospital on the eve of the 1964 world tour? | Tonsillitis | Appendicitis | Measles | Pneumonia | 1964 world tour; Ringo Starr
+4 | live | In which city did The Beatles' 1964 world tour begin on 4 June? | Copenhagen | Amsterdam | Hong Kong | Sydney | 1964 world tour; Copenhagen
+4 | live | In which Australian city did Ringo Starr rejoin The Beatles on the 1964 tour? | Melbourne | Sydney | Adelaide | Brisbane | 1964 world tour; Melbourne
+5 | live | How many shows did Jimmie Nicol play as a Beatle in June 1964? | Eight | Two | Fifteen | Twenty-four | 1964 world tour; Jimmie Nicol
+4 | songs | Jimmie Nicol's stock reply when asked how he was doing inspired which Sgt. Pepper song? | Getting Better | Fixing a Hole | Good Morning Good Morning | With a Little Help from My Friends | Getting Better; Jimmie Nicol
+5 | people | What farewell gift did Brian Epstein give Jimmie Nicol along with £500? | A gold watch | A gold disc | A Rickenbacker guitar | A Ludwig snare drum | Jimmie Nicol; Brian Epstein
+5 | band-members | Which Beatle most wanted to postpone the 1964 tour rather than go without Ringo? | George Harrison | John Lennon | Paul McCartney | None of them | 1964 world tour; George Harrison
+4 | live | How many concerts did The Beatles play on their 1964 North American tour? | 32 | 12 | 19 | 64 | 1964 North American tour
+4 | live | In which city did The Beatles' 1964 North American tour open on 19 August? | San Francisco | New York | Los Angeles | Seattle | 1964 North American tour; San Francisco
+5 | live | How many cities did The Beatles visit on their 1964 North American tour? | 24 | 10 | 16 | 40 | 1964 North American tour
+5 | live | Which duo, later famous for "You've Lost That Lovin' Feelin'", supported The Beatles on the 1964 North American tour? | The Righteous Brothers | The Everly Brothers | Sam and Dave | Jan and Dean | 1964 North American tour; The Righteous Brothers
+5 | live | Which singer-songwriter, later the writer of "Bette Davis Eyes", supported The Beatles on the 1964 North American tour? | Jackie DeShannon | Carole King | Lesley Gore | Dionne Warwick | 1964 North American tour; Jackie DeShannon
+5 | people | Which young Miami radio reporter travelled with The Beatles on their 1964 and 1965 American tours? | Larry Kane | Murray the K | Wolfman Jack | Casey Kasem | 1964 North American tour; Larry Kane
+4 | people | Who was The Beatles' press officer on the 1964 North American tour? | Derek Taylor | Tony Barrow | Brian Sommerville | Andrew Loog Oldham | 1964 North American tour; Derek Taylor
+4 | people | Which songwriter met The Beatles for the first time in a New York hotel on 28 August 1964? | Bob Dylan | Paul Simon | Brian Wilson | Smokey Robinson | Bob Dylan; 1964 North American tour
+5 | people | Which journalist introduced Bob Dylan to The Beatles in 1964? | Al Aronowitz | Larry Kane | Ralph Gleason | Jann Wenner | Bob Dylan; Al Aronowitz
+5 | places | At which New York hotel did The Beatles first meet Bob Dylan? | The Delmonico | The Plaza | The Warwick | The Chelsea | Bob Dylan; Hotel Delmonico
+4 | live | In which Florida city did The Beatles refuse to play in 1964 unless the audience was unsegregated? | Jacksonville | Miami | Tampa | Orlando | 1964 North American tour; Jacksonville
+5 | live | Which hurricane forced The Beatles' plane to divert to Key West in September 1964? | Hurricane Dora | Hurricane Betsy | Hurricane Camille | Hurricane Carla | 1964 North American tour; Key West
+5 | live | On which date in 1964 did George Martin first record The Beatles at the Hollywood Bowl? | 23 August | 9 February | 15 August | 30 August | Hollywood Bowl; 1964 North American tour
+5 | live | Which union's refusal stopped Capitol recording The Beatles at Carnegie Hall in February 1964? | The American Federation of Musicians | The Teamsters | Actors' Equity | The Screen Actors Guild | Carnegie Hall
+5 | live | How did George Martin describe recording over the screaming at the Hollywood Bowl? | Like a microphone at the tail of a jet | Like recording under water | Like a football crowd in a tunnel | Like a thousand kettles boiling | Hollywood Bowl; George Martin
+5 | live | What was The Beatles' minimum fee per show on the 1964 North American tour? | $50,000 | $2,400 | $10,000 | $160,000 | 1964 North American tour
+5 | albums | Recording for which album began in August 1964, just before the North American tour? | Beatles for Sale | A Hard Day's Night | Help! | Rubber Soul | Beatles for Sale
+4 | live | In which month of 1965 did The Beatles play their final UK tour? | December | March | June | September | 1965 UK tour
+5 | live | How many shows did The Beatles play on their last UK tour in December 1965? | 18 | 6 | 30 | 52 | 1965 UK tour
+5 | live | In which city did The Beatles' final UK tour open in December 1965? | Glasgow | Liverpool | London | Cardiff | 1965 UK tour; Glasgow
+5 | live | Which Birmingham group, later famous for "Nights in White Satin", supported The Beatles on their last UK tour? | The Moody Blues | The Move | The Spencer Davis Group | The Fortunes | 1965 UK tour; The Moody Blues
+5 | live | Which song opened The Beatles' shows on their December 1965 UK tour? | I Feel Fine | Twist and Shout | Help! | Day Tripper | 1965 UK tour; I Feel Fine
+5 | live | At which Liverpool theatre did The Beatles play their last hometown concerts on 5 December 1965? | The Empire | The Royal Court | The Playhouse | The Philharmonic Hall | 1965 UK tour; Liverpool Empire
+5 | band-members | Which George Harrison guitar was destroyed when it fell from the car on the way to Scotland in December 1965? | Gretsch Tennessean | Rickenbacker 360-12 | Gretsch Duo Jet | Fender Stratocaster | George Harrison; 1965 UK tour
+5 | live | What was The Beatles' fee per engagement on the 1965 UK tour, then a British record? | £1,000 | £100 | £5,000 | £25,000 | 1965 UK tour
+4 | live | Which song did Ringo Starr sing on The Beatles' 1965 European tour? | I Wanna Be Your Man | Boys | Act Naturally | Honey Don't | 1965 European tour; Ringo Starr
+4 | band-members | Which twelve-string guitar did George Harrison use on stage for "A Hard Day's Night"? | Rickenbacker 360-12 | Gibson J-160E | Fender Electric XII | Vox Phantom XII | George Harrison; Rickenbacker
+4 | band-members | Which make of drum kit did Ringo Starr play on tour with The Beatles? | Ludwig | Premier | Gretsch | Slingerland | Ringo Starr; Ludwig
+5 | band-members | Which acoustic-electric guitar did John Lennon use on stage for "I Feel Fine" in 1965? | Gibson J-160E | Martin D-28 | Epiphone Texan | Framus Hootenanny | John Lennon; Gibson J-160E
+3 | live | Which teenage singer headlined The Beatles' first national UK tour in February 1963? | Helen Shapiro | Cilla Black | Lulu | Sandie Shaw | Helen Shapiro tour
+4 | live | On which date did The Beatles' first nationwide British tour begin? | 2 February 1963 | 5 October 1962 | 18 May 1963 | 1 November 1963 | Helen Shapiro tour
+5 | live | Where were The Beatles placed on the eleven-act bill of the Helen Shapiro tour? | Fourth | First | Second | Last | Helen Shapiro tour
+5 | people | Which singer on the Helen Shapiro tour was the first artist to cover a Beatles song? | Kenny Lynch | Danny Williams | Dave Allen | Billie Davis | Helen Shapiro tour; Kenny Lynch
+5 | people | Which Irish comedian was the compère on the Helen Shapiro tour? | Dave Allen | Frank Carson | Jimmy Cricket | Val Doonican | Helen Shapiro tour; Dave Allen
+5 | people | Which agency promoted The Beatles' first national tour in 1963? | The Arthur Howes Agency | NEMS Enterprises | The Grade Organisation | The Larry Parnes Agency | Helen Shapiro tour; Arthur Howes
+3 | in-the-studio | On which date did The Beatles record ten songs in one day for their first album? | 11 February 1963 | 5 October 1962 | 22 March 1963 | 4 September 1962 | Please Please Me
+4 | in-the-studio | How many tracks did The Beatles record in the single-day session for the Please Please Me album? | Ten | Four | Fourteen | Twenty | Please Please Me
+3 | live | Which American star was meant to headline a 1963 UK tour before The Beatles were promoted to close the show? | Roy Orbison | Chuck Berry | Del Shannon | Gene Pitney | Roy Orbison tour
+5 | live | Which other Liverpool group was on the bill of the 1963 Roy Orbison tour? | Gerry and the Pacemakers | The Searchers | The Swinging Blue Jeans | The Fourmost | Roy Orbison tour
+5 | live | The Roy Orbison tour of 1963 was The Beatles' nationwide UK tour of which number? | Third | First | Second | Fifth | Roy Orbison tour
+4 | films-tv | On which BBC radio network was Pop Go the Beatles broadcast in 1963? | The Light Programme | The Home Service | The Third Programme | Radio Luxembourg | Pop Go the Beatles
+4 | films-tv | How many episodes of Pop Go the Beatles were made? | Fifteen | Four | Thirty | Fifty-two | Pop Go the Beatles
+5 | films-tv | The theme of Pop Go the Beatles was a rock version of which nursery tune? | Pop Goes the Weasel | Three Blind Mice | London Bridge Is Falling Down | Oranges and Lemons | Pop Go the Beatles
+5 | people | Who presented the first four episodes of Pop Go the Beatles? | Lee Peters | Rodney Burke | Brian Matthew | Alan Freeman | Pop Go the Beatles
+5 | films-tv | What was the budget for each episode of Pop Go the Beatles? | £100 | £10 | £1,000 | £5,000 | Pop Go the Beatles
+5 | films-tv | About how many listeners did the BBC estimate for Pop Go the Beatles? | 2.8 million | 280,000 | 10 million | 22 million | Pop Go the Beatles
+4 | films-tv | In which year was the TV special Around the Beatles made? | 1964 | 1962 | 1966 | 1968 | Around the Beatles
+5 | people | Who produced the 1964 TV special Around the Beatles? | Jack Good | Brian Epstein | Richard Lester | Michael Lindsay-Hogg | Around the Beatles; Jack Good
+4 | films-tv | In Around the Beatles, the band performed a comic scene from which Shakespeare play? | A Midsummer Night's Dream | Hamlet | Macbeth | Romeo and Juliet | Around the Beatles; Shakespeare
+5 | films-tv | Which Beatle played Thisbe in the Shakespeare sketch in Around the Beatles? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Around the Beatles; John Lennon
+5 | films-tv | Which Beatle played the Lion in the Shakespeare sketch in Around the Beatles? | Ringo Starr | John Lennon | Paul McCartney | George Harrison | Around the Beatles; Ringo Starr
+5 | films-tv | Around the Beatles contains the group's only recorded performance of which Isley Brothers song? | Shout | Twist and Shout | This Old Heart of Mine | Respectable | Around the Beatles; Shout
+5 | films-tv | Which blues singer was backed by The Beatles singing from the balcony in Around the Beatles? | Long John Baldry | Alexis Korner | Georgie Fame | John Mayall | Around the Beatles; Long John Baldry
+4 | early-years | On which date did the group first perform under the name The Beatles? | 15 August 1960 | 6 July 1957 | 9 February 1961 | 5 October 1962 | The Beatles; Name
+4 | live | About how many concert appearances did The Beatles make during their touring years? | Over 1,400 | About 250 | About 600 | Over 5,000 | Touring
+4 | band-members | On which date did Ringo Starr officially play his first show as a Beatle? | 18 August 1962 | 5 October 1962 | 9 February 1961 | 1 January 1963 | Ringo Starr
+4 | films-tv | What is the title of Ron Howard's 2016 documentary about The Beatles' touring years? | Eight Days a Week | A Hard Day's Night | Get Back | Ticket to Ride | Eight Days a Week; Ron Howard
+4 | films-tv | Which 2024 documentary film covers The Beatles' first visit to America? | Beatles '64 | Get Back | Eight Days a Week | Good Ol' Freda | Beatles '64
+5 | live | How many number one singles did The Beatles have in America in the six months after their first visit in February 1964? | Six | Two | Ten | Fourteen | America; 1964
+5 | films-tv | How much did the film A Hard Day's Night take in its first week in the United States? | $1.3 million | $130,000 | $13 million | $50 million | A Hard Day's Night

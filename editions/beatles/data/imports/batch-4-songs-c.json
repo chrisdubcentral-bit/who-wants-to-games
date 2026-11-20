@@ -1,0 +1,1686 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "Which Abbey Road track contains the only drum solo Ringo Starr recorded with The Beatles?",
+    "options": [
+      "Come Together",
+      "The End",
+      "I Want You (She's So Heavy)",
+      "Polythene Pam"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The End",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "Which song was the last to be recorded collectively by all four Beatles?",
+    "options": [
+      "I Me Mine",
+      "Get Back",
+      "Let It Be",
+      "The End"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The End",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Drive My Car\" opens which Beatles album?",
+    "options": [
+      "Rubber Soul",
+      "Revolver",
+      "Beatles for Sale",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Drive My Car",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who was the main writer of \"Drive My Car\"?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Drive My Car",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Drive My Car\" was dropped from the American Rubber Soul and opened which US album instead?",
+    "options": [
+      "Beatles VI",
+      "Hey Jude",
+      "Beatles '65",
+      "Yesterday and Today"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Drive My Car",
+      "Yesterday and Today"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which song was the first solo composition by Ringo Starr to appear on a Beatles album?",
+    "options": [
+      "Don't Pass Me By",
+      "Good Night",
+      "Octopus's Garden",
+      "What Goes On"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Don't Pass Me By",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "In which country did \"Don't Pass Me By\" reach number one as a single in 1969?",
+    "options": [
+      "Canada",
+      "Japan",
+      "Denmark",
+      "Australia"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Don't Pass Me By"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which album is \"Don't Pass Me By\"?",
+    "options": [
+      "Help!",
+      "Abbey Road",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "The White Album"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Don't Pass Me By",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Everybody's Got Something to Hide Except Me and My Monkey\" is on which album?",
+    "options": [
+      "Magical Mystery Tour",
+      "Let It Be",
+      "Revolver",
+      "The White Album"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Me and My Monkey",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which White Album song did John Lennon say was about his bandmates' reaction to his relationship with Yoko Ono?",
+    "options": [
+      "Everybody's Got Something to Hide Except Me and My Monkey",
+      "Glass Onion",
+      "Sexy Sadie",
+      "I'm So Tired"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Me and My Monkey",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who wrote and sang \"The Fool on the Hill\"?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Fool on the Hill",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"The Fool on the Hill\" appears on which Beatles release?",
+    "options": [
+      "Magical Mystery Tour",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "The White Album",
+      "Yellow Submarine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Fool on the Hill",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Near which French city did Paul McCartney film the \"Fool on the Hill\" sequence for Magical Mystery Tour?",
+    "options": [
+      "Nice",
+      "Lyon",
+      "Paris",
+      "Marseille"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Fool on the Hill",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Dutch design collective did Paul McCartney say helped inspire \"The Fool on the Hill\"?",
+    "options": [
+      "The Apple Tree",
+      "The Fool",
+      "Provo",
+      "The Seekers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Fool on the Hill",
+      "The Fool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "In Britain, Magical Mystery Tour was first released in which format?",
+    "options": [
+      "A double EP",
+      "A single LP",
+      "A triple album",
+      "A cassette only"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Fixing a Hole\" is a track on which album?",
+    "options": [
+      "Revolver",
+      "Magical Mystery Tour",
+      "Rubber Soul",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fixing a Hole",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Fixing a Hole\"?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Fixing a Hole",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Every Little Thing\" appears on which Beatles album?",
+    "options": [
+      "Rubber Soul",
+      "Beatles for Sale",
+      "Help!",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Every Little Thing",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which orchestral percussion instrument does Ringo Starr play on \"Every Little Thing\"?",
+    "options": [
+      "Glockenspiel",
+      "Tubular bells",
+      "Timpani",
+      "Vibraphone"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Every Little Thing",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which rockabilly star is credited with writing \"Everybody's Trying to Be My Baby\"?",
+    "options": [
+      "Gene Vincent",
+      "Carl Perkins",
+      "Jerry Lee Lewis",
+      "Eddie Cochran"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Everybody's Trying to Be My Baby",
+      "Carl Perkins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which song was the first George Harrison composition to appear on a Beatles album?",
+    "options": [
+      "Don't Bother Me",
+      "I Need You",
+      "If I Needed Someone",
+      "Taxman"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Don't Bother Me",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "George Harrison's \"Don't Bother Me\" is on which album?",
+    "options": [
+      "With the Beatles",
+      "A Hard Day's Night",
+      "Help!",
+      "Please Please Me"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Don't Bother Me",
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"Don't Let Me Down\" was the B-side of which single?",
+    "options": [
+      "Hey Jude",
+      "Let It Be",
+      "Get Back",
+      "Something"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Don't Let Me Down",
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"Don't Let Me Down\"?",
+    "options": [
+      "Billy Preston",
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Don't Let Me Down",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which producer left \"Don't Let Me Down\" off the Let It Be album?",
+    "options": [
+      "Phil Spector",
+      "George Martin",
+      "Jeff Lynne",
+      "Glyn Johns"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Don't Let Me Down",
+      "Phil Spector"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "Which 1995 Beatles single was built on a John Lennon home demo from 1977?",
+    "options": [
+      "Grow Old with Me",
+      "Real Love",
+      "Free as a Bird",
+      "Now and Then"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Free as a Bird"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"Free as a Bird\" was released to promote which project?",
+    "options": [
+      "The 1 compilation",
+      "The Beatles Anthology",
+      "Live at the BBC",
+      "Let It Be... Naked"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Free as a Bird",
+      "Anthology"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Who gave Paul McCartney the John Lennon demo tapes that became \"Free as a Bird\" and \"Real Love\"?",
+    "options": [
+      "Sean Lennon",
+      "May Pang",
+      "Julian Lennon",
+      "Yoko Ono"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Free as a Bird",
+      "Yoko Ono"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Eight Days a Week\" appears on which British album?",
+    "options": [
+      "Rubber Soul",
+      "Beatles for Sale",
+      "Help!",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Eight Days a Week",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "What studio effect opens \"Eight Days a Week\", unusually for a pop song of 1964?",
+    "options": [
+      "A count-in in German",
+      "Guitar feedback",
+      "A fade-in",
+      "A backwards tape"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Eight Days a Week"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"Eight Days a Week\" was a US number one single; which American album did it then appear on?",
+    "options": [
+      "Beatles VI",
+      "Help!",
+      "Yesterday and Today",
+      "Beatles '65"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Eight Days a Week",
+      "Beatles VI"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "\"Eight Days a Week\" was The Beatles' US Billboard number one of which count?",
+    "options": [
+      "Their tenth",
+      "Their third",
+      "Their fifth",
+      "Their seventh"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Eight Days a Week"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which unreleased song did Paul McCartney record as a demo during a White Album session in August 1968?",
+    "options": [
+      "Carnival of Light",
+      "Etcetera",
+      "Watching Rainbows",
+      "Suzy Parker"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Etcetera",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "On which date in 1969 was the \"Get Back\" single released?",
+    "options": [
+      "26 September",
+      "8 May",
+      "11 April",
+      "30 January"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"Helter Skelter\"?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Helter Skelter",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Helter Skelter\" is on which album?",
+    "options": [
+      "The White Album",
+      "Abbey Road",
+      "Let It Be",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Helter Skelter",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "\"Helter Skelter\" is often seen as an early influence on which style of music?",
+    "options": [
+      "Country rock",
+      "Disco",
+      "Heavy metal",
+      "Reggae"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Helter Skelter"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "In 1976 \"Helter Skelter\" was the US B-side of which single?",
+    "options": [
+      "Yesterday",
+      "Ob-La-Di, Ob-La-Da",
+      "Back in the U.S.S.R.",
+      "Got to Get You into My Life"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Helter Skelter",
+      "Rock 'n' Roll Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Getting Better\" is on which Beatles album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Revolver",
+      "Rubber Soul",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Getting Better",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "In which year was \"From Me to You\" released?",
+    "options": [
+      "1965",
+      "1964",
+      "1962",
+      "1963"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "From Me to You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"From Me to You\" was The Beatles' single of which number?",
+    "options": [
+      "Their first",
+      "Their fifth",
+      "Their third",
+      "Their second"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "From Me to You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Whose 1963 cover of \"From Me to You\" was the first Lennon-McCartney song to enter the US pop charts?",
+    "options": [
+      "Gene Pitney",
+      "Del Shannon",
+      "Roy Orbison",
+      "Bobby Vee"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "From Me to You",
+      "Del Shannon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who was the main writer of the song \"A Hard Day's Night\"?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Hard Day's Night",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What was the B-side of the British \"A Hard Day's Night\" single?",
+    "options": [
+      "I Should Have Known Better",
+      "Things We Said Today",
+      "If I Fell",
+      "And I Love Her"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "A Hard Day's Night",
+      "Things We Said Today"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "What was the B-side of the American \"A Hard Day's Night\" single?",
+    "options": [
+      "Tell Me Why",
+      "Things We Said Today",
+      "I Should Have Known Better",
+      "I'm Happy Just to Dance with You"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "films-tv",
+    "difficulty": 1,
+    "question": "What was the title of The Beatles' first feature film, released in 1964?",
+    "options": [
+      "Let It Be",
+      "Help!",
+      "Yellow Submarine",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "Which John Lennon song was the B-side of \"Hello, Goodbye\"?",
+    "options": [
+      "Strawberry Fields Forever",
+      "I Am the Walrus",
+      "Revolution",
+      "Rain"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hello, Goodbye",
+      "I Am the Walrus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "Which Beatles single was the UK Christmas number one of 1967?",
+    "options": [
+      "Lady Madonna",
+      "All You Need Is Love",
+      "Hello, Goodbye",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hello, Goodbye",
+      "Christmas number one"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"Hello, Goodbye\" was the first Beatles release after the death of which person?",
+    "options": [
+      "Julia Lennon",
+      "Brian Epstein",
+      "Stuart Sutcliffe",
+      "Mal Evans"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hello, Goodbye",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Paul McCartney began \"Hello, Goodbye\" while demonstrating songwriting to which Beatles aide?",
+    "options": [
+      "Peter Brown",
+      "Mal Evans",
+      "Neil Aspinall",
+      "Alistair Taylor"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hello, Goodbye",
+      "Alistair Taylor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Who wrote and sang \"Here Comes the Sun\"?",
+    "options": [
+      "Ringo Starr",
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Here Comes the Sun",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In whose garden did George Harrison write \"Here Comes the Sun\"?",
+    "options": [
+      "Bob Dylan's",
+      "Eric Clapton's",
+      "Ravi Shankar's",
+      "Mick Jagger's"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Here Comes the Sun",
+      "Eric Clapton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which then-new electronic instrument features on \"Here Comes the Sun\"?",
+    "options": [
+      "Moog synthesiser",
+      "Theremin",
+      "Fairlight sampler",
+      "Mellotron"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Here Comes the Sun",
+      "Moog"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "George Harrison wrote \"Here Comes the Sun\" while skipping a meeting at which company?",
+    "options": [
+      "EMI",
+      "Apple Corps",
+      "NEMS Enterprises",
+      "Northern Songs"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Here Comes the Sun",
+      "Apple Corps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Here Comes the Sun\" is on which Beatles album?",
+    "options": [
+      "Abbey Road",
+      "Let It Be",
+      "Revolver",
+      "The White Album"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Here Comes the Sun",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which song, at 23 seconds, is the shortest Beatles track?",
+    "options": [
+      "Dig It",
+      "Maggie Mae",
+      "Her Majesty",
+      "Wild Honey Pie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Her Majesty",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Her Majesty\" is the unlisted final track on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Let It Be",
+      "The White Album",
+      "Abbey Road"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Her Majesty",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which Beatle wrote and sang \"Her Majesty\"?",
+    "options": [
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Her Majesty",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "John Lennon took the title \"Happiness Is a Warm Gun\" from an article in which kind of magazine?",
+    "options": [
+      "A British music paper",
+      "An American gun magazine",
+      "A children's comic",
+      "A French fashion magazine"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Happiness Is a Warm Gun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Happiness Is a Warm Gun\" is on which album?",
+    "options": [
+      "The White Album",
+      "Let It Be",
+      "Revolver",
+      "Abbey Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Happiness Is a Warm Gun",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "What was the name of George Harrison's Esher bungalow, where the White Album demos were taped?",
+    "options": [
+      "Kenwood",
+      "Friar Park",
+      "Kinfauns",
+      "Sunny Heights"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kinfauns",
+      "Esher demos"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Sun King\" is part of the medley on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Magical Mystery Tour",
+      "Abbey Road",
+      "Let It Be"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sun King",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Glass Onion\" appears on which album?",
+    "options": [
+      "Magical Mystery Tour",
+      "Abbey Road",
+      "Yellow Submarine",
+      "The White Album"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glass Onion",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Sgt. Pepper song was inspired by a television advert for Kellogg's Corn Flakes?",
+    "options": [
+      "Fixing a Hole",
+      "Good Morning Good Morning",
+      "Getting Better",
+      "Lovely Rita"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Good Morning Good Morning"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which BBC sitcom is named in the lyrics of \"Good Morning Good Morning\"?",
+    "options": [
+      "Steptoe and Son",
+      "The Likely Lads",
+      "Till Death Us Do Part",
+      "Meet the Wife"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Good Morning Good Morning"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Good Morning Good Morning\"?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Good Morning Good Morning",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Good Day Sunshine\" appears on which album?",
+    "options": [
+      "Rubber Soul",
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Help!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Good Day Sunshine",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Paul McCartney wrote \"Good Day Sunshine\" in the style of \"Daydream\" by which American band?",
+    "options": [
+      "The Turtles",
+      "The Mamas and the Papas",
+      "The Lovin' Spoonful",
+      "The Byrds"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Good Day Sunshine",
+      "The Lovin' Spoonful"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Girl\" appears on which Beatles album?",
+    "options": [
+      "Beatles for Sale",
+      "Revolver",
+      "Rubber Soul",
+      "Help!"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Girl",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Girl\" on Rubber Soul?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Girl",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which song was the last complete song recorded for the Rubber Soul album?",
+    "options": [
+      "In My Life",
+      "Wait",
+      "Girl",
+      "Michelle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Girl",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "films-tv",
+    "difficulty": 1,
+    "question": "Which Beatles song shares its title with their 1965 film?",
+    "options": [
+      "Help!",
+      "Yesterday",
+      "Day Tripper",
+      "Ticket to Ride"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who was the main writer of \"Help!\"?",
+    "options": [
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Help!",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "For how many weeks was \"Help!\" number one in both the UK and the US?",
+    "options": [
+      "Eight",
+      "One",
+      "Three",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who sings \"Good Night\", the closing track of the White Album?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Good Night",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "John Lennon wrote \"Good Night\" as a lullaby for whom?",
+    "options": [
+      "His half-sister Julia",
+      "Yoko Ono",
+      "His son Julian",
+      "His wife Cynthia"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Good Night",
+      "Julian Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "How many Beatles appear on the recording of \"Good Night\"?",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "One"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Good Night",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Golden Slumbers\" is on which album?",
+    "options": [
+      "Magical Mystery Tour",
+      "Let It Be",
+      "The White Album",
+      "Abbey Road"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Golden Slumbers",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Golden Slumbers\"?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Golden Slumbers",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which early John Lennon song, played at the Decca audition, became a top ten hit for The Fourmost?",
+    "options": [
+      "Hello Little Girl",
+      "Like Dreamers Do",
+      "I'll Be on My Way",
+      "Love of the Loved"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hello Little Girl",
+      "The Fourmost"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "In which year did John Lennon write \"Hello Little Girl\", one of his first songs?",
+    "options": [
+      "1957",
+      "1962",
+      "1954",
+      "1960"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hello Little Girl",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Got to Get You into My Life\" was first released on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Help!",
+      "Rubber Soul",
+      "Revolver"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Got to Get You into My Life",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which British act had a 1966 hit with \"Got to Get You into My Life\", produced by Paul McCartney?",
+    "options": [
+      "The Fourmost",
+      "Cliff Bennett and the Rebel Rousers",
+      "Georgie Fame and the Blue Flames",
+      "Manfred Mann"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Got to Get You into My Life",
+      "Cliff Bennett"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "Which American group had a 1978 US hit with \"Got to Get You into My Life\"?",
+    "options": [
+      "Chicago",
+      "The Bee Gees",
+      "Earth, Wind and Fire",
+      "The Commodores"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Got to Get You into My Life",
+      "Earth, Wind and Fire"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "\"Got to Get You into My Life\" was issued as a single in 1976 from which compilation album?",
+    "options": [
+      "Reel Music",
+      "1962-1966",
+      "Rock 'n' Roll Music",
+      "Love Songs"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Got to Get You into My Life",
+      "Rock 'n' Roll Music"
+    ],
+    "source": "manual"
+  }
+]

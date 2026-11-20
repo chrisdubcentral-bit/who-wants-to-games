@@ -1,0 +1,1223 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date in 1960 was George Harrison deported from West Germany?",
+    "options": [
+      "31 December",
+      "17 August",
+      "4 October",
+      "21 November"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who stood in on bass for Stuart Sutcliffe for four Beatles shows in Liverpool in December 1960?",
+    "options": [
+      "Johnny Gustafson",
+      "Colin Hanton",
+      "Chas Newby",
+      "Ken Brown"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Chas Newby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "At which Liverpool club did The Beatles play on 17 December 1960, just after returning from their first Hamburg trip?",
+    "options": [
+      "The Cavern Club",
+      "The Casbah Coffee Club",
+      "Litherland Town Hall",
+      "The Jacaranda"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Casbah"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "The Beatles' second Hamburg residency, from March to July 1961, was at which club?",
+    "options": [
+      "The Indra",
+      "The Star-Club",
+      "The Top Ten Club",
+      "The Kaiserkeller"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Top Ten Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "For how many consecutive nights did The Beatles play the Top Ten Club with Tony Sheridan in 1961?",
+    "options": [
+      "48",
+      "92",
+      "150",
+      "28"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "Top Ten Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "Who took over as The Beatles' bass player when Stuart Sutcliffe left?",
+    "options": [
+      "Paul McCartney",
+      "Pete Best",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paul McCartney",
+      "Bass"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which make of \"violin\" bass guitar did Paul McCartney buy in Hamburg in 1961?",
+    "options": [
+      "Rickenbacker",
+      "Höfner",
+      "Gibson",
+      "Fender"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul McCartney",
+      "Höfner bass"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "About how much did Paul McCartney pay for his first Höfner violin bass in Hamburg?",
+    "options": [
+      "£100",
+      "£5",
+      "£250",
+      "£30"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul McCartney",
+      "Höfner bass"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which make of guitar did John Lennon buy in Hamburg, a 1958 model 325 Capri?",
+    "options": [
+      "Gretsch",
+      "Fender",
+      "Epiphone",
+      "Rickenbacker"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Rickenbacker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Under which pop artist did Stuart Sutcliffe study at the Hamburg College of Art?",
+    "options": [
+      "David Hockney",
+      "Peter Blake",
+      "Richard Hamilton",
+      "Eduardo Paolozzi"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Stuart Sutcliffe",
+      "Eduardo Paolozzi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "What did The Beatles wear on stage in Hamburg after their matching jackets wore out?",
+    "options": [
+      "Black leather",
+      "Military tunics",
+      "Kaftans",
+      "Collarless suits"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg",
+      "Leather"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "On which date in 1962 did The Beatles open Hamburg's new Star-Club?",
+    "options": [
+      "1 January",
+      "5 October",
+      "6 June",
+      "13 April"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Star-Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who opened the Star-Club in Hamburg in 1962?",
+    "options": [
+      "Peter Eckhorn",
+      "Manfred Weissleder",
+      "Bruno Koschmider",
+      "Bert Kaempfert"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "Star-Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which friend gave up accountancy to become The Beatles' road manager?",
+    "options": [
+      "Mal Evans",
+      "Tony Barrow",
+      "Alistair Taylor",
+      "Neil Aspinall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Neil Aspinall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "What sad news were The Beatles given when they arrived in Hamburg in April 1962?",
+    "options": [
+      "The Star-Club had burned down",
+      "Brian Epstein had resigned",
+      "Their record deal was cancelled",
+      "Stuart Sutcliffe had died"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date did Stuart Sutcliffe die?",
+    "options": [
+      "22 June 1961",
+      "9 October 1960",
+      "10 April 1962",
+      "16 August 1962"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Whose group's associate taped The Beatles at the Star-Club at the end of 1962?",
+    "options": [
+      "Rory Storm's",
+      "Tony Sheridan's",
+      "Kingsize Taylor's",
+      "Gerry Marsden's"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Star-Club tapes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "In which year were the Star-Club tapes first released as an album?",
+    "options": [
+      "1970",
+      "1995",
+      "1977",
+      "1964"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Live! at the Star-Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which German bandleader produced The Beatles' recordings with Tony Sheridan?",
+    "options": [
+      "Kurt Edelhagen",
+      "James Last",
+      "Bert Kaempfert",
+      "Max Greger"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Bert Kaempfert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "On which German record label was \"My Bonnie\" released in 1961?",
+    "options": [
+      "Telefunken",
+      "Philips",
+      "Odeon",
+      "Polydor"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "My Bonnie",
+      "Polydor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Under which name were The Beatles credited on the German release of \"My Bonnie\"?",
+    "options": [
+      "The Beat Brothers",
+      "The Top Ten Boys",
+      "The Quarrymen",
+      "The Silver Beetles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "My Bonnie",
+      "Beat Brothers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date in 1961 did The Beatles first record with Tony Sheridan?",
+    "options": [
+      "9 November",
+      "31 October",
+      "22 June",
+      "1 April"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Tony Sheridan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date was \"My Bonnie\" released in the UK?",
+    "options": [
+      "5 October 1962",
+      "11 January 1963",
+      "31 October 1961",
+      "5 January 1962"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "My Bonnie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who was Astrid Kirchherr's boyfriend when she first saw The Beatles, later the designer of the Revolver sleeve?",
+    "options": [
+      "Stuart Sutcliffe",
+      "Jürgen Vollmer",
+      "Klaus Voormann",
+      "Horst Fascher"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Klaus Voormann",
+      "Astrid Kirchherr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "To which Beatle did Astrid Kirchherr become engaged in November 1960?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Pete Best",
+      "Stuart Sutcliffe"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Astrid Kirchherr",
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who designed the cover artwork for the three Beatles Anthology albums in the 1990s?",
+    "options": [
+      "Peter Blake",
+      "Richard Hamilton",
+      "Klaus Voormann",
+      "Alan Aldridge"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Anthology",
+      "Klaus Voormann"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Hamburg friend took the photo of John Lennon used on the cover of his Rock 'n' Roll album?",
+    "options": [
+      "Jürgen Vollmer",
+      "Klaus Voormann",
+      "Robert Freeman",
+      "Astrid Kirchherr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jürgen Vollmer",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which Beatle said \"I might have been born in Liverpool, but I grew up in Hamburg\"?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "In which year did The Beatles return to Hamburg to play two concerts at the Ernst-Merck-Halle?",
+    "options": [
+      "1964",
+      "1966",
+      "1963",
+      "1968"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 5,
+    "question": "In which year was Beatles-Platz, a memorial square, opened in Hamburg?",
+    "options": [
+      "2016",
+      "2008",
+      "1980",
+      "1995"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "Beatles-Platz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "How many Beatle figures stand in Hamburg's Beatles-Platz?",
+    "options": [
+      "Four",
+      "Three",
+      "Six",
+      "Five"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Beatles-Platz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "films-tv",
+    "difficulty": 1,
+    "question": "On which American TV show did The Beatles appear in February 1964, watched by a record audience?",
+    "options": [
+      "Saturday Night Live",
+      "American Bandstand",
+      "The Ed Sullivan Show",
+      "The Tonight Show"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "About how many people watched The Beatles' first Ed Sullivan Show appearance?",
+    "options": [
+      "7 million",
+      "73 million",
+      "23 million",
+      "150 million"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "On which date did The Beatles first appear live on The Ed Sullivan Show?",
+    "options": [
+      "9 February 1964",
+      "29 August 1966",
+      "15 August 1965",
+      "22 November 1963"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which song did The Beatles open with on their first Ed Sullivan Show?",
+    "options": [
+      "Twist and Shout",
+      "She Loves You",
+      "I Want to Hold Your Hand",
+      "All My Loving"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ed Sullivan Show",
+      "All My Loving"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which caption appeared under John Lennon during The Beatles' first Ed Sullivan Show?",
+    "options": [
+      "The clever one",
+      "He writes the songs",
+      "The leader",
+      "Sorry girls, he's married"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ed Sullivan Show",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "What sight at London Airport in October 1963 made Ed Sullivan interested in The Beatles?",
+    "options": [
+      "Crowds of fans greeting them",
+      "Their private jet",
+      "A poster for their film",
+      "A press conference"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "How much were The Beatles paid for each of their three Ed Sullivan Shows in 1964?",
+    "options": [
+      "$100,000",
+      "$240",
+      "$2,400",
+      "$24,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "On which date did The Beatles land in New York for their first American visit?",
+    "options": [
+      "9 February 1964",
+      "22 August 1964",
+      "1 January 1964",
+      "7 February 1964"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "America",
+      "JFK"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "At which New York airport did The Beatles land in February 1964?",
+    "options": [
+      "Newark",
+      "LaGuardia",
+      "John F. Kennedy",
+      "Teterboro"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "America",
+      "JFK"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "places",
+    "difficulty": 3,
+    "question": "At which New York hotel did The Beatles stay on their first visit in February 1964?",
+    "options": [
+      "The Plaza",
+      "The Dakota",
+      "The Chelsea",
+      "The Waldorf Astoria"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "America",
+      "Plaza Hotel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which Beatle missed the Ed Sullivan rehearsal on 8 February 1964 because of a throat infection?",
+    "options": [
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ed Sullivan Show",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who stood in for the ill George Harrison at rehearsals for the first Ed Sullivan Show?",
+    "options": [
+      "Murray the K",
+      "Mal Evans",
+      "Brian Epstein",
+      "Neil Aspinall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ed Sullivan Show",
+      "Neil Aspinall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "How many seats were in the studio for The Beatles' first Ed Sullivan Show, for which 50,000 people applied?",
+    "options": [
+      "728",
+      "150",
+      "2,500",
+      "5,000"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Ed Sullivan opened the first show by reading a telegram of good wishes from which star and his manager?",
+    "options": [
+      "Elvis Presley",
+      "Frank Sinatra",
+      "Chuck Berry",
+      "Buddy Holly"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show",
+      "Elvis Presley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "From which city was The Beatles' second Ed Sullivan Show broadcast on 16 February 1964?",
+    "options": [
+      "Miami Beach",
+      "Washington, D.C.",
+      "Chicago",
+      "Los Angeles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show",
+      "Miami"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which boxer did The Beatles pose with in a Miami gym in February 1964?",
+    "options": [
+      "Sonny Liston",
+      "Cassius Clay",
+      "Floyd Patterson",
+      "Joe Frazier"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Miami",
+      "Cassius Clay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "At which New York concert hall did The Beatles play two shows on 12 February 1964?",
+    "options": [
+      "Radio City Music Hall",
+      "Madison Square Garden",
+      "Carnegie Hall",
+      "The Apollo Theater"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Carnegie Hall",
+      "America"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "At which venue did The Beatles play their first American concert on 11 February 1964?",
+    "options": [
+      "Shea Stadium",
+      "Carnegie Hall",
+      "The Hollywood Bowl",
+      "Washington Coliseum"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Washington Coliseum",
+      "America"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "At which Miami Beach hotel was The Beatles' second Ed Sullivan Show staged?",
+    "options": [
+      "The Deauville",
+      "The Eden Roc",
+      "The Delano",
+      "The Fontainebleau"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show",
+      "Miami"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "The Beatles' third Ed Sullivan Show of February 1964 had actually been taped on which date?",
+    "options": [
+      "16 February",
+      "1 February",
+      "22 February",
+      "9 February"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "On which date in 1965 were The Beatles last taped live for The Ed Sullivan Show?",
+    "options": [
+      "14 August",
+      "9 February",
+      "12 September",
+      "29 August"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which song closed The Beatles' final Ed Sullivan Show performance, broadcast in September 1965?",
+    "options": [
+      "Help!",
+      "I'm Down",
+      "Yesterday",
+      "Ticket to Ride"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "How many records did The Beatles sell in America in the month after their first Ed Sullivan Show?",
+    "options": [
+      "2.5 million",
+      "25 million",
+      "250,000",
+      "10 million"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show",
+      "America"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which evangelist watched The Beatles on Ed Sullivan and called Beatlemania a \"passing phase\"?",
+    "options": [
+      "Oral Roberts",
+      "Norman Vincent Peale",
+      "Jerry Falwell",
+      "Billy Graham"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ed Sullivan Show",
+      "Billy Graham"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "records",
+    "difficulty": 3,
+    "question": "The Beatles' arrival on American television in 1964 is seen as the start of which musical movement?",
+    "options": [
+      "The Summer of Love",
+      "The British Invasion",
+      "The folk revival",
+      "The New Wave"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "British Invasion"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which CBS newsreader's report on The Beatles prompted Ed Sullivan to ask how to get hold of them?",
+    "options": [
+      "Edward R. Murrow",
+      "Walter Cronkite",
+      "David Brinkley",
+      "Dan Rather"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ed Sullivan Show",
+      "Walter Cronkite"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "Capitol had planned to release \"I Want to Hold Your Hand\" in the US in mid-January 1964; when did it actually rush it out?",
+    "options": [
+      "February 1964",
+      "Early November 1963",
+      "Late December 1963",
+      "March 1964"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Want to Hold Your Hand",
+      "Capitol"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "On which date did \"I Want to Hold Your Hand\" reach the top of the US Billboard Hot 100?",
+    "options": [
+      "9 February 1964",
+      "4 April 1964",
+      "29 November 1963",
+      "25 January 1964"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Want to Hold Your Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "The Beatles' final appearance on The Ed Sullivan Show, in March 1970, was on film performing \"Let It Be\" and which other song?",
+    "options": [
+      "Two of Us",
+      "Get Back",
+      "The Long and Winding Road",
+      "Don't Let Me Down"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which studio in New York, where The Beatles played in 1964, was later renamed after the show's host?",
+    "options": [
+      "The Paley Center",
+      "The Letterman Theater",
+      "Studio 54",
+      "The Ed Sullivan Theater"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ed Sullivan Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which guitar maker gave John Lennon a new model 325 for the Miami Ed Sullivan Show?",
+    "options": [
+      "Gibson",
+      "Gretsch",
+      "Vox",
+      "Rickenbacker"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Rickenbacker"
+    ],
+    "source": "manual"
+  }
+]

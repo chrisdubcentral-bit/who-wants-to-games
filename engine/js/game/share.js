@@ -1,4 +1,4 @@
-// Sharing a Top 100 place: a message with a link back to the game, and a scorecard picture drawn here in the browser.
+// Sharing a Top 40 place: a message with a link back to the game, and a scorecard picture drawn here in the browser.
 //
 // On phones and tablets the Share button opens the device's own share menu (WhatsApp, Instagram, Facebook,
 // Messages... whatever is installed), with the scorecard attached where the device allows it. On computers it
@@ -18,12 +18,15 @@ export const SHARE_TAG = 'shared-score';
 const W = 1080;
 const H = 1350; // 4:5, the shape Instagram, WhatsApp and Facebook show without cropping
 
-/** This edition's game page, without any game position or query, tagged for the stats dashboard. */
+/**
+ * This edition's game page, without any game position or query, tagged for the stats dashboard. Uses the short
+ * address (/celtic rather than /editions/celtic/), which the site redirects to the game (see tools/build.js).
+ */
 export function shareUrl() {
   const u = new URL(location.href);
   u.hash = '';
   u.search = '';
-  u.pathname = u.pathname.replace(/index\.html$/, '');
+  u.pathname = u.pathname.replace(/index\.html$/, '').replace(/\/editions\/([^/]+)\/$/, '/$1');
   u.searchParams.set('utm_source', SHARE_TAG);
   return u.href;
 }

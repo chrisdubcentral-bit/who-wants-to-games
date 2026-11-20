@@ -1,0 +1,1707 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album features a fictional band in colourful military-style uniforms on its cover?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Let It Be",
+      "Abbey Road",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "In which year was Sgt. Pepper's Lonely Hearts Club Band released?",
+    "options": [
+      "1965",
+      "1969",
+      "1967",
+      "1966"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Sgt. Pepper was The Beatles' studio album of which number?",
+    "options": [
+      "Tenth",
+      "Eighth",
+      "Seventh",
+      "Sixth"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Whose idea was the Sgt. Pepper concept of The Beatles playing as another band?",
+    "options": [
+      "Brian Epstein",
+      "Paul McCartney",
+      "George Martin",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which two songs recorded early in the Sgt. Pepper sessions were released as a single and left off the album?",
+    "options": [
+      "Paperback Writer and Rain",
+      "Hello, Goodbye and I Am the Walrus",
+      "Lady Madonna and The Inner Light",
+      "Strawberry Fields Forever and Penny Lane"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sgt. Pepper",
+      "Penny Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "On which date in 1966 did the Sgt. Pepper sessions begin?",
+    "options": [
+      "24 November",
+      "6 April",
+      "1 January",
+      "29 August"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "On which date in 1967 was recording of Sgt. Pepper completed?",
+    "options": [
+      "21 April",
+      "1 June",
+      "1 January",
+      "25 June"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which engineer worked alongside George Martin on Sgt. Pepper?",
+    "options": [
+      "Glyn Johns",
+      "Ken Scott",
+      "Geoff Emerick",
+      "Norman Smith"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper",
+      "Geoff Emerick"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song is the third track on Sgt. Pepper?",
+    "options": [
+      "Getting Better",
+      "Lucy in the Sky with Diamonds",
+      "She's Leaving Home",
+      "Fixing a Hole"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes side one of Sgt. Pepper?",
+    "options": [
+      "She's Leaving Home",
+      "Fixing a Hole",
+      "Getting Better",
+      "Being for the Benefit of Mr. Kite!"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which George Harrison song opens side two of Sgt. Pepper?",
+    "options": [
+      "Within You Without You",
+      "Blue Jay Way",
+      "It's All Too Much",
+      "Love You To"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper",
+      "Within You Without You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song comes immediately before the Sgt. Pepper reprise on side two?",
+    "options": [
+      "When I'm Sixty-Four",
+      "Good Morning Good Morning",
+      "Within You Without You",
+      "Lovely Rita"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the fourth track on Sgt. Pepper?",
+    "options": [
+      "Lovely Rita",
+      "Getting Better",
+      "Fixing a Hole",
+      "She's Leaving Home"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "How many songs are on Sgt. Pepper, counting the reprise?",
+    "options": [
+      "17",
+      "14",
+      "13",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "The idea for the Sgt. Pepper band came to Paul McCartney on a flight home in which month of 1966?",
+    "options": [
+      "November",
+      "August",
+      "January",
+      "May"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Sgt. Pepper is often described as an early example of which kind of album?",
+    "options": [
+      "A charity album",
+      "A live album",
+      "A concept album",
+      "A tribute album"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Magical Mystery Tour was the soundtrack to what?",
+    "options": [
+      "A stage musical",
+      "A television film",
+      "A cartoon series",
+      "A radio play"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was the Magical Mystery Tour double EP released in the UK?",
+    "options": [
+      "1 June 1967",
+      "17 January 1969",
+      "22 November 1968",
+      "8 December 1967"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "How many songs are on the British Magical Mystery Tour double EP?",
+    "options": [
+      "Six",
+      "Eleven",
+      "Four",
+      "Two"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "How many tracks are on the American Magical Mystery Tour LP?",
+    "options": [
+      "Fourteen",
+      "Six",
+      "Eleven",
+      "Twenty"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was the Magical Mystery Tour LP finally released in Britain?",
+    "options": [
+      "1968",
+      "1976",
+      "1987",
+      "1970"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What came with the Magical Mystery Tour record as a bonus?",
+    "options": [
+      "A 24-page booklet",
+      "A flexi-disc interview",
+      "A cut-out moustache",
+      "A poster of the bus"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes the American Magical Mystery Tour LP?",
+    "options": [
+      "I Am the Walrus",
+      "Penny Lane",
+      "Hello, Goodbye",
+      "All You Need Is Love"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens side two of the American Magical Mystery Tour LP?",
+    "options": [
+      "Penny Lane",
+      "Hello, Goodbye",
+      "Strawberry Fields Forever",
+      "I Am the Walrus"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "For how many weeks did the Magical Mystery Tour album top the US Billboard LP chart?",
+    "options": [
+      "One",
+      "Three",
+      "Fifteen",
+      "Eight"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song kept the Magical Mystery Tour EP at number two on the UK singles chart?",
+    "options": [
+      "Hello, Goodbye",
+      "All You Need Is Love",
+      "Lady Madonna",
+      "Hey Jude"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Magical Mystery Tour",
+      "Hello, Goodbye"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which cartoonist drew the story illustrations in the Magical Mystery Tour booklet?",
+    "options": [
+      "Alan Aldridge",
+      "Bob Gibson",
+      "Gerald Scarfe",
+      "Heinz Edelmann"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magical Mystery Tour",
+      "Bob Gibson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song is the only track on side two of the British Magical Mystery Tour double EP?",
+    "options": [
+      "Your Mother Should Know",
+      "Flying",
+      "Blue Jay Way",
+      "I Am the Walrus"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Magical Mystery Tour",
+      "I Am the Walrus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "What is the official title of the record known as the \"White Album\"?",
+    "options": [
+      "Snow",
+      "The Beatles",
+      "The Fab Four",
+      "White"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "In which year was the White Album released?",
+    "options": [
+      "1968",
+      "1966",
+      "1967",
+      "1970"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was the White Album released?",
+    "options": [
+      "22 November 1968",
+      "26 September 1969",
+      "8 May 1970",
+      "26 May 1967"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "How many songs are on the White Album?",
+    "options": [
+      "20",
+      "40",
+      "30",
+      "14"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "The White Album is the only Beatles studio album to be what?",
+    "options": [
+      "Released only in America",
+      "Entirely instrumental",
+      "A double album",
+      "Recorded live"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "The White Album was the first Beatles album released on which label?",
+    "options": [
+      "Apple",
+      "EMI Harvest",
+      "Capitol",
+      "Parlophone"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album",
+      "Apple Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "The White Album was The Beatles' studio album of which number?",
+    "options": [
+      "Ninth",
+      "Eighth",
+      "Seventh",
+      "Eleventh"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which engineer walked out on The Beatles during the White Album sessions?",
+    "options": [
+      "Geoff Emerick",
+      "Ken Scott",
+      "Chris Thomas",
+      "Glyn Johns"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album",
+      "Geoff Emerick"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many of the White Album's songs were written in India?",
+    "options": [
+      "19",
+      "30",
+      "5",
+      "10"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album",
+      "India"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song is the second track on the White Album?",
+    "options": [
+      "Ob-La-Di, Ob-La-Da",
+      "Dear Prudence",
+      "Glass Onion",
+      "Blackbird"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "White Album",
+      "Dear Prudence"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes side one of the White Album?",
+    "options": [
+      "While My Guitar Gently Weeps",
+      "Happiness Is a Warm Gun",
+      "Glass Onion",
+      "Ob-La-Di, Ob-La-Da"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens side two of the White Album?",
+    "options": [
+      "Martha My Dear",
+      "Blackbird",
+      "I'm So Tired",
+      "Piggies"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album",
+      "Martha My Dear"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens side three of the White Album?",
+    "options": [
+      "Yer Blues",
+      "Birthday",
+      "Sexy Sadie",
+      "Helter Skelter"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "White Album",
+      "Birthday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens side four of the White Album?",
+    "options": [
+      "Honey Pie",
+      "Revolution 9",
+      "Revolution 1",
+      "Savoy Truffle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "White Album",
+      "Revolution 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes side three of the White Album?",
+    "options": [
+      "Yer Blues",
+      "Long, Long, Long",
+      "Sexy Sadie",
+      "Helter Skelter"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes side two of the White Album?",
+    "options": [
+      "Blackbird",
+      "Rocky Raccoon",
+      "I Will",
+      "Julia"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "White Album",
+      "Julia"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song comes directly before \"Good Night\" on the White Album?",
+    "options": [
+      "Revolution 9",
+      "Cry Baby Cry",
+      "Honey Pie",
+      "Savoy Truffle"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album",
+      "Revolution 9"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song comes directly after \"Blackbird\" on the White Album?",
+    "options": [
+      "Piggies",
+      "Julia",
+      "I Will",
+      "Rocky Raccoon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song is the third track on side three of the White Album?",
+    "options": [
+      "Helter Skelter",
+      "Yer Blues",
+      "Mother Nature's Son",
+      "Sexy Sadie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What appears on the front of the White Album sleeve?",
+    "options": [
+      "A white apple",
+      "Only the band's name, embossed",
+      "A drawing by John Lennon",
+      "A photo of the band in white suits"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Recording of the White Album ran from late May 1968 until which month?",
+    "options": [
+      "February 1969",
+      "July",
+      "December",
+      "October"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Yellow Submarine is the soundtrack to what kind of film?",
+    "options": [
+      "A documentary",
+      "An animated film",
+      "A western",
+      "A horror film"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "In which month and year was the Yellow Submarine album released?",
+    "options": [
+      "January 1969",
+      "May 1970",
+      "December 1967",
+      "July 1968"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "How many Beatles songs are on the Yellow Submarine album?",
+    "options": [
+      "Fourteen",
+      "Six",
+      "Ten",
+      "Two"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Who composed and recorded the orchestral music on side two of the Yellow Submarine album?",
+    "options": [
+      "Leonard Bernstein",
+      "Paul McCartney",
+      "George Martin",
+      "John Barry"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yellow Submarine",
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes side one of the Yellow Submarine album?",
+    "options": [
+      "All Together Now",
+      "All You Need Is Love",
+      "It's All Too Much",
+      "Hey Bulldog"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which of these is an orchestral track on the Yellow Submarine album?",
+    "options": [
+      "Revolution 9",
+      "Flying",
+      "Blue Jay Way",
+      "Pepperland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yellow Submarine",
+      "Pepperland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which of these is a George Martin piece on the Yellow Submarine album?",
+    "options": [
+      "Dance of the Apple Bonkers",
+      "March of the Meanies",
+      "Jeremy's Song",
+      "The Glove's Lament"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In which month and year did the Yellow Submarine film premiere in London?",
+    "options": [
+      "July 1968",
+      "June 1967",
+      "January 1969",
+      "December 1967"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was the Yellow Submarine Songtrack, a remixed album of songs from the film, released?",
+    "options": [
+      "2009",
+      "1976",
+      "1987",
+      "1999"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yellow Submarine Songtrack"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Yellow Submarine was The Beatles' studio album of which number?",
+    "options": [
+      "Tenth",
+      "Ninth",
+      "Eighth",
+      "Twelfth"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album cover shows the four walking over a pedestrian crossing?",
+    "options": [
+      "Let It Be",
+      "Abbey Road",
+      "Help!",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "In which year was Abbey Road released?",
+    "options": [
+      "1968",
+      "1969",
+      "1970",
+      "1967"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which was the last album The Beatles recorded?",
+    "options": [
+      "Yellow Submarine",
+      "Let It Be",
+      "Abbey Road",
+      "The White Album"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "About how many copies has Abbey Road sold worldwide?",
+    "options": [
+      "About 3 million",
+      "About 10 million",
+      "Over 100 million",
+      "Over 30 million"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which George Harrison song opens side two of Abbey Road?",
+    "options": [
+      "Something",
+      "Because",
+      "Sun King",
+      "Here Comes the Sun"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road",
+      "Here Comes the Sun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song is the second track on Abbey Road?",
+    "options": [
+      "Maxwell's Silver Hammer",
+      "Octopus's Garden",
+      "Something",
+      "Oh! Darling"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Abbey Road",
+      "Something"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song is the third track on Abbey Road?",
+    "options": [
+      "Maxwell's Silver Hammer",
+      "Oh! Darling",
+      "Octopus's Garden",
+      "Something"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the fifth track on side one of Abbey Road?",
+    "options": [
+      "Oh! Darling",
+      "Maxwell's Silver Hammer",
+      "I Want You (She's So Heavy)",
+      "Octopus's Garden"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which Paul McCartney song caused particular arguments during the Abbey Road sessions?",
+    "options": [
+      "Maxwell's Silver Hammer",
+      "Oh! Darling",
+      "Her Majesty",
+      "Golden Slumbers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Abbey Road",
+      "Maxwell's Silver Hammer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song in the Abbey Road medley comes between \"Mean Mr. Mustard\" and \"She Came In Through the Bathroom Window\"?",
+    "options": [
+      "Golden Slumbers",
+      "Sun King",
+      "Carry That Weight",
+      "Polythene Pam"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road",
+      "Medley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Through which rotating speaker cabinet were guitars played on Abbey Road?",
+    "options": [
+      "A Leslie speaker",
+      "A Marshall stack",
+      "A Fender Twin",
+      "A Vox AC30"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Abbey Road",
+      "Leslie speaker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "What were Abbey Road Studios officially called when The Beatles recorded there?",
+    "options": [
+      "EMI Studios",
+      "Parlophone House",
+      "St John's Wood Sound",
+      "Apple Studios"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Abbey Road Studios",
+      "EMI Studios"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which album was the last to be released by The Beatles, in May 1970?",
+    "options": [
+      "The White Album",
+      "Let It Be",
+      "Yellow Submarine",
+      "Abbey Road"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was the Let It Be album released?",
+    "options": [
+      "30 January 1969",
+      "26 September 1969",
+      "10 April 1970",
+      "8 May 1970"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Under what working title was the Let It Be album first prepared?",
+    "options": [
+      "The Long One",
+      "Get Back",
+      "Everest",
+      "A Doll's House"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be",
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which engineer prepared the early \"Get Back\" versions of the album that the band rejected?",
+    "options": [
+      "Geoff Emerick",
+      "Glyn Johns",
+      "Alan Parsons",
+      "Phil McDonald"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be",
+      "Glyn Johns"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "On which date did rehearsals for the Get Back project begin at Twickenham?",
+    "options": [
+      "22 August 1969",
+      "2 January 1969",
+      "30 January 1969",
+      "3 January 1970"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Get Back sessions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many tracks on Let It Be come from the rooftop concert?",
+    "options": [
+      "None",
+      "One",
+      "Seven",
+      "Three"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Let It Be",
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "To which three songs did Phil Spector add orchestral and choral overdubs on Let It Be?",
+    "options": [
+      "Two of Us, Dig a Pony and Get Back",
+      "Across the Universe, I Me Mine and The Long and Winding Road",
+      "One After 909, Maggie Mae and I've Got a Feeling",
+      "Let It Be, For You Blue and Dig It"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be",
+      "Phil Spector"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which Beatle was upset by Phil Spector's orchestration of \"The Long and Winding Road\"?",
+    "options": [
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Let It Be",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song is the second track on Let It Be?",
+    "options": [
+      "Dig a Pony",
+      "Dig It",
+      "I Me Mine",
+      "Across the Universe"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens side two of Let It Be?",
+    "options": [
+      "I've Got a Feeling",
+      "For You Blue",
+      "One After 909",
+      "The Long and Winding Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which short track closes side one of Let It Be?",
+    "options": [
+      "Dig It",
+      "I Me Mine",
+      "Across the Universe",
+      "Maggie Mae"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Let It Be",
+      "Maggie Mae"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song comes directly before \"Get Back\" on Let It Be?",
+    "options": [
+      "The Long and Winding Road",
+      "For You Blue",
+      "One After 909",
+      "I've Got a Feeling"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the third track on Let It Be?",
+    "options": [
+      "Across the Universe",
+      "Dig It",
+      "Let It Be",
+      "I Me Mine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Let It Be",
+      "Across the Universe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "On which date in 1970 was \"The Long and Winding Road\" released as a single in the US?",
+    "options": [
+      "31 December",
+      "10 April",
+      "11 May",
+      "6 March"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Long and Winding Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "In which month of 1970 did Paul, George and Ringo record \"I Me Mine\"?",
+    "options": [
+      "January",
+      "April",
+      "June",
+      "September"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Me Mine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which Paul McCartney song was included on Glyn Johns' rejected versions of the Get Back album but not on Let It Be?",
+    "options": [
+      "Maybe I'm Amazed",
+      "Junk",
+      "Teddy Boy",
+      "Every Night"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be",
+      "Teddy Boy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "How many studio albums did The Beatles release in the UK, counting Yellow Submarine?",
+    "options": [
+      "Eight",
+      "Ten",
+      "Fifteen",
+      "Twelve"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Discography"
+    ],
+    "source": "manual"
+  }
+]

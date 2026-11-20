@@ -38,3 +38,6 @@ export function summaryLabels() {
 export function prizeCount(n) {
   return `${n} ${n === 1 ? edition.vars.prize : edition.vars.prizes}`;
 }
+
+/** What the edition calls each run after the first win: "Season" unless its vars say otherwise ("Season 2"). */
+export const seasonName = () => edition.vars.season ?? 'Season';

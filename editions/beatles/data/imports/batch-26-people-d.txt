@@ -1,0 +1,73 @@
+# Beatles people, part D (friends, associates, session players and journalists). Source: Wikipedia biographies.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | people | Who was John Lennon's companion during his 18-month "Lost Weekend" in the mid-1970s? | May Pang | Yoko Ono | Cynthia Powell | Linda Eastman | May Pang; Lost Weekend
+4 | people | What is the title of May Pang's 1983 memoir of her time with John Lennon? | Loving John | A Twist of Lennon | Instamatic Karma | Lost Weekend | May Pang
+4 | solo-years | What name did John Lennon give to his separation from Yoko Ono in 1973 and 1974? | The Lost Weekend | The Long Holiday | The Dark Year | The Big Sleep | John Lennon; Lost Weekend
+3 | people | Which Liverpool group, led by Gerry Marsden, was the first act to reach UK number one with its first three singles? | Gerry and the Pacemakers | The Searchers | The Swinging Blue Jeans | The Merseybeats | Gerry Marsden
+3 | people | Which Gerry and the Pacemakers hit became the anthem of Liverpool Football Club? | You'll Never Walk Alone | Ferry Cross the Mersey | How Do You Do It? | I Like It | Gerry Marsden
+4 | people | In which year did Gerry Marsden die? | 2021 | 1995 | 2005 | 2013 | Gerry Marsden
+4 | people | On which date did Guinness heir Tara Browne die in a car crash? | 18 December 1966 | 27 August 1967 | 1 June 1967 | 3 July 1969 | Tara Browne
+4 | people | By what nickname was the London art dealer Robert Fraser known? | Groovy Bob | Arty Bob | Swinging Bob | Bob the Dealer | Robert Fraser
+5 | people | The art dealer Robert Fraser was art director for which Beatles album sleeve? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Abbey Road | Let It Be | Robert Fraser; Sgt. Pepper
+4 | people | Which singer did Peter Asher go on to manage and produce after James Taylor? | Linda Ronstadt | Carly Simon | Joni Mitchell | Stevie Nicks | Peter Asher
+4 | people | What is the title of Peter Asher's 2019 book about the band? | The Beatles from A to Zed | Here, There and Everywhere | Yesterday and Today | Life with the Beatles | Peter Asher
+4 | people | Lee Eastman, Paul McCartney's father-in-law, followed which profession? | Lawyer | Photographer | Film producer | Banker | Lee Eastman
+5 | people | Lee Eastman was the lawyer of and a collector of works by which abstract painter? | Willem de Kooning | Jackson Pollock | Mark Rothko | Franz Kline | Lee Eastman
+4 | people | Which daughter of Paul and Linda McCartney became a famous fashion designer? | Stella McCartney | Mary McCartney | Heather McCartney | Beatrice McCartney | Stella McCartney
+4 | people | Which daughter of Paul and Linda McCartney became a photographer? | Mary McCartney | Stella McCartney | Beatrice McCartney | Ruth McCartney | Mary McCartney
+3 | solo-years | Which former Moody Blues singer was a member of Wings for the band's whole career? | Denny Laine | Justin Hayward | Ray Thomas | Mike Pinder | Denny Laine; Wings
+3 | solo-years | Which 1977 Wings hit did Paul McCartney write with Denny Laine? | Mull of Kintyre | Silly Love Songs | Band on the Run | Jet | Denny Laine; Mull of Kintyre
+4 | solo-years | Between which years did Paul McCartney's band Wings exist? | 1971 to 1981 | 1968 to 1972 | 1975 to 1985 | 1980 to 1990 | Wings
+4 | people | Which Moody Blues hit of 1964 was sung by future Wings member Denny Laine? | Go Now | Nights in White Satin | Question | Tuesday Afternoon | Denny Laine
+4 | people | In which year did Jackie Lomax, the Apple singer produced by George Harrison, die? | 2013 | 1975 | 1988 | 2001 | Jackie Lomax
+5 | people | With which Liverpool group did Jackie Lomax sing before signing to Apple? | The Undertakers | The Mojos | The Big Three | The Remo Four | Jackie Lomax; The Undertakers
+4 | people | Which author of the 1960s London underground wrote Paul McCartney's authorised biography Many Years from Now? | Barry Miles | Hunter Davies | Philip Norman | Ray Connolly | Barry Miles; Many Years from Now
+4 | places | Which London gallery and bookshop was co-owned by Barry Miles, John Dunbar and Peter Asher? | Indica | Signals | Kasmin | The Arts Lab | Indica Gallery
+3 | places | At which London gallery did John Lennon first meet Yoko Ono in November 1966? | Indica Gallery | The Tate Gallery | Robert Fraser Gallery | The Whitechapel Gallery | Indica Gallery; Yoko Ono
+4 | people | John Dunbar, co-owner of the gallery where Lennon met Yoko Ono, was married to which singer? | Marianne Faithfull | Sandie Shaw | Cilla Black | Dusty Springfield | John Dunbar; Marianne Faithfull
+4 | records | Which underground newspaper did Paul McCartney help to fund in London in 1966? | International Times | Oz | Black Dwarf | Friends | International Times; Paul McCartney
+3 | people | In which American state was Bob Dylan born and raised? | Minnesota | New York | California | Texas | Bob Dylan
+4 | solo-years | In which supergroup did George Harrison play alongside Bob Dylan, Tom Petty, Roy Orbison and Jeff Lynne? | Traveling Wilburys | The Highwaymen | Blind Faith | Plastic Ono Band | George Harrison; Traveling Wilburys
+3 | solo-years | With which singer did John Lennon have a US number one, "Whatever Gets You thru the Night", in 1974? | Elton John | David Bowie | Harry Nilsson | Mick Jagger | John Lennon; Elton John
+4 | solo-years | At whose Madison Square Garden concert did John Lennon make his last major stage appearance in November 1974? | Elton John's | George Harrison's | Paul McCartney's | David Bowie's | John Lennon; Elton John
+4 | people | Elton John is godfather to which son of a Beatle? | Sean Lennon | Julian Lennon | Dhani Harrison | Zak Starkey | Elton John; Sean Lennon
+3 | people | Who was the secretary of The Beatles' official fan club from 1962 to 1972? | Freda Kelly | Maureen Cleave | Wendy Hanson | Barbara Bennett | Freda Kelly
+4 | films-tv | What is the title of the 2013 documentary about Beatles fan club secretary Freda Kelly? | Good Ol' Freda | Dear Freda | Freda and the Fabs | Secretary to the Stars | Freda Kelly
+3 | people | Which actress played the priestess Ahme in the film Help!? | Eleanor Bron | Julie Christie | Diana Rigg | Honor Blackman | Eleanor Bron; Help!
+4 | songs | Which Help! actress is sometimes said to have lent her first name to "Eleanor Rigby"? | Eleanor Bron | Eleanor Parker | Eleanor Powell | Eleanor Summerfield | Eleanor Bron; Eleanor Rigby
+4 | people | In which year did David Mason, the trumpet soloist on "Penny Lane", die? | 2011 | 1967 | 1985 | 1999 | David Mason
+5 | songs | A television broadcast of which Bach work inspired Paul McCartney to ask for a piccolo trumpet on "Penny Lane"? | The Brandenburg Concertos | The St Matthew Passion | The Goldberg Variations | The Mass in B minor | Penny Lane; David Mason
+4 | people | Which DJ, who travelled with The Beatles in 1966, later became a zany TV comedian? | Kenny Everett | Noel Edmonds | Jimmy Young | Dave Lee Travis | Kenny Everett
+4 | people | Which session pianist plays the electric piano on the single version of "Revolution"? | Nicky Hopkins | Billy Preston | Ian Stewart | Rick Wakeman | Nicky Hopkins; Revolution
+4 | people | In which year did session pianist Nicky Hopkins die? | 1994 | 1980 | 2005 | 2015 | Nicky Hopkins
+4 | people | Which Dutch collective painted a huge psychedelic mural on the Apple Boutique in Baker Street? | The Fool | The Provos | De Stijl | Hapshash | The Fool; Apple Boutique
+4 | band-members | Which Beatle had his Mini car painted in psychedelic colours by The Fool? | George Harrison | Ringo Starr | Paul McCartney | John Lennon | The Fool; George Harrison
+4 | band-members | Which Beatle had a piano painted by the design group The Fool? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | The Fool; John Lennon
+4 | people | On which Mediterranean island were the designers of The Fool discovered in 1966? | Ibiza | Crete | Malta | Sicily | The Fool
+4 | people | Prudence Farrow is the daughter of which Hollywood actress, famous as Jane in the Tarzan films? | Maureen O'Sullivan | Vivien Leigh | Olivia de Havilland | Fay Wray | Prudence Farrow
+4 | people | In which year did Al Aronowitz, the journalist who introduced Dylan to The Beatles, die? | 2005 | 1970 | 1985 | 2015 | Al Aronowitz
+4 | people | By what flattering nickname was Decca's Dick Rowe known in the record business? | The man with the golden ear | The hitmaker | Mr. Music | The talent spotter | Dick Rowe
+4 | people | After missing out on The Beatles, which band did Dick Rowe sign to Decca on George Harrison's recommendation? | The Rolling Stones | The Who | The Kinks | The Yardbirds | Dick Rowe; The Rolling Stones
+4 | people | Which impresario auditioned the Silver Beetles in 1960 as a backing group for his singers? | Larry Parnes | Brian Epstein | Don Arden | Joe Meek | Larry Parnes; Silver Beetles
+4 | people | Which of Larry Parnes's singers did the Silver Beetles hope to back at their 1960 audition? | Billy Fury | Marty Wilde | Tommy Steele | Vince Eager | Larry Parnes; Billy Fury
+4 | people | In which year did the journalist Maureen Cleave die? | 2021 | 1970 | 1990 | 2005 | Maureen Cleave
+5 | people | For which London newspaper did Maureen Cleave interview each of The Beatles in 1966? | Evening Standard | Daily Express | The Observer | The Sunday Times | Maureen Cleave
+4 | people | Alan Parsons, who engineered on Abbey Road, also engineered which Pink Floyd album? | The Dark Side of the Moon | The Wall | Wish You Were Here | Meddle | Alan Parsons
+4 | people | Which Parlophone producer supervised The Beatles' first EMI session on 6 June 1962 before calling in George Martin? | Ron Richards | Norrie Paramor | John Burgess | Walter Ridley | Ron Richards
+4 | people | Ron Richards, who worked on The Beatles' first sessions, is best known for discovering which Manchester group? | The Hollies | Herman's Hermits | Freddie and the Dreamers | The Mindbenders | Ron Richards; The Hollies
+4 | people | In which year did Beatles associate and Apple promotions man Tony Bramwell die? | 2024 | 1990 | 2005 | 2015 | Tony Bramwell
+3 | in-the-studio | On which date did The Beatles have their first recording session at EMI Studios? | 6 June 1962 | 1 January 1962 | 4 September 1962 | 11 February 1963 | EMI; First session
+4 | in-the-studio | When George Martin asked the Beatles if there was anything they didn't like at their first session, who said "I don't like your tie"? | George Harrison | John Lennon | Paul McCartney | Pete Best | George Martin; George Harrison
+3 | people | How many times was Paul McCartney married? | Three | One | Two | Four | Paul McCartney
+3 | people | How many times was John Lennon married? | Twice | Once | Three times | Four times | John Lennon
+3 | people | How many times was George Harrison married? | Twice | Once | Three times | Never | George Harrison
+3 | people | How many times has Ringo Starr been married? | Twice | Once | Three times | Four times | Ringo Starr
+3 | band-members | Which Beatle was left-handed and played a left-handed bass? | Paul McCartney | John Lennon | George Harrison | None of them | Paul McCartney
+3 | band-members | Which Beatle, though he played a right-handed kit, is naturally left-handed? | Ringo Starr | John Lennon | George Harrison | Paul McCartney | Ringo Starr
+2 | band-members | Which Beatle was the shortest of the four? | Ringo Starr | John Lennon | Paul McCartney | George Harrison | Ringo Starr
+2 | band-members | Which Beatle wore round "granny" glasses from 1966 onwards? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | John Lennon
+2 | band-members | Which Beatle is famous for wearing lots of rings on his fingers? | Ringo Starr | John Lennon | Paul McCartney | George Harrison | Ringo Starr
+2 | band-members | Which Beatle's songwriting was usually limited to one or two songs per album? | George Harrison | John Lennon | Paul McCartney | Brian Epstein | George Harrison
+2 | band-members | Which two Beatles were still alive in 2020? | Paul McCartney and Ringo Starr | John Lennon and Paul McCartney | George Harrison and Ringo Starr | Paul McCartney and George Harrison | The Beatles
+1 | band-members | Which of these was NOT a member of The Beatles? | Mick Jagger | John Lennon | George Harrison | Ringo Starr | The Beatles
+1 | band-members | Which of these four were The Beatles? | John, Paul, George and Ringo | Mick, Keith, Brian and Charlie | Roger, Pete, John and Keith | Ray, Dave, Pete and Mick | The Beatles

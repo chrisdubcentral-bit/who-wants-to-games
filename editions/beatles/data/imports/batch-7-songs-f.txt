@@ -1,0 +1,98 @@
+# Beatles songs, part F (My Bonnie to She's Leaving Home). Source: Wikipedia song articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+4 | early-years | "My Bonnie", generally regarded as the first single to feature The Beatles, was made with which singer? | Tony Sheridan | Rory Storm | Johnny Gentle | Gene Vincent | My Bonnie; Tony Sheridan
+3 | albums | "Nowhere Man" appears on which British album? | Rubber Soul | Revolver | Help! | Beatles for Sale | Nowhere Man; Rubber Soul
+3 | songs | Who wrote "Nowhere Man"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Nowhere Man; John Lennon
+4 | singles | What position did the "Nowhere Man" single reach on the US Billboard Hot 100 in 1966? | Number 3 | Number 1 | Number 10 | Number 25 | Nowhere Man
+4 | songs | "Money (That's What I Want)", covered on With the Beatles, was the first hit for which record company? | Motown | Stax | Atlantic | Chess | Money (That's What I Want); Motown
+4 | songs | Who made the original 1959 recording of "Money (That's What I Want)"? | Barrett Strong | Marvin Gaye | Smokey Robinson | Jackie Wilson | Money (That's What I Want)
+2 | albums | "Ob-La-Di, Ob-La-Da" is on which album? | The White Album | Abbey Road | Yellow Submarine | Magical Mystery Tour | Ob-La-Di, Ob-La-Da; White Album
+2 | songs | Who wrote "Ob-La-Di, Ob-La-Da"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Ob-La-Di, Ob-La-Da; Paul McCartney
+4 | songs | "Ob-La-Di, Ob-La-Da" was written in imitation of which Jamaican style? | Ska | Calypso | Dub | Mento | Ob-La-Di, Ob-La-Da
+5 | singles | What position did "Ob-La-Di, Ob-La-Da" reach on the US chart when it was finally a single in 1976? | Number 49 | Number 1 | Number 9 | Number 99 | Ob-La-Di, Ob-La-Da
+3 | albums | "Oh! Darling" is on which album? | Abbey Road | Let It Be | The White Album | Revolver | Oh! Darling; Abbey Road
+3 | songs | Who wrote and sang "Oh! Darling"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Oh! Darling; Paul McCartney
+2 | songs | Who wrote and sang "Octopus's Garden"? | Ringo Starr | George Harrison | Paul McCartney | John Lennon | Octopus's Garden; Ringo Starr
+2 | albums | "Octopus's Garden" appears on which album? | Abbey Road | The White Album | Yellow Submarine | Let It Be | Octopus's Garden; Abbey Road
+4 | songs | Which was the last Beatles song to be released with Ringo Starr on lead vocals? | Octopus's Garden | Good Night | Don't Pass Me By | Yellow Submarine | Octopus's Garden; Ringo Starr
+4 | band-members | Under which name is Ringo Starr credited as the writer of "Octopus's Garden"? | Richard Starkey | Ringo Starr | R. Starr | Richie Parkin | Octopus's Garden; Ringo Starr
+4 | songs | Who wrote "Mother Nature's Son"? | Paul McCartney | John Lennon | George Harrison | Donovan | Mother Nature's Son; Paul McCartney
+5 | solo-years | The tune of John Lennon's unreleased Beatles-era song "Child of Nature" was reused for which solo song? | Jealous Guy | Imagine | Oh My Love | Mind Games | Child of Nature; Jealous Guy
+4 | albums | "The Night Before" is on which album? | Help! | Rubber Soul | A Hard Day's Night | Beatles for Sale | The Night Before; Help!
+5 | in-the-studio | "The Night Before" was the first Beatles song to feature which instrument? | Electric piano | Sitar | Mellotron | Harpsichord | The Night Before
+3 | albums | "No Reply" opens which British album? | Beatles for Sale | Help! | A Hard Day's Night | Rubber Soul | No Reply; Beatles for Sale
+5 | people | To which Brian Epstein artist did John Lennon first offer "No Reply"? | Tommy Quickly | Billy J. Kramer | Cilla Black | Gerry Marsden | No Reply; Tommy Quickly
+4 | albums | The Beatles' cover of "Mr. Moonlight" is on which British album? | Beatles for Sale | With the Beatles | Please Please Me | Help! | Mr. Moonlight; Beatles for Sale
+4 | albums | "Not a Second Time" is on which British album? | With the Beatles | Please Please Me | A Hard Day's Night | Beatles for Sale | Not a Second Time; With the Beatles
+4 | albums | "Misery" appears on which album? | Please Please Me | With the Beatles | A Hard Day's Night | Beatles for Sale | Misery; Please Please Me
+5 | people | Whose 1963 single of "Misery" made it the first Beatles song covered by another artist? | Kenny Lynch | Helen Shapiro | Billy Fury | Marty Wilde | Misery; Kenny Lynch
+4 | singles | George Harrison's "Old Brown Shoe" was the B-side of which single? | The Ballad of John and Yoko | Get Back | Let It Be | Something | Old Brown Shoe; The Ballad of John and Yoko
+4 | songs | Who wrote "Old Brown Shoe"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Old Brown Shoe; George Harrison
+5 | solo-years | Which song, recorded but not used for the White Album, did George Harrison release on his 1979 album George Harrison? | Not Guilty | Circles | Sour Milk Sea | All Things Must Pass | Not Guilty; George Harrison
+2 | singles | Which 2023 release was promoted as "the last Beatles song"? | Now and Then | Free as a Bird | Real Love | Carnival of Light | Now and Then
+3 | singles | On which date was "Now and Then" released? | 2 November 2023 | 25 December 2021 | 8 December 2020 | 26 September 2019 | Now and Then
+3 | singles | "Now and Then" was paired on a double A-side single with a new mix of which song? | Love Me Do | Hey Jude | Let It Be | Yesterday | Now and Then; Love Me Do
+4 | songs | Around which year did John Lennon record the home demo of "Now and Then"? | 1977 | 1970 | 1973 | 1980 | Now and Then; John Lennon
+4 | albums | "Now and Then" was added to the 2023 expanded edition of which compilation? | 1967-1970 | 1962-1966 | 1 | Past Masters | Now and Then; 1967-1970
+1 | places | In which city is the real Penny Lane? | Liverpool | London | Manchester | Hamburg | Penny Lane; Liverpool
+2 | singles | In which year was the "Penny Lane" / "Strawberry Fields Forever" single released? | 1967 | 1965 | 1966 | 1968 | Penny Lane; Strawberry Fields Forever
+2 | songs | Who was the main writer of "Penny Lane"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Penny Lane; Paul McCartney
+4 | albums | "Penny Lane" was first intended for which album before it was issued as a single? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Magical Mystery Tour | The White Album | Penny Lane; Sgt. Pepper
+3 | songs | How many versions of "Revolution" did The Beatles release in 1968, counting "Revolution 9"? | Three | One | Two | Five | Revolution
+3 | singles | The fast version of "Revolution" was the B-side of which single? | Hey Jude | Lady Madonna | Get Back | Hello, Goodbye | Revolution; Hey Jude
+3 | albums | Which slow version of "Revolution" appears on the White Album? | Revolution 1 | Revolution 2 | Revolution Blues | Revolution Reprise | Revolution 1; White Album
+2 | songs | Who was the main writer of "Paperback Writer"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Paperback Writer; Paul McCartney
+3 | singles | What was the B-side of "Paperback Writer"? | Rain | I'm Down | Yes It Is | She's a Woman | Paperback Writer; Rain
+3 | singles | In which year was "Paperback Writer" released? | 1966 | 1964 | 1965 | 1967 | Paperback Writer
+5 | singles | Which Frank Sinatra hit interrupted the run of "Paperback Writer" at the top of the US chart? | Strangers in the Night | My Way | Somethin' Stupid | That's Life | Paperback Writer; Frank Sinatra
+4 | live | Which was the newest song The Beatles played on their final tour in 1966? | Paperback Writer | Rain | Eleanor Rigby | Yellow Submarine | Paperback Writer; 1966 tour
+4 | albums | On which 1966 compilation album did "Paperback Writer" first appear on an LP? | A Collection of Beatles Oldies | Yesterday and Today | Hey Jude | Rarities | Paperback Writer; A Collection of Beatles Oldies
+4 | songs | What did John Lennon say the song "Rain" was about? | People moaning about the weather | A flood in Liverpool | A holiday in Wales | A cancelled concert | Rain; John Lennon
+4 | in-the-studio | "Paperback Writer" and "Rain" were recorded during sessions for which album? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Help! | Rain; Revolver
+3 | singles | In which year was "Real Love" released as a Beatles single? | 1996 | 1988 | 1994 | 2000 | Real Love
+4 | singles | What was the highest UK chart position of the Beatles' "Real Love"? | Number 4 | Number 1 | Number 2 | Number 11 | Real Love
+5 | films-tv | A John Lennon demo of "Real Love" was first released in 1988 on the soundtrack of which documentary? | Imagine: John Lennon | The Compleat Beatles | The Beatles Anthology | Lennon NYC | Real Love; Imagine: John Lennon
+3 | albums | The sound collage "Revolution 9" appears on which album? | The White Album | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Yellow Submarine | Revolution 9; White Album
+4 | in-the-studio | Who helped John Lennon create "Revolution 9" along with Yoko Ono? | George Harrison | Paul McCartney | Ringo Starr | Billy Preston | Revolution 9
+5 | in-the-studio | Which avant-garde composer is cited as an influence on "Revolution 9"? | Karlheinz Stockhausen | Benjamin Britten | Leonard Bernstein | Igor Stravinsky | Revolution 9; Stockhausen
+4 | songs | Who wrote "Polythene Pam"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Polythene Pam; John Lennon
+5 | songs | Which Sunday newspaper is mentioned in "Polythene Pam"? | News of the World | The Observer | The People | Sunday Mirror | Polythene Pam
+4 | songs | Who wrote "Rock and Roll Music", covered on Beatles for Sale? | Chuck Berry | Little Richard | Carl Perkins | Buddy Holly | Rock and Roll Music; Chuck Berry
+2 | singles | Which song was The Beatles' second British single? | Please Please Me | From Me to You | She Loves You | Love Me Do | Please Please Me
+3 | singles | On which date was the "Please Please Me" single released in the UK? | 11 January 1963 | 5 October 1962 | 22 March 1963 | 12 April 1963 | Please Please Me
+4 | singles | Which chart placed "Please Please Me" only at number two, keeping it off the later 1 compilation? | Record Retailer | New Musical Express | Melody Maker | Disc | Please Please Me; Record Retailer
+4 | singles | Which song was The Beatles' first single released in the United States? | Please Please Me | Love Me Do | I Want to Hold Your Hand | From Me to You | Please Please Me
+4 | songs | Who wrote "Please Please Me"? | John Lennon | Paul McCartney | George Harrison | George Martin | Please Please Me; John Lennon
+4 | albums | The version of "One After 909" on Let It Be was recorded where? | On the Apple rooftop | At Twickenham Film Studios | At EMI Studios | At the Cavern Club | One After 909; Rooftop concert
+4 | songs | Which Let It Be song was one of the earliest Lennon-McCartney compositions, written by 1960? | One After 909 | Two of Us | Dig a Pony | I've Got a Feeling | One After 909
+3 | songs | Who wrote "Piggies"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Piggies; George Harrison
+4 | in-the-studio | Which baroque keyboard instrument features on "Piggies"? | Harpsichord | Clavichord | Church organ | Celesta | Piggies
+5 | people | Who played the harpsichord on "Piggies" and largely produced the track? | Chris Thomas | George Martin | Nicky Hopkins | Billy Preston | Piggies; Chris Thomas
+3 | albums | "Rocky Raccoon" is on which album? | The White Album | Abbey Road | Let It Be | Rubber Soul | Rocky Raccoon; White Album
+3 | songs | Who wrote and sang "Rocky Raccoon"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Rocky Raccoon; Paul McCartney
+4 | songs | Which Motown girl group first recorded "Please Mr. Postman"? | The Marvelettes | The Supremes | Martha and the Vandellas | The Shirelles | Please Mr. Postman; The Marvelettes
+4 | albums | The Beatles' version of "Please Mr. Postman" is on which album? | With the Beatles | Please Please Me | Beatles for Sale | A Hard Day's Night | Please Mr. Postman; With the Beatles
+4 | songs | Who was the main writer of "P.S. I Love You"? | Paul McCartney | John Lennon | George Harrison | Brian Epstein | P.S. I Love You; Paul McCartney
+5 | people | Who produced the recording of "P.S. I Love You"? | Ron Richards | George Martin | Norman Smith | Joe Meek | P.S. I Love You; Ron Richards
+4 | songs | Who wrote "Only a Northern Song"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Only a Northern Song; George Harrison
+4 | albums | "Only a Northern Song" was recorded during the Sgt. Pepper sessions but released on which album? | Yellow Submarine | Magical Mystery Tour | The White Album | Let It Be | Only a Northern Song; Yellow Submarine
+1 | songs | Which Beatles hit has the chorus "yeah, yeah, yeah"? | She Loves You | Help! | Yesterday | Let It Be | She Loves You
+3 | singles | On which date was "She Loves You" released in the UK? | 23 August 1963 | 11 January 1963 | 29 November 1963 | 5 October 1962 | She Loves You
+3 | singles | Which song is The Beatles' best-selling single in the UK? | She Loves You | Hey Jude | I Want to Hold Your Hand | Can't Buy Me Love | She Loves You
+4 | records | On which date did The Beatles hold all top five places on the US Billboard Hot 100? | 4 April 1964 | 9 February 1964 | 15 August 1965 | 1 June 1967 | Billboard; Top five
+1 | songs | Which Beatle wrote "Something"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Something; George Harrison
+2 | albums | "Something" appears on which album? | Abbey Road | Let It Be | The White Album | Revolver | Something; Abbey Road
+3 | singles | Which song was the first George Harrison composition to be a Beatles A-side? | Something | Here Comes the Sun | Taxman | While My Guitar Gently Weeps | Something; George Harrison
+4 | songs | Which Abbey Road song was inspired by fans breaking into Paul McCartney's London home? | She Came In Through the Bathroom Window | Mean Mr. Mustard | Polythene Pam | You Never Give Me Your Money | She Came In Through the Bathroom Window
+5 | people | What name was given to the devoted fans who waited outside the Beatles' offices and studios? | Apple scruffs | Abbey angels | Savile Row girls | The Cavern crowd | Apple scruffs
+4 | albums | Which song follows "Polythene Pam" in the Abbey Road medley? | She Came In Through the Bathroom Window | Golden Slumbers | Sun King | The End | Abbey Road; Medley
+4 | songs | George Harrison's "Savoy Truffle" was inspired by which friend's love of chocolates? | Eric Clapton | Ringo Starr | Derek Taylor | Mal Evans | Savoy Truffle; Eric Clapton
+5 | songs | The lyrics of "Savoy Truffle" list flavours from which brand of chocolates? | Mackintosh's Good News | Cadbury's Milk Tray | Rowntree's Black Magic | Terry's All Gold | Savoy Truffle
+5 | people | George Harrison co-wrote and played on which Cream song, returning Eric Clapton's favour? | Badge | White Room | Crossroads | Sunshine of Your Love | Badge; Cream
+4 | songs | John Lennon wrote "Sexy Sadie" about his disillusionment with whom? | Maharishi Mahesh Yogi | Brian Epstein | Allen Klein | Magic Alex | Sexy Sadie; Maharishi
+3 | albums | "Sexy Sadie" is on which album? | The White Album | Abbey Road | Revolver | Magical Mystery Tour | Sexy Sadie; White Album
+2 | albums | Which song follows the opening title track on Sgt. Pepper's Lonely Hearts Club Band? | With a Little Help from My Friends | Lucy in the Sky with Diamonds | Getting Better | A Day in the Life | Sgt. Pepper; With a Little Help from My Friends
+2 | songs | Who wrote the song "Sgt. Pepper's Lonely Hearts Club Band"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Sgt. Pepper; Paul McCartney
+3 | albums | "She's Leaving Home" is on which album? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Rubber Soul | The White Album | She's Leaving Home; Sgt. Pepper
+5 | people | Who arranged the strings on "She's Leaving Home" when George Martin was unavailable? | Mike Leander | John Barry | Tony Hatch | Paul Buckmaster | She's Leaving Home; Mike Leander
+4 | in-the-studio | Which two Beatles do not appear at all on "She's Leaving Home"? | George Harrison and Ringo Starr | John Lennon and Ringo Starr | John Lennon and George Harrison | Paul McCartney and Ringo Starr | She's Leaving Home

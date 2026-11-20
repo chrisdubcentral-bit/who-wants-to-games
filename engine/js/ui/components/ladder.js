@@ -2,7 +2,7 @@
 
 import { esc } from '../dom.js';
 import { STATUS } from '../../game/game-engine.js';
-import { t } from '../../core/edition.js';
+import { t, seasonName } from '../../core/edition.js';
 
 function rungState(state, i) {
   const { stageIndex, status, lastCorrect } = state;
@@ -40,7 +40,7 @@ export function ladderHtml(state) {
   const season = state.season ?? 1;
   return `
     <div class="ladder-head">
-      <span class="eyebrow">${season > 1 ? `Season ${season} · ` : ''}${esc(t('quiz.ladder'))}</span>
+      <span class="eyebrow">${season > 1 ? `${seasonName()} ${season} · ` : ''}${esc(t('quiz.ladder'))}</span>
     </div>
     <ol class="ladder-list" reversed>${items}</ol>`;
 }

@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#000000">
+  <!-- Saved stats and Top 100 for this edition are kept under this prefix. Each edition needs its own. -->
+  <meta name="storage-prefix" content="wwtbbte:v1:">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Beatles Quiz">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="assets/img/icon-180.png">
+  <title>Who Wants To Play Shea Stadium · Beatles Edition</title>
+  <meta name="description" content="Take The Beatles from Hamburg to Shea Stadium in this music knowledge quiz.">
+  <!-- Link preview on Facebook, WhatsApp, X, iMessage... No picture yet: when there is one, save it as
+       assets/img/share-preview.png (1200 x 630) and copy the three og:image tags from the Celtic edition's index.html. -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Who Wants To Play Shea Stadium">
+  <meta property="og:title" content="Who Wants To Play Shea Stadium · Beatles Edition">
+  <meta property="og:description" content="Eight venues. One wrong answer and it's over. Can you make the Top 40?">
+  <meta property="og:locale" content="en_GB">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800;900&display=swap">
+  <link rel="stylesheet" href="theme.css">
+  <link rel="stylesheet" href="../../engine/css/base.css">
+  <link rel="stylesheet" href="../../engine/css/components.css">
+  <link rel="stylesheet" href="../../engine/css/animations.css">
+  <link rel="stylesheet" href="../../engine/css/game.css">
+  <link rel="stylesheet" href="../../engine/css/chrome.css">
+  <link rel="stylesheet" href="edition.css">
+</head>
+<body>
+
+  <main id="app" class="container" tabindex="-1">
+    <p class="muted" style="text-align:center;padding:64px 0">Tuning up…</p>
+  </main>
+
+  <div id="live" class="sr-only" aria-live="assertive"></div>
+  <noscript><p style="text-align:center;color:#C8D0CA">This game needs JavaScript turned on.</p></noscript>
+  <script>
+    // Opened by double-clicking: browsers won't run the game's modules from a file, so explain what to do.
+    if (location.protocol === 'file:') {
+      document.getElementById('app').innerHTML =
+        '<section class="card notice"><span class="eyebrow">Show delayed</span>' +
+        '<h1>Open this through Live Server</h1>' +
+        '<p>This page was opened straight from a file, so the browser won\'t load the game.</p>' +
+        '<p>In VS Code, right-click <code>index.html</code> and choose <strong>Open with Live Server</strong>.</p></section>';
+    }
+  </script>
+  <script type="module" src="../../engine/js/game/main.js"></script>
+</body>
+</html>

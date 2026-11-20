@@ -23,7 +23,7 @@ const PORT = Number(process.env.PORT) || 8888;
 const TYPES = {
   '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.mjs': 'text/javascript; charset=utf-8',
   '.css': 'text/css; charset=utf-8', '.json': 'application/json; charset=utf-8', '.svg': 'image/svg+xml',
-  '.png': 'image/png', '.jpg': 'image/jpeg', '.webmanifest': 'application/manifest+json', '.mp4': 'video/mp4',
+  '.png': 'image/png', '.jpg': 'image/jpeg', '.webp': 'image/webp', '.webmanifest': 'application/manifest+json', '.mp4': 'video/mp4',
   '.webm': 'video/webm', '.mp3': 'audio/mpeg', '.wav': 'audio/wav', '.ico': 'image/x-icon',
 };
 
@@ -89,12 +89,19 @@ async function file(res, url) {
   }
 }
 
+/** /celtic → /editions/celtic/, like the _redirects file the build writes for the hosted site. */
+function shortLink(url) {
+  const id = url.pathname.match(/^\/([a-z0-9-]+)\/?$/i)?.[1];
+  return id && EDITIONS[id] ? `/editions/${id}/${url.search}` : null;
+}
+
 createServer(async (req, res) => {
   const url = new URL(req.url, `http://localhost:${PORT}`);
   try {
     if (url.pathname.startsWith('/api/top100')) await api(req, res, url);
     else if (url.pathname.startsWith('/api/stats')) await statsApi(req, res, url);
     else if (url.pathname === '/') { res.writeHead(302, { location: '/editions/celtic/index.html' }).end(); }
+    else if (shortLink(url)) { res.writeHead(302, { location: shortLink(url) }).end(); }
     else await file(res, url);
   } catch (err) {
     console.error(err);
@@ -102,6 +109,7 @@ createServer(async (req, res) => {
   }
 }).listen(PORT, () => {
   console.log(`Game:  http://localhost:${PORT}/editions/celtic/index.html`);
+  console.log(`       http://localhost:${PORT}/editions/beatles/index.html`);
   console.log(`Admin: http://localhost:${PORT}/admin/top100.html  (key: dev)`);
   console.log(`Stats: http://localhost:${PORT}/admin/stats.html  (key: dev)`);
   console.log('The Top 100 is kept in memory and starts empty each time.');

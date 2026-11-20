@@ -1,0 +1,1570 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"Blue Jay Way\"?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Blue Jay Way",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "\"Blue Jay Way\" is named after a street in which city?",
+    "options": [
+      "Los Angeles",
+      "San Francisco",
+      "New York",
+      "London"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Blue Jay Way"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "In \"Blue Jay Way\", which Beatles press officer was George Harrison waiting for as he got lost in the fog?",
+    "options": [
+      "Peter Brown",
+      "Neil Aspinall",
+      "Tony Barrow",
+      "Derek Taylor"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Blue Jay Way",
+      "Derek Taylor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Blue Jay Way\" was released on which 1967 Beatles project?",
+    "options": [
+      "Revolver",
+      "Yellow Submarine",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Blue Jay Way",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On which British album does \"Baby's in Black\" appear?",
+    "options": [
+      "A Hard Day's Night",
+      "Help!",
+      "Beatles for Sale",
+      "With the Beatles"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Baby's in Black",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On which American album was \"Baby's in Black\" released in 1964?",
+    "options": [
+      "Beatles '65",
+      "Something New",
+      "Beatles VI",
+      "Meet the Beatles!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Baby's in Black",
+      "Beatles '65"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which American R&B singer wrote and first recorded \"Bad Boy\" and \"Dizzy, Miss Lizzy\"?",
+    "options": [
+      "Fats Domino",
+      "Chuck Berry",
+      "Little Richard",
+      "Larry Williams"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Larry Williams",
+      "Covers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Which 1982 single stitched together snippets of songs from the Beatles' films?",
+    "options": [
+      "The Beatles' Movie Medley",
+      "Beatles Cinema Mix",
+      "Reel Music Megamix",
+      "Stars on 45"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles' Movie Medley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "What position did \"The Beatles' Movie Medley\" reach in the UK chart in 1982?",
+    "options": [
+      "Number 25",
+      "Number 10",
+      "Number 1",
+      "Number 3"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Beatles' Movie Medley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which Beatle sings lead on \"Boys\" on the Please Please Me album?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Boys",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"Boys\" was originally the B-side of which Shirelles hit?",
+    "options": [
+      "Soldier Boy",
+      "Will You Love Me Tomorrow",
+      "Baby It's You",
+      "Mama Said"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Boys",
+      "The Shirelles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "For which singer did John Lennon write \"Bad to Me\", a 1963 hit?",
+    "options": [
+      "Tommy Quickly",
+      "Cilla Black",
+      "Billy J. Kramer",
+      "Gerry Marsden"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Bad to Me",
+      "Billy J. Kramer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Peter and Gordon hit was the first Lennon-McCartney song to reach the US Top 40 by an act other than The Beatles?",
+    "options": [
+      "A World Without Love",
+      "Nobody I Know",
+      "I Don't Want to See You Again",
+      "Woman"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A World Without Love",
+      "Peter and Gordon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"Get Back\" was first released as a single in which year?",
+    "options": [
+      "1970",
+      "1968",
+      "1967",
+      "1969"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who wrote \"Get Back\"?",
+    "options": [
+      "John Lennon",
+      "Billy Preston",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Get Back",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which Beatle, unusually, plays lead guitar on \"Get Back\"?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Get Back",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Get Back\" is the closing track of which album?",
+    "options": [
+      "Let It Be",
+      "The White Album",
+      "Abbey Road",
+      "Yellow Submarine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Get Back",
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"A Day in the Life\" is the final track on which album?",
+    "options": [
+      "The White Album",
+      "Abbey Road",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Revolver"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Day in the Life",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "The death of which Guinness heir helped inspire John Lennon's lyrics for \"A Day in the Life\"?",
+    "options": [
+      "Jonathan Guinness",
+      "Garech Browne",
+      "Desmond Guinness",
+      "Tara Browne"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Day in the Life",
+      "Tara Browne"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote the middle section of \"A Day in the Life\", about waking up and catching the bus?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison",
+      "George Martin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Day in the Life",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Where did John Lennon find most of his ideas for the verses of \"A Day in the Life\"?",
+    "options": [
+      "Newspaper stories",
+      "A child's drawing",
+      "A circus poster",
+      "A television advert"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Day in the Life"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"Come Together\" was a double A-side single with which other Abbey Road song?",
+    "options": [
+      "Here Comes the Sun",
+      "Because",
+      "Something",
+      "Oh! Darling"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Come Together",
+      "Something"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"Come Together\"?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Come Together",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What was the highest UK chart position of the \"Something\" / \"Come Together\" single?",
+    "options": [
+      "Number 10",
+      "Number 2",
+      "Number 4",
+      "Number 1"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Come Together",
+      "Something"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "Which American rock band had a hit with a cover of \"Come Together\" in 1978?",
+    "options": [
+      "Aerosmith",
+      "Boston",
+      "Kiss",
+      "Cheap Trick"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Come Together",
+      "Aerosmith"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "\"Day Tripper\" shared a double A-side single with which song?",
+    "options": [
+      "Nowhere Man",
+      "Paperback Writer",
+      "We Can Work It Out",
+      "Ticket to Ride"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Day Tripper",
+      "We Can Work It Out"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "In which month and year was the \"Day Tripper\" / \"We Can Work It Out\" single released?",
+    "options": [
+      "June 1966",
+      "December 1965",
+      "June 1965",
+      "December 1964"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Day Tripper",
+      "We Can Work It Out"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What position did \"Day Tripper\" reach on the US Billboard Hot 100?",
+    "options": [
+      "Number 1",
+      "Number 2",
+      "Number 12",
+      "Number 5"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Day Tripper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "\"Day Tripper\" and \"We Can Work It Out\" were recorded during the sessions for which album?",
+    "options": [
+      "Beatles for Sale",
+      "Revolver",
+      "Help!",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Day Tripper",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Dig a Pony\" is on which Beatles album?",
+    "options": [
+      "The White Album",
+      "Yellow Submarine",
+      "Let It Be",
+      "Abbey Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dig a Pony",
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "The album version of \"Dig a Pony\" was recorded at which event?",
+    "options": [
+      "The rooftop concert",
+      "The Hollywood Bowl concerts",
+      "The Shea Stadium concert",
+      "The Our World broadcast"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Dig a Pony",
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "\"Dear Prudence\" was written about the sister of which Hollywood actress?",
+    "options": [
+      "Mia Farrow",
+      "Jane Fonda",
+      "Julie Christie",
+      "Faye Dunaway"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Dear Prudence",
+      "Prudence Farrow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "In which Indian town did John Lennon write \"Dear Prudence\"?",
+    "options": [
+      "Rishikesh",
+      "Jaipur",
+      "Varanasi",
+      "Darjeeling"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Dear Prudence",
+      "Rishikesh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which singer-songwriter taught John Lennon the finger-picking guitar style he used on \"Dear Prudence\"?",
+    "options": [
+      "Bob Dylan",
+      "Donovan",
+      "Paul Simon",
+      "Bert Jansch"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Dear Prudence",
+      "Donovan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "At which London studio did The Beatles record \"Dear Prudence\"?",
+    "options": [
+      "Trident Studios",
+      "Apple Studio",
+      "Olympic Sound Studios",
+      "EMI Studios"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Dear Prudence",
+      "Trident Studios"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"The Continuing Story of Bungalow Bill\" appears on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "The White Album",
+      "Yellow Submarine",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bungalow Bill",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"The Continuing Story of Bungalow Bill\" was written about a man who left a meditation course to hunt which animals?",
+    "options": [
+      "Tigers",
+      "Elephants",
+      "Bears",
+      "Lions"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Bungalow Bill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who engineered the recording of \"The Continuing Story of Bungalow Bill\"?",
+    "options": [
+      "Ken Scott",
+      "Norman Smith",
+      "Glyn Johns",
+      "Geoff Emerick"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Bungalow Bill",
+      "Ken Scott"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Cry Baby Cry\" appears on which Beatles album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Let It Be",
+      "The White Album",
+      "Revolver"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cry Baby Cry",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "The short \"Can You Take Me Back\" fragment follows which song on the White Album?",
+    "options": [
+      "Good Night",
+      "Revolution 9",
+      "Cry Baby Cry",
+      "Julia"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cry Baby Cry",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Doctor Robert\" appears on which British Beatles album?",
+    "options": [
+      "Help!",
+      "Revolver",
+      "Rubber Soul",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Doctor Robert",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which song did The Beatles record for With the Beatles after changing \"His\" to \"Her\" in the title?",
+    "options": [
+      "Please Mister Postman",
+      "You Really Got a Hold on Me",
+      "Devil in Her Heart",
+      "Till There Was You"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Devil in Her Heart",
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which songwriting couple wrote \"Chains\", covered by The Beatles on their first album?",
+    "options": [
+      "Barry Mann and Cynthia Weil",
+      "Jerry Leiber and Mike Stoller",
+      "Jeff Barry and Ellie Greenwich",
+      "Gerry Goffin and Carole King"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Chains",
+      "Goffin and King"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which American girl group had the original hit with \"Chains\" in 1962?",
+    "options": [
+      "The Marvelettes",
+      "The Chiffons",
+      "The Cookies",
+      "The Shirelles"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Chains",
+      "The Cookies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who sings lead on \"Do You Want to Know a Secret\"?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Do You Want to Know a Secret",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who released \"Do You Want to Know a Secret\" as his debut single in April 1963?",
+    "options": [
+      "Gerry Marsden",
+      "Billy J. Kramer",
+      "Adam Faith",
+      "Cliff Richard"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Do You Want to Know a Secret",
+      "Billy J. Kramer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What position did the Beatles' \"Do You Want to Know a Secret\" reach on the US Billboard chart in 1964?",
+    "options": [
+      "Number 1",
+      "Number 2",
+      "Number 15",
+      "Number 9"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Do You Want to Know a Secret"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "Which American label released \"Do You Want to Know a Secret\" as a single in 1964?",
+    "options": [
+      "Capitol",
+      "Vee-Jay",
+      "Tollie",
+      "Swan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Do You Want to Know a Secret",
+      "Vee-Jay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "With which band did John Lennon perform \"Dizzy, Miss Lizzy\" on stage in 1969?",
+    "options": [
+      "The Dirty Mac",
+      "Elephant's Memory",
+      "Plastic Ono Band",
+      "Delaney and Bonnie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dizzy, Miss Lizzy",
+      "Plastic Ono Band"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which two short tracks on Let It Be were left off Let It Be... Naked?",
+    "options": [
+      "For You Blue and I Me Mine",
+      "Dig It and Maggie Mae",
+      "Dig a Pony and One After 909",
+      "Two of Us and Get Back"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be... Naked",
+      "Dig It"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song replaced \"Dig It\" and \"Maggie Mae\" on Let It Be... Naked?",
+    "options": [
+      "You Know My Name",
+      "Don't Let Me Down",
+      "The Ballad of John and Yoko",
+      "Old Brown Shoe"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be... Naked",
+      "Don't Let Me Down"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "How long is \"Maggie Mae\" on the Let It Be album?",
+    "options": [
+      "12 seconds",
+      "1 minute 20 seconds",
+      "39 seconds",
+      "2 minutes 5 seconds"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maggie Mae",
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Paul McCartney wrote \"Come and Get It\" for which Apple band?",
+    "options": [
+      "Badfinger",
+      "Grapefruit",
+      "Hot Chocolate",
+      "The Fourmost"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Come and Get It",
+      "Badfinger"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "\"Come and Get It\" was written for which 1969 film starring Peter Sellers and Ringo Starr?",
+    "options": [
+      "The Magic Christian",
+      "The Party",
+      "Wonderwall",
+      "Candy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Come and Get It",
+      "The Magic Christian"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Under which name did Badfinger record before \"Come and Get It\"?",
+    "options": [
+      "The Merseys",
+      "The Remo Four",
+      "The Undertakers",
+      "The Iveys"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Badfinger",
+      "The Iveys"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"Christmas Time (Is Here Again)\" was first recorded for what?",
+    "options": [
+      "A charity album",
+      "A BBC radio special",
+      "A fan club Christmas record",
+      "The Magical Mystery Tour film"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Christmas Time (Is Here Again)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"Christmas Time (Is Here Again)\" was released in 1995 as the B-side of which single?",
+    "options": [
+      "Free as a Bird",
+      "Baby It's You",
+      "Now and Then",
+      "Real Love"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Christmas Time (Is Here Again)",
+      "Free as a Bird"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which actor from the Beatles' films sings on \"Christmas Time (Is Here Again)\"?",
+    "options": [
+      "Victor Spinetti",
+      "Leo McKern",
+      "Roy Kinnear",
+      "Wilfrid Brambell"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Christmas Time (Is Here Again)",
+      "Victor Spinetti"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "The early instrumental \"Cayenne\" on Anthology 1 is credited to which Beatle alone?",
+    "options": [
+      "John Lennon",
+      "Stuart Sutcliffe",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cayenne",
+      "Anthology 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "According to Paul McCartney, in which room of his family home was \"Cayenne\" recorded in 1960?",
+    "options": [
+      "The bathroom",
+      "The garden shed",
+      "The kitchen",
+      "The front parlour"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cayenne"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which Buddy Holly song did The Beatles play at their failed Decca audition?",
+    "options": [
+      "Oh Boy!",
+      "Peggy Sue",
+      "Rave On",
+      "Crying, Waiting, Hoping"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Crying, Waiting, Hoping",
+      "Buddy Holly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "For which BBC radio series did The Beatles record \"Clarabella\" in July 1963?",
+    "options": [
+      "Pop Go the Beatles",
+      "Saturday Club",
+      "Easy Beat",
+      "Top Gear"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Clarabella",
+      "BBC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which jazz bandleader released Paul McCartney's instrumental \"Cat Call\" as a single in 1967?",
+    "options": [
+      "Kenny Ball",
+      "Acker Bilk",
+      "Humphrey Lyttelton",
+      "Chris Barber"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Cat Call",
+      "Chris Barber"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"For No One\" appears on which Beatles album?",
+    "options": [
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Rubber Soul",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "For No One",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which instrument plays the famous solo on \"For No One\"?",
+    "options": [
+      "Clarinet",
+      "Oboe",
+      "Piccolo trumpet",
+      "French horn"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "For No One"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who played the French horn solo on \"For No One\"?",
+    "options": [
+      "Barry Tuckwell",
+      "Alan Civil",
+      "David Mason",
+      "Dennis Brain"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "For No One",
+      "Alan Civil"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"For No One\"?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "George Martin",
+      "George Harrison"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "For No One",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"I've Got a Feeling\" combines a Paul McCartney song with which unfinished John Lennon song?",
+    "options": [
+      "Child of Nature",
+      "Watching Rainbows",
+      "Everybody Had a Hard Year",
+      "Mean Mr. Mustard"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I've Got a Feeling"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"I've Got a Feeling\" is on which Beatles album?",
+    "options": [
+      "Let It Be",
+      "Abbey Road",
+      "The White Album",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I've Got a Feeling",
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who plays electric piano on \"I've Got a Feeling\"?",
+    "options": [
+      "Nicky Hopkins",
+      "George Martin",
+      "Paul McCartney",
+      "Billy Preston"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I've Got a Feeling",
+      "Billy Preston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "On which 2022 tour did Paul McCartney sing \"I've Got a Feeling\" as a virtual duet with John Lennon?",
+    "options": [
+      "Got Back",
+      "One on One",
+      "Out There",
+      "Freshen Up"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I've Got a Feeling",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Eleanor Rigby\" appears on which Beatles album?",
+    "options": [
+      "Rubber Soul",
+      "Help!",
+      "Revolver",
+      "Abbey Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Eleanor Rigby",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "Which song was on the other side of the \"Eleanor Rigby\" single?",
+    "options": [
+      "Rain",
+      "Penny Lane",
+      "Yellow Submarine",
+      "Paperback Writer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Eleanor Rigby",
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "What kind of backing did George Martin arrange for \"Eleanor Rigby\"?",
+    "options": [
+      "A harpsichord and flute",
+      "A double string quartet",
+      "A full symphony orchestra",
+      "A brass band"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Eleanor Rigby",
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which childhood friend of John Lennon backed Paul McCartney's claim to have written \"Eleanor Rigby\"?",
+    "options": [
+      "Ivan Vaughan",
+      "Pete Shotton",
+      "Len Garry",
+      "Nigel Walley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Eleanor Rigby",
+      "Pete Shotton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "George Harrison wrote \"For You Blue\" as a love song for whom?",
+    "options": [
+      "Jane Asher",
+      "Pattie Boyd",
+      "Olivia Arias",
+      "Maureen Cox"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "For You Blue",
+      "Pattie Boyd"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"For You Blue\" was the B-side of which American number one single?",
+    "options": [
+      "Get Back",
+      "The Long and Winding Road",
+      "Something",
+      "Let It Be"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "For You Blue",
+      "The Long and Winding Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"For You Blue\" on the Let It Be album?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "For You Blue",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "George Harrison's stay with Bob Dylan and which group in Woodstock in late 1968 influenced \"For You Blue\"?",
+    "options": [
+      "Crosby, Stills and Nash",
+      "The Band",
+      "Grateful Dead",
+      "The Byrds"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "For You Blue",
+      "The Band"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,89 @@
+# Beatles people, part A (the four Beatles, family, managers and aides). Source: Wikipedia biographies.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | band-members | Which Beatle was known as "the quiet Beatle"? | George Harrison | Ringo Starr | Paul McCartney | John Lennon | George Harrison
+2 | band-members | On which date was George Harrison born? | 25 February 1943 | 9 October 1940 | 18 June 1942 | 7 July 1940 | George Harrison
+3 | band-members | George Harrison became associated with which religious movement from the late 1960s? | Hare Krishna | Scientology | Zen Buddhism | Quakerism | George Harrison; Hare Krishna
+4 | band-members | Which ukulele-playing entertainer was one of George Harrison's earliest musical influences? | George Formby | Arthur Askey | Tommy Trinder | Max Miller | George Harrison; George Formby
+4 | band-members | George Harrison first came across Indian music on the set of which film? | Help! | A Hard Day's Night | Magical Mystery Tour | Yellow Submarine | George Harrison; Help!
+2 | band-members | Which Beatle was born on 9 October 1940? | John Lennon | Ringo Starr | Paul McCartney | George Harrison | John Lennon
+2 | band-members | What was John Lennon's original middle name? | Winston | Charles | Arthur | James | John Lennon
+3 | band-members | Which name did John Lennon add to his own after marrying in 1969? | Ono | Yoko | Taro | Peace | John Lennon; Yoko Ono
+1 | band-members | In which year was John Lennon killed? | 1980 | 1970 | 1975 | 1990 | John Lennon
+3 | band-members | What was the title of John Lennon's first book of nonsense writing and drawings, published in 1964? | In His Own Write | A Spaniard in the Works | Skywriting by Word of Mouth | Grapefruit | John Lennon; In His Own Write
+4 | band-members | What was the title of John Lennon's second book, published in 1965? | A Spaniard in the Works | In His Own Write | The Daily Howl | Real Love | John Lennon; A Spaniard in the Works
+3 | solo-years | What was the name of the band John Lennon formed with Yoko Ono in 1969? | Plastic Ono Band | Wings | Elephant's Memory | The Dirty Mac | John Lennon; Plastic Ono Band
+3 | solo-years | What did John Lennon and Yoko Ono call their 1969 anti-war protests held from a hotel bed? | Bed-ins | Lie-ins | Sleep-outs | Pillow talks | John Lennon; Bed-in
+2 | people | Who is the elder son of John Lennon, born in 1963? | Julian Lennon | Sean Lennon | Dhani Lennon | Zak Lennon | Julian Lennon
+3 | people | Julian Lennon was named after which relative? | His grandmother Julia | His uncle Julius | His father's teacher | His godfather | Julian Lennon; Julia Lennon
+4 | people | On which date was Julian Lennon born? | 8 April 1963 | 9 October 1975 | 23 August 1962 | 1 July 1964 | Julian Lennon
+4 | people | What was the title of Julian Lennon's 1984 debut album? | Valotte | Photograph Smile | Help Yourself | Mr. Jordan | Julian Lennon; Valotte
+4 | people | Which Julian Lennon single was a hit from his debut album? | Too Late for Goodbyes | Saltwater | Stick Around | Day After Day | Julian Lennon
+4 | people | How many Beatles songs is Julian Lennon said to have inspired? | Three | One | Five | Seven | Julian Lennon
+2 | early-years | Between which years was Pete Best The Beatles' drummer? | 1960 to 1962 | 1957 to 1959 | 1962 to 1964 | 1958 to 1960 | Pete Best
+3 | early-years | On which date was Pete Best dismissed from The Beatles? | 16 August 1962 | 1 January 1962 | 5 October 1962 | 9 November 1961 | Pete Best
+3 | people | Who actually told Pete Best that he was being dropped from The Beatles? | Brian Epstein | John Lennon | George Martin | Paul McCartney | Pete Best; Brian Epstein
+4 | people | Pete Best earned a large payout in the 1990s from his drumming on which album? | Anthology 1 | Live at the BBC | Past Masters | 1 | Pete Best; Anthology 1
+4 | people | What career did Pete Best follow for 20 years after leaving the music business? | Civil servant | Taxi driver | Schoolteacher | Policeman | Pete Best
+5 | people | On how many tracks of Anthology 1 does Pete Best play drums? | Ten | Two | Five | Twenty | Pete Best; Anthology 1
+1 | band-members | What is Ringo Starr's real surname? | Starkey | Stark | Sterling | Stanley | Ringo Starr
+2 | band-members | On which date was Ringo Starr born? | 7 July 1940 | 9 October 1940 | 18 June 1942 | 25 February 1943 | Ringo Starr
+3 | band-members | With which Liverpool group was Ringo Starr playing before he joined The Beatles? | Rory Storm and the Hurricanes | Gerry and the Pacemakers | The Searchers | The Big Three | Ringo Starr; Rory Storm
+4 | band-members | What was the name of Ringo Starr's first band, formed in 1957? | The Eddie Clayton Skiffle Group | The Quarrymen | The Raving Texans | The Darktown Skiffle Group | Ringo Starr; Eddie Clayton
+3 | solo-years | Which Ringo Starr solo single was a US top ten hit in 1971? | It Don't Come Easy | Maybe I'm Amazed | My Sweet Lord | Instant Karma! | Ringo Starr; It Don't Come Easy
+3 | solo-years | Which of these was a US number one single for Ringo Starr? | Photograph | Back Off Boogaloo | Wrack My Brain | Oh My My | Ringo Starr; Photograph
+4 | solo-years | Which Ringo Starr single was his biggest UK hit, reaching number two? | Back Off Boogaloo | Photograph | You're Sixteen | It Don't Come Easy | Ringo Starr; Back Off Boogaloo
+2 | people | In which city was Yoko Ono born? | Tokyo | Kyoto | New York | Osaka | Yoko Ono
+3 | people | In which year did John Lennon marry Yoko Ono? | 1969 | 1966 | 1968 | 1971 | Yoko Ono; John Lennon
+3 | solo-years | Which John Lennon and Yoko Ono album was released three weeks before his death? | Double Fantasy | Imagine | Milk and Honey | Walls and Bridges | John Lennon; Double Fantasy
+3 | places | Outside which New York apartment building was John Lennon shot? | The Dakota | The Chelsea | The Plaza | The Ansonia | John Lennon; The Dakota
+4 | people | On which date was Yoko Ono born? | 18 February 1933 | 9 October 1940 | 20 March 1929 | 8 December 1935 | Yoko Ono
+4 | people | With which New York avant-garde art group was Yoko Ono associated in the early 1960s? | Fluxus | The Factory | Dada | The Beats | Yoko Ono; Fluxus
+2 | people | On which date was George Martin born? | 3 January 1926 | 19 September 1934 | 9 October 1940 | 27 May 1935 | George Martin
+3 | people | Which kind of records was George Martin best known for producing before The Beatles? | Comedy records | Opera | Country and western | Brass bands | George Martin
+3 | people | Which comedy star of The Goon Show did George Martin record before working with The Beatles? | Peter Sellers | Tony Hancock | Eric Morecambe | Benny Hill | George Martin; Peter Sellers
+4 | people | What was the name of the production company George Martin formed after leaving EMI in 1965? | AIR | NEMS | MPL | Apple | George Martin; AIR
+4 | people | How many UK number one singles did George Martin produce in his career? | 30 | 12 | 17 | 55 | George Martin
+4 | people | How many Grammy Awards did George Martin win? | Six | One | Twelve | Twenty | George Martin
+3 | people | On which date was Stuart Sutcliffe born? | 23 June 1940 | 24 November 1941 | 9 October 1940 | 10 April 1942 | Stuart Sutcliffe
+3 | people | Besides being a musician, Stuart Sutcliffe was a talented what? | Painter | Footballer | Poet | Actor | Stuart Sutcliffe
+3 | people | At which art school did Stuart Sutcliffe and John Lennon study? | Liverpool College of Art | Slade School of Fine Art | Glasgow School of Art | Central Saint Martins | Stuart Sutcliffe; Liverpool College of Art
+4 | people | Stuart Sutcliffe is credited with helping John Lennon to do what? | Think up the band's name | Write "Love Me Do" | Buy his first guitar | Meet Brian Epstein | Stuart Sutcliffe; The Beatles name
+2 | people | On which date was Brian Epstein born? | 19 September 1934 | 3 January 1926 | 27 August 1937 | 9 November 1931 | Brian Epstein
+2 | people | What kind of family business did Brian Epstein run before managing The Beatles? | A record shop | A tailor's | A newspaper | A cinema | Brian Epstein; NEMS
+3 | people | How old was Brian Epstein when he died? | 32 | 27 | 40 | 51 | Brian Epstein
+3 | people | What change did Brian Epstein insist on in The Beatles' stage appearance? | Smart suits instead of leather | Leather instead of suits | Matching wigs | Military uniforms | Brian Epstein
+3 | people | Which of these acts was also managed by Brian Epstein? | Gerry and the Pacemakers | The Rolling Stones | The Hollies | The Kinks | Brian Epstein; Gerry and the Pacemakers
+4 | people | Which Liverpool trio was managed by Brian Epstein alongside The Beatles? | The Big Three | The Searchers | The Scaffold | The Mojos | Brian Epstein; The Big Three
+3 | people | Who was The Beatles' press officer in 1964 and again at Apple from 1968 to 1970? | Derek Taylor | Tony Barrow | Brian Sommerville | Peter Brown | Derek Taylor
+4 | people | Which California festival of 1967 did former Beatles press officer Derek Taylor help to stage? | Monterey Pop | Woodstock | Altamont | Newport Folk | Derek Taylor; Monterey Pop
+5 | people | Which phrase describing a Beach Boys single is generally credited to Derek Taylor? | Pocket symphony | Wall of sound | Teenage opera | Surf sonata | Derek Taylor
+5 | people | For which film company, co-founded by George Harrison, did Derek Taylor later work? | HandMade Films | Apple Films | Goldcrest | Palace Pictures | Derek Taylor; HandMade Films
+3 | people | Which Beatles road manager and assistant was shot dead by police in Los Angeles in 1976? | Mal Evans | Neil Aspinall | Alistair Taylor | Alf Bicknell | Mal Evans
+4 | people | What was Mal Evans's day job before he worked for The Beatles? | Telephone engineer | Postman | Bus driver | Docker | Mal Evans
+4 | people | Where did Mal Evans work part-time as a bouncer before joining The Beatles? | The Cavern Club | The Casbah | The Jacaranda | The Star-Club | Mal Evans; Cavern Club
+4 | people | Which Badfinger top ten hit did Mal Evans produce? | No Matter What | Come and Get It | Day After Day | Baby Blue | Mal Evans; Badfinger
+3 | people | Neil Aspinall was a school friend of which two Beatles? | Paul McCartney and George Harrison | John Lennon and Ringo Starr | John Lennon and Paul McCartney | George Harrison and Ringo Starr | Neil Aspinall
+4 | people | In which year did Neil Aspinall die? | 2008 | 1997 | 2001 | 2016 | Neil Aspinall
+4 | people | Against which computer company did Neil Aspinall lead Apple Corps in court? | Apple Computer | IBM | Microsoft | Commodore | Neil Aspinall; Apple Computer
+2 | people | Who is the son of John Lennon and Yoko Ono? | Sean Lennon | Julian Lennon | Dhani Lennon | James Lennon | Sean Lennon
+3 | people | Sean Lennon shares his birthday, 9 October, with whom? | His father John Lennon | His mother Yoko Ono | His brother Julian | Paul McCartney | Sean Lennon; John Lennon
+4 | people | In which year was Sean Lennon born? | 1975 | 1969 | 1972 | 1980 | Sean Lennon
+2 | people | What was the maiden name of John Lennon's first wife, Cynthia? | Powell | Boyd | Asher | Eastman | Cynthia Lennon
+3 | people | Where did John Lennon meet his first wife Cynthia? | At art college | At the Cavern Club | In Hamburg | At school | Cynthia Lennon; Liverpool College of Art
+4 | people | In which class at art college did John Lennon and Cynthia Powell meet? | Calligraphy | Life drawing | Sculpture | Pottery | Cynthia Lennon
+4 | places | What was the name of John and Cynthia Lennon's house in Weybridge? | Kenwood | Kinfauns | Sunny Heights | Friar Park | Kenwood; John Lennon
+4 | people | What is the title of Cynthia Lennon's 1978 memoir? | A Twist of Lennon | Loving John | Imagine This | Daddy, Come Home | Cynthia Lennon; A Twist of Lennon
+4 | people | In which year were John and Cynthia Lennon divorced? | 1968 | 1965 | 1970 | 1973 | Cynthia Lennon
+4 | people | Which assistant to Brian Epstein was with him when he first saw The Beatles at the Cavern? | Alistair Taylor | Peter Brown | Tony Barrow | Derek Taylor | Alistair Taylor; Cavern Club
+5 | people | By what nickname was Brian Epstein's assistant Alistair Taylor known among The Beatles' circle? | Mr. Fixit | The Colonel | Uncle Albert | The Nurk | Alistair Taylor
+3 | people | Which other famous band did Allen Klein manage before The Beatles? | The Rolling Stones | The Who | The Kinks | The Animals | Allen Klein; The Rolling Stones
+5 | people | In which year did Allen Klein die? | 2009 | 1985 | 1998 | 2016 | Allen Klein
+4 | people | In which year did Allan Williams, The Beatles' first manager, die? | 2016 | 1980 | 1995 | 2005 | Allan Williams
+4 | people | Which Beatles press officer coined the phrase "the Fab Four"? | Tony Barrow | Derek Taylor | Brian Epstein | Bill Harry | Tony Barrow; Fab Four
+4 | people | Between which years did Tony Barrow work as The Beatles' press officer? | 1962 to 1968 | 1960 to 1962 | 1964 to 1970 | 1968 to 1974 | Tony Barrow
+1 | band-members | Which Beatle was known as "the cute Beatle"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Paul McCartney
+2 | band-members | On which date was Paul McCartney born? | 18 June 1942 | 9 October 1940 | 25 February 1943 | 7 July 1940 | Paul McCartney
+2 | band-members | What is Paul McCartney's first name? | James | Paul | Peter | John | Paul McCartney
+3 | band-members | What did Paul McCartney's father Jim play in his younger days? | Jazz | Skiffle | Classical violin | Brass band cornet | Paul McCartney; Jim McCartney
+3 | band-members | From which album onwards did Paul McCartney gradually become The Beatles' unofficial leader? | Sgt. Pepper's Lonely Hearts Club Band | Help! | Rubber Soul | Abbey Road | Paul McCartney; Sgt. Pepper
+2 | band-members | Which two Beatles have been knighted? | Paul McCartney and Ringo Starr | John Lennon and George Harrison | Paul McCartney and George Harrison | John Lennon and Ringo Starr | Knighthoods

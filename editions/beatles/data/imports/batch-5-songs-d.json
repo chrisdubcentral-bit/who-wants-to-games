@@ -1,0 +1,1733 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who wrote \"I Am the Walrus\"?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Am the Walrus",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "\"I Am the Walrus\" was partly inspired by a poem by which author?",
+    "options": [
+      "Edward Lear",
+      "Lewis Carroll",
+      "Dylan Thomas",
+      "Roald Dahl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Am the Walrus",
+      "Lewis Carroll"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "\"I Am the Walrus\" features in which Beatles television film?",
+    "options": [
+      "Let It Be",
+      "Yellow Submarine",
+      "Magical Mystery Tour",
+      "Help!"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Am the Walrus",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "In Magical Mystery Tour, where do The Beatles mime to \"I Am the Walrus\"?",
+    "options": [
+      "On a seaside pier",
+      "At a deserted airfield",
+      "In a circus tent",
+      "On a London rooftop"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Am the Walrus",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatle wrote \"Hey Jude\"?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hey Jude",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "In which year was \"Hey Jude\" released?",
+    "options": [
+      "1968",
+      "1966",
+      "1967",
+      "1970"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "For how many weeks did \"Hey Jude\" stay at number one on the US Billboard Hot 100?",
+    "options": [
+      "Five",
+      "Nine",
+      "Three",
+      "Fourteen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "In which month of 1968 was \"Hey Jude\" released?",
+    "options": [
+      "August",
+      "January",
+      "December",
+      "May"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Here, There and Everywhere\" appears on which album?",
+    "options": [
+      "Help!",
+      "Revolver",
+      "The White Album",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Here, There and Everywhere",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Beach Boys song inspired Paul McCartney to write \"Here, There and Everywhere\"?",
+    "options": [
+      "Good Vibrations",
+      "California Girls",
+      "God Only Knows",
+      "Wouldn't It Be Nice"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Here, There and Everywhere",
+      "The Beach Boys"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which girlfriend of Paul McCartney inspired the lyrics of \"Here, There and Everywhere\"?",
+    "options": [
+      "Linda Eastman",
+      "Francie Schwartz",
+      "Dot Rhone",
+      "Jane Asher"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Here, There and Everywhere",
+      "Jane Asher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "At whose home did Paul McCartney write \"Here, There and Everywhere\" in June 1966?",
+    "options": [
+      "Brian Epstein's",
+      "John Lennon's",
+      "Jane Asher's parents'",
+      "George Martin's"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Here, There and Everywhere"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"I Me Mine\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Me Mine",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which song was the last new track The Beatles recorded before they broke up?",
+    "options": [
+      "The End",
+      "Let It Be",
+      "I Me Mine",
+      "The Long and Winding Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Me Mine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "At which film studios did The Beatles rehearse in January 1969, where \"I Me Mine\" was first played?",
+    "options": [
+      "Pinewood Studios",
+      "Shepperton Studios",
+      "Twickenham Film Studios",
+      "Elstree Studios"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Me Mine",
+      "Twickenham"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Honey Pie\" is on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "The White Album",
+      "Magical Mystery Tour",
+      "Abbey Road"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honey Pie",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "In which year was \"I Feel Fine\" released?",
+    "options": [
+      "1966",
+      "1964",
+      "1963",
+      "1965"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Feel Fine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "Which Beatles single was the UK Christmas number one of 1964?",
+    "options": [
+      "Ticket to Ride",
+      "Day Tripper",
+      "I Want to Hold Your Hand",
+      "I Feel Fine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Feel Fine",
+      "Christmas number one"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"I Feel Fine\"?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Feel Fine",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"I Feel Fine\" was the A-side of The Beatles' UK single of which number?",
+    "options": [
+      "Their eleventh",
+      "Their eighth",
+      "Their sixth",
+      "Their fourth"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Feel Fine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"I Need You\" on the Help! album was written by which Beatle?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Need You",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "The \"I Need You\" sequence in the film Help! was shot at which English location?",
+    "options": [
+      "The Lake District",
+      "Salisbury Plain",
+      "Dartmoor",
+      "The South Downs"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Need You",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which guitar effect did The Beatles use for the first time on \"I Need You\"?",
+    "options": [
+      "A wah-wah pedal",
+      "A Leslie speaker",
+      "A fuzz box",
+      "A volume pedal"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Need You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "In which year did George Harrison marry Pattie Boyd?",
+    "options": [
+      "1970",
+      "1966",
+      "1968",
+      "1964"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison",
+      "Pattie Boyd"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "solo-years",
+    "difficulty": 5,
+    "question": "Which band played \"I Need You\" at the Concert for George in 2002?",
+    "options": [
+      "Electric Light Orchestra",
+      "Oasis",
+      "Traveling Wilburys",
+      "Tom Petty and the Heartbreakers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Need You",
+      "Concert for George"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"Honey Don't\", sung by Ringo on Beatles for Sale, was written by whom?",
+    "options": [
+      "Larry Williams",
+      "Buddy Holly",
+      "Chuck Berry",
+      "Carl Perkins"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Honey Don't",
+      "Carl Perkins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"Honey Don't\" was originally the B-side of which rock and roll classic?",
+    "options": [
+      "Great Balls of Fire",
+      "Blue Suede Shoes",
+      "Hound Dog",
+      "Rock Around the Clock"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Honey Don't",
+      "Carl Perkins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"I Don't Want to Spoil the Party\" appears on which album?",
+    "options": [
+      "Beatles for Sale",
+      "With the Beatles",
+      "Rubber Soul",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Don't Want to Spoil the Party",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "\"I Don't Want to Spoil the Party\" was the US B-side of which single?",
+    "options": [
+      "Yesterday",
+      "Eight Days a Week",
+      "I Feel Fine",
+      "Ticket to Ride"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Don't Want to Spoil the Party"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Hold Me Tight\" appears on which album?",
+    "options": [
+      "With the Beatles",
+      "Please Please Me",
+      "A Hard Day's Night",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hold Me Tight",
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which song was first attempted at the Please Please Me session but re-recorded for With the Beatles?",
+    "options": [
+      "Not a Second Time",
+      "Hold Me Tight",
+      "All My Loving",
+      "Little Child"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hold Me Tight"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"I Call Your Name\" was released in the UK on which EP?",
+    "options": [
+      "Twist and Shout",
+      "Long Tall Sally",
+      "Magical Mystery Tour",
+      "All My Loving"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Call Your Name",
+      "Long Tall Sally"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which compilation gathers the Beatles' released songs that were not on their UK studio albums?",
+    "options": [
+      "Anthology 1",
+      "Past Masters",
+      "Love",
+      "Rarities"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Past Masters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "In which year was the Past Masters compilation first released?",
+    "options": [
+      "1994",
+      "1982",
+      "1988",
+      "1978"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Past Masters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Hey Bulldog\" comes from which soundtrack album?",
+    "options": [
+      "Yellow Submarine",
+      "Let It Be",
+      "Help!",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hey Bulldog",
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "What was the working title of \"Hey Bulldog\"?",
+    "options": [
+      "Hey Jules",
+      "Hey Buddy",
+      "Bulldog Blues",
+      "Hey Bullfrog"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hey Bulldog"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "The Beatles recorded \"Hey Bulldog\" while they were being filmed for a promo of which single?",
+    "options": [
+      "Hello, Goodbye",
+      "Hey Jude",
+      "Lady Madonna",
+      "Revolution"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hey Bulldog",
+      "Lady Madonna"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which song by Mitch Murray did The Beatles record but decline to release, before it became a hit for Gerry and the Pacemakers?",
+    "options": [
+      "I Like It",
+      "Ferry Cross the Mersey",
+      "How Do You Do It?",
+      "You'll Never Walk Alone"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "How Do You Do It?",
+      "Gerry and the Pacemakers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Who wrote \"Hippy Hippy Shake\", a staple of the Beatles' early stage act?",
+    "options": [
+      "Larry Williams",
+      "Ritchie Valens",
+      "Chan Romero",
+      "Eddie Cochran"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hippy Hippy Shake"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "singles",
+    "difficulty": 1,
+    "question": "Which Beatles single was their first American number one?",
+    "options": [
+      "I Want to Hold Your Hand",
+      "Hey Jude",
+      "Yesterday",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Want to Hold Your Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "Which Beatles single kept \"I Want to Hold Your Hand\" off the UK number one spot for its first two weeks?",
+    "options": [
+      "From Me to You",
+      "Please Please Me",
+      "She Loves You",
+      "Twist and Shout"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Want to Hold Your Hand",
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "\"I Want to Hold Your Hand\" was the first Beatles record made with which equipment?",
+    "options": [
+      "Eight-track tape",
+      "Dolby noise reduction",
+      "A Moog synthesiser",
+      "Four-track tape"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Want to Hold Your Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "On which date was \"I Want to Hold Your Hand\" released in the UK?",
+    "options": [
+      "29 November 1963",
+      "5 October 1962",
+      "23 August 1963",
+      "20 March 1964"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Want to Hold Your Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Advance UK orders for \"I Want to Hold Your Hand\" passed which figure?",
+    "options": [
+      "One million",
+      "Five million",
+      "100,000",
+      "250,000"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Want to Hold Your Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "For how many weeks did \"I Want to Hold Your Hand\" top the US Billboard chart from February 1964?",
+    "options": [
+      "Four",
+      "Two",
+      "Seven",
+      "Twelve"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Want to Hold Your Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"I'm Only Sleeping\" is on which British album?",
+    "options": [
+      "Rubber Soul",
+      "Revolver",
+      "Help!",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I'm Only Sleeping",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "What is unusual about George Harrison's guitar solo on \"I'm Only Sleeping\"?",
+    "options": [
+      "It is played with a violin bow",
+      "It is played on a sitar",
+      "It is played backwards",
+      "It was recorded at half speed"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I'm Only Sleeping",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"I Want You (She's So Heavy)\" closes side one of which album?",
+    "options": [
+      "Revolver",
+      "The White Album",
+      "Abbey Road",
+      "Let It Be"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Want You (She's So Heavy)",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "On which date were all four Beatles together in a recording studio for the last time?",
+    "options": [
+      "10 April 1970",
+      "30 January 1969",
+      "20 August 1969",
+      "3 January 1970"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Want You (She's So Heavy)",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who plays Hammond organ on \"I Want You (She's So Heavy)\"?",
+    "options": [
+      "John Lennon",
+      "Nicky Hopkins",
+      "Billy Preston",
+      "George Martin"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Want You (She's So Heavy)",
+      "Billy Preston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which song was the first to be recorded for the Abbey Road album?",
+    "options": [
+      "Something",
+      "Here Comes the Sun",
+      "Come Together",
+      "I Want You (She's So Heavy)"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Want You (She's So Heavy)",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which White Album song did John Lennon write in India about his insomnia?",
+    "options": [
+      "I'm So Tired",
+      "Yer Blues",
+      "I'm Only Sleeping",
+      "Good Night"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I'm So Tired",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote the White Album ballad \"I Will\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Will",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "What does Paul McCartney provide instead of a bass guitar on \"I Will\"?",
+    "options": [
+      "A sung \"vocal bass\"",
+      "A tuba",
+      "A Moog synthesiser",
+      "A cello"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Will",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"I Want to Tell You\" on Revolver was written by which Beatle?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Want to Tell You",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album was the first to include three George Harrison compositions?",
+    "options": [
+      "Revolver",
+      "Help!",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Revolver",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which of these is NOT one of George Harrison's three songs on Revolver?",
+    "options": [
+      "Taxman",
+      "I Want to Tell You",
+      "If I Needed Someone",
+      "Love You To"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Revolver",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"I'm Looking Through You\" was written about Paul McCartney's relationship with whom?",
+    "options": [
+      "Linda Eastman",
+      "Jane Asher",
+      "Maureen Cox",
+      "Cynthia Powell"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I'm Looking Through You",
+      "Jane Asher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"I'm Looking Through You\" is on which album?",
+    "options": [
+      "A Hard Day's Night",
+      "Revolver",
+      "Rubber Soul",
+      "Help!"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I'm Looking Through You",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"I'll Follow the Sun\" is on which British album?",
+    "options": [
+      "Rubber Soul",
+      "Beatles for Sale",
+      "With the Beatles",
+      "Help!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I'll Follow the Sun",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote and sang \"I'll Follow the Sun\"?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I'll Follow the Sun",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"I Should Have Known Better\" is on which album?",
+    "options": [
+      "Beatles for Sale",
+      "A Hard Day's Night",
+      "Help!",
+      "With the Beatles"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Should Have Known Better",
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On which date in 1964 was the A Hard Day's Night album released in Britain?",
+    "options": [
+      "22 March",
+      "4 December",
+      "6 August",
+      "10 July"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which Beatle sings lead on \"I'm Happy Just to Dance with You\"?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I'm Happy Just to Dance with You",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "\"I'll Cry Instead\" was a US single backed with which song?",
+    "options": [
+      "When I Get Home",
+      "Tell Me Why",
+      "Any Time at All",
+      "I'm Happy Just to Dance with You"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I'll Cry Instead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "\"I Wanna Be Your Man\" was first released as a single by which band?",
+    "options": [
+      "The Hollies",
+      "The Rolling Stones",
+      "The Who",
+      "The Kinks"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Wanna Be Your Man",
+      "The Rolling Stones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who sings lead on the Beatles' own version of \"I Wanna Be Your Man\"?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Wanna Be Your Man",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "The Beatles' recording of \"I Wanna Be Your Man\" is on which album?",
+    "options": [
+      "With the Beatles",
+      "Please Please Me",
+      "Beatles for Sale",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I Wanna Be Your Man",
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"I Saw Her Standing There\" opens which album?",
+    "options": [
+      "A Hard Day's Night",
+      "With the Beatles",
+      "Help!",
+      "Please Please Me"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Saw Her Standing There",
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"I Saw Her Standing There\" was the American B-side of which single?",
+    "options": [
+      "Please Please Me",
+      "She Loves You",
+      "Twist and Shout",
+      "I Want to Hold Your Hand"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I Saw Her Standing There"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What was The Beatles' debut American album, released by Vee-Jay?",
+    "options": [
+      "The Beatles' Second Album",
+      "Introducing... The Beatles",
+      "The Early Beatles",
+      "Meet the Beatles!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Introducing... The Beatles",
+      "Vee-Jay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What position did \"I Saw Her Standing There\" reach on the US Billboard Hot 100?",
+    "options": [
+      "Number 3",
+      "Number 1",
+      "Number 14",
+      "Number 40"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Saw Her Standing There"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"I'm a Loser\" is on which British album?",
+    "options": [
+      "Beatles for Sale",
+      "Rubber Soul",
+      "A Hard Day's Night",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I'm a Loser",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "\"I'm a Loser\" was considered as a single until John Lennon wrote which song?",
+    "options": [
+      "Ticket to Ride",
+      "I Feel Fine",
+      "Help!",
+      "Eight Days a Week"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I'm a Loser",
+      "I Feel Fine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"I'll Get You\" was the B-side of which single?",
+    "options": [
+      "I Want to Hold Your Hand",
+      "From Me to You",
+      "Can't Buy Me Love",
+      "She Loves You"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I'll Get You",
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "What was the original title of \"I'll Get You\"?",
+    "options": [
+      "Imagine I'm in Love",
+      "One Day You'll See",
+      "I'll Be There",
+      "Get You in the End"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I'll Get You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"I'm Down\" was the B-side of which single?",
+    "options": [
+      "Help!",
+      "Ticket to Ride",
+      "Yesterday",
+      "Day Tripper"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I'm Down",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Paul McCartney wrote \"I'm Down\" in the style of which rock and roll singer?",
+    "options": [
+      "Little Richard",
+      "Buddy Holly",
+      "Fats Domino",
+      "Elvis Presley"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I'm Down",
+      "Little Richard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"I'll Be Back\" closes which British album?",
+    "options": [
+      "Beatles for Sale",
+      "A Hard Day's Night",
+      "Help!",
+      "With the Beatles"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I'll Be Back",
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "\"I'll Be on My Way\" was the B-side of which Billy J. Kramer single?",
+    "options": [
+      "Bad to Me",
+      "Little Children",
+      "From a Window",
+      "Do You Want to Know a Secret"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I'll Be on My Way",
+      "Billy J. Kramer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date were The Beatles recorded live at the Star-Club at the end of their final Hamburg residency?",
+    "options": [
+      "1 January 1962",
+      "17 August 1960",
+      "13 April 1963",
+      "31 December 1962"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Star-Club",
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "How many residencies did The Beatles play in Hamburg in total?",
+    "options": [
+      "Three",
+      "Five",
+      "Two",
+      "Eight"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On which 1994 album were many of the Beatles' BBC radio session recordings first released?",
+    "options": [
+      "Live at the BBC",
+      "Anthology 1",
+      "Rarities",
+      "Past Masters"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Live at the BBC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which Ann-Margret song did John Lennon sing for the BBC's Pop Go the Beatles in July 1963?",
+    "options": [
+      "Soldier of Love",
+      "I Just Don't Understand",
+      "Lonesome Tears in My Eyes",
+      "Bye Bye Birdie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Just Don't Understand",
+      "BBC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "In which year was \"Baby It's You\" released as a Beatles single, with \"I'll Follow the Sun\" on it?",
+    "options": [
+      "1964",
+      "2013",
+      "1995",
+      "1982"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Baby It's You",
+      "Live at the BBC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which Beatle wrote \"Taxman\" and \"Something\"?",
+    "options": [
+      "Ringo Starr",
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song begins \"Hey Jude, don't make it bad\"?",
+    "options": [
+      "Let It Be",
+      "Hey Jude",
+      "Yesterday",
+      "Help!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album is named after the London street where it was recorded?",
+    "options": [
+      "Baker Street",
+      "Abbey Road",
+      "Savile Row",
+      "Penny Lane"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  }
+]

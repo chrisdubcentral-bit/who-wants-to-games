@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Gold disc emblem">
+  <defs>
+    <radialGradient id="lg-disc" cx="0.38" cy="0.32" r="0.8">
+      <stop offset="0" stop-color="#FFF3CF"/><stop offset="0.45" stop-color="#E0C27A"/><stop offset="1" stop-color="#9A7830"/>
+    </radialGradient>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="#0B1712" stroke="#E0C27A" stroke-width="2.5"/>
+  <circle cx="32" cy="32" r="23" fill="url(#lg-disc)"/>
+  <g fill="none" stroke="#7A5E22" stroke-opacity="0.5">
+    <circle cx="32" cy="32" r="19"/><circle cx="32" cy="32" r="15"/><circle cx="32" cy="32" r="11.5"/>
+  </g>
+  <circle cx="32" cy="32" r="8" fill="#0B1712" stroke="#F6E2A6" stroke-width="0.8"/>
+  <circle cx="32" cy="32" r="1.6" fill="#E0C27A"/>
+</svg>

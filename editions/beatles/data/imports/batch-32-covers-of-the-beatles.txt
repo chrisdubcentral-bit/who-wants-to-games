@@ -1,0 +1,22 @@
+# Covers of Beatles songs. Source: Cover Me, "The 75 Best Beatles Covers Ever" (February 2024).
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+4 | songs | Whose live version of "Yesterday" topped Cover Me's 2024 list of the best Beatles covers? | Donny Hathaway | Marvin Gaye | Ray Charles | Aretha Franklin | Covers; Yesterday; Donny Hathaway
+5 | songs | At which Hollywood club was Donny Hathaway's celebrated live cover of "Yesterday" recorded in 1971? | The Troubadour | The Whisky a Go Go | The Roxy | The Palladium | Covers; Donny Hathaway
+5 | songs | Donny Hathaway's 1971 live "Yesterday" was not officially released until which year? | 2004 | 1972 | 1980 | 1995 | Covers; Donny Hathaway
+3 | songs | Which soul singer's 1968 cover of "Hey Jude" features Duane Allman on guitar? | Wilson Pickett | Otis Redding | Sam Cooke | Solomon Burke | Covers; Hey Jude; Wilson Pickett
+5 | songs | At which Muscle Shoals studio did Wilson Pickett record his cover of "Hey Jude"? | FAME | Muscle Shoals Sound | Sun Studio | Stax | Covers; Hey Jude
+4 | songs | Which guitarist rang Atlantic Records to find out who had played the solo on Wilson Pickett's "Hey Jude"? | Eric Clapton | Jimi Hendrix | Jeff Beck | George Harrison | Covers; Hey Jude; Duane Allman
+3 | songs | Aretha Franklin's version of "Let It Be" was released how long before The Beatles' own? | About two months | About a year | A week | Six months | Covers; Let It Be; Aretha Franklin
+3 | songs | Which Motown star sang his cover of "We Can Work It Out" for Paul McCartney at the White House in 2010? | Stevie Wonder | Smokey Robinson | Lionel Richie | Marvin Gaye | Covers; We Can Work It Out; Stevie Wonder
+4 | songs | Which magazine declared Stevie Wonder's "We Can Work It Out" "The Greatest Beatles Cover" in 2016? | Slate | Rolling Stone | Mojo | Pitchfork | Covers; Stevie Wonder
+4 | songs | Which jazz singer recorded "Savoy Truffle" on her 1969 album Ella? | Ella Fitzgerald | Sarah Vaughan | Nina Simone | Peggy Lee | Covers; Savoy Truffle
+4 | songs | Which Queen of Salsa recorded "Ob-La-Di, Ob-La-Da" with all-Spanish lyrics? | Celia Cruz | Gloria Estefan | La Lupe | Olga Tañón | Covers; Ob-La-Di, Ob-La-Da
+4 | songs | Which band recorded "Dear Prudence" with Robert Smith of The Cure helping out? | Siouxsie and the Banshees | The Psychedelic Furs | Echo and the Bunnymen | The Smiths | Covers; Dear Prudence
+4 | songs | At which ceremony did Prince play his famous guitar solo on "While My Guitar Gently Weeps" with Tom Petty and Dhani Harrison? | The Rock and Roll Hall of Fame | The Grammy Awards | The Concert for George | Live Aid | Covers; While My Guitar Gently Weeps; Prince
+4 | songs | Which progressive rock band, famous for "Roundabout", covered "Every Little Thing"? | Yes | Genesis | Emerson, Lake and Palmer | King Crimson | Covers; Every Little Thing
+4 | songs | Which all-female 1970s band recorded "Hey Bulldog" at Apple Studios with engineer Geoff Emerick? | Fanny | The Runaways | Girlschool | The Slits | Covers; Hey Bulldog; Fanny
+4 | songs | Which American alternative band led by Kim Deal covered "Happiness Is a Warm Gun"? | The Breeders | Pixies | Belly | Throwing Muses | Covers; Happiness Is a Warm Gun
+4 | songs | Which singer-songwriter released a version of "What Goes On" ranked in Cover Me's top 20? | Sufjan Stevens | Elliott Smith | Iron and Wine | Bon Iver | Covers; What Goes On
+4 | songs | Which Black Keys cover appears on Cover Me's list of the best Beatles covers? | She Said, She Said | Come Together | Helter Skelter | Revolution | Covers; The Black Keys
+4 | songs | Which singer covered "All My Loving", making Cover Me's list of the best Beatles covers? | Amy Winehouse | Adele | Duffy | Lily Allen | Covers; All My Loving
+5 | songs | Which short-lived Italian band's "Mystery Tour" was number two on Cover Me's list? | Camel | Le Orme | Premiata Forneria Marconi | I Giganti | Covers; Magical Mystery Tour

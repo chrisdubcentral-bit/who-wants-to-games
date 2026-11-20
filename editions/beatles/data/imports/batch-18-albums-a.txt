@@ -1,0 +1,89 @@
+# Beatles albums, part A (Please Please Me to Revolver). Source: Wikipedia album articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | albums | What was the title of The Beatles' debut album? | Please Please Me | Help! | Abbey Road | Revolver | Please Please Me
+2 | albums | In which year was the album Please Please Me released? | 1963 | 1961 | 1962 | 1964 | Please Please Me
+3 | albums | On which date was the album Please Please Me released in the UK? | 22 March 1963 | 5 October 1962 | 22 November 1963 | 10 July 1964 | Please Please Me
+2 | albums | On which record label were The Beatles' early British albums released? | Parlophone | Decca | Columbia | Pye | Parlophone
+2 | albums | How many tracks are on the album Please Please Me? | 14 | 10 | 12 | 16 | Please Please Me
+3 | albums | Which song is the first track on side two of Please Please Me? | Love Me Do | Twist and Shout | Please Please Me | Boys | Please Please Me; Love Me Do
+3 | albums | Which song closes side one of the Please Please Me album? | Please Please Me | Ask Me Why | Boys | Chains | Please Please Me
+4 | albums | How were the Lennon-McCartney songs credited on the Please Please Me album? | McCartney-Lennon | Lennon-McCartney | Lennon and McCartney | The Beatles | Please Please Me; Songwriting credits
+4 | albums | What did George Martin first consider recording for The Beatles' debut album? | A live album at the Cavern | An album of film songs | A Christmas album | An album of skiffle | Please Please Me; George Martin
+4 | albums | For how long did Please Please Me stay in the UK Top 10, a record for a debut album? | Over a year | Six weeks | Three months | Five years | Please Please Me
+4 | albums | Which two songs on Please Please Me had overdubs added by George Martin nine days after the main session? | Misery and Baby It's You | Boys and Chains | Anna and Twist and Shout | Love Me Do and P.S. I Love You | Please Please Me; George Martin
+3 | albums | In which month and year did The Beatles sign with EMI? | May 1962 | January 1961 | October 1962 | February 1963 | EMI
+3 | albums | Which song is the second track on Please Please Me? | Misery | Chains | Boys | Anna (Go to Him) | Please Please Me
+4 | albums | Which song comes immediately before "Twist and Shout" on Please Please Me? | There's a Place | A Taste of Honey | Baby It's You | Do You Want to Know a Secret | Please Please Me
+2 | albums | What was The Beatles' second British album? | With the Beatles | Beatles for Sale | A Hard Day's Night | Help! | With the Beatles
+3 | albums | On which date was With the Beatles released in the UK? | 22 November 1963 | 22 March 1963 | 4 December 1964 | 6 August 1965 | With the Beatles
+3 | albums | Who took the half-shadow cover photograph for With the Beatles? | Robert Freeman | Angus McBean | Astrid Kirchherr | Iain Macmillan | With the Beatles; Robert Freeman
+3 | albums | How many cover versions are on With the Beatles? | Six | Two | Four | Ten | With the Beatles
+4 | albums | How many original compositions are on With the Beatles? | Eight | Five | Eleven | Fourteen | With the Beatles
+3 | albums | Which song closes With the Beatles? | Money (That's What I Want) | Twist and Shout | Not a Second Time | Roll Over Beethoven | With the Beatles
+3 | albums | Which song opens side two of With the Beatles? | Roll Over Beethoven | Please Mr. Postman | Hold Me Tight | I Wanna Be Your Man | With the Beatles
+4 | albums | Under which title was With the Beatles released in Canada? | Beatlemania! With the Beatles | Meet the Beatles! | Twist and Shout | The Beatles' Second Album | With the Beatles; Canada
+4 | albums | The songs on With the Beatles were split in America between Meet the Beatles! and which other album? | The Beatles' Second Album | Something New | Beatles '65 | Introducing... The Beatles | With the Beatles
+4 | albums | Which song is the third track on With the Beatles? | All My Loving | Little Child | Don't Bother Me | Till There Was You | With the Beatles
+4 | albums | Which song closes side one of With the Beatles? | Please Mr. Postman | Till There Was You | Little Child | All My Loving | With the Beatles
+5 | albums | How many months after Please Please Me was With the Beatles released? | Eight | Three | Twelve | Eighteen | With the Beatles
+2 | albums | Which Beatles album was the soundtrack to their first film? | A Hard Day's Night | Help! | Let It Be | Yellow Submarine | A Hard Day's Night
+2 | albums | A Hard Day's Night was The Beatles' studio album of which number? | Third | First | Second | Fifth | A Hard Day's Night
+3 | albums | What is special about the songwriting on the A Hard Day's Night album? | Every song is by Lennon and McCartney | George Harrison wrote half of it | It has no original songs | Ringo Starr wrote the title track | A Hard Day's Night
+4 | albums | Which label released the American version of A Hard Day's Night two weeks before the British album? | United Artists | Capitol | Vee-Jay | Swan | A Hard Day's Night; United Artists
+3 | albums | How many songs are on the British A Hard Day's Night album? | 13 | 10 | 14 | 16 | A Hard Day's Night
+4 | albums | Which type of guitar, played by George Harrison, gives A Hard Day's Night its chiming sound? | Rickenbacker 12-string | Gretsch Country Gentleman | Fender Stratocaster | Gibson SG | A Hard Day's Night; Rickenbacker
+3 | albums | Which song closes side one of A Hard Day's Night? | Can't Buy Me Love | Tell Me Why | And I Love Her | If I Fell | A Hard Day's Night
+4 | albums | Which song opens side two of A Hard Day's Night? | Any Time at All | I'll Cry Instead | Things We Said Today | You Can't Do That | A Hard Day's Night
+4 | albums | Which song is the second track on A Hard Day's Night? | I Should Have Known Better | If I Fell | Tell Me Why | And I Love Her | A Hard Day's Night
+5 | albums | Which song is the fourth track on side one of A Hard Day's Night? | I'm Happy Just to Dance with You | And I Love Her | Tell Me Why | If I Fell | A Hard Day's Night
+3 | albums | The songs on side one of the British A Hard Day's Night album all come from what? | The film soundtrack | A BBC radio session | The Hamburg stage act | A live concert | A Hard Day's Night
+2 | albums | What was The Beatles' fourth British album, released for Christmas 1964? | Beatles for Sale | Help! | With the Beatles | Rubber Soul | Beatles for Sale
+3 | albums | On which date was Beatles for Sale released in the UK? | 4 December 1964 | 10 July 1964 | 6 August 1965 | 22 November 1963 | Beatles for Sale
+3 | albums | Which songwriter, whom The Beatles met in August 1964, influenced Beatles for Sale? | Bob Dylan | Paul Simon | Leonard Cohen | Brian Wilson | Beatles for Sale; Bob Dylan
+4 | albums | Most of Beatles for Sale appeared in America on Beatles '65 and which other album? | Beatles VI | Something New | Yesterday and Today | The Early Beatles | Beatles for Sale; Beatles VI
+4 | albums | In which year did Beatles for Sale finally become widely available in the US, on CD? | 1987 | 1965 | 1976 | 1995 | Beatles for Sale
+3 | albums | Which medley closes side one of Beatles for Sale? | Kansas City/Hey-Hey-Hey-Hey! | Rock and Roll Music/Roll Over Beethoven | Twist and Shout/Money | Long Tall Sally/Lucille | Beatles for Sale; Kansas City
+3 | albums | Which song opens side two of Beatles for Sale? | Eight Days a Week | No Reply | Words of Love | Honey Don't | Beatles for Sale; Eight Days a Week
+4 | albums | Which song closes Beatles for Sale? | Everybody's Trying to Be My Baby | What You're Doing | Honey Don't | Mr. Moonlight | Beatles for Sale
+4 | albums | Which song is the second track on Beatles for Sale? | I'm a Loser | Baby's in Black | No Reply | Rock and Roll Music | Beatles for Sale
+5 | albums | Which song is the third track on Beatles for Sale? | Baby's in Black | I'll Follow the Sun | I'm a Loser | Mr. Moonlight | Beatles for Sale
+4 | albums | Why does Beatles for Sale contain six cover versions? | The band were too busy touring to write more | EMI insisted on them | They were left over from Hamburg | George Martin chose them | Beatles for Sale
+1 | albums | Which Beatles album shares its title with their second film? | Help! | Revolver | Rubber Soul | Let It Be | Help!
+2 | albums | Help! was The Beatles' studio album of which number? | Fifth | Third | Fourth | Seventh | Help!
+3 | albums | On which date was the Help! album released in the UK? | 6 August 1965 | 4 December 1964 | 3 December 1965 | 5 August 1966 | Help!
+3 | albums | How many of the fourteen songs on the Help! album appear in the film? | Seven | Three | Ten | All fourteen | Help!
+3 | albums | Which famous ballad is the penultimate track on the Help! album? | Yesterday | Michelle | Girl | In My Life | Help!; Yesterday
+3 | albums | Which song closes the Help! album? | Dizzy Miss Lizzy | Yesterday | Act Naturally | Ticket to Ride | Help!
+3 | albums | Which song opens side two of the Help! album? | Act Naturally | It's Only Love | Yesterday | I've Just Seen a Face | Help!
+3 | albums | Which song closes side one of the Help! album? | Ticket to Ride | You're Going to Lose That Girl | Another Girl | I Need You | Help!
+4 | albums | Which woodwind instruments feature on "You've Got to Hide Your Love Away"? | Flutes | Clarinets | Oboes | Saxophones | Help!; You've Got to Hide Your Love Away
+4 | records | For which award was the Help! album nominated at the 1966 Grammys, a first for a rock band? | Album of the Year | Best New Artist | Record of the Year | Best Film Score | Help!; Grammy Awards
+4 | albums | Which song is the second track on the Help! album? | The Night Before | Another Girl | I Need You | Ticket to Ride | Help!
+5 | albums | Which song is the fourth track on the Help! album? | I Need You | Another Girl | The Night Before | You're Going to Lose That Girl | Help!
+4 | albums | What does the American Help! album contain alongside seven Beatles songs? | Instrumental music from the film | Live concert recordings | Interviews with the band | Songs by other Epstein artists | Help!
+2 | albums | Which Beatles album was released in December 1965? | Rubber Soul | Revolver | Help! | Beatles for Sale | Rubber Soul
+2 | albums | Rubber Soul was The Beatles' studio album of which number? | Sixth | Fourth | Fifth | Eighth | Rubber Soul
+3 | albums | On which date was Rubber Soul released in the UK? | 3 December 1965 | 6 August 1965 | 5 August 1966 | 4 December 1964 | Rubber Soul
+4 | albums | The title Rubber Soul is a play on which phrase? | Plastic soul | Rubber sole | Blue-eyed soul | Soul on ice | Rubber Soul
+3 | albums | After A Hard Day's Night, which was the next Beatles album to contain only original songs? | Rubber Soul | Beatles for Sale | Help! | Revolver | Rubber Soul
+3 | albums | Which song closes side one of Rubber Soul? | Michelle | The Word | Nowhere Man | Think for Yourself | Rubber Soul; Michelle
+3 | albums | Which song opens side two of the British Rubber Soul? | What Goes On | Girl | In My Life | Wait | Rubber Soul
+4 | albums | Which song is the second track on Rubber Soul? | Norwegian Wood (This Bird Has Flown) | You Won't See Me | Nowhere Man | Michelle | Rubber Soul
+4 | albums | Which song is the fourth track on the British Rubber Soul? | Nowhere Man | The Word | Think for Yourself | You Won't See Me | Rubber Soul
+4 | albums | How many of the British Rubber Soul's fourteen songs were on the original American version? | Ten | Six | Twelve | All fourteen | Rubber Soul
+4 | in-the-studio | Recording of Rubber Soul took about how long, beginning in October 1965? | Four weeks | One day | Four months | A year | Rubber Soul
+4 | albums | Which of these instruments was new to The Beatles' sound on Rubber Soul? | Fuzz bass | Moog synthesiser | Mellotron | Drum machine | Rubber Soul
+5 | albums | Which song is the penultimate track on Rubber Soul? | If I Needed Someone | Wait | In My Life | Girl | Rubber Soul
+2 | albums | Which Beatles album was released in August 1966? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Help! | Revolver
+2 | albums | Revolver was The Beatles' studio album of which number? | Seventh | Fifth | Sixth | Ninth | Revolver
+3 | albums | On which date was Revolver released in the UK? | 5 August 1966 | 3 December 1965 | 1 June 1967 | 6 August 1965 | Revolver
+3 | albums | Which double A-side single was released alongside Revolver? | Eleanor Rigby / Yellow Submarine | Paperback Writer / Rain | Penny Lane / Strawberry Fields Forever | Day Tripper / We Can Work It Out | Revolver
+3 | albums | Which song is the second track on Revolver? | Eleanor Rigby | I'm Only Sleeping | Love You To | Yellow Submarine | Revolver; Eleanor Rigby
+3 | albums | Which song closes side one of Revolver? | She Said She Said | Yellow Submarine | Here, There and Everywhere | Love You To | Revolver
+3 | albums | Which song opens side two of Revolver? | Good Day Sunshine | And Your Bird Can Sing | For No One | Doctor Robert | Revolver
+4 | albums | Which song is the penultimate track on Revolver? | Got to Get You into My Life | I Want to Tell You | Doctor Robert | For No One | Revolver
+4 | albums | Which song is the third track on Revolver? | I'm Only Sleeping | Love You To | Here, There and Everywhere | She Said She Said | Revolver
+4 | albums | How long a break did The Beatles take at the start of 1966 before recording Revolver? | Three months | Two weeks | Six months | A year | Revolver
+4 | in-the-studio | Which studio technique, invented at EMI for The Beatles, was used heavily on Revolver to thicken vocals? | Automatic double tracking | Dolby noise reduction | Auto-Tune | Digital delay | Revolver; ADT
+5 | albums | How many musicians play in the string group on "Eleanor Rigby"? | Eight | Four | Twelve | Twenty | Revolver; Eleanor Rigby
+4 | albums | Revolver is often seen as the start of which period in The Beatles' music? | Their psychedelic period | Their skiffle period | Their country period | Their disco period | Revolver

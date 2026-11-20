@@ -1,0 +1,32 @@
+# Songs covered by The Beatles. Source: Wikipedia, "List of songs covered by the Beatles" (uDiscover Music refuses automated access, so it was not used).
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | songs | Which of these songs on Please Please Me was NOT written by The Beatles? | Twist and Shout | I Saw Her Standing There | Misery | There's a Place | Covers; Please Please Me
+3 | songs | How many cover versions are on The Beatles' debut album Please Please Me? | Six | Two | Four | Eight | Covers; Please Please Me
+3 | songs | Which of these songs on With the Beatles is a cover version? | Roll Over Beethoven | It Won't Be Long | All My Loving | Not a Second Time | Covers; With the Beatles
+3 | songs | Which of these songs on Beatles for Sale is a cover version? | Mr. Moonlight | No Reply | Eight Days a Week | I'm a Loser | Covers; Beatles for Sale
+3 | songs | Which rockabilly singer had three of his songs covered by The Beatles in 1964 alone? | Carl Perkins | Gene Vincent | Eddie Cochran | Johnny Burnette | Covers; Carl Perkins
+3 | songs | Which singer-songwriter wrote "Rock and Roll Music" and "Roll Over Beethoven", both covered by The Beatles? | Chuck Berry | Little Richard | Bo Diddley | Fats Domino | Covers; Chuck Berry
+4 | songs | Which group made the very first recording of "Twist and Shout", before the Isley Brothers' hit? | The Top Notes | The Drifters | The Coasters | The Shirelles | Covers; Twist and Shout
+4 | songs | Which group made the original recording of "Devil in Her Heart", covered on With the Beatles? | The Donays | The Marvelettes | The Cookies | The Chiffons | Covers; Devil in Her Heart
+4 | songs | Which singer of "Shout" also recorded "Twist and Shout" before The Beatles? | The Isley Brothers | The Miracles | The Contours | The Drifters | Covers; Shout
+4 | songs | Which Larry Williams song did The Beatles cover to close the Help! album? | Dizzy Miss Lizzy | Bad Boy | Slow Down | Short Fat Fannie | Covers; Help!
+4 | songs | Which Little Richard song is joined to "Kansas City" in the medley on Beatles for Sale? | Hey-Hey-Hey-Hey! | Tutti Frutti | Lucille | Rip It Up | Covers; Kansas City
+4 | songs | Which traditional song was the last cover version to appear on an original Beatles studio album? | Maggie Mae | Dizzy Miss Lizzy | Act Naturally | Bad Boy | Covers; Let It Be
+4 | songs | Which Liverpool skiffle-era group's recording of "Maggie Mae" is listed as the source of The Beatles' version? | The Vipers Skiffle Group | The Quarrymen | Lonnie Donegan's Skiffle Group | The Chas McDevitt Skiffle Group | Covers; Maggie Mae
+4 | songs | Which Buddy Holly song, recorded by The Quarrymen in 1958, opens the Anthology 1 covers? | That'll Be the Day | Peggy Sue | Rave On | Oh Boy! | Covers; Anthology 1
+4 | songs | Which old standard, recorded with Tony Sheridan's sessions in Hamburg, has John Lennon singing lead on Anthology 1? | Ain't She Sweet | My Bonnie | When the Saints Go Marching In | Sweet Georgia Brown | Covers; Ain't She Sweet
+4 | songs | Which Ray Charles song is among the Quarrymen home recordings on Anthology 1? | Hallelujah I Love Her So | What'd I Say | Hit the Road Jack | Georgia on My Mind | Covers; Ray Charles
+5 | songs | Which German film star's song "Falling in Love Again" did The Beatles play at the Star-Club in 1962? | Marlene Dietrich | Lotte Lenya | Hildegard Knef | Zarah Leander | Covers; Star-Club
+5 | songs | Which Ink Spots song, sung by Paul McCartney, is on the Live! at the Star-Club album? | Your Feet's Too Big | If I Didn't Care | Java Jive | Whispering Grass | Covers; Star-Club
+5 | songs | Which Tommy Roe hit, sung by George Harrison, was part of The Beatles' Star-Club set? | Sheila | Dizzy | Everybody | Sweet Pea | Covers; Star-Club; Sheila
+5 | songs | Which Buddy Holly song, sung by George Harrison, appears on Live! at the Star-Club? | Reminiscing | Raining in My Heart | It's So Easy | Heartbeat | Covers; Star-Club
+4 | songs | Which Phil Spector song, first a hit for the Teddy Bears, did The Beatles play at the Decca audition and the Star-Club? | To Know Her Is to Love Her | Be My Baby | Then He Kissed Me | Da Doo Ron Ron | Covers; Teddy Bears
+4 | songs | Which Elvis Presley debut single did The Beatles play on BBC radio, released on Live at the BBC? | That's All Right, Mama | Heartbreak Hotel | Hound Dog | Love Me Tender | Covers; Live at the BBC
+5 | songs | Which Everly Brothers song did The Beatles perform for the BBC, later released on Live at the BBC? | So How Come (No One Loves Me) | Bye Bye Love | Wake Up Little Susie | Cathy's Clown | Covers; Live at the BBC
+5 | songs | Which song, made popular by Marino Marini, did The Beatles record for the BBC with Paul on lead vocal? | The Honeymoon Song | Volare | Arrivederci Roma | Come Prima | Covers; Live at the BBC
+5 | songs | Which Little Eva song was covered by The Beatles for the BBC and released on Live at the BBC? | Keep Your Hands Off My Baby | The Loco-Motion | Let's Turkey Trot | Old Smokey Locomotion | Covers; Little Eva
+4 | songs | Which Little Richard song, a UK top five hit in 1957, did The Beatles perform for the BBC? | Lucille | Good Golly, Miss Molly | Jenny, Jenny | Keep a-Knockin' | Covers; Little Richard
+5 | songs | Which three rock and roll songs make up a medley released on Anthology 3? | Rip It Up, Shake, Rattle and Roll and Blue Suede Shoes | Long Tall Sally, Lucille and Tutti Frutti | Johnny B. Goode, Carol and Memphis | Hound Dog, Jailhouse Rock and Heartbreak Hotel | Covers; Anthology 3
+5 | songs | Which W. C. Handy blues standard appears on the 2018 anniversary edition of the White Album? | Saint Louis Blues | Memphis Blues | Beale Street Blues | Yellow Dog Blues | Covers; White Album
+5 | songs | Which Rodgers and Hart standard, played by The Beatles in 1968, appears on the White Album 50th anniversary edition? | Blue Moon | My Funny Valentine | The Lady Is a Tramp | Where or When | Covers; Blue Moon
+5 | songs | Which Jimmy McCracklin song from the Get Back sessions appears on the 2021 Let It Be special edition? | The Walk | Just Got to Know | Think | The Thrill Is Gone | Covers; Let It Be

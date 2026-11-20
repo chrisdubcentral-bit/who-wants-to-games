@@ -84,7 +84,7 @@
 
     <form class="panel" id="login">
       <label>Admin key <input type="password" name="key" autocomplete="current-password" required size="28"></label>
-      <label>Edition <select name="edition"><option value="celtic">Celtic</option></select></label>
+      <label>Edition <select name="edition"><option value="celtic">Celtic</option><option value="beatles">Beatles</option></select></label>
       <button type="submit">Load</button>
     </form>
 
@@ -324,7 +324,7 @@
         tile('Left within 10 seconds', pct(t.bounces, t.visits), 'without starting a game'),
         tile('Games started', fmt(t.gamesStarted), t.visits ? `${(t.gamesStarted / t.visits).toFixed(1)} per visit` : ''),
         tile('Games finished', fmt(t.gamesFinished), t.gamesStarted ? `${Math.round(finishedPerStart * 100)}% of games started` : ''),
-        tile('Top 100 entries', fmt(t.top100Entries), t.seasonsWon ? `${fmt(t.seasonsWon)} ${t.seasonsWon === 1 ? 'season' : 'seasons'} won` : ''),
+        tile('Top 40 entries', fmt(t.top100Entries), t.seasonsWon ? `${fmt(t.seasonsWon)} ${t.seasonsWon === 1 ? 'season' : 'seasons'} won` : ''),
         tile('Advert click rate', t.advertsShown ? pct1(t.advertClicks / t.advertsShown) : '–', `${fmt(t.advertClicks)} ${t.advertClicks === 1 ? 'click' : 'clicks'} from ${fmt(t.advertsShown)} ${t.advertsShown === 1 ? 'view' : 'views'}`),
       ].join('');
       const showTable = $('#toggle-daily').getAttribute('aria-pressed') === 'true';

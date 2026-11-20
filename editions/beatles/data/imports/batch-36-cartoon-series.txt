@@ -1,0 +1,52 @@
+# The Beatles cartoon TV series (ABC, 1965-1969). Sources: https://en.wikipedia.org/wiki/The_Beatles_(TV_series) and https://www.beatlesstory.com/blog/the-beatles-cartoon/
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | films-tv | What kind of programme was The Beatles TV series first shown on ABC in 1965? | An animated cartoon | A puppet show | A quiz show | A chat show | Beatles cartoon
+2 | films-tv | On which day of the week was the Beatles cartoon originally shown on ABC? | Saturday | Monday | Wednesday | Friday | Beatles cartoon
+2 | films-tv | In the Beatles cartoon, what were the short segments showing a song's full lyrics with simpler pictures called? | Sing-alongs | Lyric loops | Music minutes | Karaoke breaks | Beatles cartoon
+2 | films-tv | Which wizard appears alongside King Arthur in the final episode of the Beatles cartoon? | Merlin | Gandalf | Prospero | Rasputin | Beatles cartoon
+3 | films-tv | According to The Beatles Story, each episode of the Beatles cartoon featured at least how many Beatles songs? | Two | One | Five | Ten | Beatles cartoon
+3 | films-tv | According to The Beatles Story, the success of which Beatles film inspired the cartoon series? | A Hard Day's Night | Help! | Magical Mystery Tour | Let It Be | Beatles cartoon; A Hard Day's Night
+3 | films-tv | How did The Beatles first react to their cartoon series? | They dismissed it because of its poor quality | They asked to voice themselves | They tried to have it banned | They loved it straight away | Beatles cartoon
+3 | films-tv | Which Beatle said in 1972, "I still get a blast out of watching the Beatles cartoons on TV"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Beatles cartoon; John Lennon
+3 | films-tv | The Beatles' low opinion of their cartoon series made them reluctant to take part in which later film? | Yellow Submarine | Help! | Magical Mystery Tour | Let It Be | Beatles cartoon; Yellow Submarine
+3 | films-tv | In the first episode of the Beatles cartoon, the band spend a night in a haunted castle in which region? | Transylvania | Bavaria | Cornwall | the Scottish Highlands | Beatles cartoon
+3 | films-tv | In the cartoon episode "Do You Want to Know a Secret", the Beatles meet a leprechaun on a trip to which city? | Dublin | Belfast | Cork | Galway | Beatles cartoon
+3 | films-tv | In the cartoon episode "Roll Over Beethoven", what kind of animal called Beethoven grabs Paul? | An elephant | A dog | A gorilla | A bear | Beatles cartoon
+3 | films-tv | In the cartoon episode "Nowhere Man", who do the Beatles meet living in a cave? | A hermit | A dragon | A pirate | A bear | Beatles cartoon
+4 | films-tv | At what time on Saturday mornings was the Beatles cartoon first shown on ABC? | 10:30 am | 7:00 am | 8:30 am | 11:45 am | Beatles cartoon
+4 | films-tv | In which year did the last new episode of the Beatles cartoon air on ABC? | 1967 | 1965 | 1969 | 1971 | Beatles cartoon
+4 | films-tv | Which American company announced in November 1964 that it had the TV animation rights to The Beatles? | King Features Syndicate | Hanna-Barbera | Filmation | Walt Disney Productions | Beatles cartoon; King Features Syndicate
+4 | films-tv | In which country were most episodes of the Beatles cartoon animated? | Australia | Japan | Canada | South Korea | Beatles cartoon
+4 | films-tv | George Dunning, a producer on the Beatles cartoon series, went on to direct which Beatles film? | Yellow Submarine | Help! | Magical Mystery Tour | Let It Be | Beatles cartoon; George Dunning; Yellow Submarine
+4 | films-tv | According to The Beatles Story, roughly how long did each half-hour episode of the Beatles cartoon take to make? | About a month | About a day | About a week | About a year | Beatles cartoon
+4 | films-tv | According to The Beatles Story, why were actors used for the Beatles' voices in the cartoon? | Young American viewers struggled with Liverpool accents | Union rules banned the Beatles from it | The Beatles' record label forbade it | The Beatles were paid too little to do it | Beatles cartoon
+4 | films-tv | Besides John and George, which real person from the Beatles' world did Paul Frees voice in the cartoon? | Brian Epstein | George Martin | Neil Aspinall | Derek Taylor | Beatles cartoon; Paul Frees; Brian Epstein
+4 | films-tv | Besides Paul and Ringo, which American TV host did Lance Percival voice in the Beatles cartoon? | Ed Sullivan | Johnny Carson | Dick Clark | Walter Cronkite | Beatles cartoon; Lance Percival; Ed Sullivan
+4 | films-tv | In 1999 George Harrison said the Beatles cartoons were "so bad or silly" that they were what? | Good | Painful | Forgettable | Embarrassing | Beatles cartoon; George Harrison
+4 | films-tv | Which cereal company was one of the sponsors of the Beatles cartoon? | Quaker Oats | Kellogg's | General Mills | Post | Beatles cartoon
+4 | films-tv | Which song was the opening theme of the first season of the Beatles cartoon? | Can't Buy Me Love | She Loves You | Help! | I Want to Hold Your Hand | Beatles cartoon; Can't Buy Me Love
+4 | films-tv | Which song was the opening theme of the second season of the Beatles cartoon? | Help! | Ticket to Ride | Eight Days a Week | Day Tripper | Beatles cartoon; Help!
+4 | films-tv | The Beatles cartoon borrowed the fast-cutting style of which film director? | Richard Lester | Ken Russell | Stanley Kubrick | Michael Lindsay-Hogg | Beatles cartoon; Richard Lester
+4 | films-tv | On which channel did the Beatles cartoon first air in the UK? | ITV | BBC One | BBC Two | Channel 4 | Beatles cartoon
+4 | films-tv | In which year was the Beatles cartoon first shown in the UK? | 1976 | 1965 | 1968 | 1984 | Beatles cartoon
+4 | films-tv | Which company bought the rights to the Beatles cartoon series in the early 1990s? | Apple Corps | EMI | Sony | Disney | Beatles cartoon; Apple Corps
+4 | films-tv | In the cartoon episode "Penny Lane", what is the name of the detective in its James Bond spoof? | James Blonde | James Bland | Jack Bondo | Jim Bondage | Beatles cartoon; Penny Lane
+4 | films-tv | Which legendary outlaw appears in a dream sequence in the Beatles cartoon episode "Taxman"? | Robin Hood | Dick Turpin | Jesse James | Ned Kelly | Beatles cartoon; Taxman
+4 | films-tv | In the cartoon episode "Don't Bother Me", what top-secret item are spies chasing? | A songbook of new Beatles songs | A golden guitar | A stolen recording tape | Ringo's passport | Beatles cartoon
+5 | films-tv | Most episodes of the Beatles cartoon were made at Artransa Park Film Studios in which city? | Sydney | Melbourne | Brisbane | Perth | Beatles cartoon
+5 | films-tv | Which London animation studio, run by George Dunning, made episodes of the Beatles cartoon? | TVC | Aardman | Cosgrove Hall | Halas and Batchelor | Beatles cartoon; George Dunning
+5 | films-tv | According to The Beatles Story, who drew the original character designs for the Beatles cartoon? | Peter Sander | Heinz Edelmann | Klaus Voormann | Alan Aldridge | Beatles cartoon
+5 | films-tv | Lance Percival, a voice of the Beatles cartoon, voiced which character in Yellow Submarine? | Old Fred | Jeremy Hillary Boob | Max | The Chief Blue Meanie | Beatles cartoon; Lance Percival; Yellow Submarine
+5 | films-tv | The first season of the Beatles cartoon earned what record share of the Saturday morning audience? | 52 | 12 | 25 | 87 | Beatles cartoon
+5 | films-tv | Ratings for the Beatles cartoon began to slip when it was shown opposite the premiere of which cartoon? | Space Ghost | The Jetsons | The Flintstones | Underdog | Beatles cartoon
+5 | films-tv | Which song was the opening theme of the third season of the Beatles cartoon? | And Your Bird Can Sing | Taxman | Penny Lane | Paperback Writer | Beatles cartoon; And Your Bird Can Sing
+5 | films-tv | What was the latest Beatles album to have its songs used in the Beatles cartoon? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Beatles cartoon; Revolver
+5 | films-tv | Until which year did ABC keep showing reruns of the Beatles cartoon? | 1969 | 1967 | 1972 | 1975 | Beatles cartoon
+5 | films-tv | Which Star Wars actor guest-hosted MTV's reruns of the Beatles cartoon in 1987? | Mark Hamill | Harrison Ford | Carrie Fisher | Billy Dee Williams | Beatles cartoon; Mark Hamill
+5 | films-tv | Which channel showed the Beatles cartoon on Friday afternoons from 1989? | The Disney Channel | Nickelodeon | HBO | Showtime | Beatles cartoon
+5 | films-tv | In the cartoon episode "Please Mister Postman", how many rings does Ringo lose? | 15 | 4 | 7 | 100 | Beatles cartoon
+5 | films-tv | In the cartoon episode "Not a Second Time", what is the name of the donkey that can smell gold? | Gold Nose | Goldfinger | Nugget | Midas | Beatles cartoon
+5 | films-tv | In the cartoon episode "Little Child", the Beatles are given a golden guitar by the mayor of a town in which state? | Texas | Tennessee | California | Arizona | Beatles cartoon
+5 | films-tv | Which toy maker released figures of the cartoon Beatles in December 2004? | McFarlane Toys | Hasbro | Funko | Mattel | Beatles cartoon
+5 | films-tv | Which Japanese company made the 70cm Kubrick figures of the cartoon Beatles shown at The Beatles Story? | MediCom Toy | Bandai | Tomy | Sanrio | Beatles cartoon; The Beatles Story
+5 | films-tv | Producer Al Brodax also planned cartoon series, never made, about Freddie and the Dreamers and which other band? | Herman's Hermits | The Rolling Stones | The Kinks | The Who | Beatles cartoon; Al Brodax

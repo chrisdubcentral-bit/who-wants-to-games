@@ -1,33 +1,40 @@
-// The Top 100 store kept in memory: same methods as db-store.js. Used by the tests and tools/dev-server.mjs.
+// The Top 100 store kept in memory: same methods as blobs-store.js. Used by the tests and tools/dev-server.mjs.
+// Reads hand out copies and saves check the etag, as Netlify Blobs does.
 
-/** Same methods as server/top100/db-store.js, kept in memory. */
-export function createMemoryStore() {
-  const runs = new Map();
-  const entries = [];
-  let nextId = 1;
+export function createMemoryStore({ legacy = null } = {}) {
+  const boards = new Map();   // key → { data, etag }
+  const submits = new Map();  // 'hour/ipHash' → n
+  let version = 0;
+  const key = (edition, board) => `${edition}/${board}`;
+  const copy = (v) => structuredClone(v);
+
   return {
-    runs, entries,
-    async countRecentRuns(ipHash, sinceIso) {
-      return [...runs.values()].filter((r) => r.ipHash === ipHash && r.createdAt > sinceIso).length;
+    /** Every stored entry, live, for tests to look at or change directly. */
+    get entries() { return [...boards.values()].flatMap((b) => b.data.entries); },
+    submits,
+
+    async readBoard(edition, board) {
+      let b = boards.get(key(edition, board));
+      if (!b && legacy) {
+        const rows = await legacy.exportEntries(edition, board);
+        b = { data: { version: 1, nextId: rows.reduce((m, r) => Math.max(m, r.id), 0) + 1, entries: rows }, etag: `e${++version}` };
+        boards.set(key(edition, board), b);
+      }
+      return b ? { data: copy(b.data), etag: b.etag } : { data: { version: 1, nextId: 1, entries: [] }, etag: null };
     },
-    async getRun(token) { const r = runs.get(token); return r ? { ...r } : null; },
-    async recordSubmit({ token, edition, ipHash, createdAt }) {
-      const r = runs.get(token);
-      if (r) r.submits++; else runs.set(token, { edition, ipHash, createdAt, submits: 1 });
+    async saveBoard(edition, board, data, etag) {
+      const current = boards.get(key(edition, board));
+      if ((current?.etag ?? null) !== etag) return false;
+      boards.set(key(edition, board), { data: copy(data), etag: `e${++version}` });
+      return true;
     },
-    async pruneRuns(beforeIso) { for (const [k, r] of runs) if (r.createdAt < beforeIso) runs.delete(k); },
-    async listEntries(edition, board, { includeHidden, limit }) {
-      return entries.filter((e) => e.edition === edition && e.board === board && (includeHidden || !e.hidden))
-        .slice(0, limit).map((e) => ({ ...e }));
+    async countSubmit(ipHash, hour) {
+      const k = `${hour}/${ipHash}`;
+      submits.set(k, (submits.get(k) ?? 0) + 1);
+      return submits.get(k);
     },
-    async getEntryByToken(token) { const e = entries.find((x) => x.runToken === token); return e ? { ...e } : null; },
-    async saveEntry(e) {
-      const old = entries.find((x) => x.runToken === e.runToken);
-      if (old) { Object.assign(old, e); return old.id; }
-      const row = { ...e, id: nextId++, hidden: false };
-      entries.push(row);
-      return row.id;
+    async pruneSubmits(beforeHour) {
+      for (const k of submits.keys()) if (k.split('/')[0] < beforeHour) submits.delete(k);
     },
-    async setHidden(id, hidden) { const e = entries.find((x) => x.id === id); if (e) e.hidden = hidden; },
   };
 }

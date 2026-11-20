@@ -1,0 +1,802 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "records",
+    "difficulty": 3,
+    "question": "Which famous rumour about The Beatles swept American colleges in autumn 1969?",
+    "options": [
+      "That Paul McCartney was dead",
+      "That John Lennon was an American",
+      "That George Harrison was a spy",
+      "That Ringo Starr had quit"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paul is dead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "records",
+    "difficulty": 3,
+    "question": "According to the \"Paul is dead\" legend, how had Paul McCartney died in 1966?",
+    "options": [
+      "By drowning",
+      "In a car crash",
+      "In a plane crash",
+      "In a fire"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul is dead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "According to the \"Paul is dead\" legend, what had The Beatles done about Paul's death?",
+    "options": [
+      "Hired Pete Best",
+      "Recorded as a trio",
+      "Replaced him with a look-alike",
+      "Used old tapes"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paul is dead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "Which magazine's November 1969 interview with Paul McCartney helped end the \"Paul is dead\" rumour?",
+    "options": [
+      "Rolling Stone",
+      "Life",
+      "Newsweek",
+      "Time"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul is dead",
+      "Life magazine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "Which 1993 Paul McCartney live album makes fun of the \"Paul is dead\" rumour in its title?",
+    "options": [
+      "Good Evening New York City",
+      "Back in the World",
+      "Tripping the Live Fantastic",
+      "Paul Is Live"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul is dead",
+      "Paul Is Live"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "At which American university did the student paper publish \"Is Beatle Paul McCartney Dead?\" in September 1969?",
+    "options": [
+      "Drake University",
+      "University of Michigan",
+      "Harvard University",
+      "Ohio State University"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paul is dead",
+      "Drake University"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which message did \"Paul is dead\" believers claim to hear when \"Revolution 9\" is played backwards?",
+    "options": [
+      "Paul is gone",
+      "He died on Tuesday",
+      "I buried Paul",
+      "Turn me on, dead man"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul is dead",
+      "Revolution 9"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Paul is dead\" clue-hunters read a badge on Paul's Sgt. Pepper uniform as \"OPD\". What did it really say?",
+    "options": [
+      "LSD",
+      "OPP",
+      "OBE",
+      "MBE"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul is dead",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "The \"OPP\" badge worn by Paul McCartney on the Sgt. Pepper sleeve came from which police force?",
+    "options": [
+      "Oregon Police Patrol",
+      "Ontario Provincial Police",
+      "Oklahoma Public Police",
+      "Oxford Police Precinct"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul is dead",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Detroit disc jockey spread the \"Paul is dead\" clues on air in October 1969?",
+    "options": [
+      "Casey Kasem",
+      "Russ Gibb",
+      "Wolfman Jack",
+      "Murray the K"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul is dead",
+      "Russ Gibb"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which University of Michigan student wrote a spoof review inventing many \"Paul is dead\" clues?",
+    "options": [
+      "Merrell Noden",
+      "Tim Harper",
+      "Fred LaBour",
+      "Jay Marks"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paul is dead",
+      "Fred LaBour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "Where was Paul McCartney staying with his family when the \"Paul is dead\" story broke worldwide in October 1969?",
+    "options": [
+      "An ashram in India",
+      "A villa in Greece",
+      "A hotel in New York",
+      "His farm in Scotland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul is dead",
+      "Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In \"Paul is dead\" lore, what detail of Paul on the Abbey Road cover was taken as a sign of death?",
+    "options": [
+      "He is waving",
+      "He carries a guitar",
+      "He is barefoot",
+      "He wears a hat"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paul is dead",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In \"Paul is dead\" lore, what does the number plate \"28IF\" on the Abbey Road cover supposedly mean?",
+    "options": [
+      "Recorded on 28 February",
+      "The 28th clue",
+      "28 fans were told the truth",
+      "Paul would have been 28 if he had lived"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul is dead",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On the Abbey Road cover, what kind of car carries the \"28IF\" number plate?",
+    "options": [
+      "A London taxi",
+      "A Rolls-Royce",
+      "A Mini",
+      "A Volkswagen Beetle"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road",
+      "Volkswagen Beetle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "In which song did John Lennon tease clue-hunters with the line \"the walrus was Paul\"?",
+    "options": [
+      "Dig a Pony",
+      "Come Together",
+      "Glass Onion",
+      "I Am the Walrus"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glass Onion",
+      "Paul is dead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "records",
+    "difficulty": 3,
+    "question": "About how many songs did Lennon and McCartney publish as joint compositions between 1962 and 1970?",
+    "options": [
+      "About 400",
+      "About 180",
+      "About 50",
+      "Over 1,000"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "records",
+    "difficulty": 3,
+    "question": "How were Lennon-McCartney songs credited when only one of the pair had written them?",
+    "options": [
+      "To The Beatles",
+      "To Brian Epstein",
+      "To the actual writer only",
+      "To both, equally"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "records",
+    "difficulty": 3,
+    "question": "According to Guinness World Records, which Lennon-McCartney song has been recorded by more musicians than any other?",
+    "options": [
+      "Hey Jude",
+      "Yesterday",
+      "Let It Be",
+      "Something"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lennon-McCartney",
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "How many records had The Beatles sold worldwide by 2004, according to the usual estimate?",
+    "options": [
+      "More than 600 million",
+      "More than 5 billion",
+      "About 150 million",
+      "About 60 million"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Record sales"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "How old was John Lennon when he first met Paul McCartney?",
+    "options": [
+      "12",
+      "16",
+      "19",
+      "14"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "How old was Paul McCartney when he first met John Lennon?",
+    "options": [
+      "11",
+      "18",
+      "13",
+      "15"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "According to Mark Lewisohn, what was the first song Lennon and McCartney wrote together?",
+    "options": [
+      "Too Bad About Sorrows",
+      "Love Me Do",
+      "Hello Little Girl",
+      "One After 909"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "What was the title of John Lennon's very first song, written about March 1957?",
+    "options": [
+      "One After 909",
+      "Hello Little Girl",
+      "Winston's Walk",
+      "Calypso Rock"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Calypso Rock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "What did the young Lennon and McCartney write at the top of each page in their songbook?",
+    "options": [
+      "Another Lennon-McCartney original",
+      "Top secret",
+      "Property of The Quarrymen",
+      "Hit number one"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Which famous theatre songwriting team inspired the \"Lennon-McCartney\" credit?",
+    "options": [
+      "Gilbert and Sullivan",
+      "Rodgers and Hammerstein",
+      "Flanders and Swann",
+      "Lerner and Loewe"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "How many new songs did Lennon and McCartney write in 1960 and 1961?",
+    "options": [
+      "About thirty",
+      "Over fifty",
+      "None",
+      "About ten"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "With which EMI music publisher did Lennon and McCartney sign their first publishing agreement in October 1962?",
+    "options": [
+      "Chappell",
+      "Ardmore and Beechwood",
+      "Dick James Music",
+      "Northern Songs"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lennon-McCartney",
+      "Ardmore and Beechwood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "What share of Northern Songs did Lennon, McCartney and Epstein own between them when it was formed?",
+    "options": [
+      "50%",
+      "10%",
+      "75%",
+      "100%"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Northern Songs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which line in \"Hey Jude\" did John Lennon tell Paul McCartney to keep when Paul wanted to change it?",
+    "options": [
+      "Don't carry the world upon your shoulders",
+      "The movement you need is on your shoulder",
+      "Take a sad song and make it better",
+      "Remember to let her into your heart"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hey Jude",
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "To which magazine did John Lennon give a long interview about his songs in 1980?",
+    "options": [
+      "Time",
+      "Playboy",
+      "Rolling Stone",
+      "NME"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Lennon",
+      "Playboy interview"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "How did John Lennon describe the way he and Paul McCartney wrote together in the early days?",
+    "options": [
+      "Hand in glove",
+      "Line by line",
+      "Eyeball to eyeball",
+      "Back to back"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "In which month and year did Stuart Sutcliffe join the group that became The Beatles?",
+    "options": [
+      "May 1960",
+      "January 1959",
+      "July 1957",
+      "August 1962"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "On which American network was the Beatles cartoon series shown from 1965?",
+    "options": [
+      "PBS",
+      "ABC",
+      "CBS",
+      "NBC"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Beatles (TV series)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "How many episodes of the Beatles cartoon series were made?",
+    "options": [
+      "65",
+      "100",
+      "39",
+      "13"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles (TV series)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "What was each episode of the Beatles cartoon series named after?",
+    "options": [
+      "A member of the band",
+      "A type of sweet",
+      "A city on their tour",
+      "A Beatles song"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Beatles (TV series)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which American voice actor spoke for John and George in the Beatles cartoon series?",
+    "options": [
+      "Mel Blanc",
+      "Daws Butler",
+      "Paul Frees",
+      "Don Messick"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles (TV series)",
+      "Paul Frees"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which British comic actor voiced Paul and Ringo in the Beatles cartoon series?",
+    "options": [
+      "Bernard Cribbins",
+      "Peter Sellers",
+      "Lance Percival",
+      "Kenneth Williams"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles (TV series)",
+      "Lance Percival"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who produced the Beatles cartoon series and later the film Yellow Submarine?",
+    "options": [
+      "Denis O'Dell",
+      "Al Brodax",
+      "Joseph Barbera",
+      "Walter Shenson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Beatles (TV series)",
+      "Al Brodax"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "On which date did the Beatles cartoon series make its debut?",
+    "options": [
+      "26 December 1967",
+      "9 February 1964",
+      "25 September 1965",
+      "17 July 1968"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles (TV series)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "What distinction does the Beatles cartoon series hold in television history?",
+    "options": [
+      "First weekly cartoon series about real living people",
+      "First cartoon shown in colour",
+      "First cartoon with a laugh track",
+      "First cartoon made in Britain"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles (TV series)"
+    ],
+    "source": "manual"
+  }
+]

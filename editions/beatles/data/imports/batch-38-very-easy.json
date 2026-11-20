@@ -1,0 +1,1911 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which Beatle had the surname Harrison?",
+    "options": [
+      "John",
+      "George",
+      "Paul",
+      "Ringo"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which Beatle had the surname McCartney?",
+    "options": [
+      "John",
+      "Ringo",
+      "George",
+      "Paul"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "In which country were The Beatles formed?",
+    "options": [
+      "Ireland",
+      "Scotland",
+      "Wales",
+      "England"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Liverpool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which Beatle died in 2001?",
+    "options": [
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "What name was given to The Beatles' famous early haircut?",
+    "options": [
+      "The mullet",
+      "The crew cut",
+      "The mop-top",
+      "The quiff"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatlemania"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which kind of guitar did John Lennon mainly play in The Beatles?",
+    "options": [
+      "Bass guitar",
+      "Flamenco guitar",
+      "Rhythm guitar",
+      "Steel guitar"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "In which decade did The Beatles have their first hit record?",
+    "options": [
+      "The 1950s",
+      "The 1960s",
+      "The 1970s",
+      "The 1980s"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "early-years",
+    "difficulty": 1,
+    "question": "The Beatles' name is a pun on which insect?",
+    "options": [
+      "Butterfly",
+      "Ant",
+      "Beetle",
+      "Bee"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Band name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "early-years",
+    "difficulty": 1,
+    "question": "Which future Beatle did John Lennon meet at a church fete in 1957?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison",
+      "Stuart Sutcliffe"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "early-years",
+    "difficulty": 1,
+    "question": "Which instrument did Pete Best play in The Beatles?",
+    "options": [
+      "Bass guitar",
+      "Trumpet",
+      "Drums",
+      "Piano"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "early-years",
+    "difficulty": 1,
+    "question": "Hamburg, where The Beatles played in the early 1960s, is in which country?",
+    "options": [
+      "The Netherlands",
+      "Denmark",
+      "Austria",
+      "Germany"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "places",
+    "difficulty": 1,
+    "question": "Which river flows through Liverpool, The Beatles' home city?",
+    "options": [
+      "The Clyde",
+      "The Mersey",
+      "The Thames",
+      "The Tyne"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Liverpool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "places",
+    "difficulty": 1,
+    "question": "In which city was John Lennon living when he died in 1980?",
+    "options": [
+      "Los Angeles",
+      "Liverpool",
+      "London",
+      "New York"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "in-the-studio",
+    "difficulty": 1,
+    "question": "In which city are Abbey Road Studios?",
+    "options": [
+      "Hamburg",
+      "Liverpool",
+      "New York",
+      "London"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road Studios"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "in-the-studio",
+    "difficulty": 1,
+    "question": "Which instrument does Paul McCartney play on the Beatles recording of \"Let It Be\"?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Drums",
+      "Trumpet"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "in-the-studio",
+    "difficulty": 1,
+    "question": "What kind of guitar does Paul McCartney play on \"Blackbird\"?",
+    "options": [
+      "A banjo",
+      "An acoustic guitar",
+      "A bass guitar",
+      "An electric guitar"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Blackbird"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album shares its title with their 1968 animated film?",
+    "options": [
+      "Yellow Submarine",
+      "Revolver",
+      "Abbey Road",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album shares its title with their 1967 TV film?",
+    "options": [
+      "Rubber Soul",
+      "Magical Mystery Tour",
+      "Abbey Road",
+      "Revolver"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album title is also a type of gun?",
+    "options": [
+      "Revolver",
+      "Help!",
+      "Let It Be",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album title sounds like part of a shoe?",
+    "options": [
+      "Abbey Road",
+      "Help!",
+      "Revolver",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which of these is a Beatles album?",
+    "options": [
+      "Thriller",
+      "Nevermind",
+      "Abbey Road",
+      "Rumours"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which of these is NOT a Beatles album?",
+    "options": [
+      "Let It Be",
+      "Help!",
+      "Exile on Main St.",
+      "Revolver"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Album quiz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which of these albums was made by The Beatles?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Pet Sounds",
+      "Led Zeppelin IV",
+      "The Dark Side of the Moon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album shares its title with their 1970 documentary film?",
+    "options": [
+      "Let It Be",
+      "Rubber Soul",
+      "Revolver",
+      "Abbey Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "In which decade was Abbey Road released?",
+    "options": [
+      "The 1960s",
+      "The 1950s",
+      "The 1970s",
+      "The 1980s"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "How many Beatles are shown walking across the road on the Abbey Road cover?",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatle leads the line, dressed all in white, on the Abbey Road cover?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Abbey Road",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album title suggests the band were up for sale?",
+    "options": [
+      "Help!",
+      "Beatles for Sale",
+      "Revolver",
+      "With the Beatles"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "What colour is the cover of the White Album?",
+    "options": [
+      "Black",
+      "Yellow",
+      "White",
+      "Red"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which fictional sergeant gives his name to a 1967 Beatles album?",
+    "options": [
+      "Sgt. Pepper",
+      "Sgt. Rock",
+      "Sgt. Bilko",
+      "Sgt. Salt"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Here Comes the ...\"?",
+    "options": [
+      "Rain",
+      "Sun",
+      "Moon",
+      "Night"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Here Comes the Sun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"All You Need Is ...\"?",
+    "options": [
+      "Hope",
+      "Money",
+      "Time",
+      "Love"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "All You Need Is Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Come ...\"?",
+    "options": [
+      "Back",
+      "Together",
+      "Along",
+      "Home"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Come Together"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Get ...\"?",
+    "options": [
+      "Out",
+      "Back",
+      "Home",
+      "Up"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Day ...\"?",
+    "options": [
+      "Breaker",
+      "Walker",
+      "Dreamer",
+      "Tripper"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Day Tripper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Paperback ...\"?",
+    "options": [
+      "Novel",
+      "Reader",
+      "Writer",
+      "Hero"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paperback Writer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Lady ...\"?",
+    "options": [
+      "Luck",
+      "Grey",
+      "Jane",
+      "Madonna"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lady Madonna"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Norwegian ...\"?",
+    "options": [
+      "Wind",
+      "Wood",
+      "Night",
+      "Way"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Norwegian Wood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Eleanor ...\"?",
+    "options": [
+      "Rowley",
+      "Robson",
+      "Rigby",
+      "Riley"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Eleanor Rigby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Twist and ...\"?",
+    "options": [
+      "Turn",
+      "Jump",
+      "Spin",
+      "Shout"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Twist and Shout"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"I Saw Her Standing ...\"?",
+    "options": [
+      "Up",
+      "Alone",
+      "There",
+      "Still"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Saw Her Standing There"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"We Can Work It ...\"?",
+    "options": [
+      "Up",
+      "Through",
+      "Off",
+      "Out"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "We Can Work It Out"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"The Fool on the ...\"?",
+    "options": [
+      "Road",
+      "Bus",
+      "Hill",
+      "Hall"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Fool on the Hill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"A Day in the ...\"?",
+    "options": [
+      "City",
+      "Life",
+      "Park",
+      "Sun"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "A Day in the Life"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Please Please ...\"?",
+    "options": [
+      "Stay",
+      "You",
+      "Me",
+      "Her"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"From Me to ...\"?",
+    "options": [
+      "You",
+      "Her",
+      "Home",
+      "Them"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "From Me to You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Magical Mystery ...\"?",
+    "options": [
+      "Ride",
+      "Tour",
+      "Train",
+      "Trip"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Here, There and ...\"?",
+    "options": [
+      "Somewhere",
+      "Anywhere",
+      "Nowhere",
+      "Everywhere"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Here, There and Everywhere"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Love Me ...\"?",
+    "options": [
+      "Too",
+      "Now",
+      "Back",
+      "Do"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"She Loves ...\"?",
+    "options": [
+      "Me",
+      "Him",
+      "Them",
+      "You"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Nowhere ...\"?",
+    "options": [
+      "Road",
+      "Land",
+      "Town",
+      "Man"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nowhere Man"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Good Day ...\"?",
+    "options": [
+      "Today",
+      "Sunshine",
+      "Tomorrow",
+      "Sunday"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Good Day Sunshine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Helter ...\"?",
+    "options": [
+      "Smelter",
+      "Skelter",
+      "Swelter",
+      "Shelter"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Helter Skelter"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Dear ...\"?",
+    "options": [
+      "Penelope",
+      "Prunella",
+      "Patience",
+      "Prudence"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Dear Prudence"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"I Am the ...\"?",
+    "options": [
+      "Eggman",
+      "Winner",
+      "Walrus",
+      "Captain"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Am the Walrus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Lovely ...\"?",
+    "options": [
+      "Ruby",
+      "Rita",
+      "Rose",
+      "Rachel"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lovely Rita"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Polythene ...\"?",
+    "options": [
+      "Peg",
+      "Polly",
+      "Pam",
+      "Pat"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Polythene Pam"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Martha My ...\"?",
+    "options": [
+      "Love",
+      "Friend",
+      "Girl",
+      "Dear"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Martha My Dear"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Sexy ...\"?",
+    "options": [
+      "Sophie",
+      "Sally",
+      "Sadie",
+      "Susie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sexy Sadie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Doctor ...\"?",
+    "options": [
+      "Rodney",
+      "Robert",
+      "Ronald",
+      "Richard"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Doctor Robert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Mean Mr. ...\"?",
+    "options": [
+      "Muffin",
+      "Mustard",
+      "Marmalade",
+      "Moonlight"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mean Mr. Mustard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Glass ...\"?",
+    "options": [
+      "Onion",
+      "Eye",
+      "Slipper",
+      "House"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glass Onion"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Baby, You're a Rich ...\"?",
+    "options": [
+      "Boy",
+      "Kid",
+      "Man",
+      "Girl"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Baby, You're a Rich Man"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Your Mother Should ...\"?",
+    "options": [
+      "Go",
+      "Know",
+      "Call",
+      "Sing"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Your Mother Should Know"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Hey ...\"?",
+    "options": [
+      "Beagle",
+      "Bloodhound",
+      "Boxer",
+      "Bulldog"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hey Bulldog"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Old Brown ...\"?",
+    "options": [
+      "Coat",
+      "Hat",
+      "Shoe",
+      "Dog"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Old Brown Shoe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"The Ballad of John and ...\"?",
+    "options": [
+      "Yoko",
+      "Julia",
+      "Cynthia",
+      "Paul"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Ballad of John and Yoko"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Ob-La-Di, ...\"?",
+    "options": [
+      "Ob-La-Do",
+      "Ob-La-Dee",
+      "Ob-La-Da",
+      "Ob-La-Day"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ob-La-Di, Ob-La-Da"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Penny ...\"?",
+    "options": [
+      "Street",
+      "Lane",
+      "Road",
+      "Avenue"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Penny Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "In the Beatles song title \"Rocky Raccoon\", what kind of animal is Rocky?",
+    "options": [
+      "A fox",
+      "A bear",
+      "A dog",
+      "A raccoon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rocky Raccoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which country does \"U.S.S.R.\" in \"Back in the U.S.S.R.\" refer to?",
+    "options": [
+      "The Soviet Union",
+      "South Africa",
+      "The United States",
+      "The United Kingdom"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Back in the U.S.S.R."
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song is named after a bird?",
+    "options": [
+      "Blackbird",
+      "Something",
+      "Penny Lane",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Blackbird"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song title is both a greeting and a farewell?",
+    "options": [
+      "Girl",
+      "Yesterday",
+      "Hello, Goodbye",
+      "Help!"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hello, Goodbye"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song complains about paying too much tax?",
+    "options": [
+      "Help!",
+      "Yesterday",
+      "Taxman",
+      "Michelle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Taxman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which of these Beatles song titles includes a fruit?",
+    "options": [
+      "Come Together",
+      "Strawberry Fields Forever",
+      "Penny Lane",
+      "Something"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Strawberry Fields Forever"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song would you most likely sing at a party for someone's special day?",
+    "options": [
+      "Yesterday",
+      "Help!",
+      "Taxman",
+      "Birthday"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Birthday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which of these Beatles song titles is about driving?",
+    "options": [
+      "Something",
+      "Drive My Car",
+      "Michelle",
+      "Girl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Drive My Car"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which of these Beatles song titles is a girl's name?",
+    "options": [
+      "Michelle",
+      "Something",
+      "Help!",
+      "Yesterday"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Michelle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song title is a single word meaning \"the day before today\"?",
+    "options": [
+      "Yesterday",
+      "Something",
+      "Help!",
+      "Girl"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which of these Beatles song titles contains a number?",
+    "options": [
+      "Help!",
+      "Eight Days a Week",
+      "Something",
+      "Penny Lane"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Eight Days a Week"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "singles",
+    "difficulty": 1,
+    "question": "Which Beatles single came out first?",
+    "options": [
+      "Get Back",
+      "Let It Be",
+      "Hey Jude",
+      "Love Me Do"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "singles",
+    "difficulty": 1,
+    "question": "Which of these Beatles songs was released earliest?",
+    "options": [
+      "Lady Madonna",
+      "She Loves You",
+      "Penny Lane",
+      "Hello, Goodbye"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "singles",
+    "difficulty": 1,
+    "question": "Which of these songs was a Beatles hit?",
+    "options": [
+      "Good Vibrations",
+      "My Generation",
+      "Waterloo Sunset",
+      "Hey Jude"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "singles",
+    "difficulty": 1,
+    "question": "Which of these songs was NOT by The Beatles?",
+    "options": [
+      "Penny Lane",
+      "Let It Be",
+      "Get Back",
+      "Bohemian Rhapsody"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Song quiz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "singles",
+    "difficulty": 1,
+    "question": "Which of these songs did The Beatles NOT record?",
+    "options": [
+      "Yesterday",
+      "(I Can't Get No) Satisfaction",
+      "Something",
+      "Help!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Song quiz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "films-tv",
+    "difficulty": 1,
+    "question": "Which Beatles film follows a coach trip around the countryside?",
+    "options": [
+      "Let It Be",
+      "Help!",
+      "Magical Mystery Tour",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "films-tv",
+    "difficulty": 1,
+    "question": "In the film Yellow Submarine, what colour is the submarine?",
+    "options": [
+      "Green",
+      "Yellow",
+      "Red",
+      "Blue"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "films-tv",
+    "difficulty": 1,
+    "question": "On which streaming service was the 2021 documentary series The Beatles: Get Back first shown?",
+    "options": [
+      "Disney+",
+      "Netflix",
+      "Amazon Prime Video",
+      "Apple TV+"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Get Back (2021)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "live",
+    "difficulty": 1,
+    "question": "What did fans do so loudly at Beatles concerts that the band could barely hear themselves?",
+    "options": [
+      "Clap",
+      "Stamp their feet",
+      "Scream",
+      "Sing along"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatlemania"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "live",
+    "difficulty": 1,
+    "question": "Which sweets did British fans famously throw at The Beatles on stage?",
+    "options": [
+      "Mints",
+      "Toffees",
+      "Chocolate buttons",
+      "Jelly babies"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatlemania"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "records",
+    "difficulty": 1,
+    "question": "Which honour did the Queen give each of The Beatles in 1965?",
+    "options": [
+      "The MBE",
+      "A peerage",
+      "A knighthood",
+      "The George Cross"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "MBE"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "solo-years",
+    "difficulty": 1,
+    "question": "Which 1971 John Lennon song asks the listener to picture a world at peace?",
+    "options": [
+      "Jealous Guy",
+      "Imagine",
+      "Mind Games",
+      "Woman"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Imagine",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "solo-years",
+    "difficulty": 1,
+    "question": "Which Wings hit is named after a part of Scotland?",
+    "options": [
+      "Silly Love Songs",
+      "Jet",
+      "Band on the Run",
+      "Mull of Kintyre"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Wings",
+      "Mull of Kintyre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "solo-years",
+    "difficulty": 1,
+    "question": "Which children's TV series about a railway engine did Ringo Starr narrate?",
+    "options": [
+      "Bob the Builder",
+      "Fireman Sam",
+      "Postman Pat",
+      "Thomas the Tank Engine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "solo-years",
+    "difficulty": 1,
+    "question": "Which Christmas song did John Lennon and Yoko Ono release in 1971?",
+    "options": [
+      "Happy Xmas (War Is Over)",
+      "Wonderful Christmastime",
+      "Do They Know It's Christmas?",
+      "Last Christmas"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Lennon",
+      "Christmas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "solo-years",
+    "difficulty": 1,
+    "question": "Which Christmas song did Paul McCartney release in 1979?",
+    "options": [
+      "Last Christmas",
+      "Happy Xmas (War Is Over)",
+      "Mistletoe and Wine",
+      "Wonderful Christmastime"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul McCartney",
+      "Christmas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "solo-years",
+    "difficulty": 1,
+    "question": "Which singer recorded \"Ebony and Ivory\" with Paul McCartney?",
+    "options": [
+      "Stevie Wonder",
+      "Elton John",
+      "Lionel Richie",
+      "Michael Jackson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "solo-years",
+    "difficulty": 1,
+    "question": "Which singer recorded \"Say Say Say\" with Paul McCartney?",
+    "options": [
+      "Michael Jackson",
+      "Lionel Richie",
+      "Elton John",
+      "Stevie Wonder"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paul McCartney",
+      "Michael Jackson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "solo-years",
+    "difficulty": 1,
+    "question": "Which peace song did John Lennon record during his 1969 bed-in in Montreal?",
+    "options": [
+      "Instant Karma!",
+      "Imagine",
+      "Power to the People",
+      "Give Peace a Chance"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Bed-ins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "solo-years",
+    "difficulty": 1,
+    "question": "At which 2012 London event did Paul McCartney lead the crowd in \"Hey Jude\"?",
+    "options": [
+      "The Wimbledon final",
+      "The Olympic Games opening ceremony",
+      "The FA Cup Final",
+      "The London Marathon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul McCartney",
+      "Hey Jude"
+    ],
+    "source": "manual"
+  }
+]

@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  <title>Top 100 Admin</title>
-  <!-- Moderation for the online Top 100. Published at /admin/top100.html by tools/build.js.
+  <title>Top 40 Admin</title>
+  <!-- Moderation for the online Top 40. Published at /admin/top100.html by tools/build.js.
        Needs the TOP100_ADMIN_KEY set in Netlify. Not linked from the game. -->
   <style>
     :root { --bg: #0b0f0d; --panel: #141b17; --line: #26302a; --text: #e8ece9; --muted: #93a098; --gold: #e0c27a; --bad: #f3a3a3; --warn: #f0c674; }
@@ -41,14 +41,14 @@
 <body>
   <main>
     <header>
-      <h1>Top 100 Admin</h1>
+      <h1>Top 40 Admin</h1>
       <p class="muted">Hide entries with offensive names or towns. Hidden entries stay in the database and can be shown again.
         To block a word for good, add it to <code>moderation/banned-words.json</code> and deploy.</p>
     </header>
 
     <form class="panel" id="login">
       <label>Admin key <input type="password" name="key" autocomplete="current-password" required size="32"></label>
-      <label>Edition <select name="edition"><option value="celtic">Celtic</option></select></label>
+      <label>Edition <select name="edition"><option value="celtic">Celtic</option><option value="beatles">Beatles</option></select></label>
       <button type="submit">Load</button>
     </form>
 
@@ -93,7 +93,7 @@
       let data = null;
       try { data = await res.json(); } catch {}
       if (!data && res.status === 404) {
-        throw new Error('There is no Top 100 server here. Open this page on the Netlify site, or run "npm run dev" and use http://localhost:8888/admin/top100.html (key: dev). Live Server can\'t run it.');
+        throw new Error('There is no Top 40 server here. Open this page on the Netlify site, or run "npm run dev" and use http://localhost:8888/admin/top100.html (key: dev). Live Server can\'t run it.');
       }
       if (!res.ok || !data?.ok) throw new Error(data?.message || `Request failed (${res.status})`);
       return data;
@@ -158,7 +158,7 @@
       if (!btn) return;
       btn.disabled = true;
       try {
-        await api('POST', { id: Number(btn.dataset.id), hidden: btn.dataset.hide === 'true' });
+        await api('POST', { edition, id: Number(btn.dataset.id), hidden: btn.dataset.hide === 'true' });
         const entry = entries.find((x) => x.id === Number(btn.dataset.id));
         entry.hidden = btn.dataset.hide === 'true';
         render();

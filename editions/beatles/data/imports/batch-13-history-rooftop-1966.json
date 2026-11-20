@@ -1,0 +1,1187 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "live",
+    "difficulty": 1,
+    "question": "Where did The Beatles play their famous last public performance in 1969?",
+    "options": [
+      "On a London rooftop",
+      "In Hyde Park",
+      "On a boat on the Thames",
+      "In a Liverpool cellar"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "On which London street was the Apple building where The Beatles played on the roof?",
+    "options": [
+      "Savile Row",
+      "Carnaby Street",
+      "Abbey Road",
+      "Baker Street"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rooftop concert",
+      "Savile Row"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "live",
+    "difficulty": 3,
+    "question": "Roughly how long did the rooftop concert last?",
+    "options": [
+      "Two and a half hours",
+      "90 minutes",
+      "12 minutes",
+      "42 minutes"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 3,
+    "question": "Who brought the rooftop concert to an end?",
+    "options": [
+      "The landlord",
+      "A power cut",
+      "The fire brigade",
+      "The police"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "live",
+    "difficulty": 3,
+    "question": "Which song closed the rooftop concert?",
+    "options": [
+      "Let It Be",
+      "Hey Jude",
+      "Get Back",
+      "Don't Let Me Down"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rooftop concert",
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 3,
+    "question": "What did John Lennon joke at the end of the rooftop concert?",
+    "options": [
+      "Is there a doctor in the house",
+      "I hope we've passed the audition",
+      "Same time next week",
+      "You can all go home now"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rooftop concert",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which guest keyboard player joined The Beatles on the roof?",
+    "options": [
+      "Billy Preston",
+      "George Martin",
+      "Stevie Wonder",
+      "Nicky Hopkins"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rooftop concert",
+      "Billy Preston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How many different songs did The Beatles perform in full during the rooftop concert?",
+    "options": [
+      "Three",
+      "Twelve",
+      "Nine",
+      "Five"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which song did The Beatles play three times during the rooftop concert?",
+    "options": [
+      "One After 909",
+      "Dig a Pony",
+      "Don't Let Me Down",
+      "Get Back"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rooftop concert",
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which of these rooftop performances appears on the Let It Be album?",
+    "options": [
+      "Don't Let Me Down",
+      "Dig a Pony",
+      "Two of Us",
+      "Get Back"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rooftop concert",
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "At about what time of day did the rooftop concert begin?",
+    "options": [
+      "Half past twelve",
+      "Eight in the evening",
+      "Five in the afternoon",
+      "Nine in the morning"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which Beatle walked out of the filmed rehearsals on 10 January 1969?",
+    "options": [
+      "Ringo Starr",
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Get Back sessions",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "On which date in January 1969 did Billy Preston join the Get Back sessions?",
+    "options": [
+      "22 January",
+      "2 January",
+      "10 January",
+      "30 January"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Get Back sessions",
+      "Billy Preston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which sound engineer claimed in his memoir Sound Man that the rooftop concert was his idea?",
+    "options": [
+      "Glyn Johns",
+      "Ken Scott",
+      "Geoff Emerick",
+      "Alan Parsons"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rooftop concert",
+      "Glyn Johns"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which future record producer and bandleader worked as assistant engineer on the rooftop concert?",
+    "options": [
+      "Trevor Horn",
+      "Alan Parsons",
+      "Jeff Lynne",
+      "Chris Thomas"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rooftop concert",
+      "Alan Parsons"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "What did the engineers buy from Marks and Spencer to shield the rooftop microphones from the wind?",
+    "options": [
+      "Woolly hats",
+      "Umbrellas",
+      "Women's stockings",
+      "Tea towels"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which guitar did George Harrison play on the Apple roof?",
+    "options": [
+      "A Rickenbacker 12-string",
+      "A rosewood Fender Telecaster",
+      "A Gretsch Country Gentleman",
+      "A Gibson Les Paul"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rooftop concert",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which guitar did John Lennon play on the Apple roof?",
+    "options": [
+      "A Fender Stratocaster",
+      "A Rickenbacker 325",
+      "A Gibson J-160E",
+      "An Epiphone Casino"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rooftop concert",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How many cameras did Michael Lindsay-Hogg's crew use to film the rooftop concert?",
+    "options": [
+      "Two",
+      "Six",
+      "Sixteen",
+      "Ten"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Whose red raincoat did Ringo Starr wear during the rooftop concert?",
+    "options": [
+      "His wife Maureen's",
+      "Mal Evans's",
+      "Yoko Ono's",
+      "Linda Eastman's"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rooftop concert",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "To whom did Paul McCartney say \"Thanks Mo\" at the end of the rooftop concert?",
+    "options": [
+      "Mo Foster",
+      "Mona Best",
+      "Mal Evans",
+      "Maureen Starkey"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rooftop concert",
+      "Maureen Starkey"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who switched off the guitar amplifiers on the roof when the police told him to?",
+    "options": [
+      "George Martin",
+      "Neil Aspinall",
+      "Glyn Johns",
+      "Mal Evans"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rooftop concert",
+      "Mal Evans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which anthem did The Beatles briefly play during the rooftop concert?",
+    "options": [
+      "Land of Hope and Glory",
+      "The Star-Spangled Banner",
+      "God Save the Queen",
+      "La Marseillaise"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which Beatle chose not to have any of his own songs played on the rooftop?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rooftop concert",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In which year did Peter Jackson's documentary series The Beatles: Get Back appear?",
+    "options": [
+      "2016",
+      "2012",
+      "2021",
+      "2003"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles: Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Who directed the documentary series The Beatles: Get Back?",
+    "options": [
+      "Peter Jackson",
+      "Ron Howard",
+      "Martin Scorsese",
+      "Sam Mendes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles: Get Back",
+      "Peter Jackson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "In which month of 1969 did John Lennon privately tell the others he was leaving The Beatles?",
+    "options": [
+      "December",
+      "September",
+      "January",
+      "April"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Break-up",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "live",
+    "difficulty": 2,
+    "question": "In which year did The Beatles make their last concert tour?",
+    "options": [
+      "1964",
+      "1968",
+      "1966",
+      "1970"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "live",
+    "difficulty": 3,
+    "question": "How many shows did The Beatles play on their 1966 North American tour?",
+    "options": [
+      "32",
+      "50",
+      "19",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 3,
+    "question": "At which stadium did The Beatles play their last paid concert?",
+    "options": [
+      "Shea Stadium",
+      "Wembley Stadium",
+      "Candlestick Park",
+      "Dodger Stadium"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Candlestick Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "live",
+    "difficulty": 3,
+    "question": "On which date did The Beatles play their final paid concert?",
+    "options": [
+      "15 August 1965",
+      "30 January 1969",
+      "29 August 1966",
+      "1 May 1966"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Candlestick Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How many people attended The Beatles' last concert at Candlestick Park?",
+    "options": [
+      "5,000",
+      "90,000",
+      "55,000",
+      "25,000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Candlestick Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How many songs were in The Beatles' set at Candlestick Park?",
+    "options": [
+      "Six",
+      "Twenty-five",
+      "Eleven",
+      "Eighteen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Candlestick Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which song closed The Beatles' shows on the 1966 US tour?",
+    "options": [
+      "Twist and Shout",
+      "Yesterday",
+      "Long Tall Sally",
+      "I'm Down"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Long Tall Sally"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How long was The Beatles' typical set on the 1966 US tour?",
+    "options": [
+      "About two hours",
+      "About 10 minutes",
+      "About an hour",
+      "About 30 minutes"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How many songs from Revolver did The Beatles play on the 1966 US tour?",
+    "options": [
+      "Two",
+      "Four",
+      "Six",
+      "None"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "To which journalist did John Lennon make his \"more popular than Jesus\" remark?",
+    "options": [
+      "Chris Hutchins",
+      "Maureen Cleave",
+      "Ray Coleman",
+      "Hunter Davies"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "More popular than Jesus",
+      "Maureen Cleave"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "In which London newspaper did John Lennon's \"more popular than Jesus\" remark first appear?",
+    "options": [
+      "The Times",
+      "The Guardian",
+      "Evening Standard",
+      "Daily Mirror"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "More popular than Jesus",
+      "Evening Standard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "Which American teen magazine reprinted John Lennon's \"Jesus\" remarks in July 1966 and started the furore?",
+    "options": [
+      "Tiger Beat",
+      "16 Magazine",
+      "Seventeen",
+      "Datebook"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "More popular than Jesus",
+      "Datebook"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "A radio station in which Alabama city led the 1966 bonfires of Beatles records?",
+    "options": [
+      "Mobile",
+      "Huntsville",
+      "Birmingham",
+      "Montgomery"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "More popular than Jesus",
+      "WAQY"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "In which city did John Lennon give a press conference to explain his \"Jesus\" remark at the start of the 1966 tour?",
+    "options": [
+      "New York",
+      "Los Angeles",
+      "Memphis",
+      "Chicago"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "More popular than Jesus",
+      "Chicago"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who was The Beatles' press officer on the 1966 US tour?",
+    "options": [
+      "Tony Barrow",
+      "Peter Brown",
+      "Brian Sommerville",
+      "Derek Taylor"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1966 tour",
+      "Tony Barrow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which girl group was among the support acts on The Beatles' 1966 US tour?",
+    "options": [
+      "The Shangri-Las",
+      "The Ronettes",
+      "The Supremes",
+      "The Crystals"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1966 tour",
+      "The Ronettes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which Boston band opened for The Beatles on the 1966 US tour and backed other acts on the bill?",
+    "options": [
+      "The Remains",
+      "The Standells",
+      "The Barbarians",
+      "The Cyrkle"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1966 tour",
+      "The Remains"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "In which city did 2,000 fans break through the barriers and stop a Beatles show in August 1966?",
+    "options": [
+      "Detroit",
+      "Seattle",
+      "St. Louis",
+      "Cleveland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Cleveland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "At which Los Angeles stadium were The Beatles trapped for two hours after a 1966 concert?",
+    "options": [
+      "The Hollywood Bowl",
+      "Dodger Stadium",
+      "The Coliseum",
+      "The Rose Bowl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1966 tour",
+      "Dodger Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "In which city did a firecracker thrown on stage in 1966 make The Beatles think someone had fired a shot?",
+    "options": [
+      "New Orleans",
+      "Memphis",
+      "Atlanta",
+      "Dallas"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1966 tour",
+      "Memphis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which group demonstrated outside The Beatles' Memphis concerts in August 1966?",
+    "options": [
+      "The Black Panthers",
+      "The Hells Angels",
+      "The Ku Klux Klan",
+      "The John Birch Society"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Memphis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which war did John Lennon and George Harrison speak out against during the 1966 tour?",
+    "options": [
+      "The Suez conflict",
+      "The Six-Day War",
+      "The Vietnam War",
+      "The Korean War"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Vietnam War"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "What was The Beatles' fee for the Candlestick Park concert?",
+    "options": [
+      "$5,000",
+      "$180,000",
+      "$50,000",
+      "$1 million"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Candlestick Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Whom did Paul McCartney ask to tape the final concert at Candlestick Park?",
+    "options": [
+      "Mal Evans",
+      "Neil Aspinall",
+      "Brian Epstein",
+      "Tony Barrow"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Tony Barrow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Who said \"That's it, then. I'm not a Beatle anymore\" on the flight after the last concert?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 3,
+    "question": "In which city is Candlestick Park, scene of The Beatles' last paid concert?",
+    "options": [
+      "Chicago",
+      "New York",
+      "Los Angeles",
+      "San Francisco"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Candlestick Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How many tickets were left unsold for The Beatles' final concert at Candlestick Park?",
+    "options": [
+      "About 20,000",
+      "None",
+      "About 500",
+      "About 7,000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Candlestick Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which notorious record sleeve, withdrawn by Capitol in June 1966, added to The Beatles' troubles in America that summer?",
+    "options": [
+      "The \"smoking cover\"",
+      "The \"naked cover\"",
+      "The \"bed-in cover\"",
+      "The \"butcher cover\""
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yesterday and Today",
+      "Butcher cover"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which British DJ travelled with The Beatles' press party on the 1966 US tour?",
+    "options": [
+      "Tony Blackburn",
+      "Kenny Everett",
+      "John Peel",
+      "Alan Freeman"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1966 tour",
+      "Kenny Everett"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "In which two countries besides the USA did The Beatles' 1966 summer tour take them to Asia?",
+    "options": [
+      "South Korea and Taiwan",
+      "India and Thailand",
+      "Japan and the Philippines",
+      "Hong Kong and Australia"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which First Lady did The Beatles appear to snub in Manila in 1966?",
+    "options": [
+      "Madame Nhu",
+      "Lady Bird Johnson",
+      "Imelda Marcos",
+      "Indira Gandhi"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Philippines",
+      "Imelda Marcos"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "In which Canadian city did The Beatles play two shows on the 1966 tour?",
+    "options": [
+      "Toronto",
+      "Winnipeg",
+      "Vancouver",
+      "Montreal"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1966 tour",
+      "Toronto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How many concert tours had The Beatles undertaken between 1963 and the end of the 1966 US tour?",
+    "options": [
+      "14",
+      "8",
+      "30",
+      "4"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Touring"
+    ],
+    "source": "manual"
+  }
+]

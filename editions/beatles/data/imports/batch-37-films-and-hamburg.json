@@ -1,0 +1,141 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "For what was Paul McCartney deported from Germany in 1960?",
+    "options": [
+      "Theft",
+      "Assault",
+      "Working under age",
+      "Attempted arson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "How many of The Beatles' feature films were shot in black and white?",
+    "options": [
+      "Three",
+      "None",
+      "Two",
+      "One"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which Beatle is accidentally shrunk in the film Help!?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Help! (film)",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "The 1965 film Help! is a spoof of which film series?",
+    "options": [
+      "Batman",
+      "Carry On",
+      "The Pink Panther",
+      "James Bond"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Help! (film)",
+      "James Bond"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "Which Beatle is arrested in the film A Hard Day's Night?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which Beatle wins the race in the film Magical Mystery Tour?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Magical Mystery Tour",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which song plays as The Beatles dance in white tailcoats at the end of Magical Mystery Tour?",
+    "options": [
+      "Blue Jay Way",
+      "The Fool on the Hill",
+      "Your Mother Should Know",
+      "I Am the Walrus"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Magical Mystery Tour",
+      "Your Mother Should Know"
+    ],
+    "source": "manual"
+  }
+]

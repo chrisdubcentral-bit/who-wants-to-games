@@ -9,6 +9,7 @@ import { supportsDirectSave, secureAddressHint, questionsFolder } from '../data-
 import { createAdminStore } from './admin-store.js';
 import * as dashboard from './views/dashboard.js';
 import * as reviewList from './views/review-list.js';
+import * as bulkReview from './views/bulk-review.js';
 import * as editForm from './views/edit-form.js';
 import * as adverts from './views/adverts.js';
 
@@ -35,6 +36,7 @@ function renderRoute() {
   const { path, params } = parseHash();
   let section = 'dashboard';
   if (path === 'review') { section = 'review'; cleanup = reviewList.render(root, ctx, params); }
+  else if (path === 'bulk') { section = 'bulk'; cleanup = bulkReview.render(root, ctx); }
   else if (path.startsWith('edit/')) { section = 'review'; cleanup = editForm.render(root, ctx, decodeURIComponent(path.slice(5))); }
   else if (path === 'new') { section = 'new'; cleanup = editForm.render(root, ctx, null); }
   else if (path === 'adverts') { section = 'adverts'; cleanup = adverts.render(root, ctx); }
@@ -79,6 +81,10 @@ async function doPublish() {
   }
   try {
     const res = await store.publish();
+    if (res.addedFromDisk) {
+      const n = res.addedFromDisk;
+      toast({ message: `Kept ${n} question${n === 1 ? '' : 's'} added to the files since this page loaded`, duration: 8000 });
+    }
     if (res.method === 'direct') {
       toast({ message: 'Published — the game now uses these questions', tone: 'success' });
     } else {
@@ -95,7 +101,15 @@ async function doPublish() {
   } catch (err) {
     if (err?.name === 'AbortError') return;
     console.error(err);
-    toast({ message: `Publish failed: ${err.message}`, tone: 'danger' });
+    // Publish reads the question files first, so a stopped local server shows up as a bare "Failed to fetch".
+    const serverGone = err instanceof TypeError && /fetch/i.test(err.message);
+    toast({
+      message: serverGone
+        ? `Publish couldn't reach ${location.host}: the local server has stopped. Start Live Server (Go Live) or "npm run dev" again on the same address, reload this page, then Publish. Your changes are kept.`
+        : `Publish failed: ${err.message}`,
+      tone: 'danger',
+      duration: serverGone ? 15000 : undefined,
+    });
   }
 }
 

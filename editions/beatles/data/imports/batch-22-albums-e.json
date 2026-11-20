@@ -1,0 +1,1098 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Sgt. Pepper's Lonely Hearts Club Band released in the UK?",
+    "options": [
+      "22 November 1968",
+      "25 June 1967",
+      "26 May 1967",
+      "5 August 1966"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which two pop artists designed the Sgt. Pepper cover?",
+    "options": [
+      "Richard Hamilton and David Hockney",
+      "Klaus Voormann and Alan Aldridge",
+      "Andy Warhol and Roy Lichtenstein",
+      "Peter Blake and Jann Haworth"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sgt. Pepper",
+      "Peter Blake"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "For how many weeks was Sgt. Pepper number one on the UK album chart?",
+    "options": [
+      "52",
+      "27",
+      "15",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "For how many weeks was Sgt. Pepper number one on the US Billboard album chart?",
+    "options": [
+      "3",
+      "27",
+      "15",
+      "40"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "records",
+    "difficulty": 3,
+    "question": "Which album was the first rock LP to win the Grammy Award for Album of the Year?",
+    "options": [
+      "Help!",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Abbey Road",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper",
+      "Grammy Awards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "How many Grammy Awards did Sgt. Pepper win in 1968?",
+    "options": [
+      "Four",
+      "Nine",
+      "Two",
+      "One"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper",
+      "Grammy Awards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which was the first Beatles album to have the same track listing in Britain and America?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Revolver",
+      "The White Album",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which Beatles album was the UK's best-selling studio album as of 2018?",
+    "options": [
+      "1",
+      "The White Album",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Abbey Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was a remixed, expanded 50th anniversary edition of Sgt. Pepper released?",
+    "options": [
+      "2007",
+      "2021",
+      "2012",
+      "2017"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was a remixed and expanded edition of the White Album released?",
+    "options": [
+      "2008",
+      "2013",
+      "2018",
+      "2022"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was a remixed and expanded edition of Revolver released?",
+    "options": [
+      "2006",
+      "2019",
+      "2022",
+      "2016"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was a remixed and expanded edition of Let It Be released, alongside the Get Back series?",
+    "options": [
+      "2010",
+      "2021",
+      "2003",
+      "2019"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Which single came from the White Album sessions but was not on the album?",
+    "options": [
+      "Hello, Goodbye",
+      "Hey Jude",
+      "Lady Madonna",
+      "Get Back"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "White Album",
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many songs were on the American version of Revolver?",
+    "options": [
+      "Eight",
+      "Fourteen",
+      "Eleven",
+      "Sixteen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "For how many weeks did Revolver top the UK album chart?",
+    "options": [
+      "One",
+      "Fifteen",
+      "Seven",
+      "Twenty-seven"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "The Revolver sleeve won a 1967 Grammy Award in which category?",
+    "options": [
+      "Best New Artist",
+      "Best Album Cover",
+      "Best Engineered Recording",
+      "Album of the Year"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolver",
+      "Grammy Awards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Klaus Voormann's Revolver cover drawing was inspired by which Victorian illustrator?",
+    "options": [
+      "Arthur Rackham",
+      "Aubrey Beardsley",
+      "Edward Lear",
+      "John Tenniel"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolver",
+      "Klaus Voormann"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album has overtaken Sgt. Pepper in many critics' rankings as The Beatles' best?",
+    "options": [
+      "Revolver",
+      "Help!",
+      "Magical Mystery Tour",
+      "Let It Be"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on the album Please Please Me?",
+    "options": [
+      "Boys",
+      "Misery",
+      "All My Loving",
+      "Chains"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on With the Beatles?",
+    "options": [
+      "It Won't Be Long",
+      "Little Child",
+      "Hold Me Tight",
+      "I Saw Her Standing There"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on the album A Hard Day's Night?",
+    "options": [
+      "If I Fell",
+      "Eight Days a Week",
+      "Tell Me Why",
+      "I'll Be Back"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on Beatles for Sale?",
+    "options": [
+      "Ticket to Ride",
+      "I'm a Loser",
+      "No Reply",
+      "Words of Love"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on the British Help! album?",
+    "options": [
+      "Another Girl",
+      "Drive My Car",
+      "The Night Before",
+      "Act Naturally"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on the British Rubber Soul?",
+    "options": [
+      "Wait",
+      "Taxman",
+      "The Word",
+      "Girl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on Revolver?",
+    "options": [
+      "Love You To",
+      "Paperback Writer",
+      "For No One",
+      "Doctor Robert"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on Sgt. Pepper?",
+    "options": [
+      "Getting Better",
+      "Penny Lane",
+      "Fixing a Hole",
+      "Lovely Rita"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on the White Album?",
+    "options": [
+      "Savoy Truffle",
+      "Hey Bulldog",
+      "Glass Onion",
+      "Piggies"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on Abbey Road?",
+    "options": [
+      "Sun King",
+      "Because",
+      "Across the Universe",
+      "Oh! Darling"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these songs is NOT on Let It Be?",
+    "options": [
+      "For You Blue",
+      "Don't Let Me Down",
+      "Two of Us",
+      "Dig a Pony"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"Michelle\" and \"Girl\"?",
+    "options": [
+      "Revolver",
+      "Help!",
+      "Beatles for Sale",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"Julia\" and \"Sexy Sadie\"?",
+    "options": [
+      "The White Album",
+      "Abbey Road",
+      "Let It Be",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"Taxman\" and \"Doctor Robert\"?",
+    "options": [
+      "Help!",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Revolver",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"No Reply\" and \"I'll Follow the Sun\"?",
+    "options": [
+      "Beatles for Sale",
+      "Help!",
+      "A Hard Day's Night",
+      "With the Beatles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"Misery\" and \"There's a Place\"?",
+    "options": [
+      "Please Please Me",
+      "With the Beatles",
+      "A Hard Day's Night",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"Because\" and \"Sun King\"?",
+    "options": [
+      "Abbey Road",
+      "Let It Be",
+      "The White Album",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"Dig It\" and \"I Me Mine\"?",
+    "options": [
+      "Yellow Submarine",
+      "Let It Be",
+      "The White Album",
+      "Abbey Road"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"Getting Better\" and \"Lovely Rita\"?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Revolver",
+      "Rubber Soul",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"Little Child\" and \"Not a Second Time\"?",
+    "options": [
+      "A Hard Day's Night",
+      "Please Please Me",
+      "With the Beatles",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"Tell Me Why\" and \"I'll Cry Instead\"?",
+    "options": [
+      "Beatles for Sale",
+      "Help!",
+      "A Hard Day's Night",
+      "With the Beatles"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album contains both \"The Night Before\" and \"It's Only Love\"?",
+    "options": [
+      "Help!",
+      "Rubber Soul",
+      "A Hard Day's Night",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which album came first: Revolver, Rubber Soul, Sgt. Pepper or Abbey Road?",
+    "options": [
+      "Abbey Road",
+      "Rubber Soul",
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which album came out last: Help!, Revolver, the White Album or Let It Be?",
+    "options": [
+      "Revolver",
+      "Help!",
+      "Let It Be",
+      "The White Album"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which album came directly after Help! in The Beatles' British discography?",
+    "options": [
+      "Rubber Soul",
+      "Beatles for Sale",
+      "A Hard Day's Night",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which album came directly after Revolver in The Beatles' British discography?",
+    "options": [
+      "Magical Mystery Tour",
+      "Rubber Soul",
+      "The White Album",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which album came directly before A Hard Day's Night in The Beatles' British discography?",
+    "options": [
+      "Please Please Me",
+      "With the Beatles",
+      "Beatles for Sale",
+      "Help!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which album came directly after the White Album in The Beatles' British discography?",
+    "options": [
+      "Yellow Submarine",
+      "Magical Mystery Tour",
+      "Let It Be",
+      "Abbey Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which two Beatles albums were released in 1963?",
+    "options": [
+      "A Hard Day's Night and Help!",
+      "Please Please Me and Beatles for Sale",
+      "With the Beatles and A Hard Day's Night",
+      "Please Please Me and With the Beatles"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which two Beatles albums were released in 1964?",
+    "options": [
+      "Please Please Me and A Hard Day's Night",
+      "With the Beatles and Help!",
+      "Beatles for Sale and Rubber Soul",
+      "A Hard Day's Night and Beatles for Sale"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which two Beatles albums were released in 1965?",
+    "options": [
+      "Beatles for Sale and Help!",
+      "Rubber Soul and Revolver",
+      "Revolver and Sgt. Pepper",
+      "Help! and Rubber Soul"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which two Beatles studio albums were released in 1969?",
+    "options": [
+      "Abbey Road and Let It Be",
+      "Yellow Submarine and Abbey Road",
+      "The White Album and Abbey Road",
+      "Yellow Submarine and Let It Be"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Album order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many George Harrison songs are on the White Album?",
+    "options": [
+      "Two",
+      "Four",
+      "Seven",
+      "One"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "White Album",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many George Harrison songs are on Abbey Road?",
+    "options": [
+      "One",
+      "Three",
+      "Two",
+      "Four"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Abbey Road",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many George Harrison songs are on Sgt. Pepper?",
+    "options": [
+      "None",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which is the only George Harrison song on Sgt. Pepper?",
+    "options": [
+      "Blue Jay Way",
+      "Within You Without You",
+      "Love You To",
+      "Only a Northern Song"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sgt. Pepper",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which two George Harrison songs are on the Yellow Submarine album?",
+    "options": [
+      "Old Brown Shoe and For You Blue",
+      "Piggies and Savoy Truffle",
+      "Blue Jay Way and The Inner Light",
+      "Only a Northern Song and It's All Too Much"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yellow Submarine",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which two George Harrison songs are on the Help! album?",
+    "options": [
+      "I Need You and You Like Me Too Much",
+      "Think for Yourself and If I Needed Someone",
+      "Taxman and Love You To",
+      "Don't Bother Me and I Need You"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Help!",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which two George Harrison songs are on Let It Be?",
+    "options": [
+      "Something and Here Comes the Sun",
+      "Old Brown Shoe and Not Guilty",
+      "I Me Mine and For You Blue",
+      "Piggies and Long, Long, Long"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be",
+      "George Harrison"
+    ],
+    "source": "manual"
+  }
+]

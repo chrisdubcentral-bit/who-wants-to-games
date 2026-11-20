@@ -1,0 +1,12 @@
+# The Rutles (the Beatles parody band and the 1978 film All You Need Is Cash). Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | films-tv | Which member of The Rutles is the parody of Ringo Starr? | Barry Wom | Ron Nasty | Dirk McQuickly | Stig O'Hara | The Rutles; Ringo Starr
+3 | films-tv | Which member of The Rutles was played by Neil Innes? | Ron Nasty | Barry Wom | Dirk McQuickly | Stig O'Hara | The Rutles; Neil Innes
+3 | films-tv | Which real Beatle makes a cameo as a TV interviewer in the Rutles film All You Need Is Cash? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | The Rutles; George Harrison
+4 | films-tv | Which American TV network first broadcast the Rutles film All You Need Is Cash in March 1978? | NBC | ABC | CBS | PBS | The Rutles
+4 | films-tv | Which character in the Rutles film All You Need Is Cash is the parody of Brian Epstein? | Leggy Mountbatten | Archie Macaw | Eric Manchester | Ron Decline | The Rutles; Brian Epstein
+4 | films-tv | John Belushi plays Ron Decline in All You Need Is Cash, a parody of which Beatles business figure? | Allen Klein | Brian Epstein | Dick James | Derek Taylor | The Rutles; Allen Klein
+4 | records | The Rutles' 1978 soundtrack album was nominated for a Grammy in which category? | Best Comedy Recording | Best New Artist | Best Rock Album | Best Spoken Word Album | The Rutles
+4 | songs | Which Rutles song is the parody of the Beatles' Get Back? | Get Up and Go | Doubleback Alley | Cheese and Onions | Piggy in the Middle | The Rutles; Get Back
+5 | people | Who sang the vocals that Eric Idle mimed to as Dirk McQuickly in All You Need Is Cash? | Ollie Halsall | Andy Brown | John Halsey | Ricky Fataar | The Rutles; Ollie Halsall
+5 | films-tv | Which comedian plays Brian Thigh, the producer who turned down The Rutles, in All You Need Is Cash? | Dan Aykroyd | Bill Murray | Chevy Chase | Steve Martin | The Rutles; Dan Aykroyd

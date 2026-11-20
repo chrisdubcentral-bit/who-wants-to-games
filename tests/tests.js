@@ -348,11 +348,11 @@ test('no 50:50 ranks above 50:50 however fast, then fastest, then earliest', () 
   ].sort(compareEntries).map((e) => e.name);
   eq(rows, ['fast', 'early', 'late', 'slow', 'fifty-fast', 'fifty-slow']);
 });
-test('the board keeps only the top 100 and reports the new rank', () => {
+test('the board keeps only the top LIMIT and reports the new rank', () => {
   const full = Array.from({ length: LIMIT }, (_, i) => entry({ name: 'p' + i, durationMs: 1000 * (i + 1) }));
   const better = entry({ name: 'new', durationMs: 500 });
   const r = insertEntry(full, better);
-  eq(r.board.length, LIMIT); eq(r.rank, 1); eq(r.board[LIMIT - 1].name, 'p98');
+  eq(r.board.length, LIMIT); eq(r.rank, 1); eq(r.board[LIMIT - 1].name, 'p' + (LIMIT - 2));
   eq(insertEntry(full, entry({ durationMs: 999999 })).rank, null);
 });
 test('prospective rank says whether a game would make the board', () => {

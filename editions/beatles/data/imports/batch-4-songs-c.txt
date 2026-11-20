@@ -1,0 +1,87 @@
+# Beatles songs, part C (The End to Got to Get You into My Life). Source: Wikipedia song articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | in-the-studio | Which Abbey Road track contains the only drum solo Ringo Starr recorded with The Beatles? | The End | Come Together | I Want You (She's So Heavy) | Polythene Pam | The End; Ringo Starr
+3 | in-the-studio | Which song was the last to be recorded collectively by all four Beatles? | The End | Let It Be | I Me Mine | Get Back | The End; Abbey Road
+2 | albums | "Drive My Car" opens which Beatles album? | Rubber Soul | Revolver | Help! | Beatles for Sale | Drive My Car; Rubber Soul
+3 | songs | Who was the main writer of "Drive My Car"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Drive My Car; Paul McCartney
+4 | albums | "Drive My Car" was dropped from the American Rubber Soul and opened which US album instead? | Yesterday and Today | Beatles VI | Hey Jude | Beatles '65 | Drive My Car; Yesterday and Today
+3 | songs | Which song was the first solo composition by Ringo Starr to appear on a Beatles album? | Don't Pass Me By | Octopus's Garden | What Goes On | Good Night | Don't Pass Me By; Ringo Starr
+5 | singles | In which country did "Don't Pass Me By" reach number one as a single in 1969? | Denmark | Canada | Australia | Japan | Don't Pass Me By
+3 | albums | On which album is "Don't Pass Me By"? | The White Album | Abbey Road | Sgt. Pepper's Lonely Hearts Club Band | Help! | Don't Pass Me By; White Album
+4 | albums | "Everybody's Got Something to Hide Except Me and My Monkey" is on which album? | The White Album | Revolver | Let It Be | Magical Mystery Tour | Me and My Monkey; White Album
+5 | songs | Which White Album song did John Lennon say was about his bandmates' reaction to his relationship with Yoko Ono? | Everybody's Got Something to Hide Except Me and My Monkey | Sexy Sadie | Glass Onion | I'm So Tired | Me and My Monkey; John Lennon
+2 | songs | Who wrote and sang "The Fool on the Hill"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | The Fool on the Hill; Paul McCartney
+3 | albums | "The Fool on the Hill" appears on which Beatles release? | Magical Mystery Tour | Sgt. Pepper's Lonely Hearts Club Band | The White Album | Yellow Submarine | The Fool on the Hill; Magical Mystery Tour
+5 | films-tv | Near which French city did Paul McCartney film the "Fool on the Hill" sequence for Magical Mystery Tour? | Nice | Paris | Marseille | Lyon | The Fool on the Hill; Magical Mystery Tour
+5 | people | Which Dutch design collective did Paul McCartney say helped inspire "The Fool on the Hill"? | The Fool | The Seekers | Provo | The Apple Tree | The Fool on the Hill; The Fool
+3 | albums | In Britain, Magical Mystery Tour was first released in which format? | A double EP | A single LP | A triple album | A cassette only | Magical Mystery Tour
+3 | albums | "Fixing a Hole" is a track on which album? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Rubber Soul | Magical Mystery Tour | Fixing a Hole; Sgt. Pepper
+4 | songs | Who wrote "Fixing a Hole"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Fixing a Hole; Paul McCartney
+4 | albums | "Every Little Thing" appears on which Beatles album? | Beatles for Sale | Help! | A Hard Day's Night | Rubber Soul | Every Little Thing; Beatles for Sale
+5 | in-the-studio | Which orchestral percussion instrument does Ringo Starr play on "Every Little Thing"? | Timpani | Glockenspiel | Tubular bells | Vibraphone | Every Little Thing; Ringo Starr
+4 | songs | Which rockabilly star is credited with writing "Everybody's Trying to Be My Baby"? | Carl Perkins | Gene Vincent | Eddie Cochran | Jerry Lee Lewis | Everybody's Trying to Be My Baby; Carl Perkins
+3 | songs | Which song was the first George Harrison composition to appear on a Beatles album? | Don't Bother Me | I Need You | Taxman | If I Needed Someone | Don't Bother Me; George Harrison
+4 | albums | George Harrison's "Don't Bother Me" is on which album? | With the Beatles | Please Please Me | A Hard Day's Night | Help! | Don't Bother Me; With the Beatles
+3 | singles | "Don't Let Me Down" was the B-side of which single? | Get Back | Let It Be | Hey Jude | Something | Don't Let Me Down; Get Back
+3 | songs | Who wrote "Don't Let Me Down"? | John Lennon | Paul McCartney | George Harrison | Billy Preston | Don't Let Me Down; John Lennon
+4 | albums | Which producer left "Don't Let Me Down" off the Let It Be album? | Phil Spector | George Martin | Glyn Johns | Jeff Lynne | Don't Let Me Down; Phil Spector
+2 | singles | Which 1995 Beatles single was built on a John Lennon home demo from 1977? | Free as a Bird | Real Love | Now and Then | Grow Old with Me | Free as a Bird
+3 | singles | "Free as a Bird" was released to promote which project? | The Beatles Anthology | Live at the BBC | The 1 compilation | Let It Be... Naked | Free as a Bird; Anthology
+3 | people | Who gave Paul McCartney the John Lennon demo tapes that became "Free as a Bird" and "Real Love"? | Yoko Ono | Sean Lennon | Julian Lennon | May Pang | Free as a Bird; Yoko Ono
+3 | albums | "Eight Days a Week" appears on which British album? | Beatles for Sale | Help! | A Hard Day's Night | Rubber Soul | Eight Days a Week; Beatles for Sale
+4 | in-the-studio | What studio effect opens "Eight Days a Week", unusually for a pop song of 1964? | A fade-in | Guitar feedback | A backwards tape | A count-in in German | Eight Days a Week
+4 | singles | "Eight Days a Week" was a US number one single; which American album did it then appear on? | Beatles VI | Beatles '65 | Help! | Yesterday and Today | Eight Days a Week; Beatles VI
+5 | singles | "Eight Days a Week" was The Beatles' US Billboard number one of which count? | Their seventh | Their third | Their fifth | Their tenth | Eight Days a Week
+5 | in-the-studio | Which unreleased song did Paul McCartney record as a demo during a White Album session in August 1968? | Etcetera | Carnival of Light | Suzy Parker | Watching Rainbows | Etcetera; White Album
+4 | singles | On which date in 1969 was the "Get Back" single released? | 11 April | 30 January | 8 May | 26 September | Get Back
+3 | songs | Who wrote "Helter Skelter"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Helter Skelter; Paul McCartney
+3 | albums | "Helter Skelter" is on which album? | The White Album | Abbey Road | Let It Be | Revolver | Helter Skelter; White Album
+3 | songs | "Helter Skelter" is often seen as an early influence on which style of music? | Heavy metal | Reggae | Disco | Country rock | Helter Skelter
+5 | singles | In 1976 "Helter Skelter" was the US B-side of which single? | Got to Get You into My Life | Ob-La-Di, Ob-La-Da | Back in the U.S.S.R. | Yesterday | Helter Skelter; Rock 'n' Roll Music
+3 | albums | "Getting Better" is on which Beatles album? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Rubber Soul | Help! | Getting Better; Sgt. Pepper
+2 | singles | In which year was "From Me to You" released? | 1963 | 1962 | 1964 | 1965 | From Me to You
+4 | singles | "From Me to You" was The Beatles' single of which number? | Their third | Their first | Their second | Their fifth | From Me to You
+5 | people | Whose 1963 cover of "From Me to You" was the first Lennon-McCartney song to enter the US pop charts? | Del Shannon | Roy Orbison | Bobby Vee | Gene Pitney | From Me to You; Del Shannon
+2 | songs | Who was the main writer of the song "A Hard Day's Night"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | A Hard Day's Night; John Lennon
+4 | singles | What was the B-side of the British "A Hard Day's Night" single? | Things We Said Today | I Should Have Known Better | If I Fell | And I Love Her | A Hard Day's Night; Things We Said Today
+5 | singles | What was the B-side of the American "A Hard Day's Night" single? | I Should Have Known Better | Things We Said Today | Tell Me Why | I'm Happy Just to Dance with You | A Hard Day's Night
+1 | films-tv | What was the title of The Beatles' first feature film, released in 1964? | A Hard Day's Night | Help! | Yellow Submarine | Let It Be | A Hard Day's Night
+2 | singles | Which John Lennon song was the B-side of "Hello, Goodbye"? | I Am the Walrus | Strawberry Fields Forever | Revolution | Rain | Hello, Goodbye; I Am the Walrus
+3 | singles | Which Beatles single was the UK Christmas number one of 1967? | Hello, Goodbye | All You Need Is Love | Lady Madonna | Magical Mystery Tour | Hello, Goodbye; Christmas number one
+3 | singles | "Hello, Goodbye" was the first Beatles release after the death of which person? | Brian Epstein | Stuart Sutcliffe | Julia Lennon | Mal Evans | Hello, Goodbye; Brian Epstein
+5 | people | Paul McCartney began "Hello, Goodbye" while demonstrating songwriting to which Beatles aide? | Alistair Taylor | Mal Evans | Neil Aspinall | Peter Brown | Hello, Goodbye; Alistair Taylor
+1 | songs | Who wrote and sang "Here Comes the Sun"? | George Harrison | Paul McCartney | John Lennon | Ringo Starr | Here Comes the Sun; George Harrison
+3 | songs | In whose garden did George Harrison write "Here Comes the Sun"? | Eric Clapton's | Bob Dylan's | Mick Jagger's | Ravi Shankar's | Here Comes the Sun; Eric Clapton
+4 | in-the-studio | Which then-new electronic instrument features on "Here Comes the Sun"? | Moog synthesiser | Mellotron | Theremin | Fairlight sampler | Here Comes the Sun; Moog
+4 | songs | George Harrison wrote "Here Comes the Sun" while skipping a meeting at which company? | Apple Corps | EMI | NEMS Enterprises | Northern Songs | Here Comes the Sun; Apple Corps
+2 | albums | "Here Comes the Sun" is on which Beatles album? | Abbey Road | Let It Be | The White Album | Revolver | Here Comes the Sun; Abbey Road
+3 | songs | Which song, at 23 seconds, is the shortest Beatles track? | Her Majesty | Maggie Mae | Dig It | Wild Honey Pie | Her Majesty; Abbey Road
+3 | albums | "Her Majesty" is the unlisted final track on which album? | Abbey Road | Let It Be | The White Album | Sgt. Pepper's Lonely Hearts Club Band | Her Majesty; Abbey Road
+2 | songs | Which Beatle wrote and sang "Her Majesty"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Her Majesty; Paul McCartney
+4 | songs | John Lennon took the title "Happiness Is a Warm Gun" from an article in which kind of magazine? | An American gun magazine | A British music paper | A French fashion magazine | A children's comic | Happiness Is a Warm Gun
+3 | albums | "Happiness Is a Warm Gun" is on which album? | The White Album | Abbey Road | Revolver | Let It Be | Happiness Is a Warm Gun; White Album
+5 | places | What was the name of George Harrison's Esher bungalow, where the White Album demos were taped? | Kinfauns | Kenwood | Friar Park | Sunny Heights | Kinfauns; Esher demos
+4 | albums | "Sun King" is part of the medley on which album? | Abbey Road | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Let It Be | Sun King; Abbey Road
+4 | albums | "Glass Onion" appears on which album? | The White Album | Magical Mystery Tour | Yellow Submarine | Abbey Road | Glass Onion; White Album
+4 | songs | Which Sgt. Pepper song was inspired by a television advert for Kellogg's Corn Flakes? | Good Morning Good Morning | Lovely Rita | Getting Better | Fixing a Hole | Good Morning Good Morning
+5 | songs | Which BBC sitcom is named in the lyrics of "Good Morning Good Morning"? | Meet the Wife | Steptoe and Son | Till Death Us Do Part | The Likely Lads | Good Morning Good Morning
+4 | songs | Who wrote "Good Morning Good Morning"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Good Morning Good Morning; John Lennon
+3 | albums | "Good Day Sunshine" appears on which album? | Revolver | Rubber Soul | Help! | Sgt. Pepper's Lonely Hearts Club Band | Good Day Sunshine; Revolver
+5 | songs | Paul McCartney wrote "Good Day Sunshine" in the style of "Daydream" by which American band? | The Lovin' Spoonful | The Byrds | The Mamas and the Papas | The Turtles | Good Day Sunshine; The Lovin' Spoonful
+3 | albums | "Girl" appears on which Beatles album? | Rubber Soul | Revolver | Help! | Beatles for Sale | Girl; Rubber Soul
+4 | songs | Who wrote "Girl" on Rubber Soul? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Girl; John Lennon
+5 | in-the-studio | Which song was the last complete song recorded for the Rubber Soul album? | Girl | Wait | In My Life | Michelle | Girl; Rubber Soul
+1 | films-tv | Which Beatles song shares its title with their 1965 film? | Help! | Ticket to Ride | Yesterday | Day Tripper | Help!
+2 | songs | Who was the main writer of "Help!"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Help!; John Lennon
+3 | singles | For how many weeks was "Help!" number one in both the UK and the US? | Three | One | Five | Eight | Help!
+2 | songs | Who sings "Good Night", the closing track of the White Album? | Ringo Starr | John Lennon | Paul McCartney | George Harrison | Good Night; Ringo Starr
+3 | songs | John Lennon wrote "Good Night" as a lullaby for whom? | His son Julian | His wife Cynthia | Yoko Ono | His half-sister Julia | Good Night; Julian Lennon
+4 | in-the-studio | How many Beatles appear on the recording of "Good Night"? | One | Two | Three | Four | Good Night; Ringo Starr
+3 | albums | "Golden Slumbers" is on which album? | Abbey Road | Let It Be | The White Album | Magical Mystery Tour | Golden Slumbers; Abbey Road
+4 | songs | Who wrote "Golden Slumbers"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Golden Slumbers; Paul McCartney
+5 | early-years | Which early John Lennon song, played at the Decca audition, became a top ten hit for The Fourmost? | Hello Little Girl | Like Dreamers Do | Love of the Loved | I'll Be on My Way | Hello Little Girl; The Fourmost
+5 | early-years | In which year did John Lennon write "Hello Little Girl", one of his first songs? | 1957 | 1954 | 1960 | 1962 | Hello Little Girl; John Lennon
+3 | albums | "Got to Get You into My Life" was first released on which album? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Help! | Got to Get You into My Life; Revolver
+4 | people | Which British act had a 1966 hit with "Got to Get You into My Life", produced by Paul McCartney? | Cliff Bennett and the Rebel Rousers | Manfred Mann | Georgie Fame and the Blue Flames | The Fourmost | Got to Get You into My Life; Cliff Bennett
+4 | solo-years | Which American group had a 1978 US hit with "Got to Get You into My Life"? | Earth, Wind and Fire | The Bee Gees | Chicago | The Commodores | Got to Get You into My Life; Earth, Wind and Fire
+5 | albums | "Got to Get You into My Life" was issued as a single in 1976 from which compilation album? | Rock 'n' Roll Music | Love Songs | 1962-1966 | Reel Music | Got to Get You into My Life; Rock 'n' Roll Music

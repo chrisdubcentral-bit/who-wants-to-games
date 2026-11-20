@@ -1,0 +1,1698 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which Beatle was known as \"the quiet Beatle\"?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "On which date was George Harrison born?",
+    "options": [
+      "25 February 1943",
+      "9 October 1940",
+      "7 July 1940",
+      "18 June 1942"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "George Harrison became associated with which religious movement from the late 1960s?",
+    "options": [
+      "Quakerism",
+      "Scientology",
+      "Zen Buddhism",
+      "Hare Krishna"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "George Harrison",
+      "Hare Krishna"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which ukulele-playing entertainer was one of George Harrison's earliest musical influences?",
+    "options": [
+      "Max Miller",
+      "George Formby",
+      "Tommy Trinder",
+      "Arthur Askey"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison",
+      "George Formby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "George Harrison first came across Indian music on the set of which film?",
+    "options": [
+      "Yellow Submarine",
+      "Magical Mystery Tour",
+      "Help!",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Harrison",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which Beatle was born on 9 October 1940?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "What was John Lennon's original middle name?",
+    "options": [
+      "Arthur",
+      "James",
+      "Charles",
+      "Winston"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "Which name did John Lennon add to his own after marrying in 1969?",
+    "options": [
+      "Peace",
+      "Yoko",
+      "Ono",
+      "Taro"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "John Lennon",
+      "Yoko Ono"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "In which year was John Lennon killed?",
+    "options": [
+      "1980",
+      "1970",
+      "1975",
+      "1990"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "What was the title of John Lennon's first book of nonsense writing and drawings, published in 1964?",
+    "options": [
+      "Grapefruit",
+      "A Spaniard in the Works",
+      "Skywriting by Word of Mouth",
+      "In His Own Write"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "In His Own Write"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "What was the title of John Lennon's second book, published in 1965?",
+    "options": [
+      "A Spaniard in the Works",
+      "The Daily Howl",
+      "Real Love",
+      "In His Own Write"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Lennon",
+      "A Spaniard in the Works"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "solo-years",
+    "difficulty": 3,
+    "question": "What was the name of the band John Lennon formed with Yoko Ono in 1969?",
+    "options": [
+      "Elephant's Memory",
+      "The Dirty Mac",
+      "Wings",
+      "Plastic Ono Band"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Plastic Ono Band"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "solo-years",
+    "difficulty": 3,
+    "question": "What did John Lennon and Yoko Ono call their 1969 anti-war protests held from a hotel bed?",
+    "options": [
+      "Pillow talks",
+      "Sleep-outs",
+      "Bed-ins",
+      "Lie-ins"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "John Lennon",
+      "Bed-in"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "people",
+    "difficulty": 2,
+    "question": "Who is the elder son of John Lennon, born in 1963?",
+    "options": [
+      "Julian Lennon",
+      "Dhani Lennon",
+      "Zak Lennon",
+      "Sean Lennon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Julian Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Julian Lennon was named after which relative?",
+    "options": [
+      "His grandmother Julia",
+      "His father's teacher",
+      "His uncle Julius",
+      "His godfather"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Julian Lennon",
+      "Julia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "On which date was Julian Lennon born?",
+    "options": [
+      "9 October 1975",
+      "23 August 1962",
+      "8 April 1963",
+      "1 July 1964"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Julian Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "What was the title of Julian Lennon's 1984 debut album?",
+    "options": [
+      "Valotte",
+      "Mr. Jordan",
+      "Photograph Smile",
+      "Help Yourself"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Julian Lennon",
+      "Valotte"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Julian Lennon single was a hit from his debut album?",
+    "options": [
+      "Stick Around",
+      "Too Late for Goodbyes",
+      "Day After Day",
+      "Saltwater"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Julian Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "How many Beatles songs is Julian Lennon said to have inspired?",
+    "options": [
+      "Five",
+      "One",
+      "Three",
+      "Seven"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Julian Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "early-years",
+    "difficulty": 2,
+    "question": "Between which years was Pete Best The Beatles' drummer?",
+    "options": [
+      "1958 to 1960",
+      "1960 to 1962",
+      "1957 to 1959",
+      "1962 to 1964"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "On which date was Pete Best dismissed from The Beatles?",
+    "options": [
+      "16 August 1962",
+      "1 January 1962",
+      "5 October 1962",
+      "9 November 1961"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Who actually told Pete Best that he was being dropped from The Beatles?",
+    "options": [
+      "Brian Epstein",
+      "John Lennon",
+      "Paul McCartney",
+      "George Martin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pete Best",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Pete Best earned a large payout in the 1990s from his drumming on which album?",
+    "options": [
+      "1",
+      "Anthology 1",
+      "Live at the BBC",
+      "Past Masters"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Pete Best",
+      "Anthology 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "What career did Pete Best follow for 20 years after leaving the music business?",
+    "options": [
+      "Taxi driver",
+      "Schoolteacher",
+      "Policeman",
+      "Civil servant"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "On how many tracks of Anthology 1 does Pete Best play drums?",
+    "options": [
+      "Twenty",
+      "Ten",
+      "Two",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Pete Best",
+      "Anthology 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "What is Ringo Starr's real surname?",
+    "options": [
+      "Sterling",
+      "Stanley",
+      "Stark",
+      "Starkey"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "On which date was Ringo Starr born?",
+    "options": [
+      "18 June 1942",
+      "7 July 1940",
+      "25 February 1943",
+      "9 October 1940"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "With which Liverpool group was Ringo Starr playing before he joined The Beatles?",
+    "options": [
+      "Gerry and the Pacemakers",
+      "Rory Storm and the Hurricanes",
+      "The Searchers",
+      "The Big Three"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ringo Starr",
+      "Rory Storm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "What was the name of Ringo Starr's first band, formed in 1957?",
+    "options": [
+      "The Eddie Clayton Skiffle Group",
+      "The Raving Texans",
+      "The Darktown Skiffle Group",
+      "The Quarrymen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ringo Starr",
+      "Eddie Clayton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "solo-years",
+    "difficulty": 3,
+    "question": "Which Ringo Starr solo single was a US top ten hit in 1971?",
+    "options": [
+      "It Don't Come Easy",
+      "Maybe I'm Amazed",
+      "My Sweet Lord",
+      "Instant Karma!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ringo Starr",
+      "It Don't Come Easy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "solo-years",
+    "difficulty": 3,
+    "question": "Which of these was a US number one single for Ringo Starr?",
+    "options": [
+      "Oh My My",
+      "Back Off Boogaloo",
+      "Wrack My Brain",
+      "Photograph"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ringo Starr",
+      "Photograph"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "Which Ringo Starr single was his biggest UK hit, reaching number two?",
+    "options": [
+      "Photograph",
+      "You're Sixteen",
+      "It Don't Come Easy",
+      "Back Off Boogaloo"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ringo Starr",
+      "Back Off Boogaloo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "people",
+    "difficulty": 2,
+    "question": "In which city was Yoko Ono born?",
+    "options": [
+      "Kyoto",
+      "Osaka",
+      "Tokyo",
+      "New York"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yoko Ono"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "In which year did John Lennon marry Yoko Ono?",
+    "options": [
+      "1971",
+      "1966",
+      "1969",
+      "1968"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yoko Ono",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "solo-years",
+    "difficulty": 3,
+    "question": "Which John Lennon and Yoko Ono album was released three weeks before his death?",
+    "options": [
+      "Imagine",
+      "Milk and Honey",
+      "Walls and Bridges",
+      "Double Fantasy"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Double Fantasy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "Outside which New York apartment building was John Lennon shot?",
+    "options": [
+      "The Chelsea",
+      "The Dakota",
+      "The Plaza",
+      "The Ansonia"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Lennon",
+      "The Dakota"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "On which date was Yoko Ono born?",
+    "options": [
+      "18 February 1933",
+      "20 March 1929",
+      "8 December 1935",
+      "9 October 1940"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yoko Ono"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "With which New York avant-garde art group was Yoko Ono associated in the early 1960s?",
+    "options": [
+      "Dada",
+      "Fluxus",
+      "The Factory",
+      "The Beats"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yoko Ono",
+      "Fluxus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "people",
+    "difficulty": 2,
+    "question": "On which date was George Martin born?",
+    "options": [
+      "9 October 1940",
+      "27 May 1935",
+      "3 January 1926",
+      "19 September 1934"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which kind of records was George Martin best known for producing before The Beatles?",
+    "options": [
+      "Country and western",
+      "Opera",
+      "Brass bands",
+      "Comedy records"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which comedy star of The Goon Show did George Martin record before working with The Beatles?",
+    "options": [
+      "Peter Sellers",
+      "Tony Hancock",
+      "Benny Hill",
+      "Eric Morecambe"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Martin",
+      "Peter Sellers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "What was the name of the production company George Martin formed after leaving EMI in 1965?",
+    "options": [
+      "NEMS",
+      "Apple",
+      "MPL",
+      "AIR"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "George Martin",
+      "AIR"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "How many UK number one singles did George Martin produce in his career?",
+    "options": [
+      "17",
+      "12",
+      "30",
+      "55"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "How many Grammy Awards did George Martin win?",
+    "options": [
+      "One",
+      "Twelve",
+      "Six",
+      "Twenty"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "On which date was Stuart Sutcliffe born?",
+    "options": [
+      "9 October 1940",
+      "24 November 1941",
+      "10 April 1942",
+      "23 June 1940"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Besides being a musician, Stuart Sutcliffe was a talented what?",
+    "options": [
+      "Actor",
+      "Footballer",
+      "Poet",
+      "Painter"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "At which art school did Stuart Sutcliffe and John Lennon study?",
+    "options": [
+      "Central Saint Martins",
+      "Slade School of Fine Art",
+      "Liverpool College of Art",
+      "Glasgow School of Art"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Stuart Sutcliffe",
+      "Liverpool College of Art"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Stuart Sutcliffe is credited with helping John Lennon to do what?",
+    "options": [
+      "Think up the band's name",
+      "Meet Brian Epstein",
+      "Buy his first guitar",
+      "Write \"Love Me Do\""
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stuart Sutcliffe",
+      "The Beatles name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "people",
+    "difficulty": 2,
+    "question": "On which date was Brian Epstein born?",
+    "options": [
+      "19 September 1934",
+      "3 January 1926",
+      "27 August 1937",
+      "9 November 1931"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "people",
+    "difficulty": 2,
+    "question": "What kind of family business did Brian Epstein run before managing The Beatles?",
+    "options": [
+      "A newspaper",
+      "A tailor's",
+      "A record shop",
+      "A cinema"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Brian Epstein",
+      "NEMS"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "How old was Brian Epstein when he died?",
+    "options": [
+      "32",
+      "40",
+      "51",
+      "27"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "What change did Brian Epstein insist on in The Beatles' stage appearance?",
+    "options": [
+      "Smart suits instead of leather",
+      "Matching wigs",
+      "Leather instead of suits",
+      "Military uniforms"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which of these acts was also managed by Brian Epstein?",
+    "options": [
+      "Gerry and the Pacemakers",
+      "The Kinks",
+      "The Hollies",
+      "The Rolling Stones"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Brian Epstein",
+      "Gerry and the Pacemakers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Liverpool trio was managed by Brian Epstein alongside The Beatles?",
+    "options": [
+      "The Mojos",
+      "The Scaffold",
+      "The Searchers",
+      "The Big Three"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Brian Epstein",
+      "The Big Three"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Who was The Beatles' press officer in 1964 and again at Apple from 1968 to 1970?",
+    "options": [
+      "Peter Brown",
+      "Brian Sommerville",
+      "Tony Barrow",
+      "Derek Taylor"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Derek Taylor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which California festival of 1967 did former Beatles press officer Derek Taylor help to stage?",
+    "options": [
+      "Newport Folk",
+      "Altamont",
+      "Monterey Pop",
+      "Woodstock"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Derek Taylor",
+      "Monterey Pop"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which phrase describing a Beach Boys single is generally credited to Derek Taylor?",
+    "options": [
+      "Wall of sound",
+      "Pocket symphony",
+      "Surf sonata",
+      "Teenage opera"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Derek Taylor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "For which film company, co-founded by George Harrison, did Derek Taylor later work?",
+    "options": [
+      "HandMade Films",
+      "Goldcrest",
+      "Palace Pictures",
+      "Apple Films"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Derek Taylor",
+      "HandMade Films"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which Beatles road manager and assistant was shot dead by police in Los Angeles in 1976?",
+    "options": [
+      "Mal Evans",
+      "Alistair Taylor",
+      "Neil Aspinall",
+      "Alf Bicknell"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mal Evans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "What was Mal Evans's day job before he worked for The Beatles?",
+    "options": [
+      "Bus driver",
+      "Docker",
+      "Telephone engineer",
+      "Postman"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mal Evans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Where did Mal Evans work part-time as a bouncer before joining The Beatles?",
+    "options": [
+      "The Cavern Club",
+      "The Star-Club",
+      "The Casbah",
+      "The Jacaranda"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mal Evans",
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Badfinger top ten hit did Mal Evans produce?",
+    "options": [
+      "Day After Day",
+      "Come and Get It",
+      "Baby Blue",
+      "No Matter What"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Mal Evans",
+      "Badfinger"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Neil Aspinall was a school friend of which two Beatles?",
+    "options": [
+      "John Lennon and Ringo Starr",
+      "Paul McCartney and George Harrison",
+      "John Lennon and Paul McCartney",
+      "George Harrison and Ringo Starr"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Neil Aspinall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did Neil Aspinall die?",
+    "options": [
+      "2008",
+      "2001",
+      "2016",
+      "1997"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Neil Aspinall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Against which computer company did Neil Aspinall lead Apple Corps in court?",
+    "options": [
+      "Apple Computer",
+      "IBM",
+      "Commodore",
+      "Microsoft"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Neil Aspinall",
+      "Apple Computer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "people",
+    "difficulty": 2,
+    "question": "Who is the son of John Lennon and Yoko Ono?",
+    "options": [
+      "James Lennon",
+      "Julian Lennon",
+      "Sean Lennon",
+      "Dhani Lennon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sean Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Sean Lennon shares his birthday, 9 October, with whom?",
+    "options": [
+      "His brother Julian",
+      "Paul McCartney",
+      "His father John Lennon",
+      "His mother Yoko Ono"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sean Lennon",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year was Sean Lennon born?",
+    "options": [
+      "1975",
+      "1969",
+      "1972",
+      "1980"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sean Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "people",
+    "difficulty": 2,
+    "question": "What was the maiden name of John Lennon's first wife, Cynthia?",
+    "options": [
+      "Powell",
+      "Asher",
+      "Eastman",
+      "Boyd"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cynthia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Where did John Lennon meet his first wife Cynthia?",
+    "options": [
+      "At school",
+      "In Hamburg",
+      "At art college",
+      "At the Cavern Club"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cynthia Lennon",
+      "Liverpool College of Art"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which class at art college did John Lennon and Cynthia Powell meet?",
+    "options": [
+      "Pottery",
+      "Calligraphy",
+      "Sculpture",
+      "Life drawing"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cynthia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "What was the name of John and Cynthia Lennon's house in Weybridge?",
+    "options": [
+      "Kinfauns",
+      "Friar Park",
+      "Sunny Heights",
+      "Kenwood"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kenwood",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "What is the title of Cynthia Lennon's 1978 memoir?",
+    "options": [
+      "Loving John",
+      "A Twist of Lennon",
+      "Imagine This",
+      "Daddy, Come Home"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cynthia Lennon",
+      "A Twist of Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year were John and Cynthia Lennon divorced?",
+    "options": [
+      "1970",
+      "1965",
+      "1973",
+      "1968"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Cynthia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which assistant to Brian Epstein was with him when he first saw The Beatles at the Cavern?",
+    "options": [
+      "Derek Taylor",
+      "Alistair Taylor",
+      "Tony Barrow",
+      "Peter Brown"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alistair Taylor",
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "By what nickname was Brian Epstein's assistant Alistair Taylor known among The Beatles' circle?",
+    "options": [
+      "Uncle Albert",
+      "Mr. Fixit",
+      "The Colonel",
+      "The Nurk"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alistair Taylor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which other famous band did Allen Klein manage before The Beatles?",
+    "options": [
+      "The Who",
+      "The Rolling Stones",
+      "The Animals",
+      "The Kinks"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Allen Klein",
+      "The Rolling Stones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "In which year did Allen Klein die?",
+    "options": [
+      "2009",
+      "1985",
+      "2016",
+      "1998"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Allen Klein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did Allan Williams, The Beatles' first manager, die?",
+    "options": [
+      "1980",
+      "2016",
+      "2005",
+      "1995"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Allan Williams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Beatles press officer coined the phrase \"the Fab Four\"?",
+    "options": [
+      "Tony Barrow",
+      "Bill Harry",
+      "Derek Taylor",
+      "Brian Epstein"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Tony Barrow",
+      "Fab Four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Between which years did Tony Barrow work as The Beatles' press officer?",
+    "options": [
+      "1968 to 1974",
+      "1960 to 1962",
+      "1964 to 1970",
+      "1962 to 1968"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tony Barrow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which Beatle was known as \"the cute Beatle\"?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "On which date was Paul McCartney born?",
+    "options": [
+      "18 June 1942",
+      "7 July 1940",
+      "25 February 1943",
+      "9 October 1940"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "What is Paul McCartney's first name?",
+    "options": [
+      "James",
+      "Paul",
+      "John",
+      "Peter"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "What did Paul McCartney's father Jim play in his younger days?",
+    "options": [
+      "Classical violin",
+      "Skiffle",
+      "Brass band cornet",
+      "Jazz"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul McCartney",
+      "Jim McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "From which album onwards did Paul McCartney gradually become The Beatles' unofficial leader?",
+    "options": [
+      "Help!",
+      "Abbey Road",
+      "Rubber Soul",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul McCartney",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which two Beatles have been knighted?",
+    "options": [
+      "Paul McCartney and George Harrison",
+      "Paul McCartney and Ringo Starr",
+      "John Lennon and George Harrison",
+      "John Lennon and Ringo Starr"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Knighthoods"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,4 +1,4 @@
-// The online Top 100's request handling, kept separate from Netlify and the database
+// The online Top 40's request handling, kept separate from Netlify and the storage
 // so it can be tested with an in-memory store (tests/server/handlers.test.mjs).
 //
 // Each handler returns { status, body }. netlify/functions/top100.mjs turns that into a Response.
@@ -7,29 +7,29 @@ import { createHash, createHmac, randomUUID, timingSafeEqual } from 'node:crypto
 import { compareEntries, LIMIT } from '../../engine/js/game/ranking.js';
 import { checkResult, cleanName, cleanTown, MIN_MS_PER_ROUND } from './validate.js';
 
-// Change this to start a fresh, empty board. Older entries stay in the database under their old board name.
+// Change this to start a fresh, empty board. Older boards stay in storage under their old name.
 export const BOARD = 'launch';
 
 const HOUR = 3600 * 1000;
 export const LIMITS = {
-  runsPerHourPerIp: 120,   // different games one connection can enter in an hour
-  submitsPerRun: 20,       // a champion's entry is updated after each season
+  submitsPerHourPerIp: 120, // entries saved from one connection in an hour (a champion's is updated each season)
   runMaxAgeMs: 3 * 24 * HOUR,
-  pruneRunsAfterMs: 7 * 24 * HOUR,
-  timeSlackMs: 5000,       // network delay between the game starting and the token being made
+  timeSlackMs: 5000,        // network delay between the game starting and the token being made
+  keep: LIMIT * 3,          // entries kept beyond the board, so hiding or blocking one lets the next move up
+  saveAttempts: 5,          // tries when another entry is saved at the same moment
 };
 
 // A run token is "<run id>.<start time in ms>.<signature>". The signature proves the server issued it, so starting
-// a game needs no database: the database is billed for the time it's awake, and most games never reach the board.
+// a game needs no storage at all, and most games never reach the board.
 const RUN_TOKEN = /^([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})\.(\d{13})\.([A-Za-z0-9_-]{43})$/;
 
 const MESSAGES = {
-  name: "That name or town can't be used on the Top 100. Please choose another.",
+  name: `That name or town can't be used on the Top ${LIMIT}. Please choose another.`,
   characters: "Names and towns can only use letters, numbers, spaces and - ' . & , ( )",
   link: "Names and towns can't include links.",
   invalid: "That result doesn't look right, so it can't be added.",
-  'no-run': "This game couldn't connect to the online Top 100 when it started, so it can't be added.",
-  expired: 'This game is too old to add to the Top 100.',
+  'no-run': `This game couldn't connect to the online Top ${LIMIT} when it started, so it can't be added.`,
+  expired: `This game is too old to add to the Top ${LIMIT}.`,
   busy: 'Too many attempts. Please wait a while and try again.',
 };
 
@@ -38,7 +38,8 @@ const fail = (status, error, extra = {}) => ({ status, body: { ok: false, error,
 
 export function createHandlers({ store, wordFilter, editions, adminKey = '', ipSalt = '', now = () => Date.now(), log = () => {} }) {
   const hashIp = (ip) => createHash('sha256').update(`${ipSalt}:${ip ?? 'unknown'}`).digest('hex').slice(0, 32);
-  const isoAgo = (ms) => new Date(now() - ms).toISOString();
+  /** The UTC hour as 'YYYY-MM-DDTHH', for the per-hour submit counters. */
+  const hourKey = (ms = now()) => new Date(ms).toISOString().slice(0, 13);
 
   const tokenSecret = ipSalt || adminKey;
   const signRun = (id, edition, startedAt) => createHmac('sha256', `run-token:${tokenSecret}`)
@@ -79,15 +80,40 @@ export function createHandlers({ store, wordFilter, editions, adminKey = '', ipS
     durationMs: row.durationMs,
   });
 
-  /** The visible board: not hidden by the admin, and passing the current word list. */
+  /** Stored rows in board order (compareEntries ranks by date as the tie-break; rows keep it as updatedAt). */
+  const byRank = (a, b) => compareEntries({ ...a, date: a.updatedAt }, { ...b, date: b.updatedAt });
+
+  /** Keeps every hidden row (so the admin can show it again) and the best LIMITS.keep of the rest. */
+  const trim = (rows) => {
+    let kept = 0;
+    return [...rows].sort(byRank).filter((r) => r.hidden || kept++ < LIMITS.keep);
+  };
+
+  /** The visible board from stored rows: not hidden by the admin, and passing the current word list. */
+  const visibleRows = (rows, edition) => rows
+    .filter((row) => !row.hidden && !nameProblem(row, edition))
+    .map((row) => toPublic(row, editions[edition]))
+    .sort(compareEntries)
+    .slice(0, LIMIT);
+
   async function visibleBoard(edition) {
-    const ed = editions[edition];
-    const rows = await store.listEntries(edition, BOARD, { includeHidden: false, limit: LIMIT * 3 });
-    return rows
-      .filter((row) => !nameProblem(row, edition))
-      .map((row) => toPublic(row, ed))
-      .sort(compareEntries)
-      .slice(0, LIMIT);
+    const { data } = await store.readBoard(edition, BOARD);
+    return visibleRows(data.entries, edition);
+  }
+
+  /**
+   * Reads the board, lets change(entries, data) return the new entries (or null for no change), and saves it.
+   * If another request saved in between, it starts again from the new board. Returns the saved data, or null.
+   */
+  async function updateBoard(edition, change) {
+    for (let attempt = 0; attempt < LIMITS.saveAttempts; attempt++) {
+      const { data, etag } = await store.readBoard(edition, BOARD);
+      const result = change(data.entries, data);
+      if (!result) return { data, saved: false };
+      const next = { ...data, ...result, entries: trim(result.entries) };
+      if (await store.saveBoard(edition, BOARD, next, etag)) return { data: next, saved: true };
+    }
+    return null;
   }
 
   return {
@@ -141,32 +167,31 @@ export function createHandlers({ store, wordFilter, editions, adminKey = '', ipS
         return fail(400, 'invalid');
       }
 
-      // Everything above is checked without the database, so a refused entry doesn't wake it.
+      // Everything above is checked without touching storage, so a refused entry costs almost nothing.
       const ipHash = hashIp(ip);
-      const seen = await store.getRun(run.id);
-      const busy = seen
-        ? seen.submits >= LIMITS.submitsPerRun
-        : await store.countRecentRuns(ipHash, isoAgo(HOUR)) >= LIMITS.runsPerHourPerIp;
-      if (busy) return fail(429, 'busy');
-      await store.recordSubmit({ token: run.id, edition, ipHash, createdAt: new Date(now()).toISOString() });
-      if (Math.random() < 0.02) await store.pruneRuns(isoAgo(LIMITS.pruneRunsAfterMs));
+      if (await store.countSubmit(ipHash, hourKey()) > LIMITS.submitsPerHourPerIp) return fail(429, 'busy');
+      if (Math.random() < 0.02) await store.pruneSubmits(hourKey(now() - 2 * HOUR));
 
       const entry = { ...checked.entry, name, town, updatedAt: new Date(now()).toISOString() };
-      const old = await store.getEntryByToken(run.id);
-      let id = old?.id ?? null;
-      // A champion who plays on and does worse keeps their earlier, better entry.
-      if (!old || compareEntries({ ...old, date: old.updatedAt }, { ...entry, date: entry.updatedAt }) > 0) {
-        id = await store.saveEntry({ ...entry, edition, board: BOARD, runToken: run.id, ipHash });
-      }
+      let id = null;
+      const saved = await updateBoard(edition, (entries, data) => {
+        const old = entries.find((e) => e.runToken === run.id);
+        id = old?.id ?? data.nextId;
+        // A champion who plays on and does worse keeps their earlier, better entry.
+        if (old) return byRank(old, entry) > 0 ? { entries: entries.map((e) => (e === old ? { ...old, ...entry } : e)) } : null;
+        const row = { id, runToken: run.id, ipHash, hidden: false, createdAt: entry.updatedAt, ...entry };
+        return { nextId: data.nextId + 1, entries: [...entries, row] };
+      });
+      if (!saved) return fail(429, 'busy');
 
-      const board = await visibleBoard(edition);
+      const board = visibleRows(saved.data.entries, edition);
       const i = board.findIndex((e) => e.id === id);
       return ok({ id, rank: i === -1 ? null : i + 1, board });
     },
 
     /**
      * GET  /api/top100/admin?edition=celtic          → every entry, with hidden/blocked flags
-     * POST /api/top100/admin { id, hidden: boolean } → hide or show an entry
+     * POST /api/top100/admin { edition, id, hidden: boolean } → hide or show an entry
      * Needs the x-admin-key header to match the TOP100_ADMIN_KEY environment variable.
      */
     async admin({ method, query, body, headers }) {
@@ -178,15 +203,23 @@ export function createHandlers({ store, wordFilter, editions, adminKey = '', ipS
       if (method === 'POST') {
         const id = body?.id;
         if (!Number.isInteger(id) || typeof body.hidden !== 'boolean') return fail(400, 'bad-request');
-        await store.setHidden(id, body.hidden);
+        if (body.edition != null && !editions[body.edition]) return fail(400, 'edition');
+        // Older admin pages didn't send the edition: look on every board.
+        for (const edition of body.edition ? [body.edition] : Object.keys(editions)) {
+          const r = await updateBoard(edition, (entries) => (entries.some((e) => e.id === id)
+            ? { entries: entries.map((e) => (e.id === id ? { ...e, hidden: body.hidden } : e)) }
+            : null));
+          if (!r) return fail(429, 'busy');
+          if (r.saved) break;
+        }
         return ok({});
       }
 
       const edition = query.edition;
       const ed = editions[edition];
       if (!ed) return fail(400, 'edition');
-      const rows = await store.listEntries(edition, BOARD, { includeHidden: true, limit: 1000 });
-      const entries = rows
+      const { data } = await store.readBoard(edition, BOARD);
+      const entries = data.entries
         .map((row) => ({ ...toPublic(row, ed), hidden: row.hidden, blocked: nameProblem(row, edition)?.reason ?? null }))
         .sort(compareEntries);
       return ok({ board: BOARD, entries });

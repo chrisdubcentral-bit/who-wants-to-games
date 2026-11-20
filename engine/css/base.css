@@ -9,9 +9,9 @@ body {
   background-color: var(--bg-main);
   /* Floodlight glow from the top corners */
   background-image:
-    radial-gradient(ellipse 60% 45% at 8% -8%, rgba(224, 194, 122, 0.10), transparent 70%),
-    radial-gradient(ellipse 60% 45% at 92% -8%, rgba(224, 194, 122, 0.10), transparent 70%),
-    radial-gradient(ellipse 90% 60% at 50% 115%, rgba(20, 107, 76, 0.22), transparent 70%);
+    radial-gradient(ellipse 60% 45% at 8% -8%, rgba(var(--gold-bright-rgb), 0.10), transparent 70%),
+    radial-gradient(ellipse 60% 45% at 92% -8%, rgba(var(--gold-bright-rgb), 0.10), transparent 70%),
+    radial-gradient(ellipse 90% 60% at 50% 115%, rgba(var(--emerald-rgb), 0.22), transparent 70%);
   background-attachment: fixed;
   color: var(--grey-light);
   font-family: var(--font-body);

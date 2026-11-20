@@ -1,0 +1,79 @@
+# Beatles features, part B (films about them, solo projects, Apple, honours, memorials). Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+4 | records | How many Beatles songs were on the soundtrack of the video game The Beatles: Rock Band? | 45 | 12 | 100 | 213 | The Beatles: Rock Band
+4 | records | Which studio developed the video game The Beatles: Rock Band? | Harmonix | Nintendo | Rockstar North | Konami | The Beatles: Rock Band
+3 | films-tv | Which 2009 film tells the story of John Lennon's teenage years? | Nowhere Boy | Backbeat | Yesterday | Across the Universe | Nowhere Boy
+4 | films-tv | Who directed the film Nowhere Boy? | Sam Taylor-Johnson | Danny Boyle | Iain Softley | Julie Taymor | Nowhere Boy
+4 | films-tv | Who played the young John Lennon in Nowhere Boy? | Aaron Taylor-Johnson | Ian Hart | Thomas Brodie-Sangster | Daniel Radcliffe | Nowhere Boy
+4 | films-tv | Which actress played Aunt Mimi in the film Nowhere Boy? | Kristin Scott Thomas | Helen Mirren | Julie Walters | Emma Thompson | Nowhere Boy; Mimi Smith
+5 | films-tv | The film Nowhere Boy is based on a book by which half-sister of John Lennon? | Julia Baird | Jackie Dykins | Victoria Lennon | Pauline Lennon | Nowhere Boy; Julia Baird
+2 | films-tv | In which 2019 film does a struggling singer wake up as the only person who remembers The Beatles? | Yesterday | Across the Universe | Nowhere Boy | Blinded by the Light | Yesterday (film)
+3 | films-tv | Who directed the 2019 film Yesterday? | Danny Boyle | Richard Curtis | Edgar Wright | Sam Mendes | Yesterday (film); Danny Boyle
+3 | films-tv | Who wrote the screenplay of the 2019 film Yesterday? | Richard Curtis | Danny Boyle | Nick Hornby | Peter Morgan | Yesterday (film); Richard Curtis
+3 | films-tv | Who stars as Jack Malik in the film Yesterday? | Himesh Patel | Dev Patel | Riz Ahmed | Kumail Nanjiani | Yesterday (film); Himesh Patel
+3 | films-tv | Which pop star plays himself in the film Yesterday? | Ed Sheeran | Harry Styles | Robbie Williams | Sam Smith | Yesterday (film); Ed Sheeran
+5 | films-tv | How much did the makers of the film Yesterday pay for the rights to use The Beatles' music? | $10 million | $100,000 | $1 million | $100 million | Yesterday (film)
+3 | places | In which Liverpool suburb is the street Penny Lane? | Mossley Hill | Woolton | Toxteth | Anfield | Penny Lane; Liverpool
+4 | places | In the mid-20th century, Penny Lane was the site of one of Liverpool's main what? | Bus terminals | Railway stations | Ferry piers | Street markets | Penny Lane
+4 | solo-years | In which year were the Traveling Wilburys formed? | 1988 | 1978 | 1984 | 1992 | Traveling Wilburys
+4 | solo-years | Which song first brought the Traveling Wilburys together in 1988? | Handle with Care | End of the Line | Got My Mind Set on You | When We Was Fab | Traveling Wilburys; Handle with Care
+4 | solo-years | Which member of the Traveling Wilburys died in December 1988? | Roy Orbison | Tom Petty | George Harrison | Jeff Lynne | Traveling Wilburys; Roy Orbison
+5 | solo-years | What was the confusing title of the Traveling Wilburys' second album? | Vol. 3 | Vol. 2 | Vol. 1½ | Vol. 5 | Traveling Wilburys
+4 | solo-years | During sessions for which George Harrison album was the idea for the Traveling Wilburys first discussed? | Cloud Nine | Gone Troppo | Somewhere in England | Brainwashed | Traveling Wilburys; Cloud Nine
+3 | people | Which Monty Python member created the Beatles parody band The Rutles? | Eric Idle | John Cleese | Michael Palin | Terry Jones | The Rutles; Eric Idle
+4 | people | Who wrote the Beatles-style songs for The Rutles? | Neil Innes | Eric Idle | Vivian Stanshall | George Harrison | The Rutles; Neil Innes
+4 | films-tv | The Rutles first appeared in a sketch on which BBC comedy series? | Rutland Weekend Television | Monty Python's Flying Circus | The Goodies | Not the Nine O'Clock News | The Rutles
+4 | records | What was the title of The Rutles' 1996 album, a spoof of the Beatles Anthology? | Archaeology | Anthropology | Mythology | Apology | The Rutles
+4 | solo-years | Which former Beatle organised the Concert for Bangladesh in 1971? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Concert for Bangladesh; George Harrison
+4 | solo-years | On which date was the Concert for Bangladesh held? | 1 August 1971 | 15 August 1969 | 13 July 1985 | 29 November 2002 | Concert for Bangladesh
+3 | solo-years | At which New York venue was the Concert for Bangladesh held? | Madison Square Garden | Shea Stadium | Carnegie Hall | Radio City Music Hall | Concert for Bangladesh; Madison Square Garden
+4 | solo-years | Which Indian musician organised the Concert for Bangladesh with George Harrison? | Ravi Shankar | Ali Akbar Khan | Zakir Hussain | Lata Mangeshkar | Concert for Bangladesh; Ravi Shankar
+4 | solo-years | Which other former Beatle played at the Concert for Bangladesh? | Ringo Starr | John Lennon | Paul McCartney | None of them | Concert for Bangladesh; Ringo Starr
+4 | solo-years | Which American singer-songwriter made a rare stage appearance at the Concert for Bangladesh? | Bob Dylan | Neil Young | Paul Simon | Joni Mitchell | Concert for Bangladesh; Bob Dylan
+3 | solo-years | At which London venue was the Concert for George held? | The Royal Albert Hall | Wembley Arena | The London Palladium | Hammersmith Odeon | Concert for George
+4 | solo-years | On which date was the Concert for George held? | 29 November 2002 | 25 February 2003 | 8 December 2001 | 9 October 2005 | Concert for George
+4 | solo-years | Who was the musical director of the Concert for George? | Eric Clapton | Jeff Lynne | Paul McCartney | Ravi Shankar | Concert for George; Eric Clapton
+4 | solo-years | The profits from the Concert for George went to which charity founded by George Harrison? | The Material World Charitable Foundation | The Dark Horse Trust | The Friar Park Fund | The Natural Law Foundation | Concert for George
+3 | records | Which label did The Beatles found in 1968 that also released records by Mary Hopkin and James Taylor? | Apple Records | Dark Horse Records | Ring O' Records | Zapple | Apple Records
+4 | records | What was the name of Apple's short-lived label for experimental and spoken-word records? | Zapple | Pear | Grapefruit | Core | Zapple
+4 | solo-years | What was the title of Wings' first album, released in 1971? | Wild Life | Red Rose Speedway | Band on the Run | Venus and Mars | Wings; Wild Life
+4 | solo-years | Who was the original drummer of Wings? | Denny Seiwell | Geoff Britton | Joe English | Steve Holley | Wings; Denny Seiwell
+3 | solo-years | For which James Bond film did Paul McCartney and Wings record the title song in 1973? | Live and Let Die | Diamonds Are Forever | The Man with the Golden Gun | Moonraker | Wings; Live and Let Die
+3 | records | In which year was the Order of the British Empire, from which The Beatles' MBEs came, founded? | 1917 | 1837 | 1901 | 1945 | MBE
+3 | band-members | Which Beatle returned his MBE to the Queen in 1969 as a protest? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | MBE; John Lennon
+4 | band-members | Among his reasons for returning his MBE, John Lennon jokingly cited which of his records slipping down the charts? | Cold Turkey | Give Peace a Chance | Instant Karma! | Imagine | MBE; John Lennon
+3 | solo-years | Which George Harrison album of 1970 was a triple LP? | All Things Must Pass | Living in the Material World | Dark Horse | Thirty Three and a Third | All Things Must Pass
+3 | solo-years | Which hit single from All Things Must Pass was the first number one by a former Beatle? | My Sweet Lord | What Is Life | Isn't It a Pity | Give Me Love | My Sweet Lord; George Harrison
+4 | solo-years | "My Sweet Lord" was the best-selling single in Britain in which year? | 1971 | 1969 | 1973 | 1975 | My Sweet Lord
+4 | solo-years | To which Apple artist did George Harrison first give "My Sweet Lord" to record? | Billy Preston | Jackie Lomax | Doris Troy | Mary Hopkin | My Sweet Lord; Billy Preston
+4 | solo-years | George Harrison was found to have unintentionally copied which Chiffons hit when writing "My Sweet Lord"? | He's So Fine | One Fine Day | Sweet Talkin' Guy | Chapel of Love | My Sweet Lord; He's So Fine
+3 | solo-years | In which African city did Paul McCartney record most of Band on the Run? | Lagos | Nairobi | Cape Town | Accra | Band on the Run; Lagos
+4 | solo-years | In which year was Band on the Run released? | 1973 | 1970 | 1975 | 1977 | Band on the Run
+4 | solo-years | How many members of Wings made the trip to Nigeria to record Band on the Run? | Three | Two | Five | Seven | Band on the Run; Wings
+3 | solo-years | In which year did John Lennon release the song "Imagine"? | 1971 | 1969 | 1973 | 1980 | Imagine
+4 | solo-years | Who was given a co-writing credit for "Imagine" in 2017? | Yoko Ono | Phil Spector | Paul McCartney | Sean Lennon | Imagine; Yoko Ono
+4 | solo-years | At which of his homes did John Lennon begin recording "Imagine"? | Tittenhurst Park | Kenwood | The Dakota | Mendips | Imagine; Tittenhurst Park
+3 | records | In which American city is the Rock and Roll Hall of Fame? | Cleveland | Memphis | Nashville | Detroit | Rock and Roll Hall of Fame
+3 | records | In which year were The Beatles inducted into the Rock and Roll Hall of Fame? | 1988 | 1980 | 1994 | 2000 | Rock and Roll Hall of Fame
+4 | records | Which Beatle did not attend the group's Rock and Roll Hall of Fame induction in 1988? | Paul McCartney | George Harrison | Ringo Starr | All three attended | Rock and Roll Hall of Fame; Paul McCartney
+3 | places | In which New York park is the Strawberry Fields memorial to John Lennon? | Central Park | Prospect Park | Battery Park | Bryant Park | Strawberry Fields memorial; Central Park
+3 | places | Which single word is set in the mosaic at the centre of the Strawberry Fields memorial in New York? | Imagine | Peace | Lennon | Love | Strawberry Fields memorial; Imagine
+3 | places | Which British airport was renamed after a Beatle in 2001? | Liverpool John Lennon Airport | Manchester McCartney Airport | London Harrison Airport | Blackpool Starr Airport | Liverpool John Lennon Airport
+4 | places | Which line from "Imagine" is the motto of Liverpool John Lennon Airport? | Above us only sky | Imagine all the people | You may say I'm a dreamer | Living life in peace | Liverpool John Lennon Airport; Imagine
+4 | places | By what name was Liverpool John Lennon Airport originally known? | Speke Airport | Aintree Airport | Garston Airport | Mersey Airport | Liverpool John Lennon Airport
+4 | records | From which 1969 sessions does the largest single source of Beatles bootleg recordings come? | The Get Back sessions | The Abbey Road sessions | The White Album sessions | The Sgt. Pepper sessions | Bootlegs; Get Back sessions
+4 | films-tv | Which 1978 film musical based on Beatles songs starred Peter Frampton and the Bee Gees? | Sgt. Pepper's Lonely Hearts Club Band | Across the Universe | All This and World War II | Yellow Submarine | Sgt. Pepper (film)
+4 | films-tv | Which 2007 film musical directed by Julie Taymor uses 34 Beatles songs? | Across the Universe | Yesterday | I Am Sam | Mamma Mia! | Across the Universe (film)
+5 | films-tv | Which 1978 comedy about fans trying to see The Beatles on Ed Sullivan was Robert Zemeckis's first film as director? | I Wanna Hold Your Hand | Used Cars | American Graffiti | 1941 | I Wanna Hold Your Hand (film)
+5 | films-tv | Who was executive producer of the 1978 film I Wanna Hold Your Hand? | Steven Spielberg | George Lucas | Francis Ford Coppola | Brian De Palma | I Wanna Hold Your Hand (film)
+4 | records | In which year was the fan magazine The Beatles Book, or Beatles Monthly, first published? | 1963 | 1960 | 1966 | 1970 | Beatles Monthly
+5 | records | How many issues of The Beatles Book appeared in its original run up to December 1969? | 77 | 12 | 40 | 150 | Beatles Monthly
+4 | solo-years | In which year did Ringo Starr first tour with his All-Starr Band? | 1989 | 1975 | 1981 | 1995 | Ringo Starr; All-Starr Band
+4 | places | On which date did the Apple Boutique open in Baker Street? | 7 December 1967 | 1 June 1967 | 22 August 1968 | 30 January 1969 | Apple Boutique
+4 | places | What did The Beatles do with the Apple Boutique's stock when it closed in July 1968? | Gave it away free | Burned it | Sold it to Harrods | Shipped it to India | Apple Boutique
+4 | places | For how long was the Apple Boutique open? | Under eight months | Two weeks | Three years | A decade | Apple Boutique
+4 | records | In which year was Northern Songs founded to publish Lennon and McCartney's songs? | 1963 | 1960 | 1966 | 1969 | Northern Songs
+4 | records | Why was Northern Songs floated as a public company in 1965? | To reduce the songwriters' tax bills | To pay for the film Help! | To buy Abbey Road Studios | To fund Apple | Northern Songs
+5 | people | Which television mogul's company ATV won control of Northern Songs in 1969? | Lew Grade | Sidney Bernstein | Rupert Murdoch | Robert Maxwell | Northern Songs; Lew Grade
+4 | people | Which pop star bought the ATV catalogue, including most Beatles songs, in 1985? | Michael Jackson | Elton John | David Bowie | Madonna | Northern Songs; Michael Jackson
+3 | records | What name is given to the Liverpool-based beat music of the early 1960s? | Merseybeat | Britpop | Northern soul | Madchester | Merseybeat

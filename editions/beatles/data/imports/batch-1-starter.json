@@ -1,0 +1,2007 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "places",
+    "difficulty": 1,
+    "question": "Which city did The Beatles come from?",
+    "options": [
+      "Manchester",
+      "Liverpool",
+      "London",
+      "Birmingham"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Liverpool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "How many members were in The Beatles during their years of fame?",
+    "options": [
+      "Three",
+      "Five",
+      "Four",
+      "Six"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Line-up"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Who was The Beatles' drummer during their years of fame?",
+    "options": [
+      "Ringo Starr",
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which Beatle married Yoko Ono?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Yoko Ono"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album cover shows the band walking across a zebra crossing?",
+    "options": [
+      "Revolver",
+      "Abbey Road",
+      "Let It Be",
+      "Help!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the title of this Beatles song: \"Yellow ...\"?",
+    "options": [
+      "Submarine",
+      "Aeroplane",
+      "Taxi",
+      "Balloon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which Beatle played bass guitar?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "records",
+    "difficulty": 1,
+    "question": "Which nickname was given to The Beatles?",
+    "options": [
+      "The Famous Five",
+      "The Big Three",
+      "The Mersey Four",
+      "The Fab Four"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fab Four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song asks \"will you still need me, will you still feed me\"?",
+    "options": [
+      "When I'm Sixty-Four",
+      "Help!",
+      "Yesterday",
+      "Hey Jude"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "When I'm Sixty-Four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "records",
+    "difficulty": 1,
+    "question": "What name was given to the frenzy of fans that surrounded The Beatles in the 1960s?",
+    "options": [
+      "Beatle Fever",
+      "Beatlemania",
+      "Merseymania",
+      "The Big Scream"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatlemania"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Who was The Beatles' lead guitarist?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison",
+      "Brian Epstein"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "films-tv",
+    "difficulty": 1,
+    "question": "Which of these was a Beatles film?",
+    "options": [
+      "Quadrophenia",
+      "Tommy",
+      "Grease",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which Beatle was shot dead in New York in December 1980?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "places",
+    "difficulty": 1,
+    "question": "Which Liverpool club is famous for The Beatles' early lunchtime shows?",
+    "options": [
+      "The Cavern Club",
+      "The Marquee",
+      "The Hacienda",
+      "The 100 Club"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "people",
+    "difficulty": 2,
+    "question": "Who managed The Beatles until his death in 1967?",
+    "options": [
+      "George Martin",
+      "Brian Epstein",
+      "Allen Klein",
+      "Andrew Loog Oldham"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "people",
+    "difficulty": 2,
+    "question": "Who produced most of The Beatles' records?",
+    "options": [
+      "Phil Spector",
+      "Mickie Most",
+      "George Martin",
+      "Joe Meek"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "in-the-studio",
+    "difficulty": 1,
+    "question": "In which London studios did The Beatles record most of their music?",
+    "options": [
+      "Olympic Studios",
+      "Trident Studios",
+      "Decca Studios",
+      "Abbey Road Studios"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road Studios"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song ends with a long \"na na na\" singalong?",
+    "options": [
+      "Hey Jude",
+      "Let It Be",
+      "Get Back",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "What is Ringo Starr's real name?",
+    "options": [
+      "Ronald Starling",
+      "Richard Starkey",
+      "Robert Stark",
+      "Raymond Stanley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which song did Paul McCartney write under the working title \"Scrambled Eggs\"?",
+    "options": [
+      "Michelle",
+      "Let It Be",
+      "Yesterday",
+      "Blackbird"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "records",
+    "difficulty": 2,
+    "question": "In which year did The Beatles split up?",
+    "options": [
+      "1968",
+      "1969",
+      "1972",
+      "1970"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Break-up"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "By what name is the 1968 double album \"The Beatles\" usually known?",
+    "options": [
+      "The White Album",
+      "The Black Album",
+      "The Blue Album",
+      "The Plain Album"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which of these Beatles songs was written by George Harrison?",
+    "options": [
+      "Let It Be",
+      "Here Comes the Sun",
+      "Help!",
+      "Penny Lane"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison",
+      "Here Comes the Sun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "On which American TV show did The Beatles make their famous US debut in February 1964?",
+    "options": [
+      "The Tonight Show",
+      "American Bandstand",
+      "The Ed Sullivan Show",
+      "Shindig!"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ed Sullivan Show",
+      "America"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "places",
+    "difficulty": 1,
+    "question": "Which Liverpool street gave its name to a 1967 Beatles single?",
+    "options": [
+      "Lime Street",
+      "Bold Street",
+      "Hope Street",
+      "Penny Lane"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Penny Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which two Beatles wrote most of the band's songs?",
+    "options": [
+      "Lennon and McCartney",
+      "Harrison and Starr",
+      "Lennon and Harrison",
+      "McCartney and Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "early-years",
+    "difficulty": 2,
+    "question": "In which German city did The Beatles play long club residencies in the early 1960s?",
+    "options": [
+      "Berlin",
+      "Hamburg",
+      "Munich",
+      "Cologne"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "early-years",
+    "difficulty": 2,
+    "question": "Who did Ringo Starr replace as The Beatles' drummer in 1962?",
+    "options": [
+      "Stuart Sutcliffe",
+      "Andy White",
+      "Pete Best",
+      "Jimmie Nicol"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pete Best",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "What was The Beatles' first single for Parlophone?",
+    "options": [
+      "Please Please Me",
+      "From Me to You",
+      "She Loves You",
+      "Love Me Do"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "What was The Beatles' first album called?",
+    "options": [
+      "Please Please Me",
+      "With the Beatles",
+      "Meet the Beatles",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "Which Beatles film was released in 1965?",
+    "options": [
+      "A Hard Day's Night",
+      "Help!",
+      "Yellow Submarine",
+      "Let It Be"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which 1967 Beatles album has a cover crowded with famous faces?",
+    "options": [
+      "Revolver",
+      "Rubber Soul",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who sings lead vocal on \"Yellow Submarine\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yellow Submarine",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "places",
+    "difficulty": 2,
+    "question": "Which Beatles song is named after a Salvation Army children's home in Liverpool?",
+    "options": [
+      "Strawberry Fields Forever",
+      "Penny Lane",
+      "Eleanor Rigby",
+      "Glass Onion"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Strawberry Fields Forever"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "records",
+    "difficulty": 2,
+    "question": "What was the name of the company The Beatles set up in 1968?",
+    "options": [
+      "Orange Music",
+      "Apple Corps",
+      "Pepper Records",
+      "Northern Songs"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Apple Corps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which was the last album The Beatles released before splitting up?",
+    "options": [
+      "Abbey Road",
+      "Yellow Submarine",
+      "Let It Be",
+      "The White Album"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which Beatle was the youngest?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which Beatle was the oldest?",
+    "options": [
+      "Ringo Starr",
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 2,
+    "question": "Which record label signed The Beatles in 1962?",
+    "options": [
+      "Decca",
+      "Parlophone",
+      "Pye",
+      "Philips"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Parlophone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "Which label turned The Beatles down after an audition on New Year's Day 1962?",
+    "options": [
+      "Parlophone",
+      "Pye",
+      "Decca",
+      "Philips"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "Which early Beatles bass player left the band in 1961 to stay in Hamburg and paint?",
+    "options": [
+      "Pete Best",
+      "Chas Newby",
+      "Ken Brown",
+      "Stuart Sutcliffe"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Stuart Sutcliffe",
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 2,
+    "question": "What was the name of John Lennon's first group, which Paul McCartney joined in 1957?",
+    "options": [
+      "The Quarrymen",
+      "The Hurricanes",
+      "The Dominoes",
+      "The Pacemakers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Quarrymen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "Which single gave The Beatles their first number one in the United States?",
+    "options": [
+      "She Loves You",
+      "I Want to Hold Your Hand",
+      "Love Me Do",
+      "Can't Buy Me Love"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Want to Hold Your Hand",
+      "America"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which Beatles song opens with the French national anthem?",
+    "options": [
+      "Michelle",
+      "Revolution",
+      "All You Need Is Love",
+      "Paperback Writer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "All You Need Is Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "Which guitarist played the solo on \"While My Guitar Gently Weeps\"?",
+    "options": [
+      "Jimmy Page",
+      "Jeff Beck",
+      "Keith Richards",
+      "Eric Clapton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Eric Clapton",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 2,
+    "question": "Where did The Beatles give their final public performance, in January 1969?",
+    "options": [
+      "On the roof of their Apple building",
+      "At the Cavern Club",
+      "At Wembley Stadium",
+      "At the Royal Albert Hall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which Beatles album includes \"Eleanor Rigby\" and \"Taxman\"?",
+    "options": [
+      "Rubber Soul",
+      "Revolver",
+      "Help!",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which Beatles album includes \"Norwegian Wood\" and \"In My Life\"?",
+    "options": [
+      "Revolver",
+      "Help!",
+      "Rubber Soul",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 2,
+    "question": "In which country did The Beatles study Transcendental Meditation in 1968?",
+    "options": [
+      "Nepal",
+      "Japan",
+      "Morocco",
+      "India"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "India",
+      "Rishikesh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which Indian musician taught George Harrison to play the sitar?",
+    "options": [
+      "Ravi Shankar",
+      "Ali Akbar Khan",
+      "Zakir Hussain",
+      "Vilayat Khan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ravi Shankar",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which Beatles song was inspired by a drawing by John Lennon's son Julian?",
+    "options": [
+      "Hey Jude",
+      "Lucy in the Sky with Diamonds",
+      "Good Night",
+      "Dear Prudence"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lucy in the Sky with Diamonds",
+      "Julian Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "live",
+    "difficulty": 3,
+    "question": "At which New York stadium did The Beatles play to more than 55,000 fans in August 1965?",
+    "options": [
+      "Yankee Stadium",
+      "Madison Square Garden",
+      "Shea Stadium",
+      "Forest Hills Stadium"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shea Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "live",
+    "difficulty": 3,
+    "question": "In which city did The Beatles play their last ticketed concert, in August 1966?",
+    "options": [
+      "Los Angeles",
+      "New York",
+      "Chicago",
+      "San Francisco"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Candlestick Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "records",
+    "difficulty": 3,
+    "question": "Which honour were all four Beatles awarded in 1965?",
+    "options": [
+      "MBE",
+      "OBE",
+      "CBE",
+      "Knighthood"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "MBE"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which Beatles song did Paul McCartney write to comfort Julian Lennon?",
+    "options": [
+      "Let It Be",
+      "Hey Jude",
+      "Blackbird",
+      "Julia"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hey Jude",
+      "Julian Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which American keyboard player joined The Beatles for the \"Get Back\" sessions in 1969?",
+    "options": [
+      "Nicky Hopkins",
+      "Ray Charles",
+      "Billy Preston",
+      "Leon Russell"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Billy Preston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which Beatles song did Ringo Starr write about a home under the sea?",
+    "options": [
+      "Yellow Submarine",
+      "Don't Pass Me By",
+      "Act Naturally",
+      "Octopus's Garden"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Octopus's Garden",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "What was the first Beatles single released on the band's own Apple label?",
+    "options": [
+      "Hey Jude",
+      "Get Back",
+      "Lady Madonna",
+      "Something"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hey Jude",
+      "Apple Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which 1967 Beatles TV film follows a coach trip around the English countryside?",
+    "options": [
+      "Help!",
+      "Magical Mystery Tour",
+      "Yellow Submarine",
+      "Let It Be"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "Which song shared a double A-side single with \"Penny Lane\" in 1967?",
+    "options": [
+      "All You Need Is Love",
+      "Hello, Goodbye",
+      "Strawberry Fields Forever",
+      "Paperback Writer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Penny Lane",
+      "Strawberry Fields Forever"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which Beatle is barefoot on the cover of Abbey Road?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "Which 1965 Beatles recording features Paul McCartney alone with a string quartet?",
+    "options": [
+      "Yesterday",
+      "Michelle",
+      "And I Love Her",
+      "Girl"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote the Beatles song \"Something\"?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Something",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "In which year was \"Love Me Do\" released?",
+    "options": [
+      "1960",
+      "1961",
+      "1962",
+      "1963"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which pop artist created the Sgt. Pepper album cover with Jann Haworth?",
+    "options": [
+      "Andy Warhol",
+      "Richard Hamilton",
+      "David Hockney",
+      "Peter Blake"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sgt. Pepper",
+      "Peter Blake"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Who drew the cover of the Revolver album?",
+    "options": [
+      "Klaus Voormann",
+      "Peter Blake",
+      "Robert Freeman",
+      "John Lennon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Revolver",
+      "Klaus Voormann"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which was the first Beatles album made up entirely of Lennon-McCartney songs?",
+    "options": [
+      "Please Please Me",
+      "A Hard Day's Night",
+      "Help!",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes the Sgt. Pepper album?",
+    "options": [
+      "Lovely Rita",
+      "Good Morning Good Morning",
+      "A Day in the Life",
+      "She's Leaving Home"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper",
+      "A Day in the Life"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens the Abbey Road album?",
+    "options": [
+      "Something",
+      "Here Comes the Sun",
+      "Octopus's Garden",
+      "Come Together"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road",
+      "Come Together"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which American producer was brought in to finish the Let It Be album?",
+    "options": [
+      "Phil Spector",
+      "Quincy Jones",
+      "Brian Wilson",
+      "Jerry Wexler"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Let It Be",
+      "Phil Spector"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which Beatles album cover is Robert Freeman's black-and-white photo of four half-lit faces?",
+    "options": [
+      "Please Please Me",
+      "With the Beatles",
+      "Beatles for Sale",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "With the Beatles",
+      "Robert Freeman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which Beatle walked out for about two weeks during the White Album sessions in 1968?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "White Album",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Who played drums on \"Back in the U.S.S.R.\" while Ringo Starr was away?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Andy White",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Back in the U.S.S.R.",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which of these Beatles albums was released first?",
+    "options": [
+      "Beatles for Sale",
+      "Help!",
+      "Rubber Soul",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which song did The Beatles perform on the 1967 worldwide satellite broadcast \"Our World\"?",
+    "options": [
+      "Hey Jude",
+      "All You Need Is Love",
+      "Hello, Goodbye",
+      "Revolution"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Our World",
+      "All You Need Is Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which Beatles album does \"Blackbird\" appear?",
+    "options": [
+      "Abbey Road",
+      "Let It Be",
+      "The White Album",
+      "Revolver"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Blackbird",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "Which instrument did George Harrison introduce to a Beatles record on \"Norwegian Wood\"?",
+    "options": [
+      "Mandolin",
+      "Harpsichord",
+      "Tabla",
+      "Sitar"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Norwegian Wood",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which country did The Beatles leave in a hurry in 1966 after appearing to snub the president's wife?",
+    "options": [
+      "The Philippines",
+      "Japan",
+      "Indonesia",
+      "Thailand"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Philippines",
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which drummer stood in for an ill Ringo Starr at the start of the 1964 world tour?",
+    "options": [
+      "Andy White",
+      "Jimmie Nicol",
+      "Pete Best",
+      "Bobby Graham"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Jimmie Nicol",
+      "1964 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "At which Tokyo venue did The Beatles play in 1966?",
+    "options": [
+      "Tokyo Dome",
+      "Korakuen Hall",
+      "Nippon Budokan",
+      "Hibiya Hall"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Budokan",
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "At which Hamburg club did The Beatles begin their first residency in August 1960?",
+    "options": [
+      "The Star-Club",
+      "The Kaiserkeller",
+      "The Top Ten Club",
+      "The Indra"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Indra"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who took charge of The Beatles' business affairs in 1969, against Paul McCartney's wishes?",
+    "options": [
+      "Allen Klein",
+      "Lee Eastman",
+      "Robert Stigwood",
+      "Dick James"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Allen Klein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What was the B-side of \"Love Me Do\"?",
+    "options": [
+      "Ask Me Why",
+      "P.S. I Love You",
+      "Thank You Girl",
+      "I'll Get You"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Love Me Do",
+      "P.S. I Love You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which session drummer played on the album version of \"Love Me Do\"?",
+    "options": [
+      "Bobby Graham",
+      "Clem Cattini",
+      "Andy White",
+      "Jimmie Nicol"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Love Me Do",
+      "Andy White"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Beatles road manager went on to run Apple Corps for decades?",
+    "options": [
+      "Mal Evans",
+      "Derek Taylor",
+      "Peter Brown",
+      "Neil Aspinall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Neil Aspinall",
+      "Apple Corps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Which single was credited to \"The Beatles with Billy Preston\"?",
+    "options": [
+      "Get Back",
+      "Let It Be",
+      "Something",
+      "The Ballad of John and Yoko"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Get Back",
+      "Billy Preston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which German photographer took the famous early pictures of The Beatles in Hamburg?",
+    "options": [
+      "Jürgen Vollmer",
+      "Astrid Kirchherr",
+      "Linda Eastman",
+      "Dezo Hoffmann"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Astrid Kirchherr",
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "In which city did The Beatles play their first concert in the United States, in February 1964?",
+    "options": [
+      "New York",
+      "Miami",
+      "Washington, D.C.",
+      "Boston"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Washington Coliseum",
+      "America"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Roughly how long does the single \"Hey Jude\" last?",
+    "options": [
+      "Just over 4 minutes",
+      "Just over 5 minutes",
+      "Just over 6 minutes",
+      "Just over 7 minutes"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "On which Liverpool street is the Cavern Club?",
+    "options": [
+      "Mathew Street",
+      "Bold Street",
+      "Hope Street",
+      "Slater Street"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cavern Club",
+      "Liverpool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "Which 1966 remark by John Lennon led to Beatles records being burned in parts of America?",
+    "options": [
+      "That the band would never tour again",
+      "That The Beatles were more popular than Jesus",
+      "That America had no good music",
+      "That Elvis was finished"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Lennon",
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "At which church fête did John Lennon first meet Paul McCartney in July 1957?",
+    "options": [
+      "St Barnabas', Penny Lane",
+      "St Luke's, Liverpool",
+      "St Peter's, Woolton",
+      "St Mary's, Walton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Woolton",
+      "Lennon-McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which song did The Beatles record in Hamburg in 1961 as the backing band for Tony Sheridan?",
+    "options": [
+      "Skinny Minnie",
+      "Money",
+      "Twist and Shout",
+      "My Bonnie"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tony Sheridan",
+      "My Bonnie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who became The Beatles' chief recording engineer at the start of the Revolver sessions?",
+    "options": [
+      "Geoff Emerick",
+      "Norman Smith",
+      "Ken Scott",
+      "Glyn Johns"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Geoff Emerick",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which 1964 Beatles single opens with a burst of guitar feedback?",
+    "options": [
+      "Can't Buy Me Love",
+      "I Feel Fine",
+      "A Hard Day's Night",
+      "Eight Days a Week"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "I Feel Fine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which instrumental on Magical Mystery Tour is credited to all four Beatles as writers?",
+    "options": [
+      "Blue Jay Way",
+      "Aerial Tour",
+      "Flying",
+      "Shirley's Wild Accordion"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Flying",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who was The Beatles' first manager, who drove them to Hamburg in 1960?",
+    "options": [
+      "Brian Epstein",
+      "Larry Parnes",
+      "Bob Wooler",
+      "Allan Williams"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Allan Williams",
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "Which Liverpool club, run by Pete Best's mother Mona, hosted early Quarrymen shows?",
+    "options": [
+      "The Casbah Coffee Club",
+      "The Jacaranda",
+      "The Iron Door",
+      "The Blue Angel"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Casbah",
+      "Mona Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which Beatles B-side was their first record to feature backwards vocals?",
+    "options": [
+      "I Am the Walrus",
+      "Rain",
+      "Tomorrow Never Knows",
+      "Baby, You're a Rich Man"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Under which name did the band tour Scotland backing Johnny Gentle in May 1960?",
+    "options": [
+      "Johnny and the Moondogs",
+      "The Beat Brothers",
+      "The Silver Beetles",
+      "The Blackjacks"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Silver Beetles",
+      "Johnny Gentle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which instrument does David Mason play for the solo on \"Penny Lane\"?",
+    "options": [
+      "French horn",
+      "Cornet",
+      "Flugelhorn",
+      "Piccolo trumpet"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Penny Lane",
+      "David Mason"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "On which date did The Beatles play their rooftop concert?",
+    "options": [
+      "30 January 1969",
+      "2 January 1969",
+      "20 August 1969",
+      "10 April 1970"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "What was the working title of the Abbey Road album?",
+    "options": [
+      "Get Back",
+      "Everest",
+      "A Doll's House",
+      "Four in the Bar"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "Which member of The Rutles is the parody of Ringo Starr?",
+    "options": [
+      "Dirk McQuickly",
+      "Barry Wom",
+      "Ron Nasty",
+      "Stig O'Hara"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Rutles",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which member of The Rutles was played by Neil Innes?",
+    "options": [
+      "Dirk McQuickly",
+      "Ron Nasty",
+      "Stig O'Hara",
+      "Barry Wom"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Rutles",
+      "Neil Innes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which real Beatle makes a cameo as a TV interviewer in the Rutles film All You Need Is Cash?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Rutles",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which American TV network first broadcast the Rutles film All You Need Is Cash in March 1978?",
+    "options": [
+      "CBS",
+      "NBC",
+      "ABC",
+      "PBS"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Rutles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which character in the Rutles film All You Need Is Cash is the parody of Brian Epstein?",
+    "options": [
+      "Archie Macaw",
+      "Ron Decline",
+      "Eric Manchester",
+      "Leggy Mountbatten"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Rutles",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "John Belushi plays Ron Decline in All You Need Is Cash, a parody of which Beatles business figure?",
+    "options": [
+      "Allen Klein",
+      "Brian Epstein",
+      "Dick James",
+      "Derek Taylor"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Rutles",
+      "Allen Klein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "The Rutles' 1978 soundtrack album was nominated for a Grammy in which category?",
+    "options": [
+      "Best Spoken Word Album",
+      "Best Rock Album",
+      "Best New Artist",
+      "Best Comedy Recording"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Rutles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Rutles song is the parody of the Beatles' Get Back?",
+    "options": [
+      "Cheese and Onions",
+      "Piggy in the Middle",
+      "Doubleback Alley",
+      "Get Up and Go"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Rutles",
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who sang the vocals that Eric Idle mimed to as Dirk McQuickly in All You Need Is Cash?",
+    "options": [
+      "Andy Brown",
+      "John Halsey",
+      "Ollie Halsall",
+      "Ricky Fataar"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Rutles",
+      "Ollie Halsall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which comedian plays Brian Thigh, the producer who turned down The Rutles, in All You Need Is Cash?",
+    "options": [
+      "Chevy Chase",
+      "Dan Aykroyd",
+      "Bill Murray",
+      "Steve Martin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Rutles",
+      "Dan Aykroyd"
+    ],
+    "source": "manual"
+  }
+]

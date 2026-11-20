@@ -1,0 +1,1617 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which actor's remarks during an LSD trip inspired \"She Said She Said\"?",
+    "options": [
+      "Marlon Brando",
+      "Jack Nicholson",
+      "Dennis Hopper",
+      "Peter Fonda"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "She Said She Said",
+      "Peter Fonda"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"She Said She Said\" is on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Revolver",
+      "Magical Mystery Tour",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "She Said She Said",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which song was the last to be recorded for Revolver?",
+    "options": [
+      "Here, There and Everywhere",
+      "Yellow Submarine",
+      "She Said She Said",
+      "Tomorrow Never Knows"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "She Said She Said",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "What was the original title of \"She Said She Said\"?",
+    "options": [
+      "The Void",
+      "Peter Said",
+      "He Said",
+      "I Know What It's Like"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "She Said She Said"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Run for Your Life\" closes which album?",
+    "options": [
+      "Rubber Soul",
+      "Beatles for Sale",
+      "Help!",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Run for Your Life",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"Roll Over Beethoven\", covered on With the Beatles?",
+    "options": [
+      "Chuck Berry",
+      "Bo Diddley",
+      "Little Richard",
+      "Jerry Lee Lewis"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Roll Over Beethoven",
+      "Chuck Berry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who sings lead on the Beatles' version of \"Roll Over Beethoven\"?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Roll Over Beethoven",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"She's a Woman\" was the B-side of which single?",
+    "options": [
+      "Help!",
+      "I Feel Fine",
+      "Eight Days a Week",
+      "Ticket to Ride"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "She's a Woman",
+      "I Feel Fine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who was the main writer of \"She's a Woman\"?",
+    "options": [
+      "Ringo Starr",
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "She's a Woman",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "Although a B-side, \"She's a Woman\" reached which position on the US Billboard Hot 100?",
+    "options": [
+      "Number 4",
+      "Number 40",
+      "Number 14",
+      "Number 1"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "She's a Woman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which song about a desert romance did George Harrison sing at the Decca audition?",
+    "options": [
+      "Besame Mucho",
+      "The Sheik of Araby",
+      "Three Cool Cats",
+      "September in the Rain"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Sheik of Araby",
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which Coasters song, written by Leiber and Stoller, did The Beatles play at their Decca audition?",
+    "options": [
+      "Searchin'",
+      "Poison Ivy",
+      "Yakety Yak",
+      "Charlie Brown"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Searchin'",
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "The earliest film of The Beatles at the Cavern, shot by Granada TV in 1962, shows them playing which song?",
+    "options": [
+      "Love Me Do",
+      "Some Other Guy",
+      "Twist and Shout",
+      "Money"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Some Other Guy",
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatle wrote \"Strawberry Fields Forever\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Strawberry Fields Forever",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "On which date was the \"Strawberry Fields Forever\" / \"Penny Lane\" single released?",
+    "options": [
+      "24 November 1967",
+      "13 February 1967",
+      "1 June 1967",
+      "5 August 1966"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Strawberry Fields Forever",
+      "Penny Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "Strawberry Field, where John Lennon played as a child, was what kind of place?",
+    "options": [
+      "A public park",
+      "A children's home",
+      "A fruit farm",
+      "A cemetery"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Strawberry Fields Forever",
+      "Strawberry Field"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Taxman\" opens which album?",
+    "options": [
+      "Revolver",
+      "Rubber Soul",
+      "Help!",
+      "Abbey Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Taxman",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which British prime minister's government is the target of \"Taxman\"?",
+    "options": [
+      "Harold Macmillan",
+      "Alec Douglas-Home",
+      "Harold Wilson",
+      "Edward Heath"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Taxman",
+      "Harold Wilson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Beatle helped George Harrison with the lyrics of \"Taxman\"?",
+    "options": [
+      "None of them",
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Taxman",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Think for Yourself\" on Rubber Soul?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Think for Yourself",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which two George Harrison songs appear on the British Rubber Soul?",
+    "options": [
+      "Think for Yourself and If I Needed Someone",
+      "Don't Bother Me and I Need You",
+      "Taxman and Love You To",
+      "I Need You and You Like Me Too Much"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rubber Soul",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"Thank You Girl\" was the B-side of which British single?",
+    "options": [
+      "She Loves You",
+      "Love Me Do",
+      "From Me to You",
+      "Please Please Me"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Thank You Girl",
+      "From Me to You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "\"Thank You Girl\" did not appear on a UK album until which 1978 compilation?",
+    "options": [
+      "Rock 'n' Roll Music",
+      "Hey Jude",
+      "Love Songs",
+      "Rarities"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Thank You Girl",
+      "Rarities"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Things We Said Today\"?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Things We Said Today",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "Where was Paul McCartney on holiday when he wrote \"Things We Said Today\"?",
+    "options": [
+      "Tenerife",
+      "The Bahamas",
+      "The Virgin Islands",
+      "Greece"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Things We Said Today"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Tell Me What You See\" appears on which British album?",
+    "options": [
+      "A Hard Day's Night",
+      "Beatles for Sale",
+      "Rubber Soul",
+      "Help!"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tell Me What You See",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Tell Me Why\" is a song from which album?",
+    "options": [
+      "Please Please Me",
+      "With the Beatles",
+      "A Hard Day's Night",
+      "Help!"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Tell Me Why",
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which song on Please Please Me comes from a British play of the same name that became a 1961 film?",
+    "options": [
+      "A Taste of Honey",
+      "Till There Was You",
+      "Anna (Go to Him)",
+      "Chains"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Taste of Honey"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who sings lead on the Beatles' version of \"A Taste of Honey\"?",
+    "options": [
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Taste of Honey",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"There's a Place\" is on which album?",
+    "options": [
+      "With the Beatles",
+      "A Hard Day's Night",
+      "Beatles for Sale",
+      "Please Please Me"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "There's a Place",
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "\"There's a Place\" was the American B-side of which single in 1964?",
+    "options": [
+      "Love Me Do",
+      "Twist and Shout",
+      "Do You Want to Know a Secret",
+      "Please Please Me"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "There's a Place",
+      "Twist and Shout"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "John Lennon said \"There's a Place\" was his attempt at a song in which style?",
+    "options": [
+      "Skiffle",
+      "Motown",
+      "Calypso",
+      "Country and western"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "There's a Place"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Who directed the 1970 film Let It Be?",
+    "options": [
+      "Joe McGrath",
+      "Peter Jackson",
+      "Richard Lester",
+      "Michael Lindsay-Hogg"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Let It Be",
+      "Michael Lindsay-Hogg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Let It Be was The Beatles' studio album of which number?",
+    "options": [
+      "Tenth",
+      "Fourteenth",
+      "Twelfth",
+      "Eleventh"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "\"Teddy Boy\", rehearsed during the Get Back sessions, was released on which solo album?",
+    "options": [
+      "All Things Must Pass",
+      "Ringo",
+      "Imagine",
+      "McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Teddy Boy",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "George Harrison gave his song \"Sour Milk Sea\" to which Apple singer?",
+    "options": [
+      "Jackie Lomax",
+      "James Taylor",
+      "Doris Troy",
+      "Mary Hopkin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sour Milk Sea",
+      "Jackie Lomax"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "How many Beatles play on Jackie Lomax's recording of \"Sour Milk Sea\"?",
+    "options": [
+      "Four",
+      "One",
+      "Three",
+      "Two"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sour Milk Sea",
+      "Jackie Lomax"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which American singer released the Lennon-McCartney song \"That Means a Lot\" in 1965?",
+    "options": [
+      "Gene Pitney",
+      "Bobby Vee",
+      "P.J. Proby",
+      "Del Shannon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "That Means a Lot",
+      "P.J. Proby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Paul McCartney wrote \"Step Inside Love\" as a TV theme for which singer?",
+    "options": [
+      "Sandie Shaw",
+      "Cilla Black",
+      "Lulu",
+      "Petula Clark"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Step Inside Love",
+      "Cilla Black"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "\"When I'm Sixty-Four\" is on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Help!",
+      "Abbey Road",
+      "Let It Be"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "When I'm Sixty-Four",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "About how old was Paul McCartney when he wrote \"When I'm Sixty-Four\"?",
+    "options": [
+      "8",
+      "21",
+      "14",
+      "24"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "When I'm Sixty-Four",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which woodwind instruments feature prominently on \"When I'm Sixty-Four\"?",
+    "options": [
+      "Bassoons",
+      "Clarinets",
+      "Flutes",
+      "Oboes"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "When I'm Sixty-Four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Why was the recording of \"When I'm Sixty-Four\" sped up?",
+    "options": [
+      "To make Paul's voice sound younger",
+      "To match the film footage",
+      "To hide a tape fault",
+      "To fit it onto the album side"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "When I'm Sixty-Four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which American group's version of \"Twist and Shout\" did The Beatles base their cover on?",
+    "options": [
+      "The Isley Brothers",
+      "The Miracles",
+      "The Drifters",
+      "The Coasters"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Twist and Shout",
+      "The Isley Brothers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who sings the lead vocal on the Beatles' \"Twist and Shout\"?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Twist and Shout",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Twist and Shout\" closes which Beatles album?",
+    "options": [
+      "Please Please Me",
+      "Beatles for Sale",
+      "A Hard Day's Night",
+      "With the Beatles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Twist and Shout",
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "In which year was \"Ticket to Ride\" released?",
+    "options": [
+      "1963",
+      "1964",
+      "1966",
+      "1965"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ticket to Ride"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Ticket to Ride\" is on which album?",
+    "options": [
+      "Revolver",
+      "A Hard Day's Night",
+      "Rubber Soul",
+      "Help!"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ticket to Ride",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who was the main writer of \"Ticket to Ride\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ticket to Ride",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"Ticket to Ride\" was The Beatles' consecutive UK number one of which count?",
+    "options": [
+      "Fifth",
+      "Seventh",
+      "Third",
+      "Tenth"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ticket to Ride"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "Which Beatles single was the UK Christmas number one of 1965?",
+    "options": [
+      "Day Tripper / We Can Work It Out",
+      "Yesterday",
+      "Help!",
+      "Ticket to Ride"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "We Can Work It Out",
+      "Christmas number one"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "\"We Can Work It Out\" won which award as the top-selling British A-side of 1965?",
+    "options": [
+      "Ivor Novello Award",
+      "Brit Award",
+      "NME Award",
+      "Grammy Award"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "We Can Work It Out",
+      "Ivor Novello"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which Rubber Soul song features Ringo Starr on lead vocals?",
+    "options": [
+      "What Goes On",
+      "The Word",
+      "Wait",
+      "Girl"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "What Goes On",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "\"What Goes On\" is the only Beatles song with which writing credit?",
+    "options": [
+      "Harrison-Starkey",
+      "McCartney-Starkey",
+      "Lennon-Starkey",
+      "Lennon-McCartney-Starkey"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "What Goes On",
+      "Songwriting credits"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "\"What Goes On\" was the US B-side of which single?",
+    "options": [
+      "Day Tripper",
+      "Nowhere Man",
+      "Paperback Writer",
+      "Yesterday"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "What Goes On",
+      "Nowhere Man"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Wait\" is a track on which album?",
+    "options": [
+      "Rubber Soul",
+      "Revolver",
+      "Help!",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Wait",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Two of Us\" opens which album?",
+    "options": [
+      "Let It Be",
+      "Yellow Submarine",
+      "The White Album",
+      "Abbey Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Two of Us",
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Two of Us\"?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Two of Us",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "The 2000 TV film Two of Us imagines a 1976 meeting between which two Beatles?",
+    "options": [
+      "John Lennon and George Harrison",
+      "George Harrison and Ringo Starr",
+      "John Lennon and Paul McCartney",
+      "Paul McCartney and Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Two of Us"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Tomorrow Never Knows\" is the final track on which album?",
+    "options": [
+      "Magical Mystery Tour",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Rubber Soul",
+      "Revolver"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tomorrow Never Knows",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which song was the first to be recorded for Revolver?",
+    "options": [
+      "Got to Get You into My Life",
+      "Eleanor Rigby",
+      "Taxman",
+      "Tomorrow Never Knows"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tomorrow Never Knows",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"Tomorrow Never Knows\" drew on a 1964 book co-written by which LSD advocate?",
+    "options": [
+      "Ken Kesey",
+      "Timothy Leary",
+      "Allen Ginsberg",
+      "Aldous Huxley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tomorrow Never Knows",
+      "Timothy Leary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who was the main writer of \"Tomorrow Never Knows\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Tomorrow Never Knows",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"This Boy\" was the British B-side of which single?",
+    "options": [
+      "Can't Buy Me Love",
+      "I Want to Hold Your Hand",
+      "She Loves You",
+      "From Me to You"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "This Boy",
+      "I Want to Hold Your Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Under what title does an instrumental version of \"This Boy\" appear in the film A Hard Day's Night?",
+    "options": [
+      "Paul's Lament",
+      "George's Walk",
+      "Ringo's Theme",
+      "John's Tune"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "This Boy",
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "On which British comedy duo's TV show did The Beatles perform \"This Boy\" in 1963?",
+    "options": [
+      "Morecambe and Wise",
+      "Peter Cook and Dudley Moore",
+      "Mike and Bernie Winters",
+      "The Two Ronnies"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "This Boy",
+      "Morecambe and Wise"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which unreleased 1969 song was recorded while George Harrison had temporarily left the group?",
+    "options": [
+      "Watching Rainbows",
+      "Suzy Parker",
+      "Madman",
+      "Commonwealth"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Watching Rainbows",
+      "Get Back sessions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "On which American album was \"Things We Said Today\" released?",
+    "options": [
+      "Beatles VI",
+      "Beatles '65",
+      "Meet the Beatles!",
+      "Something New"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Things We Said Today",
+      "Something New"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song is about a street with a barber, a banker and a fireman?",
+    "options": [
+      "Eleanor Rigby",
+      "Strawberry Fields Forever",
+      "Abbey Road",
+      "Penny Lane"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Penny Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song begins \"It's been a hard day's night\"?",
+    "options": [
+      "Eight Days a Week",
+      "Help!",
+      "A Hard Day's Night",
+      "I'm So Tired"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"I Want to Hold Your ...\"?",
+    "options": [
+      "Love",
+      "Arm",
+      "Hand",
+      "Heart"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Want to Hold Your Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Lucy in the Sky with ...\"?",
+    "options": [
+      "Rainbows",
+      "Kites",
+      "Diamonds",
+      "Starlight"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lucy in the Sky with Diamonds"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"With a Little Help from My ...\"?",
+    "options": [
+      "Band",
+      "Brothers",
+      "Family",
+      "Friends"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "With a Little Help from My Friends"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"While My Guitar Gently ...\"?",
+    "options": [
+      "Plays",
+      "Sleeps",
+      "Sings",
+      "Weeps"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "While My Guitar Gently Weeps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Can't Buy Me ...\"?",
+    "options": [
+      "Happiness",
+      "Time",
+      "Friends",
+      "Love"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Can't Buy Me Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Eight Days a ...\"?",
+    "options": [
+      "Fortnight",
+      "Year",
+      "Month",
+      "Week"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Eight Days a Week"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Ticket to ...\"?",
+    "options": [
+      "Liverpool",
+      "Paradise",
+      "Ride",
+      "Fly"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ticket to Ride"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Strawberry Fields ...\"?",
+    "options": [
+      "Tomorrow",
+      "Forever",
+      "Tonight",
+      "Again"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Strawberry Fields Forever"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"The Long and Winding ...\"?",
+    "options": [
+      "River",
+      "Path",
+      "Lane",
+      "Road"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Long and Winding Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Maxwell's Silver ...\"?",
+    "options": [
+      "Whistle",
+      "Spoon",
+      "Bullet",
+      "Hammer"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Maxwell's Silver Hammer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Sgt. Pepper's Lonely Hearts Club ...\"?",
+    "options": [
+      "Choir",
+      "Show",
+      "Band",
+      "Dance"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Complete the Beatles song title: \"Back in the ...\"?",
+    "options": [
+      "U.S.A.",
+      "U.S.S.R.",
+      "Cavern",
+      "Saddle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Back in the U.S.S.R."
+    ],
+    "source": "manual"
+  }
+]

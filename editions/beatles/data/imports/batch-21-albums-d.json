@@ -1,0 +1,1431 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was the double-album compilation Rock 'n' Roll Music released?",
+    "options": [
+      "1976",
+      "1973",
+      "1970",
+      "1982"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rock 'n' Roll Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "How many tracks are on the Rock 'n' Roll Music compilation?",
+    "options": [
+      "28",
+      "40",
+      "20",
+      "14"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rock 'n' Roll Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which George Harrison song is the only one of his compositions on Rock 'n' Roll Music?",
+    "options": [
+      "Something",
+      "Savoy Truffle",
+      "Taxman",
+      "Old Brown Shoe"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rock 'n' Roll Music",
+      "Taxman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song opens the Rock 'n' Roll Music compilation?",
+    "options": [
+      "Twist and Shout",
+      "Rock and Roll Music",
+      "Long Tall Sally",
+      "Back in the U.S.S.R."
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rock 'n' Roll Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which B-side made its first appearance on a Beatles album with Rock 'n' Roll Music in 1976?",
+    "options": [
+      "The Inner Light",
+      "Rain",
+      "I'm Down",
+      "Yes It Is"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rock 'n' Roll Music",
+      "I'm Down"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "What was The Beatles' first official live album, released in 1977?",
+    "options": [
+      "The Beatles at the Hollywood Bowl",
+      "Get Back",
+      "Live at the BBC",
+      "Live! at the Star-Club"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles at the Hollywood Bowl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many Hollywood Bowl concerts were used to make The Beatles' 1977 live album?",
+    "options": [
+      "Six",
+      "Two",
+      "Three",
+      "One"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles at the Hollywood Bowl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens The Beatles at the Hollywood Bowl?",
+    "options": [
+      "I Saw Her Standing There",
+      "She Loves You",
+      "Twist and Shout",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles at the Hollywood Bowl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes the original The Beatles at the Hollywood Bowl album?",
+    "options": [
+      "Long Tall Sally",
+      "Twist and Shout",
+      "She Loves You",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles at the Hollywood Bowl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was the Hollywood Bowl album reissued as Live at the Hollywood Bowl?",
+    "options": [
+      "2016",
+      "1987",
+      "1995",
+      "2009"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Live at the Hollywood Bowl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which month of 1977 was The Beatles at the Hollywood Bowl released?",
+    "options": [
+      "May",
+      "January",
+      "August",
+      "December"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles at the Hollywood Bowl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was the compilation Love Songs released?",
+    "options": [
+      "1977",
+      "1990",
+      "1982",
+      "1970"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Love Songs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song opens the Love Songs compilation?",
+    "options": [
+      "Something",
+      "And I Love Her",
+      "Yesterday",
+      "Michelle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Love Songs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "The Beatles' image on the Love Songs cover reworked a 1967 portrait by which photographer?",
+    "options": [
+      "David Bailey",
+      "Robert Freeman",
+      "Linda McCartney",
+      "Richard Avedon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Love Songs",
+      "Richard Avedon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "On what colour vinyl was the Love Songs compilation also available?",
+    "options": [
+      "Red",
+      "White",
+      "Blue",
+      "Yellow"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Love Songs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date were the two volumes of Past Masters first released?",
+    "options": [
+      "26 February 1987",
+      "7 March 1988",
+      "13 November 2000",
+      "20 November 1995"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Past Masters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Beatles historian compiled Past Masters and wrote its notes?",
+    "options": [
+      "Mark Lewisohn",
+      "Ian MacDonald",
+      "Hunter Davies",
+      "Philip Norman"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Past Masters",
+      "Mark Lewisohn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Past Masters is counted as which number among The Beatles' core releases?",
+    "options": [
+      "20th",
+      "14th",
+      "12th",
+      "10th"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Past Masters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which British EP is included in full on Past Masters?",
+    "options": [
+      "All My Loving",
+      "Twist and Shout",
+      "Magical Mystery Tour",
+      "Long Tall Sally"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Past Masters",
+      "Long Tall Sally"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many German-language Beatles recordings are on Past Masters?",
+    "options": [
+      "None",
+      "Six",
+      "Four",
+      "Two"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Past Masters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Anthology 1 released?",
+    "options": [
+      "20 November 1995",
+      "7 March 1988",
+      "18 March 1996",
+      "13 November 2000"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Anthology 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which period of The Beatles' career does Anthology 1 cover?",
+    "options": [
+      "1970 to 1980",
+      "1958 to 1964",
+      "1965 to 1968",
+      "1968 to 1970"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Anthology 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which new song opens Anthology 1?",
+    "options": [
+      "Free as a Bird",
+      "In Spite of All the Danger",
+      "Real Love",
+      "Now and Then"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Anthology 1",
+      "Free as a Bird"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which two former Beatles can be heard on early tracks on Anthology 1?",
+    "options": [
+      "Chas Newby and Tommy Moore",
+      "Jimmie Nicol and Andy White",
+      "Ken Brown and Colin Hanton",
+      "Stuart Sutcliffe and Pete Best"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Anthology 1",
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What position did Anthology 1 reach on the UK albums chart?",
+    "options": [
+      "Number 5",
+      "Number 12",
+      "Number 2",
+      "Number 1"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Anthology 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which Beatles instrumental, written by Harrison and Lennon and recorded in Hamburg, appears on Anthology 1?",
+    "options": [
+      "Cry for a Shadow",
+      "12-Bar Original",
+      "Cayenne",
+      "Flying"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Anthology 1",
+      "Cry for a Shadow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Anthology 2 released?",
+    "options": [
+      "28 October 1996",
+      "13 November 2000",
+      "18 March 1996",
+      "20 November 1995"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Anthology 2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which new song opens Anthology 2?",
+    "options": [
+      "Now and Then",
+      "Real Love",
+      "Free as a Bird",
+      "A Beginning"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Anthology 2",
+      "Real Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Anthology 2 begins with outtakes from the sessions for which 1965 album?",
+    "options": [
+      "Beatles for Sale",
+      "Revolver",
+      "Rubber Soul",
+      "Help!"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Anthology 2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Anthology 3 released?",
+    "options": [
+      "28 October 1996",
+      "18 March 1996",
+      "17 November 2003",
+      "20 November 1995"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Anthology 3"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Anthology 3 covers The Beatles' work from the White Album sessions to which final albums?",
+    "options": [
+      "Magical Mystery Tour and Yellow Submarine",
+      "Let It Be and Abbey Road",
+      "Help! and Rubber Soul",
+      "Revolver and Sgt. Pepper"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Anthology 3"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which orchestral piece by George Martin opens Anthology 3?",
+    "options": [
+      "A Beginning",
+      "Pepperland",
+      "Sea of Time",
+      "Theme One"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Anthology 3",
+      "A Beginning"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "With Anthology 3, The Beatles equalled a US record for three number one double albums in a row set by which singer?",
+    "options": [
+      "Stevie Wonder",
+      "Elton John",
+      "Donna Summer",
+      "Barbra Streisand"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Anthology 3",
+      "Donna Summer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year were the Anthology albums first made available as digital downloads?",
+    "options": [
+      "2011",
+      "2019",
+      "2005",
+      "2000"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Anthology"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which Beatles compilation of number one hits was released in November 2000?",
+    "options": [
+      "20 Greatest Hits",
+      "Love",
+      "Past Masters",
+      "1"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1 (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was the compilation 1 released?",
+    "options": [
+      "9 September 2009",
+      "20 November 1995",
+      "17 November 2003",
+      "13 November 2000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1 (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "About how many copies has the compilation 1 sold worldwide?",
+    "options": [
+      "Over 100 million",
+      "Over 31 million",
+      "About 10 million",
+      "About 3 million"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1 (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens the compilation 1?",
+    "options": [
+      "Please Please Me",
+      "From Me to You",
+      "She Loves You",
+      "Love Me Do"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1 (album)",
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "The compilation 1 was released on which anniversary of The Beatles' break-up?",
+    "options": [
+      "The 30th",
+      "The 40th",
+      "The 20th",
+      "The 25th"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1 (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What was the best-selling album of the 2000s in the United States?",
+    "options": [
+      "Come Away with Me by Norah Jones",
+      "Thriller by Michael Jackson",
+      "21 by Adele",
+      "1 by The Beatles"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1 (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "On which date did George Harrison die?",
+    "options": [
+      "30 November 1999",
+      "29 November 2001",
+      "8 March 2016",
+      "8 December 1980"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What is the title of the expanded 2015 edition of 1 that includes discs of promotional films?",
+    "options": [
+      "1 Deluxe",
+      "27",
+      "1+",
+      "1 Plus Video"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1 (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Let It Be... Naked released?",
+    "options": [
+      "17 November 2003",
+      "13 November 2000",
+      "9 September 2009",
+      "8 May 1970"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Let It Be... Naked"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which Beatle initiated the Let It Be... Naked project?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon's estate",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Let It Be... Naked",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "What does Let It Be... Naked remove from the original Let It Be album?",
+    "options": [
+      "Billy Preston's keyboards",
+      "All of George Harrison's songs",
+      "Most of Phil Spector's additions",
+      "The rooftop recordings"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be... Naked",
+      "Phil Spector"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens Let It Be... Naked?",
+    "options": [
+      "Let It Be",
+      "Get Back",
+      "Two of Us",
+      "Dig a Pony"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be... Naked",
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes Let It Be... Naked?",
+    "options": [
+      "Across the Universe",
+      "The Long and Winding Road",
+      "Let It Be",
+      "Get Back"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be... Naked"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "What is the title of the bonus disc of studio chat and rehearsals that came with Let It Be... Naked?",
+    "options": [
+      "Rooftop Rehearsal",
+      "Fly on the Wall",
+      "Behind the Glass",
+      "The Twickenham Tapes"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be... Naked"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "The 2006 album Love was made for a stage show by which company?",
+    "options": [
+      "Cirque du Soleil",
+      "The Royal Ballet",
+      "The Royal Shakespeare Company",
+      "Disney on Ice"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Love (album)",
+      "Cirque du Soleil"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Who produced the album Love together with George Martin?",
+    "options": [
+      "Paul McCartney",
+      "His son Giles Martin",
+      "Jeff Lynne",
+      "Phil Spector"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Love (album)",
+      "Giles Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which month and year was the album Love released?",
+    "options": [
+      "June 2004",
+      "November 2000",
+      "September 2009",
+      "November 2006"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Love (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which a cappella Abbey Road song opens the album Love?",
+    "options": [
+      "Sun King",
+      "Her Majesty",
+      "Because",
+      "Golden Slumbers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Love (album)",
+      "Because"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "What is the title of the track on Love made from \"Sun King\" played backwards?",
+    "options": [
+      "Sun Gnik",
+      "King Sun",
+      "Nus Gnik",
+      "Gnik Nus"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Love (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which album was George Martin's last as a producer?",
+    "options": [
+      "Let It Be... Naked",
+      "Love",
+      "Anthology 3",
+      "1"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Martin",
+      "Love (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did George Martin die?",
+    "options": [
+      "2009",
+      "2016",
+      "2001",
+      "2021"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who remixed the songs for the Yellow Submarine Songtrack in 1999?",
+    "options": [
+      "Peter Cobbin",
+      "Geoff Emerick",
+      "Giles Martin",
+      "Jeff Lynne"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yellow Submarine Songtrack"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song from the Yellow Submarine film was left off the Yellow Submarine Songtrack?",
+    "options": [
+      "When I'm Sixty-Four",
+      "Nowhere Man",
+      "A Day in the Life",
+      "Eleanor Rigby"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yellow Submarine Songtrack"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was On Air - Live at the BBC Volume 2 released?",
+    "options": [
+      "2003",
+      "2021",
+      "2013",
+      "1994"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "On Air - Live at the BBC Volume 2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "How many previously unreleased BBC performances are on On Air - Live at the BBC Volume 2?",
+    "options": [
+      "40",
+      "10",
+      "88",
+      "23"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "On Air - Live at the BBC Volume 2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date were The Beatles' remastered albums and the box set The Beatles in Mono released?",
+    "options": [
+      "2 November 2023",
+      "13 November 2000",
+      "7 March 1988",
+      "9 September 2009"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Beatles in Mono",
+      "2009 remasters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year were The Beatles' original albums first released on CD?",
+    "options": [
+      "1995",
+      "1982",
+      "1991",
+      "1987"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "CD releases"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What was The Beatles' first British EP, released in July 1963?",
+    "options": [
+      "The Beatles' Hits",
+      "Twist and Shout",
+      "Long Tall Sally",
+      "All My Loving"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Twist and Shout (EP)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "For how many weeks did the Twist and Shout EP top the UK EP chart?",
+    "options": [
+      "Eight",
+      "Three",
+      "Fifty-two",
+      "Twenty-one"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Twist and Shout (EP)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who took the cover photo of The Beatles leaping in the air for the Twist and Shout EP?",
+    "options": [
+      "Dezo Hoffmann",
+      "Fiona Adams",
+      "Robert Freeman",
+      "Angus McBean"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Twist and Shout (EP)",
+      "Fiona Adams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On which date was the Long Tall Sally EP released in the UK?",
+    "options": [
+      "10 July 1964",
+      "4 December 1964",
+      "12 July 1963",
+      "19 June 1964"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Long Tall Sally (EP)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many songs are on the Long Tall Sally EP?",
+    "options": [
+      "Four",
+      "Two",
+      "Eight",
+      "Six"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Long Tall Sally (EP)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "The Long Tall Sally EP was The Beatles' British EP of which number?",
+    "options": [
+      "Third",
+      "Tenth",
+      "First",
+      "Fifth"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Long Tall Sally (EP)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song on the Long Tall Sally EP is the only Lennon-McCartney original?",
+    "options": [
+      "Matchbox",
+      "Long Tall Sally",
+      "Slow Down",
+      "I Call Your Name"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Long Tall Sally (EP)",
+      "I Call Your Name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "What kind of record was Capitol's 1964 double album The Beatles' Story?",
+    "options": [
+      "A live concert album",
+      "A collection of cover versions",
+      "A documentary with interviews and narration",
+      "A soundtrack to a cartoon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles' Story"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Capitol issued The Beatles' Story in response to which Vee-Jay interview album?",
+    "options": [
+      "Hear the Beatles Tell All",
+      "Meet the Press",
+      "The Beatles Speak",
+      "Beatle Talk"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles' Story",
+      "Vee-Jay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "What position did The Beatles' Story reach on the US album chart?",
+    "options": [
+      "Number 99",
+      "Number 7",
+      "Number 1",
+      "Number 25"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Beatles' Story"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "records",
+    "difficulty": 2,
+    "question": "By what nickname were The Beatles known as their fame grew?",
+    "options": [
+      "The Four Kings",
+      "The Fab Four",
+      "The Cavern Four",
+      "The Mersey Men"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Fab Four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "Since which year had Lennon, McCartney and Harrison been playing together?",
+    "options": [
+      "1958",
+      "1955",
+      "1962",
+      "1960"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Early years"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "Which was The Beatles' first hit record, in late 1962?",
+    "options": [
+      "From Me to You",
+      "Please Please Me",
+      "Love Me Do",
+      "My Bonnie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Love Me Do"
+    ],
+    "source": "manual"
+  }
+]

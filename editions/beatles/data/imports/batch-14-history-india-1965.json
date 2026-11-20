@@ -1,0 +1,1188 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "places",
+    "difficulty": 2,
+    "question": "In which year did The Beatles travel to India to study meditation?",
+    "options": [
+      "1970",
+      "1965",
+      "1966",
+      "1968"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "India",
+      "Rishikesh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "people",
+    "difficulty": 2,
+    "question": "Which guru taught The Beatles Transcendental Meditation?",
+    "options": [
+      "Sri Chinmoy",
+      "Swami Prabhupada",
+      "Maharishi Mahesh Yogi",
+      "Ravi Shankar"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maharishi",
+      "India"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "places",
+    "difficulty": 3,
+    "question": "In which Indian town was the ashram where The Beatles stayed in 1968?",
+    "options": [
+      "Rishikesh",
+      "Varanasi",
+      "Goa",
+      "Agra"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "India",
+      "Rishikesh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "Which Beatle's interest in Indian culture led the group to the Maharishi?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "India",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "Which Beatle was the first to leave the meditation course in India, after about ten days?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "India",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which two Beatles stayed longest in Rishikesh, leaving on 12 April 1968?",
+    "options": [
+      "John Lennon and George Harrison",
+      "John Lennon and Paul McCartney",
+      "George Harrison and Ringo Starr",
+      "Paul McCartney and Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "India",
+      "Rishikesh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "About how many songs written in India were recorded for the White Album?",
+    "options": [
+      "Four",
+      "Eight",
+      "Thirty",
+      "Eighteen"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "India",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Beach Boy was on the meditation course in India with The Beatles?",
+    "options": [
+      "Mike Love",
+      "Brian Wilson",
+      "Carl Wilson",
+      "Al Jardine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "India",
+      "Mike Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which Scottish singer-songwriter joined The Beatles on the retreat in India?",
+    "options": [
+      "Bert Jansch",
+      "Ian Anderson",
+      "Donovan",
+      "Al Stewart"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "India",
+      "Donovan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which American actress was at the Rishikesh ashram at the same time as The Beatles?",
+    "options": [
+      "Goldie Hawn",
+      "Jane Fonda",
+      "Mia Farrow",
+      "Shirley MacLaine"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "India",
+      "Mia Farrow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which jazz flautist was among the celebrity meditators at Rishikesh in 1968?",
+    "options": [
+      "Paul Horn",
+      "Hubert Laws",
+      "Herbie Mann",
+      "Roland Kirk"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "India",
+      "Paul Horn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which Welsh town did The Beatles attend a Maharishi seminar in August 1967?",
+    "options": [
+      "Aberystwyth",
+      "Bangor",
+      "Cardiff",
+      "Swansea"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bangor",
+      "Maharishi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "The Beatles' stay in Bangor in August 1967 was cut short by whose death?",
+    "options": [
+      "Brian Epstein",
+      "Tara Browne",
+      "Stuart Sutcliffe",
+      "Joe Orton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Bangor",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "On which date was Brian Epstein found dead at his London home?",
+    "options": [
+      "30 January 1969",
+      "25 December 1967",
+      "1 June 1967",
+      "27 August 1967"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which project did The Beatles complete before going to India, at Paul McCartney's urging?",
+    "options": [
+      "Sgt. Pepper",
+      "Let It Be",
+      "Magical Mystery Tour",
+      "Yellow Submarine"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Magical Mystery Tour",
+      "India"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "Which river did The Beatles cross on a footbridge to reach the Maharishi's ashram?",
+    "options": [
+      "The Brahmaputra",
+      "The Indus",
+      "The Yamuna",
+      "The Ganges"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "India",
+      "Rishikesh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "By what nickname was the Beatles' Greek electronics friend Alexis Mardas known?",
+    "options": [
+      "Alex the Great",
+      "Magic Alex",
+      "The Wizard",
+      "Sparky"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magic Alex",
+      "Apple"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who temporarily took over Brian Epstein's role after his death and later wrote The Love You Make?",
+    "options": [
+      "Neil Aspinall",
+      "Peter Brown",
+      "Robert Stigwood",
+      "Clive Epstein"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Peter Brown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "On whose television programme did John Lennon and George Harrison twice discuss meditation in autumn 1967?",
+    "options": [
+      "Simon Dee",
+      "Michael Parkinson",
+      "Eamonn Andrews",
+      "David Frost"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Maharishi",
+      "David Frost"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "solo-years",
+    "difficulty": 5,
+    "question": "For which film soundtrack did George Harrison record in Bombay in January 1968?",
+    "options": [
+      "Raga",
+      "Candy",
+      "The Magic Christian",
+      "Wonderwall Music"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "George Harrison",
+      "Wonderwall Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Sanskrit phrase is the refrain of \"Across the Universe\"?",
+    "options": [
+      "Hare Krishna",
+      "Namaste",
+      "Jai Guru Deva",
+      "Om Shanti"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Across the Universe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Mia Farrow had just separated from which famous husband when she went to India in 1968?",
+    "options": [
+      "André Previn",
+      "Frank Sinatra",
+      "Dean Martin",
+      "Woody Allen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "India",
+      "Mia Farrow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Beatles assistant met the band in Delhi and arranged the long taxi ride to Rishikesh?",
+    "options": [
+      "Peter Brown",
+      "Derek Taylor",
+      "Mal Evans",
+      "Neil Aspinall"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "India",
+      "Mal Evans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Who described the Maharishi's ashram as \"a kind of spiritual Butlins\"?",
+    "options": [
+      "John Lennon",
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "India",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Canadian film-maker camped outside the ashram and photographed The Beatles in India?",
+    "options": [
+      "David Cronenberg",
+      "Ivan Reitman",
+      "Norman Jewison",
+      "Paul Saltzman"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "India",
+      "Paul Saltzman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "In which year was the abandoned Rishikesh ashram opened to the public as a Beatles site?",
+    "options": [
+      "1990",
+      "2003",
+      "1975",
+      "2015"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "India",
+      "Beatles Ashram"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which British satirical magazine nicknamed the Maharishi \"Veririchi Lotsamoney Yogi Bear\"?",
+    "options": [
+      "Punch",
+      "International Times",
+      "Private Eye",
+      "Oz"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maharishi",
+      "Private Eye"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which Beatle reportedly patted the Maharishi on the head and said \"There's a good little guru\"?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "India",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which sister of Pattie Boyd travelled to India with The Beatles' party?",
+    "options": [
+      "Helen Boyd",
+      "Mary Boyd",
+      "Jenny Boyd",
+      "Paula Boyd"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "India",
+      "Jenny Boyd"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which girlfriend accompanied Paul McCartney to India in 1968?",
+    "options": [
+      "Francie Schwartz",
+      "Jane Asher",
+      "Maggie McGivern",
+      "Linda Eastman"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "India",
+      "Jane Asher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "live",
+    "difficulty": 2,
+    "question": "In which year did The Beatles play their famous concert at Shea Stadium?",
+    "options": [
+      "1967",
+      "1963",
+      "1969",
+      "1965"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shea Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "live",
+    "difficulty": 2,
+    "question": "In which city was Shea Stadium?",
+    "options": [
+      "Philadelphia",
+      "Chicago",
+      "Boston",
+      "New York"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shea Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 3,
+    "question": "On which date did The Beatles play Shea Stadium for the first time?",
+    "options": [
+      "15 August 1965",
+      "9 February 1964",
+      "4 July 1965",
+      "29 August 1966"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Shea Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "live",
+    "difficulty": 3,
+    "question": "About how many fans saw The Beatles at Shea Stadium in 1965?",
+    "options": [
+      "250,000",
+      "55,000",
+      "100,000",
+      "15,000"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shea Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which promoter staged The Beatles' Shea Stadium concert?",
+    "options": [
+      "Murray the K",
+      "Bill Graham",
+      "Sid Bernstein",
+      "Brian Epstein"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shea Stadium",
+      "Sid Bernstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How much did the 1965 Shea Stadium concert take at the box office?",
+    "options": [
+      "$34,000",
+      "$1 million",
+      "$304,000",
+      "$3 million"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shea Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How much were The Beatles paid for the 1965 Shea Stadium concert?",
+    "options": [
+      "$304,000",
+      "$160,000",
+      "$16,000",
+      "$1 million"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shea Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How did The Beatles travel the last stretch to Shea Stadium in 1965?",
+    "options": [
+      "In an armoured truck",
+      "By limousine",
+      "On the subway",
+      "On a double-decker bus"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Shea Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which song closed The Beatles' Shea Stadium concert, with John Lennon playing the organ with his elbows?",
+    "options": [
+      "Help!",
+      "Long Tall Sally",
+      "I'm Down",
+      "Twist and Shout"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shea Stadium",
+      "I'm Down"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which song did Ringo Starr sing at Shea Stadium in 1965?",
+    "options": [
+      "Act Naturally",
+      "Boys",
+      "I Wanna Be Your Man",
+      "Yellow Submarine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Shea Stadium",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which New York band was added to the bill for the 1965 Shea Stadium show?",
+    "options": [
+      "The Four Seasons",
+      "The Lovin' Spoonful",
+      "The Velvet Underground",
+      "The Young Rascals"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shea Stadium",
+      "The Young Rascals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which British instrumental group supported The Beatles on the 1965 US tour?",
+    "options": [
+      "The Shadows",
+      "The Dakotas",
+      "Sounds Incorporated",
+      "The Tornados"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1965 tour",
+      "Sounds Incorporated"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Who told the promoter \"at Shea Stadium I saw the top of the mountain\"?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "Brian Epstein",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shea Stadium",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "Which band broke The Beatles' US concert attendance record in Tampa in 1973?",
+    "options": [
+      "Grateful Dead",
+      "The Who",
+      "Led Zeppelin",
+      "The Rolling Stones"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shea Stadium",
+      "Attendance record"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which two Rolling Stones were in the audience at Shea Stadium in 1965?",
+    "options": [
+      "Charlie Watts and Bill Wyman",
+      "Brian Jones and Bill Wyman",
+      "Mick Jagger and Keith Richards",
+      "Mick Jagger and Brian Jones"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shea Stadium",
+      "The Rolling Stones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "With which American songwriter did The Beatles spend the evening after the Shea Stadium concert?",
+    "options": [
+      "Paul Simon",
+      "Brian Wilson",
+      "Bob Dylan",
+      "Roy Orbison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shea Stadium",
+      "Bob Dylan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which of their heroes did The Beatles meet at his Bel Air home on 27 August 1965?",
+    "options": [
+      "Elvis Presley",
+      "Chuck Berry",
+      "Little Richard",
+      "Frank Sinatra"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Elvis Presley",
+      "1965 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 5,
+    "question": "In which part of Los Angeles did The Beatles rent a house during a break in the 1965 tour?",
+    "options": [
+      "Malibu",
+      "Laurel Canyon",
+      "Venice Beach",
+      "Benedict Canyon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1965 tour",
+      "Los Angeles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Help! co-star visited The Beatles at their rented Los Angeles house in 1965?",
+    "options": [
+      "Susannah York",
+      "Julie Christie",
+      "Eleanor Bron",
+      "Rita Tushingham"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1965 tour",
+      "Eleanor Bron"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which poet wrote \"Portland Coliseum\" after seeing The Beatles there in 1965?",
+    "options": [
+      "Allen Ginsberg",
+      "Lawrence Ferlinghetti",
+      "Gregory Corso",
+      "Gary Snyder"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 tour",
+      "Allen Ginsberg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album did The Beatles begin recording in October 1965, after their US tour?",
+    "options": [
+      "Help!",
+      "Revolver",
+      "Beatles for Sale",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rubber Soul",
+      "1965 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "The 1977 live album The Beatles at the Hollywood Bowl draws mostly on concerts from which years?",
+    "options": [
+      "1962 and 1963",
+      "1966 and 1967",
+      "1964 and 1965",
+      "1968 and 1969"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles at the Hollywood Bowl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year was the live album The Beatles at the Hollywood Bowl released?",
+    "options": [
+      "1995",
+      "1965",
+      "1977",
+      "1970"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles at the Hollywood Bowl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How long did The Beatles play at each show on the 1965 US tour?",
+    "options": [
+      "About 30 minutes",
+      "About 75 minutes",
+      "About two hours",
+      "About 10 minutes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1965 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which amplifier maker built special 100-watt amplifiers for The Beatles' 1965 US tour?",
+    "options": [
+      "Marshall",
+      "Vox",
+      "Fender",
+      "Selmer"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1965 tour",
+      "Vox"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Rubber Soul song did John Lennon base on a line from Elvis Presley's \"Baby Let's Play House\"?",
+    "options": [
+      "Drive My Car",
+      "Girl",
+      "Run for Your Life",
+      "The Word"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Run for Your Life",
+      "Elvis Presley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who usually worked as The Beatles' chauffeur and travelled with them on the 1965 US tour?",
+    "options": [
+      "Les Anthony",
+      "Bill Corbett",
+      "Mal Evans",
+      "Alf Bicknell"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1965 tour",
+      "Alf Bicknell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "solo-years",
+    "difficulty": 5,
+    "question": "In which year did Paul McCartney return to Shea Stadium to appear at Billy Joel's \"Last Play at Shea\"?",
+    "options": [
+      "1990",
+      "2008",
+      "2015",
+      "1999"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shea Stadium",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "On which British TV show did The Beatles play live from Blackpool on 1 August 1965, just before the US tour?",
+    "options": [
+      "Sunday Night at the London Palladium",
+      "Blackpool Night Out",
+      "Thank Your Lucky Stars",
+      "Ready Steady Go!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Blackpool Night Out"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "For which political party did George Harrison play a benefit concert in 1992?",
+    "options": [
+      "The Green Party",
+      "The Liberal Democrats",
+      "The Monster Raving Loony Party",
+      "The Natural Law Party"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "George Harrison",
+      "Natural Law Party"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,1085 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "early-years",
+    "difficulty": 2,
+    "question": "In which year did The Beatles first travel to Hamburg?",
+    "options": [
+      "1963",
+      "1962",
+      "1958",
+      "1960"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "How many musicians were in the Beatles line-up that first went to Hamburg in 1960?",
+    "options": [
+      "Three",
+      "Six",
+      "Five",
+      "Four"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Line-up"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "Who was the Beatles' drummer during their first Hamburg trips?",
+    "options": [
+      "Ringo Starr",
+      "Tommy Moore",
+      "Norman Chapman",
+      "Pete Best"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Liverpool promoter arranged The Beatles' first Hamburg booking?",
+    "options": [
+      "Brian Epstein",
+      "Sam Leach",
+      "Allan Williams",
+      "Ray McFall"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Allan Williams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Why was George Harrison deported from West Germany in 1960?",
+    "options": [
+      "He had no passport",
+      "He started a fire",
+      "He was under age",
+      "He was caught stealing"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Which two Beatles were arrested and deported from Hamburg in 1960 on suspicion of attempted arson?",
+    "options": [
+      "Paul McCartney and Pete Best",
+      "John Lennon and Paul McCartney",
+      "George Harrison and Pete Best",
+      "John Lennon and Stuart Sutcliffe"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg",
+      "Deportation"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which Hamburg photographer is credited with inspiring the Beatles' \"mop-top\" haircut?",
+    "options": [
+      "Linda Eastman",
+      "Jürgen Vollmer",
+      "Klaus Voormann",
+      "Astrid Kirchherr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Astrid Kirchherr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "What caused the death of former Beatle Stuart Sutcliffe in 1962?",
+    "options": [
+      "Pneumonia",
+      "A brain haemorrhage",
+      "A car crash",
+      "A drowning accident"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Why did Stuart Sutcliffe leave The Beatles?",
+    "options": [
+      "To join another band",
+      "To carry on with his art studies",
+      "He was sacked by Brian Epstein",
+      "He was called up for national service"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which other Allan Williams group went to Hamburg before The Beatles and did well there?",
+    "options": [
+      "The Big Three",
+      "The Searchers",
+      "Kingsize Taylor and the Dominoes",
+      "Derry and the Seniors"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Derry and the Seniors"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which group turned down the Hamburg booking because of a Butlins holiday camp season, before The Beatles were offered it?",
+    "options": [
+      "The Swinging Blue Jeans",
+      "Faron's Flamingos",
+      "Rory Storm and the Hurricanes",
+      "The Remo Four"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Rory Storm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who owned the Indra and the Kaiserkeller, the first two Hamburg clubs The Beatles played?",
+    "options": [
+      "Bruno Koschmider",
+      "Peter Eckhorn",
+      "Horst Fascher",
+      "Manfred Weissleder"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg",
+      "Bruno Koschmider"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "What was the name of Allan Williams's Liverpool coffee bar, where The Beatles played in 1960?",
+    "options": [
+      "The Jacaranda",
+      "The Casbah",
+      "The Blue Angel",
+      "The Kardomah"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jacaranda",
+      "Allan Williams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "With which group was Pete Best playing when The Beatles recruited him in August 1960?",
+    "options": [
+      "The Black Jacks",
+      "The Remo Four",
+      "The Dominoes",
+      "The Hurricanes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "How much was Pete Best told each Beatle would earn per week in Hamburg?",
+    "options": [
+      "£15",
+      "£100",
+      "£50",
+      "£5"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg",
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date did The Beatles arrive in Hamburg for the first time?",
+    "options": [
+      "17 August 1960",
+      "1 January 1960",
+      "27 March 1961",
+      "5 October 1960"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "At which English port did The Beatles' van board the ferry on their first trip to Hamburg?",
+    "options": [
+      "Dover",
+      "Harwich",
+      "Southampton",
+      "Hull"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "When The Beatles were held up at the port in 1960 without work permits, what did Allan Williams tell officials they were?",
+    "options": [
+      "Students on holiday",
+      "Merchant seamen",
+      "A football team",
+      "A church choir"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg",
+      "Allan Williams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which district of Hamburg were the clubs where The Beatles played?",
+    "options": [
+      "Altona",
+      "St. Pauli",
+      "Eimsbüttel",
+      "Blankenese"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "St. Pauli"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "On which Hamburg street were the Indra and the Kaiserkeller?",
+    "options": [
+      "Herbertstrasse",
+      "Kirchenallee",
+      "Grosse Freiheit",
+      "Jungfernstieg"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Grosse Freiheit"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "In what kind of building did The Beatles sleep during their first Hamburg stay?",
+    "options": [
+      "A church hall",
+      "A boat",
+      "A cinema",
+      "A railway station"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Bambi Kino"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 5,
+    "question": "What was the name of the small Hamburg cinema where The Beatles were lodged in 1960?",
+    "options": [
+      "Bambi Kino",
+      "Roxy Kino",
+      "Savoy Kino",
+      "Astra Kino"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg",
+      "Bambi Kino"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Why did the Indra club stop putting on The Beatles in October 1960?",
+    "options": [
+      "The owner went bankrupt",
+      "It burned down",
+      "The band were deported",
+      "Neighbours complained about the noise"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Indra"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "To which club did The Beatles move on 4 October 1960, after the Indra?",
+    "options": [
+      "The Mambo",
+      "The Top Ten Club",
+      "The Kaiserkeller",
+      "The Star-Club"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Kaiserkeller"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "What did the Hamburg club owner shout at The Beatles to liven up their act?",
+    "options": [
+      "Noch einmal!",
+      "Mach Schau!",
+      "Lauter, bitte!",
+      "Schnell, schnell!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "Mach Schau"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which Beatle had studied German at school and could talk to the Hamburg club owner?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "Stuart Sutcliffe",
+      "Pete Best"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hamburg",
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which song did Pete Best step forward to sing in Hamburg while Paul McCartney played drums?",
+    "options": [
+      "Boys",
+      "Peppermint Twist",
+      "Wild Cat",
+      "Matchbox"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Which Liverpool group, with Ringo Starr on drums, shared the bill with The Beatles at the Kaiserkeller in 1960?",
+    "options": [
+      "Gerry and the Pacemakers",
+      "Rory Storm and the Hurricanes",
+      "The Undertakers",
+      "The Searchers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "Rory Storm"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which former boxer worked as a bouncer in Hamburg and became a friend and protector of The Beatles?",
+    "options": [
+      "Horst Fascher",
+      "Georg Sterner",
+      "Bruno Koschmider",
+      "Peter Eckhorn"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg",
+      "Horst Fascher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which ballad was Stuart Sutcliffe's vocal showpiece on stage in Hamburg?",
+    "options": [
+      "Besame Mucho",
+      "Over the Rainbow",
+      "Love Me Tender",
+      "Summertime"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which Ray Charles song did The Beatles sometimes stretch to enormous length on stage in Hamburg?",
+    "options": [
+      "I Got a Woman",
+      "Hit the Road Jack",
+      "What'd I Say",
+      "Georgia on My Mind"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Ray Charles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On 15 October 1960 in Hamburg, John, Paul, George and Ringo recorded together for the first time, backing which singer?",
+    "options": [
+      "Johnny Gentle",
+      "Rory Storm",
+      "Lou Walters",
+      "Tony Sheridan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Lou Walters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which of these songs was recorded at the 1960 Hamburg session where John, Paul, George and Ringo first played together?",
+    "options": [
+      "Cry for a Shadow",
+      "Summertime",
+      "Ain't She Sweet",
+      "My Bonnie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "Lou Walters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who opened Hamburg's Top Ten Club in October 1960 and lured The Beatles there?",
+    "options": [
+      "Manfred Weissleder",
+      "Peter Eckhorn",
+      "Bruno Koschmider",
+      "Horst Fascher"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "Top Ten Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "On which famous Hamburg street was the Top Ten Club?",
+    "options": [
+      "Kirchenallee",
+      "Mönckebergstrasse",
+      "The Reeperbahn",
+      "Grosse Freiheit"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg",
+      "Top Ten Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which English singer and guitarist led the house band at the Top Ten Club and later recorded with The Beatles?",
+    "options": [
+      "Tony Sheridan",
+      "Cliff Richard",
+      "Vince Taylor",
+      "Johnny Kidd"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg",
+      "Tony Sheridan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "Between which years did the original Beatles play their Hamburg club residencies?",
+    "options": [
+      "1963 to 1965",
+      "1960 to 1962",
+      "1958 to 1959",
+      "1956 to 1958"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "In which months of 1962 did The Beatles play Hamburg with Ringo Starr on drums?",
+    "options": [
+      "July and August",
+      "November and December",
+      "January and February",
+      "April and May"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg",
+      "Star-Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who lost his way driving The Beatles to London for the Decca audition, turning it into a ten-hour trip?",
+    "options": [
+      "Mal Evans",
+      "Neil Aspinall",
+      "Brian Epstein",
+      "Allan Williams"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Decca audition",
+      "Neil Aspinall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "On which date did The Beatles audition for Decca Records?",
+    "options": [
+      "6 June 1962",
+      "9 November 1961",
+      "1 January 1962",
+      "5 October 1962"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Which group did Decca sign instead of The Beatles?",
+    "options": [
+      "The Dave Clark Five",
+      "Brian Poole and the Tremeloes",
+      "Freddie and the Dreamers",
+      "The Rolling Stones"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Decca audition",
+      "Brian Poole and the Tremeloes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which part of London were the Decca studios where The Beatles auditioned?",
+    "options": [
+      "Islington",
+      "Hammersmith",
+      "West Hampstead",
+      "Soho"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Decca A&R man saw The Beatles at the Cavern and invited them to audition?",
+    "options": [
+      "Dick Rowe",
+      "Ron Richards",
+      "Tony Meehan",
+      "Mike Smith"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Decca audition",
+      "Mike Smith"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Which famous phrase is Decca said to have used when turning The Beatles down?",
+    "options": [
+      "They will never sell in America",
+      "Rock and roll is finished",
+      "Nobody wants Liverpool acts",
+      "Guitar groups are on the way out"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Decca executive was long blamed for rejecting The Beatles, though he always denied the \"guitar groups\" remark?",
+    "options": [
+      "Norrie Paramor",
+      "Mike Smith",
+      "Dick Rowe",
+      "Walter Ridley"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Decca audition",
+      "Dick Rowe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "How many Lennon-McCartney originals did The Beatles play at the Decca audition?",
+    "options": [
+      "None",
+      "Three",
+      "One",
+      "Seven"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "How many of the Decca audition recordings were released on Anthology 1?",
+    "options": [
+      "Two",
+      "Ten",
+      "All fifteen",
+      "Five"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Decca audition",
+      "Anthology 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Why did Decca prefer Brian Poole and the Tremeloes to The Beatles, according to the usual account?",
+    "options": [
+      "They were local and cheaper to work with",
+      "They had a number one already",
+      "They wrote their own songs",
+      "They had a famous manager"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which of these EMI producers declined to record The Beatles before George Martin took an interest?",
+    "options": [
+      "Mickie Most",
+      "Shel Talmy",
+      "Norrie Paramor",
+      "Joe Meek"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "EMI",
+      "Norrie Paramor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which 1978 spoof film about the Rutles parodies the record executive who turned down The Beatles?",
+    "options": [
+      "A Hard Day's Rut",
+      "Help! I'm a Rutle",
+      "This Is Spinal Tap",
+      "All You Need Is Cash"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Rutles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "What is the title of Brian Epstein's 1964 autobiography?",
+    "options": [
+      "The Man Who Made the Beatles",
+      "A Twist of Lennon",
+      "Many Years from Now",
+      "A Cellarful of Noise"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "The title \"Fifth Beatle\" has been applied to early bassist Stuart Sutcliffe. Which instrument did he play in the band?",
+    "options": [
+      "Bass guitar",
+      "Rhythm guitar",
+      "Piano",
+      "Drums"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Which pills did the Beatles take in Hamburg to stay awake through long nights on stage?",
+    "options": [
+      "Aspirin",
+      "Penicillin",
+      "Preludin",
+      "Valium"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "From which port did The Beatles' ferry arrive on the Continent on their first trip to Hamburg?",
+    "options": [
+      "Calais",
+      "Hook of Holland",
+      "Bremerhaven",
+      "Ostend"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hamburg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which Hamburg club did Bruno Koschmider own that was larger and smarter than the Indra?",
+    "options": [
+      "The Kaiserkeller",
+      "The Top Ten Club",
+      "The Star-Club",
+      "The Beer-Shop"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hamburg",
+      "Kaiserkeller"
+    ],
+    "source": "manual"
+  }
+]

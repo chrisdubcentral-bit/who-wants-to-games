@@ -2,7 +2,7 @@ import { mount, esc } from '../../ui/dom.js';
 import { fetchBoard, cachedBoard, myEntry, myEntryIds, formatDuration, cupsOf, roundsPlayedOf, LIMIT } from '../leaderboard.js';
 import { STATUS } from '../game-engine.js';
 import { formatDate } from '../../core/utils.js';
-import { t, ed, prizeCount } from '../../core/edition.js';
+import { t, ed, prizeCount, seasonName } from '../../core/edition.js';
 import { shareCardHtml, wireShareCard } from '../share.js';
 
 /** Small prize icon × how many the run won. */
@@ -91,7 +91,7 @@ export function render(root, app) {
       <div class="board-slot">${cached ? boardHtml(cached, ownId(cached), app.meta) : statusCard('Loading the board…')}</div>
       <div class="page-actions">
         ${canCarryOn
-          ? `<button class="btn btn-primary" data-action="season">Start Season ${(state.season ?? 1) + 1}</button>`
+          ? `<button class="btn btn-primary" data-action="season">Start ${seasonName()} ${(state.season ?? 1) + 1}</button>`
           : `<button class="btn btn-primary" data-go="play">${esc(ed('vars.start'))}</button>`}
         <button class="btn btn-ghost btn-plate-phone" data-go="home">Home</button>
       </div>

@@ -1,7 +1,7 @@
 import { mount, esc } from '../../ui/dom.js';
 import { summarise, STATUS } from '../game-engine.js';
 import { LETTERS } from '../../core/utils.js';
-import { t, ed, summaryLabels, prizeCount } from '../../core/edition.js';
+import { t, ed, summaryLabels, prizeCount, seasonName } from '../../core/edition.js';
 import { openModal } from '../../ui/components/modal.js';
 import {
   fetchBoard, cachedBoard, submitEntry, hasRunToken, myEntry, readPlayer, entryFromSummary, isEligible,
@@ -32,7 +32,7 @@ export function render(root, app) {
   if (s.retired) {
     cls = 'is-eliminated is-retired';
     hero = `
-      <span class="eyebrow">${esc(t('results.outEyebrow'))}${later ? ` · Season ${s.season}` : ''}</span>
+      <span class="eyebrow">${esc(t('results.outEyebrow'))}${later ? ` · ${seasonName()} ${s.season}` : ''}</span>
       <h1>${esc(t('results.retired'))}</h1>
       <p class="sub">${esc(t('results.retiredSub', { count: prizeCount(s.cups) }))}</p>`;
     stats = [
@@ -44,7 +44,7 @@ export function render(root, app) {
     cls = 'is-won';
     hero = `
       <img class="trophy" src="${esc(ed('images.prize'))}" alt="${esc(t('results.prizeAlt'))}" width="210" height="252">
-      <span class="eyebrow ${later ? '' : 'is-edition'}">${esc(later ? `Season ${s.season}` : t('results.edition'))}</span>
+      <span class="eyebrow ${later ? '' : 'is-edition'}">${esc(later ? `${seasonName()} ${s.season}` : t('results.edition'))}</span>
       <h1>${esc(t('results.champion'))}</h1>
       <p class="sub">${esc(s.cups > 1 ? t('results.wonMany', { n: s.cups }) : t('results.wonOnce'))}</p>`;
     stats = [
@@ -56,14 +56,14 @@ export function render(root, app) {
     extra = `
       <p class="muted season-note">${esc(t('results.seasonNote', { restart }))}
         ${s.lifelineUsed ? 'Your 50:50 has been used.' : 'Your 50:50 is still there to use.'}</p>`;
-    actions = `<button class="btn btn-primary btn-lg" data-action="season">Start Season ${s.season + 1}</button>`;
+    actions = `<button class="btn btn-primary btn-lg" data-action="season">Start ${seasonName()} ${s.season + 1}</button>`;
   } else {
     cls = 'is-eliminated';
     const last = state.answers[state.answers.length - 1];
     const q = state.questions[state.stageIndex];
     hero = `
       <div class="result-icon is-out" aria-hidden="true">✕</div>
-      <span class="eyebrow">${esc(t('results.outEyebrow'))}${later ? ` · Season ${s.season}` : ''}</span>
+      <span class="eyebrow">${esc(t('results.outEyebrow'))}${later ? ` · ${seasonName()} ${s.season}` : ''}</span>
       <h1>${esc(t('results.out'))}</h1>
       <p class="sub">${esc(s.finishLabel)}</p>`;
     stats = [
@@ -95,7 +95,7 @@ export function render(root, app) {
         ${actions}
         ${won ? extra : ''}
         <div class="results-row">
-          <button class="btn" data-go="top100">Top 100</button>
+          <button class="btn" data-go="top100">Top ${LIMIT}</button>
           <button class="btn" data-go="stats">Stats</button>
           <button class="btn btn-ghost" data-go="home">Home</button>
         </div>
@@ -118,10 +118,10 @@ export function render(root, app) {
       const next = s.season + 1;
       const choice = await openModal({
         title: 'End your run?',
-        message: `You can carry on into Season ${next}, or end your run now and add your name to the Top ${LIMIT}.`,
+        message: `You can carry on into ${seasonName()} ${next}, or end your run now and add your name to the Top ${LIMIT}.`,
         actions: [
           { label: 'End Run', value: 'end', className: 'btn-ghost' },
-          { label: `Start Season ${next}`, value: 'season', className: 'btn-primary' },
+          { label: `Start ${seasonName()} ${next}`, value: 'season', className: 'btn-primary' },
         ],
       });
       if (choice === 'season') app.nextSeason();

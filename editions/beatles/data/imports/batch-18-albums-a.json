@@ -1,0 +1,1674 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "What was the title of The Beatles' debut album?",
+    "options": [
+      "Help!",
+      "Abbey Road",
+      "Please Please Me",
+      "Revolver"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "In which year was the album Please Please Me released?",
+    "options": [
+      "1962",
+      "1964",
+      "1961",
+      "1963"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was the album Please Please Me released in the UK?",
+    "options": [
+      "22 March 1963",
+      "5 October 1962",
+      "10 July 1964",
+      "22 November 1963"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "On which record label were The Beatles' early British albums released?",
+    "options": [
+      "Parlophone",
+      "Pye",
+      "Columbia",
+      "Decca"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Parlophone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "How many tracks are on the album Please Please Me?",
+    "options": [
+      "16",
+      "12",
+      "14",
+      "10"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song is the first track on side two of Please Please Me?",
+    "options": [
+      "Please Please Me",
+      "Love Me Do",
+      "Boys",
+      "Twist and Shout"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Please Please Me",
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes side one of the Please Please Me album?",
+    "options": [
+      "Ask Me Why",
+      "Please Please Me",
+      "Chains",
+      "Boys"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How were the Lennon-McCartney songs credited on the Please Please Me album?",
+    "options": [
+      "The Beatles",
+      "McCartney-Lennon",
+      "Lennon-McCartney",
+      "Lennon and McCartney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Please Please Me",
+      "Songwriting credits"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What did George Martin first consider recording for The Beatles' debut album?",
+    "options": [
+      "A Christmas album",
+      "An album of skiffle",
+      "An album of film songs",
+      "A live album at the Cavern"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Please Please Me",
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "For how long did Please Please Me stay in the UK Top 10, a record for a debut album?",
+    "options": [
+      "Six weeks",
+      "Five years",
+      "Three months",
+      "Over a year"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which two songs on Please Please Me had overdubs added by George Martin nine days after the main session?",
+    "options": [
+      "Anna and Twist and Shout",
+      "Misery and Baby It's You",
+      "Love Me Do and P.S. I Love You",
+      "Boys and Chains"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Please Please Me",
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "In which month and year did The Beatles sign with EMI?",
+    "options": [
+      "January 1961",
+      "October 1962",
+      "February 1963",
+      "May 1962"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "EMI"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song is the second track on Please Please Me?",
+    "options": [
+      "Misery",
+      "Boys",
+      "Chains",
+      "Anna (Go to Him)"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song comes immediately before \"Twist and Shout\" on Please Please Me?",
+    "options": [
+      "Baby It's You",
+      "There's a Place",
+      "Do You Want to Know a Secret",
+      "A Taste of Honey"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "What was The Beatles' second British album?",
+    "options": [
+      "Beatles for Sale",
+      "With the Beatles",
+      "Help!",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was With the Beatles released in the UK?",
+    "options": [
+      "4 December 1964",
+      "22 March 1963",
+      "22 November 1963",
+      "6 August 1965"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Who took the half-shadow cover photograph for With the Beatles?",
+    "options": [
+      "Angus McBean",
+      "Astrid Kirchherr",
+      "Robert Freeman",
+      "Iain Macmillan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "With the Beatles",
+      "Robert Freeman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "How many cover versions are on With the Beatles?",
+    "options": [
+      "Six",
+      "Ten",
+      "Four",
+      "Two"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many original compositions are on With the Beatles?",
+    "options": [
+      "Five",
+      "Eleven",
+      "Eight",
+      "Fourteen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes With the Beatles?",
+    "options": [
+      "Twist and Shout",
+      "Not a Second Time",
+      "Money (That's What I Want)",
+      "Roll Over Beethoven"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens side two of With the Beatles?",
+    "options": [
+      "Please Mr. Postman",
+      "I Wanna Be Your Man",
+      "Hold Me Tight",
+      "Roll Over Beethoven"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Under which title was With the Beatles released in Canada?",
+    "options": [
+      "Beatlemania! With the Beatles",
+      "Meet the Beatles!",
+      "The Beatles' Second Album",
+      "Twist and Shout"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "With the Beatles",
+      "Canada"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "The songs on With the Beatles were split in America between Meet the Beatles! and which other album?",
+    "options": [
+      "Something New",
+      "Beatles '65",
+      "Introducing... The Beatles",
+      "The Beatles' Second Album"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the third track on With the Beatles?",
+    "options": [
+      "Don't Bother Me",
+      "Little Child",
+      "All My Loving",
+      "Till There Was You"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes side one of With the Beatles?",
+    "options": [
+      "Till There Was You",
+      "All My Loving",
+      "Please Mr. Postman",
+      "Little Child"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "How many months after Please Please Me was With the Beatles released?",
+    "options": [
+      "Twelve",
+      "Eighteen",
+      "Three",
+      "Eight"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which Beatles album was the soundtrack to their first film?",
+    "options": [
+      "A Hard Day's Night",
+      "Let It Be",
+      "Yellow Submarine",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "A Hard Day's Night was The Beatles' studio album of which number?",
+    "options": [
+      "Fifth",
+      "Third",
+      "Second",
+      "First"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "What is special about the songwriting on the A Hard Day's Night album?",
+    "options": [
+      "It has no original songs",
+      "Every song is by Lennon and McCartney",
+      "George Harrison wrote half of it",
+      "Ringo Starr wrote the title track"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which label released the American version of A Hard Day's Night two weeks before the British album?",
+    "options": [
+      "Capitol",
+      "United Artists",
+      "Vee-Jay",
+      "Swan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "A Hard Day's Night",
+      "United Artists"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "How many songs are on the British A Hard Day's Night album?",
+    "options": [
+      "10",
+      "14",
+      "13",
+      "16"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which type of guitar, played by George Harrison, gives A Hard Day's Night its chiming sound?",
+    "options": [
+      "Rickenbacker 12-string",
+      "Gretsch Country Gentleman",
+      "Fender Stratocaster",
+      "Gibson SG"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Hard Day's Night",
+      "Rickenbacker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes side one of A Hard Day's Night?",
+    "options": [
+      "Can't Buy Me Love",
+      "And I Love Her",
+      "Tell Me Why",
+      "If I Fell"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens side two of A Hard Day's Night?",
+    "options": [
+      "Any Time at All",
+      "You Can't Do That",
+      "I'll Cry Instead",
+      "Things We Said Today"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the second track on A Hard Day's Night?",
+    "options": [
+      "And I Love Her",
+      "If I Fell",
+      "Tell Me Why",
+      "I Should Have Known Better"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song is the fourth track on side one of A Hard Day's Night?",
+    "options": [
+      "Tell Me Why",
+      "And I Love Her",
+      "If I Fell",
+      "I'm Happy Just to Dance with You"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "The songs on side one of the British A Hard Day's Night album all come from what?",
+    "options": [
+      "The film soundtrack",
+      "A live concert",
+      "A BBC radio session",
+      "The Hamburg stage act"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "What was The Beatles' fourth British album, released for Christmas 1964?",
+    "options": [
+      "Help!",
+      "With the Beatles",
+      "Rubber Soul",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Beatles for Sale released in the UK?",
+    "options": [
+      "10 July 1964",
+      "6 August 1965",
+      "22 November 1963",
+      "4 December 1964"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which songwriter, whom The Beatles met in August 1964, influenced Beatles for Sale?",
+    "options": [
+      "Leonard Cohen",
+      "Paul Simon",
+      "Brian Wilson",
+      "Bob Dylan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles for Sale",
+      "Bob Dylan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Most of Beatles for Sale appeared in America on Beatles '65 and which other album?",
+    "options": [
+      "The Early Beatles",
+      "Yesterday and Today",
+      "Beatles VI",
+      "Something New"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles for Sale",
+      "Beatles VI"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which year did Beatles for Sale finally become widely available in the US, on CD?",
+    "options": [
+      "1995",
+      "1965",
+      "1987",
+      "1976"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which medley closes side one of Beatles for Sale?",
+    "options": [
+      "Rock and Roll Music/Roll Over Beethoven",
+      "Kansas City/Hey-Hey-Hey-Hey!",
+      "Twist and Shout/Money",
+      "Long Tall Sally/Lucille"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles for Sale",
+      "Kansas City"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens side two of Beatles for Sale?",
+    "options": [
+      "Honey Don't",
+      "Words of Love",
+      "Eight Days a Week",
+      "No Reply"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles for Sale",
+      "Eight Days a Week"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes Beatles for Sale?",
+    "options": [
+      "Everybody's Trying to Be My Baby",
+      "Honey Don't",
+      "Mr. Moonlight",
+      "What You're Doing"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the second track on Beatles for Sale?",
+    "options": [
+      "No Reply",
+      "Rock and Roll Music",
+      "Baby's in Black",
+      "I'm a Loser"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song is the third track on Beatles for Sale?",
+    "options": [
+      "Baby's in Black",
+      "I'm a Loser",
+      "Mr. Moonlight",
+      "I'll Follow the Sun"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Why does Beatles for Sale contain six cover versions?",
+    "options": [
+      "They were left over from Hamburg",
+      "The band were too busy touring to write more",
+      "EMI insisted on them",
+      "George Martin chose them"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "albums",
+    "difficulty": 1,
+    "question": "Which Beatles album shares its title with their second film?",
+    "options": [
+      "Let It Be",
+      "Rubber Soul",
+      "Revolver",
+      "Help!"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Help! was The Beatles' studio album of which number?",
+    "options": [
+      "Third",
+      "Seventh",
+      "Fourth",
+      "Fifth"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was the Help! album released in the UK?",
+    "options": [
+      "3 December 1965",
+      "6 August 1965",
+      "5 August 1966",
+      "4 December 1964"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "How many of the fourteen songs on the Help! album appear in the film?",
+    "options": [
+      "Three",
+      "Ten",
+      "All fourteen",
+      "Seven"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which famous ballad is the penultimate track on the Help! album?",
+    "options": [
+      "In My Life",
+      "Girl",
+      "Michelle",
+      "Yesterday"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Help!",
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes the Help! album?",
+    "options": [
+      "Dizzy Miss Lizzy",
+      "Yesterday",
+      "Ticket to Ride",
+      "Act Naturally"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens side two of the Help! album?",
+    "options": [
+      "It's Only Love",
+      "Act Naturally",
+      "Yesterday",
+      "I've Just Seen a Face"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes side one of the Help! album?",
+    "options": [
+      "Ticket to Ride",
+      "You're Going to Lose That Girl",
+      "I Need You",
+      "Another Girl"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which woodwind instruments feature on \"You've Got to Hide Your Love Away\"?",
+    "options": [
+      "Flutes",
+      "Oboes",
+      "Saxophones",
+      "Clarinets"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Help!",
+      "You've Got to Hide Your Love Away"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "For which award was the Help! album nominated at the 1966 Grammys, a first for a rock band?",
+    "options": [
+      "Record of the Year",
+      "Best Film Score",
+      "Album of the Year",
+      "Best New Artist"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Help!",
+      "Grammy Awards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the second track on the Help! album?",
+    "options": [
+      "Another Girl",
+      "Ticket to Ride",
+      "I Need You",
+      "The Night Before"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song is the fourth track on the Help! album?",
+    "options": [
+      "Another Girl",
+      "You're Going to Lose That Girl",
+      "I Need You",
+      "The Night Before"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What does the American Help! album contain alongside seven Beatles songs?",
+    "options": [
+      "Live concert recordings",
+      "Instrumental music from the film",
+      "Interviews with the band",
+      "Songs by other Epstein artists"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which Beatles album was released in December 1965?",
+    "options": [
+      "Help!",
+      "Rubber Soul",
+      "Revolver",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Rubber Soul was The Beatles' studio album of which number?",
+    "options": [
+      "Fifth",
+      "Sixth",
+      "Fourth",
+      "Eighth"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Rubber Soul released in the UK?",
+    "options": [
+      "4 December 1964",
+      "5 August 1966",
+      "6 August 1965",
+      "3 December 1965"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "The title Rubber Soul is a play on which phrase?",
+    "options": [
+      "Blue-eyed soul",
+      "Rubber sole",
+      "Plastic soul",
+      "Soul on ice"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "After A Hard Day's Night, which was the next Beatles album to contain only original songs?",
+    "options": [
+      "Revolver",
+      "Beatles for Sale",
+      "Help!",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes side one of Rubber Soul?",
+    "options": [
+      "The Word",
+      "Nowhere Man",
+      "Michelle",
+      "Think for Yourself"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rubber Soul",
+      "Michelle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens side two of the British Rubber Soul?",
+    "options": [
+      "In My Life",
+      "Wait",
+      "Girl",
+      "What Goes On"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the second track on Rubber Soul?",
+    "options": [
+      "Nowhere Man",
+      "You Won't See Me",
+      "Norwegian Wood (This Bird Has Flown)",
+      "Michelle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the fourth track on the British Rubber Soul?",
+    "options": [
+      "Nowhere Man",
+      "Think for Yourself",
+      "You Won't See Me",
+      "The Word"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many of the British Rubber Soul's fourteen songs were on the original American version?",
+    "options": [
+      "Twelve",
+      "Ten",
+      "All fourteen",
+      "Six"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Recording of Rubber Soul took about how long, beginning in October 1965?",
+    "options": [
+      "A year",
+      "Four weeks",
+      "Four months",
+      "One day"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which of these instruments was new to The Beatles' sound on Rubber Soul?",
+    "options": [
+      "Drum machine",
+      "Moog synthesiser",
+      "Fuzz bass",
+      "Mellotron"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song is the penultimate track on Rubber Soul?",
+    "options": [
+      "Girl",
+      "Wait",
+      "If I Needed Someone",
+      "In My Life"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which Beatles album was released in August 1966?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Rubber Soul",
+      "Help!",
+      "Revolver"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Revolver was The Beatles' studio album of which number?",
+    "options": [
+      "Sixth",
+      "Ninth",
+      "Seventh",
+      "Fifth"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Revolver released in the UK?",
+    "options": [
+      "1 June 1967",
+      "3 December 1965",
+      "5 August 1966",
+      "6 August 1965"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which double A-side single was released alongside Revolver?",
+    "options": [
+      "Eleanor Rigby / Yellow Submarine",
+      "Day Tripper / We Can Work It Out",
+      "Penny Lane / Strawberry Fields Forever",
+      "Paperback Writer / Rain"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song is the second track on Revolver?",
+    "options": [
+      "Yellow Submarine",
+      "Eleanor Rigby",
+      "I'm Only Sleeping",
+      "Love You To"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolver",
+      "Eleanor Rigby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes side one of Revolver?",
+    "options": [
+      "Love You To",
+      "Here, There and Everywhere",
+      "Yellow Submarine",
+      "She Said She Said"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song opens side two of Revolver?",
+    "options": [
+      "And Your Bird Can Sing",
+      "Good Day Sunshine",
+      "Doctor Robert",
+      "For No One"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the penultimate track on Revolver?",
+    "options": [
+      "Doctor Robert",
+      "Got to Get You into My Life",
+      "I Want to Tell You",
+      "For No One"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song is the third track on Revolver?",
+    "options": [
+      "Here, There and Everywhere",
+      "I'm Only Sleeping",
+      "Love You To",
+      "She Said She Said"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How long a break did The Beatles take at the start of 1966 before recording Revolver?",
+    "options": [
+      "A year",
+      "Two weeks",
+      "Six months",
+      "Three months"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which studio technique, invented at EMI for The Beatles, was used heavily on Revolver to thicken vocals?",
+    "options": [
+      "Dolby noise reduction",
+      "Auto-Tune",
+      "Digital delay",
+      "Automatic double tracking"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Revolver",
+      "ADT"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "How many musicians play in the string group on \"Eleanor Rigby\"?",
+    "options": [
+      "Four",
+      "Eight",
+      "Twenty",
+      "Twelve"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolver",
+      "Eleanor Rigby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Revolver is often seen as the start of which period in The Beatles' music?",
+    "options": [
+      "Their disco period",
+      "Their country period",
+      "Their psychedelic period",
+      "Their skiffle period"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  }
+]

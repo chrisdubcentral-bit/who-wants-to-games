@@ -4,7 +4,7 @@
 import { COLLECTIONS, APP } from '../core/config.js';
 import { validateQuestion } from '../core/validation.js';
 import { migrateQuestion } from '../core/migrations.js';
-import { nowIso, nextQuestionId, deepClone } from '../core/utils.js';
+import { nowIso, nextQuestionId, deepClone, normalise } from '../core/utils.js';
 import { local, KEYS } from '../core/storage.js';
 import { bus } from '../core/events.js';
 import { loadAllCollections } from '../data-sources/json-file-source.js';
@@ -48,15 +48,18 @@ export function createAdminStore(meta) {
    * Questions can't be deleted here, so anything in the files that the working copy doesn't have
    * was added on disk (e.g. a new batch) after the working copy was made. Bring those in so they
    * aren't hidden by the working copy and then wiped by the next Publish.
-   * A question counts as "already there" when the same id has the same createdAt; an id clash with a
-   * different question is renumbered by fixIds().
+   * A question counts as "already there" when the same id has the same createdAt, or the wording is the
+   * same (a merged question renumbered by fixIds() keeps its wording, so it isn't added twice before the
+   * renumbered copy reaches the files). An id clash with a different question is renumbered by fixIds().
    */
   function addNewFromDisk(published) {
-    const have = new Set(COLLECTIONS.flatMap((c) => w[c].map((q) => `${q.id}|${q.createdAt ?? ''}`)));
+    const mine = COLLECTIONS.flatMap((c) => w[c]);
+    const have = new Set(mine.map((q) => `${q.id}|${q.createdAt ?? ''}`));
+    const wording = new Set(mine.map((q) => normalise(q.question)));
     let added = 0;
     COLLECTIONS.forEach((c) => {
       published[c].forEach((q) => {
-        if (have.has(`${q.id}|${q.createdAt ?? ''}`)) return;
+        if (have.has(`${q.id}|${q.createdAt ?? ''}`) || wording.has(normalise(q.question))) return;
         w[c].push(deepClone(q));
         added++;
       });
@@ -162,6 +165,29 @@ export function createAdminStore(meta) {
       return { ok: true, result };
     },
 
+    /**
+     * Approves several questions as one change (one Undo puts them all back).
+     * Questions that fail the checks are left where they are and listed in `failed`.
+     */
+    approveMany(ids) {
+      const ok = []; const failed = [];
+      ids.forEach((id) => {
+        const found = locate(id);
+        if (!found) { failed.push({ id, message: `Question ${id} not found.` }); return; }
+        if (found.collection === 'approved') return;
+        const result = api.validate(found.q);
+        if (result.valid) ok.push(id); else failed.push({ id, message: result.errors[0].message });
+      });
+      if (ok.length) {
+        mutate(`Approved ${ok.length} question${ok.length === 1 ? '' : 's'}`, () => ok.forEach((id) => {
+          const q = locate(id).q;
+          move(id, 'approved', { review: { ...(q.review ?? {}), reviewedAt: nowIso(), rejectionReason: null, rejectionNote: null } });
+        }));
+        ok.forEach((id) => audit('approve', id, 'bulk'));
+      }
+      return { approved: ok, failed };
+    },
+
     reject(id, reason, note = '') {
       const found = locate(id);
       mutate(`Rejected ${id}`, () => move(id, 'rejected', {
@@ -265,7 +291,16 @@ export function createAdminStore(meta) {
     },
 
     async publish(opts) {
+      // Publish writes all three files whole, so first bring in anything added to them since this page
+      // loaded (e.g. a batch from tools/add-questions.mjs while this tab was open). Otherwise it is wiped.
+      const added = addNewFromDisk(await loadAllCollections());
+      if (added) {
+        fixIds();
+        undoSnapshot = null; // undo would drop the questions that just came in
+        save();
+      }
       const res = await publishFiles({ pending: w.pending, approved: w.approved, rejected: w.rejected }, opts);
+      res.addedFromDisk = added;
       if (res.method === 'direct') {
         // Re-read so our base versions match what is now on disk.
         const published = await loadAllCollections();

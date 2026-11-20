@@ -1,0 +1,87 @@
+# Beatles songs, part A (All for Love to Carry That Weight). Source: Wikipedia song articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | singles | What was the B-side of "All You Need Is Love"? | Baby, You're a Rich Man | I Am the Walrus | Rain | The Inner Light | All You Need Is Love
+3 | songs | "All You Need Is Love" was Britain's contribution to which 1967 live global TV programme? | Our World | Top of the Pops | Live Aid | Ready Steady Go! | All You Need Is Love; Our World
+2 | songs | Which Beatle wrote "All You Need Is Love"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | All You Need Is Love; John Lennon
+4 | songs | Roughly how many people watched the Our World broadcast in which The Beatles sang "All You Need Is Love"? | Over 400 million | About 40 million | About 100 million | Over 2 billion | All You Need Is Love; Our World
+4 | singles | In which month of 1967 was "All You Need Is Love" released as a single? | July | February | November | December | All You Need Is Love
+3 | albums | On which British album does "And Your Bird Can Sing" appear? | Revolver | Rubber Soul | Help! | Sgt. Pepper's Lonely Hearts Club Band | And Your Bird Can Sing; Revolver
+5 | songs | What was the working title of "And Your Bird Can Sing"? | You Don't Get Me | Mark I | Bad Finger Boogie | Daisy Hawkins | And Your Bird Can Sing
+5 | in-the-studio | Which two Beatles play the twin lead guitar melody on "And Your Bird Can Sing"? | George Harrison and Paul McCartney | George Harrison and John Lennon | John Lennon and Paul McCartney | George Harrison and Eric Clapton | And Your Bird Can Sing
+5 | songs | Which of his own songs did John Lennon dismiss as "fancy paper around an empty box"? | And Your Bird Can Sing | Run for Your Life | It's Only Love | Good Morning Good Morning | And Your Bird Can Sing; John Lennon
+4 | albums | On which American album did "And Your Bird Can Sing" first appear? | Yesterday and Today | Beatles '65 | Beatles VI | Something New | And Your Bird Can Sing; Yesterday and Today
+5 | songs | "Across the Universe" first appeared on which 1969 charity compilation album? | No One's Gonna Change Our World | The Concert for Bangladesh | Stars Sing for the World | A Gift of Song | Across the Universe
+3 | albums | On which Beatles studio album does "Across the Universe" appear? | Let It Be | Abbey Road | The White Album | Magical Mystery Tour | Across the Universe; Let It Be
+3 | songs | Who wrote "Across the Universe"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Across the Universe; John Lennon
+4 | solo-years | Which singer covered "Across the Universe" on his 1975 album Young Americans, with John Lennon taking part? | David Bowie | Elton John | Harry Nilsson | Rod Stewart | Across the Universe; David Bowie
+3 | albums | "Another Girl" comes from which 1965 Beatles album and film? | Help! | A Hard Day's Night | Rubber Soul | Beatles for Sale | Another Girl; Help!
+4 | songs | Who wrote "Another Girl"? | Paul McCartney | John Lennon | George Harrison | Carl Perkins | Another Girl; Paul McCartney
+2 | songs | Which Beatle sings lead on the band's cover of "Act Naturally"? | Ringo Starr | George Harrison | John Lennon | Paul McCartney | Act Naturally; Ringo Starr
+4 | songs | Which country star had the original hit with "Act Naturally" in 1963? | Buck Owens | Johnny Cash | Merle Haggard | George Jones | Act Naturally; Buck Owens
+5 | solo-years | In which year did Ringo Starr and Buck Owens record a duet version of "Act Naturally"? | 1989 | 1974 | 1981 | 1995 | Act Naturally; Ringo Starr
+3 | albums | On which Beatles album is "And I Love Her"? | A Hard Day's Night | With the Beatles | Help! | Please Please Me | And I Love Her; A Hard Day's Night
+3 | songs | Who was the main writer of "And I Love Her"? | Paul McCartney | John Lennon | George Harrison | George Martin | And I Love Her; Paul McCartney
+5 | singles | Which song was paired with "And I Love Her" on a US Capitol single in July 1964? | If I Fell | Tell Me Why | I'll Cry Instead | Things We Said Today | And I Love Her
+5 | singles | What position did "And I Love Her" reach on the US Billboard Hot 100? | Number 12 | Number 1 | Number 4 | Number 31 | And I Love Her
+5 | songs | Which Beatles song from the A Hard Day's Night album has an instrumental middle eight written by Paul McCartney for a John Lennon song? | Any Time at All | I'll Be Back | Tell Me Why | When I Get Home | Any Time at All
+4 | albums | "Any Time at All" first appeared on which Beatles album? | A Hard Day's Night | Beatles for Sale | With the Beatles | Help! | Any Time at All; A Hard Day's Night
+4 | albums | On which British album does "All I've Got to Do" appear? | With the Beatles | Please Please Me | A Hard Day's Night | Beatles for Sale | All I've Got to Do; With the Beatles
+4 | songs | Who wrote "All I've Got to Do"? | John Lennon | Paul McCartney | George Harrison | Smokey Robinson | All I've Got to Do; John Lennon
+4 | albums | On which American album did "All I've Got to Do" first appear? | Meet the Beatles! | Introducing... The Beatles | The Beatles' Second Album | Something New | All I've Got to Do; Meet the Beatles!
+2 | albums | "All My Loving" comes from which Beatles album? | With the Beatles | Please Please Me | A Hard Day's Night | Help! | All My Loving; With the Beatles
+2 | songs | Who wrote "All My Loving"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | All My Loving; Paul McCartney
+4 | singles | In which country was "All My Loving" released as a single and reached number one? | Canada | United Kingdom | United States | West Germany | All My Loving
+4 | singles | "All My Loving" was not a UK single, but it was the title track of which kind of release? | An EP | A flexi-disc | A live album | A film soundtrack | All My Loving
+4 | songs | Who wrote and first recorded "Anna (Go to Him)", covered by The Beatles on their debut album? | Arthur Alexander | Smokey Robinson | Ben E. King | Sam Cooke | Anna (Go to Him); Please Please Me
+3 | albums | The Beatles' cover of "Anna (Go to Him)" is on which album? | Please Please Me | With the Beatles | Beatles for Sale | A Hard Day's Night | Anna (Go to Him); Please Please Me
+3 | singles | "Ask Me Why" was the B-side of which Beatles single? | Please Please Me | Love Me Do | From Me to You | She Loves You | Ask Me Why; Please Please Me
+4 | songs | Who was the main writer of "Ask Me Why"? | John Lennon | Paul McCartney | George Harrison | Brian Epstein | Ask Me Why; John Lennon
+5 | in-the-studio | Which unusual keyboard instrument does John Lennon play on "Baby, You're a Rich Man"? | Clavioline | Mellotron | Harmonium | Moog synthesizer | Baby, You're a Rich Man
+5 | songs | "Baby, You're a Rich Man" grew out of an unfinished John Lennon song with which title? | One of the Beautiful People | Everybody Had a Hard Year | Child of Nature | Watching Rainbows | Baby, You're a Rich Man
+5 | in-the-studio | "Baby, You're a Rich Man" was recorded and mixed entirely at which London studio? | Olympic Sound Studios | Trident Studios | EMI Studios | Apple Studio | Baby, You're a Rich Man; Olympic Studios
+3 | albums | "All Together Now" was first released on which soundtrack album? | Yellow Submarine | Magical Mystery Tour | Help! | Let It Be | All Together Now; Yellow Submarine
+4 | singles | Which song backed "All Together Now" when it came out as a single in parts of Europe in 1972? | Hey Bulldog | It's All Too Much | Only a Northern Song | Pepperland | All Together Now; Hey Bulldog
+4 | songs | Which American girl group recorded "Baby It's You" before The Beatles did? | The Shirelles | The Ronettes | The Supremes | The Crystals | Baby It's You; The Shirelles
+4 | songs | Which famous composer wrote the music for "Baby It's You"? | Burt Bacharach | Carole King | Phil Spector | Jerry Leiber | Baby It's You; Burt Bacharach
+3 | records | How many songs make up The Beatles' main catalogue of 1962 to 1970 releases? | 213 | 113 | 163 | 313 | Catalogue
+5 | records | How many of the 213 songs in The Beatles' main catalogue were cover versions? | 25 | 5 | 12 | 48 | Catalogue; Covers
+3 | people | Which producer is often called the "Fifth Beatle" for his work on the band's records? | George Martin | Phil Spector | Glyn Johns | Norman Smith | George Martin
+5 | songs | Which Beatles instrumental, recorded in 1965, was first released on Anthology 2 in 1996? | 12-Bar Original | Flying | Cayenne | Cry for a Shadow | 12-Bar Original; Anthology 2
+4 | songs | Which of these songs is credited to all four Beatles as writers? | Dig It | Octopus's Garden | Blue Jay Way | Don't Pass Me By | Dig It; Songwriting credits
+3 | singles | How many singles did The Beatles release in the UK while they were together? | 22 | 12 | 32 | 42 | Singles
+3 | singles | Which was The Beatles' first UK number one single on the official chart? | From Me to You | Love Me Do | Please Please Me | She Loves You | From Me to You
+3 | singles | "Love Me Do" originally peaked at which position in the UK chart? | Number 17 | Number 1 | Number 4 | Number 30 | Love Me Do
+5 | singles | "Love Me Do" reached a new UK peak of number four when it was reissued in which year? | 1982 | 1970 | 1976 | 1995 | Love Me Do
+3 | records | On which label were The Beatles' UK singles released from August 1968? | Apple | Parlophone | Capitol | Polydor | Apple Records
+3 | albums | "Being for the Benefit of Mr. Kite!" is a track on which album? | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Revolver | The White Album | Being for the Benefit of Mr. Kite!; Sgt. Pepper
+3 | songs | Where did John Lennon find most of the words for "Being for the Benefit of Mr. Kite!"? | A Victorian circus poster | A newspaper story | A children's book | A postcard from Ringo | Being for the Benefit of Mr. Kite!
+5 | songs | The poster behind "Being for the Benefit of Mr. Kite!" advertised whose circus? | Pablo Fanque | P. T. Barnum | Billy Smart | Bertram Mills | Being for the Benefit of Mr. Kite!
+5 | songs | The circus poster that inspired "Being for the Benefit of Mr. Kite!" advertised a show in which town? | Rochdale | Blackpool | Southport | Sevenoaks | Being for the Benefit of Mr. Kite!
+2 | albums | "Back in the U.S.S.R." opens which Beatles album? | The White Album | Abbey Road | Let It Be | Revolver | Back in the U.S.S.R.; White Album
+3 | songs | "Back in the U.S.S.R." is a parody of "Back in the U.S.A." by which rock and roll star? | Chuck Berry | Little Richard | Elvis Presley | Buddy Holly | Back in the U.S.S.R.; Chuck Berry
+3 | songs | The bridge of "Back in the U.S.S.R." imitates the sound of which American group? | The Beach Boys | The Byrds | The Four Seasons | The Monkees | Back in the U.S.S.R.; The Beach Boys
+2 | songs | Who wrote "Back in the U.S.S.R."? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Back in the U.S.S.R.; Paul McCartney
+2 | songs | Who wrote "Can't Buy Me Love"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Can't Buy Me Love; Paul McCartney
+3 | singles | In which year was "Can't Buy Me Love" released? | 1964 | 1963 | 1965 | 1966 | Can't Buy Me Love
+3 | albums | On which album does "Can't Buy Me Love" appear? | A Hard Day's Night | With the Beatles | Beatles for Sale | Help! | Can't Buy Me Love; A Hard Day's Night
+4 | films-tv | Who directed the film A Hard Day's Night, which features "Can't Buy Me Love"? | Richard Lester | Michael Lindsay-Hogg | George Dunning | Walter Shenson | A Hard Day's Night; Richard Lester
+3 | albums | "Because" is a track on which Beatles album? | Abbey Road | Let It Be | The White Album | Sgt. Pepper's Lonely Hearts Club Band | Because; Abbey Road
+4 | in-the-studio | The three-part harmony on "Because" was recorded three times to make how many voices in all? | Nine | Six | Twelve | Sixteen | Because; Abbey Road
+4 | songs | Who wrote "Because" on the Abbey Road album? | John Lennon | Paul McCartney | George Harrison | George Martin | Because; John Lennon
+1 | songs | Which Beatle wrote and sang "Blackbird"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Blackbird; Paul McCartney
+3 | songs | According to Paul McCartney, "Blackbird" was partly inspired by which movement in the American South? | The civil rights movement | The folk revival | The hippie movement | The anti-war movement | Blackbird
+2 | singles | Which 1969 Beatles single tells the story of John Lennon's wedding and honeymoon? | The Ballad of John and Yoko | Get Back | Come Together | Don't Let Me Down | The Ballad of John and Yoko
+4 | singles | "The Ballad of John and Yoko" was the Beatles' UK number one of which count? | Their 17th | Their 12th | Their 15th | Their 20th | The Ballad of John and Yoko
+3 | singles | After "The Ballad of John and Yoko" in 1969, which song gave The Beatles their next UK number one, in 2023? | Now and Then | Free as a Bird | Real Love | Let It Be | Now and Then; The Ballad of John and Yoko
+4 | singles | What was the highest position "The Ballad of John and Yoko" reached on the US Billboard Hot 100? | Number 8 | Number 1 | Number 3 | Number 20 | The Ballad of John and Yoko
+5 | in-the-studio | Which unreleased Beatles avant-garde recording from 1967 runs for nearly 14 minutes? | Carnival of Light | What's the New Mary Jane | Revolution 9 | Etcetera | Carnival of Light
+5 | in-the-studio | "Carnival of Light" was made for an event at which London venue? | The Roundhouse | The Royal Albert Hall | Alexandra Palace | The UFO Club | Carnival of Light
+5 | in-the-studio | "Carnival of Light" was recorded during a session for which Beatles single? | Penny Lane | Strawberry Fields Forever | Hello, Goodbye | Lady Madonna | Carnival of Light; Penny Lane
+2 | albums | On which album is the Beatles song "Birthday"? | The White Album | Abbey Road | Help! | Rubber Soul | Birthday; White Album
+5 | solo-years | At which New York venue did Paul McCartney join Ringo Starr to play "Birthday" for Ringo's 70th birthday in 2010? | Radio City Music Hall | Madison Square Garden | Carnegie Hall | The Apollo Theater | Birthday; Ringo Starr
+3 | albums | "Carry That Weight" is part of the long medley on which album? | Abbey Road | Let It Be | The White Album | Sgt. Pepper's Lonely Hearts Club Band | Carry That Weight; Abbey Road
+4 | albums | Which song comes immediately before "Carry That Weight" on Abbey Road? | Golden Slumbers | Polythene Pam | Sun King | The End | Carry That Weight; Abbey Road
+4 | albums | "Carry That Weight" reprises the melody of which earlier song on Abbey Road? | You Never Give Me Your Money | Come Together | Something | Oh! Darling | Carry That Weight; Abbey Road
+4 | in-the-studio | What is unusual about the chorus vocal on "Carry That Weight"? | All four Beatles sing it in unison | Ringo sings it alone | It was recorded backwards | It is sung by a children's choir | Carry That Weight
+4 | films-tv | In which year was The Beatles Anthology documentary series first broadcast? | 1995 | 1985 | 1990 | 2000 | Anthology
+4 | records | In which year was the Beatles Anthology book published? | 2000 | 1995 | 1996 | 2003 | Anthology

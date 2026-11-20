@@ -1,0 +1,8 @@
+# Upload this folder (just this file) as its own Netlify site named "wintheeuropeancupceltic", straight after the
+# main site has been renamed. It sends the old Celtic address to the renamed site, so old links and QR codes work.
+# If the main site's new name isn't "whowantstowin", change the address below to match before uploading.
+
+# The old front page went straight to the Celtic game, so it still does.
+/     https://whowantstowin.netlify.app/editions/celtic/  301!
+# Anything else (e.g. /editions/celtic/index.html) goes to the same path on the renamed site, query string included.
+/*    https://whowantstowin.netlify.app/:splat            301!

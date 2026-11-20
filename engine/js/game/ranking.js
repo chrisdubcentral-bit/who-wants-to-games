@@ -1,9 +1,9 @@
-// Top 100 ranking rules. Pure functions with no browser or storage code,
+// Top 40 ranking rules. Pure functions with no browser or storage code,
 // shared by the game (engine/js/game/leaderboard.js) and the online board (server/top100/).
 
 import { STATUS, FINISHED } from './game-engine.js';
 
-export const LIMIT = 100;
+export const LIMIT = 40;
 export const NAME_MAX = 20;
 export const TOWN_MAX = 30;
 

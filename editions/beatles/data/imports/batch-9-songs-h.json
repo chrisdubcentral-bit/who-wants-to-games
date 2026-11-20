@@ -1,0 +1,1757 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"What You're Doing\" is on which British album?",
+    "options": [
+      "Beatles for Sale",
+      "With the Beatles",
+      "A Hard Day's Night",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "What You're Doing",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "How many original compositions are on Beatles for Sale?",
+    "options": [
+      "Eight",
+      "Fourteen",
+      "Six",
+      "Ten"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"When I Get Home\" is on which British album?",
+    "options": [
+      "Beatles for Sale",
+      "A Hard Day's Night",
+      "Help!",
+      "With the Beatles"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "When I Get Home",
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "\"Till There Was You\", covered on With the Beatles, comes from which stage musical?",
+    "options": [
+      "West Side Story",
+      "Oklahoma!",
+      "My Fair Lady",
+      "The Music Man"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Till There Was You",
+      "The Music Man"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who sings lead on the Beatles' version of \"Till There Was You\"?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Till There Was You",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which John Lennon song was recorded for the White Album but left off it, eventually surfacing on Anthology 3?",
+    "options": [
+      "What's the New Mary Jane",
+      "Not Guilty",
+      "Child of Nature",
+      "Circles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "What's the New Mary Jane",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Beatles assistant takes part in the recording of \"What's the New Mary Jane\"?",
+    "options": [
+      "Derek Taylor",
+      "Neil Aspinall",
+      "Alistair Taylor",
+      "Mal Evans"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "What's the New Mary Jane",
+      "Mal Evans"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Who chose the fifteen songs The Beatles played at their Decca audition?",
+    "options": [
+      "George Martin",
+      "Dick Rowe",
+      "John Lennon",
+      "Brian Epstein"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Decca audition",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "How many songs did The Beatles record at their Decca audition?",
+    "options": [
+      "Fifteen",
+      "Twenty-five",
+      "Five",
+      "Ten"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which Coasters B-side did George Harrison sing at the Decca audition?",
+    "options": [
+      "Three Cool Cats",
+      "Along Came Jones",
+      "Young Blood",
+      "Little Egypt"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Three Cool Cats",
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Paul McCartney's early song \"Thinking of Linking\" was inspired by a cinema advert for what?",
+    "options": [
+      "A dance hall",
+      "A furniture shop",
+      "A bus company",
+      "A brand of tea"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Thinking of Linking",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatle wrote and sang \"Yesterday\"?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yesterday",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "On which British album was \"Yesterday\" first released?",
+    "options": [
+      "Revolver",
+      "Rubber Soul",
+      "Help!",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yesterday",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "records",
+    "difficulty": 3,
+    "question": "\"Yesterday\" is famous as one of the most what in the history of recorded music?",
+    "options": [
+      "Expensive recordings",
+      "Sampled tracks",
+      "Covered songs",
+      "Banned records"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "In which year was \"Yesterday\" first issued as the lead track of a UK EP?",
+    "options": [
+      "1965",
+      "1966",
+      "1976",
+      "1970"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "In which country was \"Yesterday\" released as a single in September 1965, reaching number one?",
+    "options": [
+      "United Kingdom",
+      "United States",
+      "West Germany",
+      "Australia"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who sings lead on \"With a Little Help from My Friends\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "With a Little Help from My Friends",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "On Sgt. Pepper, Ringo Starr sings \"With a Little Help from My Friends\" as which character?",
+    "options": [
+      "Mr. Kite",
+      "Billy Shears",
+      "Sgt. Pepper",
+      "Henry the Horse"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "With a Little Help from My Friends",
+      "Billy Shears"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Who topped the UK chart in 1968 with a cover of \"With a Little Help from My Friends\"?",
+    "options": [
+      "Rod Stewart",
+      "Joe Cocker",
+      "Tom Jones",
+      "Steve Winwood"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "With a Little Help from My Friends",
+      "Joe Cocker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who wrote \"While My Guitar Gently Weeps\"?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon",
+      "Eric Clapton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "While My Guitar Gently Weeps",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"While My Guitar Gently Weeps\" is on which album?",
+    "options": [
+      "Revolver",
+      "The White Album",
+      "Let It Be",
+      "Abbey Road"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "While My Guitar Gently Weeps",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "George Harrison wrote \"While My Guitar Gently Weeps\" as an exercise in randomness inspired by which Chinese text?",
+    "options": [
+      "The Art of War",
+      "The Analects",
+      "Tao Te Ching",
+      "I Ching"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "While My Guitar Gently Weeps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"You Won't See Me\" is on which album?",
+    "options": [
+      "Rubber Soul",
+      "A Hard Day's Night",
+      "Revolver",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "You Won't See Me",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "solo-years",
+    "difficulty": 5,
+    "question": "Which Canadian singer had a 1974 hit with \"You Won't See Me\"?",
+    "options": [
+      "Buffy Sainte-Marie",
+      "Carole Pope",
+      "Anne Murray",
+      "Joni Mitchell"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "You Won't See Me",
+      "Anne Murray"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"Within You Without You\"?",
+    "options": [
+      "Ravi Shankar",
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Within You Without You",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Within You Without You\" is on which album?",
+    "options": [
+      "The White Album",
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Within You Without You",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "How many of the other Beatles play on \"Within You Without You\"?",
+    "options": [
+      "One",
+      "Two",
+      "None",
+      "Three"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Within You Without You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which White Album song is John Lennon's parody of British blues bands?",
+    "options": [
+      "Revolution 1",
+      "Yer Blues",
+      "Glass Onion",
+      "I'm So Tired"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yer Blues",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"You Know My Name (Look Up the Number)\" was the B-side of which single?",
+    "options": [
+      "Something",
+      "Let It Be",
+      "The Long and Winding Road",
+      "Get Back"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "You Know My Name",
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Rolling Stone plays saxophone on \"You Know My Name (Look Up the Number)\"?",
+    "options": [
+      "Keith Richards",
+      "Brian Jones",
+      "Charlie Watts",
+      "Bill Wyman"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "You Know My Name",
+      "Brian Jones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"The Word\" is on which album?",
+    "options": [
+      "Help!",
+      "Revolver",
+      "Rubber Soul",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Word",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"You Can't Do That\" was the B-side of which single?",
+    "options": [
+      "She Loves You",
+      "Can't Buy Me Love",
+      "A Hard Day's Night",
+      "I Feel Fine"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "You Can't Do That",
+      "Can't Buy Me Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens the long medley on side two of Abbey Road?",
+    "options": [
+      "Golden Slumbers",
+      "Because",
+      "Sun King",
+      "You Never Give Me Your Money"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "You Never Give Me Your Money",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"You Never Give Me Your Money\"?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "You Never Give Me Your Money",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Whose liking for \"Wild Honey Pie\" helped get it onto the White Album?",
+    "options": [
+      "Pattie Boyd",
+      "Linda Eastman",
+      "Yoko Ono",
+      "Maureen Starkey"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Wild Honey Pie",
+      "Pattie Boyd"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Who recorded \"Wild Honey Pie\" without any of his bandmates?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Wild Honey Pie",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote and sang \"Why Don't We Do It in the Road?\"?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Why Don't We Do It in the Road?",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"You Like Me Too Much\" on the Help! album?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "You Like Me Too Much",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Words of Love\", covered on Beatles for Sale?",
+    "options": [
+      "Roy Orbison",
+      "Buddy Holly",
+      "Carl Perkins",
+      "The Everly Brothers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Words of Love",
+      "Buddy Holly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"Yes It Is\" was the B-side of which single?",
+    "options": [
+      "Help!",
+      "Day Tripper",
+      "Ticket to Ride",
+      "I Feel Fine"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yes It Is",
+      "Ticket to Ride"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatle sings lead on \"Yellow Submarine\"?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yellow Submarine",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "The song \"Yellow Submarine\" first appeared on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Rubber Soul",
+      "Magical Mystery Tour",
+      "Revolver"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yellow Submarine",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What position did \"Yellow Submarine\" reach on the US Billboard Hot 100?",
+    "options": [
+      "Number 1",
+      "Number 5",
+      "Number 12",
+      "Number 2"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which song was the second George Harrison composition recorded by The Beatles, unreleased until Anthology 1?",
+    "options": [
+      "If I Needed Someone",
+      "You Like Me Too Much",
+      "You Know What to Do",
+      "I Need You"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "You Know What to Do",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which duo had a transatlantic number one in 1964 with Paul McCartney's \"A World Without Love\"?",
+    "options": [
+      "David and Jonathan",
+      "Chad and Jeremy",
+      "Peter and Gordon",
+      "The Everly Brothers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A World Without Love",
+      "Peter and Gordon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "The early home recording \"You'll Be Mine\" is a parody of which American vocal group?",
+    "options": [
+      "The Ink Spots",
+      "The Platters",
+      "The Coasters",
+      "The Drifters"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "You'll Be Mine",
+      "Anthology 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"You've Got to Hide Your Love Away\" is on which album?",
+    "options": [
+      "Help!",
+      "Revolver",
+      "Rubber Soul",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "You've Got to Hide Your Love Away",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote and sang \"You've Got to Hide Your Love Away\"?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "You've Got to Hide Your Love Away",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Your Mother Should Know\" appears on which Beatles release?",
+    "options": [
+      "Yellow Submarine",
+      "The White Album",
+      "Magical Mystery Tour",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Your Mother Should Know",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "What do The Beatles wear for the \"Your Mother Should Know\" dance number in Magical Mystery Tour?",
+    "options": [
+      "Military uniforms",
+      "Black polo necks",
+      "Animal costumes",
+      "White evening tails"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Your Mother Should Know",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"You're Going to Lose That Girl\" is on which album?",
+    "options": [
+      "A Hard Day's Night",
+      "Rubber Soul",
+      "Help!",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "You're Going to Lose That Girl",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"You've Really Got a Hold on Me\", covered on With the Beatles?",
+    "options": [
+      "Sam Cooke",
+      "Marvin Gaye",
+      "Smokey Robinson",
+      "Berry Gordy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "You've Really Got a Hold on Me",
+      "Smokey Robinson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Motown group first recorded \"You've Really Got a Hold on Me\"?",
+    "options": [
+      "The Temptations",
+      "The Miracles",
+      "The Four Tops",
+      "The Contours"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "You've Really Got a Hold on Me",
+      "The Miracles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song begins \"Yesterday, all my troubles seemed so far away\"?",
+    "options": [
+      "In My Life",
+      "Let It Be",
+      "Yesterday",
+      "Help!"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song has the line \"We all live in a yellow submarine\"?",
+    "options": [
+      "Octopus's Garden",
+      "All Together Now",
+      "Penny Lane",
+      "Yellow Submarine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles song includes the line \"All you need is love\"?",
+    "options": [
+      "Love Me Do",
+      "Can't Buy Me Love",
+      "All You Need Is Love",
+      "She Loves You"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "All You Need Is Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "In which Beatles song does the singer want to be \"under the sea\" in a garden \"in the shade\"?",
+    "options": [
+      "Yellow Submarine",
+      "Rain",
+      "Blue Jay Way",
+      "Octopus's Garden"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Octopus's Garden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which Beatles song begins with the words \"Picture yourself in a boat on a river\"?",
+    "options": [
+      "Lucy in the Sky with Diamonds",
+      "I Am the Walrus",
+      "Penny Lane",
+      "Yellow Submarine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lucy in the Sky with Diamonds"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which Beatles song begins \"I read the news today, oh boy\"?",
+    "options": [
+      "Good Morning Good Morning",
+      "Eleanor Rigby",
+      "Paperback Writer",
+      "A Day in the Life"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Day in the Life"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which Beatles song tells of \"all the lonely people\"?",
+    "options": [
+      "She's Leaving Home",
+      "Yesterday",
+      "Nowhere Man",
+      "Eleanor Rigby"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Eleanor Rigby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "In \"Eleanor Rigby\", what is the name of the priest?",
+    "options": [
+      "Father O'Malley",
+      "Father Murphy",
+      "Father McKenzie",
+      "Father Brown"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Eleanor Rigby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "In \"Ob-La-Di, Ob-La-Da\", what are the names of the couple?",
+    "options": [
+      "Maxwell and Joan",
+      "Rocky and Nancy",
+      "Billy and Rita",
+      "Desmond and Molly"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ob-La-Di, Ob-La-Da"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which Beatles song begins \"When I find myself in times of trouble\"?",
+    "options": [
+      "Yesterday",
+      "Let It Be",
+      "Help!",
+      "Hey Jude"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "In \"Let It Be\", who comes to the singer \"speaking words of wisdom\"?",
+    "options": [
+      "Sister Sarah",
+      "Lady Madonna",
+      "Mother Mary",
+      "Sweet Loretta"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which Beatles song begins \"Here come old flat-top\"?",
+    "options": [
+      "Glass Onion",
+      "Get Back",
+      "I Am the Walrus",
+      "Come Together"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Come Together"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "In \"Get Back\", which character \"thought he was a loner\"?",
+    "options": [
+      "Jojo",
+      "Rocky",
+      "Maxwell",
+      "Desmond"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Get Back"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "In \"Rocky Raccoon\", what does Rocky find in his hotel room?",
+    "options": [
+      "A silver hammer",
+      "A paperback novel",
+      "Gideon's Bible",
+      "A ticket to ride"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rocky Raccoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"Lovely Rita\", what does Rita's bag across her shoulder make her look like?",
+    "options": [
+      "A sailor",
+      "A schoolteacher",
+      "A military man",
+      "A postman"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lovely Rita"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"Penny Lane\", what does the banker never wear in the pouring rain?",
+    "options": [
+      "A mac",
+      "A hat",
+      "His shoes",
+      "A scarf"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Penny Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"A Day in the Life\", how many holes are there in Blackburn, Lancashire?",
+    "options": [
+      "Four hundred",
+      "A million",
+      "Four thousand",
+      "Ten thousand"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Day in the Life"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"Being for the Benefit of Mr. Kite!\", what is the name of the horse that dances the waltz?",
+    "options": [
+      "Dobbin",
+      "Henry",
+      "Arthur",
+      "Charlie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Being for the Benefit of Mr. Kite!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"Lady Madonna\", on which day of the week does the child learn \"to tie his bootlace\"?",
+    "options": [
+      "Tuesday",
+      "Monday",
+      "Sunday",
+      "Thursday"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lady Madonna"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"Drive My Car\", what does the girl want to be?",
+    "options": [
+      "A fashion model",
+      "A racing driver",
+      "A pop singer",
+      "A famous film star"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Drive My Car"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"Paperback Writer\", for which newspaper does the hero's son work?",
+    "options": [
+      "The Times",
+      "The Daily Mirror",
+      "The Daily Mail",
+      "The Guardian"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paperback Writer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"When I'm Sixty-Four\", what are the names of the grandchildren?",
+    "options": [
+      "Molly, Desmond and Jack",
+      "Tom, Dick and Harry",
+      "Rita, Sue and Bob",
+      "Vera, Chuck and Dave"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "When I'm Sixty-Four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"When I'm Sixty-Four\", where might the couple rent a cottage every summer?",
+    "options": [
+      "Blackpool",
+      "Cornwall",
+      "The Isle of Man",
+      "The Isle of Wight"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "When I'm Sixty-Four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"Back in the U.S.S.R.\", which airline does the singer fly in from Miami Beach?",
+    "options": [
+      "Pan Am",
+      "BOAC",
+      "TWA",
+      "Aeroflot"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Back in the U.S.S.R."
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"The Ballad of John and Yoko\", where do the couple finally get married?",
+    "options": [
+      "Paris",
+      "Vienna",
+      "Amsterdam",
+      "Gibraltar"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Ballad of John and Yoko"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"Maxwell's Silver Hammer\", what is Joan studying at home?",
+    "options": [
+      "Higher mathematics",
+      "Ancient history",
+      "Pataphysical science",
+      "Modern dance"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maxwell's Silver Hammer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "In \"Rocky Raccoon\", by what name is the girl Lil known to everyone?",
+    "options": [
+      "Prudence",
+      "Rita",
+      "Nancy",
+      "Sadie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rocky Raccoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "In \"Norwegian Wood\", where does the narrator end up sleeping?",
+    "options": [
+      "On the stairs",
+      "On the sofa",
+      "In the bath",
+      "In the garden"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Norwegian Wood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "In \"She's Leaving Home\", on which day of the week does the girl slip away at five o'clock?",
+    "options": [
+      "Wednesday",
+      "Sunday",
+      "Monday",
+      "Friday"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "She's Leaving Home"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "In \"I Am the Walrus\", where is the singer \"sitting on a cornflake\"?",
+    "options": [
+      "In an English garden",
+      "On a London bus",
+      "Waiting for the van to come",
+      "At the Eiffel Tower"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I Am the Walrus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "In \"Come Together\", which soft drink is mentioned?",
+    "options": [
+      "Pepsi",
+      "Dr Pepper",
+      "Coca-Cola",
+      "Lemonade"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Come Together"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "In \"Happiness Is a Warm Gun\", who is said to \"jump the gun\"?",
+    "options": [
+      "Mother Superior",
+      "Lady Madonna",
+      "Sexy Sadie",
+      "Sister Mary"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Happiness Is a Warm Gun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "In \"Glass Onion\", who does John Lennon say \"the walrus\" was?",
+    "options": [
+      "Paul",
+      "John",
+      "Ringo",
+      "George"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glass Onion"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "In \"The Continuing Story of Bungalow Bill\", who does Bill take along on the tiger hunt in case of accidents?",
+    "options": [
+      "His dog",
+      "His mum",
+      "His brother",
+      "His butler"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bungalow Bill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "In \"Mean Mr. Mustard\", what is the name of Mr. Mustard's sister?",
+    "options": [
+      "Molly",
+      "Pam",
+      "Shirley",
+      "Rita"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mean Mr. Mustard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "In \"Cry Baby Cry\", who is in the parlour \"playing piano for the children of the King\"?",
+    "options": [
+      "The Queen",
+      "The Duke",
+      "The Bishop",
+      "The Duchess of Kirkcaldy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cry Baby Cry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "In \"Lovely Rita\", how many sisters sit on the sofa at the end?",
+    "options": [
+      "Three or four",
+      "None",
+      "One or two",
+      "Five or six"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lovely Rita"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "early-years",
+    "difficulty": 2,
+    "question": "Who formed The Quarrymen, the group that became The Beatles?",
+    "options": [
+      "Paul McCartney",
+      "Stuart Sutcliffe",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Quarrymen",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "In which year did John Lennon form The Quarrymen?",
+    "options": [
+      "1956",
+      "1952",
+      "1959",
+      "1961"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Quarrymen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "The Quarrymen took their name from which Liverpool school?",
+    "options": [
+      "Liverpool Institute",
+      "St Edward's College",
+      "Quarry Bank High School",
+      "Dovedale Primary"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen",
+      "Quarry Bank"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "What style of music did The Quarrymen play when they started?",
+    "options": [
+      "Blues",
+      "Trad jazz",
+      "Skiffle",
+      "Doo-wop"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen",
+      "Skiffle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which instrument did John Lennon's mother Julia teach him to play?",
+    "options": [
+      "Banjo",
+      "Accordion",
+      "Violin",
+      "Piano"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Lennon",
+      "Julia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "In which month and year did Paul McCartney meet John Lennon?",
+    "options": [
+      "January 1956",
+      "August 1960",
+      "July 1957",
+      "October 1958"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lennon-McCartney",
+      "Woolton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "In which year did George Harrison join The Quarrymen?",
+    "options": [
+      "1958",
+      "1961",
+      "1956",
+      "1960"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Quarrymen",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "Who recommended George Harrison to The Quarrymen?",
+    "options": [
+      "Stuart Sutcliffe",
+      "Paul McCartney",
+      "Pete Shotton",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Why was John Lennon at first reluctant to let George Harrison join The Quarrymen?",
+    "options": [
+      "George preferred jazz",
+      "He thought George was too young",
+      "George had no guitar",
+      "George lived too far away"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "Which Liverpool school did both Paul McCartney and George Harrison attend?",
+    "options": [
+      "Liverpool College of Art",
+      "Quarry Bank High School",
+      "Liverpool Institute",
+      "Bluecoat School"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Liverpool Institute"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Which Buddy Holly song did The Quarrymen record at their first amateur recording session in 1958?",
+    "options": [
+      "Words of Love",
+      "Rave On",
+      "That'll Be the Day",
+      "Peggy Sue"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen",
+      "That'll Be the Day"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which original song, credited to McCartney and Harrison, did The Quarrymen record in 1958?",
+    "options": [
+      "I Lost My Little Girl",
+      "In Spite of All the Danger",
+      "Hello Little Girl",
+      "One After 909"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen",
+      "In Spite of All the Danger"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which of these was a name used by Lennon, McCartney and Harrison before they became The Beatles?",
+    "options": [
+      "Rory and the Rockers",
+      "Johnny and the Moondogs",
+      "The Woolton Wanderers",
+      "The Mersey Three"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Johnny and the Moondogs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "The short-lived name \"Japage 3\" combined letters from the names of which three people?",
+    "options": [
+      "John, Paul and George",
+      "Jack, Peter and Gerry",
+      "John, Pete and Geoff",
+      "James, Paul and Gene"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Japage 3"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "In which year did the group finally change its name to The Beatles?",
+    "options": [
+      "1958",
+      "1957",
+      "1962",
+      "1960"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Beatles",
+      "Name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which school friend played washboard in The Quarrymen and helped John Lennon found the group?",
+    "options": [
+      "Ivan Vaughan",
+      "Rod Davis",
+      "Pete Shotton",
+      "Len Garry"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen",
+      "Pete Shotton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Which skiffle star's records supplied much of The Quarrymen's early repertoire?",
+    "options": [
+      "Chas McDevitt",
+      "Tommy Steele",
+      "Lonnie Donegan",
+      "Wally Whyton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen",
+      "Lonnie Donegan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "What was the name of the house in Menlove Avenue where John Lennon lived with his Aunt Mimi?",
+    "options": [
+      "Kinfauns",
+      "Forthlin",
+      "Mendips",
+      "Kenwood"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mendips",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who played drums in The Quarrymen's first stable line-up?",
+    "options": [
+      "Pete Best",
+      "Colin Hanton",
+      "Mike McCartney",
+      "Tommy Moore"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen",
+      "Colin Hanton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who played banjo in the original Quarrymen?",
+    "options": [
+      "Rod Davis",
+      "Eric Griffiths",
+      "Len Garry",
+      "Bill Smith"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Quarrymen",
+      "Rod Davis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which home-made instrument provided the bass in the first Quarrymen line-up?",
+    "options": [
+      "A drainpipe",
+      "A washtub",
+      "A cello with three strings",
+      "A tea-chest bass"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Quarrymen",
+      "Skiffle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who acted as The Quarrymen's first manager after a spell playing tea-chest bass?",
+    "options": [
+      "Allan Williams",
+      "Nigel Walley",
+      "Pete Shotton",
+      "Derek Hodkin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen",
+      "Nigel Walley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "What message did the Cavern's manager send up to The Quarrymen when John Lennon started playing rock and roll in 1957?",
+    "options": [
+      "Encore, please",
+      "You are fired",
+      "Cut out the bloody rock",
+      "Play it louder"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cavern Club",
+      "The Quarrymen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which impresario ran the Star Search talent contests that The Quarrymen entered?",
+    "options": [
+      "Jack Good",
+      "Hughie Green",
+      "Carroll Levis",
+      "Larry Parnes"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen",
+      "Carroll Levis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "On which date did John Lennon and Paul McCartney first meet?",
+    "options": [
+      "15 July 1958",
+      "18 June 1960",
+      "9 October 1956",
+      "6 July 1957"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lennon-McCartney",
+      "Woolton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who introduced Paul McCartney to John Lennon at the Woolton church fête?",
+    "options": [
+      "Nigel Walley",
+      "Pete Shotton",
+      "George Harrison",
+      "Ivan Vaughan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lennon-McCartney",
+      "Ivan Vaughan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which Eddie Cochran song did Paul McCartney play to impress John Lennon when they first met?",
+    "options": [
+      "C'mon Everybody",
+      "Three Steps to Heaven",
+      "Twenty Flight Rock",
+      "Summertime Blues"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lennon-McCartney",
+      "Twenty Flight Rock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which song were The Quarrymen playing when Paul McCartney arrived at the Woolton fête?",
+    "options": [
+      "Rock Island Line",
+      "Be-Bop-a-Lula",
+      "Come Go with Me",
+      "Maggie May"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen",
+      "Woolton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date did Paul McCartney make his debut with The Quarrymen?",
+    "options": [
+      "29 August 1959",
+      "24 January 1958",
+      "18 October 1957",
+      "6 July 1957"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 5,
+    "question": "At which Liverpool hall did Paul McCartney play his first show with The Quarrymen?",
+    "options": [
+      "New Clubmoor Hall",
+      "Litherland Town Hall",
+      "Wilson Hall",
+      "St Peter's Church Hall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Quarrymen",
+      "New Clubmoor Hall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which instrumental did the young George Harrison play to John Lennon on the top deck of a bus as his audition?",
+    "options": [
+      "Rumble",
+      "Raunchy",
+      "Guitar Boogie Shuffle",
+      "Apache"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison",
+      "Raunchy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "What is the title of the first song Paul McCartney wrote, influenced by Buddy Holly?",
+    "options": [
+      "Hello Little Girl",
+      "Like Dreamers Do",
+      "Love of the Loved",
+      "I Lost My Little Girl"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul McCartney",
+      "I Lost My Little Girl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which school friend of Paul McCartney played piano on The Quarrymen's 1958 recording?",
+    "options": [
+      "Ivan Vaughan",
+      "John Duff Lowe",
+      "Len Garry",
+      "Ken Brown"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen",
+      "John Duff Lowe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who ran the small Liverpool studio where The Quarrymen made their 1958 record?",
+    "options": [
+      "Allan Williams",
+      "Percy Phillips",
+      "Bob Wooler",
+      "Ray McFall"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen",
+      "Percy Phillips"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date in 1958 did The Quarrymen record \"That'll Be the Day\"?",
+    "options": [
+      "15 July",
+      "6 February",
+      "12 July",
+      "29 August"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Who sings lead on both sides of The Quarrymen's 1958 disc?",
+    "options": [
+      "John Duff Lowe",
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Who rediscovered the only copy of The Quarrymen's 1958 record in 1981 and sold it to Paul McCartney?",
+    "options": [
+      "Percy Phillips",
+      "John Duff Lowe",
+      "Pete Shotton",
+      "Colin Hanton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen",
+      "John Duff Lowe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "On which date was John Lennon's mother Julia killed in a road accident?",
+    "options": [
+      "15 July 1958",
+      "6 July 1957",
+      "10 April 1962",
+      "9 October 1960"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Julia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "What did the guitar trio of Lennon, McCartney and Harrison say when asked why they had no drummer?",
+    "options": [
+      "Ringo is on his way",
+      "The rhythm's in the guitars",
+      "We are looking for one",
+      "Drummers cost too much"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Quarrymen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date did The Quarrymen open the Casbah Coffee Club?",
+    "options": [
+      "16 January 1957",
+      "29 August 1959",
+      "9 February 1961",
+      "17 December 1960"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Casbah",
+      "The Quarrymen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which guitarist joined Lennon, McCartney and Harrison in The Quarrymen for the Casbah residency in 1959?",
+    "options": [
+      "Ken Brown",
+      "Les Stewart",
+      "Chas Newby",
+      "Eric Griffiths"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Quarrymen",
+      "Ken Brown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "With which group was George Harrison playing just before The Quarrymen re-formed for the Casbah in 1959?",
+    "options": [
+      "The Rebels",
+      "The Black Jacks",
+      "The Les Stewart Quartet",
+      "The Vikings"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Harrison",
+      "Les Stewart Quartet"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "In which year did surviving original Quarrymen reunite to mark 40 years since Lennon met McCartney?",
+    "options": [
+      "1987",
+      "1977",
+      "1997",
+      "2007"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Quarrymen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "places",
+    "difficulty": 3,
+    "question": "In which year did the Cavern Club open?",
+    "options": [
+      "1963",
+      "1957",
+      "1961",
+      "1950"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "What kind of music was the Cavern Club opened to present?",
+    "options": [
+      "Jazz",
+      "Rock and roll",
+      "Classical",
+      "Folk"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who founded the Cavern Club?",
+    "options": [
+      "Allan Williams",
+      "Ray McFall",
+      "Alan Sytner",
+      "Bob Wooler"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cavern Club",
+      "Alan Sytner"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "The Cavern Club was modelled on a jazz cellar in which city?",
+    "options": [
+      "London",
+      "Paris",
+      "New Orleans",
+      "Hamburg"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 5,
+    "question": "What had the Cavern's cellar been used for during the Second World War?",
+    "options": [
+      "A munitions factory",
+      "A wine store",
+      "A hospital ward",
+      "An air raid shelter"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "The Cavern was in the cellar of what kind of warehouse?",
+    "options": [
+      "A cotton warehouse",
+      "A tea warehouse",
+      "A fruit warehouse",
+      "A tobacco warehouse"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who bought the Cavern Club from its founder in 1959?",
+    "options": [
+      "Brian Epstein",
+      "Ray McFall",
+      "Sam Leach",
+      "Bob Wooler"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cavern Club",
+      "Ray McFall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who was the Cavern Club's compère and DJ during The Beatles' time there?",
+    "options": [
+      "Bob Wooler",
+      "Alan Sytner",
+      "Bill Harry",
+      "Ray McFall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cavern Club",
+      "Bob Wooler"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "On which date did The Beatles first play the Cavern Club?",
+    "options": [
+      "9 February 1961",
+      "9 November 1961",
+      "16 January 1957",
+      "3 August 1963"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "early-years",
+    "difficulty": 3,
+    "question": "On which date did Brian Epstein first see The Beatles at the Cavern?",
+    "options": [
+      "6 June 1962",
+      "9 November 1961",
+      "1 January 1962",
+      "9 February 1961"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cavern Club",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "How many times did The Beatles play the Cavern Club?",
+    "options": [
+      "92",
+      "152",
+      "292",
+      "502"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "On which date did The Beatles play the Cavern for the last time?",
+    "options": [
+      "5 October 1962",
+      "3 August 1963",
+      "31 December 1962",
+      "9 February 1964"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date did Paul McCartney first play the Cavern, with The Quarrymen?",
+    "options": [
+      "7 August 1957",
+      "24 January 1958",
+      "9 February 1961",
+      "6 July 1957"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cavern Club",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which future singing star worked in the Cavern Club's cloakroom?",
+    "options": [
+      "Sandie Shaw",
+      "Lulu",
+      "Dusty Springfield",
+      "Cilla Black"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Cavern Club",
+      "Cilla Black"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which year did the original Cavern Club close?",
+    "options": [
+      "1973",
+      "1980",
+      "1966",
+      "1984"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "Why was the original Cavern Club closed and demolished?",
+    "options": [
+      "For a shopping centre",
+      "Because of flooding",
+      "For an underground railway ventilation shaft",
+      "Because of a fire"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which year did a rebuilt Cavern Club reopen on Mathew Street?",
+    "options": [
+      "1977",
+      "1995",
+      "1973",
+      "1984"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which British prime minister reopened the Cavern Club in July 1966?",
+    "options": [
+      "Edward Heath",
+      "James Callaghan",
+      "Harold Macmillan",
+      "Harold Wilson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Cavern Club",
+      "Harold Wilson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which group holds the record for the most Cavern Club appearances, with over 400?",
+    "options": [
+      "The Beatles",
+      "The Searchers",
+      "The Merseybeats",
+      "The Hideaways"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Cavern Club",
+      "The Hideaways"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which act played on the Cavern Club's opening night in 1957?",
+    "options": [
+      "The Merseysippi Jazz Band",
+      "The Quarrymen",
+      "Acker Bilk",
+      "Lonnie Donegan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cavern Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Petula Clark hit of 1965 refers to the Cavern as \"a cellar full of noise\"?",
+    "options": [
+      "My Love",
+      "Don't Sleep in the Subway",
+      "I Know a Place",
+      "Downtown"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Cavern Club",
+      "Petula Clark"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "On which date did The Quarrymen first play the Cavern Club?",
+    "options": [
+      "16 January 1957",
+      "7 August 1957",
+      "24 January 1958",
+      "9 February 1961"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cavern Club",
+      "The Quarrymen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which Elvis Presley song did John Lennon launch into at the Cavern in 1957, against the club's no-rock rule?",
+    "options": [
+      "Jailhouse Rock",
+      "Don't Be Cruel",
+      "Hound Dog",
+      "All Shook Up"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Cavern Club",
+      "The Quarrymen"
+    ],
+    "source": "manual"
+  }
+]

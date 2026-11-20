@@ -1,0 +1,53 @@
+# Beatles statistics. Sources: Infoplease "The Beatles by the Numbers" and Topline Statistics "The Beatles by the Numbers".
+# (Tableau refused automated access and the Steve Hoffman forum blocks Claude, so neither was used.)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | records | According to Infoplease, roughly how many Beatles albums have been sold worldwide? | 600 million | 60 million | 6 billion | 160 million | Stats
+4 | records | According to Infoplease, roughly how many Beatles albums have been sold in the United States? | 177 million | 17 million | 77 million | 377 million | Stats
+4 | records | According to Infoplease, how many copies of the compilation 1 were sold between 2000 and 2010? | 11.4 million | 1.4 million | 4.1 million | 41 million | Stats; 1 (album)
+4 | records | According to Infoplease, about how many copies has Sgt. Pepper sold in the UK? | 4.5 million | 450,000 | 1.5 million | 14.5 million | Stats; Sgt. Pepper
+5 | records | According to Infoplease, how many copies of the 2009 remastered studio albums box set sold in its first five days? | 2.3 million | 230,000 | 750,000 | 9.3 million | Stats; 2009 remasters
+5 | records | According to Infoplease, how many copies of Anthology 1 sold in its first week in November 1995? | 855,473 | 85,547 | 255,473 | 1,855,473 | Stats; Anthology 1
+3 | records | According to Infoplease, at least how many times has "Yesterday" been covered? | Over 3,000 | Over 300 | Over 30,000 | About 50 | Stats; Yesterday
+5 | records | According to Infoplease, for how many weeks in total was Beatles material on the Billboard charts? | 1,278 | 278 | 578 | 2,278 | Stats; Billboard
+4 | records | According to Infoplease, for how many weeks in total were Beatles albums at number one in the UK? | 174 | 74 | 104 | 274 | Stats; UK album chart
+4 | records | According to Infoplease, for how many weeks in total were Beatles albums at number one in the US? | 132 | 32 | 82 | 232 | Stats; Billboard
+5 | records | According to Infoplease, for how many weeks did The Beatles top both the UK album and singles charts at once? | 45 | 5 | 15 | 95 | Stats
+4 | in-the-studio | According to Infoplease, how long does the final chord of "A Day in the Life" last? | 42 seconds | 12 seconds | 2 minutes | 4 seconds | Stats; A Day in the Life
+2 | records | How many number one singles did The Beatles have on the US Billboard Hot 100, a record for a band? | 20 | 10 | 15 | 30 | Stats; Billboard
+4 | records | According to Infoplease, how many weeks did "Hey Jude" spend on the US charts, the longest of any Beatles song? | 19 | 9 | 29 | 52 | Stats; Hey Jude
+4 | records | According to Infoplease, how many Beatles albums reached number one in the US? | 19 | 9 | 13 | 25 | Stats; Billboard
+4 | songs | According to Infoplease, how many Beatles song titles include a woman's name? | 18 | 8 | 28 | 38 | Stats
+3 | records | According to Infoplease, how many Beatles singles reached number one in the UK? | 17 | 7 | 12 | 22 | Stats; UK singles chart
+4 | records | According to Infoplease, how many Beatles albums reached number one in the UK? | 15 | 5 | 10 | 22 | Stats; UK album chart
+5 | records | According to Infoplease, how many Beatles albums are certified multi-platinum in the US? | 13 | 3 | 23 | 33 | Stats
+3 | records | According to Infoplease, how many Grammy Awards have The Beatles won? | 7 | 2 | 12 | 20 | Stats; Grammy Awards
+4 | records | According to Infoplease, how many times did The Beatles knock themselves off the top of the UK chart? | Twice | Never | Five times | Ten times | Stats; UK singles chart
+4 | records | According to Infoplease, how many number one hits did Paul McCartney write? | 32 | 12 | 22 | 52 | Stats; Paul McCartney
+4 | records | According to Infoplease, how many number one hits did John Lennon write? | 26 | 6 | 16 | 46 | Stats; John Lennon
+4 | records | According to Infoplease, in which month and year was the compilation 1 released? | November 2000 | November 1995 | June 1997 | September 2003 | Stats; 1 (album)
+3 | records | How many songs did The Beatles record and release between 1962 and 1970, according to Topline Statistics? | 213 | 113 | 163 | 313 | Stats; Catalogue
+3 | records | How many of The Beatles' 213 released songs from 1962 to 1970 were originals, according to Topline Statistics? | 188 | 138 | 168 | 208 | Stats; Catalogue
+4 | records | According to Topline Statistics, about how many songs a year did The Beatles average during their career? | More than 23 | About 8 | About 15 | More than 40 | Stats
+5 | records | According to Topline Statistics, how many Top 10 hits did The Beatles have on the Billboard Hot 100 besides their number ones? | 18 | 8 | 28 | 38 | Stats; Billboard
+4 | records | According to Topline Statistics, how many albums did The Beatles record? | 14 | 10 | 12 | 20 | Stats; Albums
+4 | songs | According to Topline Statistics, what is the average length of The Beatles' original songs? | 2 minutes 45 seconds | 2 minutes 5 seconds | 3 minutes 25 seconds | 4 minutes 10 seconds | Stats; Song length
+4 | songs | According to Topline Statistics, what share of Beatles songs last between two and three minutes? | Nearly 60% | About 20% | About 40% | Over 90% | Stats; Song length
+2 | songs | Which is the shortest Beatles song, at 23 seconds? | Her Majesty | Wild Honey Pie | Maggie Mae | Dig It | Stats; Her Majesty
+4 | songs | According to Topline Statistics, which is the longest true Beatles song, at 7 minutes 47 seconds? | I Want You (She's So Heavy) | Hey Jude | A Day in the Life | It's All Too Much | Stats; I Want You (She's So Heavy)
+4 | songs | How long is the Abbey Road recording of "I Want You (She's So Heavy)"? | 7 minutes 47 seconds | 4 minutes 47 seconds | 5 minutes 7 seconds | 9 minutes 17 seconds | Stats; I Want You (She's So Heavy)
+5 | songs | According to Topline Statistics, how long is "Eight Days a Week"? | 2 minutes 43 seconds | 1 minute 53 seconds | 3 minutes 13 seconds | 3 minutes 43 seconds | Stats; Eight Days a Week
+5 | songs | According to Topline Statistics, how long is "Because" from Abbey Road? | 2 minutes 45 seconds | 1 minute 45 seconds | 3 minutes 25 seconds | 4 minutes 5 seconds | Stats; Because
+4 | records | According to Topline Statistics, how long would it take to play all The Beatles' songs back to back? | About 9 hours 40 minutes | About 3 hours | About 24 hours | About 2 days | Stats
+3 | records | According to Topline Statistics, Lennon and McCartney sang lead on what share of The Beatles' original songs? | Over 82% | About 50% | About 65% | Over 95% | Stats; Lead vocals
+3 | songs | According to Topline Statistics, on how many Beatles songs did Ringo Starr sing lead? | 11 | 3 | 22 | 30 | Stats; Ringo Starr
+4 | songs | According to Topline Statistics, on how many Beatles songs did George Harrison sing lead? | 22 | 11 | 35 | 50 | Stats; George Harrison
+5 | records | According to Topline Statistics, what were the odds of a Beatles single reaching number one in the US? | About 10.64% | About 1% | About 25% | About 50% | Stats; Billboard
+5 | records | According to Topline Statistics, how many certified album sales have The Beatles achieved worldwide? | Over 183 million | Over 18 million | Over 83 million | Over 383 million | Stats
+4 | records | According to Topline Statistics, how many songs did The Beatles release in 1964, their busiest year? | 35 | 15 | 25 | 45 | Stats; 1964
+4 | records | According to Topline Statistics, how many songs did The Beatles release in 1968, the year of the White Album? | 34 | 14 | 24 | 44 | Stats; 1968
+4 | records | According to Topline Statistics, how many songs did The Beatles release in 1965? | 33 | 13 | 23 | 43 | Stats; 1965
+3 | records | Over how many years did The Beatles' recording career stretch, from 1962 to 1970? | Nine | Five | Seven | Twelve | Stats
+2 | records | Which act remains the best-selling music act of all time? | The Beatles | Elvis Presley | Michael Jackson | The Rolling Stones | Stats
+4 | records | According to Topline Statistics, in how many years did The Beatles release their 14 albums? | Seven | Three | Ten | Fourteen | Stats; Albums
+3 | records | According to Infoplease, which Beatles release was the best-selling album of the 2000s? | 1 | Anthology 1 | Let It Be... Naked | Love | Stats; 1 (album)
+3 | records | Which song is often cited as the most-covered song of all time? | Yesterday | Let It Be | Something | Hey Jude | Stats; Yesterday

@@ -1,4 +1,4 @@
-// Top 100 leaderboard: one board shared by every player, kept online (netlify/functions/top100.mjs).
+// Top 40 leaderboard: one board shared by every player, kept online (netlify/functions/top100.mjs).
 // The ranking rules live in ranking.js, which the server uses too.
 //
 // How a run gets onto the board:

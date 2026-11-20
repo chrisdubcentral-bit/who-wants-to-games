@@ -1,0 +1,62 @@
+# Beatles history: India 1968 and the 1965 US tour (Shea Stadium). Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | places | In which year did The Beatles travel to India to study meditation? | 1968 | 1965 | 1966 | 1970 | India; Rishikesh
+2 | people | Which guru taught The Beatles Transcendental Meditation? | Maharishi Mahesh Yogi | Ravi Shankar | Swami Prabhupada | Sri Chinmoy | Maharishi; India
+3 | places | In which Indian town was the ashram where The Beatles stayed in 1968? | Rishikesh | Varanasi | Goa | Agra | India; Rishikesh
+3 | band-members | Which Beatle's interest in Indian culture led the group to the Maharishi? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | India; George Harrison
+3 | band-members | Which Beatle was the first to leave the meditation course in India, after about ten days? | Ringo Starr | Paul McCartney | John Lennon | George Harrison | India; Ringo Starr
+4 | band-members | Which two Beatles stayed longest in Rishikesh, leaving on 12 April 1968? | John Lennon and George Harrison | Paul McCartney and Ringo Starr | John Lennon and Paul McCartney | George Harrison and Ringo Starr | India; Rishikesh
+4 | albums | About how many songs written in India were recorded for the White Album? | Eighteen | Four | Eight | Thirty | India; White Album
+4 | people | Which Beach Boy was on the meditation course in India with The Beatles? | Mike Love | Brian Wilson | Carl Wilson | Al Jardine | India; Mike Love
+3 | people | Which Scottish singer-songwriter joined The Beatles on the retreat in India? | Donovan | Bert Jansch | Al Stewart | Ian Anderson | India; Donovan
+3 | people | Which American actress was at the Rishikesh ashram at the same time as The Beatles? | Mia Farrow | Jane Fonda | Goldie Hawn | Shirley MacLaine | India; Mia Farrow
+5 | people | Which jazz flautist was among the celebrity meditators at Rishikesh in 1968? | Paul Horn | Herbie Mann | Roland Kirk | Hubert Laws | India; Paul Horn
+4 | places | In which Welsh town did The Beatles attend a Maharishi seminar in August 1967? | Bangor | Cardiff | Swansea | Aberystwyth | Bangor; Maharishi
+3 | people | The Beatles' stay in Bangor in August 1967 was cut short by whose death? | Brian Epstein | Stuart Sutcliffe | Joe Orton | Tara Browne | Bangor; Brian Epstein
+3 | people | On which date was Brian Epstein found dead at his London home? | 27 August 1967 | 1 June 1967 | 25 December 1967 | 30 January 1969 | Brian Epstein
+4 | films-tv | Which project did The Beatles complete before going to India, at Paul McCartney's urging? | Magical Mystery Tour | Yellow Submarine | Sgt. Pepper | Let It Be | Magical Mystery Tour; India
+5 | places | Which river did The Beatles cross on a footbridge to reach the Maharishi's ashram? | The Ganges | The Yamuna | The Indus | The Brahmaputra | India; Rishikesh
+5 | people | By what nickname was the Beatles' Greek electronics friend Alexis Mardas known? | Magic Alex | Alex the Great | Sparky | The Wizard | Magic Alex; Apple
+5 | people | Who temporarily took over Brian Epstein's role after his death and later wrote The Love You Make? | Peter Brown | Neil Aspinall | Clive Epstein | Robert Stigwood | Peter Brown
+5 | films-tv | On whose television programme did John Lennon and George Harrison twice discuss meditation in autumn 1967? | David Frost | Michael Parkinson | Simon Dee | Eamonn Andrews | Maharishi; David Frost
+5 | solo-years | For which film soundtrack did George Harrison record in Bombay in January 1968? | Wonderwall Music | Raga | The Magic Christian | Candy | George Harrison; Wonderwall Music
+5 | songs | Which Sanskrit phrase is the refrain of "Across the Universe"? | Jai Guru Deva | Hare Krishna | Om Shanti | Namaste | Across the Universe
+5 | people | Mia Farrow had just separated from which famous husband when she went to India in 1968? | Frank Sinatra | Woody Allen | André Previn | Dean Martin | India; Mia Farrow
+5 | people | Which Beatles assistant met the band in Delhi and arranged the long taxi ride to Rishikesh? | Mal Evans | Neil Aspinall | Derek Taylor | Peter Brown | India; Mal Evans
+5 | band-members | Who described the Maharishi's ashram as "a kind of spiritual Butlins"? | Ringo Starr | John Lennon | Paul McCartney | George Harrison | India; Ringo Starr
+5 | people | Which Canadian film-maker camped outside the ashram and photographed The Beatles in India? | Paul Saltzman | Norman Jewison | David Cronenberg | Ivan Reitman | India; Paul Saltzman
+5 | places | In which year was the abandoned Rishikesh ashram opened to the public as a Beatles site? | 2015 | 1975 | 1990 | 2003 | India; Beatles Ashram
+5 | people | Which British satirical magazine nicknamed the Maharishi "Veririchi Lotsamoney Yogi Bear"? | Private Eye | Punch | Oz | International Times | Maharishi; Private Eye
+5 | band-members | Which Beatle reportedly patted the Maharishi on the head and said "There's a good little guru"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | India; John Lennon
+5 | people | Which sister of Pattie Boyd travelled to India with The Beatles' party? | Jenny Boyd | Paula Boyd | Helen Boyd | Mary Boyd | India; Jenny Boyd
+4 | people | Which girlfriend accompanied Paul McCartney to India in 1968? | Jane Asher | Linda Eastman | Francie Schwartz | Maggie McGivern | India; Jane Asher
+2 | live | In which year did The Beatles play their famous concert at Shea Stadium? | 1965 | 1963 | 1967 | 1969 | Shea Stadium
+2 | live | In which city was Shea Stadium? | New York | Chicago | Boston | Philadelphia | Shea Stadium
+3 | live | On which date did The Beatles play Shea Stadium for the first time? | 15 August 1965 | 9 February 1964 | 29 August 1966 | 4 July 1965 | Shea Stadium
+3 | live | About how many fans saw The Beatles at Shea Stadium in 1965? | 55,000 | 15,000 | 100,000 | 250,000 | Shea Stadium
+4 | people | Which promoter staged The Beatles' Shea Stadium concert? | Sid Bernstein | Bill Graham | Brian Epstein | Murray the K | Shea Stadium; Sid Bernstein
+4 | live | How much did the 1965 Shea Stadium concert take at the box office? | $304,000 | $34,000 | $1 million | $3 million | Shea Stadium
+5 | live | How much were The Beatles paid for the 1965 Shea Stadium concert? | $160,000 | $16,000 | $304,000 | $1 million | Shea Stadium
+4 | live | How did The Beatles travel the last stretch to Shea Stadium in 1965? | In an armoured truck | On a double-decker bus | By limousine | On the subway | Shea Stadium
+4 | live | Which song closed The Beatles' Shea Stadium concert, with John Lennon playing the organ with his elbows? | I'm Down | Twist and Shout | Long Tall Sally | Help! | Shea Stadium; I'm Down
+4 | live | Which song did Ringo Starr sing at Shea Stadium in 1965? | Act Naturally | Boys | I Wanna Be Your Man | Yellow Submarine | Shea Stadium; Ringo Starr
+5 | live | Which New York band was added to the bill for the 1965 Shea Stadium show? | The Young Rascals | The Lovin' Spoonful | The Velvet Underground | The Four Seasons | Shea Stadium; The Young Rascals
+5 | live | Which British instrumental group supported The Beatles on the 1965 US tour? | Sounds Incorporated | The Shadows | The Tornados | The Dakotas | 1965 tour; Sounds Incorporated
+5 | band-members | Who told the promoter "at Shea Stadium I saw the top of the mountain"? | John Lennon | Paul McCartney | George Harrison | Brian Epstein | Shea Stadium; John Lennon
+5 | records | Which band broke The Beatles' US concert attendance record in Tampa in 1973? | Led Zeppelin | The Rolling Stones | The Who | Grateful Dead | Shea Stadium; Attendance record
+5 | live | Which two Rolling Stones were in the audience at Shea Stadium in 1965? | Mick Jagger and Keith Richards | Brian Jones and Bill Wyman | Charlie Watts and Bill Wyman | Mick Jagger and Brian Jones | Shea Stadium; The Rolling Stones
+5 | people | With which American songwriter did The Beatles spend the evening after the Shea Stadium concert? | Bob Dylan | Paul Simon | Brian Wilson | Roy Orbison | Shea Stadium; Bob Dylan
+3 | people | Which of their heroes did The Beatles meet at his Bel Air home on 27 August 1965? | Elvis Presley | Chuck Berry | Little Richard | Frank Sinatra | Elvis Presley; 1965 tour
+5 | places | In which part of Los Angeles did The Beatles rent a house during a break in the 1965 tour? | Benedict Canyon | Malibu | Laurel Canyon | Venice Beach | 1965 tour; Los Angeles
+5 | people | Which Help! co-star visited The Beatles at their rented Los Angeles house in 1965? | Eleanor Bron | Julie Christie | Rita Tushingham | Susannah York | 1965 tour; Eleanor Bron
+5 | people | Which poet wrote "Portland Coliseum" after seeing The Beatles there in 1965? | Allen Ginsberg | Lawrence Ferlinghetti | Gary Snyder | Gregory Corso | 1965 tour; Allen Ginsberg
+4 | albums | Which album did The Beatles begin recording in October 1965, after their US tour? | Rubber Soul | Help! | Revolver | Beatles for Sale | Rubber Soul; 1965 tour
+4 | albums | The 1977 live album The Beatles at the Hollywood Bowl draws mostly on concerts from which years? | 1964 and 1965 | 1962 and 1963 | 1966 and 1967 | 1968 and 1969 | The Beatles at the Hollywood Bowl
+4 | albums | In which year was the live album The Beatles at the Hollywood Bowl released? | 1977 | 1965 | 1970 | 1995 | The Beatles at the Hollywood Bowl
+5 | live | How long did The Beatles play at each show on the 1965 US tour? | About 30 minutes | About 10 minutes | About 75 minutes | About two hours | 1965 tour
+5 | live | Which amplifier maker built special 100-watt amplifiers for The Beatles' 1965 US tour? | Vox | Marshall | Fender | Selmer | 1965 tour; Vox
+5 | songs | Which Rubber Soul song did John Lennon base on a line from Elvis Presley's "Baby Let's Play House"? | Run for Your Life | Drive My Car | Girl | The Word | Run for Your Life; Elvis Presley
+5 | people | Who usually worked as The Beatles' chauffeur and travelled with them on the 1965 US tour? | Alf Bicknell | Les Anthony | Bill Corbett | Mal Evans | 1965 tour; Alf Bicknell
+5 | solo-years | In which year did Paul McCartney return to Shea Stadium to appear at Billy Joel's "Last Play at Shea"? | 2008 | 1990 | 1999 | 2015 | Shea Stadium; Paul McCartney
+5 | films-tv | On which British TV show did The Beatles play live from Blackpool on 1 August 1965, just before the US tour? | Blackpool Night Out | Sunday Night at the London Palladium | Thank Your Lucky Stars | Ready Steady Go! | Blackpool Night Out
+4 | solo-years | For which political party did George Harrison play a benefit concert in 1992? | The Natural Law Party | The Green Party | The Liberal Democrats | The Monster Raving Loony Party | George Harrison; Natural Law Party

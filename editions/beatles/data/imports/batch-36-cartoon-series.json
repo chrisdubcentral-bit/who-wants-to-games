@@ -1,0 +1,977 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "films-tv",
+    "difficulty": 1,
+    "question": "What kind of programme was The Beatles TV series first shown on ABC in 1965?",
+    "options": [
+      "An animated cartoon",
+      "A chat show",
+      "A quiz show",
+      "A puppet show"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "On which day of the week was the Beatles cartoon originally shown on ABC?",
+    "options": [
+      "Wednesday",
+      "Monday",
+      "Saturday",
+      "Friday"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "In the Beatles cartoon, what were the short segments showing a song's full lyrics with simpler pictures called?",
+    "options": [
+      "Sing-alongs",
+      "Karaoke breaks",
+      "Lyric loops",
+      "Music minutes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "Which wizard appears alongside King Arthur in the final episode of the Beatles cartoon?",
+    "options": [
+      "Merlin",
+      "Prospero",
+      "Rasputin",
+      "Gandalf"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "According to The Beatles Story, each episode of the Beatles cartoon featured at least how many Beatles songs?",
+    "options": [
+      "Two",
+      "Five",
+      "Ten",
+      "One"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "According to The Beatles Story, the success of which Beatles film inspired the cartoon series?",
+    "options": [
+      "A Hard Day's Night",
+      "Help!",
+      "Let It Be",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon",
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "How did The Beatles first react to their cartoon series?",
+    "options": [
+      "They dismissed it because of its poor quality",
+      "They asked to voice themselves",
+      "They tried to have it banned",
+      "They loved it straight away"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which Beatle said in 1972, \"I still get a blast out of watching the Beatles cartoons on TV\"?",
+    "options": [
+      "John Lennon",
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "The Beatles' low opinion of their cartoon series made them reluctant to take part in which later film?",
+    "options": [
+      "Let It Be",
+      "Yellow Submarine",
+      "Magical Mystery Tour",
+      "Help!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon",
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "In the first episode of the Beatles cartoon, the band spend a night in a haunted castle in which region?",
+    "options": [
+      "Transylvania",
+      "the Scottish Highlands",
+      "Cornwall",
+      "Bavaria"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "In the cartoon episode \"Do You Want to Know a Secret\", the Beatles meet a leprechaun on a trip to which city?",
+    "options": [
+      "Belfast",
+      "Dublin",
+      "Cork",
+      "Galway"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "In the cartoon episode \"Roll Over Beethoven\", what kind of animal called Beethoven grabs Paul?",
+    "options": [
+      "An elephant",
+      "A bear",
+      "A gorilla",
+      "A dog"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "In the cartoon episode \"Nowhere Man\", who do the Beatles meet living in a cave?",
+    "options": [
+      "A bear",
+      "A hermit",
+      "A pirate",
+      "A dragon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "At what time on Saturday mornings was the Beatles cartoon first shown on ABC?",
+    "options": [
+      "11:45 am",
+      "7:00 am",
+      "10:30 am",
+      "8:30 am"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In which year did the last new episode of the Beatles cartoon air on ABC?",
+    "options": [
+      "1969",
+      "1967",
+      "1965",
+      "1971"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which American company announced in November 1964 that it had the TV animation rights to The Beatles?",
+    "options": [
+      "Walt Disney Productions",
+      "King Features Syndicate",
+      "Hanna-Barbera",
+      "Filmation"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon",
+      "King Features Syndicate"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In which country were most episodes of the Beatles cartoon animated?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "Canada",
+      "Australia"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "George Dunning, a producer on the Beatles cartoon series, went on to direct which Beatles film?",
+    "options": [
+      "Help!",
+      "Let It Be",
+      "Magical Mystery Tour",
+      "Yellow Submarine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles cartoon",
+      "George Dunning",
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "According to The Beatles Story, roughly how long did each half-hour episode of the Beatles cartoon take to make?",
+    "options": [
+      "About a month",
+      "About a year",
+      "About a day",
+      "About a week"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "According to The Beatles Story, why were actors used for the Beatles' voices in the cartoon?",
+    "options": [
+      "Union rules banned the Beatles from it",
+      "The Beatles were paid too little to do it",
+      "The Beatles' record label forbade it",
+      "Young American viewers struggled with Liverpool accents"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Besides John and George, which real person from the Beatles' world did Paul Frees voice in the cartoon?",
+    "options": [
+      "Neil Aspinall",
+      "Derek Taylor",
+      "Brian Epstein",
+      "George Martin"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon",
+      "Paul Frees",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Besides Paul and Ringo, which American TV host did Lance Percival voice in the Beatles cartoon?",
+    "options": [
+      "Ed Sullivan",
+      "Dick Clark",
+      "Walter Cronkite",
+      "Johnny Carson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon",
+      "Lance Percival",
+      "Ed Sullivan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In 1999 George Harrison said the Beatles cartoons were \"so bad or silly\" that they were what?",
+    "options": [
+      "Forgettable",
+      "Embarrassing",
+      "Painful",
+      "Good"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles cartoon",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which cereal company was one of the sponsors of the Beatles cartoon?",
+    "options": [
+      "General Mills",
+      "Quaker Oats",
+      "Post",
+      "Kellogg's"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which song was the opening theme of the first season of the Beatles cartoon?",
+    "options": [
+      "I Want to Hold Your Hand",
+      "Help!",
+      "Can't Buy Me Love",
+      "She Loves You"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon",
+      "Can't Buy Me Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which song was the opening theme of the second season of the Beatles cartoon?",
+    "options": [
+      "Day Tripper",
+      "Eight Days a Week",
+      "Ticket to Ride",
+      "Help!"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles cartoon",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "The Beatles cartoon borrowed the fast-cutting style of which film director?",
+    "options": [
+      "Richard Lester",
+      "Michael Lindsay-Hogg",
+      "Stanley Kubrick",
+      "Ken Russell"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon",
+      "Richard Lester"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "On which channel did the Beatles cartoon first air in the UK?",
+    "options": [
+      "BBC One",
+      "BBC Two",
+      "ITV",
+      "Channel 4"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In which year was the Beatles cartoon first shown in the UK?",
+    "options": [
+      "1965",
+      "1984",
+      "1968",
+      "1976"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which company bought the rights to the Beatles cartoon series in the early 1990s?",
+    "options": [
+      "EMI",
+      "Sony",
+      "Apple Corps",
+      "Disney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon",
+      "Apple Corps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In the cartoon episode \"Penny Lane\", what is the name of the detective in its James Bond spoof?",
+    "options": [
+      "James Bland",
+      "James Blonde",
+      "Jim Bondage",
+      "Jack Bondo"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon",
+      "Penny Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which legendary outlaw appears in a dream sequence in the Beatles cartoon episode \"Taxman\"?",
+    "options": [
+      "Dick Turpin",
+      "Jesse James",
+      "Robin Hood",
+      "Ned Kelly"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon",
+      "Taxman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In the cartoon episode \"Don't Bother Me\", what top-secret item are spies chasing?",
+    "options": [
+      "Ringo's passport",
+      "A stolen recording tape",
+      "A songbook of new Beatles songs",
+      "A golden guitar"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Most episodes of the Beatles cartoon were made at Artransa Park Film Studios in which city?",
+    "options": [
+      "Sydney",
+      "Brisbane",
+      "Perth",
+      "Melbourne"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which London animation studio, run by George Dunning, made episodes of the Beatles cartoon?",
+    "options": [
+      "Halas and Batchelor",
+      "TVC",
+      "Cosgrove Hall",
+      "Aardman"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon",
+      "George Dunning"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "According to The Beatles Story, who drew the original character designs for the Beatles cartoon?",
+    "options": [
+      "Klaus Voormann",
+      "Heinz Edelmann",
+      "Peter Sander",
+      "Alan Aldridge"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Lance Percival, a voice of the Beatles cartoon, voiced which character in Yellow Submarine?",
+    "options": [
+      "Max",
+      "Jeremy Hillary Boob",
+      "Old Fred",
+      "The Chief Blue Meanie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon",
+      "Lance Percival",
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "The first season of the Beatles cartoon earned what record share of the Saturday morning audience?",
+    "options": [
+      "87",
+      "25",
+      "12",
+      "52"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Ratings for the Beatles cartoon began to slip when it was shown opposite the premiere of which cartoon?",
+    "options": [
+      "Underdog",
+      "Space Ghost",
+      "The Jetsons",
+      "The Flintstones"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which song was the opening theme of the third season of the Beatles cartoon?",
+    "options": [
+      "And Your Bird Can Sing",
+      "Taxman",
+      "Penny Lane",
+      "Paperback Writer"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon",
+      "And Your Bird Can Sing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "What was the latest Beatles album to have its songs used in the Beatles cartoon?",
+    "options": [
+      "Magical Mystery Tour",
+      "Revolver",
+      "Rubber Soul",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Until which year did ABC keep showing reruns of the Beatles cartoon?",
+    "options": [
+      "1972",
+      "1967",
+      "1969",
+      "1975"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which Star Wars actor guest-hosted MTV's reruns of the Beatles cartoon in 1987?",
+    "options": [
+      "Mark Hamill",
+      "Harrison Ford",
+      "Billy Dee Williams",
+      "Carrie Fisher"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon",
+      "Mark Hamill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which channel showed the Beatles cartoon on Friday afternoons from 1989?",
+    "options": [
+      "The Disney Channel",
+      "Showtime",
+      "HBO",
+      "Nickelodeon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "In the cartoon episode \"Please Mister Postman\", how many rings does Ringo lose?",
+    "options": [
+      "100",
+      "4",
+      "7",
+      "15"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "In the cartoon episode \"Not a Second Time\", what is the name of the donkey that can smell gold?",
+    "options": [
+      "Goldfinger",
+      "Nugget",
+      "Gold Nose",
+      "Midas"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "In the cartoon episode \"Little Child\", the Beatles are given a golden guitar by the mayor of a town in which state?",
+    "options": [
+      "Tennessee",
+      "Arizona",
+      "California",
+      "Texas"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which toy maker released figures of the cartoon Beatles in December 2004?",
+    "options": [
+      "Mattel",
+      "McFarlane Toys",
+      "Hasbro",
+      "Funko"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which Japanese company made the 70cm Kubrick figures of the cartoon Beatles shown at The Beatles Story?",
+    "options": [
+      "Sanrio",
+      "MediCom Toy",
+      "Bandai",
+      "Tomy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon",
+      "The Beatles Story"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Producer Al Brodax also planned cartoon series, never made, about Freddie and the Dreamers and which other band?",
+    "options": [
+      "The Kinks",
+      "Herman's Hermits",
+      "The Rolling Stones",
+      "The Who"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles cartoon",
+      "Al Brodax"
+    ],
+    "source": "manual"
+  }
+]

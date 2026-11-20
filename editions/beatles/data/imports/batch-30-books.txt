@@ -1,0 +1,103 @@
+# Beatles books. Sources: everyrecordtellsastory.com "The Best Beatles Books" and Goldmine "The 10 essential Beatles books" (Gillian G. Gaar, 2025).
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | books | Who wrote the authorised biography of The Beatles published in 1968? | Hunter Davies | Philip Norman | Mark Lewisohn | Bob Spitz | Hunter Davies; Authorised biography
+3 | books | For which newspaper was Hunter Davies a columnist when he proposed writing The Beatles' authorised biography? | The Sunday Times | The Observer | Daily Mirror | Evening Standard | Hunter Davies
+4 | books | Which Beatle had Hunter Davies interviewed for his newspaper before writing the authorised biography? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Hunter Davies
+4 | books | With whom did Hunter Davies agree the deal to write The Beatles' authorised biography? | Brian Epstein | George Martin | Neil Aspinall | Allen Klein | Hunter Davies; Brian Epstein
+5 | books | What share of the proceeds from the 1968 authorised biography went to Hunter Davies? | Two-thirds | One-third | Half | All of it | Hunter Davies
+4 | books | Which Beatle later complained that Hunter Davies's authorised biography was a "whitewash"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Hunter Davies; John Lennon
+5 | books | According to Goldmine, which later edition of Hunter Davies's Beatles biography is the best? | The 1985 edition | The 1978 edition | The 2002 edition | The 2009 edition | Hunter Davies
+3 | books | Who wrote You Never Give Me Your Money, a 2009 book about The Beatles' break-up? | Peter Doggett | Philip Norman | Ian MacDonald | Jonathan Gould | Peter Doggett; You Never Give Me Your Money
+4 | books | Peter Doggett's 2009 book on The Beatles' split takes its title from a song on which album? | Abbey Road | Let It Be | The White Album | Revolver | Peter Doggett; Abbey Road
+4 | books | At which magazine did author Peter Doggett start his career? | Record Collector | NME | Melody Maker | Mojo | Peter Doggett
+5 | books | Under which pseudonym did Peter Doggett write The Complete Guide to the Music of The Beatles? | John Robertson | John Robinson | Peter Roberts | Paul Robertson | Peter Doggett; John Robertson
+4 | books | Which businessman features heavily alongside John and Paul in Peter Doggett's account of the break-up? | Allen Klein | Brian Epstein | Dick James | Lew Grade | Peter Doggett; Allen Klein
+2 | books | What is the title of the first volume of Mark Lewisohn's Beatles trilogy, published in 2013? | Tune In | Turn On | Get Back | Shout! | Mark Lewisohn; Tune In
+3 | books | What is the overall title of Mark Lewisohn's planned Beatles trilogy? | All These Years | All Those Years Ago | Here, There and Everywhere | The Long and Winding Road | Mark Lewisohn; All These Years
+3 | books | Up to the end of which year does the first volume of Mark Lewisohn's trilogy, Tune In, take the story? | 1962 | 1957 | 1964 | 1966 | Mark Lewisohn; Tune In
+4 | books | How many volumes is Mark Lewisohn's All These Years biography planned to have? | Three | Two | Five | Ten | Mark Lewisohn
+4 | books | According to Goldmine, how much longer is the expanded edition of Tune In than the standard one? | Twice as long | A third longer | Three times as long | Five times as long | Mark Lewisohn; Tune In
+4 | books | About how many pages long is the expanded edition of Mark Lewisohn's Tune In? | Over 1,700 | About 300 | About 600 | Over 5,000 | Mark Lewisohn; Tune In
+3 | books | Which 1992 Mark Lewisohn reference book gives a day-by-day account of The Beatles' career? | The Complete Beatles Chronicle | Revolution in the Head | A Hard Day's Write | The Beatles Forever | Mark Lewisohn; Complete Beatles Chronicle
+4 | books | Which Mark Lewisohn book of 1988 details every Beatles session at Abbey Road? | The Complete Beatles Recording Sessions | The Beatles Live | Tune In | The Unreleased Beatles | Mark Lewisohn; Recording Sessions
+4 | books | Which 1986 Mark Lewisohn book was folded into The Complete Beatles Chronicle? | The Beatles Live | The Beatles Day by Day | Tune In | Beatles for Sale | Mark Lewisohn; The Beatles Live
+4 | books | For which Beatle did Mark Lewisohn work for a while, sorting his archives? | Paul McCartney | Ringo Starr | George Harrison | Yoko Ono | Mark Lewisohn; Paul McCartney
+2 | books | Which Beatle's life is told in Barry Miles's 1997 book Many Years from Now? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Many Years from Now; Barry Miles
+3 | books | Who wrote Many Years from Now, Paul McCartney's authorised biography? | Barry Miles | Hunter Davies | Philip Norman | Howard Sounes | Many Years from Now; Barry Miles
+4 | books | Which London bookshop and gallery had Barry Miles co-founded? | Indica | Better Books | Compendium | Signals | Barry Miles; Indica
+4 | books | According to the Every Record Tells a Story list, which myth did Many Years from Now dispel? | That John was the avant-garde Beatle | That Paul wrote "Yesterday" alone | That Ringo nearly left in 1964 | That George hated touring | Many Years from Now
+4 | books | Goldmine suggests Many Years from Now was partly a response to John Lennon's long interviews in which two magazines? | Rolling Stone and Playboy | Time and Life | NME and Melody Maker | Newsweek and Esquire | Many Years from Now
+3 | books | In which year was the big Beatles Anthology book published? | 2000 | 1995 | 1988 | 2010 | Anthology book
+4 | books | According to Goldmine, how many pages of commentary does the Beatles Anthology book contain? | 357 | 120 | 600 | 1,000 | Anthology book
+4 | books | About how many hours long is the complete Beatles Anthology documentary series? | 11 | 3 | 6 | 24 | Anthology
+4 | books | Which longtime Beatle aide is among the insiders quoted in the Anthology book? | Neil Aspinall | Allen Klein | Dick James | Larry Parnes | Anthology book; Neil Aspinall
+3 | books | The 2021 book The Beatles: Get Back accompanies whose documentary series? | Peter Jackson's | Ron Howard's | Martin Scorsese's | Michael Lindsay-Hogg's | The Beatles: Get Back; Peter Jackson
+4 | books | Which month and year of sessions does the book The Beatles: Get Back cover? | January 1969 | June 1967 | May 1968 | August 1969 | The Beatles: Get Back
+5 | books | In The Beatles: Get Back, which Beatle says on the third day, "I think we should forget the whole idea of this show"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | The Beatles: Get Back; George Harrison
+4 | books | Besides "Get Back", which song's creation is followed step by step in the book The Beatles: Get Back? | Two of Us | Something | Here Comes the Sun | Hey Jude | The Beatles: Get Back
+3 | books | Who wrote "Love Me Do!": The Beatles' Progress, published in 1964? | Michael Braun | Hunter Davies | Derek Taylor | Larry Kane | Michael Braun; Love Me Do!
+3 | books | What nationality was Michael Braun, author of "Love Me Do!": The Beatles' Progress? | American | Australian | Canadian | Irish | Michael Braun
+4 | books | Goldmine calls which 1964 book "the first intelligently written book about The Beatles"? | "Love Me Do!": The Beatles' Progress | A Cellarful of Noise | The True Story of the Beatles | Beatles Monthly Annual | Michael Braun
+4 | books | Which Beatle said Michael Braun "wrote how we were, which was bastards"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Michael Braun; John Lennon
+5 | books | Michael Braun's book follows The Beatles from Cambridge to which New York concert hall? | Carnegie Hall | Madison Square Garden | Radio City Music Hall | The Apollo | Michael Braun
+5 | books | Which BBC record review programme appears in Michael Braun's account of the early Beatles? | Juke Box Jury | Top of the Pops | Ready Steady Go! | The Old Grey Whistle Test | Michael Braun
+4 | books | Who wrote The Beatles Are Coming!, about the birth of Beatlemania in America? | Bruce Spizer | Bob Spitz | Jonathan Gould | Larry Kane | Bruce Spizer
+5 | books | In which year was Bruce Spizer's The Beatles Are Coming! published? | 2003 | 1984 | 1994 | 2014 | Bruce Spizer
+5 | books | Bruce Spizer's The Beatles Are Coming! starts with the US release of which single in February 1963, which failed to chart? | Please Please Me | Love Me Do | From Me to You | She Loves You | Bruce Spizer; Please Please Me
+5 | books | Bruce Spizer's book ends with The Beatles receiving gold records at which New York hotel? | The Plaza | The Waldorf Astoria | The Delmonico | The Warwick | Bruce Spizer; Plaza Hotel
+4 | books | Who wrote Those Were the Days, a history of The Beatles' Apple organisation? | Stefan Granados | Peter Doggett | Richard DiLello | Peter Brown | Stefan Granados; Apple
+5 | books | In which year was the first edition of Stefan Granados's Those Were the Days published? | 2001 | 1981 | 1991 | 2011 | Stefan Granados
+5 | books | In which year was the updated Those Were the Days 2.0 published? | 2021 | 2005 | 2011 | 2016 | Stefan Granados
+5 | books | Which composer of choral music released records on Apple, as covered in Those Were the Days 2.0? | John Tavener | John Rutter | Michael Nyman | Gavin Bryars | Apple Records; John Tavener
+5 | books | Which devotional group had records on Apple, as covered by Stefan Granados? | The Radha Krishna Temple | The Hare Krishna Choir | The Golden Temple Singers | The Bhakti Ensemble | Apple Records; Radha Krishna Temple
+5 | books | Which singer of "Just One Look" also recorded for Apple, as noted in Those Were the Days 2.0? | Doris Troy | Dionne Warwick | Mary Wells | Darlene Love | Apple Records; Doris Troy
+4 | books | Which other book about Apple, besides The Longest Cocktail Party, does Goldmine recommend? | Apple to the Core | The Apple Scruffs | The Love You Make | As Time Goes By | Apple
+3 | books | In which year was John Robertson's The Complete Guide to the Music of The Beatles published? | 1994 | 1974 | 1984 | 2004 | Complete Guide to the Music of The Beatles
+4 | books | Who wrote Volume 2 of The Complete Guide to the Music of The Beatles in 1998? | Patrick Humphries | Peter Doggett | Mark Lewisohn | Steve Turner | Patrick Humphries
+3 | books | Who wrote A Hard Day's Write: The Stories Behind Every Beatles Song? | Steve Turner | Ian MacDonald | Barry Miles | John Robertson | Steve Turner; A Hard Day's Write
+4 | books | Steve Turner's A Hard Day's Write revealed the newspaper story behind which Beatles song? | She's Leaving Home | A Day in the Life | Eleanor Rigby | Paperback Writer | Steve Turner; She's Leaving Home
+5 | books | What was the name of the 17-year-old runaway whose story lay behind "She's Leaving Home"? | Melanie Coe | Prudence Farrow | Rita Jones | Lucy O'Donnell | She's Leaving Home; Melanie Coe
+5 | books | Why did Goldmine prefer John Robertson's guide to Steve Turner's A Hard Day's Write? | It covers every song the group recorded | It has more photographs | It was written by a Beatle | It includes sheet music | Steve Turner; John Robertson
+3 | books | Who wrote Revolution in the Head, which analyses every Beatles recording? | Ian MacDonald | Steve Turner | Mark Lewisohn | Philip Norman | Ian MacDonald; Revolution in the Head
+4 | books | In which year was Ian MacDonald's Revolution in the Head first published? | 1994 | 1981 | 1988 | 2002 | Revolution in the Head
+2 | books | Who wrote Shout!, the 1981 biography of The Beatles? | Philip Norman | Hunter Davies | Bob Spitz | Peter Brown | Philip Norman; Shout!
+4 | books | Philip Norman later admitted to which bias when writing Shout!? | A pro-Lennon bias | A pro-McCartney bias | A pro-Epstein bias | An anti-Harrison bias | Philip Norman; Shout!
+4 | books | Shout! was published less than a year after which event? | The death of John Lennon | The release of Abbey Road | The death of Brian Epstein | The Anthology series | Philip Norman; Shout!
+3 | books | Who wrote the 1964 Brian Epstein memoir A Cellarful of Noise for him? | Derek Taylor | Tony Barrow | Hunter Davies | Alistair Taylor | A Cellarful of Noise; Derek Taylor
+4 | books | What is the title of Derek Taylor's 1973 book of memories of the sixties? | As Time Goes By | Fifty Years Adrift | It Was Twenty Years Ago Today | The Longest Cocktail Party | Derek Taylor; As Time Goes By
+4 | books | For about how many years was Derek Taylor The Beatles' press agent, according to the Every Record Tells a Story list? | Six | Two | Twelve | Twenty | Derek Taylor
+3 | books | Which 1971 book by Jann Wenner presents John Lennon's frank interview about his Beatles years? | Lennon Remembers | Skywriting by Word of Mouth | In His Own Write | All We Are Saying | Lennon Remembers; Jann Wenner
+4 | books | Jann Wenner, author of Lennon Remembers, founded which magazine? | Rolling Stone | Creem | Crawdaddy | Mojo | Jann Wenner; Rolling Stone
+4 | books | Who compiled The Playboy Interviews with John Lennon and Yoko Ono? | David Sheff | Jann Wenner | Ray Connolly | Andy Peebles | David Sheff; Playboy interview
+4 | books | In which month and year did John Lennon and Yoko Ono give the Playboy interviews collected by David Sheff? | September 1980 | December 1970 | June 1975 | January 1969 | David Sheff; Playboy interview
+4 | books | What did the Playboy interviews with John Lennon end with? | A song-by-song account of who wrote what | A tour diary | A list of his favourite records | A short story | David Sheff; Playboy interview
+4 | books | Who wrote The Longest Cocktail Party, a funny account of life at Apple? | Richard DiLello | Peter Brown | Derek Taylor | Tony Bramwell | Richard DiLello; The Longest Cocktail Party
+5 | books | What was Richard DiLello's nickname at Apple? | The House Hippie | The Office Beatnik | The Teaboy | The Scruff | Richard DiLello
+5 | books | Which Oasis singer reportedly wanted to make The Longest Cocktail Party into a film? | Liam Gallagher | Noel Gallagher | Paul Arthurs | Andy Bell | The Longest Cocktail Party; Liam Gallagher
+4 | books | In which year was The Longest Cocktail Party published? | 1972 | 1968 | 1980 | 1995 | The Longest Cocktail Party
+5 | books | Which Richard Williams book of 1972 covers the producer who finished Let It Be? | Out of His Head: The Sound of Phil Spector | Wall of Sound | He's a Rebel | Tearing Down the Wall | Phil Spector; Richard Williams
+4 | books | Which 1970 book by Jonathan Cott and David Dalton was released as part of the Let It Be album package? | The Beatles Get Back | Let It Be: The Book | Twickenham Diaries | Apple Days | The Beatles Get Back; Let It Be
+4 | books | Who wrote The Beatles: An Illustrated Record with Roy Carr in 1975? | Tony Tyler | Nick Kent | Charles Shaar Murray | Mick Farren | The Beatles: An Illustrated Record
+4 | books | Who wrote The Beatles Forever, published in 1977? | Nicholas Schaffner | Nicholas Roeg | Nick Logan | Neil Spencer | The Beatles Forever; Nicholas Schaffner
+5 | books | About how many pictures are in Nicholas Schaffner's The Beatles Forever? | Over 400 | About 50 | About 150 | Over 2,000 | The Beatles Forever
+5 | books | The Beatles Forever includes a photo of George Harrison playing which board game? | Monopoly | Scrabble | Chess | Cluedo | The Beatles Forever; George Harrison
+3 | books | Which former Beatles assistant co-wrote The Love You Make with Steven Gaines in 1983? | Peter Brown | Alistair Taylor | Neil Aspinall | Tony Barrow | The Love You Make; Peter Brown
+4 | books | Who was co-author of The Love You Make with Peter Brown? | Steven Gaines | Albert Goldman | Ray Coleman | Chet Flippo | The Love You Make
+5 | books | Which former Lennon assistant wrote The Last Days of John Lennon? | Frederic Seaman | May Pang | Elliot Mintz | David Sheff | Frederic Seaman
+5 | books | In which year was Frederic Seaman's The Last Days of John Lennon published? | 1991 | 1981 | 1985 | 2001 | Frederic Seaman
+4 | books | Which George Martin book about the making of Sgt. Pepper is also known as "Summer of Love"? | With a Little Help from My Friends | All You Need Is Ears | Making Music | Playback | George Martin; Sgt. Pepper
+5 | books | With which co-author did George Martin write With a Little Help from My Friends? | William Pearson | Jeremy Hornsby | Howard Massey | Mark Lewisohn | George Martin; William Pearson
+5 | books | Which book by Alex Constantine includes a chapter on the FBI spying on John Lennon? | The Covert War Against Rock | The Lennon Files | Come Together | Gimme Some Truth | Alex Constantine; John Lennon
+4 | books | Which reporter wrote Ticket to Ride, about the Beatles' 1964 and 1965 American tours? | Larry Kane | Al Aronowitz | Ivor Davis | Art Unger | Larry Kane; Ticket to Ride
+5 | books | Which Hollywood actress features in a mystery involving John Lennon in Larry Kane's Ticket to Ride? | Jayne Mansfield | Marilyn Monroe | Natalie Wood | Kim Novak | Larry Kane
+5 | books | Who wrote Magic Circle: The Beatles in Dream and History, a book of essays? | Devin McKinney | Ian MacDonald | Greil Marcus | Rob Sheffield | Devin McKinney
+3 | books | What is the title of Cynthia Lennon's 2005 book about her life with John? | John | Imagine | A Twist of Lennon | Loving John | Cynthia Lennon; John
+4 | books | Which childhood friend of George Harrison wrote Magical Mystery Tours: My Life with the Beatles? | Tony Bramwell | Pete Shotton | Arthur Kelly | Neil Aspinall | Tony Bramwell; Magical Mystery Tours
+5 | books | How did Tony Bramwell first get into a Beatles show for free, according to his book? | By carrying George's guitar in | By climbing through a window | By pretending to be a reporter | By working the lights | Tony Bramwell
+3 | books | What is the title of engineer Geoff Emerick's 2006 memoir? | Here, There and Everywhere | All You Need Is Ears | Sound Man | Behind the Glass | Geoff Emerick
+4 | books | Who wrote The Beatles: The Biography, a huge book covering the whole story? | Bob Spitz | Philip Norman | Jonathan Gould | Bruce Spizer | Bob Spitz
+5 | books | Who wrote The Unreleased Beatles: Music and Film, a reference book of unissued recordings? | Richie Unterberger | Mark Lewisohn | Doug Sulpy | Allan Kozinn | Richie Unterberger
+4 | books | Which 2007 book by Jonathan Gould shares its title with a 1964 Beatles hit? | Can't Buy Me Love | Ticket to Ride | Help! | All My Loving | Jonathan Gould; Can't Buy Me Love
+5 | books | Which Finnish artist made Beatles with an A, a factual and funny comic about the band? | Mauri Kunnas | Tove Jansson | Hergé | Mauri Lindqvist | Beatles with an A; Mauri Kunnas
+4 | books | According to the Every Record Tells a Story list, roughly how many books in the British Library mention The Beatles? | Over 89,000 | About 900 | About 9,000 | Over a million | Beatles books
+4 | books | Who wrote Goldmine's 2025 list of the ten essential Beatles books? | Gillian G. Gaar | Bruce Spizer | Mark Lewisohn | Rob Sheffield | Goldmine; Gillian G. Gaar

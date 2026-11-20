@@ -80,12 +80,12 @@
   --btn-bg: linear-gradient(180deg, var(--gold-bright), var(--gold));
   --btn-border: var(--gold-bright);
   --btn-color: #1a1406;
-  box-shadow: 0 6px 24px rgba(199, 164, 90, 0.25);
+  box-shadow: 0 6px 24px rgba(var(--gold-rgb), 0.25);
 }
 .btn-primary:hover:not(:disabled) {
   background: linear-gradient(180deg, #ecd394, var(--gold-bright));
   border-color: #f0dca4;
-  box-shadow: 0 8px 30px rgba(224, 194, 122, 0.38);
+  box-shadow: 0 8px 30px rgba(var(--gold-bright-rgb), 0.38);
 }
 .btn-emerald {
   --btn-bg: linear-gradient(180deg, var(--emerald-bright), var(--emerald));
@@ -101,7 +101,7 @@
 }
 .btn-gold-outline:hover:not(:disabled) {
   border-color: var(--gold-bright);
-  background: rgba(199, 164, 90, 0.08);
+  background: rgba(var(--gold-rgb), 0.08);
   box-shadow: var(--glow-gold);
 }
 .btn-danger {
@@ -149,8 +149,8 @@
   background: rgba(255,255,255,0.03);
   white-space: nowrap;
 }
-.badge-gold { color: var(--gold-bright); border-color: rgba(199,164,90,0.5); background: rgba(199,164,90,0.08); }
-.badge-emerald { color: #7fd8b0; border-color: rgba(31,138,98,0.6); background: rgba(31,138,98,0.12); }
+.badge-gold { color: var(--gold-bright); border-color: rgba(var(--gold-rgb), 0.5); background: rgba(var(--gold-rgb), 0.08); }
+.badge-emerald { color: #7fd8b0; border-color: rgba(var(--emerald-bright-rgb), 0.6); background: rgba(var(--emerald-bright-rgb), 0.12); }
 .badge-danger { color: #f3a3a3; border-color: rgba(224,78,78,0.55); background: rgba(224,78,78,0.1); }
 
 /* ---------- Form controls ---------- */
@@ -183,7 +183,7 @@
 .input:focus, .select:focus, .textarea:focus {
   outline: none;
   border-color: var(--gold);
-  box-shadow: 0 0 0 3px rgba(199, 164, 90, 0.18);
+  box-shadow: 0 0 0 3px rgba(var(--gold-rgb), 0.18);
 }
 .input.is-invalid, .textarea.is-invalid, .select.is-invalid { border-color: var(--danger); }
 .field-error { color: #f3a3a3; font-size: var(--fs-xs); }
@@ -235,7 +235,7 @@
 }
 .toast.is-success { border-color: rgba(62, 183, 106, 0.6); }
 .toast.is-danger { border-color: rgba(224, 78, 78, 0.6); }
-.toast.is-gold { border-color: rgba(199, 164, 90, 0.7); }
+.toast.is-gold { border-color: rgba(var(--gold-rgb), 0.7); }
 .toast button {
   background: none; border: 0; padding: 4px 6px;
   color: var(--gold-bright);

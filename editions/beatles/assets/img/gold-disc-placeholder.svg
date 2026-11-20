@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" role="img" aria-label="Framed gold disc">
+  <defs>
+    <linearGradient id="gd-frame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F6E2A6"/><stop offset="0.5" stop-color="#C7A45A"/><stop offset="1" stop-color="#8F6F2C"/>
+    </linearGradient>
+    <radialGradient id="gd-disc" cx="0.38" cy="0.32" r="0.8">
+      <stop offset="0" stop-color="#FFF3CF"/><stop offset="0.45" stop-color="#E0C27A"/><stop offset="1" stop-color="#9A7830"/>
+    </radialGradient>
+  </defs>
+  <!-- Frame and mount -->
+  <rect x="6" y="6" width="188" height="228" rx="8" fill="url(#gd-frame)"/>
+  <rect x="18" y="18" width="164" height="204" rx="4" fill="#0B1712"/>
+  <!-- Disc -->
+  <circle cx="100" cy="98" r="68" fill="url(#gd-disc)"/>
+  <g fill="none" stroke="#7A5E22" stroke-opacity="0.45">
+    <circle cx="100" cy="98" r="60"/><circle cx="100" cy="98" r="52"/><circle cx="100" cy="98" r="44"/><circle cx="100" cy="98" r="36"/>
+  </g>
+  <circle cx="100" cy="98" r="24" fill="#0B1712" stroke="#F6E2A6" stroke-width="1.5"/>
+  <circle cx="100" cy="98" r="4" fill="#E0C27A"/>
+  <!-- Plaque -->
+  <rect x="52" y="182" width="96" height="26" rx="3" fill="url(#gd-frame)"/>
+  <rect x="62" y="190" width="76" height="3" rx="1.5" fill="#1A1405" fill-opacity="0.6"/>
+  <rect x="72" y="198" width="56" height="3" rx="1.5" fill="#1A1405" fill-opacity="0.45"/>
+</svg>

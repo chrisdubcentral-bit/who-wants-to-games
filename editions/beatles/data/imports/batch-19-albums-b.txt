@@ -1,0 +1,90 @@
+# Beatles albums, part B (Sgt. Pepper to Let It Be). Source: Wikipedia album articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | albums | Which Beatles album features a fictional band in colourful military-style uniforms on its cover? | Sgt. Pepper's Lonely Hearts Club Band | Abbey Road | Revolver | Let It Be | Sgt. Pepper
+2 | albums | In which year was Sgt. Pepper's Lonely Hearts Club Band released? | 1967 | 1965 | 1966 | 1969 | Sgt. Pepper
+2 | albums | Sgt. Pepper was The Beatles' studio album of which number? | Eighth | Sixth | Seventh | Tenth | Sgt. Pepper
+3 | albums | Whose idea was the Sgt. Pepper concept of The Beatles playing as another band? | Paul McCartney | John Lennon | George Martin | Brian Epstein | Sgt. Pepper; Paul McCartney
+3 | albums | Which two songs recorded early in the Sgt. Pepper sessions were released as a single and left off the album? | Strawberry Fields Forever and Penny Lane | Paperback Writer and Rain | Hello, Goodbye and I Am the Walrus | Lady Madonna and The Inner Light | Sgt. Pepper; Penny Lane
+4 | in-the-studio | On which date in 1966 did the Sgt. Pepper sessions begin? | 24 November | 6 April | 29 August | 1 January | Sgt. Pepper
+4 | in-the-studio | On which date in 1967 was recording of Sgt. Pepper completed? | 21 April | 1 January | 1 June | 25 June | Sgt. Pepper
+4 | people | Which engineer worked alongside George Martin on Sgt. Pepper? | Geoff Emerick | Norman Smith | Glyn Johns | Ken Scott | Sgt. Pepper; Geoff Emerick
+3 | albums | Which song is the third track on Sgt. Pepper? | Lucy in the Sky with Diamonds | Getting Better | Fixing a Hole | She's Leaving Home | Sgt. Pepper
+3 | albums | Which song closes side one of Sgt. Pepper? | Being for the Benefit of Mr. Kite! | She's Leaving Home | Fixing a Hole | Getting Better | Sgt. Pepper
+3 | albums | Which George Harrison song opens side two of Sgt. Pepper? | Within You Without You | Love You To | Blue Jay Way | It's All Too Much | Sgt. Pepper; Within You Without You
+4 | albums | Which song comes immediately before the Sgt. Pepper reprise on side two? | Good Morning Good Morning | Lovely Rita | When I'm Sixty-Four | Within You Without You | Sgt. Pepper
+4 | albums | Which song is the fourth track on Sgt. Pepper? | Getting Better | Fixing a Hole | She's Leaving Home | Lovely Rita | Sgt. Pepper
+3 | albums | How many songs are on Sgt. Pepper, counting the reprise? | 13 | 10 | 14 | 17 | Sgt. Pepper
+4 | albums | The idea for the Sgt. Pepper band came to Paul McCartney on a flight home in which month of 1966? | November | January | May | August | Sgt. Pepper; Paul McCartney
+3 | albums | Sgt. Pepper is often described as an early example of which kind of album? | A concept album | A live album | A tribute album | A charity album | Sgt. Pepper
+2 | albums | Magical Mystery Tour was the soundtrack to what? | A television film | A stage musical | A cartoon series | A radio play | Magical Mystery Tour
+3 | albums | On which date was the Magical Mystery Tour double EP released in the UK? | 8 December 1967 | 1 June 1967 | 22 November 1968 | 17 January 1969 | Magical Mystery Tour
+3 | albums | How many songs are on the British Magical Mystery Tour double EP? | Six | Two | Four | Eleven | Magical Mystery Tour
+3 | albums | How many tracks are on the American Magical Mystery Tour LP? | Eleven | Six | Fourteen | Twenty | Magical Mystery Tour
+4 | albums | In which year was the Magical Mystery Tour LP finally released in Britain? | 1976 | 1968 | 1970 | 1987 | Magical Mystery Tour
+4 | albums | What came with the Magical Mystery Tour record as a bonus? | A 24-page booklet | A cut-out moustache | A poster of the bus | A flexi-disc interview | Magical Mystery Tour
+4 | albums | Which song closes the American Magical Mystery Tour LP? | All You Need Is Love | I Am the Walrus | Penny Lane | Hello, Goodbye | Magical Mystery Tour
+4 | albums | Which song opens side two of the American Magical Mystery Tour LP? | Hello, Goodbye | Strawberry Fields Forever | Penny Lane | I Am the Walrus | Magical Mystery Tour
+4 | albums | For how many weeks did the Magical Mystery Tour album top the US Billboard LP chart? | Eight | One | Three | Fifteen | Magical Mystery Tour
+5 | albums | Which song kept the Magical Mystery Tour EP at number two on the UK singles chart? | Hello, Goodbye | Lady Madonna | All You Need Is Love | Hey Jude | Magical Mystery Tour; Hello, Goodbye
+5 | people | Which cartoonist drew the story illustrations in the Magical Mystery Tour booklet? | Bob Gibson | Alan Aldridge | Heinz Edelmann | Gerald Scarfe | Magical Mystery Tour; Bob Gibson
+5 | albums | Which song is the only track on side two of the British Magical Mystery Tour double EP? | I Am the Walrus | Blue Jay Way | Flying | Your Mother Should Know | Magical Mystery Tour; I Am the Walrus
+1 | albums | What is the official title of the record known as the "White Album"? | The Beatles | White | Snow | The Fab Four | White Album
+2 | albums | In which year was the White Album released? | 1968 | 1966 | 1967 | 1970 | White Album
+3 | albums | On which date was the White Album released? | 22 November 1968 | 26 May 1967 | 26 September 1969 | 8 May 1970 | White Album
+2 | albums | How many songs are on the White Album? | 30 | 14 | 20 | 40 | White Album
+2 | albums | The White Album is the only Beatles studio album to be what? | A double album | Recorded live | Entirely instrumental | Released only in America | White Album
+3 | albums | The White Album was the first Beatles album released on which label? | Apple | Parlophone | Capitol | EMI Harvest | White Album; Apple Records
+3 | albums | The White Album was The Beatles' studio album of which number? | Ninth | Seventh | Eighth | Eleventh | White Album
+4 | people | Which engineer walked out on The Beatles during the White Album sessions? | Geoff Emerick | Ken Scott | Chris Thomas | Glyn Johns | White Album; Geoff Emerick
+4 | albums | How many of the White Album's songs were written in India? | 19 | 5 | 10 | 30 | White Album; India
+3 | albums | Which song is the second track on the White Album? | Dear Prudence | Glass Onion | Ob-La-Di, Ob-La-Da | Blackbird | White Album; Dear Prudence
+3 | albums | Which song closes side one of the White Album? | Happiness Is a Warm Gun | While My Guitar Gently Weeps | Glass Onion | Ob-La-Di, Ob-La-Da | White Album
+3 | albums | Which song opens side two of the White Album? | Martha My Dear | Blackbird | I'm So Tired | Piggies | White Album; Martha My Dear
+3 | albums | Which song opens side three of the White Album? | Birthday | Yer Blues | Helter Skelter | Sexy Sadie | White Album; Birthday
+3 | albums | Which song opens side four of the White Album? | Revolution 1 | Revolution 9 | Honey Pie | Savoy Truffle | White Album; Revolution 1
+4 | albums | Which song closes side three of the White Album? | Long, Long, Long | Helter Skelter | Sexy Sadie | Yer Blues | White Album
+4 | albums | Which song closes side two of the White Album? | Julia | I Will | Blackbird | Rocky Raccoon | White Album; Julia
+4 | albums | Which song comes directly before "Good Night" on the White Album? | Revolution 9 | Cry Baby Cry | Savoy Truffle | Honey Pie | White Album; Revolution 9
+4 | albums | Which song comes directly after "Blackbird" on the White Album? | Piggies | Rocky Raccoon | I Will | Julia | White Album
+5 | albums | Which song is the third track on side three of the White Album? | Mother Nature's Son | Sexy Sadie | Helter Skelter | Yer Blues | White Album
+4 | albums | What appears on the front of the White Album sleeve? | Only the band's name, embossed | A photo of the band in white suits | A drawing by John Lennon | A white apple | White Album
+4 | in-the-studio | Recording of the White Album ran from late May 1968 until which month? | October | July | December | February 1969 | White Album
+2 | albums | Yellow Submarine is the soundtrack to what kind of film? | An animated film | A western | A documentary | A horror film | Yellow Submarine
+3 | albums | In which month and year was the Yellow Submarine album released? | January 1969 | July 1968 | December 1967 | May 1970 | Yellow Submarine
+3 | albums | How many Beatles songs are on the Yellow Submarine album? | Six | Two | Ten | Fourteen | Yellow Submarine
+3 | albums | Who composed and recorded the orchestral music on side two of the Yellow Submarine album? | George Martin | Paul McCartney | John Barry | Leonard Bernstein | Yellow Submarine; George Martin
+4 | albums | Which song closes side one of the Yellow Submarine album? | All You Need Is Love | It's All Too Much | Hey Bulldog | All Together Now | Yellow Submarine
+4 | albums | Which of these is an orchestral track on the Yellow Submarine album? | Pepperland | Flying | Blue Jay Way | Revolution 9 | Yellow Submarine; Pepperland
+5 | albums | Which of these is a George Martin piece on the Yellow Submarine album? | March of the Meanies | Dance of the Apple Bonkers | The Glove's Lament | Jeremy's Song | Yellow Submarine
+4 | films-tv | In which month and year did the Yellow Submarine film premiere in London? | July 1968 | January 1969 | December 1967 | June 1967 | Yellow Submarine
+4 | albums | In which year was the Yellow Submarine Songtrack, a remixed album of songs from the film, released? | 1999 | 1976 | 1987 | 2009 | Yellow Submarine Songtrack
+4 | albums | Yellow Submarine was The Beatles' studio album of which number? | Tenth | Eighth | Ninth | Twelfth | Yellow Submarine
+1 | albums | Which Beatles album cover shows the four walking over a pedestrian crossing? | Abbey Road | Let It Be | Help! | Rubber Soul | Abbey Road
+2 | albums | In which year was Abbey Road released? | 1969 | 1967 | 1968 | 1970 | Abbey Road
+3 | albums | Which was the last album The Beatles recorded? | Abbey Road | Let It Be | The White Album | Yellow Submarine | Abbey Road
+3 | albums | About how many copies has Abbey Road sold worldwide? | Over 30 million | About 3 million | About 10 million | Over 100 million | Abbey Road
+3 | albums | Which George Harrison song opens side two of Abbey Road? | Here Comes the Sun | Something | Because | Sun King | Abbey Road; Here Comes the Sun
+3 | albums | Which song is the second track on Abbey Road? | Something | Maxwell's Silver Hammer | Oh! Darling | Octopus's Garden | Abbey Road; Something
+3 | albums | Which song is the third track on Abbey Road? | Maxwell's Silver Hammer | Oh! Darling | Octopus's Garden | Something | Abbey Road
+4 | albums | Which song is the fifth track on side one of Abbey Road? | Octopus's Garden | Oh! Darling | I Want You (She's So Heavy) | Maxwell's Silver Hammer | Abbey Road
+4 | albums | Which Paul McCartney song caused particular arguments during the Abbey Road sessions? | Maxwell's Silver Hammer | Oh! Darling | Golden Slumbers | Her Majesty | Abbey Road; Maxwell's Silver Hammer
+4 | albums | Which song in the Abbey Road medley comes between "Mean Mr. Mustard" and "She Came In Through the Bathroom Window"? | Polythene Pam | Sun King | Golden Slumbers | Carry That Weight | Abbey Road; Medley
+4 | in-the-studio | Through which rotating speaker cabinet were guitars played on Abbey Road? | A Leslie speaker | A Marshall stack | A Vox AC30 | A Fender Twin | Abbey Road; Leslie speaker
+3 | places | What were Abbey Road Studios officially called when The Beatles recorded there? | EMI Studios | Apple Studios | Parlophone House | St John's Wood Sound | Abbey Road Studios; EMI Studios
+2 | albums | Which album was the last to be released by The Beatles, in May 1970? | Let It Be | Abbey Road | The White Album | Yellow Submarine | Let It Be
+3 | albums | On which date was the Let It Be album released? | 8 May 1970 | 10 April 1970 | 26 September 1969 | 30 January 1969 | Let It Be
+3 | albums | Under what working title was the Let It Be album first prepared? | Get Back | The Long One | Everest | A Doll's House | Let It Be; Get Back
+4 | people | Which engineer prepared the early "Get Back" versions of the album that the band rejected? | Glyn Johns | Geoff Emerick | Alan Parsons | Phil McDonald | Let It Be; Glyn Johns
+4 | in-the-studio | On which date did rehearsals for the Get Back project begin at Twickenham? | 2 January 1969 | 30 January 1969 | 22 August 1969 | 3 January 1970 | Get Back sessions
+4 | albums | How many tracks on Let It Be come from the rooftop concert? | Three | None | One | Seven | Let It Be; Rooftop concert
+4 | albums | To which three songs did Phil Spector add orchestral and choral overdubs on Let It Be? | Across the Universe, I Me Mine and The Long and Winding Road | Two of Us, Dig a Pony and Get Back | Let It Be, For You Blue and Dig It | One After 909, Maggie Mae and I've Got a Feeling | Let It Be; Phil Spector
+4 | band-members | Which Beatle was upset by Phil Spector's orchestration of "The Long and Winding Road"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Let It Be; Paul McCartney
+3 | albums | Which song is the second track on Let It Be? | Dig a Pony | Across the Universe | I Me Mine | Dig It | Let It Be
+3 | albums | Which song opens side two of Let It Be? | I've Got a Feeling | One After 909 | For You Blue | The Long and Winding Road | Let It Be
+4 | albums | Which short track closes side one of Let It Be? | Maggie Mae | Dig It | I Me Mine | Across the Universe | Let It Be; Maggie Mae
+4 | albums | Which song comes directly before "Get Back" on Let It Be? | For You Blue | The Long and Winding Road | One After 909 | I've Got a Feeling | Let It Be
+4 | albums | Which song is the third track on Let It Be? | Across the Universe | I Me Mine | Dig It | Let It Be | Let It Be; Across the Universe
+4 | singles | On which date in 1970 was "The Long and Winding Road" released as a single in the US? | 11 May | 6 March | 10 April | 31 December | The Long and Winding Road
+4 | in-the-studio | In which month of 1970 did Paul, George and Ringo record "I Me Mine"? | January | April | June | September | I Me Mine
+5 | albums | Which Paul McCartney song was included on Glyn Johns' rejected versions of the Get Back album but not on Let It Be? | Teddy Boy | Junk | Every Night | Maybe I'm Amazed | Let It Be; Teddy Boy
+2 | albums | How many studio albums did The Beatles release in the UK, counting Yellow Submarine? | Twelve | Eight | Ten | Fifteen | Discography

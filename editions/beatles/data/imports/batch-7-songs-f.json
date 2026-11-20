@@ -1,0 +1,1897 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "\"My Bonnie\", generally regarded as the first single to feature The Beatles, was made with which singer?",
+    "options": [
+      "Rory Storm",
+      "Tony Sheridan",
+      "Johnny Gentle",
+      "Gene Vincent"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "My Bonnie",
+      "Tony Sheridan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Nowhere Man\" appears on which British album?",
+    "options": [
+      "Revolver",
+      "Help!",
+      "Beatles for Sale",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nowhere Man",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"Nowhere Man\"?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nowhere Man",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What position did the \"Nowhere Man\" single reach on the US Billboard Hot 100 in 1966?",
+    "options": [
+      "Number 3",
+      "Number 10",
+      "Number 1",
+      "Number 25"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Nowhere Man"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"Money (That's What I Want)\", covered on With the Beatles, was the first hit for which record company?",
+    "options": [
+      "Stax",
+      "Motown",
+      "Chess",
+      "Atlantic"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Money (That's What I Want)",
+      "Motown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who made the original 1959 recording of \"Money (That's What I Want)\"?",
+    "options": [
+      "Barrett Strong",
+      "Smokey Robinson",
+      "Marvin Gaye",
+      "Jackie Wilson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Money (That's What I Want)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Ob-La-Di, Ob-La-Da\" is on which album?",
+    "options": [
+      "Yellow Submarine",
+      "The White Album",
+      "Abbey Road",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ob-La-Di, Ob-La-Da",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who wrote \"Ob-La-Di, Ob-La-Da\"?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ob-La-Di, Ob-La-Da",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"Ob-La-Di, Ob-La-Da\" was written in imitation of which Jamaican style?",
+    "options": [
+      "Calypso",
+      "Ska",
+      "Mento",
+      "Dub"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ob-La-Di, Ob-La-Da"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "What position did \"Ob-La-Di, Ob-La-Da\" reach on the US chart when it was finally a single in 1976?",
+    "options": [
+      "Number 99",
+      "Number 9",
+      "Number 49",
+      "Number 1"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ob-La-Di, Ob-La-Da"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Oh! Darling\" is on which album?",
+    "options": [
+      "The White Album",
+      "Revolver",
+      "Let It Be",
+      "Abbey Road"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Oh! Darling",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote and sang \"Oh! Darling\"?",
+    "options": [
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Oh! Darling",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who wrote and sang \"Octopus's Garden\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Octopus's Garden",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Octopus's Garden\" appears on which album?",
+    "options": [
+      "Yellow Submarine",
+      "The White Album",
+      "Abbey Road",
+      "Let It Be"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Octopus's Garden",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which was the last Beatles song to be released with Ringo Starr on lead vocals?",
+    "options": [
+      "Good Night",
+      "Yellow Submarine",
+      "Don't Pass Me By",
+      "Octopus's Garden"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Octopus's Garden",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Under which name is Ringo Starr credited as the writer of \"Octopus's Garden\"?",
+    "options": [
+      "R. Starr",
+      "Richie Parkin",
+      "Ringo Starr",
+      "Richard Starkey"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Octopus's Garden",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Mother Nature's Son\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Donovan",
+      "George Harrison"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mother Nature's Son",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "solo-years",
+    "difficulty": 5,
+    "question": "The tune of John Lennon's unreleased Beatles-era song \"Child of Nature\" was reused for which solo song?",
+    "options": [
+      "Imagine",
+      "Jealous Guy",
+      "Mind Games",
+      "Oh My Love"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Child of Nature",
+      "Jealous Guy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"The Night Before\" is on which album?",
+    "options": [
+      "Beatles for Sale",
+      "Help!",
+      "A Hard Day's Night",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Night Before",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "\"The Night Before\" was the first Beatles song to feature which instrument?",
+    "options": [
+      "Sitar",
+      "Electric piano",
+      "Harpsichord",
+      "Mellotron"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Night Before"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"No Reply\" opens which British album?",
+    "options": [
+      "Help!",
+      "A Hard Day's Night",
+      "Beatles for Sale",
+      "Rubber Soul"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "No Reply",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "To which Brian Epstein artist did John Lennon first offer \"No Reply\"?",
+    "options": [
+      "Billy J. Kramer",
+      "Gerry Marsden",
+      "Cilla Black",
+      "Tommy Quickly"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "No Reply",
+      "Tommy Quickly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "The Beatles' cover of \"Mr. Moonlight\" is on which British album?",
+    "options": [
+      "Beatles for Sale",
+      "Please Please Me",
+      "Help!",
+      "With the Beatles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mr. Moonlight",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Not a Second Time\" is on which British album?",
+    "options": [
+      "Beatles for Sale",
+      "A Hard Day's Night",
+      "Please Please Me",
+      "With the Beatles"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Not a Second Time",
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Misery\" appears on which album?",
+    "options": [
+      "A Hard Day's Night",
+      "Please Please Me",
+      "Beatles for Sale",
+      "With the Beatles"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Misery",
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Whose 1963 single of \"Misery\" made it the first Beatles song covered by another artist?",
+    "options": [
+      "Marty Wilde",
+      "Helen Shapiro",
+      "Kenny Lynch",
+      "Billy Fury"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Misery",
+      "Kenny Lynch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "George Harrison's \"Old Brown Shoe\" was the B-side of which single?",
+    "options": [
+      "Let It Be",
+      "The Ballad of John and Yoko",
+      "Something",
+      "Get Back"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Old Brown Shoe",
+      "The Ballad of John and Yoko"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Old Brown Shoe\"?",
+    "options": [
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Old Brown Shoe",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "solo-years",
+    "difficulty": 5,
+    "question": "Which song, recorded but not used for the White Album, did George Harrison release on his 1979 album George Harrison?",
+    "options": [
+      "Not Guilty",
+      "Sour Milk Sea",
+      "Circles",
+      "All Things Must Pass"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Not Guilty",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "Which 2023 release was promoted as \"the last Beatles song\"?",
+    "options": [
+      "Carnival of Light",
+      "Real Love",
+      "Now and Then",
+      "Free as a Bird"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Now and Then"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "On which date was \"Now and Then\" released?",
+    "options": [
+      "25 December 2021",
+      "2 November 2023",
+      "26 September 2019",
+      "8 December 2020"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Now and Then"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "\"Now and Then\" was paired on a double A-side single with a new mix of which song?",
+    "options": [
+      "Yesterday",
+      "Let It Be",
+      "Love Me Do",
+      "Hey Jude"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Now and Then",
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Around which year did John Lennon record the home demo of \"Now and Then\"?",
+    "options": [
+      "1970",
+      "1980",
+      "1977",
+      "1973"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Now and Then",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Now and Then\" was added to the 2023 expanded edition of which compilation?",
+    "options": [
+      "1962-1966",
+      "Past Masters",
+      "1967-1970",
+      "1"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Now and Then",
+      "1967-1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "places",
+    "difficulty": 1,
+    "question": "In which city is the real Penny Lane?",
+    "options": [
+      "Manchester",
+      "Liverpool",
+      "London",
+      "Hamburg"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Penny Lane",
+      "Liverpool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "In which year was the \"Penny Lane\" / \"Strawberry Fields Forever\" single released?",
+    "options": [
+      "1965",
+      "1966",
+      "1968",
+      "1967"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Penny Lane",
+      "Strawberry Fields Forever"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who was the main writer of \"Penny Lane\"?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Penny Lane",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Penny Lane\" was first intended for which album before it was issued as a single?",
+    "options": [
+      "The White Album",
+      "Magical Mystery Tour",
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Penny Lane",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "How many versions of \"Revolution\" did The Beatles release in 1968, counting \"Revolution 9\"?",
+    "options": [
+      "Five",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Revolution"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "The fast version of \"Revolution\" was the B-side of which single?",
+    "options": [
+      "Lady Madonna",
+      "Get Back",
+      "Hello, Goodbye",
+      "Hey Jude"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Revolution",
+      "Hey Jude"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which slow version of \"Revolution\" appears on the White Album?",
+    "options": [
+      "Revolution Blues",
+      "Revolution 1",
+      "Revolution 2",
+      "Revolution Reprise"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolution 1",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who was the main writer of \"Paperback Writer\"?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paperback Writer",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "What was the B-side of \"Paperback Writer\"?",
+    "options": [
+      "Yes It Is",
+      "She's a Woman",
+      "Rain",
+      "I'm Down"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paperback Writer",
+      "Rain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "In which year was \"Paperback Writer\" released?",
+    "options": [
+      "1966",
+      "1964",
+      "1965",
+      "1967"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paperback Writer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "Which Frank Sinatra hit interrupted the run of \"Paperback Writer\" at the top of the US chart?",
+    "options": [
+      "My Way",
+      "Somethin' Stupid",
+      "Strangers in the Night",
+      "That's Life"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paperback Writer",
+      "Frank Sinatra"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which was the newest song The Beatles played on their final tour in 1966?",
+    "options": [
+      "Yellow Submarine",
+      "Eleanor Rigby",
+      "Rain",
+      "Paperback Writer"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paperback Writer",
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On which 1966 compilation album did \"Paperback Writer\" first appear on an LP?",
+    "options": [
+      "Rarities",
+      "Hey Jude",
+      "Yesterday and Today",
+      "A Collection of Beatles Oldies"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paperback Writer",
+      "A Collection of Beatles Oldies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "What did John Lennon say the song \"Rain\" was about?",
+    "options": [
+      "A cancelled concert",
+      "A holiday in Wales",
+      "A flood in Liverpool",
+      "People moaning about the weather"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rain",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "\"Paperback Writer\" and \"Rain\" were recorded during sessions for which album?",
+    "options": [
+      "Rubber Soul",
+      "Revolver",
+      "Help!",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rain",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "In which year was \"Real Love\" released as a Beatles single?",
+    "options": [
+      "2000",
+      "1988",
+      "1994",
+      "1996"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Real Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What was the highest UK chart position of the Beatles' \"Real Love\"?",
+    "options": [
+      "Number 2",
+      "Number 4",
+      "Number 1",
+      "Number 11"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Real Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "A John Lennon demo of \"Real Love\" was first released in 1988 on the soundtrack of which documentary?",
+    "options": [
+      "Imagine: John Lennon",
+      "Lennon NYC",
+      "The Beatles Anthology",
+      "The Compleat Beatles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Real Love",
+      "Imagine: John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "The sound collage \"Revolution 9\" appears on which album?",
+    "options": [
+      "Magical Mystery Tour",
+      "The White Album",
+      "Yellow Submarine",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolution 9",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Who helped John Lennon create \"Revolution 9\" along with Yoko Ono?",
+    "options": [
+      "Billy Preston",
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Revolution 9"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "Which avant-garde composer is cited as an influence on \"Revolution 9\"?",
+    "options": [
+      "Leonard Bernstein",
+      "Karlheinz Stockhausen",
+      "Igor Stravinsky",
+      "Benjamin Britten"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Revolution 9",
+      "Stockhausen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Polythene Pam\"?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Polythene Pam",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Sunday newspaper is mentioned in \"Polythene Pam\"?",
+    "options": [
+      "The People",
+      "News of the World",
+      "The Observer",
+      "Sunday Mirror"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Polythene Pam"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Rock and Roll Music\", covered on Beatles for Sale?",
+    "options": [
+      "Little Richard",
+      "Buddy Holly",
+      "Carl Perkins",
+      "Chuck Berry"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rock and Roll Music",
+      "Chuck Berry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "singles",
+    "difficulty": 2,
+    "question": "Which song was The Beatles' second British single?",
+    "options": [
+      "She Loves You",
+      "From Me to You",
+      "Love Me Do",
+      "Please Please Me"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "On which date was the \"Please Please Me\" single released in the UK?",
+    "options": [
+      "12 April 1963",
+      "22 March 1963",
+      "11 January 1963",
+      "5 October 1962"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Which chart placed \"Please Please Me\" only at number two, keeping it off the later 1 compilation?",
+    "options": [
+      "Disc",
+      "New Musical Express",
+      "Melody Maker",
+      "Record Retailer"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Please Please Me",
+      "Record Retailer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Which song was The Beatles' first single released in the United States?",
+    "options": [
+      "I Want to Hold Your Hand",
+      "Love Me Do",
+      "Please Please Me",
+      "From Me to You"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Please Please Me\"?",
+    "options": [
+      "John Lennon",
+      "George Martin",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Please Please Me",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "The version of \"One After 909\" on Let It Be was recorded where?",
+    "options": [
+      "At EMI Studios",
+      "At the Cavern Club",
+      "On the Apple rooftop",
+      "At Twickenham Film Studios"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "One After 909",
+      "Rooftop concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Let It Be song was one of the earliest Lennon-McCartney compositions, written by 1960?",
+    "options": [
+      "Dig a Pony",
+      "One After 909",
+      "I've Got a Feeling",
+      "Two of Us"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "One After 909"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"Piggies\"?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Piggies",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which baroque keyboard instrument features on \"Piggies\"?",
+    "options": [
+      "Church organ",
+      "Celesta",
+      "Clavichord",
+      "Harpsichord"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Piggies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who played the harpsichord on \"Piggies\" and largely produced the track?",
+    "options": [
+      "Nicky Hopkins",
+      "Billy Preston",
+      "Chris Thomas",
+      "George Martin"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Piggies",
+      "Chris Thomas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Rocky Raccoon\" is on which album?",
+    "options": [
+      "The White Album",
+      "Rubber Soul",
+      "Let It Be",
+      "Abbey Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rocky Raccoon",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote and sang \"Rocky Raccoon\"?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rocky Raccoon",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Motown girl group first recorded \"Please Mr. Postman\"?",
+    "options": [
+      "Martha and the Vandellas",
+      "The Supremes",
+      "The Marvelettes",
+      "The Shirelles"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Please Mr. Postman",
+      "The Marvelettes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "The Beatles' version of \"Please Mr. Postman\" is on which album?",
+    "options": [
+      "Please Please Me",
+      "Beatles for Sale",
+      "A Hard Day's Night",
+      "With the Beatles"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Please Mr. Postman",
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who was the main writer of \"P.S. I Love You\"?",
+    "options": [
+      "Brian Epstein",
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "P.S. I Love You",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who produced the recording of \"P.S. I Love You\"?",
+    "options": [
+      "Joe Meek",
+      "Norman Smith",
+      "George Martin",
+      "Ron Richards"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "P.S. I Love You",
+      "Ron Richards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Only a Northern Song\"?",
+    "options": [
+      "John Lennon",
+      "Ringo Starr",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Only a Northern Song",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"Only a Northern Song\" was recorded during the Sgt. Pepper sessions but released on which album?",
+    "options": [
+      "Magical Mystery Tour",
+      "Yellow Submarine",
+      "Let It Be",
+      "The White Album"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Only a Northern Song",
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatles hit has the chorus \"yeah, yeah, yeah\"?",
+    "options": [
+      "Help!",
+      "She Loves You",
+      "Yesterday",
+      "Let It Be"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "On which date was \"She Loves You\" released in the UK?",
+    "options": [
+      "23 August 1963",
+      "11 January 1963",
+      "29 November 1963",
+      "5 October 1962"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "Which song is The Beatles' best-selling single in the UK?",
+    "options": [
+      "She Loves You",
+      "Hey Jude",
+      "I Want to Hold Your Hand",
+      "Can't Buy Me Love"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "On which date did The Beatles hold all top five places on the US Billboard Hot 100?",
+    "options": [
+      "4 April 1964",
+      "9 February 1964",
+      "15 August 1965",
+      "1 June 1967"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Billboard",
+      "Top five"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatle wrote \"Something\"?",
+    "options": [
+      "John Lennon",
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Something",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Something\" appears on which album?",
+    "options": [
+      "Abbey Road",
+      "Let It Be",
+      "Revolver",
+      "The White Album"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Something",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "Which song was the first George Harrison composition to be a Beatles A-side?",
+    "options": [
+      "Here Comes the Sun",
+      "Something",
+      "Taxman",
+      "While My Guitar Gently Weeps"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Something",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Abbey Road song was inspired by fans breaking into Paul McCartney's London home?",
+    "options": [
+      "Mean Mr. Mustard",
+      "She Came In Through the Bathroom Window",
+      "Polythene Pam",
+      "You Never Give Me Your Money"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "She Came In Through the Bathroom Window"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "What name was given to the devoted fans who waited outside the Beatles' offices and studios?",
+    "options": [
+      "Abbey angels",
+      "Savile Row girls",
+      "Apple scruffs",
+      "The Cavern crowd"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Apple scruffs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song follows \"Polythene Pam\" in the Abbey Road medley?",
+    "options": [
+      "Golden Slumbers",
+      "The End",
+      "Sun King",
+      "She Came In Through the Bathroom Window"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road",
+      "Medley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "George Harrison's \"Savoy Truffle\" was inspired by which friend's love of chocolates?",
+    "options": [
+      "Ringo Starr",
+      "Eric Clapton",
+      "Mal Evans",
+      "Derek Taylor"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Savoy Truffle",
+      "Eric Clapton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "The lyrics of \"Savoy Truffle\" list flavours from which brand of chocolates?",
+    "options": [
+      "Mackintosh's Good News",
+      "Rowntree's Black Magic",
+      "Terry's All Gold",
+      "Cadbury's Milk Tray"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Savoy Truffle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "George Harrison co-wrote and played on which Cream song, returning Eric Clapton's favour?",
+    "options": [
+      "Crossroads",
+      "White Room",
+      "Sunshine of Your Love",
+      "Badge"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Badge",
+      "Cream"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "John Lennon wrote \"Sexy Sadie\" about his disillusionment with whom?",
+    "options": [
+      "Brian Epstein",
+      "Maharishi Mahesh Yogi",
+      "Magic Alex",
+      "Allen Klein"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sexy Sadie",
+      "Maharishi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Sexy Sadie\" is on which album?",
+    "options": [
+      "The White Album",
+      "Magical Mystery Tour",
+      "Abbey Road",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sexy Sadie",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "Which song follows the opening title track on Sgt. Pepper's Lonely Hearts Club Band?",
+    "options": [
+      "Lucy in the Sky with Diamonds",
+      "A Day in the Life",
+      "Getting Better",
+      "With a Little Help from My Friends"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sgt. Pepper",
+      "With a Little Help from My Friends"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who wrote the song \"Sgt. Pepper's Lonely Hearts Club Band\"?",
+    "options": [
+      "Ringo Starr",
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sgt. Pepper",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"She's Leaving Home\" is on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "The White Album",
+      "Rubber Soul",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "She's Leaving Home",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who arranged the strings on \"She's Leaving Home\" when George Martin was unavailable?",
+    "options": [
+      "Tony Hatch",
+      "Paul Buckmaster",
+      "John Barry",
+      "Mike Leander"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "She's Leaving Home",
+      "Mike Leander"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which two Beatles do not appear at all on \"She's Leaving Home\"?",
+    "options": [
+      "John Lennon and Ringo Starr",
+      "John Lennon and George Harrison",
+      "Paul McCartney and Ringo Starr",
+      "George Harrison and Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "She's Leaving Home"
+    ],
+    "source": "manual"
+  }
+]

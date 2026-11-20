@@ -1,0 +1,101 @@
+/* Beatles edition colours and design tokens: "Scream", hard black and white chrome after 1960s press photos of Beatles fans.
+   Every edition has its own theme.css with these same names. Loaded before the engine's stylesheets (engine/css).
+   Extra Beatles-only styling (crowd, ticket stub, lettering) is in edition.css, loaded after them. */
+:root {
+  /* Game show look (used by engine/css/chrome.css) */
+  --studio-bg: #000000;
+  --studio-glow-top: rgba(255, 255, 255, 0.12);
+  --studio-glow-bottom: rgba(255, 255, 255, 0.06);
+  --chrome: linear-gradient(180deg, #ffffff 0%, #bdbdbd 20%, #4a4a4a 47%, #f2f2f2 53%, #8c8c8c 80%, #ffffff 100%);
+  --chrome-text: linear-gradient(180deg, #ffffff 0%, #e0e0e0 38%, #5c5c5c 52%, #ffffff 60%, #b0b0b0 100%);
+  --plate: linear-gradient(180deg, #232323 0%, #0f0f0f 55%, #050505 100%);
+  --plate-hover: linear-gradient(180deg, #303030 0%, #161616 55%, #080808 100%);
+  --plate-panel: linear-gradient(180deg, #1a1a1a 0%, #060606 100%);
+  --plate-dull: linear-gradient(180deg, #141414 0%, #0c0c0c 100%);
+  /* "Gold" here is bright silver: the Scream look has no gold except the gold disc itself */
+  --gold-plate: linear-gradient(180deg, #ffffff 0%, #e6e6e6 50%, #bdbdbd 100%);
+  --gold-plate-hover: linear-gradient(180deg, #ffffff 0%, #f2f2f2 50%, #cfcfcf 100%);
+  --gold-rim: linear-gradient(180deg, #ffffff 0%, #cfcfcf 25%, #6a6a6a 50%, #f2f2f2 56%, #b0b0b0 100%);
+  --ink-gold: #000000;
+  --gold-pale: #ffffff;
+  --studio-beam: rgba(255, 255, 255, 0.06);
+  --topbar-bg: rgba(0, 0, 0, 0.86);
+  --chrome-rule: linear-gradient(90deg, #4a4a4a 0%, #ffffff 30%, #8c8c8c 50%, #ffffff 70%, #4a4a4a 100%);
+  --question-plate: linear-gradient(180deg, #f3f1ec 0%, #dcd9d2 100%);
+  --chrome-disc: #ffffff;
+  --chrome-disc-ink: #000000;
+  --rim-dull: #3a3a3a;
+  --tick: #ffffff;
+  --kbd-hint: #a8a8a8;
+  --emerald-plate: linear-gradient(180deg, #5a5a5a 0%, #2a2a2a 100%);
+  --splash-bg: radial-gradient(circle at 50% 45%, rgba(0, 0, 0, 0.82), rgba(0, 0, 0, 0.96));
+
+  /* Backgrounds */
+  --bg-main: #050505;
+  --bg-panel: #0b0b0b;
+  --card: #121212;
+  --card-hover: #1c1c1c;
+
+  /* "Emerald" slots: greys in this edition */
+  --emerald-dark: #2a2a2a;
+  --emerald: #4a4a4a;
+  --emerald-bright: #9a9a9a;
+
+  /* "Gold" slots: silver and white in this edition */
+  --gold: #d9d9d9;
+  --gold-bright: #ffffff;
+  /* The same colours as "r, g, b", for see-through glows: rgba(var(--gold-rgb), 0.3) */
+  --gold-rgb: 217, 217, 217;
+  --gold-bright-rgb: 255, 255, 255;
+  --emerald-rgb: 90, 90, 90;
+  --emerald-bright-rgb: 255, 255, 255;
+  --emerald-ink: #e0e0e0;
+
+  /* Neutrals */
+  --white: #FFFFFF;
+  --grey-light: #d6d6d6;
+  --grey-muted: #8f8f8f;
+
+  /* Status */
+  --success: #3EB76A;
+  --danger: #E04E4E;
+
+  /* Lines & glows */
+  --line: rgba(255, 255, 255, 0.10);
+  --line-strong: rgba(255, 255, 255, 0.18);
+  --glow-gold: 0 0 0 1px rgba(255, 255, 255, 0.55), 0 0 24px rgba(255, 255, 255, 0.25);
+  --glow-emerald: 0 0 0 1px rgba(255, 255, 255, 0.45), 0 0 22px rgba(255, 255, 255, 0.18);
+  --glow-success: 0 0 0 1px rgba(62, 183, 106, 0.7), 0 0 26px rgba(62, 183, 106, 0.35);
+  --glow-danger: 0 0 0 1px rgba(224, 78, 78, 0.7), 0 0 26px rgba(224, 78, 78, 0.35);
+  --shadow-card: 0 10px 30px rgba(0, 0, 0, 0.35), 0 2px 6px rgba(0, 0, 0, 0.25);
+
+  /* Type */
+  --font-display: "Montserrat", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Inter", "Segoe UI", system-ui, sans-serif;
+  --font-title: "Anton", "Impact", "Arial Narrow", sans-serif;
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: clamp(1.35rem, 2.6vw, 1.75rem);
+  --fs-2xl: clamp(1.75rem, 4.5vw, 2.75rem);
+  --fs-3xl: clamp(2.1rem, 6.5vw, 4rem);
+
+  /* Spacing & shape: squarer corners, like tickets and press prints */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --radius-sm: 4px;
+  --radius: 6px;
+  --radius-lg: 8px;
+
+  /* Motion */
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --t-fast: 160ms;
+  --t: 280ms;
+  --t-slow: 450ms;
+}

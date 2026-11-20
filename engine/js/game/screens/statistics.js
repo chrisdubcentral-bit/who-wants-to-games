@@ -3,6 +3,7 @@ import { readStats, stageIndexLabel, averageStageLabel } from '../stats.js';
 import { formatDate } from '../../core/utils.js';
 import { STATUS } from '../game-engine.js';
 import { t, ed } from '../../core/edition.js';
+import { LIMIT } from '../ranking.js';
 
 function recentLabel(g) {
   if (g.result === STATUS.WON) return t('stats.won');
@@ -66,7 +67,7 @@ export function render(root, app) {
       </div>
       <div class="page-actions">
         <button class="btn btn-primary" data-go="play">${esc(ed('vars.start'))}</button>
-        <button class="btn" data-go="top100">Top 100</button>
+        <button class="btn" data-go="top100">Top ${LIMIT}</button>
         <button class="btn" data-go="home">Back</button>
       </div>
     </section>`);

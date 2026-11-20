@@ -1,0 +1,62 @@
+# Beatles history: the rooftop concert and the 1966 US tour. Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | live | Where did The Beatles play their famous last public performance in 1969? | On a London rooftop | In a Liverpool cellar | On a boat on the Thames | In Hyde Park | Rooftop concert
+3 | places | On which London street was the Apple building where The Beatles played on the roof? | Savile Row | Abbey Road | Baker Street | Carnaby Street | Rooftop concert; Savile Row
+3 | live | Roughly how long did the rooftop concert last? | 42 minutes | 12 minutes | 90 minutes | Two and a half hours | Rooftop concert
+3 | live | Who brought the rooftop concert to an end? | The police | The fire brigade | The landlord | A power cut | Rooftop concert
+3 | live | Which song closed the rooftop concert? | Get Back | Let It Be | Don't Let Me Down | Hey Jude | Rooftop concert; Get Back
+3 | live | What did John Lennon joke at the end of the rooftop concert? | I hope we've passed the audition | Same time next week | You can all go home now | Is there a doctor in the house | Rooftop concert; John Lennon
+3 | people | Which guest keyboard player joined The Beatles on the roof? | Billy Preston | Nicky Hopkins | George Martin | Stevie Wonder | Rooftop concert; Billy Preston
+4 | live | How many different songs did The Beatles perform in full during the rooftop concert? | Five | Three | Nine | Twelve | Rooftop concert
+4 | live | Which song did The Beatles play three times during the rooftop concert? | Get Back | Don't Let Me Down | Dig a Pony | One After 909 | Rooftop concert; Get Back
+4 | albums | Which of these rooftop performances appears on the Let It Be album? | Dig a Pony | Get Back | Don't Let Me Down | Two of Us | Rooftop concert; Let It Be
+4 | live | At about what time of day did the rooftop concert begin? | Half past twelve | Nine in the morning | Five in the afternoon | Eight in the evening | Rooftop concert
+4 | band-members | Which Beatle walked out of the filmed rehearsals on 10 January 1969? | George Harrison | Ringo Starr | Paul McCartney | John Lennon | Get Back sessions; George Harrison
+4 | people | On which date in January 1969 did Billy Preston join the Get Back sessions? | 22 January | 2 January | 10 January | 30 January | Get Back sessions; Billy Preston
+5 | people | Which sound engineer claimed in his memoir Sound Man that the rooftop concert was his idea? | Glyn Johns | Geoff Emerick | Alan Parsons | Ken Scott | Rooftop concert; Glyn Johns
+5 | people | Which future record producer and bandleader worked as assistant engineer on the rooftop concert? | Alan Parsons | Jeff Lynne | Chris Thomas | Trevor Horn | Rooftop concert; Alan Parsons
+5 | live | What did the engineers buy from Marks and Spencer to shield the rooftop microphones from the wind? | Women's stockings | Woolly hats | Tea towels | Umbrellas | Rooftop concert
+5 | band-members | Which guitar did George Harrison play on the Apple roof? | A rosewood Fender Telecaster | A Gretsch Country Gentleman | A Rickenbacker 12-string | A Gibson Les Paul | Rooftop concert; George Harrison
+5 | band-members | Which guitar did John Lennon play on the Apple roof? | An Epiphone Casino | A Rickenbacker 325 | A Gibson J-160E | A Fender Stratocaster | Rooftop concert; John Lennon
+5 | live | How many cameras did Michael Lindsay-Hogg's crew use to film the rooftop concert? | Six | Two | Ten | Sixteen | Rooftop concert
+5 | band-members | Whose red raincoat did Ringo Starr wear during the rooftop concert? | His wife Maureen's | Yoko Ono's | Linda Eastman's | Mal Evans's | Rooftop concert; Ringo Starr
+5 | live | To whom did Paul McCartney say "Thanks Mo" at the end of the rooftop concert? | Maureen Starkey | Mo Foster | Mal Evans | Mona Best | Rooftop concert; Maureen Starkey
+5 | people | Who switched off the guitar amplifiers on the roof when the police told him to? | Mal Evans | Neil Aspinall | Glyn Johns | George Martin | Rooftop concert; Mal Evans
+5 | live | Which anthem did The Beatles briefly play during the rooftop concert? | God Save the Queen | La Marseillaise | The Star-Spangled Banner | Land of Hope and Glory | Rooftop concert
+5 | band-members | Which Beatle chose not to have any of his own songs played on the rooftop? | George Harrison | Ringo Starr | John Lennon | Paul McCartney | Rooftop concert; George Harrison
+4 | films-tv | In which year did Peter Jackson's documentary series The Beatles: Get Back appear? | 2021 | 2003 | 2012 | 2016 | The Beatles: Get Back
+3 | films-tv | Who directed the documentary series The Beatles: Get Back? | Peter Jackson | Martin Scorsese | Ron Howard | Sam Mendes | The Beatles: Get Back; Peter Jackson
+4 | band-members | In which month of 1969 did John Lennon privately tell the others he was leaving The Beatles? | September | January | April | December | Break-up; John Lennon
+2 | live | In which year did The Beatles make their last concert tour? | 1966 | 1964 | 1968 | 1970 | 1966 tour
+3 | live | How many shows did The Beatles play on their 1966 North American tour? | 19 | 9 | 32 | 50 | 1966 tour
+3 | live | At which stadium did The Beatles play their last paid concert? | Candlestick Park | Shea Stadium | Dodger Stadium | Wembley Stadium | 1966 tour; Candlestick Park
+3 | live | On which date did The Beatles play their final paid concert? | 29 August 1966 | 15 August 1965 | 30 January 1969 | 1 May 1966 | 1966 tour; Candlestick Park
+4 | live | How many people attended The Beatles' last concert at Candlestick Park? | 25,000 | 5,000 | 55,000 | 90,000 | 1966 tour; Candlestick Park
+4 | live | How many songs were in The Beatles' set at Candlestick Park? | Eleven | Six | Eighteen | Twenty-five | 1966 tour; Candlestick Park
+4 | live | Which song closed The Beatles' shows on the 1966 US tour? | Long Tall Sally | Twist and Shout | I'm Down | Yesterday | 1966 tour; Long Tall Sally
+4 | live | How long was The Beatles' typical set on the 1966 US tour? | About 30 minutes | About 10 minutes | About an hour | About two hours | 1966 tour
+4 | live | How many songs from Revolver did The Beatles play on the 1966 US tour? | None | Two | Four | Six | 1966 tour; Revolver
+4 | people | To which journalist did John Lennon make his "more popular than Jesus" remark? | Maureen Cleave | Ray Coleman | Hunter Davies | Chris Hutchins | More popular than Jesus; Maureen Cleave
+4 | records | In which London newspaper did John Lennon's "more popular than Jesus" remark first appear? | Evening Standard | The Times | Daily Mirror | The Guardian | More popular than Jesus; Evening Standard
+4 | records | Which American teen magazine reprinted John Lennon's "Jesus" remarks in July 1966 and started the furore? | Datebook | Tiger Beat | 16 Magazine | Seventeen | More popular than Jesus; Datebook
+5 | records | A radio station in which Alabama city led the 1966 bonfires of Beatles records? | Birmingham | Montgomery | Mobile | Huntsville | More popular than Jesus; WAQY
+4 | live | In which city did John Lennon give a press conference to explain his "Jesus" remark at the start of the 1966 tour? | Chicago | New York | Memphis | Los Angeles | More popular than Jesus; Chicago
+4 | people | Who was The Beatles' press officer on the 1966 US tour? | Tony Barrow | Derek Taylor | Brian Sommerville | Peter Brown | 1966 tour; Tony Barrow
+5 | live | Which girl group was among the support acts on The Beatles' 1966 US tour? | The Ronettes | The Supremes | The Shangri-Las | The Crystals | 1966 tour; The Ronettes
+5 | live | Which Boston band opened for The Beatles on the 1966 US tour and backed other acts on the bill? | The Remains | The Standells | The Cyrkle | The Barbarians | 1966 tour; The Remains
+5 | live | In which city did 2,000 fans break through the barriers and stop a Beatles show in August 1966? | Cleveland | Detroit | St. Louis | Seattle | 1966 tour; Cleveland
+5 | live | At which Los Angeles stadium were The Beatles trapped for two hours after a 1966 concert? | Dodger Stadium | The Rose Bowl | The Coliseum | The Hollywood Bowl | 1966 tour; Dodger Stadium
+4 | live | In which city did a firecracker thrown on stage in 1966 make The Beatles think someone had fired a shot? | Memphis | Dallas | Atlanta | New Orleans | 1966 tour; Memphis
+5 | live | Which group demonstrated outside The Beatles' Memphis concerts in August 1966? | The Ku Klux Klan | The Hells Angels | The Black Panthers | The John Birch Society | 1966 tour; Memphis
+4 | live | Which war did John Lennon and George Harrison speak out against during the 1966 tour? | The Vietnam War | The Korean War | The Six-Day War | The Suez conflict | 1966 tour; Vietnam War
+5 | live | What was The Beatles' fee for the Candlestick Park concert? | $50,000 | $5,000 | $180,000 | $1 million | 1966 tour; Candlestick Park
+5 | people | Whom did Paul McCartney ask to tape the final concert at Candlestick Park? | Tony Barrow | Mal Evans | Neil Aspinall | Brian Epstein | 1966 tour; Tony Barrow
+4 | band-members | Who said "That's it, then. I'm not a Beatle anymore" on the flight after the last concert? | George Harrison | John Lennon | Ringo Starr | Paul McCartney | 1966 tour; George Harrison
+3 | live | In which city is Candlestick Park, scene of The Beatles' last paid concert? | San Francisco | Los Angeles | Chicago | New York | Candlestick Park
+5 | live | How many tickets were left unsold for The Beatles' final concert at Candlestick Park? | About 7,000 | None | About 500 | About 20,000 | 1966 tour; Candlestick Park
+4 | albums | Which notorious record sleeve, withdrawn by Capitol in June 1966, added to The Beatles' troubles in America that summer? | The "butcher cover" | The "naked cover" | The "bed-in cover" | The "smoking cover" | Yesterday and Today; Butcher cover
+5 | people | Which British DJ travelled with The Beatles' press party on the 1966 US tour? | Kenny Everett | John Peel | Tony Blackburn | Alan Freeman | 1966 tour; Kenny Everett
+5 | live | In which two countries besides the USA did The Beatles' 1966 summer tour take them to Asia? | Japan and the Philippines | India and Thailand | Hong Kong and Australia | South Korea and Taiwan | 1966 tour
+4 | people | Which First Lady did The Beatles appear to snub in Manila in 1966? | Imelda Marcos | Lady Bird Johnson | Madame Nhu | Indira Gandhi | Philippines; Imelda Marcos
+5 | live | In which Canadian city did The Beatles play two shows on the 1966 tour? | Toronto | Montreal | Vancouver | Winnipeg | 1966 tour; Toronto
+5 | live | How many concert tours had The Beatles undertaken between 1963 and the end of the 1966 US tour? | 14 | 4 | 8 | 30 | Touring

@@ -1,0 +1,1349 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Who first called himself the \"fifth Beatle\", in 1964?",
+    "options": [
+      "George Martin",
+      "Brian Epstein",
+      "Pete Best",
+      "Murray the K"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fifth Beatle",
+      "Murray the K"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Whom did Paul McCartney name in 1997 as the person who most deserved the title \"fifth Beatle\"?",
+    "options": [
+      "Stuart Sutcliffe",
+      "Billy Preston",
+      "Neil Aspinall",
+      "Brian Epstein"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fifth Beatle",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "At the 1988 Hall of Fame induction, George Harrison said the only \"fifth Beatles\" were Derek Taylor and who else?",
+    "options": [
+      "George Martin",
+      "Mal Evans",
+      "Brian Epstein",
+      "Neil Aspinall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fifth Beatle",
+      "Neil Aspinall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "places",
+    "difficulty": 3,
+    "question": "Which organisation looks after Paul McCartney's childhood home at 20 Forthlin Road?",
+    "options": [
+      "Apple Corps",
+      "The National Trust",
+      "English Heritage",
+      "Liverpool City Council"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "20 Forthlin Road",
+      "National Trust"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "20 Forthlin Road in Liverpool was the childhood home of which Beatle?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "20 Forthlin Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which Liverpool district is Paul McCartney's childhood home at 20 Forthlin Road?",
+    "options": [
+      "Dingle",
+      "Allerton",
+      "Woolton",
+      "Speke"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "20 Forthlin Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "places",
+    "difficulty": 3,
+    "question": "In which part of London are Abbey Road Studios?",
+    "options": [
+      "St John's Wood",
+      "Soho",
+      "Camden Town",
+      "Notting Hill"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Abbey Road Studios"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "In which year did EMI's recording studios in Abbey Road open?",
+    "options": [
+      "1951",
+      "1962",
+      "1931",
+      "1911"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Abbey Road Studios"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "Which studio room at Abbey Road did The Beatles use most?",
+    "options": [
+      "Studio Two",
+      "Studio Three",
+      "Studio One",
+      "The Penthouse"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Abbey Road Studios",
+      "Studio Two"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which year were EMI Studios officially renamed Abbey Road Studios?",
+    "options": [
+      "1976",
+      "1969",
+      "1987",
+      "1970"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Abbey Road Studios"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In 2010 Abbey Road Studios were given which kind of protection?",
+    "options": [
+      "National park status",
+      "A royal charter",
+      "Grade II listed status",
+      "World Heritage status"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Abbey Road Studios"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "places",
+    "difficulty": 3,
+    "question": "Which organisation owns Strawberry Field in Liverpool?",
+    "options": [
+      "Barnardo's",
+      "The Salvation Army",
+      "The Church of England",
+      "The National Trust"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Strawberry Field"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which Liverpool suburb is Strawberry Field?",
+    "options": [
+      "Allerton",
+      "Woolton",
+      "Everton",
+      "Aigburth"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Strawberry Field",
+      "Woolton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which year did Strawberry Field close as a children's home?",
+    "options": [
+      "1980",
+      "1995",
+      "2005",
+      "1967"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Strawberry Field"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "What colour were the famous old gates of Strawberry Field?",
+    "options": [
+      "Blue",
+      "Black",
+      "Red",
+      "Green"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Strawberry Field"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which year was Strawberry Field first opened to the public as a visitor attraction?",
+    "options": [
+      "2008",
+      "1995",
+      "1984",
+      "2019"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Strawberry Field"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "In which year were the gates of Strawberry Field stolen?",
+    "options": [
+      "1980",
+      "1967",
+      "2000",
+      "2012"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Strawberry Field"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "In which month and year was The Beatles Anthology TV series first broadcast?",
+    "options": [
+      "December 1980",
+      "November 2000",
+      "November 1995",
+      "June 1987"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Anthology"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In which year was The Beatles Anthology released on DVD?",
+    "options": [
+      "2003",
+      "2009",
+      "1999",
+      "1996"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Anthology"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "places",
+    "difficulty": 3,
+    "question": "What is the address of John Lennon's childhood home, Mendips?",
+    "options": [
+      "251 Menlove Avenue",
+      "12 Arnold Grove",
+      "9 Madryn Street",
+      "20 Forthlin Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mendips",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "After which range of hills was John Lennon's childhood home, Mendips, named?",
+    "options": [
+      "The Cotswolds",
+      "The Mendip Hills in Somerset",
+      "The Malvern Hills",
+      "The Pennines"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mendips"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "What was the name of George Harrison's Gothic mansion in Henley-on-Thames?",
+    "options": [
+      "Kenwood",
+      "Sunny Heights",
+      "Tittenhurst Park",
+      "Friar Park"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Friar Park",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which year did George Harrison buy Friar Park?",
+    "options": [
+      "1970",
+      "1966",
+      "1981",
+      "1975"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Friar Park",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "For which eccentric Victorian lawyer was George Harrison's home Friar Park built?",
+    "options": [
+      "Sir John Soane",
+      "Sir Henry Tate",
+      "Sir Frank Crisp",
+      "Lord Leverhulme"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Friar Park",
+      "Frank Crisp"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "George Harrison's garden at Friar Park includes a scale model of which mountain?",
+    "options": [
+      "Mont Blanc",
+      "Mount Everest",
+      "Ben Nevis",
+      "The Matterhorn"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Friar Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "Which George Harrison song from All Things Must Pass is named after the builder of Friar Park?",
+    "options": [
+      "Apple Scruffs",
+      "Beware of Darkness",
+      "Crackerbox Palace",
+      "Ballad of Sir Frankie Crisp (Let It Roll)"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Friar Park",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Who wrote the screenplay of A Hard Day's Night?",
+    "options": [
+      "John Lennon",
+      "Spike Milligan",
+      "Alun Owen",
+      "Richard Lester"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night",
+      "Alun Owen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which studio released the film A Hard Day's Night?",
+    "options": [
+      "United Artists",
+      "Rank",
+      "MGM",
+      "Paramount"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Hard Day's Night",
+      "United Artists"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "The film A Hard Day's Night shows roughly how long a period in The Beatles' lives?",
+    "options": [
+      "36 hours",
+      "A year",
+      "One hour",
+      "One week"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "For how many Academy Awards was A Hard Day's Night nominated?",
+    "options": [
+      "Nine",
+      "None",
+      "Two",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night",
+      "Academy Awards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "A Hard Day's Night is often credited with inspiring which American TV pop group's series?",
+    "options": [
+      "The Partridge Family",
+      "The Banana Splits",
+      "The Archies",
+      "The Monkees"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Hard Day's Night",
+      "The Monkees"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "In A Hard Day's Night, what are The Beatles preparing for throughout the film?",
+    "options": [
+      "A recording contract",
+      "A trip to America",
+      "A television show",
+      "A royal wedding"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which Beatle wanders off alone in A Hard Day's Night after being told he should be \"parading\"?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Who came up with the phrase \"a hard day's night\", which gave the film its title?",
+    "options": [
+      "Brian Epstein",
+      "John Lennon",
+      "Ringo Starr",
+      "Richard Lester"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Hard Day's Night",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "In which city is the museum The Beatles Story?",
+    "options": [
+      "Liverpool",
+      "London",
+      "New York",
+      "Hamburg"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles Story",
+      "Liverpool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "At which Liverpool dock is The Beatles Story museum?",
+    "options": [
+      "Canning Dock",
+      "Princes Dock",
+      "Royal Albert Dock",
+      "Salthouse Dock"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles Story",
+      "Albert Dock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which year did The Beatles Story museum open in Liverpool?",
+    "options": [
+      "1990",
+      "1981",
+      "2001",
+      "1970"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Beatles Story"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which 1994 film tells the story of Stuart Sutcliffe, Astrid Kirchherr and The Beatles in Hamburg?",
+    "options": [
+      "Backbeat",
+      "The Hours and Times",
+      "Nowhere Boy",
+      "Birth of the Beatles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Backbeat"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Who played John Lennon in the 1994 film Backbeat?",
+    "options": [
+      "Aaron Johnson",
+      "Christopher Eccleston",
+      "Ian Hart",
+      "Gary Oldman"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Backbeat",
+      "Ian Hart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Who played Stuart Sutcliffe in the film Backbeat?",
+    "options": [
+      "Ewan McGregor",
+      "Jude Law",
+      "Stephen Dorff",
+      "Ethan Hawke"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Backbeat",
+      "Stephen Dorff"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "In which year was the animated film Yellow Submarine released?",
+    "options": [
+      "1968",
+      "1964",
+      "1966",
+      "1970"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Who directed the animated film Yellow Submarine?",
+    "options": [
+      "Ralph Bakshi",
+      "Terry Gilliam",
+      "George Dunning",
+      "Richard Williams"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yellow Submarine",
+      "George Dunning"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which German artist was art director of the film Yellow Submarine?",
+    "options": [
+      "Klaus Voormann",
+      "Heinz Edelmann",
+      "Milton Glaser",
+      "Peter Max"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yellow Submarine",
+      "Heinz Edelmann"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Who voiced The Beatles' cartoon characters in the film Yellow Submarine?",
+    "options": [
+      "Actors, not the Beatles themselves",
+      "Members of The Scaffold",
+      "The Monty Python team",
+      "The Beatles themselves"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Where do the real Beatles appear in the film Yellow Submarine?",
+    "options": [
+      "In the opening titles",
+      "Nowhere at all",
+      "In the closing scene",
+      "Throughout, as narrators"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "What is the name of the music-hating villains in the film Yellow Submarine?",
+    "options": [
+      "The Green Grumps",
+      "The Grey Ghouls",
+      "The Red Baddies",
+      "The Blue Meanies"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yellow Submarine",
+      "Blue Meanies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "What is the name of the undersea paradise in the film Yellow Submarine?",
+    "options": [
+      "Pepperland",
+      "Strawberry Fields",
+      "Octopus's Garden",
+      "Nowhere Land"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yellow Submarine",
+      "Pepperland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In the film Yellow Submarine, what is the name of the \"Nowhere Man\" who joins The Beatles?",
+    "options": [
+      "Old Fred",
+      "Jeremy Hillary Boob",
+      "The Lord Mayor",
+      "Max"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In Yellow Submarine, who is the sailor sent to fetch The Beatles to save Pepperland?",
+    "options": [
+      "Young Jim",
+      "Admiral Halsey",
+      "Old Fred",
+      "Captain Kite"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Who wrote, produced and directed the film Magical Mystery Tour?",
+    "options": [
+      "Michael Lindsay-Hogg",
+      "The Beatles themselves",
+      "Joe McGrath",
+      "Richard Lester"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "On which day was Magical Mystery Tour first shown on British television?",
+    "options": [
+      "Christmas Day 1966",
+      "Easter Sunday 1967",
+      "Boxing Day 1967",
+      "New Year's Day 1968"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Why was the first television showing of Magical Mystery Tour a disappointment visually?",
+    "options": [
+      "It was cut to ten minutes",
+      "It was shown at 3 a.m.",
+      "The sound failed",
+      "It was shown in black and white"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "At which disused airfield in Kent was much of Magical Mystery Tour filmed?",
+    "options": [
+      "RAF West Malling",
+      "RAF Hawkinge",
+      "RAF Manston",
+      "RAF Biggin Hill"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Magical Mystery Tour",
+      "West Malling"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which comedy rock group performs \"Death Cab for Cutie\" in Magical Mystery Tour?",
+    "options": [
+      "The Bonzo Dog Doo-Dah Band",
+      "The Barron Knights",
+      "The Scaffold",
+      "The Temperance Seven"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Magical Mystery Tour",
+      "Bonzo Dog Doo-Dah Band"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "The coach trip idea for Magical Mystery Tour was partly inspired by the bus journeys of which American author and his Merry Pranksters?",
+    "options": [
+      "Jack Kerouac",
+      "Hunter S. Thompson",
+      "Ken Kesey",
+      "Tom Wolfe"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Magical Mystery Tour",
+      "Ken Kesey"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "On which BBC channel was Magical Mystery Tour first shown in colour, on 5 January 1968?",
+    "options": [
+      "BBC1",
+      "Channel 4",
+      "BBC2",
+      "ITV"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "records",
+    "difficulty": 3,
+    "question": "Which award did The Beatles win for the film Let It Be?",
+    "options": [
+      "A BAFTA for best film",
+      "An Academy Award for the music",
+      "A Golden Globe for acting",
+      "The Palme d'Or"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Let It Be",
+      "Academy Awards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "The film Let It Be was originally planned as what?",
+    "options": [
+      "A cartoon",
+      "A concert tour film",
+      "A stage play",
+      "A television documentary"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "films-tv",
+    "difficulty": 2,
+    "question": "In which year was the film Help! released?",
+    "options": [
+      "1963",
+      "1965",
+      "1969",
+      "1967"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "In the film Help!, what is the cult trying to get from Ringo?",
+    "options": [
+      "A sacrificial ring",
+      "A golden drumstick",
+      "A secret map",
+      "A magic drum"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Help!",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which Australian-born actor plays the cult leader Clang in Help!?",
+    "options": [
+      "Peter Finch",
+      "Leo McKern",
+      "Chips Rafferty",
+      "Rod Taylor"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Help!",
+      "Leo McKern"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "On which date did Help! have its royal premiere in London?",
+    "options": [
+      "26 December 1967",
+      "6 July 1964",
+      "29 July 1965",
+      "17 July 1968"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which member of the Royal Family attended the premiere of Help!?",
+    "options": [
+      "Prince Charles",
+      "Princess Anne",
+      "Princess Margaret",
+      "The Queen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Help!",
+      "Princess Margaret"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In which Caribbean country were the beach scenes of Help! filmed?",
+    "options": [
+      "Jamaica",
+      "The Bahamas",
+      "Barbados",
+      "Cuba"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Help!",
+      "Bahamas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "In which Alpine country were the skiing scenes of Help! filmed?",
+    "options": [
+      "Switzerland",
+      "Austria",
+      "France",
+      "Italy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Help!",
+      "Austria"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "What was the working title of the film Help!?",
+    "options": [
+      "Ringo's Ring",
+      "Ticket to Ride",
+      "Eight Arms to Hold You",
+      "Beatles Two"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "In which city was the Cirque du Soleil show Love staged?",
+    "options": [
+      "Liverpool",
+      "New York",
+      "London",
+      "Las Vegas"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Love (show)",
+      "Las Vegas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "In which year did the Cirque du Soleil show Love open?",
+    "options": [
+      "2006",
+      "2012",
+      "1995",
+      "2000"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Love (show)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "The final performance of the Cirque du Soleil show Love was held on whose 84th birthday in 2024?",
+    "options": [
+      "Ringo Starr's",
+      "Paul McCartney's",
+      "George Martin's",
+      "Yoko Ono's"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Love (show)",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  }
+]

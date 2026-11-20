@@ -28,7 +28,7 @@ export function normalise(text) {
 // Words so common in quiz questions that they say nothing about whether two questions match.
 const STOP_WORDS = new Set([
   'the', 'and', 'for', 'was', 'were', 'which', 'what', 'who', 'whom', 'whose', 'where', 'when', 'did', 'does',
-  'has', 'have', 'had', 'from', 'with', 'that', 'this', 'into', 'their', 'celtic', 'club', 'team',
+  'has', 'have', 'had', 'from', 'with', 'that', 'this', 'into', 'their', 'celtic', 'beatles', 'club', 'team',
 ]);
 
 export function words(text) {

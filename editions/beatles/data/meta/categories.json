@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    { "key": "early-years", "label": "Early Years", "club": "beatles", "active": true },
+    { "key": "band-members", "label": "John, Paul, George & Ringo", "club": "beatles", "active": true },
+    { "key": "singles", "label": "Singles", "club": "beatles", "active": true },
+    { "key": "albums", "label": "Albums", "club": "beatles", "active": true },
+    { "key": "songs", "label": "Songs & Lyrics", "club": "beatles", "active": true },
+    { "key": "in-the-studio", "label": "In the Studio", "club": "beatles", "active": true },
+    { "key": "live", "label": "Live & Touring", "club": "beatles", "active": true },
+    { "key": "films-tv", "label": "Films & TV", "club": "beatles", "active": true },
+    { "key": "people", "label": "People Around the Band", "club": "beatles", "active": true },
+    { "key": "places", "label": "Liverpool & Other Places", "club": "beatles", "active": true },
+    { "key": "records", "label": "Records & Honours", "club": "beatles", "active": true },
+    { "key": "solo-years", "label": "Solo Years", "club": "beatles", "active": true },
+    { "key": "books", "label": "Beatles Books", "club": "beatles", "active": true }
+  ]
+}

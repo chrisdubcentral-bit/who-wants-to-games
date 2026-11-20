@@ -1,0 +1,81 @@
+# Beatles songs, part B (Blue Jay Way to For You Blue). Source: Wikipedia song articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | songs | Who wrote "Blue Jay Way"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Blue Jay Way; George Harrison
+4 | places | "Blue Jay Way" is named after a street in which city? | Los Angeles | San Francisco | London | New York | Blue Jay Way
+5 | people | In "Blue Jay Way", which Beatles press officer was George Harrison waiting for as he got lost in the fog? | Derek Taylor | Tony Barrow | Neil Aspinall | Peter Brown | Blue Jay Way; Derek Taylor
+3 | albums | "Blue Jay Way" was released on which 1967 Beatles project? | Magical Mystery Tour | Sgt. Pepper's Lonely Hearts Club Band | Yellow Submarine | Revolver | Blue Jay Way; Magical Mystery Tour
+4 | albums | On which British album does "Baby's in Black" appear? | Beatles for Sale | Help! | A Hard Day's Night | With the Beatles | Baby's in Black; Beatles for Sale
+4 | albums | On which American album was "Baby's in Black" released in 1964? | Beatles '65 | Meet the Beatles! | Something New | Beatles VI | Baby's in Black; Beatles '65
+4 | songs | Which American R&B singer wrote and first recorded "Bad Boy" and "Dizzy, Miss Lizzy"? | Larry Williams | Little Richard | Chuck Berry | Fats Domino | Larry Williams; Covers
+4 | singles | Which 1982 single stitched together snippets of songs from the Beatles' films? | The Beatles' Movie Medley | Stars on 45 | Beatles Cinema Mix | Reel Music Megamix | The Beatles' Movie Medley
+5 | singles | What position did "The Beatles' Movie Medley" reach in the UK chart in 1982? | Number 10 | Number 1 | Number 3 | Number 25 | The Beatles' Movie Medley
+3 | songs | Which Beatle sings lead on "Boys" on the Please Please Me album? | Ringo Starr | George Harrison | John Lennon | Paul McCartney | Boys; Ringo Starr
+4 | songs | "Boys" was originally the B-side of which Shirelles hit? | Will You Love Me Tomorrow | Baby It's You | Soldier Boy | Mama Said | Boys; The Shirelles
+4 | people | For which singer did John Lennon write "Bad to Me", a 1963 hit? | Billy J. Kramer | Cilla Black | Gerry Marsden | Tommy Quickly | Bad to Me; Billy J. Kramer
+5 | people | Which Peter and Gordon hit was the first Lennon-McCartney song to reach the US Top 40 by an act other than The Beatles? | A World Without Love | Nobody I Know | Woman | I Don't Want to See You Again | A World Without Love; Peter and Gordon
+3 | singles | "Get Back" was first released as a single in which year? | 1969 | 1967 | 1968 | 1970 | Get Back
+2 | songs | Who wrote "Get Back"? | Paul McCartney | John Lennon | George Harrison | Billy Preston | Get Back; Paul McCartney
+4 | in-the-studio | Which Beatle, unusually, plays lead guitar on "Get Back"? | John Lennon | Paul McCartney | Ringo Starr | George Harrison | Get Back; John Lennon
+3 | albums | "Get Back" is the closing track of which album? | Let It Be | Abbey Road | The White Album | Yellow Submarine | Get Back; Let It Be
+2 | albums | "A Day in the Life" is the final track on which album? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Abbey Road | The White Album | A Day in the Life; Sgt. Pepper
+4 | songs | The death of which Guinness heir helped inspire John Lennon's lyrics for "A Day in the Life"? | Tara Browne | Desmond Guinness | Garech Browne | Jonathan Guinness | A Day in the Life; Tara Browne
+3 | songs | Who wrote the middle section of "A Day in the Life", about waking up and catching the bus? | Paul McCartney | John Lennon | George Harrison | George Martin | A Day in the Life; Paul McCartney
+3 | songs | Where did John Lennon find most of his ideas for the verses of "A Day in the Life"? | Newspaper stories | A circus poster | A child's drawing | A television advert | A Day in the Life
+3 | singles | "Come Together" was a double A-side single with which other Abbey Road song? | Something | Here Comes the Sun | Oh! Darling | Because | Come Together; Something
+3 | songs | Who wrote "Come Together"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Come Together; John Lennon
+4 | singles | What was the highest UK chart position of the "Something" / "Come Together" single? | Number 4 | Number 1 | Number 2 | Number 10 | Come Together; Something
+4 | solo-years | Which American rock band had a hit with a cover of "Come Together" in 1978? | Aerosmith | Kiss | Cheap Trick | Boston | Come Together; Aerosmith
+2 | singles | "Day Tripper" shared a double A-side single with which song? | We Can Work It Out | Paperback Writer | Ticket to Ride | Nowhere Man | Day Tripper; We Can Work It Out
+3 | singles | In which month and year was the "Day Tripper" / "We Can Work It Out" single released? | December 1965 | June 1965 | December 1964 | June 1966 | Day Tripper; We Can Work It Out
+4 | singles | What position did "Day Tripper" reach on the US Billboard Hot 100? | Number 5 | Number 1 | Number 2 | Number 12 | Day Tripper
+4 | in-the-studio | "Day Tripper" and "We Can Work It Out" were recorded during the sessions for which album? | Rubber Soul | Help! | Revolver | Beatles for Sale | Day Tripper; Rubber Soul
+4 | albums | "Dig a Pony" is on which Beatles album? | Let It Be | Abbey Road | The White Album | Yellow Submarine | Dig a Pony; Let It Be
+4 | live | The album version of "Dig a Pony" was recorded at which event? | The rooftop concert | The Shea Stadium concert | The Our World broadcast | The Hollywood Bowl concerts | Dig a Pony; Rooftop concert
+3 | songs | "Dear Prudence" was written about the sister of which Hollywood actress? | Mia Farrow | Jane Fonda | Julie Christie | Faye Dunaway | Dear Prudence; Prudence Farrow
+3 | places | In which Indian town did John Lennon write "Dear Prudence"? | Rishikesh | Varanasi | Jaipur | Darjeeling | Dear Prudence; Rishikesh
+4 | people | Which singer-songwriter taught John Lennon the finger-picking guitar style he used on "Dear Prudence"? | Donovan | Bob Dylan | Paul Simon | Bert Jansch | Dear Prudence; Donovan
+5 | in-the-studio | At which London studio did The Beatles record "Dear Prudence"? | Trident Studios | Olympic Sound Studios | EMI Studios | Apple Studio | Dear Prudence; Trident Studios
+3 | albums | "The Continuing Story of Bungalow Bill" appears on which album? | The White Album | Magical Mystery Tour | Yellow Submarine | Sgt. Pepper's Lonely Hearts Club Band | Bungalow Bill; White Album
+4 | songs | "The Continuing Story of Bungalow Bill" was written about a man who left a meditation course to hunt which animals? | Tigers | Elephants | Bears | Lions | Bungalow Bill
+5 | people | Who engineered the recording of "The Continuing Story of Bungalow Bill"? | Ken Scott | Geoff Emerick | Norman Smith | Glyn Johns | Bungalow Bill; Ken Scott
+4 | albums | "Cry Baby Cry" appears on which Beatles album? | The White Album | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Let It Be | Cry Baby Cry; White Album
+5 | songs | The short "Can You Take Me Back" fragment follows which song on the White Album? | Cry Baby Cry | Revolution 9 | Good Night | Julia | Cry Baby Cry; White Album
+4 | albums | "Doctor Robert" appears on which British Beatles album? | Revolver | Rubber Soul | Help! | Magical Mystery Tour | Doctor Robert; Revolver
+5 | songs | Which song did The Beatles record for With the Beatles after changing "His" to "Her" in the title? | Devil in Her Heart | You Really Got a Hold on Me | Till There Was You | Please Mister Postman | Devil in Her Heart; With the Beatles
+4 | songs | Which songwriting couple wrote "Chains", covered by The Beatles on their first album? | Gerry Goffin and Carole King | Jeff Barry and Ellie Greenwich | Barry Mann and Cynthia Weil | Jerry Leiber and Mike Stoller | Chains; Goffin and King
+4 | songs | Which American girl group had the original hit with "Chains" in 1962? | The Cookies | The Shirelles | The Chiffons | The Marvelettes | Chains; The Cookies
+3 | songs | Who sings lead on "Do You Want to Know a Secret"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Do You Want to Know a Secret; George Harrison
+4 | people | Who released "Do You Want to Know a Secret" as his debut single in April 1963? | Billy J. Kramer | Gerry Marsden | Cliff Richard | Adam Faith | Do You Want to Know a Secret; Billy J. Kramer
+4 | singles | What position did the Beatles' "Do You Want to Know a Secret" reach on the US Billboard chart in 1964? | Number 2 | Number 1 | Number 9 | Number 15 | Do You Want to Know a Secret
+5 | singles | Which American label released "Do You Want to Know a Secret" as a single in 1964? | Vee-Jay | Capitol | Swan | Tollie | Do You Want to Know a Secret; Vee-Jay
+4 | solo-years | With which band did John Lennon perform "Dizzy, Miss Lizzy" on stage in 1969? | Plastic Ono Band | The Dirty Mac | Elephant's Memory | Delaney and Bonnie | Dizzy, Miss Lizzy; Plastic Ono Band
+5 | albums | Which two short tracks on Let It Be were left off Let It Be... Naked? | Dig It and Maggie Mae | Dig a Pony and One After 909 | For You Blue and I Me Mine | Two of Us and Get Back | Let It Be... Naked; Dig It
+5 | albums | Which song replaced "Dig It" and "Maggie Mae" on Let It Be... Naked? | Don't Let Me Down | Old Brown Shoe | The Ballad of John and Yoko | You Know My Name | Let It Be... Naked; Don't Let Me Down
+5 | albums | How long is "Maggie Mae" on the Let It Be album? | 39 seconds | 12 seconds | 1 minute 20 seconds | 2 minutes 5 seconds | Maggie Mae; Let It Be
+4 | people | Paul McCartney wrote "Come and Get It" for which Apple band? | Badfinger | Hot Chocolate | The Fourmost | Grapefruit | Come and Get It; Badfinger
+4 | films-tv | "Come and Get It" was written for which 1969 film starring Peter Sellers and Ringo Starr? | The Magic Christian | Candy | Wonderwall | The Party | Come and Get It; The Magic Christian
+5 | people | Under which name did Badfinger record before "Come and Get It"? | The Iveys | The Remo Four | The Undertakers | The Merseys | Badfinger; The Iveys
+4 | songs | "Christmas Time (Is Here Again)" was first recorded for what? | A fan club Christmas record | The Magical Mystery Tour film | A BBC radio special | A charity album | Christmas Time (Is Here Again)
+4 | singles | "Christmas Time (Is Here Again)" was released in 1995 as the B-side of which single? | Free as a Bird | Real Love | Baby It's You | Now and Then | Christmas Time (Is Here Again); Free as a Bird
+5 | people | Which actor from the Beatles' films sings on "Christmas Time (Is Here Again)"? | Victor Spinetti | Wilfrid Brambell | Leo McKern | Roy Kinnear | Christmas Time (Is Here Again); Victor Spinetti
+5 | early-years | The early instrumental "Cayenne" on Anthology 1 is credited to which Beatle alone? | Paul McCartney | John Lennon | George Harrison | Stuart Sutcliffe | Cayenne; Anthology 1
+5 | early-years | According to Paul McCartney, in which room of his family home was "Cayenne" recorded in 1960? | The bathroom | The kitchen | The front parlour | The garden shed | Cayenne
+5 | early-years | Which Buddy Holly song did The Beatles play at their failed Decca audition? | Crying, Waiting, Hoping | Peggy Sue | Rave On | Oh Boy! | Crying, Waiting, Hoping; Buddy Holly
+5 | films-tv | For which BBC radio series did The Beatles record "Clarabella" in July 1963? | Pop Go the Beatles | Saturday Club | Easy Beat | Top Gear | Clarabella; BBC
+5 | people | Which jazz bandleader released Paul McCartney's instrumental "Cat Call" as a single in 1967? | Chris Barber | Acker Bilk | Kenny Ball | Humphrey Lyttelton | Cat Call; Chris Barber
+3 | albums | "For No One" appears on which Beatles album? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Help! | For No One; Revolver
+4 | in-the-studio | Which instrument plays the famous solo on "For No One"? | French horn | Piccolo trumpet | Oboe | Clarinet | For No One
+5 | people | Who played the French horn solo on "For No One"? | Alan Civil | David Mason | Dennis Brain | Barry Tuckwell | For No One; Alan Civil
+3 | songs | Who wrote "For No One"? | Paul McCartney | John Lennon | George Harrison | George Martin | For No One; Paul McCartney
+4 | songs | "I've Got a Feeling" combines a Paul McCartney song with which unfinished John Lennon song? | Everybody Had a Hard Year | Child of Nature | Mean Mr. Mustard | Watching Rainbows | I've Got a Feeling
+4 | albums | "I've Got a Feeling" is on which Beatles album? | Let It Be | Abbey Road | The White Album | Help! | I've Got a Feeling; Let It Be
+4 | people | Who plays electric piano on "I've Got a Feeling"? | Billy Preston | Nicky Hopkins | George Martin | Paul McCartney | I've Got a Feeling; Billy Preston
+4 | solo-years | On which 2022 tour did Paul McCartney sing "I've Got a Feeling" as a virtual duet with John Lennon? | Got Back | Freshen Up | One on One | Out There | I've Got a Feeling; Paul McCartney
+2 | albums | "Eleanor Rigby" appears on which Beatles album? | Revolver | Rubber Soul | Help! | Abbey Road | Eleanor Rigby; Revolver
+2 | singles | Which song was on the other side of the "Eleanor Rigby" single? | Yellow Submarine | Paperback Writer | Penny Lane | Rain | Eleanor Rigby; Yellow Submarine
+3 | in-the-studio | What kind of backing did George Martin arrange for "Eleanor Rigby"? | A double string quartet | A brass band | A full symphony orchestra | A harpsichord and flute | Eleanor Rigby; George Martin
+5 | people | Which childhood friend of John Lennon backed Paul McCartney's claim to have written "Eleanor Rigby"? | Pete Shotton | Ivan Vaughan | Nigel Walley | Len Garry | Eleanor Rigby; Pete Shotton
+4 | songs | George Harrison wrote "For You Blue" as a love song for whom? | Pattie Boyd | Olivia Arias | Jane Asher | Maureen Cox | For You Blue; Pattie Boyd
+4 | singles | "For You Blue" was the B-side of which American number one single? | The Long and Winding Road | Let It Be | Get Back | Something | For You Blue; The Long and Winding Road
+4 | songs | Who wrote "For You Blue" on the Let It Be album? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | For You Blue; George Harrison
+5 | people | George Harrison's stay with Bob Dylan and which group in Woodstock in late 1968 influenced "For You Blue"? | The Band | The Byrds | Grateful Dead | Crosby, Stills and Nash | For You Blue; The Band

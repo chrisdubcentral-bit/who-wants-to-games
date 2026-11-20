@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "stages": [
+    { "order": 1, "key": "hamburg",           "label": "Hamburg",                     "short": "HAM",  "difficulty": [1, 1] },
+    { "order": 2, "key": "cavern",            "label": "The Cavern",                  "short": "CAV",  "difficulty": [1, 2] },
+    { "order": 3, "key": "emi-studios",       "label": "EMI Studios",                 "short": "EMI",  "difficulty": [2, 2] },
+    { "order": 4, "key": "royal-albert-hall", "label": "Royal Albert Hall",           "short": "RAH",  "difficulty": [2, 3] },
+    { "order": 5, "key": "palladium",         "label": "The Palladium",               "short": "PAL",  "difficulty": [3, 3] },
+    { "order": 6, "key": "ed-sullivan-show",  "label": "Ed Sullivan Show",            "short": "ED",   "difficulty": [3, 4] },
+    { "order": 7, "key": "hollywood-bowl",    "label": "Hollywood Bowl",              "short": "BOWL", "difficulty": [4, 5] },
+    { "order": 8, "key": "shea-stadium",      "label": "Shea Stadium",                "short": "SHEA", "difficulty": [5, 5] }
+  ]
+}

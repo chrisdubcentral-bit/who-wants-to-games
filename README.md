@@ -10,6 +10,7 @@ Plain HTML, CSS and JavaScript. No frameworks, no build step.
 | Edition | Folder | Theme |
 |---|---|---|
 | Who Wants To Win The European Cup — Celtic Edition | `editions/celtic/` | Celtic football quiz in the "Celtic European Nights" style |
+| Who Wants To Play Shea Stadium — Beatles Edition | `editions/beatles/` | Beatles quiz: the band's journey from Hamburg to Shea Stadium. Still in the Celtic colours |
 
 To add another, see [Starting a new edition](#starting-a-new-edition).
 
@@ -73,7 +74,8 @@ proper app that works offline needs the game hosted over `https://`, for example
 Testers play a hosted copy on Netlify (free plan), built from the GitHub repo's **`live`** branch. Day-to-day work
 goes to `main` and testers don't see it until it's copied to `live`.
 
-`tools/build.js` makes the hosted copy in `dist/`: the game, the approved questions and the advert videos. The
+`tools/build.js` makes the hosted copy in `dist/`: the game, the approved questions and the advert videos. An edition with no
+approved questions yet is left out, so a new edition can be worked on without testers seeing it. The
 question review page, pending and rejected questions, import batches and tests are left out. `netlify.toml` tells
 Netlify to run it, so you never need to run it yourself (`node tools/build.js` still works locally to check the output).
 
@@ -95,38 +97,57 @@ git push origin main:live
 
 Netlify rebuilds the site a minute or two later. The link stays the same.
 
+### One site, every edition
+
+Every edition lives on the one Netlify site; there's no new site per edition. With two or more editions the front page
+is a "Choose your quiz" page (written by `writeLandingPage` in `tools/build.js`, using each edition's manifest and
+`assets/img/logo.svg`). Each edition also gets a short address, e.g. `https://<site>.netlify.app/celtic`. The build
+writes these as 301 redirects in `dist/_redirects`, because the game pages must really be served from
+`/editions/<id>/`. The Share button and the link preview (og:url) use the short address.
+
+**Holding an edition back.** Put `"hosted": false` in its `data/edition.json`. The build then leaves it out, even if it
+has approved questions. Remove the line (or set it to `true`) when it's ready to go live. With only one edition hosted,
+the front page goes straight to that edition, as before.
+
+**Old address.** The site used to be called `wintheeuropeancupceltic`. After renaming it, upload
+`tools/legacy-redirect/` (it holds just a `_redirects` file) as a separate site with the old name. It forwards old
+links and QR codes. Check that the new name inside that file is right before uploading.
+
 Each tester's statistics stay on their own device; the Top 100 is shared by everyone. Because the link is `https://`, adding it to a phone's
 home screen installs it as a proper app. The build asks search engines not to list the site, but anyone with the link
 can play, and the approved questions and answers can be read from the page's files, as with any browser game.
 
 ## Online Top 100
 
-One Top 100 per edition, shared by every player. It runs on the same Netlify site:
+One Top 40 per edition, shared by every player (the files and the API keep the old "top100" name). The number of
+places is `LIMIT` in `engine/js/game/ranking.js`. It runs on the same Netlify site:
 
 - `netlify/functions/top100.mjs`: the API the game calls (`/api/top100`). The logic is in `server/top100/`.
-- `netlify/database/migrations/`: the database tables. Netlify Database creates the database and applies these on
-  deploy. Never edit one that has been deployed; add a new numbered file.
+- **Netlify Blobs** keeps each board as one small file (`server/top100/blobs-store.js`). Unlike Netlify Database,
+  which is billed for every hour it's awake, Blobs has nothing to keep running. Two entries saved at the same moment
+  can't overwrite each other: a save only goes through if the file hasn't changed since it was read.
+- `netlify/database/migrations/`: the old Top 100 table (and the site statistics). The first time the function reads
+  a board that isn't in Blobs yet, it copies it across from there, once. Never edit a migration that has been
+  deployed; add a new numbered file.
 - `moderation/banned-words.json`: the word filter (see below).
 - `admin/top100.html`: moderation page, published at `https://<your site>/admin/top100.html`.
 
 ### Setting it up (once)
 
-1. In Netlify open the site, go to **Data & Storage → Database** and create the database (or just deploy: Netlify
-   creates it when it sees `netlify/database/migrations`). Netlify sets `NETLIFY_DB_URL` for you.
+1. Nothing to create for Blobs: Netlify sets it up for the function automatically.
 2. In **Site configuration → Environment variables**, add:
    - `TOP100_ADMIN_KEY`: the password for the admin page. Make it long and random.
    - `TOP100_IP_SALT`: any random text. It makes the stored IP hashes impossible to reverse and signs the run tokens, so changing it stops games in progress from entering the Top 100.
-3. Deploy (`git push origin main:live`). The first deploy applies the migration and creates the tables.
+3. Deploy (`git push origin main:live`).
 
 ### How it stops cheating and abuse
 
-- **Run tokens:** when a game starts, the game asks the server for a token, and the server notes the time. An entry
-  needs a token, and the run must have lasted at least 3 seconds per question answered. A game started without a
+- **Run tokens:** when a game starts, the game asks the server for a signed token holding the start time (nothing is
+  stored). An entry needs a token, and the run must have lasted at least 3 seconds per question answered. A game started without a
   connection can't be entered (the player is told why).
 - **Plausible results only:** the server checks that the cups, rounds won, stage reached, rounds played and time all fit
   the edition's tournament, and works out the stage name itself.
-- **Rate limits:** 120 new games an hour per connection, and 20 updates per run. IP addresses are only stored as a
-  salted hash.
+- **Rate limits:** 120 saved entries an hour per connection. IP addresses are only stored as a salted hash.
 - **Limits of this:** the game runs in the browser, so someone determined could still script a perfect run in a
   believable time. Stopping that would need the server to deal and mark every question.
 
@@ -139,22 +160,23 @@ accents and sees through tricks like `f.u.c.k`, `fuuuck`, `sh1t` and look-alike 
 are refused too.
 
 The board is re-checked every time it loads, so after adding a word and deploying, any existing entry that uses it
-disappears straight away. It stays in the database and the admin page shows it as **Blocked**.
+disappears straight away. It stays in storage and the admin page shows it as **Blocked**.
 
 ### Admin page
 
-Open `/admin/top100.html` on the site and enter `TOP100_ADMIN_KEY`. It lists every entry. **Hide** takes one off the
-board (and **Show** puts it back). Entries caught by the word list are marked **Blocked**.
+Open `/admin/top100.html` on the site and enter `TOP100_ADMIN_KEY`. It lists every stored entry: the board plus up to
+80 spares below it, so hiding one lets the next move up. **Hide** takes one off the board (and **Show** puts it back).
+Entries caught by the word list are marked **Blocked**.
 
 ### Starting a fresh board
 
-Change `BOARD` at the top of `server/top100/handlers.js` (e.g. to `"2027"`) and deploy. The old entries stay in the
-database under the old name.
+Change `BOARD` at the top of `server/top100/handlers.js` (e.g. to `"2027"`) and deploy. The old board stays in
+storage under the old name.
 
 ### Tests
 
 `npm run test:server` runs the server tests: the word filter, result checks (using games played through the real
-engine) and the API with an in-memory store.
+engine), the API with an in-memory store, and the Blobs storage against the local Blobs server from `@netlify/blobs`.
 
 ## Sharing scores
 
@@ -337,7 +359,7 @@ editions/
     data/imports/          question batches as they were first written
 media/ads/                 advert videos played between stages (compressed 720p copies)
 netlify/functions/         the online Top 100 and site statistics APIs (Netlify Functions)
-netlify/database/          the Top 100's database tables (migrations)
+netlify/database/          database tables (migrations): site statistics, and the old Top 100 copied to Blobs
 server/top100/             the Top 100's checks, word filter and storage, used by the function
 moderation/                banned-words.json, the Top 100 word filter
 admin/top100.html          Top 100 moderation page (published at /admin/top100.html)
@@ -364,10 +386,18 @@ admin changes separate. Every edition needs its own prefix. Publish also remembe
 ### Starting a new edition
 
 Copy `editions/celtic` to `editions/<name>`, then change `data/edition.json` (including its `id`, which must match
-the folder name), the stages, categories and questions, `theme.css`, the images, the titles, and the storage prefix.
+the folder name; set `vars.season` if later runs shouldn't be called "Season 2", e.g. Beatles: "Album"), the stages, categories and questions, `theme.css`, the images, the titles, and the storage prefix.
 Add a line for it to the root `index.html` and to the [Editions](#editions) table above. For its online Top 100,
 add it to `server/top100/editions.js` (the build warns if you forget) and, if needed, give it its own word list under
 `editions` in `moderation/banned-words.json`.
+
+### Adding a batch of questions from a text file
+
+`node tools/add-questions.mjs <edition> <file.txt>` adds questions written one per line as
+`difficulty | category | question | correct answer | wrong | wrong | wrong | tag; tag` to the edition's Pending list.
+It shuffles the answers, picks the round from the difficulty, runs the same checks as the review page and skips
+questions already in the edition. Add `--dry` to check a file without writing anything. The Beatles batches in
+`editions/beatles/data/imports/` were made this way.
 
 ## Adding to it later
 

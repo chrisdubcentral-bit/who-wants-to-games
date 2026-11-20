@@ -1,0 +1,91 @@
+# Beatles people, part B (family, Hamburg friends, engineers and guest musicians). Source: Wikipedia biographies.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+4 | people | In which year did the photographer Astrid Kirchherr die? | 2020 | 1995 | 2008 | 2015 | Astrid Kirchherr
+4 | people | In which Hamburg club did Astrid Kirchherr first meet Stuart Sutcliffe? | The Kaiserkeller | The Star-Club | The Indra | The Top Ten Club | Astrid Kirchherr; Kaiserkeller
+2 | people | What was Linda McCartney's maiden name? | Eastman | Boyd | Asher | Powell | Linda McCartney
+2 | people | What was Linda McCartney's profession when she met Paul? | Photographer | Actress | Model | Journalist | Linda McCartney
+2 | solo-years | In which band did Linda McCartney play keyboards alongside her husband Paul? | Wings | Plastic Ono Band | Traveling Wilburys | Badfinger | Linda McCartney; Wings
+3 | people | In which year did Linda McCartney die? | 1998 | 1990 | 2001 | 2005 | Linda McCartney
+4 | people | Linda McCartney was the first woman to have a photograph on the cover of which music magazine? | Rolling Stone | NME | Melody Maker | Billboard | Linda McCartney; Rolling Stone
+4 | places | In which London club did Paul McCartney meet Linda Eastman on 15 May 1967? | The Bag O'Nails | The Ad Lib | The Scotch of St James | The Speakeasy | Linda McCartney; Bag O'Nails
+3 | people | With which British group did Klaus Voormann play bass from 1966 to 1969? | Manfred Mann | The Hollies | The Moody Blues | The Tremeloes | Klaus Voormann; Manfred Mann
+4 | people | Klaus Voormann shared The Beatles' London flat with which two members of the band? | George Harrison and Ringo Starr | John Lennon and Paul McCartney | John Lennon and George Harrison | Paul McCartney and Ringo Starr | Klaus Voormann
+5 | people | Which 1982 worldwide hit by the German band Trio was produced by Klaus Voormann? | Da Da Da | 99 Luftballons | Major Tom | Der Kommissar | Klaus Voormann
+5 | people | What name was rumoured after the split for a new band of Lennon, Harrison, Starr and Klaus Voormann? | The Ladders | The Fab Three | The Apples | The Plastic Beatles | Klaus Voormann; The Ladders
+3 | people | Which actress was Paul McCartney's girlfriend from 1963 to 1968? | Jane Asher | Julie Christie | Jean Shrimpton | Marianne Faithfull | Jane Asher
+3 | people | In whose family home in London did Paul McCartney live for about three years in the mid-1960s? | Jane Asher's | George Martin's | Brian Epstein's | Linda Eastman's | Jane Asher; Wimpole Street
+4 | people | On which date did Paul McCartney and Jane Asher announce their engagement? | 25 December 1967 | 14 February 1966 | 1 June 1967 | 12 March 1969 | Jane Asher
+4 | people | In which 1966 Michael Caine film did Jane Asher appear? | Alfie | The Italian Job | Zulu | Get Carter | Jane Asher
+4 | people | Who was Paul McCartney's Liverpool girlfriend for about three years before he met Jane Asher? | Dot Rhone | Iris Caldwell | Thelma Pickles | Ruth Morrison | Dot Rhone
+3 | people | Who is George Harrison's son, born in 1978? | Dhani Harrison | Zak Harrison | Sean Harrison | James Harrison | Dhani Harrison
+4 | solo-years | Which final George Harrison album did his son Dhani help to complete after his death? | Brainwashed | Cloud Nine | Gone Troppo | Extra Texture | George Harrison; Brainwashed
+3 | people | Who was Paul McCartney's second wife, whom he married in 2002? | Heather Mills | Nancy Shevell | Jane Asher | Stella Vine | Heather Mills
+3 | people | Who became Paul McCartney's third wife in 2011? | Nancy Shevell | Heather Mills | Barbara Bach | Olivia Arias | Nancy Shevell
+3 | people | Under what stage name did Paul McCartney's brother Mike perform? | Mike McGear | Mike Mersey | Mike McCart | Mike Macca | Mike McGear
+3 | people | Paul McCartney's brother Mike was a member of which comedy and music group? | The Scaffold | The Goodies | The Barron Knights | The Bonzo Dog Doo-Dah Band | Mike McGear; The Scaffold
+3 | people | Which son of Ringo Starr became a well-known drummer with The Who and Oasis? | Zak Starkey | Jason Starkey | Lee Starkey | Dhani Starkey | Zak Starkey
+4 | people | In which year was Zak Starkey born? | 1965 | 1961 | 1968 | 1972 | Zak Starkey
+3 | people | Which actress, a former Bond girl, is married to Ringo Starr? | Barbara Bach | Britt Ekland | Jane Seymour | Maud Adams | Barbara Bach
+4 | people | In which James Bond film did Ringo Starr's wife Barbara Bach star? | The Spy Who Loved Me | Moonraker | Live and Let Die | Octopussy | Barbara Bach
+4 | people | Which easy-listening hit, famously sung by Frank Sinatra, was composed by Beatles producer Bert Kaempfert? | Strangers in the Night | My Way | Something Stupid | Fly Me to the Moon | Bert Kaempfert
+3 | people | What was the maiden name of George Harrison's second wife, Olivia? | Arias | Boyd | Bach | Cox | Olivia Harrison
+4 | people | At which record company was Olivia Arias working when she met George Harrison? | A&M Records | Capitol Records | Apple Records | Warner Bros. | Olivia Harrison
+5 | people | Which charity appeal did Olivia Harrison launch in 1990 for orphans? | The Romanian Angel Appeal | The Bangladesh Fund | The Material World Appeal | The Rainbow Trust | Olivia Harrison
+2 | people | Which model did George Harrison marry in 1966? | Pattie Boyd | Jean Shrimpton | Twiggy | Jane Birkin | Pattie Boyd
+3 | people | Which friend of George Harrison did Pattie Boyd marry in 1979? | Eric Clapton | Ronnie Wood | Mick Fleetwood | Jeff Beck | Pattie Boyd; Eric Clapton
+3 | people | Pattie Boyd inspired Eric Clapton's "Layla" and which famous Beatles ballad? | Something | Yesterday | Michelle | And I Love Her | Pattie Boyd; Something
+4 | people | In which year did George Harrison and Pattie Boyd divorce? | 1977 | 1970 | 1974 | 1982 | Pattie Boyd
+4 | people | What is the British title of Pattie Boyd's 2007 autobiography? | Wonderful Today | Layla and Me | Something in the Way | A Model Life | Pattie Boyd
+4 | people | Tony Sheridan and which other musician are the only non-Beatles to receive a performer credit on a Beatles record label? | Billy Preston | Eric Clapton | Brian Jones | Nicky Hopkins | Tony Sheridan; Billy Preston
+4 | people | In which year did Tony Sheridan die? | 2013 | 1980 | 1995 | 2003 | Tony Sheridan
+3 | people | What was the job of Maureen Cox when she met Ringo Starr? | Hairdresser | Nurse | Secretary | Shop assistant | Maureen Starkey
+3 | people | In which year did Ringo Starr marry Maureen Cox? | 1965 | 1962 | 1968 | 1970 | Maureen Starkey; Ringo Starr
+4 | people | Where did Ringo Starr first meet his future wife Maureen? | The Cavern Club | A Butlins holiday camp | The Star-Club | A London nightclub | Maureen Starkey; Cavern Club
+4 | people | In which year did Ringo and Maureen Starkey divorce? | 1975 | 1970 | 1980 | 1985 | Maureen Starkey
+5 | places | In which London nightclub did Ringo Starr propose to Maureen Cox in January 1965? | The Ad Lib | The Bag O'Nails | The Scotch of St James | Annabel's | Maureen Starkey; Ad Lib
+5 | places | At which London square did Ringo Starr own a flat, later lent to other musicians? | Montagu Square | Berkeley Square | Sloane Square | Cadogan Square | Ringo Starr; Montagu Square
+4 | places | Which house did Ringo Starr buy from John Lennon in 1973? | Tittenhurst Park | Kenwood | Friar Park | Sunny Heights | Ringo Starr; Tittenhurst Park
+4 | people | How many children did Ringo Starr have with his first wife Maureen? | Three | One | Two | Five | Ringo Starr; Maureen Starkey
+2 | people | By what name was John Lennon's guardian, Mary Smith, usually known? | Aunt Mimi | Aunt Molly | Aunt Mabel | Aunt Maud | Mimi Smith
+3 | people | What was the name of Aunt Mimi's husband, who helped bring up John Lennon? | George Smith | Alf Smith | Bobby Smith | Harry Smith | Mimi Smith; George Smith
+4 | people | What was the family business of John Lennon's Uncle George? | A dairy | A butcher's shop | A pub | A garage | George Smith
+4 | people | In which year did John Lennon's Aunt Mimi die? | 1991 | 1970 | 1980 | 2001 | Mimi Smith
+5 | people | Aunt Mimi was the eldest of how many Stanley sisters? | Five | Two | Three | Seven | Mimi Smith
+5 | people | Which German word was used for Astrid Kirchherr, Klaus Voormann and Jürgen Vollmer's set of art-school friends? | Exis | Mods | Teds | Rockers | Exis; Hamburg
+4 | people | What was the maiden name of John Lennon's mother, Julia? | Stanley | Powell | Smith | Dykins | Julia Lennon
+4 | people | Who was driving the car that killed John Lennon's mother in 1958? | An off-duty policeman | A bus driver | A drunk sailor | A taxi driver | Julia Lennon
+4 | people | Which second instrument, besides the banjo, did Julia Lennon teach her son John? | Ukulele | Accordion | Harmonica | Piano | Julia Lennon
+4 | people | What was the job of John Lennon's father, Alfred? | Merchant seaman | Docker | Bus conductor | Policeman | Alfred Lennon
+4 | people | In which year did John Lennon's father Alfred die? | 1976 | 1958 | 1967 | 1980 | Alfred Lennon
+5 | people | In which seaside town did John Lennon's father Alfred spend his last years? | Brighton | Blackpool | Southport | Bournemouth | Alfred Lennon
+3 | people | With which trio did Eric Clapton play alongside Jack Bruce and Ginger Baker? | Cream | Traffic | Blind Faith | The Yardbirds | Eric Clapton; Cream
+3 | people | Jeff Lynne, who co-produced "Free as a Bird", led which band? | Electric Light Orchestra | Roxy Music | 10cc | Supertramp | Jeff Lynne; ELO
+3 | people | In which year did Ravi Shankar die? | 2012 | 1990 | 2001 | 2019 | Ravi Shankar
+3 | people | Which Grammy-winning singer of "Don't Know Why" is a daughter of Ravi Shankar? | Norah Jones | Alicia Keys | Corinne Bailey Rae | Sade | Ravi Shankar; Norah Jones
+4 | people | Which sitar-playing daughter of Ravi Shankar performed at the Concert for George? | Anoushka Shankar | Norah Jones | Lakshmi Shankar | Sukanya Shankar | Ravi Shankar; Anoushka Shankar
+4 | people | Which Beatle gave Alexis Mardas the nickname "Magic Alex"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Magic Alex; John Lennon
+4 | people | Which division of Apple did "Magic Alex" Mardas head? | Apple Electronics | Apple Films | Apple Retail | Apple Publishing | Magic Alex; Apple Electronics
+5 | people | Which gadget by "Magic Alex", a plastic box of randomly blinking lights, impressed John Lennon? | The Nothing Box | The Dream Machine | The Magic Lantern | The Mind Mirror | Magic Alex
+5 | places | At which London gallery did "Magic Alex" exhibit his light sculptures in 1965? | Indica Gallery | Robert Fraser Gallery | The Tate | Signals Gallery | Magic Alex; Indica Gallery
+4 | people | On which three Beatles albums is Geoff Emerick best known as engineer? | Revolver, Sgt. Pepper and Abbey Road | Please Please Me, With the Beatles and Help! | Rubber Soul, Let It Be and Yellow Submarine | Beatles for Sale, Help! and Rubber Soul | Geoff Emerick
+4 | people | What is the title of Geoff Emerick's 2006 memoir? | Here, There and Everywhere | All You Need Is Ears | Sound Man | Abbey Road to Ziggy Stardust | Geoff Emerick
+4 | solo-years | Which Paul McCartney and Wings album of 1973 was engineered by Geoff Emerick? | Band on the Run | Venus and Mars | Ram | London Town | Geoff Emerick; Band on the Run
+4 | people | In which year did Geoff Emerick die? | 2018 | 2001 | 2009 | 2022 | Geoff Emerick
+4 | people | What is the title of George Martin's 1979 autobiography? | All You Need Is Ears | Here, There and Everywhere | Sound Man | Playback | George Martin; All You Need Is Ears
+5 | people | What degree subject did Maharishi Mahesh Yogi study at Allahabad University? | Physics | Philosophy | Medicine | Law | Maharishi
+4 | people | In which year did Maharishi Mahesh Yogi die? | 2008 | 1978 | 1990 | 2016 | Maharishi
+4 | people | Because he laughed so often in interviews, what was the Maharishi sometimes called? | The giggling guru | The smiling swami | The laughing lama | The chuckling yogi | Maharishi
+3 | people | Which American-born director made both A Hard Day's Night and Help!? | Richard Lester | Stanley Kubrick | Joseph Losey | Sidney Lumet | Richard Lester
+4 | films-tv | In which 1967 Richard Lester film did John Lennon play a soldier called Gripweed? | How I Won the War | The Knack | Petulia | The Bed Sitting Room | John Lennon; How I Won the War
+4 | people | Which superhero sequels did A Hard Day's Night director Richard Lester make in the 1980s? | Superman II and III | Batman and Batman Returns | Flash Gordon and Conan | Supergirl and Santa Claus | Richard Lester
+4 | people | In which year did Billy Preston die? | 2006 | 1990 | 1999 | 2015 | Billy Preston
+4 | people | Which Billy Preston single, produced by George Harrison, was a hit on Apple in 1969? | That's the Way God Planned It | Outa-Space | Nothing from Nothing | Will It Go Round in Circles | Billy Preston; Apple Records
+4 | people | Which Joe Cocker hit was co-written by Billy Preston? | You Are So Beautiful | Up Where We Belong | Delta Lady | Unchain My Heart | Billy Preston
+4 | people | Billy Preston first met The Beatles in Hamburg in 1962 while playing in whose band? | Little Richard's | Ray Charles's | Sam Cooke's | Chuck Berry's | Billy Preston; Little Richard
+4 | people | Who engineered all of The Beatles' EMI recordings up to the end of 1965? | Norman Smith | Geoff Emerick | Ken Scott | Glyn Johns | Norman Smith
+4 | people | The Beatles' early engineer Norman Smith went on to produce the first albums by which band? | Pink Floyd | Genesis | Yes | The Moody Blues | Norman Smith; Pink Floyd
+5 | people | Under what name did Beatles engineer Norman Smith have a hit record of his own in 1972? | Hurricane Smith | Whispering Smith | Stormy Norman | Normal Smith | Norman Smith; Hurricane Smith
+5 | people | What nickname did John Lennon give to the engineer Norman Smith? | Normal | Stormin' | Smithy | The Professor | Norman Smith
+4 | people | With whom did Dick James set up Northern Songs to publish Lennon and McCartney's music? | Brian Epstein | George Martin | Lew Grade | Allen Klein | Dick James; Northern Songs
+4 | people | Which singer-songwriter did Dick James's DJM label later sign? | Elton John | David Bowie | Cat Stevens | Rod Stewart | Dick James; Elton John
+5 | people | Before becoming a publisher, Dick James sang the theme tune of which 1950s TV series? | The Adventures of Robin Hood | Dixon of Dock Green | The Lone Ranger | William Tell | Dick James

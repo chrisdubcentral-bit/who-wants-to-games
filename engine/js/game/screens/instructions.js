@@ -1,5 +1,6 @@
 import { mount, esc } from '../../ui/dom.js';
 import { t, ed } from '../../core/edition.js';
+import { LIMIT } from '../ranking.js';
 import { isSoundOn, setSoundOn, playCheer, soundAvailable } from '../../core/sound.js';
 
 const soundLabel = (on) => (on ? 'Sound On' : 'Sound Off');
@@ -37,8 +38,8 @@ export function render(root, app) {
           <p>${esc(t('how.seasons', { restart }))}</p>
         </article>
         <article class="card how-card">
-          <div class="icon icon-sm">100</div>
-          <h3>The Top 100</h3>
+          <div class="icon icon-sm">${LIMIT}</div>
+          <h3>The Top ${LIMIT}</h3>
           <p>${esc(t('how.top100'))}</p>
         </article>
         ${soundAvailable() ? `<article class="card how-card">

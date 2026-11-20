@@ -1,0 +1,1378 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Who was John Lennon's companion during his 18-month \"Lost Weekend\" in the mid-1970s?",
+    "options": [
+      "Yoko Ono",
+      "Cynthia Powell",
+      "Linda Eastman",
+      "May Pang"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "May Pang",
+      "Lost Weekend"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "What is the title of May Pang's 1983 memoir of her time with John Lennon?",
+    "options": [
+      "Instamatic Karma",
+      "A Twist of Lennon",
+      "Lost Weekend",
+      "Loving John"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "May Pang"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "What name did John Lennon give to his separation from Yoko Ono in 1973 and 1974?",
+    "options": [
+      "The Lost Weekend",
+      "The Dark Year",
+      "The Big Sleep",
+      "The Long Holiday"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Lennon",
+      "Lost Weekend"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which Liverpool group, led by Gerry Marsden, was the first act to reach UK number one with its first three singles?",
+    "options": [
+      "The Searchers",
+      "The Merseybeats",
+      "Gerry and the Pacemakers",
+      "The Swinging Blue Jeans"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Gerry Marsden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which Gerry and the Pacemakers hit became the anthem of Liverpool Football Club?",
+    "options": [
+      "Ferry Cross the Mersey",
+      "How Do You Do It?",
+      "I Like It",
+      "You'll Never Walk Alone"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Gerry Marsden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did Gerry Marsden die?",
+    "options": [
+      "2021",
+      "2013",
+      "2005",
+      "1995"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Gerry Marsden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "On which date did Guinness heir Tara Browne die in a car crash?",
+    "options": [
+      "27 August 1967",
+      "18 December 1966",
+      "1 June 1967",
+      "3 July 1969"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tara Browne"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "By what nickname was the London art dealer Robert Fraser known?",
+    "options": [
+      "Groovy Bob",
+      "Swinging Bob",
+      "Arty Bob",
+      "Bob the Dealer"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Robert Fraser"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "The art dealer Robert Fraser was art director for which Beatles album sleeve?",
+    "options": [
+      "Revolver",
+      "Let It Be",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Abbey Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Robert Fraser",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which singer did Peter Asher go on to manage and produce after James Taylor?",
+    "options": [
+      "Linda Ronstadt",
+      "Carly Simon",
+      "Joni Mitchell",
+      "Stevie Nicks"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Asher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "What is the title of Peter Asher's 2019 book about the band?",
+    "options": [
+      "Here, There and Everywhere",
+      "Life with the Beatles",
+      "The Beatles from A to Zed",
+      "Yesterday and Today"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Peter Asher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Lee Eastman, Paul McCartney's father-in-law, followed which profession?",
+    "options": [
+      "Lawyer",
+      "Photographer",
+      "Banker",
+      "Film producer"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lee Eastman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Lee Eastman was the lawyer of and a collector of works by which abstract painter?",
+    "options": [
+      "Mark Rothko",
+      "Willem de Kooning",
+      "Franz Kline",
+      "Jackson Pollock"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lee Eastman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which daughter of Paul and Linda McCartney became a famous fashion designer?",
+    "options": [
+      "Mary McCartney",
+      "Heather McCartney",
+      "Beatrice McCartney",
+      "Stella McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Stella McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which daughter of Paul and Linda McCartney became a photographer?",
+    "options": [
+      "Mary McCartney",
+      "Stella McCartney",
+      "Beatrice McCartney",
+      "Ruth McCartney"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mary McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "solo-years",
+    "difficulty": 3,
+    "question": "Which former Moody Blues singer was a member of Wings for the band's whole career?",
+    "options": [
+      "Ray Thomas",
+      "Denny Laine",
+      "Mike Pinder",
+      "Justin Hayward"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Denny Laine",
+      "Wings"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "solo-years",
+    "difficulty": 3,
+    "question": "Which 1977 Wings hit did Paul McCartney write with Denny Laine?",
+    "options": [
+      "Jet",
+      "Silly Love Songs",
+      "Band on the Run",
+      "Mull of Kintyre"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Denny Laine",
+      "Mull of Kintyre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "Between which years did Paul McCartney's band Wings exist?",
+    "options": [
+      "1980 to 1990",
+      "1975 to 1985",
+      "1971 to 1981",
+      "1968 to 1972"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Wings"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Moody Blues hit of 1964 was sung by future Wings member Denny Laine?",
+    "options": [
+      "Go Now",
+      "Question",
+      "Tuesday Afternoon",
+      "Nights in White Satin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Denny Laine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did Jackie Lomax, the Apple singer produced by George Harrison, die?",
+    "options": [
+      "2013",
+      "1975",
+      "1988",
+      "2001"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jackie Lomax"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "With which Liverpool group did Jackie Lomax sing before signing to Apple?",
+    "options": [
+      "The Undertakers",
+      "The Big Three",
+      "The Remo Four",
+      "The Mojos"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jackie Lomax",
+      "The Undertakers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which author of the 1960s London underground wrote Paul McCartney's authorised biography Many Years from Now?",
+    "options": [
+      "Philip Norman",
+      "Hunter Davies",
+      "Barry Miles",
+      "Ray Connolly"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barry Miles",
+      "Many Years from Now"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "Which London gallery and bookshop was co-owned by Barry Miles, John Dunbar and Peter Asher?",
+    "options": [
+      "Indica",
+      "Kasmin",
+      "Signals",
+      "The Arts Lab"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Indica Gallery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "places",
+    "difficulty": 3,
+    "question": "At which London gallery did John Lennon first meet Yoko Ono in November 1966?",
+    "options": [
+      "The Tate Gallery",
+      "Indica Gallery",
+      "Robert Fraser Gallery",
+      "The Whitechapel Gallery"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Indica Gallery",
+      "Yoko Ono"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "John Dunbar, co-owner of the gallery where Lennon met Yoko Ono, was married to which singer?",
+    "options": [
+      "Marianne Faithfull",
+      "Sandie Shaw",
+      "Dusty Springfield",
+      "Cilla Black"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Dunbar",
+      "Marianne Faithfull"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "Which underground newspaper did Paul McCartney help to fund in London in 1966?",
+    "options": [
+      "Black Dwarf",
+      "Oz",
+      "Friends",
+      "International Times"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "International Times",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "In which American state was Bob Dylan born and raised?",
+    "options": [
+      "California",
+      "Texas",
+      "New York",
+      "Minnesota"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bob Dylan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "In which supergroup did George Harrison play alongside Bob Dylan, Tom Petty, Roy Orbison and Jeff Lynne?",
+    "options": [
+      "Plastic Ono Band",
+      "Traveling Wilburys",
+      "The Highwaymen",
+      "Blind Faith"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison",
+      "Traveling Wilburys"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "solo-years",
+    "difficulty": 3,
+    "question": "With which singer did John Lennon have a US number one, \"Whatever Gets You thru the Night\", in 1974?",
+    "options": [
+      "Harry Nilsson",
+      "David Bowie",
+      "Mick Jagger",
+      "Elton John"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Elton John"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "At whose Madison Square Garden concert did John Lennon make his last major stage appearance in November 1974?",
+    "options": [
+      "Paul McCartney's",
+      "David Bowie's",
+      "George Harrison's",
+      "Elton John's"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Elton John"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Elton John is godfather to which son of a Beatle?",
+    "options": [
+      "Zak Starkey",
+      "Sean Lennon",
+      "Julian Lennon",
+      "Dhani Harrison"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Elton John",
+      "Sean Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Who was the secretary of The Beatles' official fan club from 1962 to 1972?",
+    "options": [
+      "Freda Kelly",
+      "Barbara Bennett",
+      "Maureen Cleave",
+      "Wendy Hanson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Freda Kelly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "What is the title of the 2013 documentary about Beatles fan club secretary Freda Kelly?",
+    "options": [
+      "Secretary to the Stars",
+      "Dear Freda",
+      "Freda and the Fabs",
+      "Good Ol' Freda"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Freda Kelly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "Which actress played the priestess Ahme in the film Help!?",
+    "options": [
+      "Eleanor Bron",
+      "Julie Christie",
+      "Honor Blackman",
+      "Diana Rigg"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Eleanor Bron",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Help! actress is sometimes said to have lent her first name to \"Eleanor Rigby\"?",
+    "options": [
+      "Eleanor Parker",
+      "Eleanor Bron",
+      "Eleanor Summerfield",
+      "Eleanor Powell"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Eleanor Bron",
+      "Eleanor Rigby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did David Mason, the trumpet soloist on \"Penny Lane\", die?",
+    "options": [
+      "2011",
+      "1999",
+      "1985",
+      "1967"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "David Mason"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "A television broadcast of which Bach work inspired Paul McCartney to ask for a piccolo trumpet on \"Penny Lane\"?",
+    "options": [
+      "The Brandenburg Concertos",
+      "The St Matthew Passion",
+      "The Mass in B minor",
+      "The Goldberg Variations"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Penny Lane",
+      "David Mason"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which DJ, who travelled with The Beatles in 1966, later became a zany TV comedian?",
+    "options": [
+      "Jimmy Young",
+      "Dave Lee Travis",
+      "Kenny Everett",
+      "Noel Edmonds"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kenny Everett"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which session pianist plays the electric piano on the single version of \"Revolution\"?",
+    "options": [
+      "Billy Preston",
+      "Ian Stewart",
+      "Rick Wakeman",
+      "Nicky Hopkins"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Nicky Hopkins",
+      "Revolution"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did session pianist Nicky Hopkins die?",
+    "options": [
+      "1994",
+      "2015",
+      "1980",
+      "2005"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Nicky Hopkins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Dutch collective painted a huge psychedelic mural on the Apple Boutique in Baker Street?",
+    "options": [
+      "Hapshash",
+      "De Stijl",
+      "The Provos",
+      "The Fool"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Fool",
+      "Apple Boutique"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which Beatle had his Mini car painted in psychedelic colours by The Fool?",
+    "options": [
+      "Ringo Starr",
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Fool",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which Beatle had a piano painted by the design group The Fool?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Fool",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "On which Mediterranean island were the designers of The Fool discovered in 1966?",
+    "options": [
+      "Malta",
+      "Sicily",
+      "Ibiza",
+      "Crete"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Fool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Prudence Farrow is the daughter of which Hollywood actress, famous as Jane in the Tarzan films?",
+    "options": [
+      "Vivien Leigh",
+      "Maureen O'Sullivan",
+      "Olivia de Havilland",
+      "Fay Wray"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Prudence Farrow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did Al Aronowitz, the journalist who introduced Dylan to The Beatles, die?",
+    "options": [
+      "2005",
+      "1985",
+      "1970",
+      "2015"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Al Aronowitz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "By what flattering nickname was Decca's Dick Rowe known in the record business?",
+    "options": [
+      "The talent spotter",
+      "The hitmaker",
+      "The man with the golden ear",
+      "Mr. Music"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dick Rowe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "After missing out on The Beatles, which band did Dick Rowe sign to Decca on George Harrison's recommendation?",
+    "options": [
+      "The Kinks",
+      "The Yardbirds",
+      "The Rolling Stones",
+      "The Who"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dick Rowe",
+      "The Rolling Stones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which impresario auditioned the Silver Beetles in 1960 as a backing group for his singers?",
+    "options": [
+      "Brian Epstein",
+      "Larry Parnes",
+      "Don Arden",
+      "Joe Meek"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Larry Parnes",
+      "Silver Beetles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which of Larry Parnes's singers did the Silver Beetles hope to back at their 1960 audition?",
+    "options": [
+      "Vince Eager",
+      "Tommy Steele",
+      "Billy Fury",
+      "Marty Wilde"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Larry Parnes",
+      "Billy Fury"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did the journalist Maureen Cleave die?",
+    "options": [
+      "2005",
+      "1970",
+      "2021",
+      "1990"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maureen Cleave"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "For which London newspaper did Maureen Cleave interview each of The Beatles in 1966?",
+    "options": [
+      "Daily Express",
+      "The Sunday Times",
+      "Evening Standard",
+      "The Observer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maureen Cleave"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Alan Parsons, who engineered on Abbey Road, also engineered which Pink Floyd album?",
+    "options": [
+      "Wish You Were Here",
+      "The Dark Side of the Moon",
+      "Meddle",
+      "The Wall"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alan Parsons"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which Parlophone producer supervised The Beatles' first EMI session on 6 June 1962 before calling in George Martin?",
+    "options": [
+      "Walter Ridley",
+      "Norrie Paramor",
+      "Ron Richards",
+      "John Burgess"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ron Richards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Ron Richards, who worked on The Beatles' first sessions, is best known for discovering which Manchester group?",
+    "options": [
+      "Herman's Hermits",
+      "The Hollies",
+      "The Mindbenders",
+      "Freddie and the Dreamers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ron Richards",
+      "The Hollies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "In which year did Beatles associate and Apple promotions man Tony Bramwell die?",
+    "options": [
+      "2024",
+      "1990",
+      "2015",
+      "2005"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Tony Bramwell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "On which date did The Beatles have their first recording session at EMI Studios?",
+    "options": [
+      "1 January 1962",
+      "4 September 1962",
+      "6 June 1962",
+      "11 February 1963"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "EMI",
+      "First session"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "When George Martin asked the Beatles if there was anything they didn't like at their first session, who said \"I don't like your tie\"?",
+    "options": [
+      "George Harrison",
+      "Pete Best",
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Martin",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "How many times was Paul McCartney married?",
+    "options": [
+      "Four",
+      "Three",
+      "One",
+      "Two"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "How many times was John Lennon married?",
+    "options": [
+      "Once",
+      "Twice",
+      "Three times",
+      "Four times"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "people",
+    "difficulty": 3,
+    "question": "How many times was George Harrison married?",
+    "options": [
+      "Twice",
+      "Three times",
+      "Once",
+      "Never"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "people",
+    "difficulty": 3,
+    "question": "How many times has Ringo Starr been married?",
+    "options": [
+      "Three times",
+      "Four times",
+      "Twice",
+      "Once"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "Which Beatle was left-handed and played a left-handed bass?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "None of them"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "band-members",
+    "difficulty": 3,
+    "question": "Which Beatle, though he played a right-handed kit, is naturally left-handed?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which Beatle was the shortest of the four?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which Beatle wore round \"granny\" glasses from 1966 onwards?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Ringo Starr",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which Beatle is famous for wearing lots of rings on his fingers?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which Beatle's songwriting was usually limited to one or two songs per album?",
+    "options": [
+      "Brian Epstein",
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which two Beatles were still alive in 2020?",
+    "options": [
+      "Paul McCartney and George Harrison",
+      "George Harrison and Ringo Starr",
+      "Paul McCartney and Ringo Starr",
+      "John Lennon and Paul McCartney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which of these was NOT a member of The Beatles?",
+    "options": [
+      "George Harrison",
+      "Mick Jagger",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "band-members",
+    "difficulty": 1,
+    "question": "Which of these four were The Beatles?",
+    "options": [
+      "Roger, Pete, John and Keith",
+      "Ray, Dave, Pete and Mick",
+      "John, Paul, George and Ringo",
+      "Mick, Keith, Brian and Charlie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Beatles"
+    ],
+    "source": "manual"
+  }
+]

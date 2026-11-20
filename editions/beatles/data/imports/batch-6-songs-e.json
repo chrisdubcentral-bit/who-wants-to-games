@@ -1,0 +1,1697 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "songs",
+    "difficulty": 1,
+    "question": "Which Beatle wrote and sang \"Let It Be\"?",
+    "options": [
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Let It Be",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "In which year was the single \"Let It Be\" released?",
+    "options": [
+      "1968",
+      "1971",
+      "1970",
+      "1969"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "On which date was the \"Let It Be\" single released?",
+    "options": [
+      "6 March 1970",
+      "26 September 1969",
+      "11 April 1969",
+      "8 May 1970"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Who produced the single version of \"Let It Be\", with its softer guitar solo?",
+    "options": [
+      "Chris Thomas",
+      "Phil Spector",
+      "George Martin",
+      "Glyn Johns"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be",
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "\"Let It Be\" set a record by entering the US Billboard Hot 100 at which position?",
+    "options": [
+      "Number 15",
+      "Number 1",
+      "Number 6",
+      "Number 2"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who was the main writer of \"Lady Madonna\"?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lady Madonna",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "What was the B-side of \"Lady Madonna\"?",
+    "options": [
+      "Blue Jay Way",
+      "The Inner Light",
+      "Hey Bulldog",
+      "Old Brown Shoe"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lady Madonna",
+      "The Inner Light"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "In which year was \"Lady Madonna\" released?",
+    "options": [
+      "1966",
+      "1967",
+      "1969",
+      "1968"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lady Madonna"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Which single was The Beatles' last release on the Parlophone label in Britain?",
+    "options": [
+      "Hey Jude",
+      "All You Need Is Love",
+      "Lady Madonna",
+      "Hello, Goodbye"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lady Madonna",
+      "Parlophone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"Lady Madonna\" draws on which piano style?",
+    "options": [
+      "Ragtime",
+      "Boogie-woogie",
+      "Baroque",
+      "Bossa nova"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lady Madonna"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"In My Life\" appears on which album?",
+    "options": [
+      "Rubber Soul",
+      "Help!",
+      "Abbey Road",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "In My Life",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "Who played the piano solo on \"In My Life\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Billy Preston",
+      "George Martin"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "In My Life",
+      "George Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote the lyrics of \"In My Life\"?",
+    "options": [
+      "Ringo Starr",
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "In My Life",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "Which magazine named \"In My Life\" the best song of all time in 2000?",
+    "options": [
+      "Mojo",
+      "Rolling Stone",
+      "Q",
+      "NME"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "In My Life"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote \"If I Needed Someone\"?",
+    "options": [
+      "Paul McCartney",
+      "John Lennon",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "If I Needed Someone",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which British group released a single of \"If I Needed Someone\" on the same day as Rubber Soul came out?",
+    "options": [
+      "The Hollies",
+      "The Searchers",
+      "The Moody Blues",
+      "The Tremeloes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "If I Needed Someone",
+      "The Hollies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"If I Needed Someone\" shows the influence of which American band?",
+    "options": [
+      "The Lovin' Spoonful",
+      "The Doors",
+      "The Beach Boys",
+      "The Byrds"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "If I Needed Someone",
+      "The Byrds"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which British album is \"I've Just Seen a Face\"?",
+    "options": [
+      "Beatles for Sale",
+      "Rubber Soul",
+      "Help!",
+      "Revolver"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "I've Just Seen a Face",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "What was the working title of \"I've Just Seen a Face\"?",
+    "options": [
+      "Daisy Hawkins",
+      "Uncle Albert's Tune",
+      "Scrambled Eggs",
+      "Auntie Gin's Theme"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "I've Just Seen a Face"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"I've Just Seen a Face\" was the opening track of the American version of which album?",
+    "options": [
+      "Rubber Soul",
+      "Help!",
+      "Beatles VI",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "I've Just Seen a Face",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"If I Fell\" appears on which album?",
+    "options": [
+      "Beatles for Sale",
+      "With the Beatles",
+      "A Hard Day's Night",
+      "Help!"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "If I Fell",
+      "A Hard Day's Night"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which song did John Lennon call his \"first attempt at a ballad proper\"?",
+    "options": [
+      "In My Life",
+      "If I Fell",
+      "Yes It Is",
+      "This Boy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "If I Fell",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"It Won't Be Long\" opens which album?",
+    "options": [
+      "Beatles for Sale",
+      "Please Please Me",
+      "A Hard Day's Night",
+      "With the Beatles"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "It Won't Be Long",
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"It's All Too Much\"?",
+    "options": [
+      "Ringo Starr",
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "It's All Too Much",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "\"It's All Too Much\" appears on which album?",
+    "options": [
+      "The White Album",
+      "Magical Mystery Tour",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Yellow Submarine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "It's All Too Much",
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "How many new songs did The Beatles supply for the Yellow Submarine film?",
+    "options": [
+      "Ten",
+      "One",
+      "Six",
+      "Four"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yellow Submarine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "To which film company did The Beatles owe the Yellow Submarine film under contract?",
+    "options": [
+      "Rank Organisation",
+      "Warner Bros.",
+      "United Artists",
+      "Paramount"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yellow Submarine",
+      "United Artists"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Which song was the first George Harrison composition to appear on a Beatles single?",
+    "options": [
+      "The Inner Light",
+      "Something",
+      "Taxman",
+      "Old Brown Shoe"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Inner Light",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "The words of \"The Inner Light\" are based on which ancient text?",
+    "options": [
+      "I Ching",
+      "Tao Te Ching",
+      "Bhagavad Gita",
+      "The Tibetan Book of the Dead"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Inner Light"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "John Lennon's song \"Julia\" is about whom?",
+    "options": [
+      "His mother",
+      "His aunt",
+      "His daughter",
+      "His first wife"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Julia",
+      "Julia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "In which year did John Lennon's mother Julia die?",
+    "options": [
+      "1961",
+      "1964",
+      "1958",
+      "1955"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Julia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "Which song was the last to be recorded for the White Album?",
+    "options": [
+      "Julia",
+      "Good Night",
+      "Revolution 9",
+      "Helter Skelter"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Julia",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "In 1976 \"Julia\" was the B-side of which Beatles single?",
+    "options": [
+      "Yesterday",
+      "Got to Get You into My Life",
+      "Ob-La-Di, Ob-La-Da",
+      "Back in the U.S.S.R."
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Julia"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "How many Beatles perform on \"Julia\"?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Julia",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which unreleased 1965 song was meant to be Ringo's vocal spot on the Help! album before \"Act Naturally\" replaced it?",
+    "options": [
+      "Wait",
+      "That Means a Lot",
+      "If You've Got Trouble",
+      "Leave My Kitten Alone"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "If You've Got Trouble",
+      "Ringo Starr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which songwriting duo wrote \"Kansas City\", covered by The Beatles on Beatles for Sale?",
+    "options": [
+      "Leiber and Stoller",
+      "Pomus and Shuman",
+      "Holland and Dozier",
+      "Goffin and King"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kansas City",
+      "Leiber and Stoller"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On which British album is \"It's Only Love\"?",
+    "options": [
+      "Revolver",
+      "Help!",
+      "Rubber Soul",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "It's Only Love",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "\"Junk\", written in India in 1968, was released on which Paul McCartney solo album?",
+    "options": [
+      "McCartney",
+      "Ram",
+      "Band on the Run",
+      "Wild Life"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Junk",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "In which year did Paul McCartney write \"Like Dreamers Do\"?",
+    "options": [
+      "1962",
+      "1959",
+      "1963",
+      "1956"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Like Dreamers Do",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "early-years",
+    "difficulty": 4,
+    "question": "Who played drums at The Beatles' Decca audition?",
+    "options": [
+      "Tommy Moore",
+      "Andy White",
+      "Pete Best",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Decca audition",
+      "Pete Best"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "What is the title of the German-language version of \"I Want to Hold Your Hand\"?",
+    "options": [
+      "Komm, gib mir deine Hand",
+      "Halt meine Hand",
+      "Ich will deine Hand",
+      "Sie liebt dich"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Komm, gib mir deine Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "\"Sie liebt dich\" is the German version of which Beatles hit?",
+    "options": [
+      "All My Loving",
+      "She Loves You",
+      "Love Me Do",
+      "Please Please Me"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sie liebt dich",
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who wrote the German lyrics for \"Komm, gib mir deine Hand\" and \"Sie liebt dich\"?",
+    "options": [
+      "Klaus Voormann",
+      "Camillo Felgen",
+      "Tony Sheridan",
+      "Bert Kaempfert"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Komm, gib mir deine Hand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "singles",
+    "difficulty": 5,
+    "question": "Which label released the Beatles' German-language single in West Germany in 1964?",
+    "options": [
+      "Polydor",
+      "Electrola",
+      "Parlophone",
+      "Odeon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Komm, gib mir deine Hand",
+      "Odeon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Lucy in the Sky with Diamonds\" is on which album?",
+    "options": [
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Yellow Submarine",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lucy in the Sky with Diamonds",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Many listeners thought the title \"Lucy in the Sky with Diamonds\" hid a reference to which drug?",
+    "options": [
+      "LSD",
+      "Heroin",
+      "Cocaine",
+      "Cannabis"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lucy in the Sky with Diamonds"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Who wrote \"The Long and Winding Road\"?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Long and Winding Road",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"The Long and Winding Road\" is on which album?",
+    "options": [
+      "Magical Mystery Tour",
+      "The White Album",
+      "Let It Be",
+      "Abbey Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Long and Winding Road",
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which singer did Paul McCartney imagine performing \"The Long and Winding Road\" when he wrote it?",
+    "options": [
+      "Elvis Presley",
+      "Ray Charles",
+      "Tom Jones",
+      "Frank Sinatra"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Long and Winding Road",
+      "Ray Charles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Abbey Road released in the UK?",
+    "options": [
+      "8 May 1970",
+      "26 September 1969",
+      "1 June 1967",
+      "22 November 1968"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Abbey Road was the Beatles' studio album of which number?",
+    "options": [
+      "Thirteenth",
+      "Ninth",
+      "Tenth",
+      "Eleventh"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "What nickname did the Abbey Road medley have during recording?",
+    "options": [
+      "Huge Melody",
+      "The Pop Opera",
+      "The Long One",
+      "The Big One"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Abbey Road",
+      "Medley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hamburg",
+    "category": "singles",
+    "difficulty": 1,
+    "question": "What was The Beatles' debut single?",
+    "options": [
+      "Help!",
+      "Please Please Me",
+      "She Loves You",
+      "Love Me Do"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "singles",
+    "difficulty": 3,
+    "question": "On which date was \"Love Me Do\" released in the UK?",
+    "options": [
+      "5 October 1962",
+      "11 January 1963",
+      "4 September 1962",
+      "22 March 1963"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "in-the-studio",
+    "difficulty": 3,
+    "question": "Which instrument does John Lennon play prominently on \"Love Me Do\"?",
+    "options": [
+      "Piano",
+      "Harmonica",
+      "Tambourine",
+      "Banjo"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Love Me Do",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "In which year did \"Love Me Do\" top the American chart?",
+    "options": [
+      "1966",
+      "1962",
+      "1964",
+      "1963"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Mean Mr. Mustard\"?",
+    "options": [
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mean Mr. Mustard",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song comes directly before \"Mean Mr. Mustard\" in the Abbey Road medley?",
+    "options": [
+      "Golden Slumbers",
+      "Sun King",
+      "Polythene Pam",
+      "Because"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mean Mr. Mustard",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "In \"Maxwell's Silver Hammer\", what is Maxwell's surname?",
+    "options": [
+      "Faraday",
+      "Edison",
+      "Newton",
+      "Franklin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Maxwell's Silver Hammer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Maxwell's Silver Hammer\" appears on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Let It Be",
+      "Abbey Road",
+      "The White Album"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maxwell's Silver Hammer",
+      "Abbey Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who wrote and sang \"Maxwell's Silver Hammer\"?",
+    "options": [
+      "John Lennon",
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maxwell's Silver Hammer",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "\"Martha My Dear\" was named after Paul McCartney's what?",
+    "options": [
+      "Old English Sheepdog",
+      "Housekeeper",
+      "First car",
+      "Younger sister"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Martha My Dear",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Martha My Dear\" is on which album?",
+    "options": [
+      "The White Album",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Abbey Road",
+      "Revolver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Martha My Dear",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote the White Album track \"Long, Long, Long\"?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Long, Long, Long",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "What is the job of the title character in \"Lovely Rita\"?",
+    "options": [
+      "Nurse",
+      "Barmaid",
+      "Meter maid",
+      "Bus conductress"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Lovely Rita"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "\"Lovely Rita\" is on which album?",
+    "options": [
+      "The White Album",
+      "Magical Mystery Tour",
+      "Revolver",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lovely Rita",
+      "Sgt. Pepper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Revolver track by George Harrison features sitar and tabla?",
+    "options": [
+      "Love You To",
+      "Taxman",
+      "She Said She Said",
+      "I Want to Tell You"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Love You To",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who played tabla on \"Love You To\"?",
+    "options": [
+      "Anil Bhagwat",
+      "Alla Rakha",
+      "Zakir Hussain",
+      "Ravi Shankar"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Love You To"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which With the Beatles song was written for Ringo Starr, who was given \"I Wanna Be Your Man\" instead?",
+    "options": [
+      "Not a Second Time",
+      "All I've Got to Do",
+      "Little Child",
+      "Hold Me Tight"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Little Child",
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which Little Richard song gave its name to a 1964 Beatles EP?",
+    "options": [
+      "Tutti Frutti",
+      "Lucille",
+      "Good Golly, Miss Molly",
+      "Long Tall Sally"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Long Tall Sally",
+      "Little Richard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who sings lead on the Beatles' version of \"Long Tall Sally\"?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "John Lennon",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Long Tall Sally",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Who wrote \"Matchbox\", sung by Ringo Starr on a 1964 Beatles EP?",
+    "options": [
+      "Little Richard",
+      "Carl Perkins",
+      "Chuck Berry",
+      "Buddy Holly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Matchbox",
+      "Carl Perkins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who was the main writer of the song \"Magical Mystery Tour\"?",
+    "options": [
+      "George Harrison",
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Magical Mystery Tour",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "In which month and year was the Magical Mystery Tour film first shown on television?",
+    "options": [
+      "June 1967",
+      "March 1968",
+      "December 1967",
+      "December 1966"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "\"Maggie Mae\" on Let It Be is a traditional folk song from which city?",
+    "options": [
+      "Glasgow",
+      "Belfast",
+      "Dublin",
+      "Liverpool"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Maggie Mae",
+      "Liverpool"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which composer based a 1964 West End musical on the folk song \"Maggie May\"?",
+    "options": [
+      "Andrew Lloyd Webber",
+      "Anthony Newley",
+      "Lionel Bart",
+      "Leslie Bricusse"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maggie May",
+      "Lionel Bart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which singer recorded Paul McCartney's \"Love of the Loved\" as her debut single in 1963?",
+    "options": [
+      "Cilla Black",
+      "Sandie Shaw",
+      "Dusty Springfield",
+      "Lulu"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Love of the Loved",
+      "Cilla Black"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "Which Lennon-McCartney song from the Decca audition was left off Anthology 1?",
+    "options": [
+      "Hello Little Girl",
+      "Love of the Loved",
+      "Searchin'",
+      "Like Dreamers Do"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Love of the Loved",
+      "Decca audition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Norwegian Wood\" appears on which album?",
+    "options": [
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Rubber Soul",
+      "Help!",
+      "Revolver"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Norwegian Wood",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "What is the subtitle of \"Norwegian Wood\"?",
+    "options": [
+      "I Once Had a Girl",
+      "This Bird Has Flown",
+      "Isn't It Good",
+      "Knowing She Would"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Norwegian Wood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who was the main writer of \"Norwegian Wood\"?",
+    "options": [
+      "Paul McCartney",
+      "Ringo Starr",
+      "John Lennon",
+      "George Harrison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Norwegian Wood",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "The lyrics of \"Norwegian Wood\" show the influence of which American songwriter?",
+    "options": [
+      "Paul Simon",
+      "Smokey Robinson",
+      "Bob Dylan",
+      "Brian Wilson"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Norwegian Wood",
+      "Bob Dylan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Part of the lyric of \"Michelle\" is sung in which language?",
+    "options": [
+      "Spanish",
+      "German",
+      "French",
+      "Italian"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Michelle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "\"Michelle\" appears on which album?",
+    "options": [
+      "Rubber Soul",
+      "Revolver",
+      "Help!",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Michelle",
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which group had a UK number one with a cover of \"Michelle\" in 1966?",
+    "options": [
+      "The Bachelors",
+      "The Seekers",
+      "The Fortunes",
+      "The Overlanders"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Michelle",
+      "The Overlanders"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Who was the main writer of \"Michelle\"?",
+    "options": [
+      "John Lennon",
+      "George Martin",
+      "George Harrison",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Michelle",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  }
+]

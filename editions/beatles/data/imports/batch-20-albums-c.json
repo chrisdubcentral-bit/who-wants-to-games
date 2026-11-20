@@ -1,0 +1,1380 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which label released Introducing... The Beatles, the group's first American album?",
+    "options": [
+      "United Artists",
+      "Capitol",
+      "Vee-Jay",
+      "Swan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Introducing... The Beatles",
+      "Vee-Jay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On which date was Introducing... The Beatles released in the US?",
+    "options": [
+      "22 March 1963",
+      "20 January 1964",
+      "9 February 1964",
+      "10 January 1964"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Introducing... The Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Introducing... The Beatles stalled at number two in the US behind which other Beatles album?",
+    "options": [
+      "Something New",
+      "A Hard Day's Night",
+      "Meet the Beatles!",
+      "The Beatles' Second Album"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Introducing... The Beatles",
+      "Meet the Beatles!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "For how many weeks did Introducing... The Beatles sit at number two on the US album chart?",
+    "options": [
+      "One",
+      "Nine",
+      "Twenty",
+      "Three"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Introducing... The Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "About how many copies of Introducing... The Beatles had Vee-Jay sold by late 1964?",
+    "options": [
+      "130,000",
+      "5 million",
+      "1.3 million",
+      "13 million"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Introducing... The Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "What was The Beatles' first album on Capitol Records in the US?",
+    "options": [
+      "Something New",
+      "Introducing... The Beatles",
+      "Meet the Beatles!",
+      "Beatles '65"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Meet the Beatles!",
+      "Capitol"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "On which date was Meet the Beatles! released?",
+    "options": [
+      "10 April 1964",
+      "20 January 1964",
+      "22 November 1963",
+      "9 February 1964"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Meet the Beatles!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "For how many weeks was Meet the Beatles! number one on the US album chart?",
+    "options": [
+      "Five",
+      "Two",
+      "Eleven",
+      "Thirty"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Meet the Beatles!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens Meet the Beatles!?",
+    "options": [
+      "I Saw Her Standing There",
+      "It Won't Be Long",
+      "All My Loving",
+      "I Want to Hold Your Hand"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Meet the Beatles!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What was done to Robert Freeman's black-and-white portrait for the cover of Meet the Beatles!?",
+    "options": [
+      "A blue tint was added",
+      "Ringo was cropped out",
+      "It was hand-coloured in red",
+      "It was printed upside down"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Meet the Beatles!",
+      "Robert Freeman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album replaced Meet the Beatles! at number one in the US in 1964?",
+    "options": [
+      "Introducing... The Beatles",
+      "Something New",
+      "A Hard Day's Night",
+      "The Beatles' Second Album"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Meet the Beatles!",
+      "The Beatles' Second Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "How many songs from With the Beatles were dropped for Meet the Beatles!?",
+    "options": [
+      "One",
+      "Nine",
+      "Five",
+      "Three"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Meet the Beatles!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song is the third track on Meet the Beatles!?",
+    "options": [
+      "It Won't Be Long",
+      "This Boy",
+      "Don't Bother Me",
+      "All My Loving"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Meet the Beatles!",
+      "This Boy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which month of 1964 was The Beatles' Second Album released in the US?",
+    "options": [
+      "December",
+      "April",
+      "January",
+      "July"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Beatles' Second Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens The Beatles' Second Album?",
+    "options": [
+      "She Loves You",
+      "Roll Over Beethoven",
+      "Long Tall Sally",
+      "Thank You Girl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Beatles' Second Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which hit single closes The Beatles' Second Album?",
+    "options": [
+      "Can't Buy Me Love",
+      "Twist and Shout",
+      "I Want to Hold Your Hand",
+      "She Loves You"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Beatles' Second Album",
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "In which year was The Beatles' Second Album first issued on CD, in the Capitol Albums box set?",
+    "options": [
+      "2014",
+      "2004",
+      "1995",
+      "1987"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Beatles' Second Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which 1964 American album included the German-language \"Komm, gib mir deine Hand\"?",
+    "options": [
+      "Beatles '65",
+      "Something New",
+      "The Early Beatles",
+      "Meet the Beatles!"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Something New"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many songs from the British A Hard Day's Night album appear on Something New?",
+    "options": [
+      "Five",
+      "Eight",
+      "Two",
+      "Thirteen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Something New"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song opens the American album Something New?",
+    "options": [
+      "Things We Said Today",
+      "Slow Down",
+      "Tell Me Why",
+      "I'll Cry Instead"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Something New"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which two songs from the Long Tall Sally EP are on Something New?",
+    "options": [
+      "Long Tall Sally and I Call Your Name",
+      "Bad Boy and Dizzy Miss Lizzy",
+      "Slow Down and Matchbox",
+      "Boys and Chains"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Something New"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Beatles '65 was the American counterpart of which British album?",
+    "options": [
+      "A Hard Day's Night",
+      "Help!",
+      "Rubber Soul",
+      "Beatles for Sale"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles '65"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which month and year was Beatles '65 released?",
+    "options": [
+      "December 1965",
+      "January 1965",
+      "December 1964",
+      "June 1965"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles '65"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which hit single and its B-side were added to Beatles '65?",
+    "options": [
+      "Eight Days a Week and I Don't Want to Spoil the Party",
+      "Help! and I'm Down",
+      "Ticket to Ride and Yes It Is",
+      "I Feel Fine and She's a Woman"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles '65",
+      "I Feel Fine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song closes Beatles '65?",
+    "options": [
+      "Honey Don't",
+      "Everybody's Trying to Be My Baby",
+      "She's a Woman",
+      "I Feel Fine"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles '65"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "All eleven tracks of The Early Beatles had first appeared in the US on which album?",
+    "options": [
+      "Something New",
+      "The Beatles' Second Album",
+      "Meet the Beatles!",
+      "Introducing... The Beatles"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Early Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song opens the Capitol album The Early Beatles?",
+    "options": [
+      "Twist and Shout",
+      "Love Me Do",
+      "Please Please Me",
+      "I Saw Her Standing There"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Early Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "The front cover of The Early Beatles reuses the back cover photo of which British album?",
+    "options": [
+      "Beatles for Sale",
+      "With the Beatles",
+      "Please Please Me",
+      "Help!"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Early Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which American album reached number one for six weeks from July 1965?",
+    "options": [
+      "Something New",
+      "Beatles VI",
+      "Beatles '65",
+      "Yesterday and Today"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatles VI"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which Larry Williams cover on Beatles VI did not appear on a British album until A Collection of Beatles Oldies?",
+    "options": [
+      "Dizzy Miss Lizzy",
+      "Slow Down",
+      "Bad Boy",
+      "Short Fat Fannie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles VI",
+      "Bad Boy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "What misprint appeared on the label of the New Zealand pressing of Beatles VI?",
+    "options": [
+      "Beatles 6",
+      "Beatles VII",
+      "Beetles VI",
+      "Beatles IV"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatles VI"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which medley opens Beatles VI?",
+    "options": [
+      "Kansas City/Hey-Hey-Hey-Hey!",
+      "Twist and Shout/Shout",
+      "Slow Down/Matchbox",
+      "Rock and Roll Music/Long Tall Sally"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatles VI"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which American Beatles album is notorious for its withdrawn \"butcher cover\"?",
+    "options": [
+      "Yesterday and Today",
+      "Something New",
+      "Hey Jude",
+      "Beatles VI"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yesterday and Today",
+      "Butcher cover"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "In which month and year was Yesterday and Today released?",
+    "options": [
+      "June 1966",
+      "January 1967",
+      "December 1965",
+      "August 1966"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yesterday and Today"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What were The Beatles wearing on the original \"butcher cover\"?",
+    "options": [
+      "School uniforms",
+      "Sergeant's uniforms",
+      "White butcher smocks",
+      "Black leather"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Yesterday and Today",
+      "Butcher cover"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What did the replacement cover of Yesterday and Today show the band gathered around?",
+    "options": [
+      "A steamer trunk",
+      "A grand piano",
+      "A red telephone box",
+      "A yellow submarine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yesterday and Today"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many tracks are on Yesterday and Today?",
+    "options": [
+      "Eleven",
+      "Eight",
+      "Twenty",
+      "Fourteen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yesterday and Today"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many new 1966 recordings, later on the British Revolver, were on Yesterday and Today?",
+    "options": [
+      "None",
+      "Six",
+      "One",
+      "Three"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yesterday and Today",
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens Yesterday and Today?",
+    "options": [
+      "Day Tripper",
+      "Yesterday",
+      "Nowhere Man",
+      "Drive My Car"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Yesterday and Today",
+      "Drive My Car"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song closes Yesterday and Today?",
+    "options": [
+      "Yesterday",
+      "Day Tripper",
+      "What Goes On",
+      "We Can Work It Out"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yesterday and Today",
+      "Day Tripper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Some saw the \"butcher cover\" as a protest at Capitol doing what to The Beatles' albums?",
+    "options": [
+      "Cutting up their track listings",
+      "Selling them too cheaply",
+      "Leaving off the lyrics",
+      "Pressing them on poor vinyl"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Yesterday and Today",
+      "Butcher cover"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "The 1970 compilation album Hey Jude was first released under which working title?",
+    "options": [
+      "Beatles Forever",
+      "More Oldies",
+      "The Beatles Again",
+      "The Final Collection"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hey Jude (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens the Hey Jude compilation album?",
+    "options": [
+      "Hey Jude",
+      "Paperback Writer",
+      "Lady Madonna",
+      "Can't Buy Me Love"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hey Jude (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes the Hey Jude compilation album?",
+    "options": [
+      "The Ballad of John and Yoko",
+      "Old Brown Shoe",
+      "Revolution",
+      "Don't Let Me Down"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hey Jude (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "In which year was the Hey Jude album first issued on CD?",
+    "options": [
+      "1993",
+      "2014",
+      "1987",
+      "2004"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hey Jude (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which country was the Hey Jude compilation album NOT originally released?",
+    "options": [
+      "United Kingdom",
+      "Australia",
+      "United States",
+      "Canada"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hey Jude (album)"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "What was The Beatles' first official greatest hits album in the UK, released in December 1966?",
+    "options": [
+      "A Collection of Beatles Oldies",
+      "Hey Jude",
+      "Past Masters",
+      "1962-1966"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Collection of Beatles Oldies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "What is the subtitle of A Collection of Beatles Oldies?",
+    "options": [
+      "For Christmas",
+      "Volume One",
+      "And Then Some",
+      "But Goldies!"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Collection of Beatles Oldies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "On which date was A Collection of Beatles Oldies released?",
+    "options": [
+      "9 December 1966",
+      "5 August 1966",
+      "3 December 1965",
+      "1 June 1967"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "A Collection of Beatles Oldies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens A Collection of Beatles Oldies?",
+    "options": [
+      "From Me to You",
+      "I Want to Hold Your Hand",
+      "She Loves You",
+      "Love Me Do"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Collection of Beatles Oldies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which song closes A Collection of Beatles Oldies?",
+    "options": [
+      "Yellow Submarine",
+      "I Want to Hold Your Hand",
+      "Paperback Writer",
+      "Eleanor Rigby"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "A Collection of Beatles Oldies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which track on A Collection of Beatles Oldies was previously unreleased in Britain?",
+    "options": [
+      "Michelle",
+      "Day Tripper",
+      "Bad Boy",
+      "Yesterday"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "A Collection of Beatles Oldies",
+      "Bad Boy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "By what colour is the Beatles compilation 1962-1966 known?",
+    "options": [
+      "White",
+      "Green",
+      "Red",
+      "Blue"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1962-1966",
+      "Red Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "albums",
+    "difficulty": 2,
+    "question": "By what colour is the Beatles compilation 1967-1970 known?",
+    "options": [
+      "Blue",
+      "Black",
+      "Red",
+      "Yellow"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1967-1970",
+      "Blue Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "In which year were the \"Red\" and \"Blue\" compilation albums first released?",
+    "options": [
+      "1973",
+      "1970",
+      "1982",
+      "1976"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1962-1966",
+      "1967-1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Who instigated the Red and Blue compilations shortly before he was dismissed from Apple?",
+    "options": [
+      "Allen Klein",
+      "George Martin",
+      "Derek Taylor",
+      "Neil Aspinall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1962-1966",
+      "Allen Klein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "The Red and Blue albums were a response to which bootleg collection sold on American television?",
+    "options": [
+      "Yellow Matter Custard",
+      "Alpha Omega",
+      "Great White Wonder",
+      "Kum Back"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1962-1966",
+      "Alpha Omega"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens the \"Red Album\", 1962-1966?",
+    "options": [
+      "Please Please Me",
+      "I Want to Hold Your Hand",
+      "Love Me Do",
+      "She Loves You"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1962-1966",
+      "Love Me Do"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song closes the original \"Red Album\", 1962-1966?",
+    "options": [
+      "Girl",
+      "Eleanor Rigby",
+      "Paperback Writer",
+      "Yellow Submarine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1962-1966"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which song opens the \"Blue Album\", 1967-1970?",
+    "options": [
+      "Penny Lane",
+      "All You Need Is Love",
+      "Strawberry Fields Forever",
+      "Sgt. Pepper's Lonely Hearts Club Band"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1967-1970",
+      "Strawberry Fields Forever"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "Which song closes the original \"Blue Album\", 1967-1970?",
+    "options": [
+      "The Long and Winding Road",
+      "Let It Be",
+      "Across the Universe",
+      "Get Back"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1967-1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many George Harrison songs are on the original \"Red Album\"?",
+    "options": [
+      "One",
+      "Three",
+      "None",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1962-1966",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "How many cover versions are on the original \"Red Album\"?",
+    "options": [
+      "Six",
+      "Two",
+      "Four",
+      "None"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1962-1966"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which of the two 1973 compilations reached number one on the US Billboard chart?",
+    "options": [
+      "1962-1966",
+      "1967-1970",
+      "Both",
+      "Neither"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1967-1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "In which month of 1993 were the Red and Blue albums first released on CD?",
+    "options": [
+      "January",
+      "April",
+      "September",
+      "December"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1962-1966",
+      "1967-1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "albums",
+    "difficulty": 3,
+    "question": "The 2023 expanded edition of the \"Blue Album\" added which newly completed song?",
+    "options": [
+      "Carnival of Light",
+      "Free as a Bird",
+      "Now and Then",
+      "Real Love"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1967-1970",
+      "Now and Then"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "The success of the Red and Blue albums inspired Capitol to release which Beach Boys compilation in 1974?",
+    "options": [
+      "Good Vibrations",
+      "Sunshine Dream",
+      "Spirit of America",
+      "Endless Summer"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1962-1966",
+      "Endless Summer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Until which year did The Beatles' American albums usually differ from the British ones?",
+    "options": [
+      "1964",
+      "1970",
+      "1967",
+      "1987"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "American albums"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which American record company rearranged The Beatles' albums for the US market from 1964?",
+    "options": [
+      "RCA Victor",
+      "Columbia",
+      "Capitol",
+      "Atlantic"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Capitol",
+      "American albums"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "How many albums by The Beatles were released in the US in under eighteen months up to Beatles VI?",
+    "options": [
+      "Fifteen",
+      "Four",
+      "Nine",
+      "Six"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatles VI",
+      "American albums"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "albums",
+    "difficulty": 5,
+    "question": "Which three songs were added to Meet the Beatles! that were not on With the Beatles?",
+    "options": [
+      "I Want to Hold Your Hand, I Saw Her Standing There and This Boy",
+      "Love Me Do, P.S. I Love You and Ask Me Why",
+      "She Loves You, I'll Get You and From Me to You",
+      "Twist and Shout, Boys and Chains"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Meet the Beatles!"
+    ],
+    "source": "manual"
+  }
+]

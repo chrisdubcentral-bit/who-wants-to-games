@@ -1,0 +1,603 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "songs",
+    "difficulty": 2,
+    "question": "Which of these songs on Please Please Me was NOT written by The Beatles?",
+    "options": [
+      "Misery",
+      "I Saw Her Standing There",
+      "There's a Place",
+      "Twist and Shout"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "How many cover versions are on The Beatles' debut album Please Please Me?",
+    "options": [
+      "Eight",
+      "Four",
+      "Two",
+      "Six"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Please Please Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which of these songs on With the Beatles is a cover version?",
+    "options": [
+      "It Won't Be Long",
+      "Not a Second Time",
+      "All My Loving",
+      "Roll Over Beethoven"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "With the Beatles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which of these songs on Beatles for Sale is a cover version?",
+    "options": [
+      "Mr. Moonlight",
+      "No Reply",
+      "Eight Days a Week",
+      "I'm a Loser"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Beatles for Sale"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which rockabilly singer had three of his songs covered by The Beatles in 1964 alone?",
+    "options": [
+      "Carl Perkins",
+      "Gene Vincent",
+      "Eddie Cochran",
+      "Johnny Burnette"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Carl Perkins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Which singer-songwriter wrote \"Rock and Roll Music\" and \"Roll Over Beethoven\", both covered by The Beatles?",
+    "options": [
+      "Bo Diddley",
+      "Chuck Berry",
+      "Little Richard",
+      "Fats Domino"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Covers",
+      "Chuck Berry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which group made the very first recording of \"Twist and Shout\", before the Isley Brothers' hit?",
+    "options": [
+      "The Shirelles",
+      "The Drifters",
+      "The Coasters",
+      "The Top Notes"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Twist and Shout"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which group made the original recording of \"Devil in Her Heart\", covered on With the Beatles?",
+    "options": [
+      "The Donays",
+      "The Marvelettes",
+      "The Chiffons",
+      "The Cookies"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Devil in Her Heart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which singer of \"Shout\" also recorded \"Twist and Shout\" before The Beatles?",
+    "options": [
+      "The Isley Brothers",
+      "The Drifters",
+      "The Contours",
+      "The Miracles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Shout"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Larry Williams song did The Beatles cover to close the Help! album?",
+    "options": [
+      "Bad Boy",
+      "Short Fat Fannie",
+      "Slow Down",
+      "Dizzy Miss Lizzy"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Help!"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Little Richard song is joined to \"Kansas City\" in the medley on Beatles for Sale?",
+    "options": [
+      "Hey-Hey-Hey-Hey!",
+      "Tutti Frutti",
+      "Lucille",
+      "Rip It Up"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Kansas City"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which traditional song was the last cover version to appear on an original Beatles studio album?",
+    "options": [
+      "Bad Boy",
+      "Maggie Mae",
+      "Act Naturally",
+      "Dizzy Miss Lizzy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Covers",
+      "Let It Be"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Liverpool skiffle-era group's recording of \"Maggie Mae\" is listed as the source of The Beatles' version?",
+    "options": [
+      "The Chas McDevitt Skiffle Group",
+      "The Quarrymen",
+      "Lonnie Donegan's Skiffle Group",
+      "The Vipers Skiffle Group"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Maggie Mae"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Buddy Holly song, recorded by The Quarrymen in 1958, opens the Anthology 1 covers?",
+    "options": [
+      "Peggy Sue",
+      "Rave On",
+      "That'll Be the Day",
+      "Oh Boy!"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "Anthology 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which old standard, recorded with Tony Sheridan's sessions in Hamburg, has John Lennon singing lead on Anthology 1?",
+    "options": [
+      "Ain't She Sweet",
+      "Sweet Georgia Brown",
+      "When the Saints Go Marching In",
+      "My Bonnie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Ain't She Sweet"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Ray Charles song is among the Quarrymen home recordings on Anthology 1?",
+    "options": [
+      "Hallelujah I Love Her So",
+      "Hit the Road Jack",
+      "What'd I Say",
+      "Georgia on My Mind"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Ray Charles"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which German film star's song \"Falling in Love Again\" did The Beatles play at the Star-Club in 1962?",
+    "options": [
+      "Lotte Lenya",
+      "Zarah Leander",
+      "Marlene Dietrich",
+      "Hildegard Knef"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "Star-Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Ink Spots song, sung by Paul McCartney, is on the Live! at the Star-Club album?",
+    "options": [
+      "Your Feet's Too Big",
+      "Java Jive",
+      "If I Didn't Care",
+      "Whispering Grass"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Star-Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Tommy Roe hit, sung by George Harrison, was part of The Beatles' Star-Club set?",
+    "options": [
+      "Sweet Pea",
+      "Everybody",
+      "Dizzy",
+      "Sheila"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Star-Club",
+      "Sheila"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Buddy Holly song, sung by George Harrison, appears on Live! at the Star-Club?",
+    "options": [
+      "It's So Easy",
+      "Raining in My Heart",
+      "Reminiscing",
+      "Heartbeat"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "Star-Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Phil Spector song, first a hit for the Teddy Bears, did The Beatles play at the Decca audition and the Star-Club?",
+    "options": [
+      "Da Doo Ron Ron",
+      "Then He Kissed Me",
+      "Be My Baby",
+      "To Know Her Is to Love Her"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Teddy Bears"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Elvis Presley debut single did The Beatles play on BBC radio, released on Live at the BBC?",
+    "options": [
+      "Love Me Tender",
+      "Hound Dog",
+      "That's All Right, Mama",
+      "Heartbreak Hotel"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "Live at the BBC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Everly Brothers song did The Beatles perform for the BBC, later released on Live at the BBC?",
+    "options": [
+      "Cathy's Clown",
+      "Bye Bye Love",
+      "Wake Up Little Susie",
+      "So How Come (No One Loves Me)"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Live at the BBC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which song, made popular by Marino Marini, did The Beatles record for the BBC with Paul on lead vocal?",
+    "options": [
+      "Come Prima",
+      "Arrivederci Roma",
+      "The Honeymoon Song",
+      "Volare"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Covers",
+      "Live at the BBC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Little Eva song was covered by The Beatles for the BBC and released on Live at the BBC?",
+    "options": [
+      "Keep Your Hands Off My Baby",
+      "The Loco-Motion",
+      "Old Smokey Locomotion",
+      "Let's Turkey Trot"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Little Eva"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "songs",
+    "difficulty": 4,
+    "question": "Which Little Richard song, a UK top five hit in 1957, did The Beatles perform for the BBC?",
+    "options": [
+      "Keep a-Knockin'",
+      "Lucille",
+      "Good Golly, Miss Molly",
+      "Jenny, Jenny"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Covers",
+      "Little Richard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which three rock and roll songs make up a medley released on Anthology 3?",
+    "options": [
+      "Rip It Up, Shake, Rattle and Roll and Blue Suede Shoes",
+      "Hound Dog, Jailhouse Rock and Heartbreak Hotel",
+      "Long Tall Sally, Lucille and Tutti Frutti",
+      "Johnny B. Goode, Carol and Memphis"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "Anthology 3"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which W. C. Handy blues standard appears on the 2018 anniversary edition of the White Album?",
+    "options": [
+      "Saint Louis Blues",
+      "Beale Street Blues",
+      "Memphis Blues",
+      "Yellow Dog Blues"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Covers",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Rodgers and Hart standard, played by The Beatles in 1968, appears on the White Album 50th anniversary edition?",
+    "options": [
+      "The Lady Is a Tramp",
+      "Where or When",
+      "My Funny Valentine",
+      "Blue Moon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Blue Moon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "songs",
+    "difficulty": 5,
+    "question": "Which Jimmy McCracklin song from the Get Back sessions appears on the 2021 Let It Be special edition?",
+    "options": [
+      "Just Got to Know",
+      "The Thrill Is Gone",
+      "Think",
+      "The Walk"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Covers",
+      "Let It Be"
+    ],
+    "source": "manual"
+  }
+]

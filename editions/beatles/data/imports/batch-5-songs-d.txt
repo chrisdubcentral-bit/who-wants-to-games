@@ -1,0 +1,90 @@
+# Beatles songs, part D (I Am the Walrus to I'm Gonna Sit Right Down and Cry). Source: Wikipedia song articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | songs | Who wrote "I Am the Walrus"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | I Am the Walrus; John Lennon
+3 | songs | "I Am the Walrus" was partly inspired by a poem by which author? | Lewis Carroll | Edward Lear | Dylan Thomas | Roald Dahl | I Am the Walrus; Lewis Carroll
+3 | films-tv | "I Am the Walrus" features in which Beatles television film? | Magical Mystery Tour | Help! | Yellow Submarine | Let It Be | I Am the Walrus; Magical Mystery Tour
+5 | films-tv | In Magical Mystery Tour, where do The Beatles mime to "I Am the Walrus"? | At a deserted airfield | On a seaside pier | In a circus tent | On a London rooftop | I Am the Walrus; Magical Mystery Tour
+1 | songs | Which Beatle wrote "Hey Jude"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Hey Jude; Paul McCartney
+2 | singles | In which year was "Hey Jude" released? | 1968 | 1966 | 1967 | 1970 | Hey Jude
+4 | singles | For how many weeks did "Hey Jude" stay at number one on the US Billboard Hot 100? | Nine | Three | Five | Fourteen | Hey Jude
+3 | singles | In which month of 1968 was "Hey Jude" released? | August | January | May | December | Hey Jude
+3 | albums | "Here, There and Everywhere" appears on which album? | Revolver | Rubber Soul | Help! | The White Album | Here, There and Everywhere; Revolver
+4 | songs | Which Beach Boys song inspired Paul McCartney to write "Here, There and Everywhere"? | God Only Knows | Good Vibrations | California Girls | Wouldn't It Be Nice | Here, There and Everywhere; The Beach Boys
+4 | people | Which girlfriend of Paul McCartney inspired the lyrics of "Here, There and Everywhere"? | Jane Asher | Linda Eastman | Dot Rhone | Francie Schwartz | Here, There and Everywhere; Jane Asher
+5 | places | At whose home did Paul McCartney write "Here, There and Everywhere" in June 1966? | John Lennon's | George Martin's | Brian Epstein's | Jane Asher's parents' | Here, There and Everywhere
+3 | songs | Who wrote "I Me Mine"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | I Me Mine; George Harrison
+4 | in-the-studio | Which song was the last new track The Beatles recorded before they broke up? | I Me Mine | The End | Let It Be | The Long and Winding Road | I Me Mine
+5 | places | At which film studios did The Beatles rehearse in January 1969, where "I Me Mine" was first played? | Twickenham Film Studios | Shepperton Studios | Pinewood Studios | Elstree Studios | I Me Mine; Twickenham
+4 | albums | "Honey Pie" is on which album? | The White Album | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Abbey Road | Honey Pie; White Album
+3 | singles | In which year was "I Feel Fine" released? | 1964 | 1963 | 1965 | 1966 | I Feel Fine
+3 | singles | Which Beatles single was the UK Christmas number one of 1964? | I Feel Fine | I Want to Hold Your Hand | Day Tripper | Ticket to Ride | I Feel Fine; Christmas number one
+3 | songs | Who wrote "I Feel Fine"? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | I Feel Fine; John Lennon
+4 | singles | "I Feel Fine" was the A-side of The Beatles' UK single of which number? | Their eighth | Their fourth | Their sixth | Their eleventh | I Feel Fine
+4 | songs | "I Need You" on the Help! album was written by which Beatle? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | I Need You; George Harrison
+5 | films-tv | The "I Need You" sequence in the film Help! was shot at which English location? | Salisbury Plain | Dartmoor | The Lake District | The South Downs | I Need You; Help!
+5 | in-the-studio | Which guitar effect did The Beatles use for the first time on "I Need You"? | A volume pedal | A wah-wah pedal | A fuzz box | A Leslie speaker | I Need You
+4 | band-members | In which year did George Harrison marry Pattie Boyd? | 1966 | 1964 | 1968 | 1970 | George Harrison; Pattie Boyd
+5 | solo-years | Which band played "I Need You" at the Concert for George in 2002? | Tom Petty and the Heartbreakers | Electric Light Orchestra | Traveling Wilburys | Oasis | I Need You; Concert for George
+4 | songs | "Honey Don't", sung by Ringo on Beatles for Sale, was written by whom? | Carl Perkins | Chuck Berry | Buddy Holly | Larry Williams | Honey Don't; Carl Perkins
+4 | songs | "Honey Don't" was originally the B-side of which rock and roll classic? | Blue Suede Shoes | Hound Dog | Rock Around the Clock | Great Balls of Fire | Honey Don't; Carl Perkins
+4 | albums | "I Don't Want to Spoil the Party" appears on which album? | Beatles for Sale | Help! | Rubber Soul | With the Beatles | I Don't Want to Spoil the Party; Beatles for Sale
+5 | singles | "I Don't Want to Spoil the Party" was the US B-side of which single? | Eight Days a Week | Ticket to Ride | I Feel Fine | Yesterday | I Don't Want to Spoil the Party
+4 | albums | "Hold Me Tight" appears on which album? | With the Beatles | Please Please Me | A Hard Day's Night | Beatles for Sale | Hold Me Tight; With the Beatles
+5 | in-the-studio | Which song was first attempted at the Please Please Me session but re-recorded for With the Beatles? | Hold Me Tight | All My Loving | Little Child | Not a Second Time | Hold Me Tight
+4 | singles | "I Call Your Name" was released in the UK on which EP? | Long Tall Sally | Twist and Shout | All My Loving | Magical Mystery Tour | I Call Your Name; Long Tall Sally
+4 | albums | Which compilation gathers the Beatles' released songs that were not on their UK studio albums? | Past Masters | Rarities | Anthology 1 | Love | Past Masters
+5 | albums | In which year was the Past Masters compilation first released? | 1988 | 1978 | 1982 | 1994 | Past Masters
+3 | albums | "Hey Bulldog" comes from which soundtrack album? | Yellow Submarine | Magical Mystery Tour | Help! | Let It Be | Hey Bulldog; Yellow Submarine
+5 | songs | What was the working title of "Hey Bulldog"? | Hey Bullfrog | Hey Buddy | Bulldog Blues | Hey Jules | Hey Bulldog
+5 | in-the-studio | The Beatles recorded "Hey Bulldog" while they were being filmed for a promo of which single? | Lady Madonna | Hey Jude | Hello, Goodbye | Revolution | Hey Bulldog; Lady Madonna
+4 | songs | Which song by Mitch Murray did The Beatles record but decline to release, before it became a hit for Gerry and the Pacemakers? | How Do You Do It? | I Like It | You'll Never Walk Alone | Ferry Cross the Mersey | How Do You Do It?; Gerry and the Pacemakers
+5 | songs | Who wrote "Hippy Hippy Shake", a staple of the Beatles' early stage act? | Chan Romero | Ritchie Valens | Eddie Cochran | Larry Williams | Hippy Hippy Shake
+1 | singles | Which Beatles single was their first American number one? | I Want to Hold Your Hand | Hey Jude | Help! | Yesterday | I Want to Hold Your Hand
+3 | singles | Which Beatles single kept "I Want to Hold Your Hand" off the UK number one spot for its first two weeks? | She Loves You | From Me to You | Please Please Me | Twist and Shout | I Want to Hold Your Hand; She Loves You
+4 | in-the-studio | "I Want to Hold Your Hand" was the first Beatles record made with which equipment? | Four-track tape | Eight-track tape | A Moog synthesiser | Dolby noise reduction | I Want to Hold Your Hand
+4 | singles | On which date was "I Want to Hold Your Hand" released in the UK? | 29 November 1963 | 5 October 1962 | 23 August 1963 | 20 March 1964 | I Want to Hold Your Hand
+4 | singles | Advance UK orders for "I Want to Hold Your Hand" passed which figure? | One million | 100,000 | 250,000 | Five million | I Want to Hold Your Hand
+4 | singles | For how many weeks did "I Want to Hold Your Hand" top the US Billboard chart from February 1964? | Seven | Two | Four | Twelve | I Want to Hold Your Hand
+3 | albums | "I'm Only Sleeping" is on which British album? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Help! | I'm Only Sleeping; Revolver
+4 | in-the-studio | What is unusual about George Harrison's guitar solo on "I'm Only Sleeping"? | It is played backwards | It is played on a sitar | It was recorded at half speed | It is played with a violin bow | I'm Only Sleeping; George Harrison
+3 | albums | "I Want You (She's So Heavy)" closes side one of which album? | Abbey Road | Let It Be | The White Album | Revolver | I Want You (She's So Heavy); Abbey Road
+5 | in-the-studio | On which date were all four Beatles together in a recording studio for the last time? | 20 August 1969 | 30 January 1969 | 3 January 1970 | 10 April 1970 | I Want You (She's So Heavy); Abbey Road
+4 | people | Who plays Hammond organ on "I Want You (She's So Heavy)"? | Billy Preston | George Martin | Nicky Hopkins | John Lennon | I Want You (She's So Heavy); Billy Preston
+4 | in-the-studio | Which song was the first to be recorded for the Abbey Road album? | I Want You (She's So Heavy) | Come Together | Something | Here Comes the Sun | I Want You (She's So Heavy); Abbey Road
+4 | songs | Which White Album song did John Lennon write in India about his insomnia? | I'm So Tired | Good Night | I'm Only Sleeping | Yer Blues | I'm So Tired; John Lennon
+4 | songs | Who wrote the White Album ballad "I Will"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | I Will; Paul McCartney
+5 | in-the-studio | What does Paul McCartney provide instead of a bass guitar on "I Will"? | A sung "vocal bass" | A tuba | A cello | A Moog synthesiser | I Will; Paul McCartney
+4 | songs | "I Want to Tell You" on Revolver was written by which Beatle? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | I Want to Tell You; George Harrison
+4 | albums | Which album was the first to include three George Harrison compositions? | Revolver | Rubber Soul | Help! | Sgt. Pepper's Lonely Hearts Club Band | Revolver; George Harrison
+4 | albums | Which of these is NOT one of George Harrison's three songs on Revolver? | If I Needed Someone | Taxman | Love You To | I Want to Tell You | Revolver; George Harrison
+4 | songs | "I'm Looking Through You" was written about Paul McCartney's relationship with whom? | Jane Asher | Linda Eastman | Cynthia Powell | Maureen Cox | I'm Looking Through You; Jane Asher
+3 | albums | "I'm Looking Through You" is on which album? | Rubber Soul | Revolver | Help! | A Hard Day's Night | I'm Looking Through You; Rubber Soul
+3 | albums | "I'll Follow the Sun" is on which British album? | Beatles for Sale | Help! | With the Beatles | Rubber Soul | I'll Follow the Sun; Beatles for Sale
+3 | songs | Who wrote and sang "I'll Follow the Sun"? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | I'll Follow the Sun; Paul McCartney
+3 | albums | "I Should Have Known Better" is on which album? | A Hard Day's Night | Help! | With the Beatles | Beatles for Sale | I Should Have Known Better; A Hard Day's Night
+4 | albums | On which date in 1964 was the A Hard Day's Night album released in Britain? | 10 July | 22 March | 4 December | 6 August | A Hard Day's Night
+3 | songs | Which Beatle sings lead on "I'm Happy Just to Dance with You"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | I'm Happy Just to Dance with You; George Harrison
+5 | singles | "I'll Cry Instead" was a US single backed with which song? | I'm Happy Just to Dance with You | Tell Me Why | Any Time at All | When I Get Home | I'll Cry Instead
+3 | people | "I Wanna Be Your Man" was first released as a single by which band? | The Rolling Stones | The Who | The Kinks | The Hollies | I Wanna Be Your Man; The Rolling Stones
+3 | songs | Who sings lead on the Beatles' own version of "I Wanna Be Your Man"? | Ringo Starr | John Lennon | George Harrison | Paul McCartney | I Wanna Be Your Man; Ringo Starr
+4 | albums | The Beatles' recording of "I Wanna Be Your Man" is on which album? | With the Beatles | Please Please Me | A Hard Day's Night | Beatles for Sale | I Wanna Be Your Man; With the Beatles
+2 | albums | "I Saw Her Standing There" opens which album? | Please Please Me | With the Beatles | A Hard Day's Night | Help! | I Saw Her Standing There; Please Please Me
+3 | singles | "I Saw Her Standing There" was the American B-side of which single? | I Want to Hold Your Hand | She Loves You | Please Please Me | Twist and Shout | I Saw Her Standing There
+4 | albums | What was The Beatles' debut American album, released by Vee-Jay? | Introducing... The Beatles | Meet the Beatles! | The Beatles' Second Album | The Early Beatles | Introducing... The Beatles; Vee-Jay
+4 | singles | What position did "I Saw Her Standing There" reach on the US Billboard Hot 100? | Number 14 | Number 1 | Number 3 | Number 40 | I Saw Her Standing There
+4 | albums | "I'm a Loser" is on which British album? | Beatles for Sale | Help! | A Hard Day's Night | Rubber Soul | I'm a Loser; Beatles for Sale
+5 | singles | "I'm a Loser" was considered as a single until John Lennon wrote which song? | I Feel Fine | Ticket to Ride | Help! | Eight Days a Week | I'm a Loser; I Feel Fine
+3 | singles | "I'll Get You" was the B-side of which single? | She Loves You | From Me to You | I Want to Hold Your Hand | Can't Buy Me Love | I'll Get You; She Loves You
+5 | songs | What was the original title of "I'll Get You"? | Get You in the End | I'll Be There | One Day You'll See | Imagine I'm in Love | I'll Get You
+3 | singles | "I'm Down" was the B-side of which single? | Help! | Ticket to Ride | Yesterday | Day Tripper | I'm Down; Help!
+4 | songs | Paul McCartney wrote "I'm Down" in the style of which rock and roll singer? | Little Richard | Elvis Presley | Buddy Holly | Fats Domino | I'm Down; Little Richard
+4 | albums | "I'll Be Back" closes which British album? | A Hard Day's Night | With the Beatles | Beatles for Sale | Help! | I'll Be Back; A Hard Day's Night
+5 | people | "I'll Be on My Way" was the B-side of which Billy J. Kramer single? | Do You Want to Know a Secret | Bad to Me | Little Children | From a Window | I'll Be on My Way; Billy J. Kramer
+5 | early-years | On which date were The Beatles recorded live at the Star-Club at the end of their final Hamburg residency? | 31 December 1962 | 17 August 1960 | 1 January 1962 | 13 April 1963 | Star-Club; Hamburg
+4 | early-years | How many residencies did The Beatles play in Hamburg in total? | Five | Two | Three | Eight | Hamburg
+4 | albums | On which 1994 album were many of the Beatles' BBC radio session recordings first released? | Live at the BBC | Anthology 1 | Past Masters | Rarities | Live at the BBC
+5 | films-tv | Which Ann-Margret song did John Lennon sing for the BBC's Pop Go the Beatles in July 1963? | I Just Don't Understand | Bye Bye Birdie | Soldier of Love | Lonesome Tears in My Eyes | I Just Don't Understand; BBC
+5 | singles | In which year was "Baby It's You" released as a Beatles single, with "I'll Follow the Sun" on it? | 1995 | 1964 | 1982 | 2013 | Baby It's You; Live at the BBC
+1 | band-members | Which Beatle wrote "Taxman" and "Something"? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | George Harrison
+1 | songs | Which Beatles song begins "Hey Jude, don't make it bad"? | Hey Jude | Let It Be | Yesterday | Help! | Hey Jude
+1 | albums | Which Beatles album is named after the London street where it was recorded? | Abbey Road | Penny Lane | Savile Row | Baker Street | Abbey Road

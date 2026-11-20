@@ -1,0 +1,43 @@
+# Beatles features, part C ("Paul is dead", the Lennon-McCartney partnership, the cartoon series). Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | records | Which famous rumour about The Beatles swept American colleges in autumn 1969? | That Paul McCartney was dead | That Ringo Starr had quit | That John Lennon was an American | That George Harrison was a spy | Paul is dead
+3 | records | According to the "Paul is dead" legend, how had Paul McCartney died in 1966? | In a car crash | In a plane crash | By drowning | In a fire | Paul is dead
+4 | records | According to the "Paul is dead" legend, what had The Beatles done about Paul's death? | Replaced him with a look-alike | Recorded as a trio | Hired Pete Best | Used old tapes | Paul is dead
+4 | records | Which magazine's November 1969 interview with Paul McCartney helped end the "Paul is dead" rumour? | Life | Time | Rolling Stone | Newsweek | Paul is dead; Life magazine
+4 | solo-years | Which 1993 Paul McCartney live album makes fun of the "Paul is dead" rumour in its title? | Paul Is Live | Back in the World | Tripping the Live Fantastic | Good Evening New York City | Paul is dead; Paul Is Live
+5 | records | At which American university did the student paper publish "Is Beatle Paul McCartney Dead?" in September 1969? | Drake University | Harvard University | University of Michigan | Ohio State University | Paul is dead; Drake University
+4 | songs | Which message did "Paul is dead" believers claim to hear when "Revolution 9" is played backwards? | Turn me on, dead man | Paul is gone | I buried Paul | He died on Tuesday | Paul is dead; Revolution 9
+4 | albums | "Paul is dead" clue-hunters read a badge on Paul's Sgt. Pepper uniform as "OPD". What did it really say? | OPP | OBE | LSD | MBE | Paul is dead; Sgt. Pepper
+5 | albums | The "OPP" badge worn by Paul McCartney on the Sgt. Pepper sleeve came from which police force? | Ontario Provincial Police | Oregon Police Patrol | Oxford Police Precinct | Oklahoma Public Police | Paul is dead; Sgt. Pepper
+4 | people | Which Detroit disc jockey spread the "Paul is dead" clues on air in October 1969? | Russ Gibb | Murray the K | Wolfman Jack | Casey Kasem | Paul is dead; Russ Gibb
+5 | people | Which University of Michigan student wrote a spoof review inventing many "Paul is dead" clues? | Fred LaBour | Tim Harper | Jay Marks | Merrell Noden | Paul is dead; Fred LaBour
+4 | places | Where was Paul McCartney staying with his family when the "Paul is dead" story broke worldwide in October 1969? | His farm in Scotland | A villa in Greece | A hotel in New York | An ashram in India | Paul is dead; Scotland
+4 | albums | In "Paul is dead" lore, what detail of Paul on the Abbey Road cover was taken as a sign of death? | He is barefoot | He wears a hat | He carries a guitar | He is waving | Paul is dead; Abbey Road
+4 | albums | In "Paul is dead" lore, what does the number plate "28IF" on the Abbey Road cover supposedly mean? | Paul would have been 28 if he had lived | The 28th clue | Recorded on 28 February | 28 fans were told the truth | Paul is dead; Abbey Road
+4 | albums | On the Abbey Road cover, what kind of car carries the "28IF" number plate? | A Volkswagen Beetle | A Mini | A Rolls-Royce | A London taxi | Abbey Road; Volkswagen Beetle
+4 | songs | In which song did John Lennon tease clue-hunters with the line "the walrus was Paul"? | Glass Onion | I Am the Walrus | Come Together | Dig a Pony | Glass Onion; Paul is dead
+3 | records | About how many songs did Lennon and McCartney publish as joint compositions between 1962 and 1970? | About 180 | About 50 | About 400 | Over 1,000 | Lennon-McCartney
+3 | records | How were Lennon-McCartney songs credited when only one of the pair had written them? | To both, equally | To the actual writer only | To The Beatles | To Brian Epstein | Lennon-McCartney
+3 | records | According to Guinness World Records, which Lennon-McCartney song has been recorded by more musicians than any other? | Yesterday | Hey Jude | Let It Be | Something | Lennon-McCartney; Yesterday
+4 | records | How many records had The Beatles sold worldwide by 2004, according to the usual estimate? | More than 600 million | About 60 million | About 150 million | More than 5 billion | Record sales
+4 | early-years | How old was John Lennon when he first met Paul McCartney? | 16 | 12 | 14 | 19 | Lennon-McCartney
+4 | early-years | How old was Paul McCartney when he first met John Lennon? | 15 | 11 | 13 | 18 | Lennon-McCartney
+5 | early-years | According to Mark Lewisohn, what was the first song Lennon and McCartney wrote together? | Too Bad About Sorrows | Love Me Do | One After 909 | Hello Little Girl | Lennon-McCartney
+5 | early-years | What was the title of John Lennon's very first song, written about March 1957? | Calypso Rock | Hello Little Girl | Winston's Walk | One After 909 | John Lennon; Calypso Rock
+4 | early-years | What did the young Lennon and McCartney write at the top of each page in their songbook? | Another Lennon-McCartney original | Property of The Quarrymen | Top secret | Hit number one | Lennon-McCartney
+4 | early-years | Which famous theatre songwriting team inspired the "Lennon-McCartney" credit? | Rodgers and Hammerstein | Gilbert and Sullivan | Lerner and Loewe | Flanders and Swann | Lennon-McCartney
+5 | early-years | How many new songs did Lennon and McCartney write in 1960 and 1961? | None | About ten | About thirty | Over fifty | Lennon-McCartney
+5 | records | With which EMI music publisher did Lennon and McCartney sign their first publishing agreement in October 1962? | Ardmore and Beechwood | Dick James Music | Northern Songs | Chappell | Lennon-McCartney; Ardmore and Beechwood
+4 | records | What share of Northern Songs did Lennon, McCartney and Epstein own between them when it was formed? | 50% | 10% | 75% | 100% | Northern Songs
+4 | songs | Which line in "Hey Jude" did John Lennon tell Paul McCartney to keep when Paul wanted to change it? | The movement you need is on your shoulder | Take a sad song and make it better | Remember to let her into your heart | Don't carry the world upon your shoulders | Hey Jude; Lennon-McCartney
+4 | band-members | To which magazine did John Lennon give a long interview about his songs in 1980? | Playboy | Rolling Stone | Time | NME | John Lennon; Playboy interview
+4 | band-members | How did John Lennon describe the way he and Paul McCartney wrote together in the early days? | Eyeball to eyeball | Back to back | Line by line | Hand in glove | Lennon-McCartney
+3 | early-years | In which month and year did Stuart Sutcliffe join the group that became The Beatles? | May 1960 | July 1957 | August 1962 | January 1959 | Stuart Sutcliffe
+3 | films-tv | On which American network was the Beatles cartoon series shown from 1965? | ABC | CBS | NBC | PBS | The Beatles (TV series)
+4 | films-tv | How many episodes of the Beatles cartoon series were made? | 39 | 13 | 65 | 100 | The Beatles (TV series)
+4 | films-tv | What was each episode of the Beatles cartoon series named after? | A Beatles song | A city on their tour | A member of the band | A type of sweet | The Beatles (TV series)
+5 | people | Which American voice actor spoke for John and George in the Beatles cartoon series? | Paul Frees | Mel Blanc | Daws Butler | Don Messick | The Beatles (TV series); Paul Frees
+5 | people | Which British comic actor voiced Paul and Ringo in the Beatles cartoon series? | Lance Percival | Kenneth Williams | Peter Sellers | Bernard Cribbins | The Beatles (TV series); Lance Percival
+5 | people | Who produced the Beatles cartoon series and later the film Yellow Submarine? | Al Brodax | Walter Shenson | Denis O'Dell | Joseph Barbera | The Beatles (TV series); Al Brodax
+4 | films-tv | On which date did the Beatles cartoon series make its debut? | 25 September 1965 | 9 February 1964 | 26 December 1967 | 17 July 1968 | The Beatles (TV series)
+4 | films-tv | What distinction does the Beatles cartoon series hold in television history? | First weekly cartoon series about real living people | First cartoon shown in colour | First cartoon made in Britain | First cartoon with a laugh track | The Beatles (TV series)

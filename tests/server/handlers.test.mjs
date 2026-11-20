@@ -4,6 +4,7 @@ import { createHandlers, LIMITS } from '../../server/top100/handlers.js';
 import { createWordFilter } from '../../server/top100/word-filter.js';
 import { EDITIONS } from '../../server/top100/editions.js';
 import { bannedWords, createMemoryStore, playRun } from './helpers.mjs';
+import { LIMIT } from '../../engine/js/game/ranking.js';
 
 function setup() {
   let clock = Date.parse('2026-06-01T12:00:00Z');
@@ -82,8 +83,8 @@ test('a champion who plays on keeps the better entry, in one row', async () => {
   assert.equal(store.entries[0].season, 2);
 });
 
-test('starting a game and a refused entry never touch the database', async () => {
-  const untouched = new Proxy({}, { get() { throw new Error('the database was used'); } });
+test('starting a game and a refused entry never touch storage', async () => {
+  const untouched = new Proxy({}, { get() { throw new Error('storage was used'); } });
   const h = createHandlers({ store: untouched, wordFilter: createWordFilter(bannedWords), editions: EDITIONS, ipSalt: 'salt' });
   const token = (await h.start({ body: { edition: 'celtic' }, ip: 'x' })).body.token;
   const { entry } = playRun([2]);
@@ -122,26 +123,88 @@ test('without a secret no run tokens are issued', async () => {
   assert.equal((await h.start({ body: { edition: 'celtic' }, ip: 'x' })).status, 503);
 });
 
-test('one run can only submit so many times', async () => {
-  const { h, start, tick } = setup();
-  const token = await start();
-  tick(600000);
-  const { entry } = playRun([2]);
-  const send = () => h.submit({ body: { edition: 'celtic', token, entry }, ip: 'x' });
-  for (let i = 0; i < LIMITS.submitsPerRun; i++) assert.equal((await send()).status, 200);
-  assert.equal((await send()).status, 429);
-});
-
-test('one connection can only enter so many games an hour', async () => {
+test('one connection can only save so many entries an hour', async () => {
   const { h, start, tick } = setup();
   const tokens = [];
-  for (let i = 0; i <= LIMITS.runsPerHourPerIp + 1; i++) tokens.push(await start());
+  for (let i = 0; i <= LIMITS.submitsPerHourPerIp + 1; i++) tokens.push(await start());
   tick(600000);
   const { entry } = playRun([2]);
   const send = (token, ip) => h.submit({ body: { edition: 'celtic', token, entry }, ip });
-  for (let i = 0; i < LIMITS.runsPerHourPerIp; i++) assert.equal((await send(tokens[i], '9.9.9.9')).status, 200);
-  assert.equal((await send(tokens[LIMITS.runsPerHourPerIp], '9.9.9.9')).status, 429);
-  assert.equal((await send(tokens[LIMITS.runsPerHourPerIp + 1], '8.8.8.8')).status, 200, 'other players unaffected');
+  for (let i = 0; i < LIMITS.submitsPerHourPerIp; i++) assert.equal((await send(tokens[i], '9.9.9.9')).status, 200);
+  assert.equal((await send(tokens[LIMITS.submitsPerHourPerIp], '9.9.9.9')).status, 429);
+  assert.equal((await send(tokens[LIMITS.submitsPerHourPerIp + 1], '8.8.8.8')).status, 200, 'other players unaffected');
+  tick(3600000);
+  assert.equal((await send(tokens[0], '9.9.9.9')).status, 200, 'allowed again the next hour');
+});
+
+test('two entries saved at the same moment both reach the board', async () => {
+  const { h, start, tick } = setup();
+  const a = await start(); const b = await start(); const c = await start();
+  tick(600000);
+  const { entry } = playRun([2]);
+  const send = (token, name) => h.submit({ body: { edition: 'celtic', token, entry: { ...entry, name } }, ip: 'x' });
+  const results = await Promise.all([send(a, 'Bobby'), send(b, 'Jimmy'), send(c, 'Stevie')]);
+  assert.deepEqual(results.map((r) => r.status), [200, 200, 200]);
+  const board = (await h.board({ query: { edition: 'celtic' } })).body.board;
+  assert.deepEqual(board.map((e) => e.name).sort(), ['Bobby', 'Jimmy', 'Stevie']);
+  assert.equal(new Set(board.map((e) => e.id)).size, 3, 'each gets its own id');
+});
+
+test('the board shows the top LIMIT, and keeps spares so a hidden entry is replaced', async () => {
+  const { h, store, start, tick } = setup();
+  const tokens = [];
+  for (let i = 0; i < LIMIT + 5; i++) tokens.push(await start());
+  tick(600000);
+  for (let i = 0; i < tokens.length; i++) {
+    const { entry } = playRun([i % 6]);
+    await h.submit({ body: { edition: 'celtic', token: tokens[i], entry: { ...entry, name: `Player ${i}` } }, ip: `10.0.0.${i}` });
+  }
+  let board = (await h.board({ query: { edition: 'celtic' } })).body.board;
+  assert.equal(board.length, LIMIT);
+  assert.equal(store.entries.length, LIMIT + 5, 'spares kept');
+  const top = board[0];
+  await h.admin({ method: 'POST', body: { edition: 'celtic', id: top.id, hidden: true }, query: {}, headers: { 'x-admin-key': 'secret-key' } });
+  board = (await h.board({ query: { edition: 'celtic' } })).body.board;
+  assert.equal(board.length, LIMIT, 'a spare moved up');
+  assert.equal(board.some((e) => e.id === top.id), false);
+});
+
+test('only the best entries are kept, plus every hidden one', async () => {
+  const { h, store, start, tick } = setup();
+  const n = LIMITS.keep + 10;
+  const tokens = [];
+  for (let i = 0; i < n; i++) tokens.push(await start());
+  tick(600000);
+  for (let i = 0; i < n; i++) {
+    const { entry } = playRun([i < 10 ? 0 : 3]);
+    await h.submit({ body: { edition: 'celtic', token: tokens[i], entry: { ...entry, name: `P${i}` } }, ip: `10.1.${i >> 8}.${i & 255}` });
+    if (i === 0) await h.admin({ method: 'POST', body: { edition: 'celtic', id: store.entries[0].id, hidden: true }, query: {}, headers: { 'x-admin-key': 'secret-key' } });
+  }
+  assert.equal(store.entries.length, LIMITS.keep + 1, 'the best LIMITS.keep plus the hidden one');
+  assert.ok(store.entries.some((e) => e.name === 'P0' && e.hidden), 'the hidden entry is kept for the admin');
+});
+
+test('the first read copies the old board across, keeping ids and run tokens', async () => {
+  const { entry } = playRun([3]);
+  const legacy = {
+    calls: 0,
+    async exportEntries(edition) {
+      this.calls++;
+      return edition !== 'celtic' ? [] : [
+        { id: 7, runToken: '11111111-1111-4111-8111-111111111111', ipHash: 'h', hidden: false, createdAt: '2026-11-01T10:00:00.000Z', ...entry, name: 'Lubo', town: 'Kosice', updatedAt: '2026-11-01T10:00:00.000Z' },
+        { id: 9, runToken: '22222222-2222-4222-8222-222222222222', ipHash: 'h', hidden: true, createdAt: '2026-11-02T10:00:00.000Z', ...entry, name: 'Hidden', town: 'Nowhere', updatedAt: '2026-11-02T10:00:00.000Z' },
+      ];
+    },
+  };
+  const store = createMemoryStore({ legacy });
+  const h = createHandlers({ store, wordFilter: createWordFilter(bannedWords), editions: EDITIONS, adminKey: 'k', ipSalt: 'salt' });
+  const board = (await h.board({ query: { edition: 'celtic' } })).body.board;
+  assert.deepEqual(board.map((e) => [e.id, e.name]), [[7, 'Lubo']]);
+  await h.board({ query: { edition: 'celtic' } });
+  assert.equal(legacy.calls, 1, 'copied once, then read from the new storage');
+  const token = (await h.start({ body: { edition: 'celtic' }, ip: 'x' })).body.token;
+  const r = await h.submit({ body: { edition: 'celtic', token, entry: { ...playRun([0]).entry, name: 'New', town: 'Here' } }, ip: 'x' });
+  assert.equal(r.body.id, 10, 'new ids carry on after the old ones');
 });
 
 test('the admin can hide an entry, and newly banned words drop off the board', async () => {

@@ -1,0 +1,1004 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 3,
+    "question": "Which three countries did The Beatles tour in June and July 1966?",
+    "options": [
+      "West Germany, Japan and the Philippines",
+      "Australia, New Zealand and Hong Kong",
+      "France, Italy and Spain",
+      "Sweden, Denmark and the Netherlands"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How many concerts did The Beatles play on their 1966 tour of West Germany, Japan and the Philippines?",
+    "options": [
+      "Forty",
+      "Thirteen",
+      "Twenty-five",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1966 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Why did The Beatles' concerts at Tokyo's Budokan in 1966 offend some Japanese traditionalists?",
+    "options": [
+      "The shows fell on a national holiday",
+      "The hall was a former temple",
+      "The band refused to bow",
+      "The hall was reserved for martial arts"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Budokan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "At which Manila venue did The Beatles play two shows in July 1966?",
+    "options": [
+      "Malacañang Palace",
+      "Araneta Coliseum",
+      "Luneta Park",
+      "Rizal Memorial Stadium"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Manila"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "What happened to The Beatles as they tried to leave the Philippines in 1966?",
+    "options": [
+      "They were arrested for a week",
+      "They missed their flight by a day",
+      "They were jostled and had to hand over earnings",
+      "They were given a state farewell"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Manila"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "In which Indian city did The Beatles stop for two days on the way home from Manila in 1966?",
+    "options": [
+      "Bombay",
+      "Madras",
+      "Calcutta",
+      "Delhi"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Delhi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which planned third Beatles feature film, based on a Richard Condon novel, did the group reject in 1966?",
+    "options": [
+      "Up Against It",
+      "The Manchurian Candidate",
+      "Shades of a Personality",
+      "A Talent for Loving"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "A Talent for Loving"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "At which poll-winners' concert did The Beatles play their last scheduled British show, on 1 May 1966?",
+    "options": [
+      "The NME Poll-Winners Concert",
+      "The Record Mirror Show",
+      "The Daily Mirror Pop Ball",
+      "The Melody Maker Awards"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "NME Poll-Winners Concert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "in-the-studio",
+    "difficulty": 5,
+    "question": "On which date in 1966 did The Beatles finish work on Revolver, the day before flying to Munich?",
+    "options": [
+      "1 April",
+      "29 August",
+      "22 June",
+      "5 August"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Revolver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which song opened The Beatles' shows on the 1966 tour of Germany and Japan?",
+    "options": [
+      "Rock and Roll Music",
+      "Twist and Shout",
+      "Paperback Writer",
+      "I Feel Fine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1966 tour",
+      "Rock and Roll Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "On the 1966 tour, which ballad did The Beatles play with full electric backing for the first time?",
+    "options": [
+      "Yesterday",
+      "Michelle",
+      "And I Love Her",
+      "Girl"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1966 tour",
+      "Yesterday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which photographer documented The Beatles' 1966 visits to Germany and Japan?",
+    "options": [
+      "Dezo Hoffmann",
+      "Robert Freeman",
+      "Robert Whitaker",
+      "Iain Macmillan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Robert Whitaker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which guitar did John Lennon adopt as his main stage instrument in 1966?",
+    "options": [
+      "Gibson Les Paul Junior",
+      "Epiphone Casino",
+      "Gretsch Nashville",
+      "Rickenbacker 325"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Lennon",
+      "Epiphone Casino"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "In which German city did The Beatles open their 1966 tour, at the Circus-Krone-Bau?",
+    "options": [
+      "Essen",
+      "Frankfurt",
+      "Hamburg",
+      "Munich"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Munich"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which German teen magazine sponsored The Beatles' 1966 concerts in West Germany?",
+    "options": [
+      "Bravo",
+      "Der Spiegel",
+      "Pop",
+      "Stern"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1966 tour",
+      "Bravo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Which duo supported The Beatles at their West German concerts in 1966?",
+    "options": [
+      "Peter and Gordon",
+      "Chad and Jeremy",
+      "Simon and Garfunkel",
+      "The Everly Brothers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1966 tour",
+      "Peter and Gordon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "How did The Beatles travel between cities on the German leg of their 1966 tour?",
+    "options": [
+      "By helicopter",
+      "By river boat",
+      "In a tour bus",
+      "By special train"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Germany"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Who told a 1966 Hamburg audience \"Don't listen to our music. We're terrible these days\"?",
+    "options": [
+      "Ringo Starr",
+      "Paul McCartney",
+      "George Harrison",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which future West German Chancellor was in the audience at The Beatles' 1966 Hamburg concert?",
+    "options": [
+      "Helmut Kohl",
+      "Willy Brandt",
+      "Helmut Schmidt",
+      "Konrad Adenauer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "1966 tour",
+      "Helmut Schmidt"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "After the troubles in Manila in 1966, what did The Beatles decide?",
+    "options": [
+      "To make a film about it",
+      "To sack their road crew",
+      "To move to America",
+      "To stop touring that year"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1966 tour",
+      "Touring"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "cavern",
+    "category": "records",
+    "difficulty": 2,
+    "question": "In which year did the British press start using the word \"Beatlemania\"?",
+    "options": [
+      "1967",
+      "1965",
+      "1963",
+      "1960"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatlemania"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "records",
+    "difficulty": 3,
+    "question": "Beatlemania is usually said to have lasted between which years?",
+    "options": [
+      "1967 to 1970",
+      "1963 to 1966",
+      "1960 to 1962",
+      "1957 to 1960"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatlemania"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "Which 19th-century craze for a pianist is often cited as a forerunner of Beatlemania?",
+    "options": [
+      "Paganini panic",
+      "Mozart madness",
+      "Chopin fever",
+      "Lisztomania"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Beatlemania",
+      "Lisztomania"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "In early 1964 The Beatles held both number one and number two in America with \"I Want to Hold Your Hand\" and which other song?",
+    "options": [
+      "Please Please Me",
+      "Can't Buy Me Love",
+      "She Loves You",
+      "Twist and Shout"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Beatlemania",
+      "She Loves You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which event in John Lennon's life in August 1962 was kept secret from fans?",
+    "options": [
+      "The birth of a daughter",
+      "A serious car crash",
+      "His expulsion from art college",
+      "His marriage to Cynthia Powell"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Cynthia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "In which month and year did John Lennon marry Cynthia Powell?",
+    "options": [
+      "December 1963",
+      "March 1965",
+      "June 1960",
+      "August 1962"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Lennon",
+      "Cynthia Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which two American singers headlined The Beatles' second UK tour in March 1963?",
+    "options": [
+      "Tommy Roe and Chris Montez",
+      "Roy Orbison and Del Shannon",
+      "Gene Pitney and Bobby Vee",
+      "Little Richard and Sam Cooke"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1963 tours",
+      "Tommy Roe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "live",
+    "difficulty": 5,
+    "question": "In which Yorkshire city did The Beatles' first nationwide tour open on 2 February 1963?",
+    "options": [
+      "Sheffield",
+      "Hull",
+      "Leeds",
+      "Bradford"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Helen Shapiro tour",
+      "Bradford"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "In which magazine did Paul Johnson publish a notorious 1964 attack on Beatles fans?",
+    "options": [
+      "New Statesman",
+      "The Listener",
+      "The Spectator",
+      "Punch"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Beatlemania",
+      "Paul Johnson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "early-years",
+    "difficulty": 5,
+    "question": "A December 1960 Beatles show in which Liverpool suburb is sometimes called the birth of Beatlemania?",
+    "options": [
+      "Speke",
+      "Litherland",
+      "Woolton",
+      "Aigburth"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatlemania",
+      "Litherland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Cavern compère wrote in 1961 that The Beatles were \"the stuff that screams are made of\"?",
+    "options": [
+      "Bill Harry",
+      "Bob Wooler",
+      "Ray McFall",
+      "Allan Williams"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Beatlemania",
+      "Bob Wooler"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "From late 1965, what did The Beatles make to avoid having to appear in person on TV shows?",
+    "options": [
+      "Promotional films",
+      "Cardboard cut-outs",
+      "Cartoon versions",
+      "Radio tapes only"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Promotional films"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which December 1965 album marked a change in how seriously fans listened to The Beatles' music?",
+    "options": [
+      "Help!",
+      "Beatles for Sale",
+      "Rubber Soul",
+      "A Hard Day's Night"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rubber Soul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 4,
+    "question": "How many nationwide UK tours did The Beatles complete in 1963?",
+    "options": [
+      "Seven",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "1963 tours"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "live",
+    "difficulty": 2,
+    "question": "At which royal event did The Beatles perform in November 1963?",
+    "options": [
+      "The Queen's Coronation",
+      "Trooping the Colour",
+      "The Royal Variety Performance",
+      "The Royal Wedding"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Royal Variety Performance"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "live",
+    "difficulty": 3,
+    "question": "What did John Lennon tell the richer people in the audience to do at the 1963 Royal Variety Performance?",
+    "options": [
+      "Sing along in French",
+      "Stand on their seats",
+      "Throw their hats",
+      "Rattle their jewellery"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Royal Variety Performance",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "songs",
+    "difficulty": 3,
+    "question": "Before which song did John Lennon make his \"rattle your jewellery\" remark?",
+    "options": [
+      "From Me to You",
+      "She Loves You",
+      "Till There Was You",
+      "Twist and Shout"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Royal Variety Performance",
+      "Twist and Shout"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "On which date was the Our World global television broadcast?",
+    "options": [
+      "1 June 1967",
+      "20 July 1969",
+      "25 June 1967",
+      "9 February 1964"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Our World"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "How many countries received the Our World broadcast live?",
+    "options": [
+      "120",
+      "5",
+      "24",
+      "60"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Our World"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Our World was the first live television production to use several of which pieces of technology?",
+    "options": [
+      "Colour cameras",
+      "Videotape recorders",
+      "Satellites",
+      "Computers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Our World"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which BBC producer conceived the Our World broadcast?",
+    "options": [
+      "Huw Wheldon",
+      "Aubrey Singer",
+      "David Attenborough",
+      "Johnnie Stewart"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Our World",
+      "Aubrey Singer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "How long did the Our World programme last?",
+    "options": [
+      "Six hours",
+      "Twenty-four hours",
+      "Two hours",
+      "Thirty minutes"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Our World"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which of these was forbidden to take part in the Our World broadcast under its ground rules?",
+    "options": [
+      "Politicians and heads of state",
+      "Animals",
+      "Pop musicians",
+      "Children"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Our World"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "How many national broadcasters took part in making Our World?",
+    "options": [
+      "Fourteen",
+      "Three",
+      "Fifty",
+      "Thirty"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Our World"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which American conductor appeared in a segment of Our World?",
+    "options": [
+      "Leopold Stokowski",
+      "André Previn",
+      "Aaron Copland",
+      "Leonard Bernstein"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Our World",
+      "Leonard Bernstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which country's broadcaster broke the \"live only\" rule of Our World by pre-recording its segment?",
+    "options": [
+      "Japan",
+      "Mexico",
+      "Italy",
+      "Canada"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Our World"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who narrated the Our World broadcast for BBC viewers?",
+    "options": [
+      "Richard Dimbleby",
+      "Cliff Michelmore",
+      "Raymond Baxter",
+      "David Frost"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Our World",
+      "Cliff Michelmore"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which studio complex did The Beatles perform \"All You Need Is Love\" for Our World?",
+    "options": [
+      "Twickenham Film Studios",
+      "Wembley Park Studios",
+      "BBC Television Centre",
+      "EMI Studios, Abbey Road"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Our World",
+      "EMI Studios"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "live",
+    "difficulty": 4,
+    "question": "Which British duo and which rhythm and blues band supported The Beatles in Germany in 1966?",
+    "options": [
+      "Chad and Jeremy, and the Animals",
+      "Peter and Gordon, and Cliff Bennett and the Rebel Rousers",
+      "The Bachelors, and Manfred Mann",
+      "Paul and Barry Ryan, and the Yardbirds"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "1966 tour",
+      "Germany"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Which bass guitar, besides his Höfner, did Paul McCartney take to Japan in 1966?",
+    "options": [
+      "Rickenbacker 4001",
+      "Burns Bison",
+      "Fender Precision",
+      "Gibson EB-3"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Paul McCartney",
+      "Rickenbacker 4001"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "live",
+    "difficulty": 5,
+    "question": "Where did The Beatles last play in West Germany before their 1966 return?",
+    "options": [
+      "The Star-Club, Hamburg",
+      "The Deutschlandhalle, Berlin",
+      "The Top Ten Club, Hamburg",
+      "The Circus Krone, Munich"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "1966 tour",
+      "Star-Club"
+    ],
+    "source": "manual"
+  }
+]

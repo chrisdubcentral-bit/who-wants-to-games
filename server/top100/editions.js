@@ -3,6 +3,8 @@
 
 import celticStages from '../../editions/celtic/data/meta/stages.json' with { type: 'json' };
 import celticEdition from '../../editions/celtic/data/edition.json' with { type: 'json' };
+import beatlesStages from '../../editions/beatles/data/meta/stages.json' with { type: 'json' };
+import beatlesEdition from '../../editions/beatles/data/edition.json' with { type: 'json' };
 
 export function describeEdition(stagesFile, edition) {
   const stages = [...stagesFile.stages].sort((a, b) => a.order - b.order);
@@ -16,4 +18,5 @@ export function describeEdition(stagesFile, edition) {
 
 export const EDITIONS = {
   celtic: describeEdition(celticStages, celticEdition),
+  beatles: describeEdition(beatlesStages, beatlesEdition),
 };

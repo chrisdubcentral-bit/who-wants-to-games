@@ -1,0 +1,71 @@
+# Beatles features, part A (films, Beatles places, the "fifth Beatle", Anthology). Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | people | Who first called himself the "fifth Beatle", in 1964? | Murray the K | Brian Epstein | George Martin | Pete Best | Fifth Beatle; Murray the K
+4 | people | Whom did Paul McCartney name in 1997 as the person who most deserved the title "fifth Beatle"? | Brian Epstein | Stuart Sutcliffe | Neil Aspinall | Billy Preston | Fifth Beatle; Brian Epstein
+5 | people | At the 1988 Hall of Fame induction, George Harrison said the only "fifth Beatles" were Derek Taylor and who else? | Neil Aspinall | George Martin | Brian Epstein | Mal Evans | Fifth Beatle; Neil Aspinall
+3 | places | Which organisation looks after Paul McCartney's childhood home at 20 Forthlin Road? | The National Trust | English Heritage | Liverpool City Council | Apple Corps | 20 Forthlin Road; National Trust
+3 | places | 20 Forthlin Road in Liverpool was the childhood home of which Beatle? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | 20 Forthlin Road
+4 | places | In which Liverpool district is Paul McCartney's childhood home at 20 Forthlin Road? | Allerton | Woolton | Dingle | Speke | 20 Forthlin Road
+3 | places | In which part of London are Abbey Road Studios? | St John's Wood | Soho | Camden Town | Notting Hill | Abbey Road Studios
+3 | places | In which year did EMI's recording studios in Abbey Road open? | 1931 | 1911 | 1951 | 1962 | Abbey Road Studios
+4 | places | Which studio room at Abbey Road did The Beatles use most? | Studio Two | Studio One | Studio Three | The Penthouse | Abbey Road Studios; Studio Two
+4 | places | In which year were EMI Studios officially renamed Abbey Road Studios? | 1976 | 1969 | 1970 | 1987 | Abbey Road Studios
+4 | places | In 2010 Abbey Road Studios were given which kind of protection? | Grade II listed status | World Heritage status | A royal charter | National park status | Abbey Road Studios
+3 | places | Which organisation owns Strawberry Field in Liverpool? | The Salvation Army | The National Trust | The Church of England | Barnardo's | Strawberry Field
+4 | places | In which Liverpool suburb is Strawberry Field? | Woolton | Allerton | Aigburth | Everton | Strawberry Field; Woolton
+4 | places | In which year did Strawberry Field close as a children's home? | 2005 | 1967 | 1980 | 1995 | Strawberry Field
+4 | places | What colour were the famous old gates of Strawberry Field? | Red | Green | Black | Blue | Strawberry Field
+4 | places | In which year was Strawberry Field first opened to the public as a visitor attraction? | 2019 | 1984 | 1995 | 2008 | Strawberry Field
+5 | places | In which year were the gates of Strawberry Field stolen? | 2000 | 1967 | 1980 | 2012 | Strawberry Field
+3 | films-tv | In which month and year was The Beatles Anthology TV series first broadcast? | November 1995 | December 1980 | June 1987 | November 2000 | Anthology
+4 | films-tv | In which year was The Beatles Anthology released on DVD? | 2003 | 1996 | 1999 | 2009 | Anthology
+3 | places | What is the address of John Lennon's childhood home, Mendips? | 251 Menlove Avenue | 20 Forthlin Road | 9 Madryn Street | 12 Arnold Grove | Mendips; John Lennon
+4 | places | After which range of hills was John Lennon's childhood home, Mendips, named? | The Mendip Hills in Somerset | The Malvern Hills | The Pennines | The Cotswolds | Mendips
+3 | places | What was the name of George Harrison's Gothic mansion in Henley-on-Thames? | Friar Park | Kenwood | Tittenhurst Park | Sunny Heights | Friar Park; George Harrison
+4 | places | In which year did George Harrison buy Friar Park? | 1970 | 1966 | 1975 | 1981 | Friar Park; George Harrison
+4 | places | For which eccentric Victorian lawyer was George Harrison's home Friar Park built? | Sir Frank Crisp | Sir John Soane | Lord Leverhulme | Sir Henry Tate | Friar Park; Frank Crisp
+5 | places | George Harrison's garden at Friar Park includes a scale model of which mountain? | The Matterhorn | Mount Everest | Ben Nevis | Mont Blanc | Friar Park
+4 | solo-years | Which George Harrison song from All Things Must Pass is named after the builder of Friar Park? | Ballad of Sir Frankie Crisp (Let It Roll) | Crackerbox Palace | Beware of Darkness | Apple Scruffs | Friar Park; George Harrison
+3 | films-tv | Who wrote the screenplay of A Hard Day's Night? | Alun Owen | Richard Lester | John Lennon | Spike Milligan | A Hard Day's Night; Alun Owen
+3 | films-tv | Which studio released the film A Hard Day's Night? | United Artists | Paramount | MGM | Rank | A Hard Day's Night; United Artists
+4 | films-tv | The film A Hard Day's Night shows roughly how long a period in The Beatles' lives? | 36 hours | One hour | One week | A year | A Hard Day's Night
+4 | films-tv | For how many Academy Awards was A Hard Day's Night nominated? | Two | None | Five | Nine | A Hard Day's Night; Academy Awards
+4 | films-tv | A Hard Day's Night is often credited with inspiring which American TV pop group's series? | The Monkees | The Partridge Family | The Archies | The Banana Splits | A Hard Day's Night; The Monkees
+3 | films-tv | In A Hard Day's Night, what are The Beatles preparing for throughout the film? | A television show | A royal wedding | A trip to America | A recording contract | A Hard Day's Night
+3 | films-tv | Which Beatle wanders off alone in A Hard Day's Night after being told he should be "parading"? | Ringo Starr | John Lennon | Paul McCartney | George Harrison | A Hard Day's Night; Ringo Starr
+3 | films-tv | Who came up with the phrase "a hard day's night", which gave the film its title? | Ringo Starr | John Lennon | Richard Lester | Brian Epstein | A Hard Day's Night; Ringo Starr
+3 | places | In which city is the museum The Beatles Story? | Liverpool | London | Hamburg | New York | The Beatles Story; Liverpool
+4 | places | At which Liverpool dock is The Beatles Story museum? | Royal Albert Dock | Canning Dock | Salthouse Dock | Princes Dock | The Beatles Story; Albert Dock
+4 | places | In which year did The Beatles Story museum open in Liverpool? | 1990 | 1970 | 1981 | 2001 | The Beatles Story
+4 | films-tv | Which 1994 film tells the story of Stuart Sutcliffe, Astrid Kirchherr and The Beatles in Hamburg? | Backbeat | Nowhere Boy | The Hours and Times | Birth of the Beatles | Backbeat
+5 | films-tv | Who played John Lennon in the 1994 film Backbeat? | Ian Hart | Gary Oldman | Aaron Johnson | Christopher Eccleston | Backbeat; Ian Hart
+5 | films-tv | Who played Stuart Sutcliffe in the film Backbeat? | Stephen Dorff | Ewan McGregor | Jude Law | Ethan Hawke | Backbeat; Stephen Dorff
+2 | films-tv | In which year was the animated film Yellow Submarine released? | 1968 | 1964 | 1966 | 1970 | Yellow Submarine
+4 | films-tv | Who directed the animated film Yellow Submarine? | George Dunning | Richard Williams | Ralph Bakshi | Terry Gilliam | Yellow Submarine; George Dunning
+4 | people | Which German artist was art director of the film Yellow Submarine? | Heinz Edelmann | Klaus Voormann | Peter Max | Milton Glaser | Yellow Submarine; Heinz Edelmann
+3 | films-tv | Who voiced The Beatles' cartoon characters in the film Yellow Submarine? | Actors, not the Beatles themselves | The Beatles themselves | Members of The Scaffold | The Monty Python team | Yellow Submarine
+3 | films-tv | Where do the real Beatles appear in the film Yellow Submarine? | In the closing scene | In the opening titles | Throughout, as narrators | Nowhere at all | Yellow Submarine
+2 | films-tv | What is the name of the music-hating villains in the film Yellow Submarine? | The Blue Meanies | The Red Baddies | The Grey Ghouls | The Green Grumps | Yellow Submarine; Blue Meanies
+3 | films-tv | What is the name of the undersea paradise in the film Yellow Submarine? | Pepperland | Strawberry Fields | Octopus's Garden | Nowhere Land | Yellow Submarine; Pepperland
+4 | films-tv | In the film Yellow Submarine, what is the name of the "Nowhere Man" who joins The Beatles? | Jeremy Hillary Boob | Old Fred | Max | The Lord Mayor | Yellow Submarine
+4 | films-tv | In Yellow Submarine, who is the sailor sent to fetch The Beatles to save Pepperland? | Old Fred | Captain Kite | Young Jim | Admiral Halsey | Yellow Submarine
+3 | films-tv | Who wrote, produced and directed the film Magical Mystery Tour? | The Beatles themselves | Richard Lester | Michael Lindsay-Hogg | Joe McGrath | Magical Mystery Tour
+3 | films-tv | On which day was Magical Mystery Tour first shown on British television? | Boxing Day 1967 | Christmas Day 1966 | New Year's Day 1968 | Easter Sunday 1967 | Magical Mystery Tour
+4 | films-tv | Why was the first television showing of Magical Mystery Tour a disappointment visually? | It was shown in black and white | The sound failed | It was cut to ten minutes | It was shown at 3 a.m. | Magical Mystery Tour
+4 | places | At which disused airfield in Kent was much of Magical Mystery Tour filmed? | RAF West Malling | RAF Biggin Hill | RAF Manston | RAF Hawkinge | Magical Mystery Tour; West Malling
+4 | people | Which comedy rock group performs "Death Cab for Cutie" in Magical Mystery Tour? | The Bonzo Dog Doo-Dah Band | The Scaffold | The Barron Knights | The Temperance Seven | Magical Mystery Tour; Bonzo Dog Doo-Dah Band
+4 | films-tv | The coach trip idea for Magical Mystery Tour was partly inspired by the bus journeys of which American author and his Merry Pranksters? | Ken Kesey | Jack Kerouac | Hunter S. Thompson | Tom Wolfe | Magical Mystery Tour; Ken Kesey
+5 | films-tv | On which BBC channel was Magical Mystery Tour first shown in colour, on 5 January 1968? | BBC2 | BBC1 | ITV | Channel 4 | Magical Mystery Tour
+3 | records | Which award did The Beatles win for the film Let It Be? | An Academy Award for the music | A Golden Globe for acting | A BAFTA for best film | The Palme d'Or | Let It Be; Academy Awards
+3 | films-tv | The film Let It Be was originally planned as what? | A television documentary | A cartoon | A stage play | A concert tour film | Let It Be
+2 | films-tv | In which year was the film Help! released? | 1965 | 1963 | 1967 | 1969 | Help!
+3 | films-tv | In the film Help!, what is the cult trying to get from Ringo? | A sacrificial ring | A golden drumstick | A secret map | A magic drum | Help!; Ringo Starr
+3 | people | Which Australian-born actor plays the cult leader Clang in Help!? | Leo McKern | Rod Taylor | Peter Finch | Chips Rafferty | Help!; Leo McKern
+4 | films-tv | On which date did Help! have its royal premiere in London? | 29 July 1965 | 6 July 1964 | 26 December 1967 | 17 July 1968 | Help!
+4 | people | Which member of the Royal Family attended the premiere of Help!? | Princess Margaret | The Queen | Prince Charles | Princess Anne | Help!; Princess Margaret
+4 | films-tv | In which Caribbean country were the beach scenes of Help! filmed? | The Bahamas | Jamaica | Barbados | Cuba | Help!; Bahamas
+4 | films-tv | In which Alpine country were the skiing scenes of Help! filmed? | Austria | Switzerland | France | Italy | Help!; Austria
+4 | films-tv | What was the working title of the film Help!? | Eight Arms to Hold You | Beatles Two | Ringo's Ring | Ticket to Ride | Help!
+3 | places | In which city was the Cirque du Soleil show Love staged? | Las Vegas | London | Liverpool | New York | Love (show); Las Vegas
+4 | records | In which year did the Cirque du Soleil show Love open? | 2006 | 1995 | 2000 | 2012 | Love (show)
+5 | records | The final performance of the Cirque du Soleil show Love was held on whose 84th birthday in 2024? | Ringo Starr's | Paul McCartney's | George Martin's | Yoko Ono's | Love (show); Ringo Starr

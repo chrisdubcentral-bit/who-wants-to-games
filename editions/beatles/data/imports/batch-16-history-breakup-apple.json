@@ -1,0 +1,1121 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "emi-studios",
+    "category": "band-members",
+    "difficulty": 2,
+    "question": "Which Beatle announced in April 1970 that he was no longer working with the group?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Break-up",
+      "Paul McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "records",
+    "difficulty": 3,
+    "question": "On which date did Paul McCartney's press release signal the end of The Beatles?",
+    "options": [
+      "8 December 1970",
+      "20 September 1969",
+      "10 April 1970",
+      "30 January 1969"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Break-up"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "On which date did John Lennon privately tell the others he was leaving The Beatles?",
+    "options": [
+      "20 September 1969",
+      "10 April 1970",
+      "22 August 1969",
+      "30 January 1969"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Break-up",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "In which year was the legal dissolution of The Beatles' partnership formalised?",
+    "options": [
+      "1970",
+      "1971",
+      "1980",
+      "1974"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Break-up"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which American businessman became The Beatles' business manager in 1969 over Paul McCartney's objections?",
+    "options": [
+      "Lee Eastman",
+      "Albert Grossman",
+      "David Geffen",
+      "Allen Klein"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Break-up",
+      "Allen Klein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which father-and-son lawyers did Paul McCartney want to manage The Beatles' affairs?",
+    "options": [
+      "Sid and Marty Bernstein",
+      "David and Nat Jacobs",
+      "Lew and Leslie Grade",
+      "Lee and John Eastman"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Break-up",
+      "Eastman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "For how long did George Harrison quit The Beatles in January 1969?",
+    "options": [
+      "One afternoon",
+      "Five days",
+      "Two weeks",
+      "Three months"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Break-up",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "At which John Lennon home did the four Beatles gather for their last photo session on 22 August 1969?",
+    "options": [
+      "Mendips",
+      "Kenwood",
+      "Tittenhurst Park",
+      "The Dakota"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Break-up",
+      "Tittenhurst Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "solo-years",
+    "difficulty": 5,
+    "question": "Which 1973 Ringo Starr track features three ex-Beatles playing together?",
+    "options": [
+      "Photograph",
+      "It Don't Come Easy",
+      "Back Off Boogaloo",
+      "I'm the Greatest"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ringo Starr",
+      "I'm the Greatest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "solo-years",
+    "difficulty": 5,
+    "question": "Which 1981 George Harrison single, a tribute to John Lennon, features Paul McCartney and Ringo Starr?",
+    "options": [
+      "When We Was Fab",
+      "Got My Mind Set on You",
+      "All Those Years Ago",
+      "Blow Away"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Harrison",
+      "All Those Years Ago"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "albums",
+    "difficulty": 4,
+    "question": "Which album did John Lennon say let you hear \"the break-up of the Beatles\"?",
+    "options": [
+      "The White Album",
+      "Let It Be",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Abbey Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Break-up",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "solo-years",
+    "difficulty": 4,
+    "question": "Which Beatle was the first to release a solo album?",
+    "options": [
+      "Ringo Starr",
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Harrison",
+      "Wonderwall Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "places",
+    "difficulty": 5,
+    "question": "To which Mediterranean island did Ringo Starr go when he walked out of the White Album sessions?",
+    "options": [
+      "Sardinia",
+      "Majorca",
+      "Malta",
+      "Corfu"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ringo Starr",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "What did Ringo Starr find on his drum kit when he returned to the White Album sessions?",
+    "options": [
+      "A new snare drum",
+      "A cake",
+      "A gold disc",
+      "Flowers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ringo Starr",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "band-members",
+    "difficulty": 5,
+    "question": "Who had Ringo Starr's drum kit decorated with flowers to welcome him back in September 1968?",
+    "options": [
+      "George Harrison",
+      "Mal Evans",
+      "Paul McCartney",
+      "John Lennon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ringo Starr",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "During sessions for which song did Yoko Ono first sit in at a Beatles recording session?",
+    "options": [
+      "Hey Jude",
+      "Revolution 1",
+      "Julia",
+      "Across the Universe"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Yoko Ono",
+      "Revolution 1"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "On which date did Paul McCartney marry Linda Eastman?",
+    "options": [
+      "10 April 1970",
+      "12 March 1969",
+      "25 December 1967",
+      "20 March 1969"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul McCartney",
+      "Linda McCartney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which company bought control of Northern Songs in 1969, to the dismay of Lennon and McCartney?",
+    "options": [
+      "Polydor",
+      "ATV",
+      "Decca",
+      "EMI"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Northern Songs",
+      "ATV"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who was the managing director of Northern Songs, publisher of the Lennon-McCartney catalogue?",
+    "options": [
+      "George Martin",
+      "Lew Grade",
+      "Brian Epstein",
+      "Dick James"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Northern Songs",
+      "Dick James"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "What was the name of Allen Klein's company?",
+    "options": [
+      "ABKCO",
+      "RSO",
+      "MPL",
+      "NEMS"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Allen Klein",
+      "ABKCO"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "royal-albert-hall",
+    "category": "records",
+    "difficulty": 3,
+    "question": "In which year was Apple Records launched?",
+    "options": [
+      "1965",
+      "1970",
+      "1967",
+      "1968"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Apple Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "records",
+    "difficulty": 3,
+    "question": "The name \"Apple Corps\" is a pun on which phrase?",
+    "options": [
+      "Apple cart",
+      "Peace Corps",
+      "Apple core",
+      "Army corps"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Apple Corps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "On which London street was the short-lived Apple Boutique?",
+    "options": [
+      "King's Road",
+      "Baker Street",
+      "Oxford Street",
+      "Carnaby Street"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Apple Boutique"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "places",
+    "difficulty": 4,
+    "question": "What was the address of Apple's headquarters, the building with the famous rooftop?",
+    "options": [
+      "7 Cavendish Avenue",
+      "3 Abbey Road",
+      "3 Savile Row",
+      "94 Baker Street"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Apple Corps",
+      "Savile Row"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "people",
+    "difficulty": 4,
+    "question": "Which former Beatles road manager ran Apple Corps from 1970 until 2007?",
+    "options": [
+      "Peter Brown",
+      "Neil Aspinall",
+      "Derek Taylor",
+      "Mal Evans"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Apple Corps",
+      "Neil Aspinall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who took over as chief executive of Apple Corps in 2007?",
+    "options": [
+      "Tony Bramwell",
+      "Olivia Harrison",
+      "Jeff Jones",
+      "Giles Martin"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Apple Corps",
+      "Jeff Jones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 4,
+    "question": "Why did The Beatles' accountants urge them to set up a business in 1967?",
+    "options": [
+      "To sign Elvis Presley",
+      "To reduce their tax bill",
+      "To pay off debts",
+      "To buy Abbey Road Studios"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Apple Corps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "How much money were The Beatles told they must invest in 1967 or lose to the taxman?",
+    "options": [
+      "£200,000",
+      "£2 million",
+      "£100 million",
+      "£20 million"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Apple Corps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "A painting of a green apple by which artist inspired the Apple logo?",
+    "options": [
+      "Paul Cézanne",
+      "Salvador Dalí",
+      "René Magritte",
+      "Andy Warhol"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Apple Corps",
+      "Magritte"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which art dealer left the Magritte apple painting on Paul McCartney's table?",
+    "options": [
+      "Robert Fraser",
+      "John Dunbar",
+      "Peter Blake",
+      "Barry Miles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Apple Corps",
+      "Robert Fraser"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who designed the Apple logo?",
+    "options": [
+      "Peter Blake",
+      "Gene Mahon",
+      "Richard Hamilton",
+      "Alan Aldridge"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Apple Corps",
+      "Gene Mahon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 5,
+    "question": "In April 1967 The Beatles formed a new partnership as a first step towards Apple. What was it called?",
+    "options": [
+      "Mersey Music",
+      "Beatles and Co.",
+      "Lennon-McCartney Holdings",
+      "Fab Four Ltd"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Apple Corps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "In which month and year did Beatles Ltd officially change its name to Apple Corps Ltd?",
+    "options": [
+      "January 1970",
+      "August 1968",
+      "June 1967",
+      "January 1968"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Apple Corps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Australian-born impresario tried to take over NEMS after Brian Epstein's death and later formed RSO Records?",
+    "options": [
+      "Robert Stigwood",
+      "Don Arden",
+      "Harry M. Miller",
+      "Peter Grant"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "NEMS",
+      "Robert Stigwood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which brother of Brian Epstein did The Beatles hope would help them form Apple?",
+    "options": [
+      "Clive Epstein",
+      "Malcolm Epstein",
+      "David Epstein",
+      "Harry Epstein"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Apple Corps",
+      "Clive Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Which Beatles press officer recalled Paul McCartney explaining that \"A is for Apple\"?",
+    "options": [
+      "Brian Sommerville",
+      "Derek Taylor",
+      "Tony Barrow",
+      "Alistair Taylor"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Apple Corps",
+      "Derek Taylor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "Which video game, released in 2009, featured The Beatles' music and studio chatter?",
+    "options": [
+      "Beatles Revolution",
+      "The Beatles: Rock Band",
+      "Guitar Hero: Beatles",
+      "SingStar Beatles"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Beatles: Rock Band"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "For whom did The Beatles make a special record each Christmas from 1963 to 1969?",
+    "options": [
+      "Their fan club members",
+      "The Royal Family",
+      "BBC disc jockeys",
+      "EMI staff"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Christmas records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "records",
+    "difficulty": 4,
+    "question": "In what form were The Beatles' Christmas records sent to fans?",
+    "options": [
+      "Flexi discs",
+      "Picture discs",
+      "Cassette tapes",
+      "Shellac 78s"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Christmas records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who scripted the first two Beatles Christmas records?",
+    "options": [
+      "Derek Taylor",
+      "Tony Barrow",
+      "John Lennon",
+      "Brian Epstein"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Christmas records",
+      "Tony Barrow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 5,
+    "question": "Which carol do The Beatles sing on their first Christmas record in 1963?",
+    "options": [
+      "Silent Night",
+      "We Three Kings",
+      "Away in a Manger",
+      "Good King Wenceslas"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Christmas records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "Their 1963 Christmas record ends with a chorus about which red-nosed character?",
+    "options": [
+      "George the Red-Nosed Reindeer",
+      "Rudolph the Red-Nosed Ringo",
+      "John the Red-Nosed Walrus",
+      "Paul the Red-Nosed Postman"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Christmas records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 5,
+    "question": "What was the UK title of the 1970 LP collecting all seven Beatles Christmas records?",
+    "options": [
+      "Christmas with the Beatles",
+      "From Then to You",
+      "The Fab Four at Christmas",
+      "Crimble Time"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Christmas records",
+      "From Then to You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "In which year were The Beatles' Christmas records first put on general sale, as a vinyl box set?",
+    "options": [
+      "1995",
+      "2017",
+      "1970",
+      "2009"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Christmas records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 5,
+    "question": "How many Christmas records did The Beatles make for their fan club?",
+    "options": [
+      "Three",
+      "Seven",
+      "Five",
+      "Ten"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Christmas records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "The Beatles' 1966 Christmas record took the form of which kind of British seasonal entertainment?",
+    "options": [
+      "A nativity play",
+      "A carol concert",
+      "A quiz show",
+      "A pantomime"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Christmas records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 5,
+    "question": "Which of their own hits do The Beatles sing off-key on their 1965 Christmas record?",
+    "options": [
+      "Day Tripper",
+      "Yesterday",
+      "Help!",
+      "Ticket to Ride"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Christmas records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "On which label were The Beatles' fan club Christmas discs pressed?",
+    "options": [
+      "Lyntone",
+      "Parlophone",
+      "Apple",
+      "Embassy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Christmas records",
+      "Lyntone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "records",
+    "difficulty": 5,
+    "question": "What did American fan club members receive instead of a Christmas record in 1965?",
+    "options": [
+      "A signed photograph",
+      "A poster",
+      "A postcard",
+      "A badge"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Christmas records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "After which album's release in 1968 did The Beatles stop giving interviews as a group?",
+    "options": [
+      "Magical Mystery Tour",
+      "Abbey Road",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "The White Album"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Break-up",
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "band-members",
+    "difficulty": 4,
+    "question": "Which Beatle spent much of 1968 enjoying work with Eric Clapton, Bob Dylan and the Band?",
+    "options": [
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Harrison",
+      "1968"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "records",
+    "difficulty": 5,
+    "question": "Rolling Stone later described which Beatles album as \"four solo albums under one roof\"?",
+    "options": [
+      "Let It Be",
+      "Abbey Road",
+      "Magical Mystery Tour",
+      "The White Album"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "White Album"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "In May 1968 The Beatles gathered at whose house to tape demos for the White Album?",
+    "options": [
+      "John Lennon's",
+      "George Harrison's",
+      "Paul McCartney's",
+      "George Martin's"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Esher demos",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "places",
+    "difficulty": 4,
+    "question": "In which Surrey town was George Harrison's house where the 1968 demos were recorded?",
+    "options": [
+      "Henley",
+      "Guildford",
+      "Esher",
+      "Weybridge"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Esher demos",
+      "Kinfauns"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "people",
+    "difficulty": 5,
+    "question": "Who, in historian Mark Lewisohn's view, was never replaced after 1967, leaving The Beatles without leadership?",
+    "options": [
+      "Brian Epstein",
+      "George Martin",
+      "Dick James",
+      "Neil Aspinall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Break-up",
+      "Brian Epstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "singles",
+    "difficulty": 4,
+    "question": "Which three John Lennon demos were completed by the surviving Beatles for release as Beatles songs?",
+    "options": [
+      "Jealous Guy, Mother and God",
+      "Imagine, Woman and Starting Over",
+      "Grow Old with Me, Borrowed Time and I'm Stepping Out",
+      "Free as a Bird, Real Love and Now and Then"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Anthology",
+      "Now and Then"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "ed-sullivan-show",
+    "category": "in-the-studio",
+    "difficulty": 4,
+    "question": "In which year did Paul, George and Ringo reunite in the studio to work on John Lennon's demos?",
+    "options": [
+      "1988",
+      "2001",
+      "1981",
+      "1994"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Anthology"
+    ],
+    "source": "manual"
+  }
+]

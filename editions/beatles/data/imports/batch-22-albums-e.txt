@@ -1,0 +1,59 @@
+# Beatles albums, part E (charts, sleeves, awards and odd-one-out track questions). Source: Wikipedia album articles.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | albums | On which date was Sgt. Pepper's Lonely Hearts Club Band released in the UK? | 26 May 1967 | 5 August 1966 | 25 June 1967 | 22 November 1968 | Sgt. Pepper
+3 | albums | Which two pop artists designed the Sgt. Pepper cover? | Peter Blake and Jann Haworth | Andy Warhol and Roy Lichtenstein | Richard Hamilton and David Hockney | Klaus Voormann and Alan Aldridge | Sgt. Pepper; Peter Blake
+4 | albums | For how many weeks was Sgt. Pepper number one on the UK album chart? | 27 | 7 | 15 | 52 | Sgt. Pepper
+4 | albums | For how many weeks was Sgt. Pepper number one on the US Billboard album chart? | 15 | 3 | 27 | 40 | Sgt. Pepper
+3 | records | Which album was the first rock LP to win the Grammy Award for Album of the Year? | Sgt. Pepper's Lonely Hearts Club Band | Abbey Road | Help! | Rubber Soul | Sgt. Pepper; Grammy Awards
+4 | records | How many Grammy Awards did Sgt. Pepper win in 1968? | Four | One | Two | Nine | Sgt. Pepper; Grammy Awards
+4 | albums | Which was the first Beatles album to have the same track listing in Britain and America? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | A Hard Day's Night | The White Album | Sgt. Pepper
+4 | albums | Which Beatles album was the UK's best-selling studio album as of 2018? | Sgt. Pepper's Lonely Hearts Club Band | Abbey Road | 1 | The White Album | Sgt. Pepper
+4 | albums | In which year was a remixed, expanded 50th anniversary edition of Sgt. Pepper released? | 2017 | 2007 | 2012 | 2021 | Sgt. Pepper
+4 | albums | In which year was a remixed and expanded edition of the White Album released? | 2018 | 2008 | 2013 | 2022 | White Album
+4 | albums | In which year was a remixed and expanded edition of Revolver released? | 2022 | 2006 | 2016 | 2019 | Revolver
+4 | albums | In which year was a remixed and expanded edition of Let It Be released, alongside the Get Back series? | 2021 | 2003 | 2010 | 2019 | Let It Be
+4 | singles | Which single came from the White Album sessions but was not on the album? | Hey Jude | Lady Madonna | Get Back | Hello, Goodbye | White Album; Hey Jude
+4 | albums | How many songs were on the American version of Revolver? | Eleven | Eight | Fourteen | Sixteen | Revolver
+4 | albums | For how many weeks did Revolver top the UK album chart? | Seven | One | Fifteen | Twenty-seven | Revolver
+4 | records | The Revolver sleeve won a 1967 Grammy Award in which category? | Best Album Cover | Album of the Year | Best Engineered Recording | Best New Artist | Revolver; Grammy Awards
+5 | albums | Klaus Voormann's Revolver cover drawing was inspired by which Victorian illustrator? | Aubrey Beardsley | John Tenniel | Arthur Rackham | Edward Lear | Revolver; Klaus Voormann
+4 | albums | Which album has overtaken Sgt. Pepper in many critics' rankings as The Beatles' best? | Revolver | Help! | Let It Be | Magical Mystery Tour | Revolver
+3 | albums | Which of these songs is NOT on the album Please Please Me? | All My Loving | Chains | Boys | Misery | Please Please Me
+3 | albums | Which of these songs is NOT on With the Beatles? | I Saw Her Standing There | It Won't Be Long | Little Child | Hold Me Tight | With the Beatles
+3 | albums | Which of these songs is NOT on the album A Hard Day's Night? | Eight Days a Week | If I Fell | Tell Me Why | I'll Be Back | A Hard Day's Night
+3 | albums | Which of these songs is NOT on Beatles for Sale? | Ticket to Ride | No Reply | I'm a Loser | Words of Love | Beatles for Sale
+3 | albums | Which of these songs is NOT on the British Help! album? | Drive My Car | The Night Before | Another Girl | Act Naturally | Help!
+3 | albums | Which of these songs is NOT on the British Rubber Soul? | Taxman | Girl | Wait | The Word | Rubber Soul
+3 | albums | Which of these songs is NOT on Revolver? | Paperback Writer | Doctor Robert | For No One | Love You To | Revolver
+3 | albums | Which of these songs is NOT on Sgt. Pepper? | Penny Lane | Lovely Rita | Getting Better | Fixing a Hole | Sgt. Pepper
+3 | albums | Which of these songs is NOT on the White Album? | Hey Bulldog | Glass Onion | Piggies | Savoy Truffle | White Album
+3 | albums | Which of these songs is NOT on Abbey Road? | Across the Universe | Because | Sun King | Oh! Darling | Abbey Road
+3 | albums | Which of these songs is NOT on Let It Be? | Don't Let Me Down | Dig a Pony | For You Blue | Two of Us | Let It Be
+4 | albums | Which album contains both "Michelle" and "Girl"? | Rubber Soul | Revolver | Help! | Beatles for Sale | Rubber Soul
+4 | albums | Which album contains both "Julia" and "Sexy Sadie"? | The White Album | Abbey Road | Let It Be | Magical Mystery Tour | White Album
+4 | albums | Which album contains both "Taxman" and "Doctor Robert"? | Revolver | Rubber Soul | Sgt. Pepper's Lonely Hearts Club Band | Help! | Revolver
+4 | albums | Which album contains both "No Reply" and "I'll Follow the Sun"? | Beatles for Sale | With the Beatles | A Hard Day's Night | Help! | Beatles for Sale
+4 | albums | Which album contains both "Misery" and "There's a Place"? | Please Please Me | With the Beatles | Beatles for Sale | A Hard Day's Night | Please Please Me
+4 | albums | Which album contains both "Because" and "Sun King"? | Abbey Road | The White Album | Let It Be | Revolver | Abbey Road
+4 | albums | Which album contains both "Dig It" and "I Me Mine"? | Let It Be | Abbey Road | Yellow Submarine | The White Album | Let It Be
+4 | albums | Which album contains both "Getting Better" and "Lovely Rita"? | Sgt. Pepper's Lonely Hearts Club Band | Revolver | Magical Mystery Tour | Rubber Soul | Sgt. Pepper
+4 | albums | Which album contains both "Little Child" and "Not a Second Time"? | With the Beatles | Please Please Me | A Hard Day's Night | Beatles for Sale | With the Beatles
+4 | albums | Which album contains both "Tell Me Why" and "I'll Cry Instead"? | A Hard Day's Night | Help! | With the Beatles | Beatles for Sale | A Hard Day's Night
+4 | albums | Which album contains both "The Night Before" and "It's Only Love"? | Help! | Rubber Soul | Beatles for Sale | A Hard Day's Night | Help!
+2 | albums | Which album came first: Revolver, Rubber Soul, Sgt. Pepper or Abbey Road? | Rubber Soul | Revolver | Sgt. Pepper's Lonely Hearts Club Band | Abbey Road | Album order
+2 | albums | Which album came out last: Help!, Revolver, the White Album or Let It Be? | Let It Be | The White Album | Revolver | Help! | Album order
+3 | albums | Which album came directly after Help! in The Beatles' British discography? | Rubber Soul | Revolver | Beatles for Sale | A Hard Day's Night | Album order
+3 | albums | Which album came directly after Revolver in The Beatles' British discography? | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Rubber Soul | The White Album | Album order
+3 | albums | Which album came directly before A Hard Day's Night in The Beatles' British discography? | With the Beatles | Please Please Me | Beatles for Sale | Help! | Album order
+3 | albums | Which album came directly after the White Album in The Beatles' British discography? | Yellow Submarine | Abbey Road | Let It Be | Magical Mystery Tour | Album order
+3 | albums | Which two Beatles albums were released in 1963? | Please Please Me and With the Beatles | With the Beatles and A Hard Day's Night | Please Please Me and Beatles for Sale | A Hard Day's Night and Help! | Album order
+3 | albums | Which two Beatles albums were released in 1964? | A Hard Day's Night and Beatles for Sale | With the Beatles and Help! | Beatles for Sale and Rubber Soul | Please Please Me and A Hard Day's Night | Album order
+3 | albums | Which two Beatles albums were released in 1965? | Help! and Rubber Soul | Rubber Soul and Revolver | Beatles for Sale and Help! | Revolver and Sgt. Pepper | Album order
+3 | albums | Which two Beatles studio albums were released in 1969? | Yellow Submarine and Abbey Road | Abbey Road and Let It Be | The White Album and Abbey Road | Yellow Submarine and Let It Be | Album order
+4 | albums | How many George Harrison songs are on the White Album? | Four | One | Two | Seven | White Album; George Harrison
+4 | albums | How many George Harrison songs are on Abbey Road? | Two | One | Three | Four | Abbey Road; George Harrison
+4 | albums | How many George Harrison songs are on Sgt. Pepper? | One | None | Two | Three | Sgt. Pepper; George Harrison
+4 | albums | Which is the only George Harrison song on Sgt. Pepper? | Within You Without You | Love You To | Blue Jay Way | Only a Northern Song | Sgt. Pepper; George Harrison
+4 | albums | Which two George Harrison songs are on the Yellow Submarine album? | Only a Northern Song and It's All Too Much | Blue Jay Way and The Inner Light | Piggies and Savoy Truffle | Old Brown Shoe and For You Blue | Yellow Submarine; George Harrison
+4 | albums | Which two George Harrison songs are on the Help! album? | I Need You and You Like Me Too Much | Think for Yourself and If I Needed Someone | Don't Bother Me and I Need You | Taxman and Love You To | Help!; George Harrison
+4 | albums | Which two George Harrison songs are on Let It Be? | I Me Mine and For You Blue | Something and Here Comes the Sun | Old Brown Shoe and Not Guilty | Piggies and Long, Long, Long | Let It Be; George Harrison

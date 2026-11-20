@@ -14,16 +14,16 @@ body {
 body::before, body::after {
   content: ""; position: fixed; z-index: -1; pointer-events: none;
   top: -20vh; width: clamp(80px, 11vw, 160px); height: 150vh;
-  background: linear-gradient(180deg, rgba(220, 255, 240, 0.15), rgba(220, 255, 240, 0));
+  background: linear-gradient(180deg, var(--studio-beam), transparent);
 }
 body::before { left: 12vw; transform: rotate(24deg); }
 body::after { right: 32vw; transform: rotate(-24deg); }
 
 /* ================= Top bar ================= */
 .topbar {
-  background: rgba(6, 16, 11, 0.86);
+  background: var(--topbar-bg);
   border-bottom: 2px solid transparent;
-  border-image: linear-gradient(90deg, #66716b 0%, #fbfdfc 30%, #929d97 50%, #fbfdfc 70%, #66716b 100%) 1;
+  border-image: var(--chrome-rule) 1;
 }
 .brand-title {
   font-weight: 900; letter-spacing: 0.2em;
@@ -53,20 +53,20 @@ body::after { right: 32vw; transform: rotate(-24deg); }
 }
 .btn:not(.btn-ghost, .btn-danger, .btn-gold-outline):hover:not(:disabled) {
   background: var(--plate-hover) padding-box, var(--chrome) border-box;
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 24px rgba(31, 138, 98, 0.45);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 24px rgba(var(--emerald-bright-rgb), 0.45);
 }
 .btn.btn-primary {
   --btn-bg: var(--gold-plate);
   --btn-color: var(--ink-gold);
   font-weight: 800;
   background: var(--gold-plate) padding-box, var(--gold-rim) border-box;
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 30px rgba(224, 194, 122, 0.35);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 30px rgba(var(--gold-bright-rgb), 0.35);
 }
 .btn.btn-primary:hover:not(:disabled) {
   background: var(--gold-plate-hover) padding-box, var(--gold-rim) border-box;
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 40px rgba(224, 194, 122, 0.55);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 40px rgba(var(--gold-bright-rgb), 0.55);
 }
-.btn.btn-emerald { --btn-bg: linear-gradient(180deg, #2aa878 0%, #146B4C 100%); }
+.btn.btn-emerald { --btn-bg: var(--emerald-plate); }
 
 /* ================= Panels ================= */
 .card {
@@ -75,7 +75,7 @@ body::after { right: 32vw; transform: rotate(-24deg); }
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.16), 0 16px 40px rgba(0, 0, 0, 0.5);
 }
 .sheet .ladder { background: none; border: 0; box-shadow: none; }
-.how-card .icon { border-radius: 50%; background: var(--chrome); border: 0; color: #0b1a13; }
+.how-card .icon { border-radius: 50%; background: var(--chrome); border: 0; color: var(--chrome-disc-ink); }
 .recent li { border-radius: 999px; padding: 10px 18px; }
 
 /* ================= Question ================= */
@@ -85,9 +85,9 @@ body::after { right: 32vw; transform: rotate(-24deg); }
   padding: clamp(22px, 4vw, 34px) clamp(20px, 4.5vw, 44px);
   display: flex; flex-direction: column; align-items: center; justify-content: center; gap: var(--sp-3);
   text-align: center;
-  background: linear-gradient(180deg, #14503a 0%, #0b2c21 50%, #071a14 100%) padding-box, var(--chrome) border-box;
+  background: var(--question-plate) padding-box, var(--chrome) border-box;
   box-shadow: inset 0 2px 0 rgba(255, 255, 255, 0.22), inset 0 -30px 60px rgba(0, 0, 0, 0.35),
-    0 16px 40px rgba(0, 0, 0, 0.55), 0 0 60px rgba(31, 138, 98, 0.35);
+    0 16px 40px rgba(0, 0, 0, 0.55), 0 0 60px rgba(var(--emerald-bright-rgb), 0.35);
 }
 .question-panel::before { display: none; }
 .question-panel .eyebrow { margin-bottom: 0; }
@@ -106,14 +106,14 @@ body::after { right: 32vw; transform: rotate(-24deg); }
 }
 .answer .letter {
   width: 42px; height: 42px; border-radius: 50%; border: 0;
-  background: linear-gradient(160deg, #ffffff 0%, #aab4ae 45%, #6b7670 55%, #e6ebe8 100%);
-  color: #0b1a13; font-weight: 900; font-size: 1.05rem;
+  background: var(--chrome-disc);
+  color: var(--chrome-disc-ink); font-weight: 900; font-size: 1.05rem;
 }
 /* Mouse only, so a phone's sticky "hover" doesn't light up the next question's answer. */
 @media (hover: hover) and (pointer: fine) {
   .answer:hover:not(:disabled) {
     background: var(--plate-hover) padding-box, var(--chrome) border-box;
-    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), 0 8px 22px rgba(0, 0, 0, 0.5), 0 0 26px rgba(31, 138, 98, 0.55);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.35), 0 8px 22px rgba(0, 0, 0, 0.5), 0 0 26px rgba(var(--emerald-bright-rgb), 0.55);
   }
 }
 
@@ -121,7 +121,7 @@ body::after { right: 32vw; transform: rotate(-24deg); }
   background: var(--gold-plate) padding-box, var(--gold-rim) border-box;
   color: var(--ink-gold); font-weight: 700;
 }
-.answer.is-selected .letter { background: var(--ink-gold); color: #f6e2a6; }
+.answer.is-selected .letter { background: var(--ink-gold); color: var(--gold-pale); }
 .answer.is-selected .mark { opacity: 1; }
 .answer.is-selected .mark::after {
   content: "Final answer";
@@ -145,7 +145,7 @@ body::after { right: 32vw; transform: rotate(-24deg); }
 .answer.is-wrong .mark { color: #ffffff; }
 
 .answer.is-removed {
-  background: var(--plate-dull) padding-box, linear-gradient(#4f5a54, #4f5a54) border-box;
+  background: var(--plate-dull) padding-box, linear-gradient(var(--rim-dull), var(--rim-dull)) border-box;
   box-shadow: none;
 }
 
@@ -156,19 +156,19 @@ body::after { right: 32vw; transform: rotate(-24deg); }
   --btn-color: var(--ink-gold);
   min-height: 52px; font-size: 1.15rem; font-weight: 800; letter-spacing: 0.06em;
   background: var(--gold-plate) padding-box, var(--gold-rim) border-box;
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 30px rgba(224, 194, 122, 0.35);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 30px rgba(var(--gold-bright-rgb), 0.35);
 }
 .btn.lifeline:hover:not(:disabled) {
   background: var(--gold-plate-hover) padding-box, var(--gold-rim) border-box;
-  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 40px rgba(224, 194, 122, 0.55);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), 0 8px 22px rgba(0, 0, 0, 0.45), 0 0 40px rgba(var(--gold-bright-rgb), 0.55);
 }
 .btn.lifeline.is-used {
   --btn-bg: var(--plate-dull);
   --btn-color: var(--grey-muted);
-  background: var(--plate-dull) padding-box, linear-gradient(#4f5a54, #4f5a54) border-box;
+  background: var(--plate-dull) padding-box, linear-gradient(var(--rim-dull), var(--rim-dull)) border-box;
   box-shadow: none;
 }
-.kbd-hint { color: #A9B8AF; align-self: center; }
+.kbd-hint { color: var(--kbd-hint); align-self: center; }
 
 /* Sound toggle on How To Play: gold when on, plain plate when off. */
 .how-card .sound-toggle { justify-self: start; min-width: 140px; }
@@ -194,11 +194,11 @@ body::after { right: 32vw; transform: rotate(-24deg); }
 }
 .rung .num { order: 2; font-size: 0.8rem; color: inherit; opacity: 1; }
 .rung .icons { order: 3; }
-.rung .check { color: #6FE0A6; font-size: 1rem; }
-.rung.is-final { color: var(--gold-bright); border-color: rgba(224, 194, 122, 0.6); font-weight: 800; }
+.rung .check { color: var(--tick); font-size: 1rem; }
+.rung.is-final { color: var(--gold-bright); border-color: rgba(var(--gold-bright-rgb), 0.6); font-weight: 800; }
 .rung.is-done {
   color: var(--white);
-  background: rgba(31, 138, 98, 0.28);
+  background: rgba(var(--emerald-bright-rgb), 0.28);
   border-color: transparent;
 }
 .rung.is-done .num { display: none; }

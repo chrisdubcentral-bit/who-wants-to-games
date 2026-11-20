@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "collection": "rejected",
+  "updatedAt": "2026-11-20T23:16:56.253Z",
+  "questions": [
+    {
+      "id": "q_000760",
+      "schemaVersion": 1,
+      "club": "beatles",
+      "stage": "cavern",
+      "category": "songs",
+      "difficulty": 1,
+      "question": "Which Beatles song includes the line \"All you need is love\"?",
+      "options": [
+        "Love Me Do",
+        "Can't Buy Me Love",
+        "All You Need Is Love",
+        "She Loves You"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "All You Need Is Love"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-17T00:00:58.812Z",
+      "updatedAt": "2026-11-18T22:29:37.538Z",
+      "review": {
+        "reviewedAt": "2026-11-18T22:29:37.538Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Too easy"
+      }
+    },
+    {
+      "id": "q_000170",
+      "schemaVersion": 1,
+      "club": "beatles",
+      "stage": "ed-sullivan-show",
+      "category": "in-the-studio",
+      "difficulty": 4,
+      "question": "The three-part harmony on \"Because\" was recorded three times to make how many voices in all?",
+      "options": [
+        "Six",
+        "Sixteen",
+        "Nine",
+        "Twelve"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Because",
+        "Abbey Road"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-16T23:55:07.000Z",
+      "updatedAt": "2026-11-17T23:27:07.112Z",
+      "review": {
+        "reviewedAt": "2026-11-17T23:27:07.112Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Too easy"
+      }
+    },
+    {
+      "id": "q_000745",
+      "schemaVersion": 1,
+      "club": "beatles",
+      "stage": "hamburg",
+      "category": "songs",
+      "difficulty": 1,
+      "question": "Which Beatle sings lead on \"Yellow Submarine\"?",
+      "options": [
+        "George Harrison",
+        "John Lennon",
+        "Ringo Starr",
+        "Paul McCartney"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Yellow Submarine",
+        "Ringo Starr"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-17T00:00:58.812Z",
+      "updatedAt": "2026-11-17T06:50:32.698Z",
+      "review": {
+        "reviewedAt": "2026-11-17T06:50:32.698Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    }
+  ]
+}

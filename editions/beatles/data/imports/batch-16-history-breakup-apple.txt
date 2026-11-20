@@ -1,0 +1,59 @@
+# Beatles history: the break-up, Apple Corps and the Christmas records. Source: Wikipedia.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | band-members | Which Beatle announced in April 1970 that he was no longer working with the group? | Paul McCartney | John Lennon | George Harrison | Ringo Starr | Break-up; Paul McCartney
+3 | records | On which date did Paul McCartney's press release signal the end of The Beatles? | 10 April 1970 | 30 January 1969 | 20 September 1969 | 8 December 1970 | Break-up
+4 | band-members | On which date did John Lennon privately tell the others he was leaving The Beatles? | 20 September 1969 | 10 April 1970 | 30 January 1969 | 22 August 1969 | Break-up; John Lennon
+4 | records | In which year was the legal dissolution of The Beatles' partnership formalised? | 1974 | 1970 | 1971 | 1980 | Break-up
+4 | people | Which American businessman became The Beatles' business manager in 1969 over Paul McCartney's objections? | Allen Klein | Lee Eastman | Albert Grossman | David Geffen | Break-up; Allen Klein
+4 | people | Which father-and-son lawyers did Paul McCartney want to manage The Beatles' affairs? | Lee and John Eastman | Lew and Leslie Grade | David and Nat Jacobs | Sid and Marty Bernstein | Break-up; Eastman
+4 | band-members | For how long did George Harrison quit The Beatles in January 1969? | Five days | One afternoon | Two weeks | Three months | Break-up; George Harrison
+5 | places | At which John Lennon home did the four Beatles gather for their last photo session on 22 August 1969? | Tittenhurst Park | Kenwood | The Dakota | Mendips | Break-up; Tittenhurst Park
+5 | solo-years | Which 1973 Ringo Starr track features three ex-Beatles playing together? | I'm the Greatest | Photograph | It Don't Come Easy | Back Off Boogaloo | Ringo Starr; I'm the Greatest
+5 | solo-years | Which 1981 George Harrison single, a tribute to John Lennon, features Paul McCartney and Ringo Starr? | All Those Years Ago | Got My Mind Set on You | When We Was Fab | Blow Away | George Harrison; All Those Years Ago
+4 | albums | Which album did John Lennon say let you hear "the break-up of the Beatles"? | The White Album | Let It Be | Abbey Road | Sgt. Pepper's Lonely Hearts Club Band | Break-up; White Album
+4 | solo-years | Which Beatle was the first to release a solo album? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | George Harrison; Wonderwall Music
+5 | places | To which Mediterranean island did Ringo Starr go when he walked out of the White Album sessions? | Sardinia | Corfu | Majorca | Malta | Ringo Starr; White Album
+5 | band-members | What did Ringo Starr find on his drum kit when he returned to the White Album sessions? | Flowers | A gold disc | A new snare drum | A cake | Ringo Starr; White Album
+5 | band-members | Who had Ringo Starr's drum kit decorated with flowers to welcome him back in September 1968? | George Harrison | Paul McCartney | John Lennon | Mal Evans | Ringo Starr; George Harrison
+4 | people | During sessions for which song did Yoko Ono first sit in at a Beatles recording session? | Revolution 1 | Hey Jude | Julia | Across the Universe | Yoko Ono; Revolution 1
+4 | band-members | On which date did Paul McCartney marry Linda Eastman? | 12 March 1969 | 20 March 1969 | 25 December 1967 | 10 April 1970 | Paul McCartney; Linda McCartney
+5 | people | Which company bought control of Northern Songs in 1969, to the dismay of Lennon and McCartney? | ATV | EMI | Decca | Polydor | Northern Songs; ATV
+5 | people | Who was the managing director of Northern Songs, publisher of the Lennon-McCartney catalogue? | Dick James | Brian Epstein | Lew Grade | George Martin | Northern Songs; Dick James
+4 | people | What was the name of Allen Klein's company? | ABKCO | NEMS | RSO | MPL | Allen Klein; ABKCO
+3 | records | In which year was Apple Records launched? | 1968 | 1965 | 1967 | 1970 | Apple Records
+3 | records | The name "Apple Corps" is a pun on which phrase? | Apple core | Apple cart | Army corps | Peace Corps | Apple Corps
+4 | places | On which London street was the short-lived Apple Boutique? | Baker Street | Carnaby Street | King's Road | Oxford Street | Apple Boutique
+4 | places | What was the address of Apple's headquarters, the building with the famous rooftop? | 3 Savile Row | 94 Baker Street | 7 Cavendish Avenue | 3 Abbey Road | Apple Corps; Savile Row
+4 | people | Which former Beatles road manager ran Apple Corps from 1970 until 2007? | Neil Aspinall | Mal Evans | Derek Taylor | Peter Brown | Apple Corps; Neil Aspinall
+5 | people | Who took over as chief executive of Apple Corps in 2007? | Jeff Jones | Giles Martin | Olivia Harrison | Tony Bramwell | Apple Corps; Jeff Jones
+4 | records | Why did The Beatles' accountants urge them to set up a business in 1967? | To reduce their tax bill | To pay off debts | To buy Abbey Road Studios | To sign Elvis Presley | Apple Corps
+5 | records | How much money were The Beatles told they must invest in 1967 or lose to the taxman? | £2 million | £200,000 | £20 million | £100 million | Apple Corps
+5 | people | A painting of a green apple by which artist inspired the Apple logo? | René Magritte | Salvador Dalí | Andy Warhol | Paul Cézanne | Apple Corps; Magritte
+5 | people | Which art dealer left the Magritte apple painting on Paul McCartney's table? | Robert Fraser | John Dunbar | Barry Miles | Peter Blake | Apple Corps; Robert Fraser
+5 | people | Who designed the Apple logo? | Gene Mahon | Alan Aldridge | Peter Blake | Richard Hamilton | Apple Corps; Gene Mahon
+5 | records | In April 1967 The Beatles formed a new partnership as a first step towards Apple. What was it called? | Beatles and Co. | Fab Four Ltd | Lennon-McCartney Holdings | Mersey Music | Apple Corps
+5 | records | In which month and year did Beatles Ltd officially change its name to Apple Corps Ltd? | January 1968 | June 1967 | August 1968 | January 1970 | Apple Corps
+5 | people | Which Australian-born impresario tried to take over NEMS after Brian Epstein's death and later formed RSO Records? | Robert Stigwood | Harry M. Miller | Peter Grant | Don Arden | NEMS; Robert Stigwood
+5 | people | Which brother of Brian Epstein did The Beatles hope would help them form Apple? | Clive Epstein | Harry Epstein | David Epstein | Malcolm Epstein | Apple Corps; Clive Epstein
+5 | people | Which Beatles press officer recalled Paul McCartney explaining that "A is for Apple"? | Derek Taylor | Tony Barrow | Alistair Taylor | Brian Sommerville | Apple Corps; Derek Taylor
+4 | records | Which video game, released in 2009, featured The Beatles' music and studio chatter? | The Beatles: Rock Band | Guitar Hero: Beatles | SingStar Beatles | Beatles Revolution | The Beatles: Rock Band
+4 | records | For whom did The Beatles make a special record each Christmas from 1963 to 1969? | Their fan club members | EMI staff | The Royal Family | BBC disc jockeys | Christmas records
+4 | records | In what form were The Beatles' Christmas records sent to fans? | Flexi discs | Cassette tapes | Shellac 78s | Picture discs | Christmas records
+5 | people | Who scripted the first two Beatles Christmas records? | Tony Barrow | Derek Taylor | John Lennon | Brian Epstein | Christmas records; Tony Barrow
+5 | records | Which carol do The Beatles sing on their first Christmas record in 1963? | Good King Wenceslas | Silent Night | Away in a Manger | We Three Kings | Christmas records
+5 | records | Their 1963 Christmas record ends with a chorus about which red-nosed character? | Rudolph the Red-Nosed Ringo | George the Red-Nosed Reindeer | Paul the Red-Nosed Postman | John the Red-Nosed Walrus | Christmas records
+5 | records | What was the UK title of the 1970 LP collecting all seven Beatles Christmas records? | From Then to You | Christmas with the Beatles | The Fab Four at Christmas | Crimble Time | Christmas records; From Then to You
+5 | records | In which year were The Beatles' Christmas records first put on general sale, as a vinyl box set? | 2017 | 1970 | 1995 | 2009 | Christmas records
+5 | records | How many Christmas records did The Beatles make for their fan club? | Seven | Three | Five | Ten | Christmas records
+5 | records | The Beatles' 1966 Christmas record took the form of which kind of British seasonal entertainment? | A pantomime | A carol concert | A nativity play | A quiz show | Christmas records
+5 | records | Which of their own hits do The Beatles sing off-key on their 1965 Christmas record? | Yesterday | Help! | Ticket to Ride | Day Tripper | Christmas records
+5 | records | On which label were The Beatles' fan club Christmas discs pressed? | Lyntone | Parlophone | Apple | Embassy | Christmas records; Lyntone
+5 | records | What did American fan club members receive instead of a Christmas record in 1965? | A postcard | A poster | A signed photograph | A badge | Christmas records
+4 | band-members | After which album's release in 1968 did The Beatles stop giving interviews as a group? | The White Album | Sgt. Pepper's Lonely Hearts Club Band | Magical Mystery Tour | Abbey Road | Break-up; White Album
+4 | band-members | Which Beatle spent much of 1968 enjoying work with Eric Clapton, Bob Dylan and the Band? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | George Harrison; 1968
+5 | records | Rolling Stone later described which Beatles album as "four solo albums under one roof"? | The White Album | Let It Be | Abbey Road | Magical Mystery Tour | White Album
+4 | in-the-studio | In May 1968 The Beatles gathered at whose house to tape demos for the White Album? | George Harrison's | John Lennon's | Paul McCartney's | George Martin's | Esher demos; George Harrison
+4 | places | In which Surrey town was George Harrison's house where the 1968 demos were recorded? | Esher | Weybridge | Guildford | Henley | Esher demos; Kinfauns
+5 | people | Who, in historian Mark Lewisohn's view, was never replaced after 1967, leaving The Beatles without leadership? | Brian Epstein | George Martin | Neil Aspinall | Dick James | Break-up; Brian Epstein
+4 | singles | Which three John Lennon demos were completed by the surviving Beatles for release as Beatles songs? | Free as a Bird, Real Love and Now and Then | Imagine, Woman and Starting Over | Jealous Guy, Mother and God | Grow Old with Me, Borrowed Time and I'm Stepping Out | Anthology; Now and Then
+4 | in-the-studio | In which year did Paul, George and Ringo reunite in the studio to work on John Lennon's demos? | 1994 | 1981 | 1988 | 2001 | Anthology

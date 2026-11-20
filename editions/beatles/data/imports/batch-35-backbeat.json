@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Who directed the 1994 film Backbeat?",
+    "options": [
+      "Danny Boyle",
+      "Richard Lester",
+      "Iain Softley",
+      "Sam Taylor-Johnson"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Backbeat",
+      "Iain Softley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "palladium",
+    "category": "films-tv",
+    "difficulty": 3,
+    "question": "Which actress played Astrid Kirchherr in the film Backbeat?",
+    "options": [
+      "Jennifer Ehle",
+      "Helena Bonham Carter",
+      "Kristin Scott Thomas",
+      "Sheryl Lee"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Backbeat",
+      "Astrid Kirchherr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which Nirvana member played drums on the soundtrack of the film Backbeat?",
+    "options": [
+      "Chad Channing",
+      "Dave Grohl",
+      "Pat Smear",
+      "Krist Novoselic"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Backbeat",
+      "Dave Grohl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "hollywood-bowl",
+    "category": "films-tv",
+    "difficulty": 4,
+    "question": "Which award did Don Was win for his score for the film Backbeat?",
+    "options": [
+      "Ivor Novello Award",
+      "Golden Globe",
+      "Academy Award",
+      "BAFTA Award"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Backbeat",
+      "Don Was"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "beatles",
+    "stage": "shea-stadium",
+    "category": "films-tv",
+    "difficulty": 5,
+    "question": "Which punk singer provided Stuart Sutcliffe's singing voice in the film Backbeat?",
+    "options": [
+      "Henry Rollins",
+      "Iggy Pop",
+      "Dave Pirner",
+      "Greg Dulli"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Backbeat",
+      "Henry Rollins",
+      "Stuart Sutcliffe"
+    ],
+    "source": "manual"
+  }
+]
