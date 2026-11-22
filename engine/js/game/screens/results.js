@@ -1,7 +1,7 @@
 import { mount, esc } from '../../ui/dom.js';
 import { summarise, STATUS } from '../game-engine.js';
 import { LETTERS } from '../../core/utils.js';
-import { t, ed, summaryLabels, prizeCount, seasonName } from '../../core/edition.js';
+import { t, ed, summaryLabels, prizeCount, seasonName, seasonButton } from '../../core/edition.js';
 import { openModal } from '../../ui/components/modal.js';
 import {
   fetchBoard, cachedBoard, submitEntry, hasRunToken, myEntry, readPlayer, entryFromSummary, isEligible,
@@ -56,7 +56,7 @@ export function render(root, app) {
     extra = `
       <p class="muted season-note">${esc(t('results.seasonNote', { restart }))}
         ${s.lifelineUsed ? 'Your 50:50 has been used.' : 'Your 50:50 is still there to use.'}</p>`;
-    actions = `<button class="btn btn-primary btn-lg" data-action="season">Start ${seasonName()} ${s.season + 1}</button>`;
+    actions = `<button class="btn btn-primary btn-lg" data-action="season">${esc(seasonButton(s.season + 1))}</button>`;
   } else {
     cls = 'is-eliminated';
     const last = state.answers[state.answers.length - 1];
@@ -121,7 +121,7 @@ export function render(root, app) {
         message: `You can carry on into ${seasonName()} ${next}, or end your run now and add your name to the Top ${LIMIT}.`,
         actions: [
           { label: 'End Run', value: 'end', className: 'btn-ghost' },
-          { label: `Start ${seasonName()} ${next}`, value: 'season', className: 'btn-primary' },
+          { label: seasonButton(next), value: 'season', className: 'btn-primary' },
         ],
       });
       if (choice === 'season') app.nextSeason();

@@ -238,9 +238,9 @@ function writeLandingPage(editions) {
     * { box-sizing: border-box; }
     body { margin: 0; min-height: 100vh; padding: 56px 16px; background: radial-gradient(ellipse at top, #18201c 0%, var(--bg) 60%) var(--bg); color: var(--text); font: 16px/1.5 "Segoe UI", system-ui, -apple-system, sans-serif; }
     main { max-width: 640px; margin: 0 auto; }
-    .logo { display: block; width: 100%; max-width: 520px; height: auto; margin: 0 0 20px; }
-    h1 { margin: 4px 0 8px; font-size: clamp(1.8rem, 6vw, 2.4rem); line-height: 1.15; }
-    .lead { margin: 0 0 32px; color: var(--muted); }
+    .logo { display: block; width: 100%; max-width: 520px; height: auto; margin: 0 auto 20px; }
+    h1 { margin: 4px 0 8px; font-size: clamp(1.8rem, 6vw, 2.4rem); line-height: 1.15; text-align: center; }
+    .lead { margin: 0 0 32px; color: var(--muted); text-align: center; }
     ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
     a.edition { display: flex; gap: 16px; align-items: center; padding: 16px; border-radius: 16px; border: 1px solid var(--line); background: var(--card); color: var(--text); text-decoration: none; transition: transform .15s ease, border-color .15s ease; }
     a.edition:hover { transform: translateY(-2px); border-color: var(--accent); }

@@ -9,7 +9,7 @@
     "start": "Kick Off Tour",
     "game": "journey",
     "games": "journeys",
-    "season": "Album"
+    "season": "Tour"
   },
   "seasons": {
     "restartStage": "royal-albert-hall"
@@ -35,9 +35,9 @@
       "road": "Each venue on the {game} is one question: {stages}. Get it right and {team} move on.",
       "knockoutTitle": "One Wrong Note",
       "knockout": "One wrong answer and the {game} is over. Play the last venue and you're a {champion}, with a {prize} to show for it.",
-      "lifeline": "Use it once to remove two wrong answers. Choose the moment carefully: you don't get another one if you play on into a new album.",
-      "seasonsTitle": "The Next Album",
-      "seasons": "Play Shea Stadium and you can start a new album, going straight in at {restart}. Keep going to add more {prizes}. A wrong answer ends your run, but you keep the {prizes} you've won.",
+      "lifeline": "Use it once to remove two wrong answers. Choose the moment carefully: you don't get another one if you play on into a new tour.",
+      "seasonsTitle": "The Next Tour",
+      "seasons": "Play Shea Stadium and you can start a new tour, going straight in at {restart}. Keep going to add more {prizes}. A wrong answer ends your run, but you keep the {prizes} you've won.",
       "top100": "The Top 40 is shared with players everywhere, and anyone can add their name and town to it. The most {prizes} ranks highest, then the furthest venue reached. After that, players who didn't use the 50:50 rank above those who did, then the fastest time wins.",
       "sound": "Hear the crowd scream when you get an answer right. On a phone, the silent switch or volume may also need turning up."
     },
@@ -77,7 +77,8 @@
       "prizeAlt": "A {prize}",
       "result": "Result",
       "prizeCount": "{prizes}",
-      "seasonNote": "Carry on with a new album from {restart} and try to do it again. A wrong answer ends your run, but you keep the {prizes} you've won.",
+      "seasonButton": "CONTINUE TOUR",
+      "seasonNote": "Carry on with the tour from {restart} and try to do it again. A wrong answer ends your run, but you keep the {prizes} you've won.",
       "outEyebrow": "The Show's Over",
       "out": "The Journey Ends Here",
       "outIn": "Out at {stage}",

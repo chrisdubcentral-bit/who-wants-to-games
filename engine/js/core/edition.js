@@ -41,3 +41,6 @@ export function prizeCount(n) {
 
 /** What the edition calls each run after the first win: "Season" unless its vars say otherwise ("Season 2"). */
 export const seasonName = () => edition.vars.season ?? 'Season';
+
+/** Label for the button that starts the next season; an edition can set its own wording in text.results.seasonButton. */
+export const seasonButton = (n) => ed('text.results.seasonButton') || `Start ${seasonName()} ${n}`;
