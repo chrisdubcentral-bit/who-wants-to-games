@@ -109,6 +109,13 @@ writes these as 301 redirects in `dist/_redirects`, because the game pages must 
 has approved questions. Remove the line (or set it to `true`) when it's ready to go live. With only one edition hosted,
 the front page goes straight to that edition, as before.
 
+**Site logo.** The "Who Wants To Win" logo and social media pictures are in `media/brand/`. The front page uses
+`logo.svg`, `icon-192.png` and `icon-180.png`. Its link preview uses `share-1200x630.png`. Use `profile-400.png` (or
+`profile-1024.png`) as the profile picture on social accounts and `x-header-1500x500.png` as the X header. To change
+the logo, edit `tools/brand/make-brand.js`, then run `npm install` and
+`node make-brand.js Anton-Regular.ttf ../../media/brand` in that folder. The script turns the lettering into
+outlines, so the logo looks the same everywhere without loading a font.
+
 **Old address.** The site used to be called `wintheeuropeancupceltic`. After renaming it, upload
 `tools/legacy-redirect/` (it holds just a `_redirects` file) as a separate site with the old name. It forwards old
 links and QR codes. Check that the new name inside that file is right before uploading.
@@ -358,6 +365,7 @@ editions/
     data/questions/        pending / approved / rejected
     data/imports/          question batches as they were first written
 media/ads/                 advert videos played between stages (compressed 720p copies)
+media/brand/               the site logo, icons and social media pictures (made by tools/brand/)
 netlify/functions/         the online Top 100 and site statistics APIs (Netlify Functions)
 netlify/database/          database tables (migrations): site statistics, and the old Top 100 copied to Blobs
 server/top100/             the Top 100's checks, word filter and storage, used by the function
@@ -398,6 +406,10 @@ add it to `server/top100/editions.js` (the build warns if you forget) and, if ne
 It shuffles the answers, picks the round from the difficulty, runs the same checks as the review page and skips
 questions already in the edition. Add `--dry` to check a file without writing anything. The Beatles batches in
 `editions/beatles/data/imports/` were made this way.
+
+**From a web page, with Claude Code:** type `/add-questions <edition> <url>`, optionally followed by how many and a
+topic. Claude reads the page, writes the batch file and runs this tool for you. The steps it follows are in
+`.claude/skills/add-questions/SKILL.md`.
 
 ## Adding to it later
 

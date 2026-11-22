@@ -1,0 +1,76 @@
+# Player Birthplaces: 50+ Appearances. Source: https://www.thecelticwiki.com/players/first-team-squad/
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | players | Celtic legend Roy Aitken, who made 667 appearances, was born in which Scottish town? | Irvine | Kilmarnock | Saltcoats | Ayr | Roy Aitken; Irvine; defender
+2 | players | Bobby Lennox, the winger who made 571 Celtic appearances, was a native of which Ayrshire town? | Saltcoats | Troon | Ayr | Irvine | Bobby Lennox; Saltcoats; winger
+1 | players | In which Glasgow district was striker Stevie Chalmers, the 1967 Lisbon Lion, born? | Garngad | Maryhill | Springburn | Govan | Stevie Chalmers; Garngad; Lisbon 1967
+2 | players | Which Irish county was the birthplace of winger Patsy Gallacher, who made 464 Celtic appearances from 1911-1925? | Donegal | Monaghan | Tyrone | Derry | Patsy Gallacher; Donegal; winger
+1 | players | Striker John 'Yogi' Hughes, who made 416 appearances from 1959-1971, hailed from which Scottish industrial town? | Coatbridge | Motherwell | Wishaw | Cleland | John Hughes; Coatbridge; striker
+2 | players | Jimmy McMenemy, the prolific forward with 515 appearances, was born in which Clyde Valley town? | Rutherglen | Cambuslang | Lanark | Hamilton | Jimmy McMenemy; Rutherglen; forward
+1 | players | Left-winger Adam McLean, whose 408 Celtic appearances spanned 1917-1928, was born in which city? | Glasgow | Edinburgh | Motherwell | Aberdeen | Adam McLean; Glasgow; winger
+3 | players | Swedish striker Henrik Larsson, the Swedish Phenomenon, was born in which city outside Scotland? | Helsingborg | Malmö | Stockholm | Gothenburg | Henrik Larsson; Helsingborg; Sweden
+2 | players | In which Glasgow district was midfielder Kenny Dalglish, who made 322 Celtic appearances, born? | Milton | Govan | Maryhill | Springburn | Kenny Dalglish; Milton; Glasgow
+2 | players | Centre-forward Jimmy Quinn, the prolific scorer with 331 Celtic appearances, was a native of which Lanarkshire town? | Croy | Motherwell | Wishaw | Blantyre | Jimmy Quinn; Croy; Lanarkshire
+1 | players | Jimmy McGrory, the legendary forward with 445 Celtic appearances, was born in which part of Glasgow? | Garngad | Maryhill | Springburn | Govan | Jimmy McGrory; Garngad; Glasgow
+3 | players | Goalkeeper Pat Bonner, holder of 641 Celtic appearances, was born in which Irish county? | Donegal | Leitrim | Sligo | Mayo | Pat Bonner; Donegal; goalkeeper
+2 | players | Goalkeeper Charlie Shaw, with 436 Celtic appearances from 1913-1925, was born in which East Dunbartonshire town? | Twechar | Lenzie | Kirkintilloch | Auchinairn | Charlie Shaw; Twechar; goalkeeper
+2 | players | English goalkeeper Peter Latchford, who made 272 Celtic appearances, was born in which English city? | Birmingham | Liverpool | Manchester | Leeds | Peter Latchford; Birmingham; goalkeeper
+1 | players | Legendary centre-half Billy McNeill, with a club record 789 appearances, was born in which Scottish town? | Bellshill | Motherwell | Wishaw | Hamilton | Billy McNeill; Bellshill; defender
+2 | players | Full back Danny McGrain, who made 679 Celtic appearances, was born in which part of Glasgow? | Finnieston | Maryhill | Govan | Springburn | Danny McGrain; Finnieston; Glasgow
+2 | players | Midfielder Paul McStay, who made 678 Celtic appearances from 1982-1997, was born in which South Lanarkshire town? | Hamilton | Motherwell | Blantyre | Larkhall | Paul McStay; Hamilton; midfielder
+1 | players | Bobby Murdoch, the Lisbon Lion midfielder with 484 Celtic appearances, was born in which Clyde Valley town? | Rutherglen | Cambuslang | Lanark | Blantyre | Bobby Murdoch; Rutherglen; Lisbon 1967
+2 | players | Midfielder Murdo MacLeod, with 386 Celtic appearances from 1978-1987, was born in which city? | Glasgow | Edinburgh | Aberdeen | Dundee | Murdo MacLeod; Glasgow; midfielder
+3 | players | Alec McNair, the historic full back with a club record 641 appearances from 1904-1925, was born in which Scottish town? | Stenhousemuir | Falkirk | Grangemouth | Alloa | Alec McNair; Stenhousemuir
+2 | players | Tom Boyd, the modern defender with 335 Celtic appearances from 1992-2003, was born in which city? | Glasgow | Edinburgh | Motherwell | Aberdeen | Tom Boyd; Glasgow; defender
+1 | players | Left-back Jimmy McStay, who made 518 appearances from 1922-1934, was born in which Lanarkshire village? | Netherburn | Wishaw | Motherwell | Blantyre | Jimmy McStay; Netherburn; defender
+2 | players | Winger Andy McAtee, with 439 Celtic appearances from 1910-1924, was born in which Scottish town? | Cumbernauld | Coatbridge | Motherwell | Airdrie | Andy McAtee; Cumbernauld; winger
+3 | players | Goalkeeper Joe Kennaway, with 295 Celtic appearances, was born in which North American city? | Montreal | Toronto | Vancouver | Boston | Joe Kennaway; Montreal; Canada
+2 | players | Goalkeeper John Fallon, who made 184 Celtic appearances from 1959-1972, was born in which Scottish town? | Cambuslang | Blantyre | Hamilton | East Kilbride | John Fallon; Cambuslang; goalkeeper
+2 | club-records | Which player holds the Celtic FC appearance record with 789 total games? | Billy McNeill | Roy Aitken | Danny McGrain | Paul McStay | Billy McNeill; club record; appearances
+1 | club-records | Roy Aitken and Paul McStay both made 667+ appearances for Celtic. How many did Aitken make exactly? | 667 | 678 | 679 | 641 | Roy Aitken; appearances; club record
+2 | club-records | Which goalkeeper made the second-most appearances for a Celtic keeper with 641 games? | Pat Bonner | Charlie Shaw | Peter Latchford | John Fallon | Pat Bonner; appearances; goalkeeper
+3 | club-records | Alec McNair's 641 appearances spans which era of Celtic's history? | 1904-1925 | 1920-1940 | 1900-1920 | 1910-1930 | Alec McNair; appearances; historic
+1 | players | How many appearances did Celtic legend Bobby Lennox make for the club? | 571 | 578 | 589 | 564 | Bobby Lennox; appearances
+2 | players | Stevie Chalmers, the scorer of the 1967 European Cup final winning goal, made how many appearances for Celtic? | 393 | 405 | 418 | 380 | Stevie Chalmers; Lisbon 1967; appearances
+1 | players | How many times did forward Patsy Gallacher play for Celtic from 1911 to 1925? | 464 | 456 | 475 | 448 | Patsy Gallacher; forward; appearances
+2 | players | Lisbon Lion Bobby Murdoch made how many appearances in the Celtic midfield? | 484 | 495 | 506 | 471 | Bobby Murdoch; Lisbon 1967; midfielder
+3 | players | Swedish star Henrik Larsson made how many appearances during his time at Celtic Park? | 313 | 325 | 331 | 305 | Henrik Larsson; Sweden; appearances
+1 | players | Right-winger John Hughes 'Yogi' made how many appearances during his Celtic career? | 416 | 428 | 405 | 437 | John Hughes; winger; appearances
+2 | players | Forward Jimmy McMenemy made how many appearances for Celtic between 1902 and 1920? | 515 | 528 | 502 | 537 | Jimmy McMenemy; forward; appearances
+1 | players | Adam McLean, the left-winger who played from 1917-1928, made how many appearances? | 408 | 420 | 395 | 423 | Adam McLean; winger; appearances
+2 | players | Kenny Dalglish, the striker who later managed Celtic, made how many appearances? | 322 | 335 | 310 | 345 | Kenny Dalglish; striker; appearances
+1 | players | Striker Jimmy Quinn, with over 300 appearances, made exactly how many for Celtic? | 331 | 343 | 318 | 352 | Jimmy Quinn; striker; appearances
+3 | players | Legend Jimmy McGrory, the prolific scorer, made how many appearances from 1922-1937? | 445 | 457 | 433 | 468 | Jimmy McGrory; forward; appearances
+1 | players | Full-back Danny McGrain made how many total appearances for Celtic? | 679 | 691 | 667 | 702 | Danny McGrain; defender; appearances
+2 | players | Midfielder Paul McStay, the club captain, made how many appearances from 1982-1997? | 678 | 691 | 665 | 704 | Paul McStay; midfielder; appearances
+2 | players | Murdo MacLeod made how many appearances as a Celtic midfielder from 1978-1987? | 386 | 398 | 374 | 409 | Murdo MacLeod; midfielder; appearances
+1 | club-records | Which two players both made 667+ Celtic appearances? | Roy Aitken and Paul McStay | Billy McNeill and Danny McGrain | Alec McNair and Pat Bonner | Bobby Lennox and Billy McNeill | Roy Aitken; Paul McStay; appearances
+3 | players | Winger Andy McAtee made how many appearances during his 14-year Celtic career? | 439 | 451 | 427 | 462 | Andy McAtee; winger; appearances
+2 | players | Goalkeeper Charlie Shaw made how many appearances from 1913-1925? | 436 | 448 | 424 | 459 | Charlie Shaw; goalkeeper; appearances
+1 | players | Goalkeeper Peter Latchford made how many appearances as the Parkhead number one? | 272 | 284 | 260 | 295 | Peter Latchford; goalkeeper; appearances
+2 | players | Left-back Jimmy McStay made how many appearances from 1922-1934? | 518 | 530 | 506 | 541 | Jimmy McStay; defender; appearances
+3 | players | Tom Boyd made how many appearances during his 11-year Celtic career? | 335 | 347 | 323 | 358 | Tom Boyd; defender; appearances
+1 | players | Goalkeeper Joe Kennaway made how many appearances in goal for Celtic? | 295 | 307 | 283 | 318 | Joe Kennaway; goalkeeper; appearances
+2 | players | Goalkeeper John Fallon made how many appearances during his Celtic years? | 184 | 196 | 172 | 207 | John Fallon; goalkeeper; appearances
+3 | celtic-history | Roy Aitken played for Celtic during which manager's era? | Jock Stein and Billy McNeill | Jock Stein | Willie Maley | Celtic Jock | Roy Aitken; manager; era
+1 | players | Which Ayrshire-born winger linked with the Lisbon Lions era played 571 times for Celtic? | Bobby Lennox | John Hughes | Bertie Auld | Jimmy Johnstone | Bobby Lennox; Saltcoats; Lisbon 1967
+2 | players | The Garngad-born players Stevie Chalmers and Jimmy McGrory both played as which position? | Forward | Defender | Midfielder | Goalkeeper | Garngad; forward; Glasgow
+3 | players | Which Irish player from Donegal played over 640 appearances for Celtic? | Pat Bonner | Patsy Gallacher | Jimmy McMenemy | Stevie Chalmers | Pat Bonner; Donegal; goalkeeper
+1 | celtic-history | Henrik Larsson joined Celtic from which Swedish club in 1997? | Fiorentina | Helsingborg | Ajax | PSV Eindhoven | Henrik Larsson; Sweden; transfer
+2 | players | Which English-born goalkeeper made 272 appearances at Celtic Park? | Peter Latchford | Evan Williams | John Fallon | Pat Bonner | Peter Latchford; Birmingham; goalkeeper
+3 | players | Coatbridge-born striker John Hughes played during which memorable Celtic era? | Lisbon Lions | Jock Stein | Big Tommy | Quality Street Gang | John Hughes; Coatbridge; Lisbon 1967
+1 | club-records | Billy McNeill's 789 appearances is a record that spans which years? | 1957-1975 | 1960-1978 | 1955-1973 | 1958-1976 | Billy McNeill; record; appearances
+2 | players | Montreal-born goalkeeper Joe Kennaway played for Celtic in which decade? | 1930s | 1940s | 1920s | 1950s | Joe Kennaway; goalkeeper; Montreal
+1 | players | Rutherglen produced multiple Celtic players. Which two 50+ appearance players came from there? | Bobby Murdoch and Jimmy McMenemy | Bobby Murdoch and Roy Aitken | Jimmy McMenemy and Tom Boyd | Jimmy McStay and Danny McGrain | Rutherglen; Murdoch; McMenemy
+2 | players | Which city produced the most Celtic players with 50+ appearances in this dataset? | Glasgow | Lanarkshire | Scotland | Ayrshire | Glasgow; players; city
+3 | players | The Bellshill-born centre-half who made 789 Celtic appearances was which legend? | Billy McNeill | Danny McGrain | Roy Aitken | Jimmy McStay | Billy McNeill; Bellshill; defender
+1 | celtic-history | Patsy Gallacher and Pat Bonner, both from Irish counties, combined for how many Celtic appearances? | 1105 | 1098 | 1115 | 1089 | Patsy Gallacher; Pat Bonner; Ireland
+2 | players | Which decade saw the most debuts for these 50+ appearance players? | 1900-1910 | 1910-1920 | 1920-1930 | 1950-1960 | Celtic; history; debuts
+1 | players | The Lisbon Lions feature which three players with 50+ appearances from this list? | Stevie Chalmers, Bobby Murdoch, Billy McNeill | Stevie Chalmers, Bobby Lennox, John Hughes | Billy McNeill, Danny McGrain, Paul McStay | Roy Aitken, Tom Boyd, Henrik Larsson | Lisbon 1967; Chalmers; Murdoch
+3 | club-records | How many appearances did Paul McStay make compared to Roy Aitken? | McStay 11 more | Aitken 11 more | Same number | McStay 15 more | Paul McStay; Roy Aitken; appearances
+1 | players | Which defender born in Stenhousemuir made 641 appearances for Celtic? | Alec McNair | Billy McNeill | Danny McGrain | Roy Aitken | Alec McNair; Stenhousemuir; defender
+2 | players | Cambuslang-born John Fallon served Celtic as which position for 184 appearances? | Goalkeeper | Defender | Midfielder | Forward | John Fallon; Cambuslang; goalkeeper
+3 | players | The Swedish striker Henrik Larsson, born in Helsingborg, was at Celtic during which manager's era? | Martin O'Neill | Jock Stein | Billy McNeill | Wim Jansen | Henrik Larsson; Sweden; manager
+1 | celtic-history | How many of the 25 players represented Celtic in the 20th century? | 24 | 25 | 23 | 20 | Celtic; 20th century; players
+2 | players | Wishaw and Motherwell area produced which Lanarkshire player with 331 Celtic appearances? | Jimmy Quinn | Jimmy McStay | Roy Aitken | Andy McAtee | Jimmy Quinn; Lanarkshire; striker
+1 | players | Which East Dunbartonshire-born goalkeeper with 436 appearances played in the 1920s? | Charlie Shaw | Pat Bonner | Peter Latchford | John Fallon | Charlie Shaw; Twechar; goalkeeper
+3 | players | Murdo MacLeod, born in Glasgow, was a midfielder during the manager's era? | Billy McNeill | Jock Stein | Martin O'Neill | Wim Jansen | Murdo MacLeod; Glasgow; 1980s

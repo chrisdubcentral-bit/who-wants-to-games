@@ -1,0 +1,9 @@
+{
+  "name": "wwtw-brand",
+  "private": true,
+  "description": "Builds the Who Wants To Win logo files in media/brand. Run: npm install, then node make-brand.js Anton-Regular.ttf ../../media/brand",
+  "dependencies": {
+    "opentype.js": "1.3.4",
+    "puppeteer-core": "22.15.0"
+  }
+}

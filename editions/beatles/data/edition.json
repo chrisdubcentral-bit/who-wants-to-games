@@ -20,7 +20,8 @@
   },
   "images": {
     "prize": "assets/img/gold-disc-placeholder.svg",
-    "home": "assets/img/shea-ticket.webp"
+    "home": "assets/img/shea-ticket.webp",
+    "eliminated": "assets/img/eliminated-icon.svg"
   },
   "text": {
     "home": {

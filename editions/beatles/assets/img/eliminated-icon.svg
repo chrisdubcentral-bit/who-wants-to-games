@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Eliminated">
+  <defs>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        .circle-bg { fill: rgba(224, 78, 78, 0.15); }
+        .circle-border { stroke: rgba(224, 78, 78, 0.6); }
+        .x-mark { stroke: #f3a3a3; }
+      }
+      @media (prefers-color-scheme: light) {
+        .circle-bg { fill: rgba(224, 78, 78, 0.12); }
+        .circle-border { stroke: rgba(224, 78, 78, 0.55); }
+        .x-mark { stroke: #f3a3a3; }
+      }
+    </style>
+  </defs>
+
+  <!-- Circle background -->
+  <circle cx="50" cy="50" r="48" class="circle-bg" stroke-width="0"/>
+
+  <!-- Circle border -->
+  <circle cx="50" cy="50" r="48" fill="none" class="circle-border" stroke-width="1.5"/>
+
+  <!-- X mark -->
+  <g class="x-mark" stroke-width="8" stroke-linecap="round" fill="none">
+    <line x1="30" y1="30" x2="70" y2="70"/>
+    <line x1="70" y1="30" x2="30" y2="70"/>
+  </g>
+</svg>

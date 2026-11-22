@@ -280,12 +280,7 @@
 .results.is-retired .results-hero .sub { color: var(--gold-bright); }
 
 .trophy { width: clamp(140px, 30vw, 210px); height: auto; animation: trophyGlow 3.5s ease-in-out infinite; }
-.result-icon {
-  width: 84px; height: 84px; border-radius: 50%;
-  display: grid; place-items: center;
-  font-family: var(--font-display); font-size: 2rem; font-weight: 800;
-}
-.result-icon.is-out { background: rgba(224,78,78,0.12); border: 1px solid rgba(224,78,78,0.55); color: #f3a3a3; }
+.result-icon { width: 84px; height: 84px; display: block; }
 
 .result-stats {
   display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: var(--sp-3);
@@ -360,7 +355,7 @@
   .share-card { grid-template-columns: 1fr; }
   .share-actions { justify-content: flex-start; }
 }
-.board-note { width: min(100%, 760px); display: grid; gap: var(--sp-2); justify-items: start; text-align: left; }
+.board-note { width: min(100%, 760px); padding: var(--sp-5); display: grid; gap: var(--sp-2); text-align: left; }
 
 .board-rules { font-size: var(--fs-sm); max-width: 640px; }
 .board-wrap { padding: var(--sp-2) var(--sp-4); overflow-x: auto; }

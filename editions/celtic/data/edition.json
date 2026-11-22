@@ -17,7 +17,8 @@
     "enabled": false
   },
   "images": {
-    "prize": "assets/img/trophy-placeholder.svg"
+    "prize": "assets/img/trophy-placeholder.svg",
+    "eliminated": "assets/img/eliminated-icon.svg"
   },
   "text": {
     "home": {

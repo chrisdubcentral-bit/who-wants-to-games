@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-20T10:34:15.874Z",
+  "updatedAt": "2026-11-22T14:59:36.634Z",
   "order": "random",
   "adverts": [
     {
@@ -43,6 +43,20 @@
       "linkText": "Shop Now",
       "landscape": "../../media/ads/rhebel-rhebel-landscape-1280x720.mp4",
       "portrait": "../../media/ads/rhebel-rhebel-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "celtic-in-the-fifties",
+      "name": "Celtic in the Fifties book",
+      "enabled": true,
+      "from": "2026-11-22",
+      "until": null,
+      "after": "round-1",
+      "label": "Celtic in the Fifties",
+      "url": "https://link.amazon/B0b6VfMs3",
+      "linkText": "Order Now",
+      "landscape": "../../media/ads/celtic-in-the-fifties-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/celtic-in-the-fifties-portrait-720x1280.mp4",
       "skipAfterMs": 5000
     }
   ]

@@ -50,6 +50,18 @@ function copyAdverts() {
   }
 }
 
+/** The site logo, icons and link-preview picture used by the front page (made by tools/brand/make-brand.js). */
+const BRAND_FILES = ['logo.svg', 'logo-mark.svg', 'icon-180.png', 'icon-192.png', 'icon-512.png', 'share-1200x630.png'];
+
+function copyBrand() {
+  for (const file of BRAND_FILES) {
+    const from = path.join(ROOT, 'media/brand', file);
+    if (!fs.existsSync(from)) { warnings.push(`media/brand/${file} is missing`); continue; }
+    fs.mkdirSync(path.join(DIST, 'media/brand'), { recursive: true });
+    fs.copyFileSync(from, path.join(DIST, 'media/brand', file));
+  }
+}
+
 /** Copies one edition and returns what the landing page shows for it. */
 function copyEdition(id) {
   const from = path.join(ROOT, 'editions', id);
@@ -182,19 +194,27 @@ function writeLandingPage(editions) {
 </html>
 `
     : `${head}
-  <title>Who Wants To… · Choose your quiz</title>
+  <title>Who Wants To Win · Choose your quiz</title>
   <meta name="description" content="One wrong answer and you're out. Pick a quiz and see if you can make the Top 40.">
+  <link rel="icon" type="image/png" sizes="192x192" href="media/brand/icon-192.png">
+  <link rel="apple-touch-icon" href="media/brand/icon-180.png">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Who Wants To… · Choose your quiz">
+  <meta property="og:site_name" content="Who Wants To Win">
+  <meta property="og:title" content="Who Wants To Win · Choose your quiz">
   <meta property="og:description" content="One wrong answer and you're out. Pick a quiz and see if you can make the Top 40.">${siteAddress() ? `
-  <meta property="og:url" content="${esc(siteAddress())}/">` : ''}
+  <meta property="og:url" content="${esc(siteAddress())}/">
+  <meta property="og:image" content="${esc(siteAddress())}/media/brand/share-1200x630.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Who Wants To Win: gold lettering on a green quiz-show answer plate">` : ''}
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#0b0f0d">
   <style>
     :root { color-scheme: dark; --bg: #0b0f0d; --line: rgba(255,255,255,.14); --text: #e8ece9; --muted: #b3bcb7; --accent: #e0c27a; }
     * { box-sizing: border-box; }
     body { margin: 0; min-height: 100vh; padding: 56px 16px; background: radial-gradient(ellipse at top, #18201c 0%, var(--bg) 60%) var(--bg); color: var(--text); font: 16px/1.5 "Segoe UI", system-ui, -apple-system, sans-serif; }
     main { max-width: 640px; margin: 0 auto; }
-    .kicker { margin: 0; color: var(--accent); font-size: .8rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; }
+    .logo { display: block; width: 100%; max-width: 520px; height: auto; margin: 0 0 20px; }
     h1 { margin: 4px 0 8px; font-size: clamp(1.8rem, 6vw, 2.4rem); line-height: 1.15; }
     .lead { margin: 0 0 32px; color: var(--muted); }
     ul { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
@@ -212,7 +232,7 @@ function writeLandingPage(editions) {
 </head>
 <body>
   <main>
-    <p class="kicker">Who Wants To…</p>
+    <img class="logo" src="media/brand/logo.svg" alt="Who Wants To Win" width="1000" height="204">
     <h1>Choose your quiz</h1>
     <p class="lead">One wrong answer and you're out. How far can you go?</p>
     <ul>
@@ -244,6 +264,7 @@ function build() {
 
   copyEngine();
   copyAdverts();
+  copyBrand();
 
   const editionsDir = path.join(ROOT, 'editions');
   const found = fs.readdirSync(editionsDir, { withFileTypes: true })

@@ -62,7 +62,7 @@ export function render(root, app) {
     const last = state.answers[state.answers.length - 1];
     const q = state.questions[state.stageIndex];
     hero = `
-      <div class="result-icon is-out" aria-hidden="true">✕</div>
+      <img class="result-icon" src="${esc(ed('images.eliminated'))}" alt="${esc(t('results.outAlt') || 'Eliminated')}" width="84" height="84">
       <span class="eyebrow">${esc(t('results.outEyebrow'))}${later ? ` · ${seasonName()} ${s.season}` : ''}</span>
       <h1>${esc(t('results.out'))}</h1>
       <p class="sub">${esc(s.finishLabel)}</p>`;

@@ -18,6 +18,8 @@ Use the compressed 720p copies, not the 1080p masters:
 | `celtic-pools-beanie-promo-portrait-464x832.mp4` | 9:16 | phone held upright |
 | `rhebel-rhebel-landscape-1280x720.mp4` | 16:9 | browser / phone held sideways |
 | `rhebel-rhebel-portrait-720x1280.mp4` | 9:16 | phone held upright |
+| `celtic-in-the-fifties-landscape-1280x720.mp4` | 16:9 | browser / phone held sideways |
+| `celtic-in-the-fifties-portrait-720x1280.mp4` | 9:16 | phone held upright |
 
 Sources, in `Who Wants To Games - Marketing/editions/CelticPools/Adverts/` (Celtic Pools) and
 `…/editions/celtic/Adverts/` (everything else):
@@ -27,3 +29,5 @@ Sources, in `Who Wants To Games - Marketing/editions/CelticPools/Adverts/` (Celt
   with the wrong shape: `Beanie-CelticPools-Landscape-1280x720.MP4` and `Beanie-CelticPools-Portrait-1080x1920.MP4` are
   the ones used here.
 - Rhebel Rhebel t-shirts: `rhebel-rhebel/output/` (9 seconds, links to the shop at rhebelrhebel.myspreadshop.co.uk).
+- Celtic in the Fifties book: `celtic-in-the-fifties/output/` (9 seconds, Matt Corr's book, links to Amazon UK via
+  https://link.amazon/B0b6VfMs3, which carries the whowantstowin-21 affiliate tag).
