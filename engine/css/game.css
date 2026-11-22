@@ -48,6 +48,9 @@
 .home-actions { display: grid; gap: var(--sp-6); width: min(100%, 480px); margin-top: var(--sp-5); }
 .home-actions .row { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--sp-3); }
 .home-actions .row .btn { padding: 0 10px; letter-spacing: 0.08em; }
+.home-links { margin: var(--sp-5) 0 0; color: var(--grey-light); font-size: var(--fs-sm); }
+.home-links a { color: var(--gold-bright); text-decoration: none; padding: 6px 4px; }
+.home-links a:hover, .home-links a:focus-visible { text-decoration: underline; }
 
 
 /* ================= Section headers ================= */

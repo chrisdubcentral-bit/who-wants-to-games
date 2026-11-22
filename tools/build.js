@@ -174,6 +174,30 @@ function previewTags(id) {
   } catch { return ''; }
 }
 
+/** One edition's card, as on the front page and the About page. */
+function editionCard(e) {
+  return `      <li><a class="edition" href="editions/${encodeURIComponent(e.id)}/index.html" style="--card: ${e.background}">${e.icon ? `<img src="${esc(e.icon)}" alt="" width="64" height="64">` : ''}<span class="text"><span class="title">${esc(e.title)}</span>${e.description ? `<span class="desc">${esc(e.description)}</span>` : ''}</span><span class="play" aria-hidden="true">Play</span></a></li>`;
+}
+
+/**
+ * The About, Contact and Thanks pages (about.html, contact.html, thanks.html and site.css at the project root).
+ * The About page's quiz list is replaced with the hosted editions. contact.html holds a Netlify form, which
+ * Netlify finds when it deploys dist/ and emails out (set the address under Forms → Form notifications).
+ */
+const SITE_PAGES = ['about.html', 'contact.html', 'thanks.html', 'site.css'];
+
+function writeSitePages(editions) {
+  for (const file of SITE_PAGES) {
+    let text = fs.readFileSync(path.join(ROOT, file), 'utf8');
+    if (file === 'about.html') {
+      const list = /<!-- editions:start[^>]*-->[\s\S]*?<!-- editions:end -->\n?/;
+      if (!list.test(text)) throw new Error('about.html: the editions:start / editions:end markers are missing');
+      text = text.replace(list, () => `${editions.map(editionCard).join('\n')}\n`);
+    }
+    fs.writeFileSync(path.join(DIST, file), text);
+  }
+}
+
 function writeLandingPage(editions) {
   const link = (e) => `editions/${encodeURIComponent(e.id)}/index.html`;
   const head = `<!doctype html>
@@ -226,6 +250,8 @@ function writeLandingPage(editions) {
     .title { display: block; font-weight: 700; font-size: 1.05rem; line-height: 1.3; }
     .desc { display: block; margin-top: 4px; color: var(--muted); font-size: .92rem; }
     .play { flex: none; padding: 8px 14px; border-radius: 999px; background: var(--accent); color: #0b0f0d; font-weight: 700; font-size: .9rem; }
+    .foot { margin: 36px 0 0; text-align: center; color: var(--muted); font-size: .92rem; }
+    .foot a { color: var(--accent); }
     @media (max-width: 420px) { .play { display: none; } a.edition img { width: 52px; height: 52px; } }
     @media (prefers-reduced-motion: reduce) { a.edition { transition: none; } a.edition:hover { transform: none; } }
   </style>
@@ -236,8 +262,9 @@ function writeLandingPage(editions) {
     <h1>Choose your quiz</h1>
     <p class="lead">One wrong answer and you're out. How far can you go?</p>
     <ul>
-${editions.map((e) => `      <li><a class="edition" href="${link(e)}" style="--card: ${e.background}">${e.icon ? `<img src="${esc(e.icon)}" alt="" width="64" height="64">` : ''}<span class="text"><span class="title">${esc(e.title)}</span>${e.description ? `<span class="desc">${esc(e.description)}</span>` : ''}</span><span class="play" aria-hidden="true">Play</span></a></li>`).join('\n')}
+${editions.map(editionCard).join('\n')}
     </ul>
+    <p class="foot"><a href="about.html">About</a> · <a href="contact.html">Contact us</a> · <a href="https://x.com/WhoWants2Win" target="_blank" rel="noopener">@WhoWants2Win</a></p>
   </main>
 </body>
 </html>
@@ -291,6 +318,7 @@ function build() {
   copy(path.join(ROOT, 'admin/top100.html'), path.join(DIST, 'admin/top100.html'));
   copy(path.join(ROOT, 'admin/stats.html'), path.join(DIST, 'admin/stats.html'));
   writeLandingPage(editions);
+  writeSitePages(editions);
   writeRedirects(ids);
 
   // Netlify reads this file: keep the test site out of search engines.

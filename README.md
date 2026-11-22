@@ -203,6 +203,26 @@ picture's address absolute using the site address Netlify supplies (`URL`; set `
 have your own domain). Facebook keeps previews for a while: after changing the picture, paste the link into
 https://developers.facebook.com/tools/debug/ and press **Scrape Again**.
 
+## About and Contact pages
+
+`about.html`, `contact.html` and `thanks.html` (styled by `site.css`) sit at the project root and at the root of the
+live site (`/about`, `/contact`). Each edition's home screen links to them, as does the "Choose your quiz" page.
+
+- **About:** the site logo, every hosted edition (the build fills in the list between the `editions:start` and
+  `editions:end` markers, so new editions appear on their own), the X account (@WhoWants2Win) and a Contact button.
+  Add other social accounts next to the X button under "Follow us".
+- **Contact:** Name, Email Address, Subject (a drop-down) and Message. It's a **Netlify form**: Netlify finds it when
+  it deploys and emails each message out. Spam protection is a hidden trap field that bots fill in, Google reCAPTCHA
+  (Netlify's own, so no Google keys are needed) and Netlify's spam filter. After sending, people land on `thanks.html`.
+- The form only sends from the Netlify site, not when testing locally.
+
+**Setting it up (once), in the Netlify dashboard:**
+1. **Forms → Enable form detection**, then deploy again so Netlify finds the form.
+2. **Forms → Form notifications → Add notification → Email notification**: form `contact`, sent to
+   the contact Gmail address (it's kept out of the code so it can't be harvested by spammers).
+3. Send a test message from the live `/contact` page. Messages are also listed under **Forms → contact**; anything
+   marked as spam is under **Spam submissions**.
+
 ## Site statistics
 
 A dashboard of anonymous visit figures, at `https://<your site>/admin/stats.html` (same admin key as the Top 100 page;

@@ -20,6 +20,7 @@ export function render(root, app) {
             <button class="btn btn-block" data-go="top100">Top ${LIMIT}</button>
           </div>
         </div>
+        <p class="home-links"><a href="../../about.html">About</a> · <a href="../../contact.html">Contact us</a></p>
       </div>
     </section>`);
 

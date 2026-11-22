@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T14:59:36.634Z",
+  "updatedAt": "2026-11-22T17:25:00.000Z",
   "order": "random",
   "adverts": [
     {
@@ -57,6 +57,20 @@
       "linkText": "Order Now",
       "landscape": "../../media/ads/celtic-in-the-fifties-landscape-1280x720.mp4",
       "portrait": "../../media/ads/celtic-in-the-fifties-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "jungle-days",
+      "name": "Jungle Days book",
+      "enabled": true,
+      "from": "2026-11-22",
+      "until": null,
+      "after": "round-1",
+      "label": "Jungle Days",
+      "url": "https://link.amazon/B0cvMPYl5",
+      "linkText": "Order Now",
+      "landscape": "../../media/ads/celtic-jungle-days-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/celtic-jungle-days-portrait-720x1280.mp4",
       "skipAfterMs": 5000
     }
   ]

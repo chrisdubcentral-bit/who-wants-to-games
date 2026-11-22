@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Contact Us · Who Wants To Win</title>
+  <link rel="icon" type="image/png" sizes="192x192" href="media/brand/icon-192.png">
+  <link rel="apple-touch-icon" href="media/brand/icon-180.png">
+  <meta name="theme-color" content="#0b0f0d">
+  <link rel="stylesheet" href="site.css">
+</head>
+<body>
+  <main>
+    <a class="logo-link" href="./"><img class="logo" src="media/brand/logo.svg" alt="Who Wants To Win" width="1000" height="204"></a>
+    <h1>Contact us</h1>
+    <p class="lead">Fill in the form and we'll get back to you.</p>
+
+    <!-- Netlify Forms: picked up at deploy time and emailed out (Netlify → Forms → Form notifications).
+         netlify-honeypot: bots fill in the hidden field and are dropped. data-netlify-recaptcha: Google's tick box. -->
+    <form name="contact" method="POST" action="/thanks" data-netlify="true" netlify-honeypot="bot-field" data-netlify-recaptcha="true">
+      <input type="hidden" name="form-name" value="contact">
+      <p class="hidden"><label>Leave this empty <input name="bot-field" tabindex="-1" autocomplete="off"></label></p>
+
+      <label>Name
+        <input type="text" name="name" autocomplete="name" maxlength="100" required>
+      </label>
+      <label>Email Address
+        <input type="email" name="email" autocomplete="email" maxlength="200" required>
+      </label>
+      <label>Subject
+        <select name="subject" required>
+          <option value="" disabled selected>Choose a subject</option>
+          <option>General Enquiry</option>
+          <option>Report a Question Error</option>
+          <option>Suggest a New Question</option>
+          <option>Technical Issue</option>
+          <option>Feedback</option>
+        </select>
+      </label>
+      <label>Message
+        <textarea name="message" maxlength="5000" required></textarea>
+      </label>
+
+      <div class="recaptcha" data-netlify-recaptcha="true"></div>
+      <button type="submit" class="btn btn-primary">Send message</button>
+      <p class="note">This form is protected by reCAPTCHA.</p>
+    </form>
+
+    <a class="back" href="about.html">Back to About</a>
+  </main>
+</body>
+</html>

@@ -44,15 +44,18 @@ export function render(root, app) {
   let splashNext = null;   // what to do once the newspaper has been dismissed (an advert break, if one is set)
   let advert = null;       // the advert overlay while one is playing
   let preloaded = null;    // an advert video loading in the background
+  let questionHeld = false; // the next question waits behind the newspaper, so the answered one stays on screen
 
   /** Removes the newspaper splash, if one is showing. Instant removal (leaving the screen) skips what was to follow. */
   function closeSplash(instant = false) {
     splashTimers.forEach(clearTimeout); splashTimers = [];
     const el = document.querySelector('.splash');
     if (!el) return;
-    if (instant) { splashNext = null; el.remove(); return; }
+    if (instant) { splashNext = null; questionHeld = false; el.remove(); return; }
     el.classList.add('is-leaving');
     splashTimers.push(setTimeout(() => el.remove(), 320));
+    // Only now does the next question appear, as the newspaper fades away.
+    if (questionHeld) { questionHeld = false; renderQuestion(ctrl.state); update(ctrl.state); }
     const next = splashNext; splashNext = null;
     if (next) next();
   }
@@ -130,10 +133,17 @@ export function render(root, app) {
     if (!state.questions.length) return;
     if (state.stageIndex !== shownStage) {
       const advanced = shownStage >= 0 && state.stageIndex === shownStage + 1 && state.status === STATUS.PLAYING;
-      renderQuestion(state);
-      if (advanced) showSplash(state, advertAfter(state));
       shownStage = state.stageIndex;
+      if (advanced) {
+        // Leave the answered question (with its tick) under the newspaper; closeSplash shows the next one.
+        showSplash(state, advertAfter(state));
+        questionHeld = true;
+      } else {
+        renderQuestion(state);
+      }
     }
+    // While the next question is held back, leave the screen as it was (its buttons are already disabled).
+    if (questionHeld) return;
 
     const q = state.questions[state.stageIndex];
     const playing = state.status === STATUS.PLAYING;

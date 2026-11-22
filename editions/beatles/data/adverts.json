@@ -1,6 +1,63 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-16T00:00:00.000Z",
+  "updatedAt": "2026-11-22T17:15:00.000Z",
   "order": "turns",
-  "adverts": []
+  "adverts": [
+    {
+      "id": "beatles-trivial-pursuit",
+      "name": "Beatles Trivial Pursuit",
+      "enabled": true,
+      "from": "2026-11-22",
+      "until": null,
+      "after": "royal-albert-hall",
+      "label": "Beatles Trivial Pursuit",
+      "url": "https://link.amazon/B00nXlBW7",
+      "linkText": "Order Now",
+      "landscape": "../../media/ads/beatles-trivial-pursuit-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/beatles-trivial-pursuit-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "epstein-1967",
+      "name": "1967 – The World of Brian Epstein and The Beatles",
+      "enabled": true,
+      "from": "2026-11-22",
+      "until": null,
+      "after": "royal-albert-hall",
+      "label": "1967 – Brian Epstein & The Beatles",
+      "url": "https://link.amazon/B05BPxPjM",
+      "linkText": "Order Now",
+      "landscape": "../../media/ads/beatles-epstein-1967-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/beatles-epstein-1967-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "rubber-soul",
+      "name": "Rubber Soul Super Deluxe box set",
+      "enabled": true,
+      "from": "2026-11-22",
+      "until": null,
+      "after": "royal-albert-hall",
+      "label": "Rubber Soul Super Deluxe",
+      "url": "https://link.amazon/B0gTSoIVr",
+      "linkText": "Order Now",
+      "landscape": "../../media/ads/beatles-rubber-soul-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/beatles-rubber-soul-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "beatles-liverpool",
+      "name": "The Beatles' Liverpool book",
+      "enabled": true,
+      "from": "2026-11-22",
+      "until": null,
+      "after": "royal-albert-hall",
+      "label": "The Beatles' Liverpool",
+      "url": "https://link.amazon/B0i6DIVhA",
+      "linkText": "Order Now",
+      "landscape": "../../media/ads/beatles-liverpool-book-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/beatles-liverpool-book-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    }
+  ]
 }

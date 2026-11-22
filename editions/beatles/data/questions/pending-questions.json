@@ -1,92 +1,8 @@
 {
   "schemaVersion": 1,
   "collection": "pending",
-  "updatedAt": "2026-11-21T00:48:39.567Z",
+  "updatedAt": "2026-11-22T17:24:54.738Z",
   "questions": [
-    {
-      "id": "q_001318",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song closes Beatles for Sale?",
-      "options": [
-        "Everybody's Trying to Be My Baby",
-        "Honey Don't",
-        "Mr. Moonlight",
-        "What You're Doing"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "Beatles for Sale"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001319",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song is the second track on Beatles for Sale?",
-      "options": [
-        "No Reply",
-        "Rock and Roll Music",
-        "Baby's in Black",
-        "I'm a Loser"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Beatles for Sale"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001320",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song is the third track on Beatles for Sale?",
-      "options": [
-        "Baby's in Black",
-        "I'm a Loser",
-        "Mr. Moonlight",
-        "I'll Follow the Sun"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "Beatles for Sale"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
     {
       "id": "q_001321",
       "schemaVersion": 1,
@@ -174,62 +90,6 @@
       }
     },
     {
-      "id": "q_001332",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song is the second track on the Help! album?",
-      "options": [
-        "Another Girl",
-        "Ticket to Ride",
-        "I Need You",
-        "The Night Before"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Help!"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001333",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song is the fourth track on the Help! album?",
-      "options": [
-        "Another Girl",
-        "You're Going to Lose That Girl",
-        "I Need You",
-        "The Night Before"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "Help!"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001334",
       "schemaVersion": 1,
       "club": "beatles",
@@ -272,62 +132,6 @@
         "Soul on ice"
       ],
       "correctAnswer": 2,
-      "tags": [
-        "Rubber Soul"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001342",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song is the second track on Rubber Soul?",
-      "options": [
-        "Nowhere Man",
-        "You Won't See Me",
-        "Norwegian Wood (This Bird Has Flown)",
-        "Michelle"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "Rubber Soul"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001343",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song is the fourth track on the British Rubber Soul?",
-      "options": [
-        "Nowhere Man",
-        "Think for Yourself",
-        "You Won't See Me",
-        "The Word"
-      ],
-      "correctAnswer": 0,
       "tags": [
         "Rubber Soul"
       ],
@@ -414,90 +218,6 @@
       "correctAnswer": 2,
       "tags": [
         "Rubber Soul"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001347",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song is the penultimate track on Rubber Soul?",
-      "options": [
-        "Girl",
-        "Wait",
-        "If I Needed Someone",
-        "In My Life"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "Rubber Soul"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001355",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song is the penultimate track on Revolver?",
-      "options": [
-        "Doctor Robert",
-        "Got to Get You into My Life",
-        "I Want to Tell You",
-        "For No One"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Revolver"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:21:31.890Z",
-      "updatedAt": "2026-11-17T00:21:31.890Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001356",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song is the third track on Revolver?",
-      "options": [
-        "Here, There and Everywhere",
-        "I'm Only Sleeping",
-        "Love You To",
-        "She Said She Said"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Revolver"
       ],
       "source": "manual",
       "status": "pending",
@@ -709,62 +429,6 @@
       }
     },
     {
-      "id": "q_001372",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song comes immediately before the Sgt. Pepper reprise on side two?",
-      "options": [
-        "When I'm Sixty-Four",
-        "Good Morning Good Morning",
-        "Within You Without You",
-        "Lovely Rita"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Sgt. Pepper"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001373",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song is the fourth track on Sgt. Pepper?",
-      "options": [
-        "Lovely Rita",
-        "Getting Better",
-        "Fixing a Hole",
-        "She's Leaving Home"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Sgt. Pepper"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001375",
       "schemaVersion": 1,
       "club": "beatles",
@@ -836,62 +500,6 @@
         "A poster of the bus"
       ],
       "correctAnswer": 0,
-      "tags": [
-        "Magical Mystery Tour"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001383",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song closes the American Magical Mystery Tour LP?",
-      "options": [
-        "I Am the Walrus",
-        "Penny Lane",
-        "Hello, Goodbye",
-        "All You Need Is Love"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Magical Mystery Tour"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001384",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens side two of the American Magical Mystery Tour LP?",
-      "options": [
-        "Penny Lane",
-        "Hello, Goodbye",
-        "Strawberry Fields Forever",
-        "I Am the Walrus"
-      ],
-      "correctAnswer": 1,
       "tags": [
         "Magical Mystery Tour"
       ],
@@ -992,35 +600,6 @@
       }
     },
     {
-      "id": "q_001388",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song is the only track on side two of the British Magical Mystery Tour double EP?",
-      "options": [
-        "Your Mother Should Know",
-        "Flying",
-        "Blue Jay Way",
-        "I Am the Walrus"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Magical Mystery Tour",
-        "I Am the Walrus"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001396",
       "schemaVersion": 1,
       "club": "beatles",
@@ -1079,148 +658,6 @@
       }
     },
     {
-      "id": "q_001403",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song closes side three of the White Album?",
-      "options": [
-        "Yer Blues",
-        "Long, Long, Long",
-        "Sexy Sadie",
-        "Helter Skelter"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "White Album"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001404",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song closes side two of the White Album?",
-      "options": [
-        "Blackbird",
-        "Rocky Raccoon",
-        "I Will",
-        "Julia"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "White Album",
-        "Julia"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001405",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song comes directly before \"Good Night\" on the White Album?",
-      "options": [
-        "Revolution 9",
-        "Cry Baby Cry",
-        "Honey Pie",
-        "Savoy Truffle"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "White Album",
-        "Revolution 9"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001406",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song comes directly after \"Blackbird\" on the White Album?",
-      "options": [
-        "Piggies",
-        "Julia",
-        "I Will",
-        "Rocky Raccoon"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "White Album"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001407",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song is the third track on side three of the White Album?",
-      "options": [
-        "Helter Skelter",
-        "Yer Blues",
-        "Mother Nature's Son",
-        "Sexy Sadie"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "White Album"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001408",
       "schemaVersion": 1,
       "club": "beatles",
@@ -1265,34 +702,6 @@
       "correctAnswer": 3,
       "tags": [
         "White Album"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001414",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song closes side one of the Yellow Submarine album?",
-      "options": [
-        "All Together Now",
-        "All You Need Is Love",
-        "It's All Too Much",
-        "Hey Bulldog"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Yellow Submarine"
       ],
       "source": "manual",
       "status": "pending",
@@ -1434,34 +843,6 @@
       "correctAnswer": 0,
       "tags": [
         "Yellow Submarine"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001427",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song is the fifth track on side one of Abbey Road?",
-      "options": [
-        "Oh! Darling",
-        "Maxwell's Silver Hammer",
-        "I Want You (She's So Heavy)",
-        "Octopus's Garden"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Abbey Road"
       ],
       "source": "manual",
       "status": "pending",
@@ -1705,92 +1086,6 @@
       }
     },
     {
-      "id": "q_001442",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which short track closes side one of Let It Be?",
-      "options": [
-        "Dig It",
-        "I Me Mine",
-        "Across the Universe",
-        "Maggie Mae"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Let It Be",
-        "Maggie Mae"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001443",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song comes directly before \"Get Back\" on Let It Be?",
-      "options": [
-        "The Long and Winding Road",
-        "For You Blue",
-        "One After 909",
-        "I've Got a Feeling"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Let It Be"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001444",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song is the third track on Let It Be?",
-      "options": [
-        "Across the Universe",
-        "Dig It",
-        "Let It Be",
-        "I Me Mine"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "Let It Be",
-        "Across the Universe"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:22:28.085Z",
-      "updatedAt": "2026-11-17T00:22:28.085Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001445",
       "schemaVersion": 1,
       "club": "beatles",
@@ -2017,34 +1312,6 @@
       }
     },
     {
-      "id": "q_001457",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens Meet the Beatles!?",
-      "options": [
-        "I Saw Her Standing There",
-        "It Won't Be Long",
-        "All My Loving",
-        "I Want to Hold Your Hand"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Meet the Beatles!"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001458",
       "schemaVersion": 1,
       "club": "beatles",
@@ -2131,35 +1398,6 @@
       }
     },
     {
-      "id": "q_001461",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song is the third track on Meet the Beatles!?",
-      "options": [
-        "It Won't Be Long",
-        "This Boy",
-        "Don't Bother Me",
-        "All My Loving"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Meet the Beatles!",
-        "This Boy"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001462",
       "schemaVersion": 1,
       "club": "beatles",
@@ -2176,63 +1414,6 @@
       "correctAnswer": 1,
       "tags": [
         "The Beatles' Second Album"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001463",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens The Beatles' Second Album?",
-      "options": [
-        "She Loves You",
-        "Roll Over Beethoven",
-        "Long Tall Sally",
-        "Thank You Girl"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "The Beatles' Second Album"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001464",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which hit single closes The Beatles' Second Album?",
-      "options": [
-        "Can't Buy Me Love",
-        "Twist and Shout",
-        "I Want to Hold Your Hand",
-        "She Loves You"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "The Beatles' Second Album",
-        "She Loves You"
       ],
       "source": "manual",
       "status": "pending",
@@ -2315,34 +1496,6 @@
         "Thirteen"
       ],
       "correctAnswer": 1,
-      "tags": [
-        "Something New"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001468",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song opens the American album Something New?",
-      "options": [
-        "Things We Said Today",
-        "Slow Down",
-        "Tell Me Why",
-        "I'll Cry Instead"
-      ],
-      "correctAnswer": 3,
       "tags": [
         "Something New"
       ],
@@ -2442,34 +1595,6 @@
       }
     },
     {
-      "id": "q_001473",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song closes Beatles '65?",
-      "options": [
-        "Honey Don't",
-        "Everybody's Trying to Be My Baby",
-        "She's a Woman",
-        "I Feel Fine"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Beatles '65"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001474",
       "schemaVersion": 1,
       "club": "beatles",
@@ -2484,34 +1609,6 @@
         "Introducing... The Beatles"
       ],
       "correctAnswer": 3,
-      "tags": [
-        "The Early Beatles"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001475",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song opens the Capitol album The Early Beatles?",
-      "options": [
-        "Twist and Shout",
-        "Love Me Do",
-        "Please Please Me",
-        "I Saw Her Standing There"
-      ],
-      "correctAnswer": 1,
       "tags": [
         "The Early Beatles"
       ],
@@ -2625,34 +1722,6 @@
         "Beatles IV"
       ],
       "correctAnswer": 3,
-      "tags": [
-        "Beatles VI"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001480",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which medley opens Beatles VI?",
-      "options": [
-        "Kansas City/Hey-Hey-Hey-Hey!",
-        "Twist and Shout/Shout",
-        "Slow Down/Matchbox",
-        "Rock and Roll Music/Long Tall Sally"
-      ],
-      "correctAnswer": 0,
       "tags": [
         "Beatles VI"
       ],
@@ -2781,64 +1850,6 @@
       }
     },
     {
-      "id": "q_001487",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens Yesterday and Today?",
-      "options": [
-        "Day Tripper",
-        "Yesterday",
-        "Nowhere Man",
-        "Drive My Car"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Yesterday and Today",
-        "Drive My Car"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001488",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song closes Yesterday and Today?",
-      "options": [
-        "Yesterday",
-        "Day Tripper",
-        "What Goes On",
-        "We Can Work It Out"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Yesterday and Today",
-        "Day Tripper"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001489",
       "schemaVersion": 1,
       "club": "beatles",
@@ -2856,62 +1867,6 @@
       "tags": [
         "Yesterday and Today",
         "Butcher cover"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001491",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens the Hey Jude compilation album?",
-      "options": [
-        "Hey Jude",
-        "Paperback Writer",
-        "Lady Madonna",
-        "Can't Buy Me Love"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "Hey Jude (album)"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001492",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song closes the Hey Jude compilation album?",
-      "options": [
-        "The Ballad of John and Yoko",
-        "Old Brown Shoe",
-        "Revolution",
-        "Don't Let Me Down"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "Hey Jude (album)"
       ],
       "source": "manual",
       "status": "pending",
@@ -3036,62 +1991,6 @@
       }
     },
     {
-      "id": "q_001498",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens A Collection of Beatles Oldies?",
-      "options": [
-        "From Me to You",
-        "I Want to Hold Your Hand",
-        "She Loves You",
-        "Love Me Do"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "A Collection of Beatles Oldies"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001499",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song closes A Collection of Beatles Oldies?",
-      "options": [
-        "Yellow Submarine",
-        "I Want to Hold Your Hand",
-        "Paperback Writer",
-        "Eleanor Rigby"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "A Collection of Beatles Oldies"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001500",
       "schemaVersion": 1,
       "club": "beatles",
@@ -3167,92 +2066,6 @@
       "tags": [
         "1962-1966",
         "Alpha Omega"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001506",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens the \"Red Album\", 1962-1966?",
-      "options": [
-        "Please Please Me",
-        "I Want to Hold Your Hand",
-        "Love Me Do",
-        "She Loves You"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "1962-1966",
-        "Love Me Do"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001507",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song closes the original \"Red Album\", 1962-1966?",
-      "options": [
-        "Girl",
-        "Eleanor Rigby",
-        "Paperback Writer",
-        "Yellow Submarine"
-      ],
-      "correctAnswer": 3,
-      "tags": [
-        "1962-1966"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:23:25.142Z",
-      "updatedAt": "2026-11-17T00:23:25.142Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001508",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens the \"Blue Album\", 1967-1970?",
-      "options": [
-        "Penny Lane",
-        "All You Need Is Love",
-        "Strawberry Fields Forever",
-        "Sgt. Pepper's Lonely Hearts Club Band"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "1967-1970",
-        "Strawberry Fields Forever"
       ],
       "source": "manual",
       "status": "pending",
@@ -3607,34 +2420,6 @@
       }
     },
     {
-      "id": "q_001523",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song opens the Rock 'n' Roll Music compilation?",
-      "options": [
-        "Twist and Shout",
-        "Rock and Roll Music",
-        "Long Tall Sally",
-        "Back in the U.S.S.R."
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "Rock 'n' Roll Music"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:24:16.569Z",
-      "updatedAt": "2026-11-17T00:24:16.569Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001524",
       "schemaVersion": 1,
       "club": "beatles",
@@ -3678,62 +2463,6 @@
         "One"
       ],
       "correctAnswer": 2,
-      "tags": [
-        "The Beatles at the Hollywood Bowl"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:24:16.569Z",
-      "updatedAt": "2026-11-17T00:24:16.569Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001527",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens The Beatles at the Hollywood Bowl?",
-      "options": [
-        "I Saw Her Standing There",
-        "She Loves You",
-        "Twist and Shout",
-        "A Hard Day's Night"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "The Beatles at the Hollywood Bowl"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:24:16.569Z",
-      "updatedAt": "2026-11-17T00:24:16.569Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001528",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song closes the original The Beatles at the Hollywood Bowl album?",
-      "options": [
-        "Long Tall Sally",
-        "Twist and Shout",
-        "She Loves You",
-        "Help!"
-      ],
-      "correctAnswer": 0,
       "tags": [
         "The Beatles at the Hollywood Bowl"
       ],
@@ -3818,34 +2547,6 @@
         "1970"
       ],
       "correctAnswer": 0,
-      "tags": [
-        "Love Songs"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:24:16.569Z",
-      "updatedAt": "2026-11-17T00:24:16.569Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001532",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which song opens the Love Songs compilation?",
-      "options": [
-        "Something",
-        "And I Love Her",
-        "Yesterday",
-        "Michelle"
-      ],
-      "correctAnswer": 2,
       "tags": [
         "Love Songs"
       ],
@@ -4173,35 +2874,6 @@
       }
     },
     {
-      "id": "q_001551",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "shea-stadium",
-      "category": "albums",
-      "difficulty": 5,
-      "question": "Which orchestral piece by George Martin opens Anthology 3?",
-      "options": [
-        "A Beginning",
-        "Pepperland",
-        "Sea of Time",
-        "Theme One"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "Anthology 3",
-        "A Beginning"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:24:16.569Z",
-      "updatedAt": "2026-11-17T00:24:16.569Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001552",
       "schemaVersion": 1,
       "club": "beatles",
@@ -4371,63 +3043,6 @@
       }
     },
     {
-      "id": "q_001565",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "ed-sullivan-show",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song opens Let It Be... Naked?",
-      "options": [
-        "Let It Be",
-        "Get Back",
-        "Two of Us",
-        "Dig a Pony"
-      ],
-      "correctAnswer": 1,
-      "tags": [
-        "Let It Be... Naked",
-        "Get Back"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:24:16.569Z",
-      "updatedAt": "2026-11-17T00:24:16.569Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001566",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which song closes Let It Be... Naked?",
-      "options": [
-        "Across the Universe",
-        "The Long and Winding Road",
-        "Let It Be",
-        "Get Back"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "Let It Be... Naked"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:24:16.569Z",
-      "updatedAt": "2026-11-17T00:24:16.569Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
       "id": "q_001567",
       "schemaVersion": 1,
       "club": "beatles",
@@ -4472,35 +3087,6 @@
       "correctAnswer": 3,
       "tags": [
         "Love (album)"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T00:24:16.569Z",
-      "updatedAt": "2026-11-17T00:24:16.569Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_001571",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "albums",
-      "difficulty": 4,
-      "question": "Which a cappella Abbey Road song opens the album Love?",
-      "options": [
-        "Sun King",
-        "Her Majesty",
-        "Because",
-        "Golden Slumbers"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "Love (album)",
-        "Because"
       ],
       "source": "manual",
       "status": "pending",
@@ -18171,35 +16757,6 @@
       "tags": [
         "Covers",
         "Maggie Mae"
-      ],
-      "source": "manual",
-      "status": "pending",
-      "createdAt": "2026-11-17T06:52:07.858Z",
-      "updatedAt": "2026-11-17T06:52:07.858Z",
-      "review": {
-        "reviewedAt": null,
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_002293",
-      "schemaVersion": 1,
-      "club": "beatles",
-      "stage": "hollywood-bowl",
-      "category": "songs",
-      "difficulty": 4,
-      "question": "Which Buddy Holly song, recorded by The Quarrymen in 1958, opens the Anthology 1 covers?",
-      "options": [
-        "Peggy Sue",
-        "Rave On",
-        "That'll Be the Day",
-        "Oh Boy!"
-      ],
-      "correctAnswer": 2,
-      "tags": [
-        "Covers",
-        "Anthology 1"
       ],
       "source": "manual",
       "status": "pending",
