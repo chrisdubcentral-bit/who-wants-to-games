@@ -1,9 +1,11 @@
-// Bulk Approve: pending questions a page at a time, each with its round, difficulty and an Approve tick box.
-// Round and difficulty changes apply straight away (like the dashboard's round list); the button approves
-// every ticked question in one go. Publish then writes them to approved-questions.json.
+// Bulk Review: pending questions a page at a time, each with its round, difficulty and a tick box.
+// Round and difficulty changes apply straight away (like the dashboard's round list); the buttons approve
+// (those that pass the checks) or reject (with one reason) every ticked question in one go.
+// Publish then writes them to approved-questions.json / rejected-questions.json.
 
 import { mount, esc, on } from '../../ui/dom.js';
 import { toast } from '../../ui/components/toast.js';
+import { askRejection } from './reject-modal.js';
 
 const DIFFICULTY_NAMES = ['Easy', 'Fair', 'Medium', 'Hard', 'Expert'];
 const PAGE_SIZES = [10, 20, 50];
@@ -27,13 +29,13 @@ export function render(root, ctx) {
     const v = store.validate(q);
     const stage = meta.stageByKey[q.stage];
     const outOfRange = stage && (q.difficulty < stage.difficulty[0] || q.difficulty > stage.difficulty[1]);
-    const checked = v.valid && state.checked.has(q.id);
+    const checked = state.checked.has(q.id);
     const others = (q.options ?? []).filter((_, i) => i !== q.correctAnswer);
     return `
       <li class="bulk-row ${checked ? 'is-checked' : ''}" data-id="${esc(q.id)}">
-        <label class="bulk-check" title="${v.valid ? 'Tick to approve' : 'Fix the errors before approving'}">
-          <input type="checkbox" data-check ${checked ? 'checked' : ''} ${v.valid ? '' : 'disabled'} aria-label="Approve ${esc(q.id)}">
-          <span>Approve</span>
+        <label class="bulk-check" title="${v.valid ? 'Tick to approve or reject' : 'Can be rejected — fix the errors before approving'}">
+          <input type="checkbox" data-check ${checked ? 'checked' : ''} aria-label="Tick ${esc(q.id)}">
+          <span>Tick</span>
         </label>
         <div class="round-q">
           <div class="bulk-meta">
@@ -61,9 +63,17 @@ export function render(root, ctx) {
       </li>`;
   }
 
+  /** Ticked questions that pass the checks — only these can be approved. */
+  const approvable = () => store.collection('pending')
+    .filter((q) => state.checked.has(q.id) && store.validate(q).valid)
+    .map((q) => q.id);
+
   const goHtml = () => {
     const n = state.checked.size;
-    return `<button type="button" class="btn btn-approve" data-action="approve" ${n ? '' : 'disabled'}>Approve ticked${n ? ` (${n})` : ''}</button>
+    const a = n ? approvable().length : 0;
+    const held = n - a;
+    return `<button type="button" class="btn btn-danger" data-action="reject" ${n ? '' : 'disabled'}>Reject ticked${n ? ` (${n})` : ''}</button>
+      <button type="button" class="btn btn-approve" data-action="approve" ${a ? '' : 'disabled'} ${held ? `title="${held} ticked question${held === 1 ? ' has' : 's have'} errors and can only be rejected"` : ''}>Approve ticked${a ? ` (${a})` : ''}</button>
       ${n ? '<button type="button" class="btn btn-ghost btn-sm" data-action="untick">Untick all</button>' : ''}`;
   };
 
@@ -78,8 +88,7 @@ export function render(root, ctx) {
     const go = root.querySelector('.bulk-go');
     if (go) go.innerHTML = goHtml();
     const all = root.querySelector('[data-action="tick-page"]');
-    const tickable = boxes.filter((b) => !b.disabled);
-    if (all) all.checked = tickable.length > 0 && tickable.every((b) => b.checked);
+    if (all) all.checked = boxes.length > 0 && boxes.every((b) => b.checked);
   }
 
   let firstDraw = true;
@@ -103,7 +112,7 @@ export function render(root, ctx) {
     const pendingIds = new Set(store.collection('pending').map((q) => q.id));
     [...state.checked].forEach((id) => { if (!pendingIds.has(id)) state.checked.delete(id); });
     const ticked = shown.filter((q) => state.checked.has(q.id)).length;
-    const tickable = shown.filter((q) => store.validate(q).valid).length;
+    const tickable = shown.length;
     const pager = `
       <div class="bulk-pager">
         <button type="button" class="btn btn-ghost btn-sm" data-action="prev" ${state.page === 0 ? 'disabled' : ''}>‹ Previous</button>
@@ -115,8 +124,8 @@ export function render(root, ctx) {
       <section class="${firstDraw ? 'screen-enter' : ''}">
         <header class="page-head">
           <span class="eyebrow">Question Review</span>
-          <h1>Bulk Approve</h1>
-          <p class="muted" style="margin:0">Set each question's round and difficulty, tick the ones to approve, then press <strong>Approve ticked</strong>. Press <strong>Publish</strong> afterwards to save them to approved-questions.json.</p>
+          <h1>Bulk Review</h1>
+          <p class="muted" style="margin:0">Set each question's round and difficulty, tick questions, then press <strong>Approve ticked</strong> or <strong>Reject ticked</strong>. Press <strong>Publish</strong> afterwards to save the changes.</p>
         </header>
         <div class="card bulk-bar">
           <label class="round-field"><span>Round</span>
@@ -161,7 +170,6 @@ export function render(root, ctx) {
     on(root, 'change', '[data-action="tick-page"]', (e, box) => {
       const all = matching();
       all.slice(state.page * state.size, (state.page + 1) * state.size)
-        .filter((q) => store.validate(q).valid)
         .forEach((q) => (box.checked ? state.checked.add(q.id) : state.checked.delete(q.id)));
       refreshTicks();
     }),
@@ -180,7 +188,7 @@ export function render(root, ctx) {
     on(root, 'click', '[data-action="next"]', () => { state.page += 1; draw(); window.scrollTo({ top: 0 }); }),
     on(root, 'click', '[data-action="untick"]', () => { state.checked.clear(); refreshTicks(); }),
     on(root, 'click', '[data-action="approve"]', () => {
-      const { approved, failed } = store.approveMany([...state.checked]);
+      const { approved, failed } = store.approveMany(approvable());
       approved.forEach((id) => state.checked.delete(id));
       if (failed.length) {
         toast({ message: `${failed.length} not approved: ${failed[0].id} — ${failed[0].message}`, tone: 'danger', duration: 8000 });
@@ -191,6 +199,25 @@ export function render(root, ctx) {
           tone: 'success', duration: 8000,
           actionLabel: 'Undo', onAction: () => { store.undo(); approved.forEach((id) => state.checked.add(id)); draw(); toast({ message: 'Undone' }); },
         });
+      }
+      draw();
+    }),
+    on(root, 'click', '[data-action="reject"]', async () => {
+      const ids = [...state.checked];
+      if (!ids.length) return;
+      const answer = await askRejection(ids.length);
+      if (!answer) return;
+      try {
+        const { rejected } = store.rejectMany(ids, answer.reason, answer.note);
+        rejected.forEach((id) => state.checked.delete(id));
+        toast({
+          message: `Rejected ${rejected.length} question${rejected.length === 1 ? '' : 's'} · ${answer.reason}. Publish to save them to rejected-questions.json.`,
+          tone: 'success', duration: 8000,
+          actionLabel: 'Undo', onAction: () => { store.undo(); rejected.forEach((id) => state.checked.add(id)); draw(); toast({ message: 'Undone' }); },
+        });
+      } catch (err) {
+        console.error(err);
+        toast({ message: err.message, tone: 'danger' });
       }
       draw();
     }),

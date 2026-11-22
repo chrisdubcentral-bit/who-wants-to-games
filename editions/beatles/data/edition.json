@@ -1,7 +1,6 @@
 {
   "schemaVersion": 1,
   "id": "beatles",
-  "hosted": false,
   "vars": {
     "team": "The Beatles",
     "prize": "Gold Disc",

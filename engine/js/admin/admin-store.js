@@ -196,6 +196,18 @@ export function createAdminStore(meta) {
       audit('reject', id, reason + (note ? ` — ${note}` : ''));
     },
 
+    /** Rejects several questions with the same reason as one change (one Undo puts them all back). */
+    rejectMany(ids, reason, note = '') {
+      const todo = ids.filter((id) => { const l = locate(id); return l && l.collection !== 'rejected'; });
+      if (!todo.length) return { rejected: [] };
+      mutate(`Rejected ${todo.length} question${todo.length === 1 ? '' : 's'}`, () => todo.forEach((id) => {
+        const q = locate(id).q;
+        move(id, 'rejected', { review: { ...(q.review ?? {}), reviewedAt: nowIso(), rejectionReason: reason, rejectionNote: note || null } });
+      }));
+      todo.forEach((id) => audit('reject', id, `bulk · ${reason}${note ? ` — ${note}` : ''}`));
+      return { rejected: todo };
+    },
+
     /** Rejected → pending, or approved → pending (withdraw from the game). */
     sendToPending(id) {
       const from = locate(id)?.collection;

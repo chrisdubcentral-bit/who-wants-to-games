@@ -2,12 +2,19 @@ import { openModal } from '../../ui/components/modal.js';
 import { REJECTION_REASONS } from '../../core/config.js';
 import { esc } from '../../ui/dom.js';
 
-/** Asks for a rejection reason. Resolves to { reason, note } or null if cancelled. */
+/**
+ * Asks for a rejection reason. Pass a question, or a number to reject that many in one go.
+ * Resolves to { reason, note } or null if cancelled.
+ */
 export function askRejection(question) {
   let picked = null;
+  const many = typeof question === 'number';
+  const summary = many
+    ? `The same reason and note will be recorded for all ${question} ticked question${question === 1 ? '' : 's'}.`
+    : esc(question.question);
   const body = `
     <div style="display:grid;gap:16px">
-      <p class="muted" style="font-size:.875rem">${esc(question.question)}</p>
+      <p class="muted" style="font-size:.875rem">${summary}</p>
       <div class="field">
         <label for="rj-reason">Reason</label>
         <select id="rj-reason" class="select">
@@ -22,11 +29,11 @@ export function askRejection(question) {
     </div>`;
 
   return openModal({
-    title: 'Reject question',
+    title: many ? `Reject ${question} question${question === 1 ? '' : 's'}` : 'Reject question',
     body,
     actions: [
       { label: 'Cancel', value: null, className: 'btn-ghost' },
-      { label: 'Reject', value: 'reject', className: 'btn-danger' },
+      { label: many ? `Reject ${question}` : 'Reject', value: 'reject', className: 'btn-danger' },
     ],
     onAction(value, el) {
       if (value !== 'reject') return true;
