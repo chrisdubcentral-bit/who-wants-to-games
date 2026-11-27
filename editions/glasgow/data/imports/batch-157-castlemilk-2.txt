@@ -1,0 +1,17 @@
+# Castlemilk (extra). Source: https://en.wikipedia.org/wiki/Castlemilk
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Castlemilk was built to rehouse families from inner-city slums such as which area? | The Gorbals | Hillhead | Partick | Dennistoun | Castlemilk; Gorbals
+3 | landmarks | Which Bronski Beat member is listed as a notable Castlemilk resident? | Steve Bronski | Jimmy Somerville | Larry Steinbachek | John Foster | Castlemilk; Steve Bronski
+3 | landmarks | Which Castlemilk woman served as Lord Provost of Glasgow from 2012 to 2017? | Sadie Docherty | Liz Cameron | Eva Bolander | Jacqueline McLaren | Castlemilk; Sadie Docherty
+3 | landmarks | In which year did Glasgow Corporation acquire the Castlemilk estate by compulsory purchase? | 1936 | 1952 | 1919 | 1965 | Castlemilk; 1936
+3 | landmarks | Which Castlemilk building, from 1794, now holds housing offices and a nursery? | The stables block | The castle keep | The mill | The chapel | Castlemilk; stables
+3 | landmarks | Which architect designed Castlemilk's 1794 stables? | David Hamilton | Robert Adam | Charles Wilson | Alexander Thomson | Castlemilk; David Hamilton
+3 | landmarks | Roughly how many houses was the Castlemilk scheme planned to have? | 8,300 | 1,500 | 25,000 | 50,000 | Castlemilk; houses
+3 | landmarks | Which Castlemilk secondary school, the scheme's first, opened in 1958 and closed in 1990? | Glenwood Secondary | Castlemilk High | Grange Secondary | St Margaret Mary's | Castlemilk; Glenwood
+3 | landmarks | Grange Secondary in Castlemilk was renamed what? | Castlemilk High School | Glenwood Academy | Croftfoot High | Carmunnock Academy | Castlemilk; Castlemilk High
+3 | landmarks | What is Castlemilk's Gaelic name? | Caisteal Mheilc | Baile Mhuilinn | Caisteal Glas | Druim a' Chapaill | Castlemilk; Gaelic
+4 | landmarks | Which tower blocks on Ardencraig Road in Castlemilk were demolished in 2005? | Mitchelhill | Dougrie | Linkwood | Red Road | Castlemilk; Mitchelhill
+4 | landmarks | How many storeys do Castlemilk's three tower blocks on Dougrie Road have? | 20 | 12 | 26 | 31 | Castlemilk; Dougrie Road
+4 | landmarks | Roughly what was Castlemilk's population in 1971? | 37,000 | 12,000 | 60,000 | 90,000 | Castlemilk; population
+4 | landmarks | Which company built Castlemilk's Arcade shopping centre in the early 1960s? | Ravenseft Properties | George Wimpey | Taylor Woodrow | Barratt | Castlemilk; Arcade
+4 | landmarks | Which 1980 law first gave Castlemilk council tenants the right to buy their homes? | The Tenants' Rights, Etc. (Scotland) Act | The Housing (Scotland) Act | The Local Government Act | The Rent Act | Castlemilk; right to buy

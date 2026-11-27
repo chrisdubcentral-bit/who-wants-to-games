@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "For how much did Craig Whyte's company buy David Murray's controlling stake in Rangers in 2011?",
+    "options": [
+      "£1 million",
+      "£30 million",
+      "£18 million",
+      "£1"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Craig Whyte",
+      "Rangers",
+      "2011"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "From which businessman did Craig Whyte buy control of Rangers in May 2011?",
+    "options": [
+      "Dave King",
+      "David Murray",
+      "Charles Green",
+      "Fergus McCann"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Craig Whyte",
+      "David Murray"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which month and year did Rangers enter administration under Craig Whyte?",
+    "options": [
+      "August 2013",
+      "February 2012",
+      "June 2012",
+      "May 2011"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Craig Whyte",
+      "Rangers administration"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which town was Craig Whyte born in 1971?",
+    "options": [
+      "Hamilton",
+      "Motherwell",
+      "Greenock",
+      "Paisley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Craig Whyte",
+      "Motherwell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "In which year was Craig Whyte acquitted of all charges by a jury at Glasgow High Court?",
+    "options": [
+      "2015",
+      "2014",
+      "2019",
+      "2017"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Craig Whyte",
+      "trial"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "On which Glasgow street is the Mackintosh Building of the Glasgow School of Art?",
+    "options": [
+      "Hope Street",
+      "Sauchiehall Street",
+      "Renfrew Street",
+      "Bath Street"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow School of Art",
+      "Renfrew Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "In which year did the second, more severe fire hit the Glasgow School of Art's Mackintosh Building?",
+    "options": [
+      "2016",
+      "2014",
+      "2020",
+      "2018"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow School of Art",
+      "2018 fire"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What was the Glasgow School of Art first called when founded in 1845?",
+    "options": [
+      "Glasgow Academy of Fine Arts",
+      "Glasgow College of Drawing",
+      "Mackintosh School",
+      "Glasgow Government School of Design"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow School of Art",
+      "1845"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which school director chose Charles Rennie Mackintosh to design the Glasgow School of Art?",
+    "options": [
+      "John Honeyman",
+      "Francis Newbery",
+      "Alexander Thomson",
+      "John Keppie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow School of Art",
+      "Francis Newbery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which American architect's firm designed the Reid Building opposite the Mackintosh Building?",
+    "options": [
+      "Richard Meier",
+      "Daniel Libeskind",
+      "Frank Gehry",
+      "Steven Holl"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow School of Art",
+      "Reid Building",
+      "Steven Holl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which music venue next to the Art School was severely damaged in the 2018 fire?",
+    "options": [
+      "The Garage",
+      "The O2 ABC",
+      "The Barrowland",
+      "The Cathouse"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow School of Art",
+      "O2 ABC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "On which hill does the Glasgow School of Art stand?",
+    "options": [
+      "Woodlands Hill",
+      "Gilmorehill",
+      "Blythswood Hill",
+      "Garnethill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow School of Art",
+      "Garnethill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What caused the 2014 fire at the Glasgow School of Art, according to investigators?",
+    "options": [
+      "A gas leak",
+      "An electrical fault in the library",
+      "A discarded cigarette",
+      "Expanding foam near a hot projector"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow School of Art",
+      "2014 fire"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In which year was the second half of the Mackintosh Building completed?",
+    "options": [
+      "1909",
+      "1920",
+      "1897",
+      "1899"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow School of Art",
+      "Mackintosh Building"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which 2014 Turner Prize winner is listed among Glasgow School of Art alumni?",
+    "options": [
+      "Martin Creed",
+      "Damien Hirst",
+      "Grayson Perry",
+      "Duncan Campbell"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow School of Art",
+      "Turner Prize"
+    ],
+    "source": "manual"
+  }
+]

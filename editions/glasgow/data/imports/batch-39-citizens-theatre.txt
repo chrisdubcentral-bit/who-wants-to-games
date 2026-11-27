@@ -1,0 +1,21 @@
+# Citizens Theatre. Source: https://en.wikipedia.org/wiki/Citizens_Theatre
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | art-culture | In which area of Glasgow is the Citizens Theatre? | Gorbals | Partick | Merchant City | West End | Citizens Theatre; Gorbals
+2 | art-culture | Which playwright co-founded the Citizens Theatre company in 1943? | James Bridie | J. M. Barrie | John McGrath | Liz Lochhead | Citizens Theatre; James Bridie
+2 | art-culture | Which two statues of writers stood on the Citizens Theatre roofline? | Shakespeare and Robert Burns | Burns and Walter Scott | Shakespeare and Dickens | Scott and Stevenson | Citizens Theatre; statues
+2 | art-culture | In which year did the Citizens Theatre reopen after a seven-year redevelopment? | 2025 | 2021 | 2023 | 2019 | Citizens Theatre; redevelopment
+3 | art-culture | What was the Citizens Theatre building called when it opened in 1878? | Her Majesty's Theatre | The Royal Princess's | The Gorbals Empire | The Grand | Citizens Theatre; Her Majesty's Theatre
+3 | art-culture | What was the theatre renamed in December 1879, before it became the Citizens? | The Royal Princess's Theatre | The Palace Theatre | The Empire | The Lyceum | Citizens Theatre; Royal Princess's
+3 | art-culture | In which year did the Citizens Theatre company move into the Gorbals theatre? | 1945 | 1878 | 1955 | 1965 | Citizens Theatre; 1945
+3 | art-culture | Where did the Citizens Theatre company first perform before moving to the Gorbals? | The Athenaeum Theatre | The King's Theatre | The Pavilion | The Tron | Citizens Theatre; Athenaeum
+3 | art-culture | Which sculptor made the statues on the Citizens Theatre's roofline? | John Mossman | Andy Scott | George Wyllie | Alexander Stoddart | Citizens Theatre; John Mossman
+3 | art-culture | Which artistic director's adaptation of Travels with My Aunt won an Olivier Award in 1993? | Giles Havergal | Philip Prowse | Dominic Hill | Robert David MacDonald | Citizens Theatre; Giles Havergal
+3 | art-culture | Which Glasgow theatre still has its original Victorian machinery under the stage? | The Citizens Theatre | The King's Theatre | The Theatre Royal | The Pavilion | Citizens Theatre; stage machinery
+3 | art-culture | Which theatre company merged with the Citizens in 2007? | TAG Theatre Company | Wildcat | 7:84 | Borderline | Citizens Theatre; TAG
+4 | art-culture | What were Harry McKelvie's famous productions at the Royal Princess's Theatre? | Pantomimes | Operas | Variety shows | Musicals | Citizens Theatre; Harry McKelvie
+4 | art-culture | Who was the first managing director of the Citizens Theatre company? | Guy McCrone | Tyrone Guthrie | Tom Honeyman | Alastair Sim | Citizens Theatre; Guy McCrone
+4 | art-culture | Which former Citizens wardrobe mistress designed costumes for the Star Wars prequels? | Trisha Biggar | Sandy Powell | Colleen Atwood | Jenny Beavan | Citizens Theatre; Trisha Biggar
+4 | art-culture | What was the first production when the Citizens Theatre reopened in 2025? | Small Acts of Love | Dracula | Hamlet | The Steamie | Citizens Theatre; Small Acts of Love
+4 | art-culture | Which architect designed the 1878 theatre that became the Citizens? | James Sellars | Charles Rennie Mackintosh | Frank Matcham | Alexander Thomson | Citizens Theatre; James Sellars
+4 | art-culture | Which artistic director came to the Citizens from Edinburgh's Traverse Theatre in 2011? | Dominic Hill | Jeremy Raison | Guy Hollands | Giles Havergal | Citizens Theatre; Dominic Hill
+5 | art-culture | How much did the Citizens Theatre's redevelopment cost? | £29.8 million | £9.6 million | £68 million | £15 million | Citizens Theatre; redevelopment

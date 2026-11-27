@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "art-culture",
+    "difficulty": 1,
+    "question": "Which Salvador Dalí painting is held by Glasgow Museums at Kelvingrove?",
+    "options": [
+      "The Persistence of Memory",
+      "Christ of Saint John of the Cross",
+      "The Elephants",
+      "Swans Reflecting Elephants"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelvingrove",
+      "Dalí"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which aircraft hangs from the ceiling in Kelvingrove?",
+    "options": [
+      "A Lancaster",
+      "A Spitfire",
+      "A Concorde",
+      "A Hurricane"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelvingrove",
+      "Spitfire"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Kelvingrove opened in 1901 as the Palace of Fine Arts for which event?",
+    "options": [
+      "The Commonwealth Games",
+      "The Garden Festival",
+      "The Glasgow International Exhibition",
+      "The Empire Exhibition"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kelvingrove",
+      "1901 Exhibition"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which popular story about Kelvingrove is an urban myth?",
+    "options": [
+      "That it was built back to front",
+      "That it sank a foot",
+      "That it is haunted",
+      "That it was meant for Edinburgh"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kelvingrove",
+      "myth"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which famous artwork of hanging faces by Sophie Cave is in Kelvingrove's East Court?",
+    "options": [
+      "Suspended Souls",
+      "Flying Faces",
+      "Floating Heads",
+      "The Crowd"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kelvingrove",
+      "Floating Heads"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In what architectural style is Kelvingrove built?",
+    "options": [
+      "Art Deco",
+      "Spanish Baroque",
+      "Scots Baronial",
+      "Gothic Revival"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelvingrove",
+      "Spanish Baroque"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Who reopened Kelvingrove in July 2006 after its refurbishment?",
+    "options": [
+      "Prince Charles",
+      "Tony Blair",
+      "Queen Elizabeth II",
+      "Jack McConnell"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kelvingrove",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What colour is the sandstone on Kelvingrove's exterior?",
+    "options": [
+      "Yellow",
+      "White",
+      "Red",
+      "Grey"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kelvingrove",
+      "sandstone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Into which two halves were Kelvingrove's collections reorganised in 2006?",
+    "options": [
+      "Life and Expression",
+      "Art and Science",
+      "Glasgow and the World",
+      "Old and New"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kelvingrove",
+      "Life",
+      "Expression"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which RAF squadron did Kelvingrove's Spitfire serve with?",
+    "options": [
+      "No. 617 (Dambusters)",
+      "No. 303 (Polish)",
+      "No. 602 (City of Glasgow)",
+      "No. 43 (Fighting Cocks)"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kelvingrove",
+      "Spitfire",
+      "602 Squadron"
+    ],
+    "source": "manual"
+  }
+]

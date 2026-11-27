@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which dour minister was Rikki Fulton's most famous character?",
+    "options": [
+      "Rev. Gerald Fogg",
+      "Rev. I.M. Jolly",
+      "Father Ted",
+      "Rev. Timothy Farthing"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rikki Fulton",
+      "I.M. Jolly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "With which comedian did Rikki Fulton form the double act Francie and Josie?",
+    "options": [
+      "Chic Murray",
+      "Jimmy Logan",
+      "Jack Milroy",
+      "Stanley Baxter"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rikki Fulton",
+      "Jack Milroy",
+      "Francie and Josie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What was the name of Rikki Fulton's long-running BBC Scotland sketch show?",
+    "options": [
+      "Naked Video",
+      "Only an Excuse?",
+      "Scotch and Wry",
+      "Chewin' the Fat"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rikki Fulton",
+      "Scotch and Wry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which dimwitted motorbike traffic cop did Rikki Fulton play in Scotch and Wry?",
+    "options": [
+      "Speedcop",
+      "Mr Plod",
+      "Supercop",
+      "Robocop"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rikki Fulton",
+      "Supercop"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What was the name of I.M. Jolly's fictional TV programme?",
+    "options": [
+      "Thought for the Day",
+      "Sunday Service",
+      "Last Call",
+      "Songs of Praise"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rikki Fulton",
+      "I.M. Jolly",
+      "Last Call"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which area of Glasgow was Rikki Fulton born?",
+    "options": [
+      "Partick",
+      "Dennistoun",
+      "Gorbals",
+      "Riddrie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rikki Fulton",
+      "Dennistoun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which film did Rikki Fulton play a KGB officer?",
+    "options": [
+      "Octopussy",
+      "Gorky Park",
+      "The Russia House",
+      "The Fourth Protocol"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rikki Fulton",
+      "Gorky Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which service did Rikki Fulton serve during World War II?",
+    "options": [
+      "The Merchant Navy",
+      "The Army",
+      "The Royal Navy",
+      "The RAF"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rikki Fulton",
+      "Royal Navy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What kind of characters were Francie and Josie?",
+    "options": [
+      "Teddy Boys",
+      "Policemen",
+      "Pensioners",
+      "Bus drivers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rikki Fulton",
+      "Francie and Josie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "What was the title of Rikki Fulton's 1999 autobiography?",
+    "options": [
+      "Is It That Time Already?",
+      "A Jolly Life",
+      "Last Call",
+      "Rikki & Me"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rikki Fulton",
+      "autobiography"
+    ],
+    "source": "manual"
+  }
+]

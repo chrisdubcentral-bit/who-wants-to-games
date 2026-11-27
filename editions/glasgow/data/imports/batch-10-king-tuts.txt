@@ -1,0 +1,7 @@
+# King Tut's Wah Wah Hut. Source: https://en.wikipedia.org/wiki/King_Tut%27s_Wah_Wah_Hut
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | venues-gigs | On which Glasgow street is King Tut's Wah Wah Hut? | St Vincent Street | Sauchiehall Street | Argyle Street | West Nile Street | King Tut's; St Vincent Street
+2 | venues-gigs | In which year did King Tut's Wah Wah Hut first open its doors? | 1990 | 1984 | 1993 | 1997 | King Tut's; 1990
+3 | venues-gigs | Which DF Concerts boss founded King Tut's Wah Wah Hut? | Stuart Clumpas | Geoff Ellis | Alan McGee | Dave McGeachan | King Tut's; Stuart Clumpas; DF Concerts
+3 | venues-gigs | King Tut's Wah Wah Hut was named after a club in which city? | New York | Cairo | London | Chicago | King Tut's; name
+4 | venues-gigs | In 2017, which Glasgow band played a record run of six sold-out shows at King Tut's? | The View | Twin Atlantic | The Fratellis | Glasvegas | King Tut's; The View; 2017

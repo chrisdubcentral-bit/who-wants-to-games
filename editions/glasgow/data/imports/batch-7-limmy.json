@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "What is the real name of Glasgow comedian Limmy?",
+    "options": [
+      "Brian Lindsay",
+      "Brian Limond",
+      "Barry Limond",
+      "Brian Lyons"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Limmy",
+      "Brian Limond"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "On which streaming platform has Limmy broadcast almost daily since 2018?",
+    "options": [
+      "TikTok",
+      "Kick",
+      "YouTube",
+      "Twitch"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Limmy",
+      "Twitch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which area of Glasgow did Limmy grow up?",
+    "options": [
+      "Castlemilk",
+      "Easterhouse",
+      "Drumchapel",
+      "Carnwadric"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Limmy",
+      "Carnwadric"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which sitcom did Limmy cameo as a window cleaner with an unintelligible Glaswegian accent?",
+    "options": [
+      "The IT Crowd",
+      "Still Game",
+      "Father Ted",
+      "Peep Show"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Limmy",
+      "The IT Crowd"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "Which university did Limmy graduate from in 1996, after studying multimedia technology?",
+    "options": [
+      "University of the West of Scotland",
+      "Glasgow Caledonian University",
+      "University of Glasgow",
+      "University of Strathclyde"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Limmy",
+      "Glasgow Caledonian University"
+    ],
+    "source": "manual"
+  }
+]

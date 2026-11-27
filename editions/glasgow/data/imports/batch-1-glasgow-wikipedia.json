@@ -1,0 +1,2823 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which river flows through the heart of Glasgow?",
+    "options": [
+      "River Clyde",
+      "River Forth",
+      "River Tay",
+      "River Dee"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "River Clyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 1,
+    "question": "Which saint is said to have founded Glasgow?",
+    "options": [
+      "St Ninian",
+      "St Columba",
+      "St Andrew",
+      "St Mungo"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "St Mungo",
+      "Kentigern"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "history",
+    "difficulty": 1,
+    "question": "What is Glasgow's motto?",
+    "options": [
+      "Glasgow Forever",
+      "Let Glasgow Flourish",
+      "People Make Glasgow",
+      "Nemo Me Impune Lacessit"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "motto",
+      "Let Glasgow Flourish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which city-centre square is home to Glasgow's City Chambers?",
+    "options": [
+      "St Enoch Square",
+      "Blythswood Square",
+      "George Square",
+      "Royal Exchange Square"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Square",
+      "City Chambers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "art-culture",
+    "difficulty": 1,
+    "question": "Which architect designed the Glasgow School of Art?",
+    "options": [
+      "Norman Foster",
+      "Alexander Thomson",
+      "Charles Rennie Mackintosh",
+      "Zaha Hadid"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Charles Rennie Mackintosh",
+      "Glasgow School of Art"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which three streets make up Glasgow's \"Style Mile\"?",
+    "options": [
+      "Buchanan, Queen and Union Street",
+      "Argyle, Bath and Hope Street",
+      "Argyle, Sauchiehall and Buchanan Street",
+      "Sauchiehall, Renfrew and West George Street"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Style Mile",
+      "Buchanan Street",
+      "Sauchiehall Street",
+      "Argyle Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "What is the name of Scotland's national football stadium in Glasgow's Mount Florida?",
+    "options": [
+      "Ibrox Stadium",
+      "Hampden Park",
+      "Firhill Stadium",
+      "Celtic Park"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hampden Park",
+      "Mount Florida"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 1,
+    "question": "Along with the Barras market, which famous music venue is in Glasgow's East End?",
+    "options": [
+      "The Garage",
+      "Sub Club",
+      "King Tut's Wah Wah Hut",
+      "Barrowland Ballroom"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barrowland",
+      "The Barras",
+      "East End"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "food-drink",
+    "difficulty": 1,
+    "question": "Which lager is brewed at Glasgow's Wellpark Brewery?",
+    "options": [
+      "Belhaven",
+      "McEwan's",
+      "Carling",
+      "Tennent's"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tennent's",
+      "Wellpark Brewery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which long-running detective series was filmed in Glasgow?",
+    "options": [
+      "Vera",
+      "Shetland",
+      "Rebus",
+      "Taggart"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Taggart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "What do Glaswegians call the Clyde Arc bridge?",
+    "options": [
+      "The Squinty Bridge",
+      "The Hielanman's Umbrella",
+      "The Bendy Bridge",
+      "The Wobbly Bridge"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Clyde Arc",
+      "Squinty Bridge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 1,
+    "question": "In which century is St Mungo reputed to have founded Glasgow?",
+    "options": [
+      "11th century",
+      "4th century",
+      "6th century",
+      "9th century"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "St Mungo",
+      "founding"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "patter",
+    "difficulty": 1,
+    "question": "Which affectionate nickname is said to be the meaning of the name Glasgow?",
+    "options": [
+      "Auld Reekie",
+      "The Granite City",
+      "The Dear Green Place",
+      "The Fair City"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dear Green Place",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Which Glasgow club won the European Cup in 1967?",
+    "options": [
+      "Partick Thistle",
+      "Rangers",
+      "Queen's Park",
+      "Celtic"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic",
+      "1967",
+      "European Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "venues-gigs",
+    "difficulty": 1,
+    "question": "Which Glasgow arena opened at Queen's Dock in September 2013?",
+    "options": [
+      "The Armadillo",
+      "Braehead Arena",
+      "The Hydro",
+      "Kelvin Hall"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hydro",
+      "Queen's Dock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 1,
+    "question": "In the late 19th century, Glasgow was called the \"Second City of\" what?",
+    "options": [
+      "The Empire",
+      "Europe",
+      "The World",
+      "Scotland"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Second City of the Empire"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which Glasgow station is the end of the West Coast Main Line from London Euston?",
+    "options": [
+      "Charing Cross",
+      "Glasgow Central",
+      "Partick",
+      "Queen Street"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Central",
+      "West Coast Main Line"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 1,
+    "question": "At which Glasgow venue were Oasis spotted and signed by Alan McGee?",
+    "options": [
+      "Barrowland Ballroom",
+      "King Tut's Wah Wah Hut",
+      "Nice N Sleazy",
+      "Queen Margaret Union"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "King Tut's",
+      "Oasis",
+      "Alan McGee"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "patter",
+    "difficulty": 1,
+    "question": "In Scots, how is the name Glasgow often written?",
+    "options": [
+      "Embra",
+      "Aiberdeen",
+      "Peebs",
+      "Glesga"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glesga",
+      "Scots"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 1,
+    "question": "The Clyde became the world centre of which industry?",
+    "options": [
+      "Steelmaking",
+      "Textiles",
+      "Shipbuilding",
+      "Car making"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "shipbuilding",
+      "Clyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Which sport do Glasgow Warriors play?",
+    "options": [
+      "Ice hockey",
+      "Rugby union",
+      "Shinty",
+      "Basketball"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Warriors"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which year was the University of Glasgow founded?",
+    "options": [
+      "1495",
+      "1451",
+      "1413",
+      "1583"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "University of Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 2,
+    "question": "On which burn did St Mungo build his church, where Glasgow Cathedral now stands?",
+    "options": [
+      "Molendinar Burn",
+      "Pollok Burn",
+      "River Kelvin",
+      "White Cart Water"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "St Mungo",
+      "Glasgow Cathedral",
+      "Molendinar Burn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In the rhyme about Glasgow's coat of arms, what is it that \"never swam\"?",
+    "options": [
+      "The ship",
+      "The fish",
+      "The duck",
+      "The swan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "coat of arms",
+      "rhyme",
+      "fish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which animals support the shield on Glasgow's coat of arms?",
+    "options": [
+      "Two lions",
+      "Two salmon, each with a ring",
+      "Two stags",
+      "Two unicorns"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "coat of arms",
+      "salmon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In which year was Celtic founded?",
+    "options": [
+      "1888",
+      "1876",
+      "1872",
+      "1867"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Celtic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which club has played at Firhill since 1909?",
+    "options": [
+      "Queen's Park",
+      "Third Lanark",
+      "Partick Thistle",
+      "Clyde"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Firhill",
+      "Maryhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which museum on the Clyde was designed by Zaha Hadid?",
+    "options": [
+      "Gallery of Modern Art",
+      "Riverside Museum",
+      "Kelvingrove",
+      "Burrell Collection"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Riverside Museum",
+      "Zaha Hadid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which park is the Burrell Collection?",
+    "options": [
+      "Queen's Park",
+      "Kelvingrove Park",
+      "Pollok Country Park",
+      "Bellahouston Park"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Burrell Collection",
+      "Pollok Country Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "At which Glasgow venue is Kurt Cobain's footprint said to be kept locked in a safe?",
+    "options": [
+      "SWG3",
+      "Queen Margaret Union",
+      "Barrowland Ballroom",
+      "King Tut's Wah Wah Hut"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "QMU",
+      "Kurt Cobain",
+      "Nirvana"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which political label came from industrial action in Glasgow's shipyards?",
+    "options": [
+      "Red Clydeside",
+      "The Clyde Rising",
+      "The Red Yards",
+      "Radical Clyde"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Red Clydeside"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "In 2008, Glasgow was named a UNESCO City of what?",
+    "options": [
+      "Literature",
+      "Design",
+      "Film",
+      "Music"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "UNESCO City of Music",
+      "2008"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which two broadcasters have their headquarters at Pacific Quay?",
+    "options": [
+      "Sky and BBC Scotland",
+      "ITV and Channel 4",
+      "BBC Scotland and STV",
+      "STV and Channel 5"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pacific Quay",
+      "BBC Scotland",
+      "STV"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which venue holds the European attendance record of 149,547, set in 1937?",
+    "options": [
+      "Hampden Park",
+      "Wembley Stadium",
+      "Ibrox Stadium",
+      "Celtic Park"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hampden Park",
+      "1937",
+      "attendance record"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Where was the opening ceremony of the 2014 Commonwealth Games held?",
+    "options": [
+      "The Hydro",
+      "Celtic Park",
+      "Ibrox Stadium",
+      "Hampden Park"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Commonwealth Games 2014",
+      "Celtic Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which Glasgow cemetery, opened in 1831, has a 70 ft statue of John Knox?",
+    "options": [
+      "The Necropolis",
+      "Cathcart Cemetery",
+      "Sighthill Cemetery",
+      "Southern Necropolis"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Necropolis",
+      "John Knox"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What is the name of the bridge that carries the M8 over the Clyde?",
+    "options": [
+      "Jamaica Bridge",
+      "Kingston Bridge",
+      "Erskine Bridge",
+      "Squinty Bridge"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kingston Bridge",
+      "M8"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which Glasgow station serves the main line to Edinburgh and the north?",
+    "options": [
+      "High Street",
+      "Central",
+      "Partick",
+      "Queen Street"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Queen Street station"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which Glasgow tearooms were designed by Charles Rennie Mackintosh?",
+    "options": [
+      "Willow Tearooms",
+      "Tchai-Ovna",
+      "Rogano",
+      "The Butterfly and the Pig"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Willow Tearooms",
+      "Charles Rennie Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which sport do the Glasgow Clan play at Braehead Arena?",
+    "options": [
+      "Rugby league",
+      "Basketball",
+      "Ice hockey",
+      "Speedway"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Clan",
+      "Braehead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Who managed Celtic to the European Cup in 1967?",
+    "options": [
+      "Jock Stein",
+      "Willie Waddell",
+      "Jimmy McGrory",
+      "Scot Symon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jock Stein",
+      "1967"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Glasgow's Tobacco Lords gave their names to many streets in which part of the city?",
+    "options": [
+      "Merchant City",
+      "Gorbals",
+      "Govan",
+      "West End"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Tobacco Lords",
+      "Merchant City"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "From which loch does Glasgow get its water, along an aqueduct to Milngavie?",
+    "options": [
+      "Loch Ness",
+      "Loch Katrine",
+      "Loch Tay",
+      "Loch Lomond"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Loch Katrine",
+      "Milngavie",
+      "waterworks"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which advertising campaign for the city began in 1983?",
+    "options": [
+      "People Make Glasgow",
+      "Glasgow's Miles Better",
+      "Glasgow: Scotland's Heart",
+      "Scotland with Style"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow's Miles Better",
+      "1983"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In 1921, Glasgow's population first passed which figure?",
+    "options": [
+      "Two million",
+      "One million",
+      "Half a million",
+      "750,000"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "population",
+      "1921"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "By 1821, Glasgow's population had overtaken which city's?",
+    "options": [
+      "Manchester",
+      "Dublin",
+      "Edinburgh",
+      "Liverpool"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "population",
+      "Edinburgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In 1919, troops were deployed in Glasgow in what became known as the Battle of where?",
+    "options": [
+      "Glasgow Green",
+      "Govan Cross",
+      "Clydebank",
+      "George Square"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Battle of George Square",
+      "1919"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which 1707 Acts opened Glasgow up to trade with British Empire markets?",
+    "options": [
+      "The Reform Acts",
+      "The Acts of Union",
+      "The Corn Laws",
+      "The Navigation Acts"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Acts of Union",
+      "1707"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "By the late 18th century, over half of Britain's trade in which crop went through the Clyde?",
+    "options": [
+      "Sugar",
+      "Tobacco",
+      "Tea",
+      "Cotton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "tobacco",
+      "Tobacco Lords"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which hospital in Govan is described as the largest hospital campus in Europe?",
+    "options": [
+      "Glasgow Royal Infirmary",
+      "Queen Elizabeth University Hospital",
+      "Gartnavel General",
+      "Stobhill Hospital"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Queen Elizabeth University Hospital",
+      "Govan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which Glasgow club, founded in 1867, plays at Hampden Park?",
+    "options": [
+      "Queen's Park",
+      "Third Lanark",
+      "Partick Thistle",
+      "Clyde"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Queen's Park",
+      "Hampden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Who beat Rangers in the 2022 Europa League final?",
+    "options": [
+      "Atalanta",
+      "Eintracht Frankfurt",
+      "Sevilla",
+      "Villarreal"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rangers",
+      "Europa League 2022"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Physicist Baron Kelvin took his title from which river in Glasgow?",
+    "options": [
+      "River Leven",
+      "River Kelvin",
+      "River Clyde",
+      "White Cart Water"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "River Kelvin",
+      "Lord Kelvin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "In 2013, PETA named Glasgow the most what-friendly city in the UK?",
+    "options": [
+      "Dog",
+      "Cyclist",
+      "Vegan",
+      "Family"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "vegan",
+      "PETA"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was Glasgow made a Royal Burgh?",
+    "options": [
+      "1707",
+      "1560",
+      "1611",
+      "1451"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Royal Burgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which year were Rangers founded?",
+    "options": [
+      "1876",
+      "1867",
+      "1872",
+      "1888"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Glasgow Fair dates back to which year?",
+    "options": [
+      "1190",
+      "1066",
+      "1451",
+      "1611"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Fair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which is Glasgow's largest park?",
+    "options": [
+      "Pollok Country Park",
+      "Glasgow Green",
+      "Kelvingrove Park",
+      "Queen's Park"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pollok Country Park",
+      "parks"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which church is the only one Charles Rennie Mackintosh designed?",
+    "options": [
+      "St Andrew's in the Square",
+      "Queen's Cross Church",
+      "Govan Old Parish Church",
+      "Lansdowne Church"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Queen's Cross Church",
+      "Charles Rennie Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which team beat Celtic in the 1970 European Cup final?",
+    "options": [
+      "Inter Milan",
+      "Bayern Munich",
+      "Ajax",
+      "Feyenoord"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic",
+      "1970",
+      "Feyenoord"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which team beat Celtic 3–2 in the 2003 UEFA Cup final?",
+    "options": [
+      "Lazio",
+      "Sevilla",
+      "Valencia",
+      "Porto"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Celtic",
+      "UEFA Cup 2003",
+      "Seville"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Glasgow venue is described as the largest nightclub in Scotland?",
+    "options": [
+      "Cathouse",
+      "Polo Lounge",
+      "The Garage",
+      "Sub Club"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Garage",
+      "nightclub"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Glasgow club has been nominated among the best clubs in the world?",
+    "options": [
+      "Cathouse",
+      "Sanctuary",
+      "Sub Club",
+      "The Garage"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sub Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which tobacco merchant founded the Mitchell Library?",
+    "options": [
+      "William Cunninghame",
+      "Stephen Mitchell",
+      "John Glassford",
+      "Andrew Buchanan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mitchell Library",
+      "Stephen Mitchell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Who opened Glasgow's Loch Katrine waterworks in 1859?",
+    "options": [
+      "King William IV",
+      "Queen Victoria",
+      "King Edward VII",
+      "Prince Albert"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Loch Katrine",
+      "Queen Victoria",
+      "1859"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "The Glasgow Subway is the world's third-oldest underground railway, after London and which city?",
+    "options": [
+      "Paris",
+      "Budapest",
+      "New York",
+      "Boston"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Subway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What makes the Glasgow Subway unique among UK metros?",
+    "options": [
+      "It's the only one completely underground",
+      "It's the only driverless one",
+      "It's the oldest",
+      "It's the longest"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Subway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which paddle steamer, the world's last seagoing one still working, is based on the Clyde?",
+    "options": [
+      "PS Waverley",
+      "PS Maid of the Loch",
+      "PS Comet",
+      "SS Sir Walter Scott"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "PS Waverley",
+      "Clyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which exhibition centre opened in Glasgow in 1985?",
+    "options": [
+      "The Hydro",
+      "SECC",
+      "Braehead Arena",
+      "Kelvin Hall"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SECC",
+      "1985"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Where was the 1938 Empire Exhibition held?",
+    "options": [
+      "Pollok Park",
+      "Kelvingrove Park",
+      "Glasgow Green",
+      "Bellahouston Park"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Empire Exhibition 1938",
+      "Bellahouston Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which park hosted Glasgow's International Exhibitions of 1888, 1901 and 1911?",
+    "options": [
+      "Queen's Park",
+      "Bellahouston Park",
+      "Kelvingrove Park",
+      "Glasgow Green"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "International Exhibition",
+      "Kelvingrove Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "The City of Glasgow Police, formed in 1800, was one of the world's first what?",
+    "options": [
+      "Mounted police units",
+      "Detective branches",
+      "Municipal police forces",
+      "River police forces"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "City of Glasgow Police",
+      "1800"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which writer praised Glasgow in \"A Tour thro' the whole island of Great Britain\"?",
+    "options": [
+      "Walter Scott",
+      "Robert Burns",
+      "Samuel Johnson",
+      "Daniel Defoe"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Daniel Defoe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "From 1668, Glasgow built a new deep-water port downriver at which town?",
+    "options": [
+      "Ardrossan",
+      "Port Glasgow",
+      "Dumbarton",
+      "Greenock"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Port Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Who became Glasgow's first Poet Laureate when the post was created in 1999?",
+    "options": [
+      "Edwin Morgan",
+      "Jim Carruth",
+      "Liz Lochhead",
+      "Tom Leonard"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Poet Laureate",
+      "Edwin Morgan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which venue hosted the MTV Europe Music Awards in November 2014?",
+    "options": [
+      "The Hydro",
+      "Hampden Park",
+      "SECC",
+      "Barrowland Ballroom"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "MTV EMA 2014",
+      "Hydro"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Glasgow street won the Academy of Urbanism's \"Great Street Award\" in 2008?",
+    "options": [
+      "Byres Road",
+      "Argyle Street",
+      "Buchanan Street",
+      "Sauchiehall Street"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Buchanan Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "The brickwork of Templeton on the Green was designed to evoke which building?",
+    "options": [
+      "St Mark's in Venice",
+      "The Alhambra in Granada",
+      "Notre-Dame in Paris",
+      "The Doge's Palace in Venice"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Templeton on the Green",
+      "Glasgow Green"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "On which hill does the University of Glasgow's main building stand?",
+    "options": [
+      "Garnethill",
+      "Blythswood Hill",
+      "Gilmorehill",
+      "Woodlands Hill"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "University of Glasgow",
+      "Gilmorehill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What was the nickname of the architect Alexander Thomson?",
+    "options": [
+      "Classic",
+      "Greek",
+      "Roman",
+      "Gothic"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alexander Thomson",
+      "Holmwood House"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which 1956 law ended the soot that had blackened Glasgow's sandstone?",
+    "options": [
+      "The Housing Act",
+      "The Public Health Act",
+      "The Smoke Control Act",
+      "The Clean Air Act"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Clean Air Act",
+      "sandstone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Where was the first international football match, Scotland v England, played in 1872?",
+    "options": [
+      "Kennington Oval",
+      "Cathkin Park",
+      "Hampden Park",
+      "Hamilton Crescent, Partick"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "first international",
+      "1872",
+      "Partick"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What was the score in the first international football match, Scotland v England in 1872?",
+    "options": [
+      "4–1",
+      "2–2",
+      "1–0",
+      "0–0"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "first international",
+      "1872"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In 1961, which Glasgow club became the first UK side to reach a European final?",
+    "options": [
+      "Rangers",
+      "Queen's Park",
+      "Celtic",
+      "Partick Thistle"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rangers",
+      "1961"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which team beat Rangers in the 2008 UEFA Cup final?",
+    "options": [
+      "Shakhtar Donetsk",
+      "Porto",
+      "Sevilla",
+      "Zenit Saint Petersburg"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rangers",
+      "UEFA Cup 2008"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "At which stadium do Glasgow Warriors play their home games?",
+    "options": [
+      "Old Anniesland",
+      "Firhill Stadium",
+      "Scotstoun Stadium",
+      "Hampden Park"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Warriors",
+      "Scotstoun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which sport is William Wilson believed to have invented at the Arlington Baths Club?",
+    "options": [
+      "Diving",
+      "Synchronised swimming",
+      "Lifesaving",
+      "Water polo"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Arlington Baths",
+      "water polo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which sport have Glasgow Tigers raced at Ashfield Stadium since 1928?",
+    "options": [
+      "Speedway",
+      "Track cycling",
+      "Greyhound racing",
+      "Stock car racing"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Tigers",
+      "speedway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which city did Glasgow replace as host of the 2026 Commonwealth Games?",
+    "options": [
+      "Victoria",
+      "Durban",
+      "Perth",
+      "Hamilton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Commonwealth Games 2026"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Before 1975, which historic county was Glasgow part of?",
+    "options": [
+      "Lanarkshire",
+      "Stirlingshire",
+      "Dunbartonshire",
+      "Renfrewshire"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lanarkshire"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "From 1975 to 1996, Glasgow was a district within which region?",
+    "options": [
+      "Lothian",
+      "Strathclyde",
+      "Central",
+      "Dumfries and Galloway"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Strathclyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Glasgow district was the heart of the locomotive-building industry?",
+    "options": [
+      "Govan",
+      "Partick",
+      "Springburn",
+      "Bridgeton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Springburn",
+      "locomotives"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What is the name of Glasgow's main bus terminal?",
+    "options": [
+      "St Enoch bus station",
+      "Buchanan bus station",
+      "Anderston bus station",
+      "Queen Street bus station"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Buchanan bus station"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which German city has been twinned with Glasgow since 1985?",
+    "options": [
+      "Hamburg",
+      "Nuremberg",
+      "Munich",
+      "Cologne"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "twin towns",
+      "Nuremberg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which Cuban city has been twinned with Glasgow since 2002?",
+    "options": [
+      "Trinidad",
+      "Santiago de Cuba",
+      "Varadero",
+      "Havana"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "twin towns",
+      "Havana"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Who designed the SEC Armadillo?",
+    "options": [
+      "Zaha Hadid",
+      "Basil Spence",
+      "Norman Foster",
+      "Richard Rogers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Armadillo",
+      "Norman Foster"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Who designed Kelvingrove Art Gallery and Museum?",
+    "options": [
+      "Sir John W. Simpson",
+      "Charles Rennie Mackintosh",
+      "Alexander Thomson",
+      "Sir George Gilbert Scott"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kelvingrove",
+      "John W. Simpson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In which year did the Burrell Collection open?",
+    "options": [
+      "1971",
+      "1983",
+      "1990",
+      "1999"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Burrell Collection"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year was the Glasgow Garden Festival held?",
+    "options": [
+      "1999",
+      "1988",
+      "1990",
+      "1983"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Garden Festival"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year did Glasgow's population peak at 1,127,825?",
+    "options": [
+      "1921",
+      "1951",
+      "1938",
+      "1965"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "population peak"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In 1605, what did Glasgow's 14 incorporated crafts form together?",
+    "options": [
+      "The Tolbooth",
+      "The Trades House",
+      "The Merchants House",
+      "The Guildry"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Trades House",
+      "1605"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "What part of the old Glasgow Tolbooth still survives?",
+    "options": [
+      "Its clock face",
+      "Its gateway",
+      "Its bell",
+      "Its steeple"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tolbooth Steeple",
+      "Glasgow Cross"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Where were the 2009 MOBO Awards held, their first time outside London since 1995?",
+    "options": [
+      "SECC",
+      "Barrowland Ballroom",
+      "Kelvin Hall",
+      "Hampden Park"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "MOBO Awards 2009",
+      "SECC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Outside London, which city is named in the most UK song titles?",
+    "options": [
+      "Liverpool",
+      "Manchester",
+      "Edinburgh",
+      "Glasgow"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "song titles",
+      "PRS for Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which magazine compared Glasgow's music scene to Detroit's Motown heyday?",
+    "options": [
+      "Newsweek",
+      "NME",
+      "Time",
+      "Rolling Stone"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Time magazine",
+      "Motown"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "What is the Omniplex cinema on Renfrew Street described as?",
+    "options": [
+      "Europe's first multiplex",
+      "The world's tallest cinema",
+      "The world's oldest cinema",
+      "Britain's biggest cinema"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Omniplex",
+      "Renfrew Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Where is the 1641 replacement for St Mungo's Bell now displayed?",
+    "options": [
+      "Provand's Lordship",
+      "Glasgow Cathedral",
+      "People's Palace",
+      "Kelvingrove"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "St Mungo's Bell",
+      "People's Palace"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which Glasgow church, built 1739–1757, is the oldest post-Reformation church in Scotland?",
+    "options": [
+      "St Andrew's in the Square",
+      "The Tron Kirk",
+      "Glasgow Cathedral",
+      "St David's (Ramshorn)"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "St Andrew's in the Square"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which area of Glasgow is the Central Mosque, the largest in Scotland?",
+    "options": [
+      "Garnethill",
+      "Govanhill",
+      "Pollokshields",
+      "Gorbals"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Central Mosque",
+      "Gorbals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which area did Glasgow's Chinese community mainly settle?",
+    "options": [
+      "Govan",
+      "Partick",
+      "Gorbals",
+      "Garnethill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Garnethill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Who designed the spire of the University of Glasgow's main building?",
+    "options": [
+      "John James Burnet",
+      "Sir George Gilbert Scott",
+      "Charles Rennie Mackintosh",
+      "Alexander Thomson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "University of Glasgow",
+      "George Gilbert Scott"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which South Side area is described as Britain's first major planned garden suburb?",
+    "options": [
+      "Pollokshields",
+      "Shawlands",
+      "Langside",
+      "Newlands"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pollokshields"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which Glasgow area was the UK's first tenement conservation area?",
+    "options": [
+      "Shawlands",
+      "Partick",
+      "Dennistoun",
+      "Hyndland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hyndland",
+      "tenements"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which body took over Glasgow's council housing stock in March 2003?",
+    "options": [
+      "Scottish Homes",
+      "Glasgow Corporation",
+      "Glasgow Housing Association",
+      "Strathclyde Housing Trust"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Housing Association"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "In 2023/24 Glasgow Warriors won the URC by beating which team in Pretoria?",
+    "options": [
+      "Munster",
+      "The Stormers",
+      "Leinster",
+      "The Bulls"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Warriors",
+      "URC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "With which city did Glasgow co-host the 2018 European Championships?",
+    "options": [
+      "Paris",
+      "Amsterdam",
+      "Munich",
+      "Berlin"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "European Championships 2018"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "From which hills does the River Kelvin flow?",
+    "options": [
+      "Kilpatrick Hills",
+      "Ochil Hills",
+      "Pentland Hills",
+      "Campsie Fells"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "River Kelvin",
+      "Campsie Fells"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Glasgow is called the UK's rainiest city, with more than how many days of rain a year?",
+    "options": [
+      "100",
+      "170",
+      "200",
+      "120"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "rain",
+      "climate"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which famous shipping line was formed in Glasgow?",
+    "options": [
+      "P&O",
+      "Blue Funnel Line",
+      "White Star Line",
+      "Cunard"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Cunard",
+      "shipping"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In the late 19th century, about what share of the world's locomotives were built in Glasgow?",
+    "options": [
+      "A tenth",
+      "A half",
+      "A quarter",
+      "Three quarters"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "locomotives"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Govan was an independent burgh until Glasgow absorbed it in which year?",
+    "options": [
+      "1975",
+      "1912",
+      "1926",
+      "1891"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Govan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which defence firm runs one of the two Clyde shipyards, in Govan?",
+    "options": [
+      "Babcock",
+      "Ferguson Marine",
+      "BAE Systems",
+      "Harland and Wolff"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "BAE Systems",
+      "Govan",
+      "shipbuilding"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which Glasgow school, founded in 1124, is described as Scotland's oldest?",
+    "options": [
+      "The Glasgow Academy",
+      "Allan Glen's School",
+      "Hutchesons' Grammar School",
+      "The High School of Glasgow"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "High School of Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which Italian city has been twinned with Glasgow since 2003?",
+    "options": [
+      "Florence",
+      "Milan",
+      "Naples",
+      "Turin"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "twin towns",
+      "Turin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which Ukrainian city was twinned with Glasgow in 2024?",
+    "options": [
+      "Mykolaiv",
+      "Lviv",
+      "Kharkiv",
+      "Odesa"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "twin towns",
+      "Mykolaiv"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which NASA rover drilled at an area on Mars named \"Glasgow\"?",
+    "options": [
+      "Curiosity",
+      "Spirit",
+      "Opportunity",
+      "Perseverance"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mars",
+      "Curiosity"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "Which Glasgow whisky distillery opened in 2017 in a former dock pump house?",
+    "options": [
+      "Auchentoshan",
+      "The Glasgow Distillery",
+      "Glengoyne",
+      "The Clydeside Distillery"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Clydeside Distillery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "Italian immigrants to Glasgow, many from Frosinone and Lucca, worked as what kind of seller?",
+    "options": [
+      "\"Hokey Pokey\" men",
+      "Barrow boys",
+      "Rag-and-bone men",
+      "Chip-shop fryers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Italian Scots",
+      "hokey pokey",
+      "ice cream"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which 2013 Jonathan Glazer film used Glasgow city-centre locations?",
+    "options": [
+      "Trainspotting",
+      "Red Road",
+      "Under the Skin",
+      "Sweet Sixteen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Under the Skin",
+      "Jonathan Glazer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which BBC quiz show moved its production base to Glasgow?",
+    "options": [
+      "Pointless",
+      "Mastermind",
+      "University Challenge",
+      "Eggheads"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Eggheads"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "By what share did Glasgow vote Yes in the 2014 independence referendum?",
+    "options": [
+      "53.5%",
+      "58.0%",
+      "46.5%",
+      "51.2%"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "independence referendum 2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "In which year did the City of Glasgow Bank collapse?",
+    "options": [
+      "1907",
+      "1893",
+      "1878",
+      "1857"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "City of Glasgow Bank"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "Which historian coined the name \"Merchant City\" in the 1960s?",
+    "options": [
+      "Edwin Morgan",
+      "Jack House",
+      "Charles Oakley",
+      "Alasdair Gray"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Merchant City",
+      "Charles Oakley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "songs-albums",
+    "difficulty": 5,
+    "question": "In how many UK song titles is Glasgow mentioned, according to PRS for Music?",
+    "options": [
+      "119",
+      "150",
+      "64",
+      "95"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "song titles",
+      "PRS for Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "In 2010, where did PRS for Music rank Glasgow among the UK's \"most musical\" cities?",
+    "options": [
+      "Tenth",
+      "Second",
+      "First",
+      "Fourth"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "PRS for Music",
+      "2010"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "Who was Glasgow's first Lord Provost?",
+    "options": [
+      "Robert Wallace",
+      "Patrick Colquhoun",
+      "Andrew Buchanan",
+      "John Stewart"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lord Provost",
+      "John Stewart",
+      "1450"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "landmarks",
+    "difficulty": 5,
+    "question": "Which Glasgow church is nicknamed the \"Whistlin' Kirk\"?",
+    "options": [
+      "Govan Old Parish Church",
+      "St Andrew's-by-the-Green",
+      "St Andrew's in the Square",
+      "The Tron Kirk"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Whistlin' Kirk",
+      "St Andrew's-by-the-Green"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "In which year did the Glasgow Necropolis open?",
+    "options": [
+      "1831",
+      "1878",
+      "1801",
+      "1851"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Necropolis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "What is the warmest temperature recorded in Glasgow, set in 2018?",
+    "options": [
+      "29.4 °C",
+      "35.1 °C",
+      "31.9 °C",
+      "33.2 °C"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "climate",
+      "record temperature"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "In which year was Glasgow's coat of arms granted by the Lord Lyon?",
+    "options": [
+      "1707",
+      "1975",
+      "1866",
+      "1611"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "coat of arms"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "Who designed Glasgow's City Chambers on George Square?",
+    "options": [
+      "John James Burnet",
+      "William Young",
+      "Alexander Thomson",
+      "Sir John W. Simpson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "City Chambers",
+      "William Young"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "Who was the engineer behind Glasgow's Loch Katrine water scheme?",
+    "options": [
+      "John Rennie",
+      "Robert Stevenson",
+      "Thomas Telford",
+      "John Frederick Bateman"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Loch Katrine",
+      "John Frederick Bateman"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Which company did Willie Haughey found in 1985?",
+    "options": [
+      "Arnold Clark",
+      "City Refrigeration",
+      "Tunnock's",
+      "Stagecoach"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Willie Haughey",
+      "City Refrigeration"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which area of Glasgow was businessman Willie Haughey born?",
+    "options": [
+      "Easterhouse",
+      "Govan",
+      "Gorbals",
+      "Partick"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Willie Haughey",
+      "Gorbals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which football club is Willie Haughey a former director of?",
+    "options": [
+      "Queen's Park",
+      "Partick Thistle",
+      "Celtic",
+      "Rangers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Willie Haughey",
+      "Celtic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which year did Willie Haughey become Baron Haughey?",
+    "options": [
+      "2013",
+      "2008",
+      "2019",
+      "2003"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Willie Haughey",
+      "peerage"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which competition did Willie Haughey sponsor with £2 million while it had no main sponsor?",
+    "options": [
+      "The Scottish Cup",
+      "The League Cup",
+      "The Glasgow Cup",
+      "The Challenge Cup"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Willie Haughey",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  }
+]

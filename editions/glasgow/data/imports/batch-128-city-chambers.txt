@@ -1,0 +1,7 @@
+# Glasgow City Chambers. Source: https://en.wikipedia.org/wiki/Glasgow_City_Chambers
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Which monarch inaugurated the Glasgow City Chambers in 1888? | Queen Victoria | King Edward VII | King George V | King William IV | City Chambers; Queen Victoria
+3 | landmarks | The figure of Truth on top of the City Chambers is popularly known as Glasgow's what? | Statue of Liberty | Angel of the North | Lady of the Lamp | Golden Girl | City Chambers; Statue of Liberty
+3 | landmarks | Which two famous figures received the Freedom of the City in the City Chambers' Banqueting Hall in 1993 and 1999? | Nelson Mandela and Sir Alex Ferguson | Billy Connolly and Sean Connery | Kenny Dalglish and Jock Stein | Desmond Tutu and Lulu | City Chambers; Freedom of the City
+4 | landmarks | The City Chambers stood in for which building in the 1986 film Heavenly Pursuits? | The Vatican | Buckingham Palace | The White House | The Kremlin | City Chambers; Heavenly Pursuits
+4 | landmarks | Which group of painters created the murals in the City Chambers' Banqueting Hall? | The Glasgow Boys | The Scottish Colourists | The Glasgow Girls | The New Glasgow Boys | City Chambers; Banqueting Hall

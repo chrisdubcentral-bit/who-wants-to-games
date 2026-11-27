@@ -1,0 +1,11 @@
+/* This edition's card in the About page carousel (about.html). Loaded by the About page, not by the game.
+   Black and white "Scream" crowd with soft silver Anton lettering, as on the game's home screen. */
+@import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+
+.front.beatles .bg { background-image: linear-gradient(180deg, rgba(0,0,0,.55) 0%, rgba(0,0,0,.35) 45%, rgba(0,0,0,.92) 100%), url("assets/img/crowd.jpg"); filter: grayscale(1); }
+.front.beatles .prize { width: 62cqi; height: 34cqi; transform: rotate(-4deg); }
+.front.beatles .top { font: 400 9.6cqi/1 Anton, sans-serif; text-transform: uppercase; letter-spacing: .04em; color: #e9e9e9; }
+.front.beatles .accent { font: 400 15cqi/1 Anton, sans-serif; text-transform: uppercase; letter-spacing: .02em; background: linear-gradient(180deg, #fff 0%, #e6e6e6 50%, #a8a8a8 100%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.front.beatles .edition { padding-top: 3cqi; border-top: 1px solid rgba(255,255,255,.6); font: 400 4.4cqi/1 Anton, sans-serif; letter-spacing: .4em; color: #e6c77a; }
+.front.beatles .tagline { font: 400 4.2cqi/1.4 Anton, sans-serif; letter-spacing: .05em; text-transform: uppercase; color: #ddd; }
+.front.beatles .start { font: 400 4.8cqi/1 Anton, sans-serif; border-radius: 1.4cqi; color: #000; background: linear-gradient(180deg, #fff 0%, #e6e6e6 50%, #bdbdbd 100%); }

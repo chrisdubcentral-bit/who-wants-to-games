@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-26T00:15:00.000Z",
+  "order": "turns",
+  "adverts": [
+    {
+      "id": "depardon-glasgow",
+      "name": "Raymond Depardon's Glasgow photo book",
+      "enabled": true,
+      "from": "2026-11-25",
+      "until": null,
+      "after": "qmu",
+      "label": "Glasgow by Raymond Depardon",
+      "url": "https://link.amazon/B08I0c4DY",
+      "linkText": "Order Now",
+      "landscape": "../../media/ads/glasgow-depardon-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/glasgow-depardon-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "glasgow-cookery-book",
+      "name": "The Glasgow Cookery Book (Centenary Edition)",
+      "enabled": true,
+      "from": "2026-11-25",
+      "until": null,
+      "after": "qmu",
+      "label": "The Glasgow Cookery Book",
+      "url": "https://link.amazon/B075Nwu09",
+      "linkText": "Order Now",
+      "landscape": "../../media/ads/glasgow-cookery-book-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/glasgow-cookery-book-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "get-around-glasgow",
+      "name": "Get Around Glasgow t-shirt shop",
+      "enabled": true,
+      "from": "2026-11-25",
+      "until": null,
+      "after": "qmu",
+      "label": "Get Around Glasgow",
+      "url": "https://getaroundglasgow.myspreadshop.co.uk/",
+      "linkText": "Shop Now",
+      "landscape": "../../media/ads/glasgow-get-around-glasgow-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/glasgow-get-around-glasgow-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    }
+  ]
+}

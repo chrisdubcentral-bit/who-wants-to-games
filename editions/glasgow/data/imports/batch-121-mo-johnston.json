@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which Glasgow club did Mo Johnston begin his career with?",
+    "options": [
+      "Queen's Park",
+      "Partick Thistle",
+      "Rangers",
+      "Celtic"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mo Johnston",
+      "Partick Thistle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which manager signed Mo Johnston for Rangers in 1989?",
+    "options": [
+      "John Greig",
+      "Graeme Souness",
+      "Jock Wallace",
+      "Walter Smith"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mo Johnston",
+      "Graeme Souness"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which French club did Mo Johnston play for from 1987?",
+    "options": [
+      "Bordeaux",
+      "Monaco",
+      "Nantes",
+      "Marseille"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mo Johnston",
+      "Nantes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "With which club did Mo Johnston reach the 1984 FA Cup final?",
+    "options": [
+      "Luton Town",
+      "Watford",
+      "Ipswich Town",
+      "Everton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mo Johnston",
+      "Watford"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which MLS club did Mo Johnston coach from 2007, earning the nickname \"Trader Mo\"?",
+    "options": [
+      "Kansas City Wizards",
+      "Toronto FC",
+      "New York Red Bulls",
+      "LA Galaxy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mo Johnston",
+      "Toronto FC"
+    ],
+    "source": "manual"
+  }
+]

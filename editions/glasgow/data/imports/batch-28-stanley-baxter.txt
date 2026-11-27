@@ -1,0 +1,17 @@
+# Stanley Baxter. Source: https://en.wikipedia.org/wiki/Stanley_Baxter
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which Glasgow comedian was famous for his "Parliamo Glasgow" sketches? | Stanley Baxter | Rikki Fulton | Jimmy Logan | Billy Connolly | Stanley Baxter; Parliamo Glasgow
+2 | film-tv | Which children's TV show saw Stanley Baxter play a magic teacher? | Mr Majeika | Rentaghost | Worzel Gummidge | The Box of Delights | Stanley Baxter; Mr Majeika
+2 | film-tv | Which member of the Royal Family was Stanley Baxter famous for impersonating? | Queen Elizabeth II | Prince Philip | Princess Margaret | The Queen Mother | Stanley Baxter; impressions
+2 | famous-glaswegians | Which Glasgow school did Stanley Baxter attend? | Hillhead High School | Glasgow Academy | Hutchesons' Grammar | High School of Glasgow | Stanley Baxter; Hillhead High School
+3 | film-tv | On which channel did The Stanley Baxter Show run from 1963 to 1971? | BBC One | ITV | BBC Two | STV | Stanley Baxter; The Stanley Baxter Show
+3 | famous-glaswegians | During World War II, Stanley Baxter worked down the mines as what? | A Bevin Boy | A Land Girl | A conscientious objector | A pit pony driver | Stanley Baxter; Bevin Boy
+3 | film-tv | Which Carry On star served alongside Stanley Baxter in the Combined Services Entertainment unit? | Kenneth Williams | Sid James | Charles Hawtrey | Bernard Bresslaw | Stanley Baxter; Kenneth Williams
+3 | venues-gigs | At which Glasgow theatre did Stanley Baxter spend three years on stage after the war? | The Citizens Theatre | The King's Theatre | The Pavilion | The Alhambra | Stanley Baxter; Citizens Theatre
+3 | film-tv | Which Glasgow comic was Stanley Baxter's radio partner before pantomime success? | Jimmy Logan | Rikki Fulton | Jack Milroy | Chic Murray | Stanley Baxter; Jimmy Logan
+3 | film-tv | Which queen-like character was among Stanley Baxter's best-known impressions? | The Duchess of Brendagh | Lady Muck | The Duchess of Duke Street | Lady Penelope | Stanley Baxter; Duchess of Brendagh
+4 | film-tv | Which Joe Orton play did Stanley Baxter appear in on its original 1969 London run? | What the Butler Saw | Loot | Entertaining Mr Sloane | The Ruffian on the Stair | Stanley Baxter; What the Butler Saw
+4 | film-tv | Whose last Christmas special, taped in 1977, featured Stanley Baxter in several roles? | Bing Crosby | Morecambe and Wise | Perry Como | Bob Hope | Stanley Baxter; Bing Crosby
+4 | famous-glaswegians | Which honour did Stanley Baxter turn down? | An OBE | A knighthood | A CBE | An MBE | Stanley Baxter; OBE
+4 | famous-glaswegians | Where in Glasgow were Stanley Baxter's ashes scattered after his death in 2025? | The Botanic Gardens | Kelvingrove Park | Glasgow Green | Queen's Park | Stanley Baxter; Botanic Gardens
+5 | film-tv | Which comedian presented The Stanley Baxter Story on BBC Radio 2 in 2009? | Eddie Izzard | Ronnie Corbett | Paul Merton | Billy Connolly | Stanley Baxter; Eddie Izzard

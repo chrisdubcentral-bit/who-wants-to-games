@@ -1,0 +1,104 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Clare Grogan played Susan in which 1981 Bill Forsyth film?",
+    "options": [
+      "That Sinking Feeling",
+      "Comfort and Joy",
+      "Local Hero",
+      "Gregory's Girl"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Clare Grogan",
+      "Gregory's Girl"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which character did Clare Grogan play in the first series of Red Dwarf?",
+    "options": [
+      "Camille",
+      "Holly",
+      "Rimmer's wife",
+      "Kristine Kochanski"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Clare Grogan",
+      "Red Dwarf",
+      "Kochanski"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Where was Clare Grogan working when Bill Forsyth spotted her?",
+    "options": [
+      "In a bank",
+      "At a hairdresser's",
+      "In a record shop",
+      "Waitressing at the Spaghetti Factory"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Clare Grogan",
+      "Bill Forsyth"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Clare Grogan is said to have inspired which 1983 Spandau Ballet song?",
+    "options": [
+      "Lifeline",
+      "Only When You Leave",
+      "True",
+      "Gold"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Clare Grogan",
+      "Spandau Ballet",
+      "True"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which EastEnders character did Clare Grogan play as Ian Beale's love interest?",
+    "options": [
+      "Lucy Beale",
+      "Laura Dunn",
+      "Ros Thorne",
+      "Melanie Healy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Clare Grogan",
+      "EastEnders"
+    ],
+    "source": "manual"
+  }
+]

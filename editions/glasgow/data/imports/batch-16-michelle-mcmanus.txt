@@ -1,0 +1,7 @@
+# Michelle McManus. Source: https://en.wikipedia.org/wiki/Michelle_McManus
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which TV talent show did Michelle McManus win in December 2003? | Pop Idol | The X Factor | Fame Academy | Popstars | Michelle McManus; Pop Idol; 2003
+2 | songs-albums | What was Michelle McManus's debut single, a UK No. 1 for three weeks? | All This Time | The Meaning of Love | Anything Is Possible | Evergreen | Michelle McManus; All This Time
+2 | famous-glaswegians | In which area east of Glasgow did Michelle McManus live before Pop Idol? | Baillieston | Easterhouse | Shettleston | Carmyle | Michelle McManus; Baillieston
+3 | film-tv | Which Pop Idol judge stormed off the set when Michelle McManus won? | Pete Waterman | Simon Cowell | Nicki Chapman | Neil Fox | Michelle McManus; Pop Idol; Pete Waterman
+4 | film-tv | Michelle McManus became main presenter of which STV lifestyle show in October 2009? | The Hour | The Five Thirty Show | The Riverside Show | The Martin Lewis Money Show | Michelle McManus; The Hour; STV

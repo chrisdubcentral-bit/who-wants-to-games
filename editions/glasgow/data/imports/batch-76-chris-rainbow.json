@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Glasgow singer Chris Rainbow sang with which progressive rock project from 1979?",
+    "options": [
+      "The Alan Parsons Project",
+      "Genesis",
+      "Yes",
+      "The Moody Blues"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Chris Rainbow",
+      "Alan Parsons Project"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Why did Christopher Harley adopt the stage name Chris Rainbow?",
+    "options": [
+      "After a song title",
+      "His mother's maiden name",
+      "After a club in London",
+      "To avoid confusion with Steve Harley"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Chris Rainbow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Alan Parsons called Chris Rainbow a \"One Man\" version of which band?",
+    "options": [
+      "The Beatles",
+      "The Hollies",
+      "The Bee Gees",
+      "The Beach Boys"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Chris Rainbow",
+      "Beach Boys"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which Gaelic rock band's albums did Chris Rainbow produce under his birth name?",
+    "options": [
+      "Wolfstone",
+      "Big Country",
+      "Capercaillie",
+      "Runrig"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Chris Rainbow",
+      "Runrig"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "glasgow-bands",
+    "difficulty": 5,
+    "question": "On which island did Chris Rainbow run the Vital Spark music studio?",
+    "options": [
+      "Lewis",
+      "Skye",
+      "Arran",
+      "Mull"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Chris Rainbow",
+      "Skye"
+    ],
+    "source": "manual"
+  }
+]

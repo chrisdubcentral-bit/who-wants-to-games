@@ -1,0 +1,8 @@
+# Naked Video (extra). Source: https://en.wikipedia.org/wiki/Naked_Video
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | On which BBC channel was Naked Video shown? | BBC2 | BBC1 | BBC Four | BBC Choice | Naked Video
+3 | film-tv | Which actor co-presented the first two series of Naked Video with Helen Lederer? | Andy Gray | Jonathan Watson | Ron Bain | Tony Roper | Naked Video; Andy Gray; Helen Lederer
+3 | film-tv | Which actress, later Frances in Still Game, joined the Naked Video cast in its later years? | Kate Donnelly | Jane McCarry | Barbara Rafferty | Elaine C. Smith | Naked Video; Kate Donnelly
+4 | film-tv | In which year did the Naked Video cast reunite for a theatre show and radio broadcast? | 2000 | 1995 | 2005 | 2010 | Naked Video; reunion
+4 | film-tv | Which actor presented a 2005 BBC Radio Scotland documentary about Naked Radio and Naked Video? | Gerard Kelly | Rikki Fulton | Gregor Fisher | Jonathan Watson | Naked Video; Gerard Kelly
+5 | film-tv | In which year was series 3 of Naked Video finally broadcast? | 1989 | 1987 | 1988 | 1991 | Naked Video; series 3

@@ -1,0 +1,105 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Ibrox is part of which former burgh?",
+    "options": [
+      "Govan",
+      "Partick",
+      "Rutherglen",
+      "Pollokshields"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ibrox",
+      "Govan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "patter",
+    "difficulty": 4,
+    "question": "The name Ibrox is often said to come from the Gaelic for what?",
+    "options": [
+      "Deer field",
+      "Badger ford",
+      "Fox hill",
+      "Otter pool"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ibrox",
+      "Gaelic",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Which football club plays its home games at Ibrox?",
+    "options": [
+      "Queen's Park",
+      "Rangers",
+      "Partick Thistle",
+      "Celtic"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ibrox",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which South African artist made an artwork on Copland Road in Ibrox before the 2014 Commonwealth Games?",
+    "options": [
+      "Banksy",
+      "Os Gemeos",
+      "Blek le Rat",
+      "Faith47"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ibrox",
+      "Faith47",
+      "Copland Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which school sits on Edmiston Drive, directly across from Ibrox Stadium?",
+    "options": [
+      "Ibrox Primary School",
+      "Hillhead Primary School",
+      "Govan High School",
+      "Bellahouston Academy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ibrox",
+      "Ibrox Primary",
+      "Edmiston Drive"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,7 @@
+# River Kelvin. Source: https://en.wikipedia.org/wiki/River_Kelvin
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Where does the River Kelvin join the River Clyde? | Yorkhill Basin | Glasgow Green | Govan Cross | The Broomielaw | River Kelvin; Yorkhill
+3 | landmarks | Which canal does the Kelvin Aqueduct carry over the River Kelvin at Maryhill? | The Forth and Clyde Canal | The Union Canal | The Monkland Canal | The Caledonian Canal | River Kelvin; Kelvin Aqueduct
+3 | landmarks | Roughly how long is the River Kelvin? | 22 miles | 8 miles | 45 miles | 70 miles | River Kelvin
+3 | landmarks | Which walkway links the Clyde Walkway with the West Highland Way along the River Kelvin? | The Kelvin Walkway | The John Muir Way | The Clyde Coastal Path | The Rob Roy Way | River Kelvin; Kelvin Walkway
+4 | landmarks | In which Glasgow gardens is the Ha'penny Footbridge over the River Kelvin? | The Botanic Gardens | Kelvingrove Park | Victoria Park | Ruchill Park | River Kelvin; Ha'penny Footbridge

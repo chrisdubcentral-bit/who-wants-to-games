@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which award did the Riverside Museum win in 2013?",
+    "options": [
+      "European Museum of the Year",
+      "Art Fund Museum of the Year",
+      "Stirling Prize",
+      "Turner Prize"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Riverside Museum",
+      "European Museum of the Year"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which tall ship is berthed in front of the Riverside Museum?",
+    "options": [
+      "The Glenlee",
+      "The Cutty Sark",
+      "The Waverley",
+      "RRS Discovery"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Riverside Museum",
+      "Glenlee"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year did the Riverside Museum open?",
+    "options": [
+      "2007",
+      "2014",
+      "2001",
+      "2011"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Riverside Museum"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Before the Riverside Museum, where was Glasgow's Museum of Transport?",
+    "options": [
+      "The SECC",
+      "Kelvin Hall",
+      "The McLellan Galleries",
+      "The People's Palace"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Riverside Museum",
+      "Kelvin Hall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which former tram depot was the original home of Glasgow's Museum of Transport?",
+    "options": [
+      "Partick",
+      "Dalmarnock",
+      "Possilpark",
+      "Coplawhill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Riverside Museum",
+      "Coplawhill"
+    ],
+    "source": "manual"
+  }
+]

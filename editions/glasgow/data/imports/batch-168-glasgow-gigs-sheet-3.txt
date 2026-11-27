@@ -1,0 +1,27 @@
+# Glasgow gigs and venues (3). Source: user's gig list (Google Sheet 12jcAUZ9pQ41Dau2yOkS59qn6L4dlUF0x58Ixv4fQfmc)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | venues-gigs | Which Boston band, fronted by Black Francis, played the Barrowland in November 2013? | Pixies | The Breeders | Throwing Muses | Dinosaur Jr | Barrowland; Pixies; 2013
+2 | venues-gigs | Which Manchester band, fronted by Shaun Ryder, played the Barrowland in December 1989? | Happy Mondays | The Stone Roses | Inspiral Carpets | The Charlatans | Barrowland; Happy Mondays; 1989
+2 | venues-gigs | Which Bristol band, fronted by Joe Talbot, played the Barrowland in December 2019? | Idles | Fontaines D.C. | Shame | Yard Act | Barrowland; Idles; 2019
+3 | venues-gigs | Which band played the U2 SECC shows of July 1987 as support? | Hoodoo Gurus | The Pogues | Simple Minds | The Waterboys | SECC; U2; Hoodoo Gurus; 1987
+3 | venues-gigs | Which band supported The Rapture at the ABC in March 2007? | Shit Disco | Franz Ferdinand | Dananananaykroyd | The Go! Team | ABC; The Rapture; Shit Disco; 2007
+3 | venues-gigs | Which Oxford band played the Barrowland in May 2025? | Supergrass | Radiohead | Ride | Foals | Barrowland; Supergrass; 2025
+3 | venues-gigs | Which band, known for "Dry the Rain", played the Barrowland in September 2025? | The Beta Band | The Phantom Band | Django Django | Belle and Sebastian | Barrowland; The Beta Band; 2025
+3 | venues-gigs | Which Glasgow band played the Barrowland in January 2025? | The Delgados | Arab Strap | The Pastels | Bis | Barrowland; The Delgados; 2025
+3 | venues-gigs | Which Glasgow band played the Barrowland in December 2016, just after Pixies' night there? | Teenage Fanclub | Belle and Sebastian | Mogwai | Franz Ferdinand | Barrowland; Teenage Fanclub; 2016
+3 | venues-gigs | Which band played the Barrowland in December 1988, fronted by Mark E. Smith? | The Fall | The Smiths | Joy Division | Magazine | Barrowland; The Fall; 1988
+3 | venues-gigs | Which Glasgow band, led by Bobby Gillespie, played the Barrowland in October 1991? | Primal Scream | Teenage Fanclub | Jesus and Mary Chain | The Soup Dragons | Barrowland; Primal Scream; 1991
+3 | venues-gigs | Which Oklahoma band led by Wayne Coyne played the Glasgow Academy in November 2009? | The Flaming Lips | Mercury Rev | Grandaddy | Wilco | The Academy; The Flaming Lips; 2009
+3 | venues-gigs | Which Kim Deal-led band played King Tut's in May 2009? | The Breeders | Pixies | The Amps | Throwing Muses | King Tut's; The Breeders; 2009
+3 | venues-gigs | Which Blur guitarist played a solo gig at King Tut's in May 2009? | Graham Coxon | Damon Albarn | Alex James | Dave Rowntree | King Tut's; Graham Coxon; 2009
+3 | venues-gigs | Which Australian singer-songwriter played the Glasgow Academy in November 2018? | Courtney Barnett | Kylie Minogue | Natalie Imbruglia | Sia | The Academy; Courtney Barnett; 2018
+3 | venues-gigs | Which New Order and Joy Division bassist played the Art School in September 2015? | Peter Hook | Bernard Sumner | Stephen Morris | Gillian Gilbert | The Art School; Peter Hook; 2015
+4 | venues-gigs | Which American band played the Barrowland in May 2010, as part of their reunion? | Pavement | Pixies | Dinosaur Jr | Sebadoh | Barrowland; Pavement; 2010
+4 | venues-gigs | Which Chicago band led by Jeff Tweedy played the Barrowland in September 2010? | Wilco | Lambchop | Calexico | My Morning Jacket | Barrowland; Wilco; 2010
+4 | venues-gigs | Which Dallas choir-rock group played the QMU in November 2004? | The Polyphonic Spree | The Flaming Lips | Arcade Fire | Okkervil River | QMU; The Polyphonic Spree; 2004
+4 | venues-gigs | Which band played Nice N Sleazy in December 2013? | Django Django | Alt-J | Wild Beasts | Glass Animals | Nice N Sleazy; Django Django; 2013
+4 | venues-gigs | Which London band played SWG3 in May 2019? | Fat White Family | Idles | Shame | Black Midi | SWG3; Fat White Family; 2019
+4 | venues-gigs | Which Anglo-French band played SWG3 in June 2019? | Stereolab | Broadcast | Saint Etienne | Air | SWG3; Stereolab; 2019
+4 | venues-gigs | Which American country singer played Oran Mor in January 2017? | Margo Price | Kacey Musgraves | Brandi Carlile | Sturgill Simpson | Oran Mor; Margo Price; 2017
+5 | venues-gigs | Which band supported Public Service Broadcasting at Strathclyde Union in September 2014? | Kasule | Teleman | Public Enemy | Wu-Lu | Strathclyde Union; Public Service Broadcasting; Kasule; 2014
+5 | venues-gigs | Which band supported Tunng at Broadcast in October 2013? | Pinkumoizu | Race Horses | Dirty Cuts | Endor | Broadcast; Tunng; Pinkumoizu; 2013

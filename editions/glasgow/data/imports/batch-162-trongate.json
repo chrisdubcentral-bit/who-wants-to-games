@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "The \"tron\" in Trongate is a Scots word meaning what?",
+    "options": [
+      "Weighing scales",
+      "A gate",
+      "A market",
+      "A church"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Trongate",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "At which junction does Trongate become Argyle Street?",
+    "options": [
+      "Union Street",
+      "Glassford Street",
+      "Queen Street",
+      "Saltmarket"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Trongate",
+      "Argyle Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What was the Tron church redeveloped as in the 1980s?",
+    "options": [
+      "A library",
+      "A nightclub",
+      "A museum",
+      "The Tron Theatre"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Trongate",
+      "Tron Theatre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What was Trongate known as before it took its current name?",
+    "options": [
+      "Westergait",
+      "The Drygate",
+      "High Gait",
+      "St Thenew's Gait"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Trongate",
+      "St Thenew's Gait"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which year did a fire on the Trongate destroy a third of Glasgow?",
+    "options": [
+      "1560",
+      "1652",
+      "1793",
+      "1711"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Trongate",
+      "1652 fire"
+    ],
+    "source": "manual"
+  }
+]

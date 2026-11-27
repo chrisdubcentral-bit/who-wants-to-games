@@ -1,0 +1,42 @@
+# Still Game. Source: https://en.wikipedia.org/wiki/Still_Game
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which two comedians created and starred in Still Game? | Ford Kiernan and Greg Hemphill | Robert Florence and Iain Connell | Kevin Bridges and Frankie Boyle | Gregor Fisher and Tony Roper | Still Game; Ford Kiernan; Greg Hemphill
+1 | film-tv | What are the names of the two pensioner pals at the heart of Still Game? | Jack and Victor | Rab and Jamesie | Tam and Winston | Navid and Boabby | Still Game; Jack Jarvis; Victor McDade
+1 | film-tv | In which fictional area of Glasgow is Still Game set? | Craiglang | Burnistoun | Craigmont | Glenbogle | Still Game; Craiglang
+1 | film-tv | Which character in Still Game runs the local shop? | Navid Harrid | Tam Mullen | Boabby the Barman | Winston Ingram | Still Game; Navid
+1 | film-tv | In which earlier sketch show did Jack and Victor first appear? | Chewin' the Fat | Naked Video | Burnistoun | Only an Excuse? | Still Game; Chewin' the Fat
+1 | film-tv | What is the name of the pub in Still Game? | The Clansman | The Two Ways Inn | The Giblet | The Gimlet | Still Game; The Clansman
+2 | film-tv | Which actor plays Victor McDade in Still Game? | Greg Hemphill | Ford Kiernan | Paul Riley | Mark Cox | Still Game; Victor McDade; Greg Hemphill
+2 | film-tv | Which actor plays Jack Jarvis in Still Game? | Ford Kiernan | Greg Hemphill | Gavin Mitchell | Sanjeev Kohli | Still Game; Jack Jarvis; Ford Kiernan
+2 | film-tv | What is the name of the high-rise where Jack and Victor live in Still Game? | Osprey Heights | Kestrel Court | Falcon Towers | Eagle House | Still Game; Osprey Heights
+2 | film-tv | Which actor plays Navid Harrid in Still Game? | Sanjeev Kohli | Paul Riley | Mark Cox | Gavin Mitchell | Still Game; Navid; Sanjeev Kohli
+2 | film-tv | Who plays Isa Drennan in Still Game? | Jane McCarry | Elaine C. Smith | Barbara Rafferty | Kate Donnelly | Still Game; Isa; Jane McCarry
+2 | film-tv | Which Still Game character is played by Paul Riley? | Winston Ingram | Tam Mullen | Boabby the Barman | Shug | Still Game; Winston; Paul Riley
+2 | film-tv | Which Still Game character is famously played by Gavin Mitchell? | Boabby the Barman | Tam Mullen | Methadone Mick | Pete the Jakey | Still Game; Boabby; Gavin Mitchell
+2 | venues-gigs | At which Glasgow arena did Still Game Live play 21 shows in 2014? | The SSE Hydro | The SECC | The King's Theatre | Braehead Arena | Still Game; Hydro; 2014
+2 | film-tv | In which year was Still Game first shown on TV? | 2002 | 1999 | 2005 | 2007 | Still Game; 2002
+2 | film-tv | Which actor plays Tam Mullen in Still Game? | Mark Cox | Paul Riley | Jake D'Arcy | Paul Young | Still Game; Tam Mullen; Mark Cox
+3 | film-tv | Which three characters appeared in the original Still Game stage play? | Jack, Victor and Winston | Jack, Victor and Tam | Jack, Victor and Navid | Jack, Victor and Isa | Still Game; stage play
+3 | film-tv | In the original Still Game stage play, what traps the three men in Victor's flat? | A broken lift | A snowstorm | A power cut | A locked door | Still Game; stage play
+3 | venues-gigs | At which Glasgow theatre was the Still Game stage play filmed in 1999? | Cottiers Theatre | The Tron | The Citizens Theatre | The Pavilion | Still Game; Cottiers Theatre; 1999
+3 | film-tv | Roughly how many fans saw the 21 Still Game Live shows at the Hydro in 2014? | 210,000 | 120,000 | 85,000 | 350,000 | Still Game; Hydro; 2014
+3 | film-tv | Which Still Game character is played by Shamshad Akhtar? | Meena Harrid | Isa Drennan | Peggy McAlpine | Frances Mullen | Still Game; Meena; Shamshad Akhtar
+3 | film-tv | Which Glasgow district provided the tower block used as Osprey Heights? | Maryhill | Possilpark | Ruchill | Townhead | Still Game; Osprey Heights; Maryhill
+3 | film-tv | In 2016 Still Game returned after how many years off screen? | Nine | Five | Seven | Twelve | Still Game; 2016 revival
+3 | film-tv | What happened to Still Game's characters at the end of series 9, according to the BBC? | They went into comedy retirement | They emigrated to Spain | They won the lottery | They moved to a care home | Still Game; series 9
+3 | film-tv | Which Hollywood actor based Davy Jones's Scottish accent in Pirates of the Caribbean on Still Game? | Bill Nighy | Johnny Depp | Geoffrey Rush | Orlando Bloom | Still Game; Bill Nighy
+3 | film-tv | Which channel showed the first three series of Still Game? | BBC One Scotland | BBC Two | STV | Channel 4 | Still Game; BBC One Scotland
+3 | film-tv | Which BBC Scotland soap did Jack and Victor visit in a 2014 Children in Need sketch? | River City | Take the High Road | Monarch of the Glen | Shetland | Still Game; River City; Children in Need
+3 | film-tv | Which Glasgow pub was the outside of the Clansman in Still Game's first three series? | The Gimlet | The Horseshoe Bar | The Scotia Bar | Sloans | Still Game; The Gimlet; Ruchill
+4 | film-tv | Which Still Game character is played by Paul Young? | Shug | Tam | Pete the Jakey | Stevie the Bookie | Still Game; Shug; Paul Young
+4 | film-tv | Who plays Tam's wife Frances in Still Game? | Kate Donnelly | Jane McCarry | Lynne McCallum | Maureen Carr | Still Game; Frances; Kate Donnelly
+4 | film-tv | How much did the 2014 Still Game Live shows make in ticket sales? | £6 million | £2 million | £10 million | £4 million | Still Game; Hydro; 2014
+4 | film-tv | What share of the Scottish TV audience watched the first episode of Still Game's 2016 revival? | 58% | 35% | 72% | 44% | Still Game; 2016 revival
+4 | film-tv | Which famous factory was used for the bakery scenes in the Still Game episode "Recipe"? | Tunnock's in Uddingston | Mother's Pride in Glasgow | Scott's Porage Oats | Mackie's in Aberdeenshire | Still Game; Recipe; Tunnock's
+4 | film-tv | What was the 2007 Still Game Hogmanay special called? | Hootenanny | Hogmanay | The Bells | Auld Lang Syne | Still Game; Hootenanny
+4 | film-tv | Who played Winston in the stage play before going on to play Boabby in the series? | Gavin Mitchell | Paul Riley | Mark Cox | Sanjeev Kohli | Still Game; Gavin Mitchell
+4 | film-tv | What was the name of Still Game's second live show at the Hydro, in 2017? | Bon Voyage | The Final Farewell | Heaven Sent | Back in the Game | Still Game; Bon Voyage; 2017
+4 | film-tv | Which band recorded "Cuban Boy", used as Still Game's original theme tune? | The Cuban Boys | The Bluebells | The Proclaimers | Texas | Still Game; Cuban Boys; theme tune
+5 | film-tv | In which fictional seaside town, filmed in Largs and Saltcoats, is the episode "Saucy" set? | Finport | Craigport | Saltford | Port Craiglang | Still Game; Saucy; Finport
+5 | film-tv | Which Still Game character is played by Scott Reid? | Methadone Mick | Fergie the Ned | Chris the Postie | Stevie the Bookie | Still Game; Methadone Mick; Scott Reid
+5 | film-tv | In which year did Scotsman readers vote Still Game the best Scottish TV programme of all time? | 2020 | 2014 | 2017 | 2023 | Still Game; Scotsman poll

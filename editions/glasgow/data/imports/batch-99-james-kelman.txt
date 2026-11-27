@@ -1,0 +1,7 @@
+# James Kelman. Source: https://en.wikipedia.org/wiki/James_Kelman
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | Which James Kelman novel won the 1994 Booker Prize? | How Late It Was, How Late | A Disaffection | The Busconductor Hines | Kieron Smith, Boy | James Kelman; Booker Prize
+3 | art-culture | In which year did James Kelman win the Booker Prize? | 1994 | 1984 | 2001 | 1989 | James Kelman; Booker Prize
+3 | art-culture | What was James Kelman's first published novel, in 1984? | The Busconductor Hines | A Chancer | A Disaffection | Translated Accounts | James Kelman; The Busconductor Hines
+3 | art-culture | Which later Booker winner said Kelman's 1994 win changed his life? | Douglas Stuart | Ian Rankin | Irvine Welsh | Alan Warner | James Kelman; Douglas Stuart
+4 | art-culture | Which James Kelman novel won the James Tait Black Memorial Prize? | A Disaffection | How Late It Was, How Late | Dirt Road | The Good Times | James Kelman; A Disaffection

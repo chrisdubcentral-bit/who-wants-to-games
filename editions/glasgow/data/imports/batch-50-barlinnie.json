@@ -1,0 +1,201 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "What is the famous nickname of HM Prison Barlinnie?",
+    "options": [
+      "The Bastille",
+      "Bar-L",
+      "The Castle",
+      "The Joy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barlinnie",
+      "Bar-L"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which district of Glasgow is Barlinnie prison?",
+    "options": [
+      "Shettleston",
+      "Possilpark",
+      "Riddrie",
+      "Easterhouse"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barlinnie",
+      "Riddrie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which reformed Glasgow gangster is the best-known success story of Barlinnie's Special Unit?",
+    "options": [
+      "Jimmy Boyle",
+      "Hugh Collins",
+      "Paul Ferris",
+      "Arthur Thompson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barlinnie",
+      "Special Unit",
+      "Jimmy Boyle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year did Barlinnie prison first open?",
+    "options": [
+      "1882",
+      "1857",
+      "1910",
+      "1936"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barlinnie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "How many accommodation halls, lettered A to E, does Barlinnie have?",
+    "options": [
+      "Five",
+      "Three",
+      "Seven",
+      "Ten"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barlinnie",
+      "halls"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which years did Barlinnie's Special Unit operate?",
+    "options": [
+      "1980 to 2000",
+      "1960 to 1975",
+      "1950 to 1970",
+      "1973 to 1994"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barlinnie",
+      "Special Unit"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Barlinnie is described as the largest what in Scotland?",
+    "options": [
+      "Hospital",
+      "Barracks",
+      "Prison",
+      "Court"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barlinnie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which canal ran beside Barlinnie, on what is now the route of the M8 motorway?",
+    "options": [
+      "The Union Canal",
+      "The Monkland Canal",
+      "The Forth and Clyde Canal",
+      "The Paisley Canal"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barlinnie",
+      "Monkland Canal"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "On the site of which former works will Barlinnie's replacement be built?",
+    "options": [
+      "Parkhead Forge",
+      "Pinkston Power Station",
+      "Templeton Carpet Factory",
+      "Provan Gas Works"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barlinnie",
+      "Provan Gas Works"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which year was it announced that Barlinnie would be sold and replaced by a new prison?",
+    "options": [
+      "2008",
+      "2012",
+      "2018",
+      "2023"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barlinnie",
+      "replacement"
+    ],
+    "source": "manual"
+  }
+]

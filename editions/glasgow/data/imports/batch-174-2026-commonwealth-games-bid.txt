@@ -1,0 +1,7 @@
+# Glasgow bid for the 2026 Commonwealth Games. Source: https://en.wikipedia.org/wiki/Glasgow_bid_for_the_2026_Commonwealth_Games
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | sport | On what date was Glasgow announced as host of the 2026 Commonwealth Games? | 17 September 2024 | 11 April 2024 | 30 August 2024 | 1 January 2025 | 2026 Commonwealth Games; announcement
+3 | sport | How many sports were planned for Glasgow's 2026 Commonwealth Games? | Ten | Eighteen | Fourteen | Six | 2026 Commonwealth Games; sports
+3 | sport | Which stadium was named as the athletics venue for Glasgow's 2026 Commonwealth Games? | Scotstoun Stadium | Hampden Park | Ibrox Stadium | Celtic Park | 2026 Commonwealth Games; Scotstoun; athletics
+2 | sport | Where were swimming and diving to be held at Glasgow's 2026 Commonwealth Games? | Tollcross International Swimming Centre | Govanhill Baths | Kelvin Hall | Bellahouston Leisure Centre | 2026 Commonwealth Games; Tollcross; swimming
+4 | sport | How much did the UK Government pledge towards security for Glasgow's 2026 Commonwealth Games? | £2 million | £20 million | £200,000 | £50 million | 2026 Commonwealth Games; security; funding

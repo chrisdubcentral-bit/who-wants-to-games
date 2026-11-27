@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Who conducted the opening ceremony of the 1988 Glasgow Garden Festival?",
+    "options": [
+      "The Queen and Prince Philip",
+      "The Queen Mother",
+      "Margaret Thatcher",
+      "Prince Charles and Princess Diana"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Garden Festival",
+      "opening"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Roughly how many people visited the 1988 Glasgow Garden Festival?",
+    "options": [
+      "1.2 million",
+      "4.3 million",
+      "9 million",
+      "800,000"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Garden Festival",
+      "visitors"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What was the Glasgow Garden Festival site renamed afterwards?",
+    "options": [
+      "Festival Park",
+      "Plantation Park",
+      "Clyde Quay",
+      "Pacific Quay"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Garden Festival",
+      "Pacific Quay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which pedestrian swing bridge was built across the Clyde for the 1988 Garden Festival?",
+    "options": [
+      "Bell's Bridge",
+      "Clyde Arc",
+      "Tradeston Bridge",
+      "Millennium Bridge"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Garden Festival",
+      "Bell's Bridge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "To which Welsh town was the Garden Festival's Clydesdale Bank tower moved?",
+    "options": [
+      "Rhyl",
+      "Llandudno",
+      "Aberystwyth",
+      "Swansea"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Garden Festival",
+      "Rhyl"
+    ],
+    "source": "manual"
+  }
+]

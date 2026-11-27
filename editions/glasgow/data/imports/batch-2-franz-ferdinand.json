@@ -1,0 +1,206 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "Who is the lead singer of Franz Ferdinand?",
+    "options": [
+      "Bobby Gillespie",
+      "Fran Healy",
+      "Stuart Murdoch",
+      "Alex Kapranos"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Franz Ferdinand",
+      "Alex Kapranos"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which 2004 single gave Franz Ferdinand their big breakthrough, reaching No. 3 in the UK?",
+    "options": [
+      "Do You Want To",
+      "Ulysses",
+      "Darts of Pleasure",
+      "Take Me Out"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Franz Ferdinand",
+      "Take Me Out"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "labels-scene",
+    "difficulty": 2,
+    "question": "Which independent label signed Franz Ferdinand in 2003?",
+    "options": [
+      "Rough Trade",
+      "Domino",
+      "Chemikal Underground",
+      "Creation"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Franz Ferdinand",
+      "Domino Records",
+      "Laurence Bell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which prize did Franz Ferdinand's self-titled debut album win in September 2004?",
+    "options": [
+      "Grammy Award",
+      "Scottish Album of the Year",
+      "Mercury Music Prize",
+      "Ivor Novello Award"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Franz Ferdinand",
+      "Mercury Prize 2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Franz Ferdinand took their name from a racehorse that won which race in 2001?",
+    "options": [
+      "Grand National",
+      "Ebor Handicap",
+      "Scottish Grand National",
+      "Northumberland Plate"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Franz Ferdinand",
+      "band name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "What was Franz Ferdinand's debut single, released in 2003?",
+    "options": [
+      "Take Me Out",
+      "The Dark of the Matinee",
+      "This Fire",
+      "Darts of Pleasure"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Franz Ferdinand",
+      "Darts of Pleasure"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Franz Ferdinand album reached No. 1 in the UK in 2005?",
+    "options": [
+      "Tonight: Franz Ferdinand",
+      "You Could Have It So Much Better",
+      "Always Ascending",
+      "Franz Ferdinand"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Franz Ferdinand",
+      "You Could Have It So Much Better"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which American band joined Franz Ferdinand to form the supergroup FFS in 2015?",
+    "options": [
+      "Devo",
+      "Talking Heads",
+      "Sparks",
+      "The B-52's"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Franz Ferdinand",
+      "FFS",
+      "Sparks"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "In which Swedish city did Franz Ferdinand record their debut album?",
+    "options": [
+      "Uppsala",
+      "Gothenburg",
+      "Stockholm",
+      "Malmö"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Franz Ferdinand",
+      "Malmö",
+      "Tore Johansson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "songs-albums",
+    "difficulty": 5,
+    "question": "Q magazine named which Franz Ferdinand song its best single of 2005?",
+    "options": [
+      "Eleanor Put Your Boots On",
+      "The Fallen",
+      "Walk Away",
+      "Do You Want To"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Franz Ferdinand",
+      "Do You Want To",
+      "Q"
+    ],
+    "source": "manual"
+  }
+]

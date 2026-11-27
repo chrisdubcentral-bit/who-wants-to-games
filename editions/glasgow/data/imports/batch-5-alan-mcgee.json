@@ -1,0 +1,209 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "labels-scene",
+    "difficulty": 1,
+    "question": "Which record label did Glaswegian Alan McGee co-found in 1983?",
+    "options": [
+      "Domino",
+      "Creation Records",
+      "Chemikal Underground",
+      "Postcard Records"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alan McGee",
+      "Creation Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "labels-scene",
+    "difficulty": 2,
+    "question": "Which Manchester band saved Alan McGee's Creation Records from receivership?",
+    "options": [
+      "Happy Mondays",
+      "The Stone Roses",
+      "Inspiral Carpets",
+      "Oasis"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Alan McGee",
+      "Creation Records",
+      "Oasis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "At King's Park Secondary School, Alan McGee met which future Primal Scream frontman?",
+    "options": [
+      "Andrew Innes",
+      "Bobby Gillespie",
+      "Jim Reid",
+      "Norman Blake"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alan McGee",
+      "Bobby Gillespie",
+      "King's Park Secondary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "labels-scene",
+    "difficulty": 2,
+    "question": "Which 1960s cult band was Creation Records named after?",
+    "options": [
+      "The Creatures",
+      "The Move",
+      "The Action",
+      "The Creation"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Creation Records",
+      "The Creation"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which area of Glasgow was Alan McGee born in 1960?",
+    "options": [
+      "Dennistoun",
+      "Partick",
+      "Maryhill",
+      "Govan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alan McGee",
+      "Partick"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "labels-scene",
+    "difficulty": 3,
+    "question": "In 1992, Alan McGee sold half of Creation Records to which company?",
+    "options": [
+      "Warner Music",
+      "Universal",
+      "Sony Music",
+      "EMI"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alan McGee",
+      "Creation Records",
+      "Sony"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "labels-scene",
+    "difficulty": 3,
+    "question": "Which band's first single came out on Creation in November 1984, with McGee as their manager?",
+    "options": [
+      "My Bloody Valentine",
+      "Primal Scream",
+      "Teenage Fanclub",
+      "The Jesus and Mary Chain"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Alan McGee",
+      "The Jesus and Mary Chain",
+      "Creation Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which 2021 film, adapted by Irvine Welsh and Dean Cavanagh, tells Alan McGee's story?",
+    "options": [
+      "Creation Stories",
+      "Upside Down",
+      "Svengali",
+      "Kubricks"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alan McGee",
+      "Creation Stories",
+      "Irvine Welsh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "labels-scene",
+    "difficulty": 4,
+    "question": "Which Primal Scream album was the final album released on Creation Records?",
+    "options": [
+      "XTRMNTR",
+      "Give Out But Don't Give Up",
+      "Vanishing Point",
+      "Screamadelica"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Creation Records",
+      "Primal Scream",
+      "XTRMNTR"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "labels-scene",
+    "difficulty": 4,
+    "question": "Which award did the NME give Alan McGee in February 1996?",
+    "options": [
+      "Lifetime Achievement",
+      "Hero of the Year",
+      "Godlike Genius",
+      "Outstanding Contribution"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alan McGee",
+      "NME",
+      "Godlike Genius"
+    ],
+    "source": "manual"
+  }
+]

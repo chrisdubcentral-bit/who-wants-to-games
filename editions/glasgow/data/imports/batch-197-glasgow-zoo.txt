@@ -1,0 +1,12 @@
+# Glasgow Zoo (Calderpark). Source: https://en.wikipedia.org/wiki/Glasgow_Zoo
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | Glasgow Zoo was also known by the name of which estate? | Calderpark | Pollok | Linn | Tollcross | Glasgow Zoo; Calderpark
+2 | history | In which part of Glasgow was Glasgow Zoo? | Baillieston | Govan | Maryhill | Shawlands | Glasgow Zoo; Baillieston
+3 | history | In which year did Glasgow Zoo open? | 1947 | 1936 | 1955 | 1962 | Glasgow Zoo; 1947
+2 | history | In which year did Glasgow Zoo close? | 2003 | 1995 | 1999 | 2008 | Glasgow Zoo; 2003
+3 | history | What was the name of Glasgow Zoo's polar bear? | Winston | Hamish | Teddy | Nanook | Glasgow Zoo; polar bear; Winston
+3 | history | Along with the lions, which rare bird was a prize exhibit when Glasgow Zoo opened? | A white peacock | A golden eagle | A pink flamingo | A snowy owl | Glasgow Zoo; white peacock
+4 | history | Which Tintin book features Glasgow Zoo? | The Black Island | The Shooting Star | Cigars of the Pharaoh | The Calculus Affair | Glasgow Zoo; Tintin; The Black Island
+4 | history | Some Glasgow Zoo enclosures were built from metal taken from what? | Battleships | Tramcars | Railway bridges | Shipyard cranes | Glasgow Zoo; wartime
+4 | history | Which zoology professor founded the Zoological Society of Glasgow in 1936? | Edward Hindle | Julian Huxley | Gerald Durrell | David Attenborough | Glasgow Zoo; Edward Hindle
+5 | history | From which island did Glasgow Zoo's Soay sheep come? | St Kilda | Arran | Islay | Mull | Glasgow Zoo; Soay sheep; St Kilda

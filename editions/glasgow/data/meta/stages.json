@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "stages": [
+    { "order": 1, "key": "nice-n-sleazys", "label": "Nice N Sleazys", "short": "SLZ",  "difficulty": [1, 1] },
+    { "order": 2, "key": "king-tuts",      "label": "King Tuts",      "short": "TUTS", "difficulty": [1, 2] },
+    { "order": 3, "key": "art-school",     "label": "The Art School", "short": "ART",  "difficulty": [2, 2] },
+    { "order": 4, "key": "qmu",            "label": "QMU",            "short": "QMU",  "difficulty": [2, 3] },
+    { "order": 5, "key": "oran-mor",       "label": "Oran Mor",       "short": "ORAN", "difficulty": [3, 3] },
+    { "order": 6, "key": "swg3",           "label": "SWG3",           "short": "SWG3", "difficulty": [3, 4] },
+    { "order": 7, "key": "the-academy",    "label": "The Academy",    "short": "ACAD", "difficulty": [4, 5] },
+    { "order": 8, "key": "the-barras",     "label": "The Barras",     "short": "BARR", "difficulty": [5, 5] }
+  ]
+}

@@ -1,0 +1,12 @@
+# Goldbergs department store. Source: https://en.wikipedia.org/wiki/Goldbergs
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | On which Glasgow street was the Goldbergs flagship store? | Candleriggs | Sauchiehall Street | Argyle Street | Buchanan Street | Goldbergs; Candleriggs
+2 | history | In which year did the Glasgow retailer Goldbergs cease trading? | 1990 | 1979 | 1985 | 1998 | Goldbergs
+3 | history | In which year did Abraham Goldberg found the business that became Goldbergs? | 1908 | 1888 | 1925 | 1934 | Goldbergs; Abraham Goldberg
+3 | history | Which young fashion chain did Goldbergs launch in 1979? | Wrygges | Topshop | Miss Selfridge | Etam | Goldbergs; Wrygges
+3 | history | Which shoe firm did Goldbergs hold a 90% stake in during the 1980s? | Schuh | Clarks | Barratts | Saxone | Goldbergs; schuh
+3 | history | Goldbergs held a major stake in which fashion brand, saved by its founder in 1990? | Ted Baker | Next | Hobbs | Jigsaw | Goldbergs; Ted Baker
+3 | history | What was the name of Goldbergs' in-house credit card? | Stylecard | Goldcard | Glasgow Card | Fashioncard | Goldbergs; Stylecard
+4 | history | What did Vera and Gerald Weisfeld open in the old Goldbergs Candleriggs store in 1994? | A discount store called Weisfelds | A nightclub | An indoor market | A furniture showroom | Goldbergs; Weisfelds; Candleriggs
+4 | history | Which department store bought the Goldbergs site but shelved plans for its first Scottish store? | Selfridges | John Lewis | Harvey Nichols | House of Fraser | Goldbergs; Selfridges
+4 | history | In which Edinburgh district did Goldbergs open a store with a rooftop restaurant in 1963? | Tollcross | Leith | Morningside | Stockbridge | Goldbergs; Edinburgh; Tollcross

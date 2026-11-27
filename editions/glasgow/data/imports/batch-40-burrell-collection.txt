@@ -1,0 +1,12 @@
+# Burrell Collection. Source: https://en.wikipedia.org/wiki/Burrell_Collection
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | What was Sir William Burrell's business? | Shipping | Tobacco | Whisky | Banking | Burrell Collection; William Burrell
+2 | art-culture | Who officially opened the Burrell Collection building in 1983? | Queen Elizabeth II | Prince Charles | Margaret Thatcher | The Queen Mother | Burrell Collection; 1983
+2 | art-culture | In which year did Sir William Burrell and his wife give their collection to Glasgow? | 1944 | 1925 | 1958 | 1967 | Burrell Collection; 1944
+3 | art-culture | Which French artist is the Burrell Collection known for holding over 20 works by? | Edgar Degas | Claude Monet | Paul Cézanne | Henri Matisse | Burrell Collection; Degas
+3 | art-culture | Which award did the Burrell Collection win in 2023 after its refurbishment? | Art Fund Museum of the Year | Stirling Prize | Turner Prize | European Museum of the Year | Burrell Collection; Art Fund Museum of the Year
+3 | art-culture | In which year did the Burrell Collection reopen after its refurbishment? | 2022 | 2019 | 2020 | 2024 | Burrell Collection; reopening
+3 | art-culture | Who won the competition to design the Burrell Collection building? | Barry Gasson | Norman Foster | Zaha Hadid | Basil Spence | Burrell Collection; Barry Gasson
+4 | art-culture | Which king officially reopened the Burrell Collection in October 2022? | King Charles III | King William | King George | King Edward | Burrell Collection; King Charles III
+4 | art-culture | How much did the Burrell Collection's refurbishment cost? | £68.25 million | £9.6 million | £29.8 million | £120 million | Burrell Collection; refurbishment
+4 | art-culture | The famous Wagner Garden Carpet in the Burrell Collection comes from which country? | Iran | Turkey | India | China | Burrell Collection; Wagner Garden Carpet

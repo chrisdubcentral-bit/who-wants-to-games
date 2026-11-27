@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which X-Men character did James McAvoy play from X-Men: First Class onwards?",
+    "options": [
+      "Charles Xavier",
+      "Magneto",
+      "Wolverine",
+      "Cyclops"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "James McAvoy",
+      "X-Men",
+      "Charles Xavier"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which faun did James McAvoy play in The Chronicles of Narnia?",
+    "options": [
+      "Mr Tumnus",
+      "Aslan",
+      "Reepicheep",
+      "Mr Beaver"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "James McAvoy",
+      "Narnia",
+      "Mr Tumnus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In which Glasgow scheme did James McAvoy live with his grandparents as a boy?",
+    "options": [
+      "Drumchapel",
+      "Pollok",
+      "Easterhouse",
+      "Castlemilk"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "James McAvoy",
+      "Drumchapel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In which 2007 film did James McAvoy play Robbie, his breakthrough role?",
+    "options": [
+      "Atonement",
+      "Penelope",
+      "Starter for 10",
+      "Becoming Jane"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "James McAvoy",
+      "Atonement"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which award did James McAvoy win as its very first recipient in 2006?",
+    "options": [
+      "Empire Newcomer",
+      "BAFTA Rising Star",
+      "Golden Globe",
+      "Olivier Award"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "James McAvoy",
+      "BAFTA Rising Star"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which 2006 film did James McAvoy play a Scottish doctor alongside Idi Amin?",
+    "options": [
+      "The Last King of Scotland",
+      "The Constant Gardener",
+      "Blood Diamond",
+      "Hotel Rwanda"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "James McAvoy",
+      "The Last King of Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which character did James McAvoy play in the first two series of Shameless?",
+    "options": [
+      "Frank Gallagher",
+      "Steve McBride",
+      "Lip Gallagher",
+      "Kev Ball"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "James McAvoy",
+      "Shameless"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which M. Night Shyamalan film did James McAvoy play a man with 23 identities?",
+    "options": [
+      "Signs",
+      "The Village",
+      "Old",
+      "Split"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "James McAvoy",
+      "Split"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which character did James McAvoy play in His Dark Materials?",
+    "options": [
+      "Iorek Byrnison",
+      "Lord Asriel",
+      "Lee Scoresby",
+      "Lord Boreal"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "James McAvoy",
+      "His Dark Materials"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which service had accepted James McAvoy before he took up drama school?",
+    "options": [
+      "The Royal Navy",
+      "The Army",
+      "The RAF",
+      "The Police"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "James McAvoy",
+      "Royal Navy"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "Who is the lead singer of Texas?",
+    "options": [
+      "Clare Grogan",
+      "Eddi Reader",
+      "Sharleen Spiteri",
+      "Lorraine McIntosh"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Texas",
+      "Sharleen Spiteri"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "What was Texas's debut single, a UK No. 8 in 1989?",
+    "options": [
+      "Say What You Want",
+      "Summer Son",
+      "Black Eyed Boy",
+      "I Don't Want a Lover"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Texas",
+      "I Don't Want a Lover",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which Texas album went to No. 1 in the UK in 1997?",
+    "options": [
+      "The Hush",
+      "Southside",
+      "White on Blonde",
+      "Ricks Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Texas",
+      "White on Blonde",
+      "1997"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which hip-hop group added rap vocals to a new version of \"Say What You Want\"?",
+    "options": [
+      "De La Soul",
+      "Cypress Hill",
+      "Public Enemy",
+      "Wu-Tang Clan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Texas",
+      "Wu-Tang Clan",
+      "Say What You Want"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "What was the title of Texas's debut album, released in 1989?",
+    "options": [
+      "Red Book",
+      "Southside",
+      "Ricks Road",
+      "Mothers Heaven"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Texas",
+      "Southside",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "What job was Sharleen Spiteri doing in Glasgow when Texas formed?",
+    "options": [
+      "Hairdresser",
+      "Nurse",
+      "Shop assistant",
+      "Waitress"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Texas",
+      "Sharleen Spiteri"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Texas song, a UK No. 4 in 1999, featured on the Notting Hill soundtrack?",
+    "options": [
+      "In Demand",
+      "When We Are Together",
+      "Summer Son",
+      "In Our Lifetime"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Texas",
+      "In Our Lifetime",
+      "Notting Hill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which actor appeared in the video for Texas's 2000 single \"In Demand\"?",
+    "options": [
+      "Ewan McGregor",
+      "Peter Capaldi",
+      "Alan Rickman",
+      "Robert Carlyle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Texas",
+      "In Demand",
+      "Alan Rickman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Where did Texas play their first ever gig, in March 1988?",
+    "options": [
+      "Glasgow School of Art",
+      "University of Dundee",
+      "QMU, Glasgow",
+      "University of Stirling"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Texas",
+      "first gig",
+      "Dundee"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which Blue Nile singer joined Texas on their 2006 single \"Sleep\"?",
+    "options": [
+      "Paul Buchanan",
+      "Ricky Ross",
+      "Justin Currie",
+      "Edwyn Collins"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Texas",
+      "Sleep",
+      "Paul Buchanan",
+      "The Blue Nile"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "In which year did Salvador Dalí paint Christ of Saint John of the Cross?",
+    "options": [
+      "1931",
+      "1944",
+      "1965",
+      "1951"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Dalí",
+      "Christ of Saint John of the Cross"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Glasgow Museums director bought Dalí's Christ of Saint John of the Cross in 1952?",
+    "options": [
+      "Mark O'Neill",
+      "Tom Honeyman",
+      "Julian Spalding",
+      "Francis Newbery"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Dalí",
+      "Tom Honeyman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "How much did Glasgow pay for Dalí's Christ of Saint John of the Cross, including the copyright?",
+    "options": [
+      "£25,000",
+      "£8,200",
+      "£1,200",
+      "£82,000"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Dalí",
+      "price"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which year was Dalí's Christ of Saint John of the Cross voted Scotland's favourite painting?",
+    "options": [
+      "2016",
+      "1986",
+      "2006",
+      "1996"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dalí",
+      "favourite painting"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which bay, where Dalí lived, appears in Christ of Saint John of the Cross?",
+    "options": [
+      "Portlligat",
+      "Barcelona",
+      "Cadaqués",
+      "Tossa de Mar"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Dalí",
+      "Portlligat"
+    ],
+    "source": "manual"
+  }
+]

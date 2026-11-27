@@ -1,0 +1,106 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "famous-glaswegians",
+    "difficulty": 1,
+    "question": "Which BBC show was Duncan Bannatyne a Dragon on from 2005 to 2015?",
+    "options": [
+      "The Apprentice",
+      "Undercover Boss",
+      "Shark Tank",
+      "Dragons' Den"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Duncan Bannatyne",
+      "Dragons' Den"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Duncan Bannatyne's business career began with what, bought for £450?",
+    "options": [
+      "An ice cream van",
+      "A taxi",
+      "A market stall",
+      "A fish and chip van"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Duncan Bannatyne",
+      "ice cream van"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "Which armed service did Duncan Bannatyne join in 1964?",
+    "options": [
+      "The British Army",
+      "The Royal Air Force",
+      "The Merchant Navy",
+      "The Royal Navy"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Duncan Bannatyne",
+      "Royal Navy",
+      "1964"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "Duncan Bannatyne sold which nursing home business for £26 million in 1997?",
+    "options": [
+      "Just Learning",
+      "Bannatyne Care",
+      "Caring Homes Group",
+      "Quality Care Homes"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Duncan Bannatyne",
+      "Quality Care Homes",
+      "1997"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "From which hotel group did Duncan Bannatyne buy 26 health clubs in 2006?",
+    "options": [
+      "Marriott",
+      "Hilton",
+      "Radisson",
+      "Holiday Inn"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Duncan Bannatyne",
+      "Bannatyne Group",
+      "Hilton",
+      "2006"
+    ],
+    "source": "manual"
+  }
+]

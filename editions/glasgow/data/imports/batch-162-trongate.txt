@@ -1,0 +1,7 @@
+# Trongate. Source: https://en.wikipedia.org/wiki/Trongate
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | The "tron" in Trongate is a Scots word meaning what? | Weighing scales | A market | A church | A gate | Trongate; name
+3 | landmarks | At which junction does Trongate become Argyle Street? | Glassford Street | Queen Street | Union Street | Saltmarket | Trongate; Argyle Street
+3 | landmarks | What was the Tron church redeveloped as in the 1980s? | The Tron Theatre | A museum | A nightclub | A library | Trongate; Tron Theatre
+3 | landmarks | What was Trongate known as before it took its current name? | St Thenew's Gait | Westergait | The Drygate | High Gait | Trongate; St Thenew's Gait
+4 | landmarks | In which year did a fire on the Trongate destroy a third of Glasgow? | 1652 | 1793 | 1560 | 1711 | Trongate; 1652 fire

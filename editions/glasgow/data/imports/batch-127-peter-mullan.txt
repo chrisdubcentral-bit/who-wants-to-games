@@ -1,0 +1,12 @@
+# Peter Mullan. Source: https://en.wikipedia.org/wiki/Peter_Mullan
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | For which Ken Loach film did Peter Mullan win Best Actor at Cannes? | My Name Is Joe | Riff-Raff | Sweet Sixteen | Kes | Peter Mullan; My Name Is Joe; Cannes
+2 | film-tv | Which character did Peter Mullan play in Trainspotting? | Johnny "Mother Superior" Swan | Begbie | Spud | Tommy | Peter Mullan; Trainspotting
+2 | film-tv | Which dwarf king did Peter Mullan play in The Rings of Power? | Durin III | Thorin | Thrór | Dáin | Peter Mullan; Rings of Power
+3 | film-tv | Which film directed by Peter Mullan won the Golden Lion at Venice in 2002? | The Magdalene Sisters | Neds | Orphans | Tyrannosaur | Peter Mullan; The Magdalene Sisters
+3 | film-tv | In which Scottish town was Peter Mullan born? | Peterhead | Paisley | Greenock | Fraserburgh | Peter Mullan; Peterhead
+3 | famous-glaswegians | To which district of Glasgow did Peter Mullan's family move? | Mosspark | Govan | Partick | Maryhill | Peter Mullan; Mosspark
+3 | film-tv | Which Death Eater did Peter Mullan play in Harry Potter and the Deathly Hallows? | Yaxley | Dolohov | Rookwood | Macnair | Peter Mullan; Harry Potter; Yaxley
+3 | film-tv | Which Peter Mullan film won the Golden Shell at San Sebastián in 2010? | Neds | Orphans | The Magdalene Sisters | Hallam Foe | Peter Mullan; Neds
+3 | film-tv | Which character did Peter Mullan play in Ozark? | Jacob Snell | Marty Byrde | Del Rio | Roy Petty | Peter Mullan; Ozark
+4 | film-tv | Which character did Peter Mullan play in Westworld? | James Delos | Robert Ford | Logan Delos | William | Peter Mullan; Westworld

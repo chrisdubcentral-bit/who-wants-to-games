@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Queen's Park, beside Shawlands, is dedicated to which queen?",
+    "options": [
+      "Mary, Queen of Scots",
+      "Queen Anne",
+      "Queen Margaret",
+      "Queen Victoria"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Shawlands",
+      "Queen's Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Who designed Queen's Park in Glasgow?",
+    "options": [
+      "Alexander Thomson",
+      "Capability Brown",
+      "Sir Joseph Paxton",
+      "Charles Rennie Mackintosh"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shawlands",
+      "Queen's Park",
+      "Joseph Paxton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which 16th-century battle was fought on the site of Queen's Park?",
+    "options": [
+      "The Battle of Bothwell Bridge",
+      "The Battle of Pinkie",
+      "The Battle of Flodden",
+      "The Battle of Langside"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shawlands",
+      "Battle of Langside"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which two roads converge at Shawlands Cross?",
+    "options": [
+      "Cathcart Road and Victoria Road",
+      "Paisley Road and Govan Road",
+      "Barrhead Road and Nether Auldhouse Road",
+      "Kilmarnock Road and Pollokshaws Road"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shawlands Cross"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which magazine named Shawlands one of the world's coolest neighbourhoods?",
+    "options": [
+      "Monocle",
+      "Time Out",
+      "Vogue",
+      "The Economist"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shawlands",
+      "Time Out"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "art-culture",
+    "difficulty": 1,
+    "question": "What is the title of Alasdair Gray's best-known novel, published in 1981?",
+    "options": [
+      "1982, Janine",
+      "Poor Things",
+      "Lanark",
+      "The Busconductor Hines"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alasdair Gray",
+      "Lanark"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which Alasdair Gray novel was made into a film starring Emma Stone?",
+    "options": [
+      "1982, Janine",
+      "Poor Things",
+      "Something Leather",
+      "Lanark"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alasdair Gray",
+      "Poor Things",
+      "Emma Stone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Alasdair Gray's motto \"Work as if you live in the early days of a better...\" what?",
+    "options": [
+      "World",
+      "City",
+      "Nation",
+      "Scotland"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alasdair Gray",
+      "motto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Alasdair Gray painted a famous ceiling mural in which Byres Road venue?",
+    "options": [
+      "Òran Mór",
+      "Hillhead Bookclub",
+      "The Ubiquitous Chip",
+      "The Grosvenor"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alasdair Gray",
+      "Òran Mór"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which area of north-east Glasgow was Alasdair Gray born?",
+    "options": [
+      "Riddrie",
+      "Springburn",
+      "Dennistoun",
+      "Royston"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alasdair Gray",
+      "Riddrie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Where is Alasdair Gray's motto engraved?",
+    "options": [
+      "Glasgow Central Station",
+      "The Canongate Wall of the Scottish Parliament",
+      "George Square",
+      "The Hunterian"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alasdair Gray",
+      "Scottish Parliament"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "At which Glasgow subway station does an Alasdair Gray mural survive?",
+    "options": [
+      "St Enoch",
+      "Partick",
+      "Hillhead",
+      "Kelvinbridge"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alasdair Gray",
+      "Hillhead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which prizes did Alasdair Gray's Poor Things win in 1992?",
+    "options": [
+      "Pulitzer and Hugo",
+      "Orange and Saltire",
+      "Whitbread and Guardian Fiction",
+      "Booker and Costa"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alasdair Gray",
+      "Poor Things"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which Still Game star narrowly beat Alasdair Gray to the Glasgow University rectorship in 2001?",
+    "options": [
+      "Paul Riley",
+      "Greg Hemphill",
+      "Sanjeev Kohli",
+      "Ford Kiernan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alasdair Gray",
+      "Greg Hemphill",
+      "rector"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "What was Alasdair Gray's role at the People's Palace in 1977–78?",
+    "options": [
+      "Head of design",
+      "Writer-in-residence",
+      "Glasgow's \"artist recorder\"",
+      "Curator"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alasdair Gray",
+      "People's Palace"
+    ],
+    "source": "manual"
+  }
+]

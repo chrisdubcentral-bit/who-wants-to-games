@@ -10,6 +10,11 @@
   <link rel="apple-touch-icon" href="media/brand/icon-180.png">
   <meta name="theme-color" content="#0b0f0d">
   <link rel="stylesheet" href="site.css">
+<!-- edition-styles:start (tools/build.js links each hosted edition's about-card.css here) -->
+  <link rel="stylesheet" href="editions/beatles/about-card.css">
+  <link rel="stylesheet" href="editions/celtic/about-card.css">
+  <link rel="stylesheet" href="editions/glasgow/about-card.css">
+<!-- edition-styles:end -->
 </head>
 <body>
   <main>
@@ -19,18 +24,34 @@
     <p class="lead">Quick-fire quiz games where one wrong answer and you're out.<br>Pick a quiz, climb the stages and see if you can make the Top 40.</p>
 
     <h2>Our quizzes</h2>
-    <ul class="editions">
-<!-- editions:start (tools/build.js replaces this list with the hosted editions) -->
-      <li><a class="edition" href="editions/celtic/index.html" style="--card: #06100B"><img src="editions/celtic/assets/img/logo.svg" alt="" width="64" height="64"><span class="text"><span class="title">Celtic Edition</span><span class="desc">Development list: the build fills this in.</span></span><span class="play" aria-hidden="true">Play</span></a></li>
-      <li><a class="edition" href="editions/beatles/index.html" style="--card: #000000"><img src="editions/beatles/assets/img/logo.svg" alt="" width="64" height="64"><span class="text"><span class="title">Beatles Edition</span><span class="desc">Development list: the build fills this in.</span></span><span class="play" aria-hidden="true">Play</span></a></li>
+    <div class="stage" tabindex="0" role="region" aria-roledescription="carousel" aria-label="Our quizzes. Use the left and right arrow keys to move between them.">
+      <div class="viewport">
+        <div class="floor" aria-hidden="true"></div>
+<!-- editions:start (tools/build.js replaces these cards with the hosted editions) -->
+          <div class="card" data-title="Who Wants To Play Shea Stadium · Beatles Edition" data-desc="Take The Beatles from Hamburg to Shea Stadium in this music knowledge quiz."><a class="front beatles" href="editions/beatles/index.html" style="--card: #000000" draggable="false" aria-label="Play Who Wants To Play Shea Stadium · Beatles Edition"><span class="bg"></span><span class="inner"><img class="prize" src="editions/beatles/assets/img/shea-ticket.webp" alt="" draggable="false"><span class="top">Who Wants To Play</span><span class="accent">Shea Stadium</span><span class="edition">Beatles Edition</span><span class="tagline">Take The Beatles from Hamburg to Shea Stadium. Eight venues. One wrong answer and it's over.</span><span class="start">Kick Off Tour</span></span></a></div>
+          <div class="card" data-title="Who Wants To Win The European Cup · Celtic Edition" data-desc="Guide Celtic through a European campaign in this football knowledge quiz."><a class="front celtic" href="editions/celtic/index.html" style="--card: #06100B" draggable="false" aria-label="Play Who Wants To Win The European Cup · Celtic Edition"><span class="bg"></span><span class="inner"><img class="prize" src="editions/celtic/assets/img/trophy-placeholder.svg" alt="" draggable="false"><span class="top">Who Wants To Win</span><span class="accent">The European Cup</span><span class="edition">Celtic Edition</span><span class="tagline">Guide Celtic through a European campaign. Eight ties. One wrong answer and you're out.</span><span class="start">Kick Off</span></span></a></div>
+          <div class="card" data-title="Who Wants To Play The Barras · Glasgow Edition" data-desc="Take your band from Nice N Sleazys to The Barras in this Glasgow quiz."><a class="front glasgow" href="editions/glasgow/index.html" style="--card: #0a0606" draggable="false" aria-label="Play Who Wants To Play The Barras · Glasgow Edition"><span class="bg"></span><span class="inner"><img class="prize" src="editions/glasgow/assets/img/barras-stamp.png" alt="" draggable="false"><span class="top">Who Wants To Play</span><span class="accent">The Barras</span><span class="edition">Glasgow Quiz</span><span class="tagline">Take your band from Nice N Sleazys to The Barras. Eight Glasgow venues. One wrong answer and it's over.</span><span class="start">Start The Tour</span></span></a></div>
 <!-- editions:end -->
-    </ul>
+      </div>
+      <button class="arrow prev" type="button" aria-label="Previous quiz"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+      <button class="arrow next" type="button" aria-label="Next quiz"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+    </div>
+    <div class="dots"></div>
+    <p class="caption" aria-live="polite"></p>
 
     <h2>Follow us</h2>
     <div class="links">
       <a class="btn" href="https://x.com/WhoWants2Win" target="_blank" rel="noopener">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
         @WhoWants2Win on X
+      </a>
+      <a class="btn" href="https://www.instagram.com/whowantstowingames/" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41a3.72 3.72 0 0 1-1.38-.9 3.72 3.72 0 0 1-.9-1.38c-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41C8.42 2.17 8.8 2.16 12 2.16M12 0C8.74 0 8.33.01 7.05.07 5.78.13 4.9.33 4.14.63c-.79.3-1.46.72-2.13 1.38A5.88 5.88 0 0 0 .63 4.14C.33 4.9.13 5.78.07 7.05.01 8.33 0 8.74 0 12s.01 3.67.07 4.95c.06 1.27.26 2.15.56 2.91.3.79.72 1.46 1.38 2.13a5.88 5.88 0 0 0 2.13 1.38c.76.3 1.64.5 2.91.56C8.33 23.99 8.74 24 12 24s3.67-.01 4.95-.07c1.27-.06 2.15-.26 2.91-.56a5.88 5.88 0 0 0 2.13-1.38 5.88 5.88 0 0 0 1.38-2.13c.3-.76.5-1.64.56-2.91.06-1.28.07-1.69.07-4.95s-.01-3.67-.07-4.95c-.06-1.27-.26-2.15-.56-2.91a5.88 5.88 0 0 0-1.38-2.13A5.88 5.88 0 0 0 19.86.63C19.1.33 18.22.13 16.95.07 15.67.01 15.26 0 12 0zm0 5.84a6.16 6.16 0 1 0 0 12.32 6.16 6.16 0 0 0 0-12.32zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.4-11.85a1.44 1.44 0 1 0 0 2.88 1.44 1.44 0 0 0 0-2.88z"/></svg>
+        @whowantstowingames on Instagram
+      </a>
+      <a class="btn" href="https://www.facebook.com/profile.php?id=61597127965129" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M24 12.07C24 5.41 18.63 0 12 0S0 5.41 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.05V9.41c0-3.02 1.79-4.69 4.53-4.69 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.95.93-1.95 1.89v2.25h3.33l-.53 3.49h-2.8V24C19.61 23.1 24 18.1 24 12.07z"/></svg>
+        Who Wants To Win on Facebook
       </a>
     </div>
 
@@ -40,5 +61,6 @@
       <a class="btn btn-primary" href="contact.html">Contact us</a>
     </div>
   </main>
+  <script src="about.js"></script>
 </body>
 </html>

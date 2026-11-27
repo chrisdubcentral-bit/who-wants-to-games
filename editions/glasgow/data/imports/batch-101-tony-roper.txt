@@ -1,0 +1,7 @@
+# Tony Roper. Source: https://en.wikipedia.org/wiki/Tony_Roper_(actor)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | film-tv | Tony Roper played the postman in which 1973 cult film? | The Wicker Man | Get Carter | Don't Look Now | The Prime of Miss Jean Brodie | Tony Roper; The Wicker Man
+3 | film-tv | Which comedy legend did Tony Roper play in the stage show Rikki and Me? | Rikki Fulton | Stanley Baxter | Chic Murray | Jimmy Logan | Tony Roper; Rikki Fulton
+3 | sport | Which charity football team did Tony Roper co-found in the 1980s? | Dukla Pumpherston | Partizan Possil | Real Mulvenny | Inter Shettleston | Tony Roper; Dukla Pumpherston
+4 | art-culture | What is the title of Tony Roper's 2014 autobiography? | I'll No Tell You Again | Jamesie and Me | Up the Steamie | A Wee Bit of Rab | Tony Roper; autobiography
+4 | art-culture | What did Tony Roper win a BAFTA for? | Writing The Steamie | Playing Jamesie Cotter | Directing Naked Video | Hosting Scotch and Wry | Tony Roper; BAFTA; The Steamie

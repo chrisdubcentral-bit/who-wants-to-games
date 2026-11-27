@@ -1,0 +1,7 @@
+# Buckfast Tonic Wine. Source: https://en.wikipedia.org/wiki/Buckfast_Tonic_Wine
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | food-drink | Buckfast Tonic Wine was originally made by monks at which abbey? | Buckfast Abbey | Melrose Abbey | Paisley Abbey | Fort Augustus Abbey | Buckfast
+2 | food-drink | In which English county is Buckfast Abbey? | Devon | Cornwall | Somerset | Dorset | Buckfast; Devon
+2 | food-drink | Which stimulant does Buckfast Tonic Wine famously contain? | Caffeine | Taurine | Guarana | Ginseng | Buckfast; caffeine
+3 | food-drink | Which company distributes Buckfast in Great Britain? | J. Chandler & Company | A.G. Barr | Diageo | Whyte & Mackay | Buckfast; J. Chandler
+3 | food-drink | Which nickname for Buckfast is named after a Lanarkshire town? | Coatbridge Table Wine | Motherwell Merlot | Airdrie Ale | Hamilton Hooch | Buckfast; nickname

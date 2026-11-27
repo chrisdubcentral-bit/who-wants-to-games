@@ -1,0 +1,7 @@
+# Barrowland Ballroom. Source: https://en.wikipedia.org/wiki/Barrowland_Ballroom
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | venues-gigs | Which Simple Minds video, filmed there in 1983, relaunched the Barrowland as a concert venue? | Waterfront | Don't You (Forget About Me) | Alive and Kicking | Promised You a Miracle | Barrowland; Simple Minds; Waterfront
+2 | venues-gigs | Who built the original Barrowland Ballroom, and was known as the "Barras Queen"? | Maggie McIver | Mary Barbour | Margaret Thomson | Jessie Kesson | Barrowland; Maggie McIver
+3 | venues-gigs | In which year did the original Barrowland Ballroom open? | 1934 | 1948 | 1960 | 1922 | Barrowland
+3 | venues-gigs | Which band has played sold-out Barrowland gigs every St Patrick's Day since 1992? | Stiff Little Fingers | The Pogues | The Undertones | Runrig | Barrowland; Stiff Little Fingers
+4 | venues-gigs | On what date did the rebuilt Barrowland Ballroom reopen after the 1958 fire? | 24 December 1960 | 1 January 1960 | 31 December 1959 | 14 February 1961 | Barrowland; 1958 fire

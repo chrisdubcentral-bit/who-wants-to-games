@@ -1,0 +1,105 @@
+/* Glasgow edition colours and design tokens: "Red Wash", after a gig at the Barras photographed in red stage light,
+   turned black and white like a fly-poster: signal red, bone white and near-black. Every edition has its own theme.css
+   with these same names. Loaded before the engine's stylesheets (engine/css). Extra Glasgow-only styling (the gig
+   photo, grain, poster lettering, the torn fly-poster question) is in edition.css, loaded after them. */
+:root {
+  /* Game show look (used by engine/css/chrome.css) */
+  --studio-bg: #0a0606;
+  --studio-glow-top: rgba(212, 20, 28, 0.16);
+  --studio-glow-bottom: rgba(212, 20, 28, 0.08);
+  /* "Chrome" rims are flat bone white: no metal in this look */
+  --chrome: linear-gradient(#f1ebe1, #f1ebe1);
+  --chrome-text: linear-gradient(#f1ebe1, #f1ebe1);
+  --plate: linear-gradient(180deg, #161010 0%, #0a0606 100%);
+  --plate-hover: linear-gradient(180deg, #2a1414 0%, #160a0a 100%);
+  --plate-panel: linear-gradient(180deg, #140d0d 0%, #0a0606 100%);
+  --plate-dull: linear-gradient(180deg, #120c0c 0%, #0c0808 100%);
+  /* "Gold" slots are signal red in this edition */
+  --gold-plate: linear-gradient(180deg, #e0222a 0%, #c8121a 100%);
+  --gold-plate-hover: linear-gradient(180deg, #f0343c 0%, #d81a22 100%);
+  --gold-rim: linear-gradient(#d4141c, #d4141c);
+  --ink-gold: #ffffff;
+  --gold-pale: #ffd0d2;
+  --studio-beam: rgba(255, 255, 255, 0.03);
+  --topbar-bg: rgba(10, 6, 6, 0.9);
+  --chrome-rule: linear-gradient(90deg, #d4141c, #d4141c);
+  --question-plate: linear-gradient(180deg, #f3eee5 0%, #e6ddcf 100%);
+  --chrome-disc: #d4141c;
+  --chrome-disc-ink: #ffffff;
+  --rim-dull: #3a2e2e;
+  --tick: #f1ebe1;
+  --kbd-hint: #b7a9a9;
+  --emerald-plate: linear-gradient(180deg, #3a2e2e 0%, #1c1414 100%);
+  --splash-bg: radial-gradient(circle at 50% 45%, rgba(10, 6, 6, 0.82), rgba(10, 6, 6, 0.96));
+
+  /* Backgrounds */
+  --bg-main: #0a0606;
+  --bg-panel: #120b0b;
+  --card: #160e0e;
+  --card-hover: #221414;
+
+  /* "Emerald" slots: bone white in this edition (hover glows, finished venues on the ladder) */
+  --emerald-dark: #3a2e2e;
+  --emerald: #b7a9a9;
+  --emerald-bright: #f1ebe1;
+
+  /* "Gold" slots: signal red */
+  --gold: #d4141c;
+  --gold-bright: #ff4a4f;
+  /* The same colours as "r, g, b", for see-through glows: rgba(var(--gold-rgb), 0.3) */
+  --gold-rgb: 212, 20, 28;
+  --gold-bright-rgb: 255, 74, 79;
+  --emerald-rgb: 183, 169, 169;
+  --emerald-bright-rgb: 241, 235, 225;
+  --emerald-ink: #f1ebe1;
+
+  /* Neutrals */
+  --white: #f1ebe1;
+  --grey-light: #ddd3c8;
+  --grey-muted: #a39595;
+
+  /* Status */
+  --success: #3EB76A;
+  --danger: #E04E4E;
+
+  /* Lines & glows */
+  --line: rgba(241, 235, 225, 0.12);
+  --line-strong: rgba(241, 235, 225, 0.22);
+  --glow-gold: 0 0 0 1px rgba(212, 20, 28, 0.8), 0 0 22px rgba(212, 20, 28, 0.4);
+  --glow-emerald: 0 0 0 1px rgba(241, 235, 225, 0.6), 0 0 18px rgba(241, 235, 225, 0.2);
+  --glow-success: 0 0 0 1px rgba(62, 183, 106, 0.7), 0 0 26px rgba(62, 183, 106, 0.35);
+  --glow-danger: 0 0 0 1px rgba(224, 78, 78, 0.7), 0 0 26px rgba(224, 78, 78, 0.35);
+  --shadow-card: 0 10px 30px rgba(0, 0, 0, 0.55), 0 2px 6px rgba(0, 0, 0, 0.35);
+
+  /* Type */
+  --font-display: "Montserrat", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Inter", "Segoe UI", system-ui, sans-serif;
+  --font-title: "Anton", "Impact", "Arial Narrow", sans-serif;
+  /* Typewriter lettering for small poster text */
+  --font-type: "Special Elite", "Courier New", monospace;
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: clamp(1.35rem, 2.6vw, 1.75rem);
+  --fs-2xl: clamp(1.75rem, 4.5vw, 2.75rem);
+  --fs-3xl: clamp(2.1rem, 6.5vw, 4rem);
+
+  /* Spacing & shape */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 24px;
+  --sp-6: 32px;
+  --sp-7: 48px;
+  --radius-sm: 2px;
+  --radius: 2px;
+  --radius-lg: 3px;
+
+  /* Motion */
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --t-fast: 160ms;
+  --t: 280ms;
+  --t-slow: 450ms;
+}

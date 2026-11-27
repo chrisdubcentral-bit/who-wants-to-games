@@ -1,0 +1,5 @@
+# John Smeaton (born 1976). Source: https://en.wikipedia.org/wiki/John_Smeaton_(born_1976)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | What job did John Smeaton do at Glasgow Airport? | Baggage handler | Air traffic controller | Security guard | Pilot | John Smeaton; Glasgow Airport
+3 | history | Which medal did John Smeaton receive for his part in the 2007 Glasgow Airport attack? | The Queen's Gallantry Medal | The George Cross | The Victoria Cross | The Distinguished Service Medal | John Smeaton; Queen's Gallantry Medal
+2 | patter | John Smeaton told ITV News: "This is Glasgow; we'll..." what? | Set about ye | Sort ye out | See ye later | Show ye the door | John Smeaton; quote

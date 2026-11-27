@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which artist did Glasgow actor Tony Curran play in Doctor Who in 2010?",
+    "options": [
+      "Leonardo da Vinci",
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tony Curran",
+      "Doctor Who",
+      "Van Gogh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which invisible character did Tony Curran play in The League of Extraordinary Gentlemen?",
+    "options": [
+      "Dorian Gray",
+      "Captain Nemo",
+      "Hawley Griffin",
+      "Rodney Skinner"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tony Curran",
+      "League of Extraordinary Gentlemen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "For which Glasgow-set film did Tony Curran win Best Actor at the 2006 British Independent Film Awards?",
+    "options": [
+      "Red Road",
+      "Neds",
+      "Young Adam",
+      "Sweet Sixteen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Tony Curran",
+      "Red Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "In which Ridley Scott epic did Tony Curran play Assassin No. 1?",
+    "options": [
+      "Black Hawk Down",
+      "Kingdom of Heaven",
+      "Gladiator",
+      "Robin Hood"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Tony Curran",
+      "Gladiator"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which Marvel series saw Tony Curran play a Skrull posing as MI6's \"C\"?",
+    "options": [
+      "Loki",
+      "Hawkeye",
+      "Secret Invasion",
+      "Moon Knight"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Tony Curran",
+      "Secret Invasion"
+    ],
+    "source": "manual"
+  }
+]

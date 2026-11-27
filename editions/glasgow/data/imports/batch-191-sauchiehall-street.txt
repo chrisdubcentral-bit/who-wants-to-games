@@ -1,0 +1,32 @@
+# Sauchiehall Street Culture and Heritage District. Source: https://www.visitglasgow.com/sauchiehall-street-culture-and-heritage-district (and its linked sub-pages)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | venues-gigs | Which Sauchiehall Street bar hosts smaller gigs and gives this game's first venue its name? | Nice N Sleazy | The Garage | The Buff Club | Variety Bar | Sauchiehall Street; Nice N Sleazy
+1 | landmarks | According to Visit Glasgow, Sauchiehall Street is legendary for what? | Its nightlife | Its fish market | Its shipyards | Its football grounds | Sauchiehall Street; nightlife
+2 | art-culture | Which arts centre is now in Alexander 'Greek' Thomson's Grecian Chambers? | The CCA | The Tramway | GoMA | The Lighthouse | Sauchiehall Street; CCA; Grecian Chambers; Alexander Thomson
+3 | food-drink | Which bar is inside the CCA on Sauchiehall Street? | Third Eye Bar | Variety Bar | Nico's | The Griffin | Sauchiehall Street; CCA; Third Eye Bar
+3 | history | In which building is the Scottish Jewish Heritage Centre based? | Garnethill Synagogue | The Mitchell Library | The Tenement House | Hutchesons' Hall | Sauchiehall Street; Garnethill Synagogue; Scottish Jewish Heritage Centre
+3 | history | Which regiment's museum is in the Sauchiehall Street district? | Royal Highland Fusiliers | Black Watch | Argyll and Sutherland Highlanders | Cameronians | Sauchiehall Street; Royal Highland Fusiliers Museum
+3 | landmarks | Which library houses Glasgow's City Archives and Special Collections? | The Mitchell Library | Stirling's Library | The Hunterian | Baillie's Library | Sauchiehall Street; Mitchell Library; archives
+2 | landmarks | Which hotel is named as a Sauchiehall Street landmark alongside the Mitchell Library? | The Beresford Hotel | The Grand Central Hotel | The Blythswood | The Radisson Red | Sauchiehall Street; Beresford Hotel
+2 | art-culture | Which architect does Visit Glasgow call "the more famous architect" on Sauchiehall Street? | Charles Rennie Mackintosh | Alexander Thomson | John Burnet | William Leiper | Sauchiehall Street; Mackintosh
+3 | art-culture | Which Sauchiehall Street gallery commissions a new mural every month? | Grateful Gallery | RGI Kelly Gallery | Transmission | Street Level Photoworks | Sauchiehall Street; Grateful Gallery; murals
+3 | art-culture | Which gallery is named with Glasgow School of Art and Grateful Gallery as a Sauchiehall Street exhibition venue? | RGI Kelly Gallery | The Modern Institute | Transmission | GoMA | Sauchiehall Street; RGI Kelly Gallery
+4 | art-culture | Fireworks in the Sauchiehall Street district is a studio and shop for what? | Ceramics | Fireworks | Stained glass | Jewellery | Sauchiehall Street; Fireworks Ceramics
+3 | art-culture | What does Paint and Mortar in the Sauchiehall Street district sell? | Art supplies | Building materials | Vintage furniture | Records | Sauchiehall Street; Paint and Mortar
+3 | patter | Visit Glasgow tells visitors to look up on Sauchiehall Street for a "chooky" what on a light? | Bird | Cat | Dog | Fish | Sauchiehall Street; chooky bird
+3 | art-culture | A self-guided walk of which area covers the achievements of women in Glasgow's history? | Garnethill | Blythswood | Anderston | Woodlands | Sauchiehall Street; Garnethill; women's history
+3 | venues-gigs | Visit Glasgow says Sauchiehall Street has inspired music by which 1980s band? | Spandau Ballet | Duran Duran | Culture Club | Wham! | Sauchiehall Street; Spandau Ballet
+5 | venues-gigs | Alongside Spandau Ballet, which act does Visit Glasgow say Sauchiehall Street has inspired? | corto.alto | Chvrches | Lewis Capaldi | Biffy Clyro | Sauchiehall Street; corto.alto
+2 | venues-gigs | Which orchestra does Glasgow Royal Concert Hall host? | The Royal Scottish National Orchestra | The BBC Scottish Symphony Orchestra | The Scottish Chamber Orchestra | The Scottish Opera Orchestra | Sauchiehall Street; Royal Concert Hall; RSNO
+3 | venues-gigs | Which Sauchiehall Street venues carry on a long history of ballrooms, dance halls and discos? | The Garage, The Vic and The Buff Club | The Arches, The Shed and Fury Murrys | The Barrowland, The Plaza and The Savoy | The Cathouse, Sub Club and SWG3 | Sauchiehall Street; The Garage; The Vic; The Buff Club
+3 | venues-gigs | Which Sauchiehall Street venue hosts comedy and cabaret? | Berlinkys | The Garage | Nice N Sleazy | The Buff Club | Sauchiehall Street; Berlinkys
+3 | venues-gigs | Which Sauchiehall Street jazz venue hosts intimate gigs? | Basement Jazz Bar | The Blue Arrow | The Jazz Cellar | Lauders Lounge | Sauchiehall Street; Basement Jazz Bar
+3 | venues-gigs | Which institution gives lunchtime concerts in the Sauchiehall Street district? | Royal Conservatoire of Scotland | Glasgow School of Art | University of Strathclyde | Glasgow Caledonian University | Sauchiehall Street; Royal Conservatoire of Scotland
+3 | food-drink | Which two Sauchiehall Street bars are known for their long curved bars? | The State Bar and The Griffin | Nico's and Lauders | Variety Bar and Nice N Sleazy | Howlin' Wolf and The Garage | Sauchiehall Street; State Bar; The Griffin
+2 | food-drink | Which Sauchiehall Street bar is known for its vibrant neon signs and cocktails? | Variety Bar | The State Bar | Lauders | The Griffin | Sauchiehall Street; Variety Bar
+3 | food-drink | What does The Butterfly and Pig serve its food and drink on? | Vintage crockery | Wooden boards | Tin plates | Slates | Sauchiehall Street; Butterfly and Pig
+3 | food-drink | Hajar's on Sauchiehall Street is known for what food? | Shawarma | Sushi | Pizza | Fish and chips | Sauchiehall Street; Hajar's
+4 | food-drink | Which two Sauchiehall Street restaurants are recommended for pre-theatre menus? | Red Onion and Roya | Grumpy Pedros and Sprigg | Hajar's and Himba | Singl-end and Dun Dun Xiang | Sauchiehall Street; Red Onion; Roya; pre-theatre
+2 | food-drink | What does Himba on Sauchiehall Street serve? | Coffee and pastries | Curry | Burgers | Ramen | Sauchiehall Street; Himba
+2 | food-drink | What does Visit Glasgow call "unmissable" at the Mackintosh Tearooms? | Afternoon tea | Sunday roast | A haggis supper | Cocktail hour | Sauchiehall Street; Mackintosh Tearooms; afternoon tea
+2 | food-drink | Singl-end in the Sauchiehall Street district is recommended for which meal? | Brunch | Pre-theatre dinner | Late-night snacks | Afternoon tea | Sauchiehall Street; Singl-end

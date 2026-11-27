@@ -1,0 +1,502 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Where are the headquarters of the Scottish Football Association?",
+    "options": [
+      "Ibrox",
+      "Celtic Park",
+      "Murrayfield",
+      "Hampden Park"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "SFA",
+      "Hampden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In which year was the Scottish Football Association founded?",
+    "options": [
+      "1903",
+      "1890",
+      "1873",
+      "1867"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "SFA",
+      "1873"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "The SFA is the second-oldest national football association in the world, after which country's?",
+    "options": [
+      "Uruguay",
+      "Wales",
+      "England",
+      "Ireland"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "SFA",
+      "second-oldest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "The SFA holds a permanent seat on which body that sets the Laws of the Game?",
+    "options": [
+      "FIFA Council",
+      "CAS",
+      "UEFA Executive",
+      "IFAB"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "SFA",
+      "IFAB"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which annual cup competition is run by the SFA?",
+    "options": [
+      "The Challenge Cup",
+      "The League Cup",
+      "The Glasgow Cup",
+      "The Scottish Cup"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "SFA",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which club took the lead in forming the SFA in 1873?",
+    "options": [
+      "Kilmarnock",
+      "Rangers",
+      "Queen's Park",
+      "Vale of Leven"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "SFA",
+      "Queen's Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "How many clubs formed the Scottish Football Association in 1873?",
+    "options": [
+      "Twelve",
+      "Four",
+      "Sixteen",
+      "Eight"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "SFA",
+      "founding clubs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Ayrshire club wrote a letter to join the SFA on its founding day in 1873?",
+    "options": [
+      "Kilmarnock",
+      "Queen of the South",
+      "Ayr United",
+      "St Mirren"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "SFA",
+      "Kilmarnock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Dunbartonshire club was a founding member of the SFA in 1873?",
+    "options": [
+      "Clydebank",
+      "Dumbarton",
+      "Renton",
+      "Vale of Leven"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "SFA",
+      "Vale of Leven"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which year did the SFA join the International Football Association Board?",
+    "options": [
+      "1954",
+      "1886",
+      "1904",
+      "1873"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SFA",
+      "IFAB"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which year did the SFA become a member of UEFA?",
+    "options": [
+      "1973",
+      "1946",
+      "1960",
+      "1954"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "SFA",
+      "UEFA"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What is the most prominent role of the SFA chief executive?",
+    "options": [
+      "Refereeing cup finals",
+      "Picking the Scotland team",
+      "Hiring and sacking the Scotland manager",
+      "Running Hampden's museum"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "SFA",
+      "chief executive"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which club was the only one to hold an SFA platinum club licence as of June 2025?",
+    "options": [
+      "Celtic",
+      "Aberdeen",
+      "Rangers",
+      "Hearts"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "SFA",
+      "club licensing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Who became SFA chief executive in 2018?",
+    "options": [
+      "Stewart Regan",
+      "Ian Maxwell",
+      "Gordon Smith",
+      "David Taylor"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SFA",
+      "Ian Maxwell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which former Rangers winger was SFA chief executive from 2007 to 2010?",
+    "options": [
+      "Davie Cooper",
+      "Willie Johnston",
+      "Ian Durrant",
+      "Gordon Smith"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "SFA",
+      "Gordon Smith"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which museum is located at Hampden alongside the SFA's offices?",
+    "options": [
+      "The Riverside Museum",
+      "The Hunterian",
+      "The People's Palace",
+      "The Scottish Football Museum"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "SFA",
+      "Scottish Football Museum"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Who was the SFA's first chief executive, in 1873–74?",
+    "options": [
+      "George Graham",
+      "Archibald Rae",
+      "Willie Allan",
+      "John McDowall"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SFA",
+      "Archibald Rae"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which SFA chief executive served from 1882 to 1928?",
+    "options": [
+      "Archibald Rae",
+      "John McDowall",
+      "Ernie Walker",
+      "Willie Allan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SFA",
+      "John McDowall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which SFA chief executive served from 1957 to 1977?",
+    "options": [
+      "Ernie Walker",
+      "Willie Allan",
+      "John McDowall",
+      "George Graham"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SFA",
+      "Willie Allan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which SFA chief executive served from 2010 to 2018?",
+    "options": [
+      "Ian Maxwell",
+      "David Taylor",
+      "Stewart Regan",
+      "Gordon Smith"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "SFA",
+      "Stewart Regan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "In which year were the SFA's Performance Schools for young players set up?",
+    "options": [
+      "2018",
+      "2012",
+      "1998",
+      "2002"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SFA",
+      "Performance Schools"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "In which year did the SFA disband its semi-professional national team?",
+    "options": [
+      "2015",
+      "1998",
+      "2020",
+      "2008"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "SFA",
+      "semi-professional team"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "What is the Scottish Gaelic name of the Scottish Football Association?",
+    "options": [
+      "Sgioba Nàiseanta",
+      "Pàirc Hampden",
+      "Comann Ball-coise na h-Alba",
+      "Lìog Ball-coise na h-Alba"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "SFA",
+      "Gaelic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "What are the five levels of SFA club licence, from top to bottom?",
+    "options": [
+      "Premier, first, second, third, fourth",
+      "Gold, silver, bronze, red, green",
+      "Platinum, gold, silver, bronze, entry",
+      "A, B, C, D, E"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "SFA",
+      "club licensing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "sport",
+    "difficulty": 5,
+    "question": "As of June 2026, how many full member clubs did the SFA have?",
+    "options": [
+      "210",
+      "134",
+      "42",
+      "96"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SFA",
+      "members"
+    ],
+    "source": "manual"
+  }
+]

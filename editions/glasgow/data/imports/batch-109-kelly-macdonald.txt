@@ -1,0 +1,7 @@
+# Kelly Macdonald. Source: https://en.wikipedia.org/wiki/Kelly_Macdonald
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which Pixar princess did Kelly Macdonald voice in Brave? | Merida | Elinor | Moana | Rapunzel | Kelly Macdonald; Brave; Merida
+2 | film-tv | In which 1996 film did Kelly Macdonald make her debut as Diane? | Trainspotting | Shallow Grave | Small Faces | Orphans | Kelly Macdonald; Trainspotting
+2 | film-tv | Which job was Kelly Macdonald doing in Glasgow when she saw the Trainspotting casting leaflet? | Barmaid | Waitress | Shop assistant | Hairdresser | Kelly Macdonald; Trainspotting
+3 | film-tv | Which detective did Kelly Macdonald play in series 6 of Line of Duty? | DCI Joanne Davidson | DI Lindsay Denton | DS Kate Fleming | DCI Roz Huntley | Kelly Macdonald; Line of Duty
+3 | film-tv | In which HBO series did Kelly Macdonald play Margaret Thompson? | Boardwalk Empire | The Sopranos | Game of Thrones | Deadwood | Kelly Macdonald; Boardwalk Empire

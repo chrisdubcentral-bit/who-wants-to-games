@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which anatomist left the collections that founded Glasgow's Hunterian Museum?",
+    "options": [
+      "Joseph Lister",
+      "John Hunter",
+      "Joseph Black",
+      "William Hunter"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hunterian",
+      "William Hunter"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "The Hunterian is described as the oldest what in Scotland?",
+    "options": [
+      "Theatre",
+      "Library",
+      "University",
+      "Museum"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hunterian"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which year did the Hunterian Museum first open?",
+    "options": [
+      "1807",
+      "1783",
+      "1870",
+      "1901"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hunterian",
+      "1807"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "The Hunterian Art Gallery holds a large collection of works by which American-born artist?",
+    "options": [
+      "John Singer Sargent",
+      "Edward Hopper",
+      "Winslow Homer",
+      "James McNeill Whistler"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hunterian",
+      "Whistler"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which Glasgow venue became home to the Hunterian Collections and Study Centre in 2016?",
+    "options": [
+      "Pollok House",
+      "The McLellan Galleries",
+      "The Lighthouse",
+      "Kelvin Hall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hunterian",
+      "Kelvin Hall"
+    ],
+    "source": "manual"
+  }
+]

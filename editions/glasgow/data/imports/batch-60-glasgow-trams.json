@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which year did Glasgow's trams stop running?",
+    "options": [
+      "1972",
+      "1952",
+      "1948",
+      "1962"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow trams",
+      "1962"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Glasgow's \"Coronation\" trams were named for the year of which king's coronation?",
+    "options": [
+      "George V",
+      "George VI",
+      "Edward VII",
+      "Edward VIII"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow trams",
+      "Coronation cars"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "The last Glasgow tram route, number 9, ran from Auchenshuggle to where?",
+    "options": [
+      "Dalmuir",
+      "Partick",
+      "Milngavie",
+      "Rutherglen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow trams",
+      "route 9",
+      "Auchenshuggle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Roughly how many people watched Glasgow's farewell tram procession in 1962?",
+    "options": [
+      "250,000",
+      "75,000",
+      "25,000",
+      "1 million"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow trams",
+      "farewell procession"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "What were the Coronation Mk II trams, built from 1948 to 1952, known as?",
+    "options": [
+      "Cunarders",
+      "Clydesiders",
+      "Standards",
+      "Green Goddesses"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow trams",
+      "Cunarder"
+    ],
+    "source": "manual"
+  }
+]

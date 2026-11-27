@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "On which bank of the River Clyde is the Gorbals?",
+    "options": [
+      "North bank",
+      "South bank",
+      "Both banks",
+      "On an island"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Gorbals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which architect designed the Gorbals' Queen Elizabeth Square flats, demolished in 1993?",
+    "options": [
+      "Ernő Goldfinger",
+      "Charles Rennie Mackintosh",
+      "Sir Robert Matthew",
+      "Sir Basil Spence"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Gorbals",
+      "Basil Spence",
+      "Queen Elizabeth Square"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Which flyweight boxing champion came from the Gorbals?",
+    "options": [
+      "Ken Buchanan",
+      "Benny Lynch",
+      "Jim Watt",
+      "Walter McGowan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Gorbals",
+      "Benny Lynch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "Which man from the Gorbals founded a famous American detective agency?",
+    "options": [
+      "Allan Pinkerton",
+      "Alexander Watson Hutton",
+      "Joe Yule",
+      "Thomas Lipton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Gorbals",
+      "Allan Pinkerton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "Which Poet Laureate (2009–2019) is listed among notable people from the Gorbals?",
+    "options": [
+      "Carol Ann Duffy",
+      "Liz Lochhead",
+      "Jackie Kay",
+      "Kathleen Jamie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Gorbals",
+      "Carol Ann Duffy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year did the city of Glasgow absorb the Gorbals?",
+    "options": [
+      "1801",
+      "1891",
+      "1912",
+      "1846"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Gorbals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Around what was the peak population of the wider Gorbals district in the 1930s?",
+    "options": [
+      "150,000",
+      "50,000",
+      "90,000",
+      "30,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Gorbals",
+      "population"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "What was the Gorbals village once known as, at the south end of the Clyde bridge?",
+    "options": [
+      "Clydeside",
+      "Riverend",
+      "Southbank",
+      "Bridgend"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Gorbals",
+      "Bridgend"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "Which man from the Gorbals is known as the \"father of Argentine football\"?",
+    "options": [
+      "Allan Pinkerton",
+      "Thomas Lipton",
+      "Benny Lynch",
+      "Alexander Watson Hutton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Gorbals",
+      "Alexander Watson Hutton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "Gorbals comedian Joe Yule was the father of which Hollywood star?",
+    "options": [
+      "Mickey Rooney",
+      "Bob Hope",
+      "Gene Kelly",
+      "Danny Kaye"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Gorbals",
+      "Joe Yule",
+      "Mickey Rooney"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,7 @@
+# Mo Johnston. Source: https://en.wikipedia.org/wiki/Mo_Johnston
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | Which Glasgow club did Mo Johnston begin his career with? | Partick Thistle | Celtic | Rangers | Queen's Park | Mo Johnston; Partick Thistle
+3 | sport | Which manager signed Mo Johnston for Rangers in 1989? | Graeme Souness | Walter Smith | Jock Wallace | John Greig | Mo Johnston; Graeme Souness
+3 | sport | Which French club did Mo Johnston play for from 1987? | Nantes | Marseille | Monaco | Bordeaux | Mo Johnston; Nantes
+3 | sport | With which club did Mo Johnston reach the 1984 FA Cup final? | Watford | Everton | Luton Town | Ipswich Town | Mo Johnston; Watford
+4 | sport | Which MLS club did Mo Johnston coach from 2007, earning the nickname "Trader Mo"? | Toronto FC | New York Red Bulls | LA Galaxy | Kansas City Wizards | Mo Johnston; Toronto FC

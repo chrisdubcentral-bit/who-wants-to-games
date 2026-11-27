@@ -1,0 +1,32 @@
+# Areas of Glasgow - which part of the city? Easy questions for Nice N Sleazys. Source: general knowledge (user's request)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | In which part of Glasgow will you find Byres Road? | West End | Southside | East End | North | areas; Byres Road
+1 | landmarks | In which part of Glasgow is Kelvingrove Art Gallery and Museum? | West End | Southside | East End | North | areas; Kelvingrove
+1 | landmarks | The University of Glasgow's main campus at Gilmorehill is in which part of the city? | West End | Southside | East End | North | areas; University of Glasgow
+1 | landmarks | In which part of Glasgow are the Botanic Gardens? | West End | Southside | East End | North | areas; Botanic Gardens
+1 | landmarks | Hyndland is in which part of Glasgow? | West End | Southside | East End | North | areas; Hyndland
+1 | landmarks | Which part of Glasgow is Partick in? | West End | Southside | East End | North | areas; Partick
+1 | landmarks | Hillhead is a district in which part of Glasgow? | West End | Southside | East End | North | areas; Hillhead
+1 | landmarks | Ashton Lane, with its bars and cobbles, is in which part of Glasgow? | West End | Southside | East End | North | areas; Ashton Lane
+1 | landmarks | In which part of Glasgow is Shawlands? | Southside | West End | East End | North | areas; Shawlands
+1 | landmarks | Govanhill is in which part of Glasgow? | Southside | West End | East End | North | areas; Govanhill
+1 | landmarks | Which part of Glasgow is Queen's Park in? | Southside | West End | East End | North | areas; Queen's Park
+1 | landmarks | The Burrell Collection in Pollok Country Park is in which part of Glasgow? | Southside | West End | East End | North | areas; Burrell Collection; Pollok
+1 | landmarks | Hampden Park, Scotland's national stadium, is in which part of Glasgow? | Southside | West End | East End | North | areas; Hampden
+1 | landmarks | Strathbungo is a district in which part of Glasgow? | Southside | West End | East End | North | areas; Strathbungo
+1 | landmarks | In which part of Glasgow will you find Castlemilk? | Southside | West End | East End | North | areas; Castlemilk
+1 | landmarks | Cathcart is in which part of Glasgow? | Southside | West End | East End | North | areas; Cathcart
+1 | landmarks | Celtic Park in Parkhead is in which part of Glasgow? | East End | West End | Southside | North | areas; Parkhead; Celtic Park
+1 | landmarks | In which part of Glasgow is Dennistoun? | East End | West End | Southside | North | areas; Dennistoun
+1 | landmarks | Bridgeton is a district in which part of Glasgow? | East End | West End | Southside | North | areas; Bridgeton
+1 | landmarks | The Barras market is in which part of Glasgow? | East End | West End | Southside | North | areas; Barras
+1 | landmarks | Which part of Glasgow is Shettleston in? | East End | West End | Southside | North | areas; Shettleston
+1 | landmarks | In which part of Glasgow will you find Tollcross? | East End | West End | Southside | North | areas; Tollcross
+1 | landmarks | Easterhouse is in which part of Glasgow? | East End | West End | Southside | North | areas; Easterhouse
+1 | landmarks | In which part of Glasgow is Springburn? | North | West End | Southside | East End | areas; Springburn
+1 | landmarks | Possilpark is a district in which part of Glasgow? | North | West End | Southside | East End | areas; Possilpark
+1 | landmarks | Which part of Glasgow is Maryhill in? | North | West End | Southside | East End | areas; Maryhill
+1 | landmarks | Ruchill is in which part of Glasgow? | North | West End | Southside | East End | areas; Ruchill
+1 | landmarks | In which part of Glasgow will you find Milton? | North | West End | Southside | East End | areas; Milton
+1 | landmarks | Balornock is a district in which part of Glasgow? | North | West End | Southside | East End | areas; Balornock
+1 | landmarks | Lambhill is in which part of Glasgow? | North | West End | Southside | East End | areas; Lambhill

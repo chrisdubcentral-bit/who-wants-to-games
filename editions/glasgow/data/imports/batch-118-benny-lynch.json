@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Whom did Benny Lynch beat at Wembley in 1937 to become undisputed world flyweight champion?",
+    "options": [
+      "Small Montana",
+      "Jackie Brown",
+      "Jackie Jurich",
+      "Peter Kane"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Benny Lynch",
+      "Small Montana"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "How did Benny Lynch lose his world flyweight title in 1938?",
+    "options": [
+      "He was knocked out",
+      "He retired injured",
+      "He failed to make the weight",
+      "He lost on points"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Benny Lynch",
+      "weight"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What was Benny Lynch's affectionate nickname?",
+    "options": [
+      "Bonnie Benny",
+      "The Wee Champ",
+      "Our Benny",
+      "The Gorbals Kid"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Benny Lynch",
+      "nickname"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "At which Glasgow ground did Benny Lynch knock out Peter Kane in 1937?",
+    "options": [
+      "Celtic Park",
+      "Firhill",
+      "Hampden Park",
+      "Shawfield Park"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Benny Lynch",
+      "Shawfield",
+      "Peter Kane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which Scottish actor narrated a 2003 documentary about Benny Lynch?",
+    "options": [
+      "Robert Carlyle",
+      "Peter Mullan",
+      "Billy Connolly",
+      "Robbie Coltrane"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Benny Lynch",
+      "Robert Carlyle"
+    ],
+    "source": "manual"
+  }
+]

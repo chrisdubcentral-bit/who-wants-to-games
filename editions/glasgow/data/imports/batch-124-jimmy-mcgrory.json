@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "How many goals did Jimmy McGrory score for Celtic, a club record?",
+    "options": [
+      "397",
+      "610",
+      "522",
+      "468"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jimmy McGrory",
+      "Celtic record"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which team did Jimmy McGrory score eight goals against in a 9–0 win in 1928?",
+    "options": [
+      "Clyde",
+      "Motherwell",
+      "Hibernian",
+      "Dunfermline Athletic"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jimmy McGrory",
+      "eight goals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Whom did Jimmy McGrory hand over to as Celtic manager in 1965?",
+    "options": [
+      "Jimmy McStay",
+      "Sean Fallon",
+      "Jock Stein",
+      "Billy McNeill"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jimmy McGrory",
+      "Jock Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which club was Jimmy McGrory loaned to in 1923, scoring the winner against Celtic?",
+    "options": [
+      "Clyde",
+      "Queen's Park",
+      "Dumbarton",
+      "Clydebank"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jimmy McGrory",
+      "Clydebank"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which club offered £10,000 for Jimmy McGrory in 1927, which he turned down?",
+    "options": [
+      "Newcastle United",
+      "Everton",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jimmy McGrory",
+      "Arsenal"
+    ],
+    "source": "manual"
+  }
+]

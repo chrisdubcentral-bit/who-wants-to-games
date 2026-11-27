@@ -1,0 +1,7 @@
+# David McCallum. Source: https://en.wikipedia.org/wiki/David_McCallum
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which character did Glasgow-born David McCallum play in NCIS for 20 seasons? | Ducky Mallard | Leroy Jethro Gibbs | Tony DiNozzo | Timothy McGee | David McCallum; NCIS; Ducky
+2 | film-tv | Which spy did David McCallum play in The Man from U.N.C.L.E.? | Illya Kuryakin | Napoleon Solo | Alexander Waverly | Mark Slate | David McCallum; Man from U.N.C.L.E.; Illya Kuryakin
+3 | film-tv | Who starred opposite David McCallum in Sapphire & Steel? | Joanna Lumley | Diana Rigg | Honor Blackman | Linda Thorson | David McCallum; Sapphire & Steel; Joanna Lumley
+4 | famous-glaswegians | On which Hillhead street is the blue plaque outside David McCallum's birthplace? | Kersland Street | Byres Road | Great George Street | Otago Street | David McCallum; Hillhead; Kersland Street
+5 | songs-albums | Which Dr. Dre track sampled "The Edge" from a David McCallum album? | The Next Episode | Still D.R.E. | Forgot About Dre | Nuthin' but a "G" Thang | David McCallum; The Edge; Dr. Dre

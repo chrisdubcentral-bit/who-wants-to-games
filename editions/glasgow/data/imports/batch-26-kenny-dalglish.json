@@ -1,0 +1,610 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "What is Kenny Dalglish's famous nickname among Liverpool fans?",
+    "options": [
+      "Super Ken",
+      "King Kenny",
+      "The Wee Man",
+      "The Big Yin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenny Dalglish",
+      "King Kenny"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Which Scottish club did Kenny Dalglish play for before joining Liverpool in 1977?",
+    "options": [
+      "Celtic",
+      "Aberdeen",
+      "Partick Thistle",
+      "Rangers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "Celtic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Which Liverpool striker did Kenny Dalglish replace in 1977?",
+    "options": [
+      "Ian St John",
+      "Ian Rush",
+      "John Toshack",
+      "Kevin Keegan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kenny Dalglish",
+      "Kevin Keegan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "In which area of Glasgow was Kenny Dalglish born?",
+    "options": [
+      "Easterhouse",
+      "Govan",
+      "Dalmarnock",
+      "Partick"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kenny Dalglish",
+      "Dalmarnock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "How many caps did Kenny Dalglish win for Scotland?",
+    "options": [
+      "102",
+      "87",
+      "55",
+      "120"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "Scotland caps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which club did Kenny Dalglish manage to the 1994–95 Premier League title?",
+    "options": [
+      "Everton",
+      "Blackburn Rovers",
+      "Newcastle United",
+      "Liverpool"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenny Dalglish",
+      "Blackburn Rovers",
+      "1994–95"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which club did Kenny Dalglish support as a boy?",
+    "options": [
+      "Celtic",
+      "Queen's Park",
+      "Partick Thistle",
+      "Rangers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kenny Dalglish",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In which year did Kenny Dalglish become Liverpool player-manager?",
+    "options": [
+      "1981",
+      "1985",
+      "1988",
+      "1991"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenny Dalglish",
+      "player-manager"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which team did Kenny Dalglish score the winner against in the 1978 European Cup final?",
+    "options": [
+      "Hamburg",
+      "Real Madrid",
+      "Borussia Mönchengladbach",
+      "Club Brugge"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kenny Dalglish",
+      "European Cup 1978"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which striker did Kenny Dalglish famously form a partnership with at Liverpool?",
+    "options": [
+      "John Aldridge",
+      "David Fairclough",
+      "Peter Beardsley",
+      "Ian Rush"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kenny Dalglish",
+      "Ian Rush"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What was the British record fee Liverpool paid Celtic for Kenny Dalglish in 1977?",
+    "options": [
+      "£440,000",
+      "£180,000",
+      "£1 million",
+      "£750,000"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "transfer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "How many goals did Kenny Dalglish score for Scotland?",
+    "options": [
+      "22",
+      "18",
+      "41",
+      "30"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kenny Dalglish",
+      "Scotland goals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Kenny Dalglish's 30 Scotland goals equalled the record of which player?",
+    "options": [
+      "Denis Law",
+      "Hughie Gallacher",
+      "Ally McCoist",
+      "Lawrie Reilly"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "Denis Law"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which striker did Kenny Dalglish sign for Blackburn for a British record £3.5 million in 1992?",
+    "options": [
+      "Chris Sutton",
+      "Alan Shearer",
+      "Stan Collymore",
+      "Mike Newell"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenny Dalglish",
+      "Alan Shearer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which manager did Kenny Dalglish succeed at Newcastle United in January 1997?",
+    "options": [
+      "Kevin Keegan",
+      "Bobby Robson",
+      "Ruud Gullit",
+      "Jack Charlton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "Newcastle",
+      "Kevin Keegan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Blackburn owner brought Kenny Dalglish to the club in 1991?",
+    "options": [
+      "Freddie Shepherd",
+      "Peter Swales",
+      "Jack Walker",
+      "Ken Bates"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kenny Dalglish",
+      "Jack Walker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which manager did Kenny Dalglish replace as Liverpool caretaker in January 2011?",
+    "options": [
+      "Roy Hodgson",
+      "Gérard Houllier",
+      "Rafael Benítez",
+      "Brendan Rodgers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "Roy Hodgson",
+      "2011"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Liverpool won which trophy in 2012 under Kenny Dalglish, their first since 2006?",
+    "options": [
+      "The League Cup",
+      "The FA Cup",
+      "The Premier League",
+      "The Europa League"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "League Cup 2012"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In 1985–86, Kenny Dalglish's Liverpool won the double, beating which team in the FA Cup final?",
+    "options": [
+      "Arsenal",
+      "Wimbledon",
+      "Everton",
+      "Manchester United"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kenny Dalglish",
+      "1986 FA Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which team beat Kenny Dalglish's Liverpool in the 1988 FA Cup final?",
+    "options": [
+      "Coventry City",
+      "Everton",
+      "Arsenal",
+      "Wimbledon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kenny Dalglish",
+      "1988 FA Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which German legend presented Kenny Dalglish with his 100th Scotland cap in 1986?",
+    "options": [
+      "Gerd Müller",
+      "Franz Beckenbauer",
+      "Karl-Heinz Rummenigge",
+      "Berti Vogts"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenny Dalglish",
+      "100th cap",
+      "Franz Beckenbauer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Who did Kenny Dalglish work with as head coach when he became Celtic's director of football in 1999?",
+    "options": [
+      "Wim Jansen",
+      "John Barnes",
+      "Martin O'Neill",
+      "Tommy Burns"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenny Dalglish",
+      "Celtic",
+      "John Barnes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which year was Kenny Dalglish knighted?",
+    "options": [
+      "2018",
+      "2012",
+      "2023",
+      "2008"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "knighthood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which Lanarkshire junior club was Kenny Dalglish loaned to in his first season at Celtic, scoring 37 goals?",
+    "options": [
+      "Petershill",
+      "Cumbernauld United",
+      "Pollok",
+      "Kirkintilloch Rob Roy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenny Dalglish",
+      "Cumbernauld United"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "What was the nickname of the Celtic reserve side Kenny Dalglish played in?",
+    "options": [
+      "The Kelly Kids",
+      "The Famous Five",
+      "The Lisbon Lions",
+      "The Quality Street Gang"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kenny Dalglish",
+      "Quality Street Gang"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which goalkeeper did Kenny Dalglish famously nutmeg to score the winner for Scotland against England in 1976?",
+    "options": [
+      "Ray Clemence",
+      "Gordon Banks",
+      "Peter Shilton",
+      "Joe Corrigan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "Ray Clemence",
+      "1976"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which player was Kenny Dalglish's first signing as Liverpool manager?",
+    "options": [
+      "Steve McMahon",
+      "John Barnes",
+      "John Aldridge",
+      "Peter Beardsley"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenny Dalglish",
+      "Steve McMahon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Against which club did Kenny Dalglish score to clinch the 1985–86 league title at Stamford Bridge?",
+    "options": [
+      "West Ham",
+      "Chelsea",
+      "Everton",
+      "Arsenal"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenny Dalglish",
+      "Chelsea",
+      "1985–86"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which director directed the 2025 documentary \"Kenny Dalglish\"?",
+    "options": [
+      "Danny Boyle",
+      "Kevin Macdonald",
+      "Asif Kapadia",
+      "Ken Loach"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kenny Dalglish",
+      "Asif Kapadia",
+      "documentary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "sport",
+    "difficulty": 5,
+    "question": "Which Glasgow secondary school did Kenny Dalglish attend?",
+    "options": [
+      "King's Park Secondary",
+      "High Possil Senior Secondary",
+      "St Gerard's Secondary",
+      "Hillhead High School"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenny Dalglish",
+      "High Possil"
+    ],
+    "source": "manual"
+  }
+]

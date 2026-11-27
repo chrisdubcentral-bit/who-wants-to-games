@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which river flows through Linn Park?",
+    "options": [
+      "The Black Cart Water",
+      "The Clyde",
+      "The Kelvin",
+      "The White Cart Water"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Linn Park",
+      "White Cart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What does the name \"Linn\" in Linn Park refer to?",
+    "options": [
+      "A hill",
+      "A lake",
+      "A wood",
+      "A waterfall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Linn Park",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which castle's remains stand at the northern end of Linn Park?",
+    "options": [
+      "Crookston Castle",
+      "Mearns Castle",
+      "Haggs Castle",
+      "Cathcart Castle"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Linn Park",
+      "Cathcart Castle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Linn Park is Glasgow's third-largest park, after Pollok Country Park and which other?",
+    "options": [
+      "Dams to Darnley Country Park",
+      "Kelvingrove Park",
+      "Queen's Park",
+      "Glasgow Green"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Linn Park",
+      "third largest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year did Glasgow Corporation acquire Linn Park?",
+    "options": [
+      "1938",
+      "1952",
+      "1919",
+      "1888"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Linn Park",
+      "1919"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which family originally owned the land that became Linn Park?",
+    "options": [
+      "The Maxwells",
+      "The Campbells",
+      "The Hamiltons",
+      "The Stewarts"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Linn Park",
+      "Maxwell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which cast-iron bridge in Linn Park is Category B listed?",
+    "options": [
+      "The Snuff Mill Bridge",
+      "The Ha'penny Bridge",
+      "The Linn Bridge",
+      "The Cathcart Bridge"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Linn Park",
+      "Ha'penny Bridge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which year was Cathcart Castle demolished?",
+    "options": [
+      "1927",
+      "1950",
+      "1999",
+      "1980"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Linn Park",
+      "Cathcart Castle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Roughly how many acres does Linn Park cover?",
+    "options": [
+      "500",
+      "1,000",
+      "200",
+      "50"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Linn Park",
+      "size"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which golf club was originally laid out in the 1890s on the land that is now Linn Park's course?",
+    "options": [
+      "Cathcart Castle Golf Club",
+      "Cowglen Golf Club",
+      "Pollok Golf Club",
+      "Haggs Castle Golf Club"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Linn Park",
+      "golf"
+    ],
+    "source": "manual"
+  }
+]

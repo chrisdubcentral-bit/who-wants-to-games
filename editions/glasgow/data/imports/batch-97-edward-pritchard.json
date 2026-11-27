@@ -1,0 +1,100 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What was the profession of Edward William Pritchard, the Glasgow poisoner?",
+    "options": [
+      "Minister",
+      "Lawyer",
+      "Chemist",
+      "Doctor"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Edward Pritchard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Edward Pritchard was the last person to be publicly executed in which city?",
+    "options": [
+      "London",
+      "Aberdeen",
+      "Edinburgh",
+      "Glasgow"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Edward Pritchard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was Edward Pritchard executed?",
+    "options": [
+      "1901",
+      "1865",
+      "1845",
+      "1885"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Edward Pritchard",
+      "1865"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "At which end of Glasgow Green was Edward Pritchard hanged?",
+    "options": [
+      "The People's Palace end",
+      "The Templeton end",
+      "The Bridgeton end",
+      "The Saltmarket end"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Edward Pritchard",
+      "Glasgow Green"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which Glasgow playwright based his 1947 play Dr Angelus on the Pritchard case?",
+    "options": [
+      "Robert McLeish",
+      "John Byrne",
+      "James Bridie",
+      "Tony Roper"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Edward Pritchard",
+      "James Bridie"
+    ],
+    "source": "manual"
+  }
+]

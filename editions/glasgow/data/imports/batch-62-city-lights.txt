@@ -1,0 +1,7 @@
+# City Lights (1984 TV series). Source: https://en.wikipedia.org/wiki/City_Lights_(1984_TV_series)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | Which actor played bank teller Willie Melvin in the BBC Scotland sitcom City Lights? | Gerard Kelly | Andy Gray | Jonathan Watson | Gregor Fisher | City Lights; Gerard Kelly
+2 | film-tv | What does Willie Melvin dream of becoming in City Lights? | A novelist | A rock star | A footballer | An actor | City Lights; Willie Melvin
+3 | film-tv | What is the name of Willie's scheming best friend in City Lights, played by Andy Gray? | Chancer | Tam | Brian | Shug | City Lights; Chancer
+3 | film-tv | Which comedian guest-starred as an angel called "The Dosser" in City Lights? | Billy Connolly | Rikki Fulton | Stanley Baxter | Robbie Coltrane | City Lights; Billy Connolly
+4 | film-tv | What is the title of Willie Melvin's autobiographical book in City Lights? | My Childhood Up A Close | Tenement Tales | Glasgow Boy | A Life on the Stair | City Lights; My Childhood Up A Close

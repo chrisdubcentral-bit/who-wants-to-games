@@ -1,0 +1,105 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which architect designed the Templeton carpet factory on Glasgow Green?",
+    "options": [
+      "Charles Rennie Mackintosh",
+      "Alexander Thomson",
+      "William Leiper",
+      "John Burnet"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Templeton",
+      "William Leiper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which patented carpets was the Templeton factory built to make?",
+    "options": [
+      "Spool Axminster",
+      "Persian rugs",
+      "Brussels weave",
+      "Wilton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Templeton",
+      "Axminster",
+      "carpets"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year did the Templeton factory's façade collapse during construction?",
+    "options": [
+      "1889",
+      "1892",
+      "1876",
+      "1900"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Templeton",
+      "1889",
+      "collapse"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Which brewery, bar and restaurant occupies the ground floor of Templeton On The Green?",
+    "options": [
+      "Drygate",
+      "Tennent's",
+      "WEST",
+      "BrewDog"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Templeton",
+      "WEST brewery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year did the Scottish Development Agency turn the Templeton building into a business centre?",
+    "options": [
+      "1984",
+      "2005",
+      "1972",
+      "1995"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Templeton",
+      "Business Centre",
+      "1984"
+    ],
+    "source": "manual"
+  }
+]

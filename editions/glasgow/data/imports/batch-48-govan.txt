@@ -1,0 +1,12 @@
+# Govan. Source: https://en.wikipedia.org/wiki/Govan
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | famous-glaswegians | Which legendary Manchester United manager came from Govan? | Sir Alex Ferguson | Sir Matt Busby | Jock Stein | Bill Shankly | Govan; Alex Ferguson
+2 | history | What is the name of Govan's famous collection of early Christian carved stones? | The Govan Stones | The Clyde Stones | The Pictish Stones | The Kentigern Stones | Govan; Govan Stones
+2 | history | What did the unions stage when Upper Clyde Shipbuilders went into receivership in 1971? | A work-in | A hunger strike | A march on London | A general strike | Govan; UCS work-in
+3 | history | Which SNP politician won the 1973 Govan by-election? | Margo MacDonald | Winnie Ewing | Jim Sillars | Nicola Sturgeon | Govan; Margo MacDonald
+3 | history | Which SNP politician won the 1988 Govan by-election? | Jim Sillars | Alex Salmond | Margo MacDonald | Gordon Wilson | Govan; Jim Sillars
+3 | history | Which Govan shipbuilding company, formed in 1885, went bankrupt in 1965? | Fairfield | Harland and Wolff | John Brown | Yarrow | Govan; Fairfield
+3 | landmarks | Which three subway stations serve Govan? | Govan, Ibrox and Cessnock | Govan, Partick and Kelvinhall | Ibrox, Shields Road and Kinning Park | Govan, Cessnock and Bridge Street | Govan; subway
+3 | history | What does Govan's Gaelic name, Baile a' Ghobhainn, mean? | The smith's town | The green hill | The river ford | The church town | Govan; name
+4 | history | Which shipbuilder began iron shipbuilding at Govan in 1841? | Robert Napier | William Pearce | John Elder | Alexander Stephen | Govan; Robert Napier
+4 | history | Who was the first Provost of the Burgh of Govan? | Morris Pollok | David McKechnie | William Pearce | John Elder | Govan; Morris Pollok

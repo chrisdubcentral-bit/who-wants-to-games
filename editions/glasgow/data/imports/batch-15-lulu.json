@@ -1,0 +1,107 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "What was Lulu's debut single, a UK top ten hit in 1964 when she was 15?",
+    "options": [
+      "Shout",
+      "Boom Bang-a-Bang",
+      "The Boat That I Row",
+      "Relight My Fire"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lulu",
+      "Shout",
+      "1964"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which band joined Lulu on \"Relight My Fire\", her first UK No. 1?",
+    "options": [
+      "East 17",
+      "Take That",
+      "Boyzone",
+      "Westlife"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Lulu",
+      "Relight My Fire",
+      "Take That"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "With which song did Lulu share first place at Eurovision in 1969?",
+    "options": [
+      "Shout",
+      "Puppet on a String",
+      "Congratulations",
+      "Boom Bang-a-Bang"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lulu",
+      "Eurovision 1969",
+      "Boom Bang-a-Bang"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "Which Bee Gee did Lulu marry in February 1969?",
+    "options": [
+      "Maurice Gibb",
+      "Barry Gibb",
+      "Robin Gibb",
+      "Andy Gibb"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Lulu",
+      "Maurice Gibb",
+      "Bee Gees"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Lulu sang the title song for which 1974 James Bond film?",
+    "options": [
+      "Live and Let Die",
+      "Diamonds Are Forever",
+      "The Spy Who Loved Me",
+      "The Man with the Golden Gun"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Lulu",
+      "James Bond",
+      "The Man with the Golden Gun"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "What is St Mungo's other name?",
+    "options": [
+      "Kentigern",
+      "Columba",
+      "Serf",
+      "Ninian"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Saint Mungo",
+      "Kentigern"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Where is St Mungo said to be buried?",
+    "options": [
+      "On the site of Glasgow Cathedral",
+      "Culross",
+      "St Andrews",
+      "Iona"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Saint Mungo",
+      "Glasgow Cathedral"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "On which day of the year is St Mungo's feast day in the West?",
+    "options": [
+      "17 March",
+      "25 January",
+      "30 November",
+      "13 January"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Saint Mungo",
+      "feast day"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which Fife town is St Mungo said to have been born?",
+    "options": [
+      "Culross",
+      "St Andrews",
+      "Dunfermline",
+      "Kirkcaldy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Saint Mungo",
+      "Culross"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which saint brought up St Mungo and gave him his pet name?",
+    "options": [
+      "St David",
+      "St Serf",
+      "St Columba",
+      "St Ninian"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Saint Mungo",
+      "St Serf"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In St Mungo's ring miracle, where was the queen's lost ring found?",
+    "options": [
+      "In a bird's nest",
+      "Under a tree",
+      "Inside a fish",
+      "Inside a bell"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Saint Mungo",
+      "ring",
+      "fish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In the miracle of the tree, what kind of branch did St Mungo use to relight a fire?",
+    "options": [
+      "Rowan",
+      "Hazel",
+      "Birch",
+      "Oak"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Saint Mungo",
+      "tree miracle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "What was the name of St Mungo's mother?",
+    "options": [
+      "Teneu",
+      "Penarwen",
+      "Languoreth",
+      "Brigid"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Saint Mungo",
+      "Teneu"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which Welsh place did St Mungo found a cathedral during his exile?",
+    "options": [
+      "Llandaff",
+      "St David's",
+      "Bangor",
+      "Llanelwy (St Asaph)"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Saint Mungo",
+      "St Asaph"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which saint did St Mungo meet at Kilmacolm, exchanging pastoral staves?",
+    "options": [
+      "St Columba",
+      "St Ninian",
+      "St Serf",
+      "St Patrick"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Saint Mungo",
+      "Columba",
+      "Kilmacolm"
+    ],
+    "source": "manual"
+  }
+]

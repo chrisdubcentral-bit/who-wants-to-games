@@ -16,6 +16,7 @@ const EDITION_FILES = [
   'manifest.webmanifest',
   'theme.css',
   'edition.css',
+  'about-card.css',
   'assets',
   'data/edition.json',
   'data/adverts.json',
@@ -69,7 +70,7 @@ function copyEdition(id) {
   for (const item of EDITION_FILES) {
     const src = path.join(from, item);
     if (!fs.existsSync(src)) {
-      if (item !== 'assets' && item !== 'edition.css' && item !== 'data/adverts.json') warnings.push(`${id}: ${item} is missing`);
+      if (item !== 'assets' && item !== 'edition.css' && item !== 'about-card.css' && item !== 'data/adverts.json') warnings.push(`${id}: ${item} is missing`);
       continue;
     }
     copy(src, path.join(to, item));
@@ -80,12 +81,30 @@ function copyEdition(id) {
     manifest = JSON.parse(fs.readFileSync(path.join(from, 'manifest.webmanifest'), 'utf8'));
   } catch { /* fall back to the folder name */ }
   const icon = ['assets/img/logo.svg', 'assets/img/icon-192.png'].find((f) => fs.existsSync(path.join(from, f)));
+  let edition = {};
+  try {
+    edition = JSON.parse(fs.readFileSync(path.join(from, 'data/edition.json'), 'utf8'));
+  } catch { /* the About card falls back to the title */ }
+  // The home screen's words, with {team}, {prize} and so on filled in, for the About page carousel
+  const vars = edition.vars || {};
+  const fill = (text) => String(text || '').replace(/\{(\w+)\}/g, (m, k) => (k in vars ? vars[k] : m));
+  const home = edition.text?.home || {};
+  const prize = edition.images?.home || edition.images?.prize;
   return {
     id,
     title: manifest.name || id,
     description: manifest.description || '',
     background: /^#[0-9a-f]{3,8}$/i.test(manifest.background_color || '') ? manifest.background_color : '#151b18',
     icon: icon ? `editions/${id}/${icon}` : null,
+    home: {
+      top: fill(home.titleTop) || 'Who Wants To Win',
+      accent: fill(home.titleAccent) || manifest.short_name || id,
+      edition: fill(home.edition),
+      tagline: fill(home.tagline),
+      start: fill(vars.start) || 'Play',
+      prize: prize && fs.existsSync(path.join(from, prize)) ? `editions/${id}/${prize}` : null,
+    },
+    aboutStyles: fs.existsSync(path.join(from, 'about-card.css')) ? `editions/${id}/about-card.css` : null,
   };
 }
 
@@ -174,17 +193,25 @@ function previewTags(id) {
   } catch { return ''; }
 }
 
-/** One edition's card, as on the front page and the About page. */
+/** One edition's card on the "Choose your quiz" front page. */
 function editionCard(e) {
   return `      <li><a class="edition" href="editions/${encodeURIComponent(e.id)}/index.html" style="--card: ${e.background}">${e.icon ? `<img src="${esc(e.icon)}" alt="" width="64" height="64">` : ''}<span class="text"><span class="title">${esc(e.title)}</span>${e.description ? `<span class="desc">${esc(e.description)}</span>` : ''}</span><span class="play" aria-hidden="true">Play</span></a></li>`;
 }
 
+/** One edition's front page in miniature, for the carousel on the About page (moved by about.js). */
+function aboutCard(e) {
+  const h = e.home;
+  return `          <div class="card" data-title="${esc(e.title)}" data-desc="${esc(e.description)}"><a class="front ${esc(e.id)}" href="editions/${encodeURIComponent(e.id)}/index.html" style="--card: ${e.background}" draggable="false" aria-label="Play ${esc(e.title)}"><span class="bg"></span><span class="inner">${h.prize ? `<img class="prize" src="${esc(h.prize)}" alt="" draggable="false">` : ''}<span class="top">${esc(h.top)}</span><span class="accent">${esc(h.accent)}</span>${h.edition ? `<span class="edition">${esc(h.edition)}</span>` : ''}${h.tagline ? `<span class="tagline">${esc(h.tagline)}</span>` : ''}<span class="start">${esc(h.start)}</span></span></a></div>`;
+}
+
 /**
  * The About, Contact and Thanks pages (about.html, contact.html, thanks.html and site.css at the project root).
- * The About page's quiz list is replaced with the hosted editions. contact.html holds a Netlify form, which
- * Netlify finds when it deploys dist/ and emails out (set the address under Forms → Form notifications).
+ * The About page's carousel is filled with the hosted editions (between the editions:start / editions:end
+ * markers) and each one's about-card.css is linked (between the edition-styles markers). contact.html holds a
+ * Netlify form, which Netlify finds when it deploys dist/ and emails out (set the address under Forms → Form
+ * notifications).
  */
-const SITE_PAGES = ['about.html', 'contact.html', 'thanks.html', 'site.css'];
+const SITE_PAGES = ['about.html', 'about.js', 'contact.html', 'thanks.html', 'site.css'];
 
 function writeSitePages(editions) {
   for (const file of SITE_PAGES) {
@@ -192,7 +219,10 @@ function writeSitePages(editions) {
     if (file === 'about.html') {
       const list = /<!-- editions:start[^>]*-->[\s\S]*?<!-- editions:end -->\n?/;
       if (!list.test(text)) throw new Error('about.html: the editions:start / editions:end markers are missing');
-      text = text.replace(list, () => `${editions.map(editionCard).join('\n')}\n`);
+      text = text.replace(list, () => `${editions.map(aboutCard).join('\n')}\n`);
+      const styles = /<!-- edition-styles:start[^>]*-->[\s\S]*?<!-- edition-styles:end -->\n?/;
+      if (!styles.test(text)) throw new Error('about.html: the edition-styles:start / edition-styles:end markers are missing');
+      text = text.replace(styles, () => editions.filter((e) => e.aboutStyles).map((e) => `  <link rel="stylesheet" href="${esc(e.aboutStyles)}">\n`).join(''));
     }
     fs.writeFileSync(path.join(DIST, file), text);
   }
@@ -264,7 +294,7 @@ function writeLandingPage(editions) {
     <ul>
 ${editions.map(editionCard).join('\n')}
     </ul>
-    <p class="foot"><a href="about.html">About</a> · <a href="contact.html">Contact us</a> · <a href="https://x.com/WhoWants2Win" target="_blank" rel="noopener">@WhoWants2Win</a></p>
+    <p class="foot"><a href="about.html">About</a> · <a href="contact.html">Contact us</a> · <a href="https://x.com/WhoWants2Win" target="_blank" rel="noopener">@WhoWants2Win</a> · <a href="https://www.instagram.com/whowantstowingames/" target="_blank" rel="noopener">Instagram</a> · <a href="https://www.facebook.com/profile.php?id=61597127965129" target="_blank" rel="noopener">Facebook</a></p>
   </main>
 </body>
 </html>

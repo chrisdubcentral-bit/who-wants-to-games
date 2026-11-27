@@ -1,0 +1,203 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which Harry Potter character did Robbie Coltrane play?",
+    "options": [
+      "Filch",
+      "Hagrid",
+      "Slughorn",
+      "Dumbledore"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Robbie Coltrane",
+      "Hagrid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which criminal psychologist did Robbie Coltrane play in Cracker?",
+    "options": [
+      "Taggart",
+      "Fitz",
+      "Rebus",
+      "Frost"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Robbie Coltrane",
+      "Cracker",
+      "Fitz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Robbie Coltrane took his stage name in tribute to which jazz musician?",
+    "options": [
+      "John Coltrane",
+      "Miles Davis",
+      "Charlie Parker",
+      "Louis Armstrong"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Robbie Coltrane",
+      "John Coltrane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "In which town was Robbie Coltrane born?",
+    "options": [
+      "Cumbernauld",
+      "Paisley",
+      "Rutherglen",
+      "Hamilton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Robbie Coltrane",
+      "Rutherglen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "What was Robbie Coltrane's real name?",
+    "options": [
+      "Anthony McMillan Ross",
+      "Anthony Robin McMillan",
+      "Robin Anthony Baxter",
+      "Robert Coltrane Howie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Robbie Coltrane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Bond character did Robbie Coltrane play in GoldenEye and The World Is Not Enough?",
+    "options": [
+      "Boris Grishenko",
+      "Jack Wade",
+      "General Ourumov",
+      "Valentin Zukovsky"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Robbie Coltrane",
+      "James Bond"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Robbie Coltrane starred with Emma Thompson in which 1987 BBC drama?",
+    "options": [
+      "Your Cheatin' Heart",
+      "The Steamie",
+      "Takin' Over the Asylum",
+      "Tutti Frutti"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Robbie Coltrane",
+      "Tutti Frutti"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Robbie Coltrane co-starred with which Monty Python member in Nuns on the Run?",
+    "options": [
+      "Michael Palin",
+      "John Cleese",
+      "Terry Jones",
+      "Eric Idle"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Robbie Coltrane",
+      "Nuns on the Run"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Gruffalo character did Robbie Coltrane voice in 2009?",
+    "options": [
+      "The Mouse",
+      "The Gruffalo",
+      "The Fox",
+      "The Owl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Robbie Coltrane",
+      "The Gruffalo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "How many years in a row did Robbie Coltrane win the BAFTA TV Best Actor award for Cracker?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Robbie Coltrane",
+      "BAFTA",
+      "Cracker"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,7 @@
+# Mark Millar. Source: https://en.wikipedia.org/wiki/Mark_Millar
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | Comic book writer Mark Millar co-created which superhero series with John Romita Jr.? | Kick-Ass | Watchmen | The Boys | Preacher | Mark Millar; Kick-Ass
+3 | art-culture | In which town was comic book writer Mark Millar born? | Coatbridge | Airdrie | Motherwell | Paisley | Mark Millar; Coatbridge
+3 | art-culture | Which Mark Millar storyline inspired the 2017 film Logan? | Old Man Logan | Days of Future Past | Weapon X | Enemy of the State | Mark Millar; Old Man Logan; Logan
+4 | art-culture | Mark Millar studied politics and economics at which university before dropping out? | Glasgow University | Strathclyde University | Edinburgh University | Stirling University | Mark Millar; Glasgow University
+4 | art-culture | Which Mark Millar Marvel series did Time magazine call "the comic book of the decade"? | The Ultimates | Civil War | Old Man Logan | Ultimate X-Men | Mark Millar; The Ultimates; Time

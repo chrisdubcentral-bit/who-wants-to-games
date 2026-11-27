@@ -1,0 +1,7 @@
+# Glasgow Airport. Source: https://en.wikipedia.org/wiki/Glasgow_Airport
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | In which town is Glasgow Airport located? | Paisley | Renfrew | Clydebank | Erskine | Glasgow Airport; Paisley
+2 | landmarks | What was Glasgow Airport formerly called? | Abbotsinch Airport | Renfrew Airport | Prestwick Airport | Inchinnan Airport | Glasgow Airport; Abbotsinch
+3 | landmarks | Which airport did Glasgow Airport replace in 1966? | Renfrew Airport | Prestwick Airport | Edinburgh Airport | Barra Airport | Glasgow Airport; Renfrew
+3 | landmarks | Which architect designed Glasgow Airport's 1966 terminal? | Basil Spence | Norman Foster | Robert Matthew | Richard Rogers | Glasgow Airport; Basil Spence
+4 | landmarks | Which Scottish airline has its headquarters at Glasgow Airport? | Loganair | British Midland | Flybe | Highland Airways | Glasgow Airport; Loganair

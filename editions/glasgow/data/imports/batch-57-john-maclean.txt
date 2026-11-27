@@ -1,0 +1,12 @@
+# John Maclean. Source: https://en.wikipedia.org/wiki/John_Maclean_(Scottish_socialist)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | Which Glasgow socialist was appointed Bolshevik consul in Scotland in 1918? | John Maclean | James Maxton | Willie Gallacher | Manny Shinwell | John Maclean; Bolshevik consul
+2 | history | What was John Maclean's profession? | Schoolteacher | Shipwright | Lawyer | Minister | John Maclean
+3 | history | In which area of Glasgow was John Maclean born in 1879? | Pollokshaws | Govan | Partick | Bridgeton | John Maclean; Pollokshaws
+3 | history | In which prison near Aberdeen was John Maclean held after his 1918 sedition trial? | Peterhead | Barlinnie | Perth | Craiginches | John Maclean; Peterhead
+3 | history | Who wrote "The John Maclean March"? | Hamish Henderson | Matt McGinn | Ewan MacColl | Hugh MacDiarmid | John Maclean; Hamish Henderson
+3 | history | Which party did John Maclean found in 1923? | The Scottish Workers Republican Party | The Independent Labour Party | The Communist Party of Great Britain | The Scottish National Party | John Maclean; Scottish Workers Republican Party
+4 | history | Which Russian revolutionary called John Maclean one of the "isolated heroes" of world revolution? | Lenin | Trotsky | Stalin | Kerensky | John Maclean; Lenin
+4 | history | Roughly how long did John Maclean's famous "Speech from the Dock" last? | 75 minutes | 10 minutes | 3 hours | 30 minutes | John Maclean; Speech from the Dock
+4 | history | Which country issued a postage stamp in 1979 for John Maclean's centenary? | The USSR | Ireland | Cuba | East Germany | John Maclean; stamp
+4 | history | In which constituency did John Maclean stand as Labour candidate in 1918? | Glasgow Gorbals | Glasgow Govan | Glasgow Bridgeton | Glasgow Shettleston | John Maclean; 1918 election

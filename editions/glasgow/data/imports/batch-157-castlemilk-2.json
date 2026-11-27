@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Castlemilk was built to rehouse families from inner-city slums such as which area?",
+    "options": [
+      "Partick",
+      "Hillhead",
+      "The Gorbals",
+      "Dennistoun"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Castlemilk",
+      "Gorbals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Bronski Beat member is listed as a notable Castlemilk resident?",
+    "options": [
+      "Jimmy Somerville",
+      "John Foster",
+      "Steve Bronski",
+      "Larry Steinbachek"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Castlemilk",
+      "Steve Bronski"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Castlemilk woman served as Lord Provost of Glasgow from 2012 to 2017?",
+    "options": [
+      "Sadie Docherty",
+      "Liz Cameron",
+      "Eva Bolander",
+      "Jacqueline McLaren"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Castlemilk",
+      "Sadie Docherty"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year did Glasgow Corporation acquire the Castlemilk estate by compulsory purchase?",
+    "options": [
+      "1936",
+      "1919",
+      "1952",
+      "1965"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Castlemilk",
+      "1936"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Castlemilk building, from 1794, now holds housing offices and a nursery?",
+    "options": [
+      "The chapel",
+      "The castle keep",
+      "The mill",
+      "The stables block"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Castlemilk",
+      "stables"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which architect designed Castlemilk's 1794 stables?",
+    "options": [
+      "Robert Adam",
+      "David Hamilton",
+      "Alexander Thomson",
+      "Charles Wilson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Castlemilk",
+      "David Hamilton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Roughly how many houses was the Castlemilk scheme planned to have?",
+    "options": [
+      "1,500",
+      "8,300",
+      "50,000",
+      "25,000"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Castlemilk",
+      "houses"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Castlemilk secondary school, the scheme's first, opened in 1958 and closed in 1990?",
+    "options": [
+      "St Margaret Mary's",
+      "Castlemilk High",
+      "Grange Secondary",
+      "Glenwood Secondary"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Castlemilk",
+      "Glenwood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Grange Secondary in Castlemilk was renamed what?",
+    "options": [
+      "Carmunnock Academy",
+      "Glenwood Academy",
+      "Croftfoot High",
+      "Castlemilk High School"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Castlemilk",
+      "Castlemilk High"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What is Castlemilk's Gaelic name?",
+    "options": [
+      "Caisteal Mheilc",
+      "Druim a' Chapaill",
+      "Baile Mhuilinn",
+      "Caisteal Glas"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Castlemilk",
+      "Gaelic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which tower blocks on Ardencraig Road in Castlemilk were demolished in 2005?",
+    "options": [
+      "Dougrie",
+      "Linkwood",
+      "Mitchelhill",
+      "Red Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Castlemilk",
+      "Mitchelhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "How many storeys do Castlemilk's three tower blocks on Dougrie Road have?",
+    "options": [
+      "31",
+      "20",
+      "26",
+      "12"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Castlemilk",
+      "Dougrie Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Roughly what was Castlemilk's population in 1971?",
+    "options": [
+      "37,000",
+      "12,000",
+      "60,000",
+      "90,000"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Castlemilk",
+      "population"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which company built Castlemilk's Arcade shopping centre in the early 1960s?",
+    "options": [
+      "George Wimpey",
+      "Taylor Woodrow",
+      "Barratt",
+      "Ravenseft Properties"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Castlemilk",
+      "Arcade"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which 1980 law first gave Castlemilk council tenants the right to buy their homes?",
+    "options": [
+      "The Tenants' Rights, Etc. (Scotland) Act",
+      "The Rent Act",
+      "The Local Government Act",
+      "The Housing (Scotland) Act"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Castlemilk",
+      "right to buy"
+    ],
+    "source": "manual"
+  }
+]

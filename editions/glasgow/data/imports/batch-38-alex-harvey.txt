@@ -1,0 +1,12 @@
+# Alex Harvey. Source: https://en.wikipedia.org/wiki/Alex_Harvey_(musician)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | glasgow-bands | Which band did Alex Harvey form in 1972? | The Sensational Alex Harvey Band | Stone the Crows | Nazareth | The Average White Band | Alex Harvey; SAHB
+2 | songs-albums | Which Tom Jones hit did the Sensational Alex Harvey Band take to No. 7 in 1975? | Delilah | It's Not Unusual | Green, Green Grass of Home | She's a Lady | Alex Harvey; Delilah
+2 | glasgow-bands | Which guitarist played in the Sensational Alex Harvey Band? | Zal Cleminson | Manny Charlton | Jimmy McCulloch | Les Harvey | Alex Harvey; Zal Cleminson
+3 | glasgow-bands | Alex Harvey won a contest to find "Scotland's answer to" which singer? | Tommy Steele | Cliff Richard | Elvis Presley | Billy Fury | Alex Harvey; Tommy Steele
+3 | venues-gigs | In which London musical's pit band did Alex Harvey play from 1967? | Hair | Jesus Christ Superstar | Oliver! | Godspell | Alex Harvey; Hair
+3 | glasgow-bands | Which singer did Alex Harvey's brother Les form Stone the Crows with? | Maggie Bell | Lulu | Barbara Dickson | Annie Lennox | Alex Harvey; Les Harvey; Maggie Bell
+3 | famous-glaswegians | In which Glasgow district was Alex Harvey born and raised? | Kinning Park | Partick | Maryhill | Bridgeton | Alex Harvey; Kinning Park
+4 | glasgow-bands | What was the name of Alex Harvey's band from 1958 to 1965? | Alex Harvey's Big Soul Band | The Kinning Park Kats | The Alex Harvey Skiffle Group | Alex Harvey and the Hipsters | Alex Harvey; Big Soul Band
+4 | songs-albums | Where was the Sensational Alex Harvey Band's 1975 Live album recorded? | Hammersmith Odeon | Glasgow Apollo | Rainbow Theatre | Barrowland Ballroom | Alex Harvey; SAHB Live; Hammersmith Odeon
+4 | glasgow-bands | Which band were most of the Sensational Alex Harvey Band members in before SAHB? | Tear Gas | Nazareth | The Poets | The Beatstalkers | Alex Harvey; Tear Gas

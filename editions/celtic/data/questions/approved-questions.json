@@ -1,8 +1,4972 @@
 {
   "schemaVersion": 1,
   "collection": "approved",
-  "updatedAt": "2026-11-16T00:04:02.661Z",
+  "updatedAt": "2026-11-27T10:27:06.867Z",
   "questions": [
+    {
+      "id": "q_001883",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "Who presented Not The View's bust of Jock Stein at the People's Palace?",
+      "options": [
+        "Bobby Lennox",
+        "Sean Fallon",
+        "Billy McNeill",
+        "Jim Craig"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "Jock Stein",
+        "Sean Fallon"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001882",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "Where was Not The View's bust of Jock Stein put on display after the board turned it down?",
+      "options": [
+        "Scottish Football Museum",
+        "People's Palace",
+        "Kelvingrove Art Gallery",
+        "Glasgow City Chambers"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "Jock Stein",
+        "People's Palace"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001881",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "managers",
+      "difficulty": 2,
+      "question": "Not The View commissioned a bust of which Celtic legend, only for the board to turn it down?",
+      "options": [
+        "Jock Stein",
+        "Billy McNeill",
+        "Jimmy McGrory",
+        "Willie Maley"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "Jock Stein",
+        "bust"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001880",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "What did Not The View give out at Hampden for the 1988 Scottish Cup final, instead of a planned flexi-disc?",
+      "options": [
+        "Paper hats",
+        "Song sheets",
+        "Green and white balloons",
+        "Red cards"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "fanzine",
+        "1988",
+        "Scottish Cup final"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001879",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "Not The View handed out about 6,000 of what at Ibrox in March 1988?",
+      "options": [
+        "Red cards",
+        "Paper hats",
+        "Yellow cards",
+        "Green and white balloons"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "fanzine",
+        "1988",
+        "Ibrox"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001878",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "opponents",
+      "difficulty": 2,
+      "question": "Celtic beat Rangers 2-1 on 20 March 1988 in their centenary title run. Where was the game played?",
+      "options": [
+        "Tynecastle",
+        "Ibrox",
+        "Celtic Park",
+        "Hampden Park"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Rangers",
+        "1987-88",
+        "centenary",
+        "Ibrox",
+        "Not The View"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001877",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "Which club's win at Parkhead in May 1987 was the \"final straw\" that led to Not The View?",
+      "options": [
+        "Falkirk",
+        "Hamilton Academical",
+        "Dundee United",
+        "Motherwell"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "fanzine",
+        "Falkirk",
+        "1987"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001876",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "Which issue of Not The View was the first in its familiar 36-page format with a three-colour cover?",
+      "options": [
+        "Issue 4",
+        "Issue 1",
+        "Issue 10",
+        "Issue 2"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "fanzine",
+        "1988"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001875",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Not The View's second issue mocked which former Celtic striker, then at Nantes?",
+      "options": [
+        "Charlie Nicholas",
+        "Brian McClair",
+        "Maurice Johnston",
+        "Frank McGarvey"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Maurice Johnston",
+        "Nantes",
+        "Not The View",
+        "NTV"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001874",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "opponents",
+      "difficulty": 2,
+      "question": "Which Rangers player-manager was sent off as Celtic beat Rangers 1-0 in August 1987?",
+      "options": [
+        "Terry Butcher",
+        "Graeme Souness",
+        "Graham Roberts",
+        "Chris Woods"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Graeme Souness",
+        "Rangers",
+        "1987-88",
+        "Not The View"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001873",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "opponents",
+      "difficulty": 3,
+      "question": "Who scored the only goal as Celtic beat Rangers 1-0 at Celtic Park on 29 August 1987?",
+      "options": [
+        "Billy Stark",
+        "Andy Walker",
+        "Frank McAvennie",
+        "Paul McStay"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Billy Stark",
+        "Rangers",
+        "1987-88",
+        "Not The View"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001872",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "question": "Near the top of which street was the first issue of Not The View sold in 1987?",
+      "options": [
+        "Kerrydale Street",
+        "Janefield Street",
+        "London Road",
+        "Springfield Road"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "fanzine",
+        "Janefield Street"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001871",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "How many photocopied copies of the first Not The View were printed in 1987?",
+      "options": [
+        "2,000",
+        "5,000",
+        "500",
+        "100"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "fanzine",
+        "1987"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001870",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "Not The View's first issue went on sale in August 1987 before Celtic played which team?",
+      "options": [
+        "Hibernian",
+        "Aberdeen",
+        "Hearts",
+        "Rangers"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "fanzine",
+        "1987"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001869",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "In which year did the Celtic fanzine Not The View first appear?",
+      "options": [
+        "1987",
+        "1984",
+        "1990",
+        "1993"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Not The View",
+        "NTV",
+        "fanzine",
+        "1987"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001868",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "club-achievements",
+      "difficulty": 2,
+      "question": "Jock Stein's nine league titles in a row began in which season?",
+      "options": [
+        "1965-66",
+        "1968-69",
+        "1966-67",
+        "1962-63"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "nine in a row",
+        "Jock Stein",
+        "1965-66"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001886",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Dick Beattie's Celtic debut in 1955 was a 1-1 League Cup draw with which club?",
+      "options": [
+        "East Fife",
+        "Queen of the South",
+        "Falkirk",
+        "Airdrieonians"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Dick Beattie",
+        "League Cup",
+        "1955"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001885",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Goalkeeper Dick Beattie took over as Celtic's first choice from which keeper?",
+      "options": [
+        "John Bonnar",
+        "Ronnie Simpson",
+        "Frank Haffey",
+        "Willie Miller"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Dick Beattie",
+        "John Bonnar"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.203Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.203Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001884",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 3,
+      "question": "From which junior club did Celtic sign goalkeeper Dick Beattie in September 1954?",
+      "options": [
+        "Kirkintilloch Rob Roy",
+        "Petershill",
+        "Duntocher Hibernian",
+        "Shettleston"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Dick Beattie",
+        "1954"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:27:54.202Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:27:54.202Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001865",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "St Mary's Church hall, where Celtic were founded, is in which district of Glasgow's East End?",
+      "options": [
+        "Shettleston",
+        "Dennistoun",
+        "Bridgeton",
+        "Calton"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Celtic history",
+        "St Mary's",
+        "Calton"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:19.048Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:19.047Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001862",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Which Welsh international goalkeeper, who played once for Celtic on loan in 1910, was killed on the Somme in 1916?",
+      "options": [
+        "Bob Evans",
+        "Leigh Roose",
+        "Dai Davies",
+        "Jack Kelsey"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Leigh Roose",
+        "First World War",
+        "Somme",
+        "1916"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:01.163Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:01.163Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001861",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Which Celtic player from the six-in-a-row side, with 223 appearances, was killed at Arras in May 1917?",
+      "options": [
+        "Willie Angus",
+        "Peter Johnstone",
+        "Jimmy McMenemy",
+        "Alec McNair"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Peter Johnstone",
+        "Arras",
+        "First World War",
+        "1917"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:01.163Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:01.163Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001860",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "How many players on Celtic's books were killed in the First World War, according to the Celtic Wiki?",
+      "options": [
+        "Twelve",
+        "Three",
+        "Seven",
+        "Twenty"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "First World War"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:01.163Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:01.163Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001859",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which Celtic player was the first Scottish Territorial soldier to win the Victoria Cross, at Givenchy in 1915?",
+      "options": [
+        "Joe Dodds",
+        "Peter Johnstone",
+        "Patsy Gallacher",
+        "Willie Angus"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Willie Angus",
+        "Victoria Cross",
+        "First World War",
+        "1915"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:01.163Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:01.163Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001858",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "Celtic's 77-match unbeaten home run in the SPL ended with a 3-2 defeat to which club in April 2004?",
+      "options": [
+        "Dundee United",
+        "Aberdeen",
+        "Hearts",
+        "Rangers"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "club records",
+        "Aberdeen",
+        "2004",
+        "unbeaten home run"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:01.163Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:01.163Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001857",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "Celtic had four goals disallowed in 17 minutes against Kilmarnock in April 2000. Who had three ruled out?",
+      "options": [
+        "Eyal Berkovic",
+        "Tommy Johnson",
+        "Mark Burchill",
+        "Mark Viduka"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "club records",
+        "Kilmarnock",
+        "Tommy Johnson",
+        "2000"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:01.163Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:01.163Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001856",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "european-campaigns",
+      "difficulty": 5,
+      "question": "Celtic beat which Icelandic club 7-0 in European competition in 1975?",
+      "options": [
+        "Valur",
+        "Fram",
+        "IA Akranes",
+        "KR Reykjavik"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "club records",
+        "Valur",
+        "1975"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:01.163Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:01.163Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001855",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "Celtic beat which Lithuanian club 8-1 in European competition in 2003?",
+      "options": [
+        "Zalgiris Vilnius",
+        "Suduva",
+        "Ekranas",
+        "Kaunas"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "club records",
+        "Suduva",
+        "2003"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:01.163Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:01.163Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001854",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "european-campaigns",
+      "difficulty": 3,
+      "question": "Celtic's record European defeat, 5-0 in July 2005, was against which club?",
+      "options": [
+        "Artmedia Bratislava",
+        "Dinamo Bucharest",
+        "Partizan Belgrade",
+        "Sparta Prague"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "club records",
+        "Artmedia Bratislava",
+        "2005"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001853",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "european-campaigns",
+      "difficulty": 3,
+      "question": "Celtic's record European win, 9-0 in 1970, came against which Finnish club?",
+      "options": [
+        "KPV Kokkola",
+        "TPS Turku",
+        "Haka",
+        "HJK Helsinki"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "club records",
+        "KPV Kokkola",
+        "1970"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001852",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-campaigns",
+      "difficulty": 4,
+      "question": "Who scored a hat-trick against Jeunesse Esch in 2000, said to be the fastest in European club football?",
+      "options": [
+        "Tommy Johnson",
+        "Henrik Larsson",
+        "Chris Sutton",
+        "Mark Burchill"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "club records",
+        "Mark Burchill",
+        "Jeunesse Esch",
+        "2000"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001851",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "club-records",
+      "difficulty": 3,
+      "question": "How many caps did Pat Bonner win for the Republic of Ireland, a Celtic record?",
+      "options": [
+        "80",
+        "64",
+        "92",
+        "72"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "club records",
+        "Pat Bonner",
+        "Republic of Ireland"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001850",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "club-records",
+      "difficulty": 2,
+      "question": "Which Celtic player won a club-record 76 caps for Scotland?",
+      "options": [
+        "Roy Aitken",
+        "Danny McGrain",
+        "Paul McStay",
+        "Tommy Boyd"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "club records",
+        "Paul McStay",
+        "Scotland caps"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001849",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "club-records",
+      "difficulty": 3,
+      "question": "Willie Maley, Celtic's longest-serving manager, was in charge for how many years?",
+      "options": [
+        "39",
+        "35",
+        "43",
+        "47"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "club records",
+        "Willie Maley"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001848",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "club-records",
+      "difficulty": 1,
+      "question": "Who holds Celtic's record for goals in a season, with 53?",
+      "options": [
+        "Kenny Dalglish",
+        "Henrik Larsson",
+        "Charlie Nicholas",
+        "Jimmy McGrory"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "club records",
+        "Henrik Larsson"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001847",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "club-records",
+      "difficulty": 3,
+      "question": "Which Celtic player scored the fastest goal in SPL history at the time, after 12.2 seconds against Aberdeen in 2013?",
+      "options": [
+        "Gary Hooper",
+        "Kris Commons",
+        "Georgios Samaras",
+        "Anthony Stokes"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "club records",
+        "Kris Commons",
+        "fastest goal",
+        "2013"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001846",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "club-records",
+      "difficulty": 3,
+      "question": "Who became Celtic's youngest player and youngest scorer, aged 16 years 71 days, in May 2016?",
+      "options": [
+        "Jack Aitchison",
+        "Mikey Johnston",
+        "Karamoko Dembele",
+        "Kieran Tierney"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "club records",
+        "Jack Aitchison",
+        "2016"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001845",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "Who holds Celtic's record for league appearances, with 540 between 1904 and 1925?",
+      "options": [
+        "Jimmy McMenemy",
+        "Billy McNeill",
+        "Alec McNair",
+        "Paul McStay"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "club records",
+        "Alec McNair"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:25:11.585Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:25:11.585Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001844",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "cup-finals",
+      "difficulty": 3,
+      "question": "Over 146,000 watched Celtic win the 1937 Scottish Cup final at Hampden against which club?",
+      "options": [
+        "Hearts",
+        "Motherwell",
+        "Aberdeen",
+        "Rangers"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "club records",
+        "attendance",
+        "Scottish Cup final",
+        "1937",
+        "Aberdeen"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001843",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-park",
+      "difficulty": 3,
+      "question": "What is Celtic Park's record attendance, set against Rangers on 1 January 1938?",
+      "options": [
+        "102,000",
+        "92,000",
+        "83,500",
+        "75,000"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "club records",
+        "Celtic Park",
+        "attendance",
+        "1938"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001842",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "How many points did Celtic win in 1987-88, their record in the two-points-for-a-win era?",
+      "options": [
+        "68",
+        "72",
+        "64",
+        "76"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "club records",
+        "1987-88",
+        "centenary"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001841",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "Celtic's record post-war home defeat, 5-1 in 1947, came against which club?",
+      "options": [
+        "Motherwell",
+        "Hibernian",
+        "Aberdeen",
+        "Rangers"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "club records",
+        "Aberdeen",
+        "1947"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001840",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "Which club inflicted Celtic's record home defeat, 5-0 in 1895?",
+      "options": [
+        "Dundee",
+        "Rangers",
+        "Queen's Park",
+        "Hearts"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "club records",
+        "Hearts",
+        "1895"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001839",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "club-records",
+      "difficulty": 2,
+      "question": "What was the score in Celtic's record defeat, against Motherwell in 1937?",
+      "options": [
+        "8-0",
+        "6-0",
+        "5-0",
+        "7-1"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "club records",
+        "Motherwell",
+        "1937"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001838",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "With which club did ex-Celtic keeper Julius Hjulian win the Swedish championship in 1921?",
+      "options": [
+        "IFK Gothenburg",
+        "Hammarby",
+        "AIK",
+        "IFK Eskilstuna"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Julius Hjulian",
+        "IFK Eskilstuna",
+        "1921"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001837",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "In which American city did former Celtic goalkeeper Julius Hjulian live and play?",
+      "options": [
+        "Philadelphia",
+        "New York",
+        "St Louis",
+        "Chicago"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Julius Hjulian",
+        "Chicago"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001836",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Ex-Celtic keeper Julius Hjulian was in goal as the USA lost 7-1 to which country at the 1934 World Cup?",
+      "options": [
+        "Germany",
+        "Italy",
+        "Spain",
+        "Austria"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Julius Hjulian",
+        "USA",
+        "Italy",
+        "1934 World Cup"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001835",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which country did former Celtic reserve goalkeeper Julius Hjulian play for at the 1934 World Cup?",
+      "options": [
+        "USA",
+        "Canada",
+        "Norway",
+        "Sweden"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Julius Hjulian",
+        "USA",
+        "1934 World Cup"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:23:42.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:23:42.063Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001834",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Julius Hjulian, a goalkeeper with Celtic's reserves in 1925-26, was born in which country?",
+      "options": [
+        "Sweden",
+        "Finland",
+        "Norway",
+        "Denmark"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Julius Hjulian",
+        "Sweden"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:22:45.662Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:22:45.662Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001833",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Willie Maley said of Arsenal's bid for Jimmy McGrory: \"We left him to say 'Yes' or 'No'.\" What did McGrory say?",
+      "options": [
+        "Not yet",
+        "Yes",
+        "No",
+        "Maybe"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Jimmy McGrory",
+        "Willie Maley",
+        "Arsenal"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:22:45.662Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:22:45.662Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001832",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "After Jimmy McGrory turned down Arsenal, what happened to his Celtic wages?",
+      "options": [
+        "They were kept below his team-mates'",
+        "They were doubled",
+        "They matched Arsenal's offer",
+        "They were frozen for one season"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Jimmy McGrory",
+        "Arsenal",
+        "Willie Maley"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:22:45.662Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:22:45.662Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001831",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "players",
+      "difficulty": 1,
+      "question": "Jimmy McGrory said \"McGrory of Arsenal\" never sounded as good as what?",
+      "options": [
+        "McGrory of Scotland",
+        "McGrory of Parkhead",
+        "McGrory of Glasgow",
+        "McGrory of Celtic"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy McGrory",
+        "Arsenal"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:22:45.662Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:22:45.662Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001830",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Which Arsenal chairman met Jimmy McGrory at Euston in 1928?",
+      "options": [
+        "Sir Henry Norris",
+        "Denis Hill-Wood",
+        "Peter Hill-Wood",
+        "Sir Samuel Hill-Wood"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy McGrory",
+        "Arsenal",
+        "Samuel Hill-Wood"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:22:45.662Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:22:45.662Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001829",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "What signing-on fee did Jimmy McGrory ask Arsenal for at the Euston Hotel in 1928?",
+      "options": [
+        "£10,000",
+        "£2,000",
+        "£1,000",
+        "£500"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Jimmy McGrory",
+        "Arsenal",
+        "1928"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:22:45.662Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:22:45.662Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001828",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "What British record fee had Celtic agreed with Arsenal for Jimmy McGrory in 1928?",
+      "options": [
+        "£5,000",
+        "£8,000",
+        "£3,000",
+        "£12,000"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Jimmy McGrory",
+        "Arsenal",
+        "1928"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:22:45.662Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:22:45.662Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001827",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "At which London station were Arsenal's manager and chairman waiting for Jimmy McGrory in 1928?",
+      "options": [
+        "Paddington",
+        "King's Cross",
+        "Victoria",
+        "Euston"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy McGrory",
+        "Arsenal",
+        "Euston"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:22:45.662Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:22:45.662Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001826",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Where was Jimmy McGrory travelling with Willie Maley in summer 1928 when Arsenal tried to sign him?",
+      "options": [
+        "Rome",
+        "Lourdes",
+        "Knock",
+        "Fatima"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Jimmy McGrory",
+        "Willie Maley",
+        "Lourdes",
+        "1928"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001825",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Which Arsenal manager tried and failed to sign Jimmy McGrory in 1928?",
+      "options": [
+        "Tom Whittaker",
+        "George Allison",
+        "Herbert Chapman",
+        "Leslie Knighton"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Jimmy McGrory",
+        "Herbert Chapman",
+        "Arsenal",
+        "1928"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001824",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Which English club tried to sign Jimmy McGrory from Celtic in 1928?",
+      "options": [
+        "Aston Villa",
+        "Arsenal",
+        "Sunderland",
+        "Everton"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Jimmy McGrory",
+        "Arsenal",
+        "1928"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001823",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "Which Belfast-born Celtic winger was a big fan of coach Jimmy Hogan's ideas?",
+      "options": [
+        "Jimmy Delaney",
+        "Bertie Peacock",
+        "Johnny Paton",
+        "Charlie Tully"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy Hogan",
+        "Charlie Tully"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001822",
+      "schemaVersion": 1,
+      "club": "general",
+      "stage": "semi-final",
+      "category": "general-football",
+      "difficulty": 4,
+      "question": "Former Celtic coach Jimmy Hogan watched Hungary beat England by what score at Wembley in 1953?",
+      "options": [
+        "4-2",
+        "6-3",
+        "7-1",
+        "5-3"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Jimmy Hogan",
+        "Hungary",
+        "Wembley",
+        "1953"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001821",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "Where were Celtic's players introduced to new coach Jimmy Hogan in summer 1948?",
+      "options": [
+        "At a reception in the City Chambers",
+        "At training at Barrowfield",
+        "At a dinner in Seamill",
+        "At a golf day in Uddingston"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy Hogan",
+        "Uddingston",
+        "1948"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001820",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "Which then Celtic player called Jimmy Hogan \"the finest coach the world had ever known\"?",
+      "options": [
+        "Bobby Evans",
+        "Sean Fallon",
+        "Tommy Docherty",
+        "Bertie Peacock"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Jimmy Hogan",
+        "Tommy Docherty"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001819",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "managers",
+      "difficulty": 3,
+      "question": "Which was the only trophy Celtic won in Jimmy Hogan's two seasons as coach?",
+      "options": [
+        "Scottish Cup",
+        "League Cup",
+        "Glasgow Cup",
+        "Scottish League"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Jimmy Hogan",
+        "Glasgow Cup"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001818",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "managers",
+      "difficulty": 3,
+      "question": "Which Celtic chairman brought in Jimmy Hogan as coach in 1948?",
+      "options": [
+        "Robert Kelly",
+        "Desmond White",
+        "Tom White",
+        "Jack McGinn"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Jimmy Hogan",
+        "Robert Kelly",
+        "1948"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001817",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "Which Austrian football chief first hired the future Celtic coach Jimmy Hogan?",
+      "options": [
+        "Matthias Sindelar",
+        "Hugo Meisl",
+        "Ernst Happel",
+        "Karl Rappan"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Jimmy Hogan",
+        "Hugo Meisl",
+        "Austria"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001816",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "During the First World War, Jimmy Hogan coached which club to Hungarian titles in 1917 and 1918?",
+      "options": [
+        "Ferencvaros",
+        "Ujpest",
+        "Honved",
+        "MTK Budapest"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy Hogan",
+        "MTK Budapest"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001815",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "Future Celtic coach Jimmy Hogan prepared which nation for the 1912 Olympics in Stockholm?",
+      "options": [
+        "Hungary",
+        "Switzerland",
+        "Netherlands",
+        "Austria"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy Hogan",
+        "Austria",
+        "1912 Olympics"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001814",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "managers",
+      "difficulty": 5,
+      "question": "Coach Jimmy Hogan, who joined Celtic in 1948, was born in which Lancashire town?",
+      "options": [
+        "Nelson",
+        "Accrington",
+        "Burnley",
+        "Blackburn"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Jimmy Hogan"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001813",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "opponents",
+      "difficulty": 3,
+      "question": "How many European Cups had Inter Milan won before they met Celtic in the 1967 final?",
+      "options": [
+        "One",
+        "Three",
+        "None",
+        "Two"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Inter Milan",
+        "Lisbon 1967",
+        "Helenio Herrera"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001812",
+      "schemaVersion": 1,
+      "club": "general",
+      "stage": "final",
+      "category": "general-football",
+      "difficulty": 5,
+      "question": "Which Austrian-born coach of Switzerland devised the catenaccio-style defence in the 1930s?",
+      "options": [
+        "Vittorio Pozzo",
+        "Nereo Rocco",
+        "Karl Rappan",
+        "Hugo Meisl"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "catenaccio",
+        "Karl Rappan"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001811",
+      "schemaVersion": 1,
+      "club": "general",
+      "stage": "final",
+      "category": "general-football",
+      "difficulty": 5,
+      "question": "The Italian defensive system catenaccio is often translated as what?",
+      "options": [
+        "The cage",
+        "The padlock",
+        "The chain",
+        "The wall"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "catenaccio",
+        "Inter Milan",
+        "Lisbon 1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001810",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "managers",
+      "difficulty": 3,
+      "question": "Helenio Herrera was sacked by which club in 1960, just before joining Inter Milan?",
+      "options": [
+        "Real Madrid",
+        "Atletico Madrid",
+        "Valencia",
+        "Barcelona"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Helenio Herrera",
+        "Barcelona",
+        "1960"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001809",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "Helenio Herrera won the Spanish league in 1950 and 1951 with which club?",
+      "options": [
+        "Real Sociedad",
+        "Valencia",
+        "Sevilla",
+        "Atletico Madrid"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Helenio Herrera",
+        "Atletico Madrid"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001808",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "managers",
+      "difficulty": 4,
+      "question": "Inter Milan coach Helenio Herrera was born in which country in 1910?",
+      "options": [
+        "Morocco",
+        "Argentina",
+        "France",
+        "Spain"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Helenio Herrera",
+        "Inter Milan"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001807",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Jimmy Johnstone said the Inter players in the Lisbon tunnel looked like what?",
+      "options": [
+        "Soldiers",
+        "Male models",
+        "Movie stars",
+        "Giants"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Lisbon 1967",
+        "Jimmy Johnstone",
+        "Inter Milan"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001806",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "cup-finals",
+      "difficulty": 4,
+      "question": "Which reserve goalkeeper did Jock Stein sit on the bench nearest halfway in Lisbon, as a psychological blow?",
+      "options": [
+        "Frank Haffey",
+        "Denis Connaghan",
+        "John Fallon",
+        "Bent Martin"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Lisbon 1967",
+        "John Fallon",
+        "Jock Stein"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001805",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "Which Celtic player led his team-mates in singing The Celtic Song in the tunnel before the 1967 final?",
+      "options": [
+        "Jimmy Johnstone",
+        "Bertie Auld",
+        "Bobby Lennox",
+        "Billy McNeill"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Lisbon 1967",
+        "Bertie Auld"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001804",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "In which Lisbon stadium did Celtic win the 1967 European Cup final?",
+      "options": [
+        "Estadio Jose Alvalade",
+        "Estadio do Restelo",
+        "Estadio da Luz",
+        "Estadio Nacional"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Lisbon 1967",
+        "Estadio Nacional"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001803",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 4,
+      "question": "Lothar Matthaus captained Bayern Munich to a 2-1 win at Celtic Park in February 1997 in whose testimonial?",
+      "options": [
+        "Tom Boyd",
+        "Paul McStay",
+        "Roy Aitken",
+        "Peter Grant"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Lothar Matthaus",
+        "Bayern Munich",
+        "Peter Grant",
+        "testimonial",
+        "1997"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001802",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "opponents",
+      "difficulty": 3,
+      "question": "Kevin Keegan's Liverpool drew 1-1 at Celtic Park in August 1974 in whose testimonial?",
+      "options": [
+        "Tommy Gemmell",
+        "Bobby Murdoch",
+        "Jimmy Johnstone",
+        "Billy McNeill"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Kevin Keegan",
+        "Liverpool",
+        "Billy McNeill",
+        "testimonial",
+        "1974"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001801",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 4,
+      "question": "Which great goalkeeper was in the Juventus side beaten 1-0 at Celtic Park in September 1981?",
+      "options": [
+        "Dino Zoff",
+        "Stefano Tacconi",
+        "Walter Zenga",
+        "Gianluigi Buffon"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Dino Zoff",
+        "Juventus",
+        "1981"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001800",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "european-nights",
+      "difficulty": 3,
+      "question": "Who scored in Celtic's 3-0 home win over Eusebio's Benfica in November 1969?",
+      "options": [
+        "Lennox, Hughes and Johnstone",
+        "Macari, Dalglish and Hay",
+        "Murdoch, Auld and Chalmers",
+        "Gemmell, Wallace and Hood"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Benfica",
+        "Eusebio",
+        "1969",
+        "Tommy Gemmell",
+        "Willie Wallace",
+        "Harry Hood"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001799",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "european-nights",
+      "difficulty": 3,
+      "question": "AC Milan won 1-0 at Celtic Park in the 1969 European Cup. Which Milan star was 1969 European Player of the Year?",
+      "options": [
+        "Gianni Rivera",
+        "Giovanni Trapattoni",
+        "Kurt Hamrin",
+        "Pierino Prati"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Gianni Rivera",
+        "AC Milan",
+        "1969"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001798",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 4,
+      "question": "Celtic beat Red Star Belgrade 5-1 in November 1968. Which Yugoslav winger starred for Red Star?",
+      "options": [
+        "Dragoslav Sekularac",
+        "Ilija Petkovic",
+        "Dragan Dzajic",
+        "Velibor Vasovic"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Dragan Dzajic",
+        "Red Star Belgrade",
+        "1968"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001797",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "european-nights",
+      "difficulty": 4,
+      "question": "Which Dukla Prague star, European Footballer of the Year in 1962, played at Celtic Park in the 1967 semi-final?",
+      "options": [
+        "Jan Popluhar",
+        "Josef Masopust",
+        "Ladislav Novak",
+        "Ivo Viktor"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Josef Masopust",
+        "Dukla Prague",
+        "1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001796",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "opponents",
+      "difficulty": 2,
+      "question": "George Best played once at Celtic Park, for Hibs in 1980. What was the score?",
+      "options": [
+        "Celtic 3-1 Hibs",
+        "Celtic 2-0 Hibs",
+        "Celtic 4-0 Hibs",
+        "Celtic 1-1 Hibs"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "George Best",
+        "Hibernian",
+        "1980"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001795",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 4,
+      "question": "Bobby Charlton returned to Celtic Park in August 1974 as player-manager of which club?",
+      "options": [
+        "Bolton Wanderers",
+        "Burnley",
+        "Preston North End",
+        "Blackpool"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Bobby Charlton",
+        "Preston North End",
+        "1974"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001794",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "opponents",
+      "difficulty": 4,
+      "question": "Real Madrid beat Celtic 3-1 in a 1962 challenge match at Celtic Park. Roughly how big was the crowd?",
+      "options": [
+        "58,000",
+        "72,000",
+        "45,000",
+        "92,000"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Real Madrid",
+        "1962",
+        "Di Stefano",
+        "Puskas"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001793",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "A sponsored walk to Celtic Park, helping to fund a Brother Walfrid sculpture in Sligo, began in which town?",
+      "options": [
+        "Ballina",
+        "Collooney",
+        "Ballymote",
+        "Tubbercurry"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Brother Walfrid",
+        "Sligo",
+        "Ballymote"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001792",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "What marks Brother Walfrid's grave at Mount St Michael's in Dumfries?",
+      "options": [
+        "A simple metal cross",
+        "A granite angel",
+        "A marble obelisk",
+        "A tall stone Celtic cross"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Brother Walfrid",
+        "Dumfries",
+        "grave"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001791",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "In which year did Brother Walfrid retire?",
+      "options": [
+        "1892",
+        "1908",
+        "1913",
+        "1898"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Brother Walfrid",
+        "1908"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001790",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "In which Scottish town did Brother Walfrid die and is buried?",
+      "options": [
+        "Stirling",
+        "Dumfries",
+        "Kilmarnock",
+        "Ayr"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Brother Walfrid",
+        "Dumfries",
+        "Mount St Michael's"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001789",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "celtic-history",
+      "difficulty": 5,
+      "question": "In which year did Brother Walfrid die?",
+      "options": [
+        "1922",
+        "1908",
+        "1911",
+        "1915"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Brother Walfrid",
+        "1915"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001788",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "Which two clubs played the 1887 exhibition match in Glasgow that Brother Walfrid arranged?",
+      "options": [
+        "Hibernian and Renton",
+        "Hearts and Third Lanark",
+        "Hibernian and Queen's Park",
+        "Renton and Dumbarton"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Brother Walfrid",
+        "Hibernian",
+        "Renton",
+        "1887"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001787",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "In which month of 1887 was Celtic formed in St Mary's parish hall?",
+      "options": [
+        "September",
+        "March",
+        "June",
+        "November"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Brother Walfrid",
+        "1887",
+        "St Mary's"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001786",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "In which country did Brother Walfrid train as a Marist novice and take his religious name?",
+      "options": [
+        "Spain",
+        "Belgium",
+        "France",
+        "Italy"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Brother Walfrid",
+        "Marist Brothers",
+        "Beauchamps"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001785",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "How did the young Andrew Kerins, later Brother Walfrid, travel from Ireland to Glasgow?",
+      "options": [
+        "On a fishing boat",
+        "On a cattle boat",
+        "On a mail steamer",
+        "On a coal ship"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Brother Walfrid",
+        "Andrew Kerins"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001784",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "celtic-history",
+      "difficulty": 4,
+      "question": "How old was Andrew Kerins, later Brother Walfrid, when he came from Ireland to Glasgow in 1855?",
+      "options": [
+        "19",
+        "22",
+        "12",
+        "15"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Brother Walfrid",
+        "Andrew Kerins",
+        "1855"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001783",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Which two Scottish clubs did Dick Beattie play for after leaving Peterborough?",
+      "options": [
+        "Partick Thistle and Stenhousemuir",
+        "Dundee and Forfar",
+        "St Mirren and Brechin",
+        "Morton and Arbroath"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Dick Beattie",
+        "St Mirren",
+        "Brechin"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001782",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "What punishment did ex-Celtic keeper Dick Beattie receive after being found guilty of match-fixing?",
+      "options": [
+        "Four years in prison and a life ban",
+        "A £500 fine and a two-year ban",
+        "A one-year ban and no prison",
+        "Nine months in prison and a life ban"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Dick Beattie",
+        "match-fixing"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001781",
+      "schemaVersion": 1,
+      "club": "general",
+      "stage": "final",
+      "category": "general-football",
+      "difficulty": 5,
+      "question": "Which former striker sold the story of a 1960s match-fixing ring, which named Dick Beattie, to the Sunday People?",
+      "options": [
+        "Jimmy Gauld",
+        "Peter Swan",
+        "David Layne",
+        "Tony Kay"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Dick Beattie",
+        "Jimmy Gauld",
+        "match-fixing",
+        "1964"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001780",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Ex-Celtic keeper Dick Beattie joined which English club in 1962, playing only 10 games for them?",
+      "options": [
+        "Mansfield Town",
+        "Peterborough United",
+        "Northampton Town",
+        "Swindon Town"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Dick Beattie",
+        "Peterborough United",
+        "1962"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001779",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Dick Beattie left Celtic in August 1959 for which English club?",
+      "options": [
+        "Portsmouth",
+        "Southampton",
+        "Sunderland",
+        "Preston North End"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Dick Beattie",
+        "Portsmouth",
+        "1959"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001778",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Roughly how many appearances did goalkeeper Dick Beattie make for Celtic in five seasons?",
+      "options": [
+        "274",
+        "212",
+        "156",
+        "96"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Dick Beattie"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001777",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "cup-finals",
+      "difficulty": 2,
+      "question": "Celtic keeper Dick Beattie was pictured holding up seven fingers after which 1957 final?",
+      "options": [
+        "League Cup final",
+        "Charity Cup final",
+        "Scottish Cup final",
+        "Glasgow Cup final"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Dick Beattie",
+        "1957",
+        "League Cup final",
+        "7-1"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:00:15.538Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:00:15.538Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001768",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Cambuslang-born John Fallon served Celtic as which position for 184 appearances?",
+      "options": [
+        "Midfielder",
+        "Forward",
+        "Goalkeeper",
+        "Defender"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "John Fallon",
+        "Cambuslang",
+        "goalkeeper"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:23:17.804Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:23:17.804Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001767",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Which defender born in Stenhousemuir made 641 appearances for Celtic?",
+      "options": [
+        "Danny McGrain",
+        "Alec McNair",
+        "Roy Aitken",
+        "Billy McNeill"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Alec McNair",
+        "Stenhousemuir",
+        "defender"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:22:58.073Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:22:58.073Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001762",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "The Bellshill-born centre-half who made 789 Celtic appearances was which legend?",
+      "options": [
+        "Roy Aitken",
+        "Danny McGrain",
+        "Jimmy McStay",
+        "Billy McNeill"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Billy McNeill",
+        "Bellshill",
+        "defender"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:22:07.532Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:22:07.532Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001759",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Montreal-born goalkeeper Joe Kennaway played for Celtic in which decade?",
+      "options": [
+        "1950s",
+        "1930s",
+        "1920s",
+        "1940s"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Joe Kennaway",
+        "goalkeeper",
+        "Montreal"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:18:22.486Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:18:22.486Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001756",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Which English-born goalkeeper made 272 appearances at Celtic Park?",
+      "options": [
+        "Peter Latchford",
+        "Pat Bonner",
+        "John Fallon",
+        "Evan Williams"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Peter Latchford",
+        "Birmingham",
+        "goalkeeper"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:17:11.899Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:17:11.898Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001754",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Which Irish player from Donegal played over 640 appearances for Celtic?",
+      "options": [
+        "Pat Bonner",
+        "Stevie Chalmers",
+        "Jimmy McMenemy",
+        "Patsy Gallacher"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Pat Bonner",
+        "Donegal",
+        "goalkeeper"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:16:42.673Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:16:42.673Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001752",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Which Ayrshire-born winger linked with the Lisbon Lions era played 571 times for Celtic?",
+      "options": [
+        "Bobby Lennox",
+        "Bertie Auld",
+        "Jimmy Johnstone",
+        "John Hughes"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Bobby Lennox",
+        "Saltcoats",
+        "Lisbon 1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:16:25.480Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:16:25.480Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001776",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "players",
+      "difficulty": 3,
+      "question": "In which Glasgow district was striker Stevie Chalmers, the 1967 Lisbon Lion, born?",
+      "options": [
+        "Springburn",
+        "Govan",
+        "Maryhill",
+        "Garngad"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Stevie Chalmers",
+        "Garngad",
+        "Lisbon 1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:16:01.864Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:16:01.864Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001753",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "The Garngad-born players Stevie Chalmers and Jimmy McGrory both played as which position?",
+      "options": [
+        "Defender",
+        "Goalkeeper",
+        "Midfielder",
+        "Forward"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Garngad",
+        "forward",
+        "Glasgow"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:11:02.336Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:11:02.336Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001750",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Goalkeeper John Fallon made how many appearances during his Celtic years?",
+      "options": [
+        "184",
+        "207",
+        "172",
+        "196"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "John Fallon",
+        "goalkeeper",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:11:02.336Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:11:02.336Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001749",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Goalkeeper Joe Kennaway made how many appearances in goal for Celtic?",
+      "options": [
+        "318",
+        "283",
+        "295",
+        "307"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Joe Kennaway",
+        "goalkeeper",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:11:02.336Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:11:02.336Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001748",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Tom Boyd made how many appearances during his 11-year Celtic career?",
+      "options": [
+        "323",
+        "347",
+        "358",
+        "335"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Tom Boyd",
+        "defender",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:11:02.336Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:11:02.336Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001744",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Winger Andy McAtee made how many appearances during his 14-year Celtic career?",
+      "options": [
+        "462",
+        "451",
+        "427",
+        "439"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Andy McAtee",
+        "winger",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:09:52.053Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:09:52.053Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001745",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Goalkeeper Charlie Shaw made how many appearances from 1913-1925?",
+      "options": [
+        "448",
+        "436",
+        "424",
+        "459"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Charlie Shaw",
+        "goalkeeper",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:09:52.053Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:09:52.053Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001747",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Left-back Jimmy McStay made how many appearances from 1922-1934?",
+      "options": [
+        "506",
+        "530",
+        "518",
+        "541"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Jimmy McStay",
+        "defender",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:09:52.053Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:09:52.053Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001746",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Goalkeeper Peter Latchford made how many appearances as the Parkhead number one?",
+      "options": [
+        "295",
+        "260",
+        "272",
+        "284"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Peter Latchford",
+        "goalkeeper",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:09:52.053Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:09:52.053Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001742",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Murdo MacLeod made how many appearances as a Celtic midfielder from 1978-1987?",
+      "options": [
+        "398",
+        "374",
+        "386",
+        "409"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Murdo MacLeod",
+        "midfielder",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:09:52.053Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:09:52.053Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001741",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Midfielder Paul McStay, the club captain, made how many appearances from 1982-1997?",
+      "options": [
+        "691",
+        "665",
+        "678",
+        "704"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Paul McStay",
+        "midfielder",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:09:52.053Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:09:52.053Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001740",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Full-back Danny McGrain made how many total appearances for Celtic?",
+      "options": [
+        "691",
+        "679",
+        "702",
+        "667"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Danny McGrain",
+        "defender",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:09:52.053Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:09:52.053Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001739",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Legend Jimmy McGrory, the prolific scorer, made how many appearances from 1922-1937?",
+      "options": [
+        "445",
+        "457",
+        "468",
+        "433"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Jimmy McGrory",
+        "forward",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:04:26.264Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:04:26.264Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001738",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Striker Jimmy Quinn, with over 300 appearances, made exactly how many for Celtic?",
+      "options": [
+        "331",
+        "318",
+        "343",
+        "352"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Jimmy Quinn",
+        "striker",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:04:26.264Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:04:26.264Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001737",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Kenny Dalglish, the striker who later managed Celtic, made how many appearances?",
+      "options": [
+        "322",
+        "335",
+        "345",
+        "310"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Kenny Dalglish",
+        "striker",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:04:26.264Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:04:26.264Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001736",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Adam McLean, the left-winger who played from 1917-1928, made how many appearances?",
+      "options": [
+        "423",
+        "395",
+        "420",
+        "408"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Adam McLean",
+        "winger",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:04:26.264Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:04:26.264Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001735",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Forward Jimmy McMenemy made how many appearances for Celtic between 1902 and 1920?",
+      "options": [
+        "537",
+        "502",
+        "515",
+        "528"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Jimmy McMenemy",
+        "forward",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:04:26.264Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:04:26.264Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001734",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Right-winger John Hughes 'Yogi' made how many appearances during his Celtic career?",
+      "options": [
+        "405",
+        "428",
+        "416",
+        "437"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "John Hughes",
+        "winger",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:04:26.264Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:04:26.264Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001733",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Swedish star Henrik Larsson made how many appearances during his time at Celtic Park?",
+      "options": [
+        "313",
+        "331",
+        "325",
+        "305"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Henrik Larsson",
+        "Sweden",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:04:26.264Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:04:26.264Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001731",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "How many times did forward Patsy Gallacher play for Celtic from 1911 to 1925?",
+      "options": [
+        "475",
+        "464",
+        "448",
+        "456"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Patsy Gallacher",
+        "forward",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:04:26.264Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:04:26.264Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001732",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Lisbon Lion Bobby Murdoch made how many appearances in the Celtic midfield?",
+      "options": [
+        "495",
+        "506",
+        "471",
+        "484"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Bobby Murdoch",
+        "Lisbon 1967",
+        "midfielder"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:03:24.578Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:03:24.578Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001730",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Stevie Chalmers, the scorer of the 1967 European Cup final winning goal, made how many appearances for Celtic?",
+      "options": [
+        "405",
+        "393",
+        "380",
+        "418"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Stevie Chalmers",
+        "Lisbon 1967",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:03:24.578Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:03:24.578Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001729",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "How many appearances did Celtic legend Bobby Lennox make for the club?",
+      "options": [
+        "564",
+        "571",
+        "589",
+        "578"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Bobby Lennox",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:03:24.578Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:03:24.578Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001727",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "Which goalkeeper made the second-most appearances for a Celtic keeper with 641 games?",
+      "options": [
+        "Peter Latchford",
+        "Charlie Shaw",
+        "Pat Bonner",
+        "John Fallon"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Pat Bonner",
+        "appearances",
+        "goalkeeper"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:03:24.578Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:03:24.578Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001723",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Goalkeeper Joe Kennaway, with 295 Celtic appearances, was born in which North American city?",
+      "options": [
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Boston"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Joe Kennaway",
+        "Montreal",
+        "Canada"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:03:24.578Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:03:24.578Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001724",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Goalkeeper John Fallon, who made 184 Celtic appearances from 1959-1972, was born in which Scottish town?",
+      "options": [
+        "Blantyre",
+        "Hamilton",
+        "Cambuslang",
+        "East Kilbride"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "John Fallon",
+        "Cambuslang",
+        "goalkeeper"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:03:24.578Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:03:24.578Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001725",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "club-records",
+      "difficulty": 3,
+      "question": "Which player holds the Celtic FC appearance record with 789 total games?",
+      "options": [
+        "Danny McGrain",
+        "Roy Aitken",
+        "Paul McStay",
+        "Billy McNeill"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Billy McNeill",
+        "club record",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:03:24.578Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:03:24.578Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001722",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Winger Andy McAtee, with 439 Celtic appearances from 1910-1924, was born in which Scottish town?",
+      "options": [
+        "Cumbernauld",
+        "Coatbridge",
+        "Airdrie",
+        "Motherwell"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Andy McAtee",
+        "Cumbernauld",
+        "winger"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001721",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Left-back Jimmy McStay, who made 518 appearances from 1922-1934, was born in which Lanarkshire village?",
+      "options": [
+        "Motherwell",
+        "Wishaw",
+        "Netherburn",
+        "Blantyre"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Jimmy McStay",
+        "Netherburn",
+        "defender"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001720",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Tom Boyd, the modern defender with 335 Celtic appearances from 1992-2003, was born in which city?",
+      "options": [
+        "Motherwell",
+        "Aberdeen",
+        "Glasgow",
+        "Edinburgh"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Tom Boyd",
+        "Glasgow",
+        "defender"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001719",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Alec McNair, the historic full back with a club record 641 appearances from 1904-1925, was born in which Scottish town?",
+      "options": [
+        "Alloa",
+        "Stenhousemuir",
+        "Grangemouth",
+        "Falkirk"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Alec McNair",
+        "Stenhousemuir"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001718",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Midfielder Murdo MacLeod, with 386 Celtic appearances from 1978-1987, was born in which city?",
+      "options": [
+        "Aberdeen",
+        "Glasgow",
+        "Dundee",
+        "Edinburgh"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Murdo MacLeod",
+        "Glasgow",
+        "midfielder"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001717",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Bobby Murdoch, the Lisbon Lion midfielder with 484 Celtic appearances, was born in which Clyde Valley town?",
+      "options": [
+        "Rutherglen",
+        "Cambuslang",
+        "Lanark",
+        "Blantyre"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Bobby Murdoch",
+        "Rutherglen",
+        "Lisbon 1967"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001716",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Midfielder Paul McStay, who made 678 Celtic appearances from 1982-1997, was born in which South Lanarkshire town?",
+      "options": [
+        "Hamilton",
+        "Larkhall",
+        "Motherwell",
+        "Blantyre"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Paul McStay",
+        "Hamilton",
+        "midfielder"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001715",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Full back Danny McGrain, who made 679 Celtic appearances, was born in which part of Glasgow?",
+      "options": [
+        "Maryhill",
+        "Finnieston",
+        "Springburn",
+        "Govan"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Danny McGrain",
+        "Finnieston",
+        "Glasgow"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001714",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "playoff",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Legendary centre-half Billy McNeill, with a club record 789 appearances, was born in which Scottish town?",
+      "options": [
+        "Wishaw",
+        "Motherwell",
+        "Bellshill",
+        "Hamilton"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Billy McNeill",
+        "Bellshill",
+        "defender"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001713",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "English goalkeeper Peter Latchford, who made 272 Celtic appearances, was born in which English city?",
+      "options": [
+        "Birmingham",
+        "Liverpool",
+        "Leeds",
+        "Manchester"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Peter Latchford",
+        "Birmingham",
+        "goalkeeper"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:00:32.282Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:00:32.282Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001712",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "final",
+      "category": "players",
+      "difficulty": 5,
+      "question": "Goalkeeper Charlie Shaw, with 436 Celtic appearances from 1913-1925, was born in which East Dunbartonshire town?",
+      "options": [
+        "Kirkintilloch",
+        "Auchinairn",
+        "Lenzie",
+        "Twechar"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Charlie Shaw",
+        "Twechar",
+        "goalkeeper"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.474Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.474Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001711",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Goalkeeper Pat Bonner, holder of 641 Celtic appearances, was born in which Irish county?",
+      "options": [
+        "Donegal",
+        "Mayo",
+        "Leitrim",
+        "Sligo"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Pat Bonner",
+        "Donegal",
+        "goalkeeper"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.474Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.474Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001710",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Jimmy McGrory, the legendary forward with 445 Celtic appearances, was born in which part of Glasgow?",
+      "options": [
+        "Garngad",
+        "Springburn",
+        "Maryhill",
+        "Govan"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Jimmy McGrory",
+        "Garngad",
+        "Glasgow"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.474Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.474Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001709",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Centre-forward Jimmy Quinn, the prolific scorer with 331 Celtic appearances, was a native of which Lanarkshire town?",
+      "options": [
+        "Croy",
+        "Motherwell",
+        "Wishaw",
+        "Blantyre"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Jimmy Quinn",
+        "Croy",
+        "Lanarkshire"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.474Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.474Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001708",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "In which Glasgow district was midfielder Kenny Dalglish, who made 322 Celtic appearances, born?",
+      "options": [
+        "Maryhill",
+        "Govan",
+        "Milton",
+        "Springburn"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Kenny Dalglish",
+        "Milton",
+        "Glasgow"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.473Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.473Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001707",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Swedish striker Henrik Larsson, the Swedish Phenomenon, was born in which city outside Scotland?",
+      "options": [
+        "Stockholm",
+        "Malmö",
+        "Helsingborg",
+        "Gothenburg"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Henrik Larsson",
+        "Helsingborg",
+        "Sweden"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.473Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.473Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001706",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "semi-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Left-winger Adam McLean, whose 408 Celtic appearances spanned 1917-1928, was born in which city?",
+      "options": [
+        "Glasgow",
+        "Aberdeen",
+        "Edinburgh",
+        "Motherwell"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Adam McLean",
+        "Glasgow",
+        "winger"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.473Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.473Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001705",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "quarter-final",
+      "category": "players",
+      "difficulty": 4,
+      "question": "Jimmy McMenemy, the prolific forward with 515 appearances, was born in which Clyde Valley town?",
+      "options": [
+        "Hamilton",
+        "Lanark",
+        "Cambuslang",
+        "Rutherglen"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy McMenemy",
+        "Rutherglen",
+        "forward"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.473Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.473Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001704",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "players",
+      "difficulty": 1,
+      "question": "Striker John 'Yogi' Hughes, who made 416 appearances from 1959-1971, hailed from which Scottish industrial town?",
+      "options": [
+        "Cleland",
+        "Wishaw",
+        "Motherwell",
+        "Coatbridge"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "John Hughes",
+        "Coatbridge",
+        "striker"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.473Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.473Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001703",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Which Irish county was the birthplace of winger Patsy Gallacher, who made 464 Celtic appearances from 1911-1925?",
+      "options": [
+        "Derry",
+        "Donegal",
+        "Monaghan",
+        "Tyrone"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Patsy Gallacher",
+        "Donegal",
+        "winger"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:58:07.473Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:58:07.473Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001774",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "players",
+      "difficulty": 1,
+      "question": "Celtic legend Roy Aitken, who made 667 appearances, was born in which Scottish town?",
+      "options": [
+        "Irvine",
+        "Ayr",
+        "Saltcoats",
+        "Kilmarnock"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Roy Aitken",
+        "Irvine",
+        "defender"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T09:56:14.002Z",
+      "review": {
+        "reviewedAt": "2026-11-22T09:56:14.002Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_000493",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "club-records",
+      "difficulty": 3,
+      "question": "Which English born midfielder was Celtic's top scorer and the league's Golden Boot winner in 2013-14?",
+      "options": [
+        "Kris Commons",
+        "Joe Ledley",
+        "Charlie Mulgrew",
+        "Gary Hooper"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Top scorer",
+        "2013-14",
+        "Kris Commons"
+      ],
+      "source": "manual",
+      "status": "approved",
+      "createdAt": "2026-11-11T09:42:16.466Z",
+      "updatedAt": "2026-11-16T00:18:01.951Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:18:01.951Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "tags": [
+        "Rangers",
+        "Celtic",
+        "Manager"
+      ],
+      "source": "manual",
+      "question": "Who was the Celtic manager in the last ever Celtic v Rangers game in 2012?",
+      "options": [
+        "Ronny Deila",
+        "Neil Lennon",
+        "Brendan Rodgers",
+        "Tony Mowbray"
+      ],
+      "correctAnswer": 1,
+      "stage": "playoff",
+      "category": "managers",
+      "difficulty": 2,
+      "id": "q_001702",
+      "status": "approved",
+      "createdAt": "2026-11-16T00:16:17.113Z",
+      "updatedAt": "2026-11-16T00:16:21.984Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:16:21.984Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "tags": [
+        "Oasis",
+        "Celtic Park"
+      ],
+      "source": "manual",
+      "question": "Which Manchester band are booked to play 5 nights at Celtic Park in May 2027?",
+      "options": [
+        "The Stone Roses",
+        "Happy Mondays",
+        "Oasis",
+        "New Fast Automatic Daffodils"
+      ],
+      "correctAnswer": 2,
+      "stage": "qualifier-1",
+      "category": "celtic-park",
+      "difficulty": 1,
+      "id": "q_001701",
+      "status": "approved",
+      "createdAt": "2026-11-16T00:12:18.182Z",
+      "updatedAt": "2026-11-16T00:12:23.040Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:12:23.040Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
+    {
+      "schemaVersion": 1,
+      "club": "celtic",
+      "tags": [
+        "Sean O'Grady",
+        "Celtic Park",
+        "Jim Watt"
+      ],
+      "source": "manual",
+      "question": "Which boxer appeared at Celtic Park in the lead up to his fight with Jim Watt in 1981?",
+      "options": [
+        "Sean O'Grady",
+        "Alexis Arguello",
+        "Livingstone Bramble",
+        "Rick \"Rocky\" Lockridge"
+      ],
+      "correctAnswer": 0,
+      "stage": "quarter-final",
+      "category": "celtic-park",
+      "difficulty": 4,
+      "id": "q_001700",
+      "status": "approved",
+      "createdAt": "2026-11-16T00:09:38.917Z",
+      "updatedAt": "2026-11-16T00:09:41.044Z",
+      "review": {
+        "reviewedAt": "2026-11-16T00:09:41.044Z",
+        "rejectionReason": null,
+        "rejectionNote": null
+      }
+    },
     {
       "id": "q_001698",
       "schemaVersion": 1,
@@ -35040,36 +40004,6 @@
       "updatedAt": "2026-11-11T09:45:51.332Z",
       "review": {
         "reviewedAt": "2026-11-11T09:45:51.332Z",
-        "rejectionReason": null,
-        "rejectionNote": null
-      }
-    },
-    {
-      "id": "q_000493",
-      "schemaVersion": 1,
-      "club": "celtic",
-      "stage": "round-1",
-      "category": "club-records",
-      "difficulty": 3,
-      "question": "Which English midfielder was Celtic's top scorer and the league's Golden Boot winner in 2013-14?",
-      "options": [
-        "Kris Commons",
-        "Joe Ledley",
-        "Charlie Mulgrew",
-        "Gary Hooper"
-      ],
-      "correctAnswer": 0,
-      "tags": [
-        "Top scorer",
-        "2013-14",
-        "Kris Commons"
-      ],
-      "source": "manual",
-      "status": "approved",
-      "createdAt": "2026-11-11T09:42:16.466Z",
-      "updatedAt": "2026-11-11T09:45:45.483Z",
-      "review": {
-        "reviewedAt": "2026-11-11T09:45:45.483Z",
         "rejectionReason": null,
         "rejectionNote": null
       }

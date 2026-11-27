@@ -1,0 +1,17 @@
+# Irn-Bru. Source: https://en.wikipedia.org/wiki/Irn-Bru
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | food-drink | Which company makes Irn-Bru? | A.G. Barr | Tunnock's | Baxters | Walkers | Irn-Bru; A.G. Barr
+1 | food-drink | Irn-Bru is often described as Scotland's "other national drink" after what? | Scotch whisky | Tennent's lager | Tea | Buckfast | Irn-Bru
+1 | food-drink | Which famous advertising tagline said Irn-Bru was "Made in Scotland from..." what? | Girders | Thistles | Iron ore | Rivets | Irn-Bru; girders
+2 | food-drink | What was Irn-Bru originally called? | Iron Brew | Ironade | Bru-Iron | Barr's Iron | Irn-Bru; Iron Brew
+2 | food-drink | In which year was Barr's drink officially launched, according to Irn-Bru's history? | 1901 | 1948 | 1889 | 1923 | Irn-Bru; 1901
+2 | food-drink | Which Christmas cartoon did a famous 2006 Irn-Bru advert parody? | The Snowman | Frosty the Snowman | The Grinch | A Christmas Carol | Irn-Bru; The Snowman
+2 | food-drink | In which town is Irn-Bru now produced, at Westfield? | Cumbernauld | Falkirk | East Kilbride | Livingston | Irn-Bru; Cumbernauld
+3 | food-drink | In which year was Irn-Bru first sold under that spelling? | 1948 | 1901 | 1965 | 1932 | Irn-Bru; name
+3 | food-drink | Why did Barr cut the sugar in Irn-Bru in January 2018? | Because of the UK sugar tax | After a fall in sales | To launch in America | After an EU ban | Irn-Bru; sugar tax
+3 | food-drink | In which Glasgow district was the Irn-Bru factory before the move to Cumbernauld? | Parkhead | Govan | Possilpark | Partick | Irn-Bru; Parkhead
+3 | food-drink | What was the comic-strip character in Irn-Bru adverts from 1939 to 1970 called? | Ba-Bru | Bru Boy | Barr Man | Iron Jock | Irn-Bru; Ba-Bru
+3 | food-drink | Irn-Bru is the third best-selling soft drink in the UK after Coca-Cola and which other drink? | Pepsi | Fanta | Lucozade | Sprite | Irn-Bru; UK sales
+3 | food-drink | What did Scots call the deposit on returnable Irn-Bru glass bottles? | A glass cheque | A bottle bond | A ginger penny | A Barr bob | Irn-Bru; glass cheque
+4 | food-drink | Which Hollywood-bound actor starred in a 2009 Irn-Bru advert parodying High School Musical? | Jack Lowden | Richard Madden | James McAvoy | Sam Heughan | Irn-Bru; Jack Lowden
+4 | food-drink | In which year did the Irn-Bru bottle deposit scheme end? | 2016 | 2006 | 2010 | 2020 | Irn-Bru; bottle deposit

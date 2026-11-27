@@ -1,0 +1,17 @@
+# Drumchapel. Source: https://en.wikipedia.org/wiki/Drumchapel
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | What is Drumchapel known as locally? | The Drum | The Chapel | The Scheme | Drummy | Drumchapel; The Drum
+2 | landmarks | In which part of Glasgow is Drumchapel? | North-west | South-east | South-west | East End | Drumchapel
+2 | landmarks | Drumchapel's name is said to come from a Gaelic phrase meaning "the ridge of" what? | The horse | The chapel | The deer | The river | Drumchapel; name
+2 | landmarks | In which decade was the large Drumchapel housing estate built? | 1950s | 1930s | 1970s | 1980s | Drumchapel
+3 | landmarks | Which East Dunbartonshire town borders Drumchapel to the north-east? | Bearsden | Milngavie | Kirkintilloch | Bishopbriggs | Drumchapel; Bearsden
+3 | landmarks | Which Roman frontier runs through undeveloped land north of Drumchapel? | The Antonine Wall | Hadrian's Wall | The Gask Ridge | Dere Street | Drumchapel; Antonine Wall
+3 | landmarks | In which year did Drumchapel pass from New Kilpatrick to Glasgow Corporation? | 1938 | 1912 | 1950 | 1975 | Drumchapel; 1938
+3 | landmarks | Which tyre company was a major Drumchapel employer until 1979? | Goodyear | Dunlop | Michelin | Firestone | Drumchapel; Goodyear
+3 | landmarks | Which biscuit factory near Drumchapel closed in 1978? | Beattie's | Tunnock's | McVitie's | Gray Dunn | Drumchapel; Beattie's
+3 | landmarks | Which Celtic legend is listed as a notable Drumchapel resident? | Danny McGrain | Kenny Dalglish | Jimmy Johnstone | Billy McNeill | Drumchapel; Danny McGrain
+3 | landmarks | Which Booker Prize-winning writer is listed as a notable Drumchapel resident? | James Kelman | Alasdair Gray | Douglas Stuart | William McIlvanney | Drumchapel; James Kelman
+4 | landmarks | What is the name of the wooded area to the north of Drumchapel? | Garscadden Woodlands | Mugdock Woods | Cathkin Braes | Dawsholm Park | Drumchapel; Garscadden Woodlands
+4 | landmarks | Roughly how many people was the Drumchapel scheme built to house? | 34,000 | 10,000 | 80,000 | 120,000 | Drumchapel; population
+4 | landmarks | Which whisky company's bond is still a major employer near Drumchapel? | The Edrington Group | Diageo | William Grant & Sons | Whyte & Mackay | Drumchapel; Edrington
+4 | landmarks | In which year did Drumchapel become a church parish in its own right? | 1923 | 1901 | 1950 | 1875 | Drumchapel; parish

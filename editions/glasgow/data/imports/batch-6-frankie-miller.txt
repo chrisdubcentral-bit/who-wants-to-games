@@ -1,0 +1,7 @@
+# Frankie Miller. Source: https://en.wikipedia.org/wiki/Frankie_Miller
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | songs-albums | Which Frankie Miller single reached No. 6 in the UK in 1978? | Darlin' | Be Good to Yourself | Caledonia | When I'm Away from You | Frankie Miller; Darlin'; 1978
+2 | famous-glaswegians | In which area of Glasgow was singer Frankie Miller born? | Bridgeton | Partick | Govan | Springburn | Frankie Miller; Bridgeton
+3 | songs-albums | Frankie Miller's song "Caledonia" was first heard in a TV advert for which drink? | Tennent's lager | Irn-Bru | Bell's whisky | McEwan's Export | Frankie Miller; Caledonia; Tennent's
+3 | glasgow-bands | Which Thin Lizzy frontman sang "Still in Love with You" as a duet with Frankie Miller? | Phil Lynott | Brian Robertson | Scott Gorham | Gary Moore | Frankie Miller; Phil Lynott; Thin Lizzy
+4 | glasgow-bands | Frankie Miller started singing professionally as a teenager with which Glasgow band? | The Stoics | The Poets | The Beatstalkers | The Pathfinders | Frankie Miller; The Stoics

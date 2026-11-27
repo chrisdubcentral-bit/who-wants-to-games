@@ -1,0 +1,203 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "The River Clyde is described as the second-longest river in which country?",
+    "options": [
+      "Wales",
+      "Ireland",
+      "The UK",
+      "Scotland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "River Clyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which famous Cunard liners were built at Clydebank?",
+    "options": [
+      "Lusitania and Mauretania",
+      "Canberra and Oriana",
+      "The Queen Mary and QE2",
+      "The Titanic and Olympic"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River Clyde",
+      "Queen Mary",
+      "QE2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which World Heritage mill village built by David Dale and Robert Owen stands on the Clyde?",
+    "options": [
+      "Deanston",
+      "Catrine",
+      "New Lanark",
+      "Stanley"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River Clyde",
+      "New Lanark"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What is the most spectacular of the Falls of Clyde called?",
+    "options": [
+      "Cora Linn",
+      "Stonebyres Linn",
+      "Grey Mare's Tail",
+      "Bonnington Linn"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "River Clyde",
+      "Falls of Clyde",
+      "Cora Linn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which range of hills does the River Clyde rise?",
+    "options": [
+      "The Lowther Hills",
+      "The Ochil Hills",
+      "The Pentland Hills",
+      "The Campsie Fells"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "River Clyde",
+      "Lowther Hills"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which two streams meet at Watermeetings to form the River Clyde?",
+    "options": [
+      "Kelvin and Allander",
+      "Avon and Nethan",
+      "Daer Water and Potrail Water",
+      "White Cart and Black Cart"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River Clyde",
+      "Watermeetings"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which word became an industry symbol of high-quality ships?",
+    "options": [
+      "Riverbuilt",
+      "Scotsteel",
+      "Clydebuilt",
+      "Glasgow-made"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River Clyde",
+      "Clydebuilt"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "At the Tail of the Bank, between Greenock and Ardmore Point, the Clyde flows into what?",
+    "options": [
+      "The North Channel",
+      "The Firth of Clyde",
+      "Loch Long",
+      "The Gare Loch"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "River Clyde",
+      "Firth of Clyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Roughly how many ships have been built on the Clyde, its firth and tributaries since 1712?",
+    "options": [
+      "About 5,000",
+      "Over 25,000",
+      "About 10,000",
+      "Over 60,000"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "River Clyde",
+      "shipbuilding"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "What did the Roman geographer Ptolemy call the River Clyde?",
+    "options": [
+      "Itouna",
+      "Tava",
+      "Bodotria",
+      "Klōta"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "River Clyde",
+      "Ptolemy"
+    ],
+    "source": "manual"
+  }
+]

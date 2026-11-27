@@ -1,0 +1,22 @@
+# Queen's Park F.C. Source: https://en.wikipedia.org/wiki/Queen%27s_Park_F.C.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | sport | What is the nickname of Queen's Park F.C.? | The Spiders | The Jags | The Hoops | The Bully Wee | Queen's Park; The Spiders
+2 | sport | Queen's Park's nickname "The Spiders" comes from their shirts in which pattern? | Black and white hoops | Red and black stripes | Blue and white quarters | Green and white hoops | Queen's Park; The Spiders
+2 | sport | What is the Latin motto of Queen's Park, meaning "To Play for the Sake of Playing"? | Ludere Causa Ludendi | Nisi Dominus Frustra | Semper Fidelis | Let Glasgow Flourish | Queen's Park; motto
+2 | sport | Queen's Park are the only Scottish club to have played in which final? | The FA Cup final | The European Cup final | The League Cup final | The Cup Winners' Cup final | Queen's Park; FA Cup final
+2 | sport | In 1872, how many of Scotland's eleven players against England came from Queen's Park? | All eleven | Seven | Nine | Five | Queen's Park; 1872 international
+2 | sport | Which team beat Queen's Park in both the 1884 and 1885 FA Cup finals? | Blackburn Rovers | Old Etonians | Wanderers | Aston Villa | Queen's Park; FA Cup final; Blackburn Rovers
+2 | sport | How many times have Queen's Park won the Scottish Cup? | 10 | 6 | 3 | 14 | Queen's Park; Scottish Cup
+2 | sport | In 2019, Queen's Park members voted to give up which status after 152 years? | Amateur status | Charity status | Members' club status | Hampden ownership | Queen's Park; amateur; 2019
+3 | sport | Queen's Park are credited with introducing what to association football at an 1875 FA meeting? | The crossbar | Goal nets | Penalty kicks | Corner flags | Queen's Park; crossbar
+3 | sport | Until 1950, Hampden Park was the world's largest stadium. Which stadium overtook it? | The Maracanã | Wembley Stadium | The Bernabéu | Camp Nou | Queen's Park; Hampden; Maracanã
+3 | sport | Which team did Queen's Park beat 2–1 at Ibrox to win their last Scottish Cup, in 1893? | Celtic | Rangers | Hearts | Third Lanark | Queen's Park; Scottish Cup 1893
+3 | sport | In 2025, Queen's Park beat which club 1–0 away in the Scottish Cup fifth round? | Rangers | Celtic | Aberdeen | Hearts | Queen's Park; Scottish Cup 2025; Ibrox
+3 | sport | Which player is credited with introducing Queen's Park's black and white hoops? | David Wotherspoon | Charlie Campbell | Walter Arnott | Andrew Watson | Queen's Park; David Wotherspoon
+3 | sport | Which Queen's Park player is described as the first black football player in Britain? | Andrew Watson | Walter Arnott | Charlie Campbell | R. S. McColl | Queen's Park; Andrew Watson
+3 | sport | Which goalkeeper made his Queen's Park debut aged just 14? | Ronnie Simpson | Alan Rough | Bobby Clark | Jim Leighton | Queen's Park; Ronnie Simpson
+3 | sport | Which soft drink sponsored Queen's Park's shirts from 1996 to 2022? | Irn-Bru | Barr's Cola | Tennent's | Vimto | Queen's Park; Irn-Bru
+4 | sport | Which club did Queen's Park beat 2–0 in their first ever match, in 1868? | Thistle F.C. | Rangers | Vale of Leven | Dumbreck | Queen's Park; first match
+4 | sport | What was the record attendance for a Queen's Park match, against Rangers in 1930? | 95,722 | 149,547 | 62,470 | 81,000 | Queen's Park; record attendance
+4 | sport | Who scored Queen's Park's fastest hat-trick, in 5 minutes against Elgin City in 2019? | David Galt | Zak Rudden | Callan McKenna | Ross Caven | Queen's Park; David Galt
+5 | sport | By how many votes was the name "Queen's Park" chosen at the club's founding meeting? | One | Three | Five | Ten | Queen's Park; founding

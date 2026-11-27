@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "Who is Del Amitri's founding member, singer and main songwriter?",
+    "options": [
+      "Fran Healy",
+      "Ricky Ross",
+      "Justin Currie",
+      "Jim Kerr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Del Amitri",
+      "Justin Currie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which 1990 Del Amitri single, their best known, reached No. 11 in the UK?",
+    "options": [
+      "Nothing Ever Happens",
+      "Kiss This Thing Goodbye",
+      "Roll to Me",
+      "Always the Last to Know"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Del Amitri",
+      "Nothing Ever Happens"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Del Amitri song was a top 10 hit in the US in 1995?",
+    "options": [
+      "Here and Now",
+      "Roll to Me",
+      "Driving with the Brakes On",
+      "Nothing Ever Happens"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Del Amitri",
+      "Roll to Me"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "What was Del Amitri's official 1998 World Cup song for Scotland?",
+    "options": [
+      "Purple Heather",
+      "Don't Come Home Too Soon",
+      "Ally's Tartan Army",
+      "Don't Stop"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Del Amitri",
+      "World Cup 1998"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which Del Amitri album reached No. 2 in the UK in 1992?",
+    "options": [
+      "Change Everything",
+      "Twisted",
+      "Some Other Sucker's Parade",
+      "Waking Hours"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Del Amitri",
+      "Change Everything"
+    ],
+    "source": "manual"
+  }
+]

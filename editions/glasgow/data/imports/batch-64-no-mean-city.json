@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which Glasgow district is the setting of the novel No Mean City?",
+    "options": [
+      "Maryhill",
+      "Govan",
+      "The Gorbals",
+      "Easterhouse"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "No Mean City",
+      "Gorbals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "A song called \"No Mean City\" was the theme tune of which TV detective series?",
+    "options": [
+      "Shoestring",
+      "Bergerac",
+      "Rebus",
+      "Taggart"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "No Mean City",
+      "Taggart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which year was the novel No Mean City published?",
+    "options": [
+      "1935",
+      "1968",
+      "1925",
+      "1955"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "No Mean City",
+      "1935"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "The title No Mean City comes from words of which biblical figure?",
+    "options": [
+      "Moses",
+      "King David",
+      "St Peter",
+      "Paul the Apostle"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "No Mean City",
+      "Paul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which journalist co-wrote No Mean City with Alexander McArthur?",
+    "options": [
+      "Hugh MacDiarmid",
+      "H. Kingsley Long",
+      "Jack House",
+      "William McIlvanney"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "No Mean City",
+      "H. Kingsley Long"
+    ],
+    "source": "manual"
+  }
+]

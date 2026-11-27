@@ -1,0 +1,12 @@
+# Alan McGee. Source: https://en.wikipedia.org/wiki/Alan_McGee
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | labels-scene | Which record label did Glaswegian Alan McGee co-found in 1983? | Creation Records | Postcard Records | Domino | Chemikal Underground | Alan McGee; Creation Records
+2 | labels-scene | Which Manchester band saved Alan McGee's Creation Records from receivership? | Oasis | The Stone Roses | Happy Mondays | Inspiral Carpets | Alan McGee; Creation Records; Oasis
+2 | famous-glaswegians | At King's Park Secondary School, Alan McGee met which future Primal Scream frontman? | Bobby Gillespie | Andrew Innes | Jim Reid | Norman Blake | Alan McGee; Bobby Gillespie; King's Park Secondary
+2 | labels-scene | Which 1960s cult band was Creation Records named after? | The Creation | The Move | The Creatures | The Action | Creation Records; The Creation
+3 | famous-glaswegians | In which area of Glasgow was Alan McGee born in 1960? | Partick | Govan | Maryhill | Dennistoun | Alan McGee; Partick
+3 | labels-scene | In 1992, Alan McGee sold half of Creation Records to which company? | Sony Music | EMI | Warner Music | Universal | Alan McGee; Creation Records; Sony
+3 | labels-scene | Which band's first single came out on Creation in November 1984, with McGee as their manager? | The Jesus and Mary Chain | Primal Scream | My Bloody Valentine | Teenage Fanclub | Alan McGee; The Jesus and Mary Chain; Creation Records
+3 | film-tv | Which 2021 film, adapted by Irvine Welsh and Dean Cavanagh, tells Alan McGee's story? | Creation Stories | Upside Down | Svengali | Kubricks | Alan McGee; Creation Stories; Irvine Welsh
+4 | labels-scene | Which Primal Scream album was the final album released on Creation Records? | XTRMNTR | Screamadelica | Vanishing Point | Give Out But Don't Give Up | Creation Records; Primal Scream; XTRMNTR
+4 | labels-scene | Which award did the NME give Alan McGee in February 1996? | Godlike Genius | Hero of the Year | Lifetime Achievement | Outstanding Contribution | Alan McGee; NME; Godlike Genius

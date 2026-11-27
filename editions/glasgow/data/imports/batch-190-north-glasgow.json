@@ -1,0 +1,611 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which canal runs through North Glasgow?",
+    "options": [
+      "The Union Canal",
+      "The Monkland Canal",
+      "The Caledonian Canal",
+      "The Forth and Clyde Canal"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "Forth and Clyde Canal"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which North Glasgow canalside spot has Georgian warehouses, cobbled streets and houseboats?",
+    "options": [
+      "Pacific Quay",
+      "Princes Dock",
+      "Speirs Wharf",
+      "Merchant Square"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "North Glasgow",
+      "Speirs Wharf"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which award-winning bridge over the Forth and Clyde Canal links three communities?",
+    "options": [
+      "Tradeston Bridge",
+      "Bells Bridge",
+      "Stockingfield Bridge",
+      "The Clyde Arc"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "North Glasgow",
+      "Stockingfield Bridge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Stockingfield Bridge reconnected three communities for the first time since which year?",
+    "options": [
+      "1966",
+      "1790",
+      "1914",
+      "1850"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "North Glasgow",
+      "Stockingfield Bridge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Stockingfield Bridge is on a cycle route linking Glasgow with which city?",
+    "options": [
+      "Dundee",
+      "Stirling",
+      "Edinburgh",
+      "Perth"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "North Glasgow",
+      "Stockingfield Bridge",
+      "cycling"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which reserve does Visit Glasgow call Glasgow's first inner city nature reserve?",
+    "options": [
+      "Hamiltonhill Claypits",
+      "Cuningar Loop",
+      "Possil Marsh",
+      "Dawsholm Park"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "North Glasgow",
+      "Hamiltonhill Claypits"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "On clear days, which island can be seen from Hamiltonhill Claypits?",
+    "options": [
+      "Mull",
+      "Islay",
+      "Arran",
+      "Bute"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "North Glasgow",
+      "Hamiltonhill Claypits",
+      "Arran"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "How many bird species have been recorded at Possil Marsh and Loch?",
+    "options": [
+      "Over 50",
+      "Over 20",
+      "Over 150",
+      "Over 300"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "North Glasgow",
+      "Possil Marsh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which North Glasgow park is one of the highest spots in the city, with its best viewpoints?",
+    "options": [
+      "Bellahouston Park",
+      "Queen's Park",
+      "Kelvingrove Park",
+      "Ruchill Park"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "Ruchill Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Lambhill Stables were built in the early 1800s, when goods were moved by what?",
+    "options": [
+      "Tram",
+      "Steam train",
+      "Lorry",
+      "Horse"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "Lambhill Stables"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Since which year has Maryhill Burgh Halls been open?",
+    "options": [
+      "1901",
+      "1878",
+      "1856",
+      "1923"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "North Glasgow",
+      "Maryhill Burgh Halls"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "What makes Mackintosh Queen's Cross special?",
+    "options": [
+      "It's the only church Mackintosh designed",
+      "It's Mackintosh's first tearoom",
+      "It's Mackintosh's family home",
+      "It's Mackintosh's only school"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "North Glasgow",
+      "Queen's Cross",
+      "Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Provan Hall, an A-listed medieval building, is in which district?",
+    "options": [
+      "Easterhouse",
+      "Possilpark",
+      "Maryhill",
+      "Springburn"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "North Glasgow",
+      "Provan Hall",
+      "Easterhouse"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Provan Hall dates back to which decade?",
+    "options": [
+      "The 1470s",
+      "The 1270s",
+      "The 1670s",
+      "The 1870s"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "North Glasgow",
+      "Provan Hall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In which year was Mackintosh's Ruchill Free Church Halls built?",
+    "options": [
+      "1880",
+      "1910",
+      "1925",
+      "1899"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "Ruchill Free Church Halls",
+      "Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year did the Possil meteorite fall, Scotland's earliest recorded meteorite fall?",
+    "options": [
+      "1888",
+      "1745",
+      "1804",
+      "1912"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "North Glasgow",
+      "Possil meteorite"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Where is the largest surviving fragment of the Possil meteorite kept?",
+    "options": [
+      "The Hunterian",
+      "National Museum of Scotland",
+      "Kelvingrove",
+      "Riverside Museum"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "North Glasgow",
+      "Possil meteorite",
+      "Hunterian"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which North Glasgow centre has Scotland's only artificial white water course?",
+    "options": [
+      "Strathclyde Park",
+      "Pinkston Watersports",
+      "Tollcross",
+      "Loch Lomond Shores"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "North Glasgow",
+      "Pinkston Watersports"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "The Loading Bay in North Glasgow is an indoor venue for what?",
+    "options": [
+      "Skate, BMX and parkour",
+      "Climbing and bouldering",
+      "Ice skating",
+      "Ten-pin bowling"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "North Glasgow",
+      "The Loading Bay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "In which decade was Café D'Jaconelli established?",
+    "options": [
+      "The 1970s",
+      "The 1950s",
+      "The 1920s",
+      "The 1890s"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "North Glasgow",
+      "Café D'Jaconelli"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Café D'Jaconelli is known for the style and music of which decade?",
+    "options": [
+      "The 1950s",
+      "The 1920s",
+      "The 1980s",
+      "The 1970s"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "North Glasgow",
+      "Café D'Jaconelli"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Rockvilla was named Pizza Restaurant of the Year at which year's Scottish Restaurant Awards?",
+    "options": [
+      "2021",
+      "2019",
+      "2023",
+      "2024"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "Rockvilla"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Rockvilla in North Glasgow won an award for what kind of food?",
+    "options": [
+      "Seafood",
+      "Pizza",
+      "Vegan food",
+      "Curry"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "North Glasgow",
+      "Rockvilla"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "What does 111 by Modou offer diners?",
+    "options": [
+      "Afternoon tea",
+      "Fish suppers",
+      "Street food",
+      "Tasting menus"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "111 by Modou"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "The Whisky Bond was once a bonding warehouse for which distilleries?",
+    "options": [
+      "Highland",
+      "Campbeltown",
+      "Lowland",
+      "Islay"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "North Glasgow",
+      "Whisky Bond"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which writer and artist's archive is housed at the Whisky Bond?",
+    "options": [
+      "James Kelman",
+      "Edwin Morgan",
+      "Liz Lochhead",
+      "Alasdair Gray"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "Whisky Bond",
+      "Alasdair Gray"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which studio shares the Whisky Bond with the Alasdair Gray archive?",
+    "options": [
+      "Street Level Photoworks",
+      "Glasgow Print Studio",
+      "Wasps Studios",
+      "Glasgow Sculpture Studio"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "Whisky Bond",
+      "Glasgow Sculpture Studio"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which independent North Glasgow arts venue is also used for weddings?",
+    "options": [
+      "The Briggait",
+      "Trongate 103",
+      "SWG3",
+      "The Glue Factory"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "The Glue Factory"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which two companies have rehearsal spaces in North Glasgow?",
+    "options": [
+      "RSNO and National Theatre of Scotland",
+      "Scottish Ballet and Scottish Opera",
+      "Citizens Theatre and Scottish Ballet",
+      "National Theatre of Scotland and Scottish Opera"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "North Glasgow",
+      "National Theatre of Scotland",
+      "Scottish Opera"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Gathering Ground in North Glasgow is what kind of café?",
+    "options": [
+      "A cat café",
+      "A dog-friendly community café",
+      "A board game café",
+      "A vegan bakery"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "North Glasgow",
+      "Gathering Ground"
+    ],
+    "source": "manual"
+  }
+]

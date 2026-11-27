@@ -1,0 +1,12 @@
+# HM Prison Barlinnie. Source: https://en.wikipedia.org/wiki/HM_Prison_Barlinnie
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | What is the famous nickname of HM Prison Barlinnie? | Bar-L | The Bastille | The Joy | The Castle | Barlinnie; Bar-L
+2 | landmarks | In which district of Glasgow is Barlinnie prison? | Riddrie | Possilpark | Easterhouse | Shettleston | Barlinnie; Riddrie
+2 | landmarks | Which reformed Glasgow gangster is the best-known success story of Barlinnie's Special Unit? | Jimmy Boyle | Paul Ferris | Arthur Thompson | Hugh Collins | Barlinnie; Special Unit; Jimmy Boyle
+3 | landmarks | In which year did Barlinnie prison first open? | 1882 | 1910 | 1857 | 1936 | Barlinnie
+3 | landmarks | How many accommodation halls, lettered A to E, does Barlinnie have? | Five | Three | Seven | Ten | Barlinnie; halls
+3 | landmarks | In which years did Barlinnie's Special Unit operate? | 1973 to 1994 | 1960 to 1975 | 1980 to 2000 | 1950 to 1970 | Barlinnie; Special Unit
+3 | landmarks | Barlinnie is described as the largest what in Scotland? | Prison | Hospital | Barracks | Court | Barlinnie
+4 | landmarks | Which canal ran beside Barlinnie, on what is now the route of the M8 motorway? | The Monkland Canal | The Forth and Clyde Canal | The Union Canal | The Paisley Canal | Barlinnie; Monkland Canal
+4 | landmarks | On the site of which former works will Barlinnie's replacement be built? | Provan Gas Works | Parkhead Forge | Templeton Carpet Factory | Pinkston Power Station | Barlinnie; Provan Gas Works
+4 | landmarks | In which year was it announced that Barlinnie would be sold and replaced by a new prison? | 2018 | 2008 | 2012 | 2023 | Barlinnie; replacement

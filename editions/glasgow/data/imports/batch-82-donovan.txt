@@ -1,0 +1,7 @@
+# Donovan. Source: https://en.wikipedia.org/wiki/Donovan
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | songs-albums | Which Donovan single topped the US Billboard Hot 100 in 1966? | Sunshine Superman | Mellow Yellow | Catch the Wind | Hurdy Gurdy Man | Donovan; Sunshine Superman
+2 | famous-glaswegians | Which Beatle did Donovan teach a fingerpicking guitar style in 1968? | John Lennon | Paul McCartney | George Harrison | Ringo Starr | Donovan; John Lennon
+3 | famous-glaswegians | What is Donovan's full name? | Donovan Phillips Leitch | Donovan James Leitch | Donovan Patrick Lynch | Donald Donovan Leitch | Donovan
+3 | songs-albums | Which Donovan single reached the top 5 in both the UK and US in 1968? | Hurdy Gurdy Man | Atlantis | Colours | Universal Soldier | Donovan; Hurdy Gurdy Man
+4 | famous-glaswegians | In which year was Donovan inducted into the Rock and Roll Hall of Fame? | 2012 | 1995 | 2004 | 2019 | Donovan; Rock and Roll Hall of Fame

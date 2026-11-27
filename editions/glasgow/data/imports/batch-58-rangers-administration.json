@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "How many points were Rangers deducted on entering administration in February 2012?",
+    "options": [
+      "15",
+      "10",
+      "25",
+      "3"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rangers administration",
+      "points deduction"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which firm were appointed Rangers' administrators in February 2012?",
+    "options": [
+      "Deloitte",
+      "BDO",
+      "Duff & Phelps",
+      "KPMG"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rangers administration",
+      "Duff & Phelps"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which division did Rangers start the 2012–13 season after the club's liquidation?",
+    "options": [
+      "The Second Division",
+      "The SPL",
+      "The Third Division",
+      "The First Division"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rangers administration",
+      "Third Division"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which company bought the business and assets of Rangers in 2012?",
+    "options": [
+      "Wavetower Ltd",
+      "Liberty Capital",
+      "Sevco Scotland Ltd",
+      "Ticketus"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rangers administration",
+      "Sevco"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Who were Rangers' opponents in their first fixture after the 2012 restart, a Ramsdens Cup tie?",
+    "options": [
+      "Brechin City",
+      "East Stirlingshire",
+      "Annan Athletic",
+      "Peterhead"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rangers administration",
+      "Brechin City"
+    ],
+    "source": "manual"
+  }
+]

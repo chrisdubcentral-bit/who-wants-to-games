@@ -1,0 +1,7 @@
+# Parkhead. Source: https://en.wikipedia.org/wiki/Parkhead
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | What nickname did Celtic Park get when Celtic moved there in 1892? | Paradise | The Jungle | Heaven | The Promised Land | Parkhead; Celtic Park; Paradise
+2 | landmarks | What is the name of the shopping centre in Parkhead that opened in 1988? | The Forge | St Enoch Centre | Braehead | Silverburn | Parkhead; The Forge
+3 | history | Which engineering firm made Parkhead Forge famous for high grade steel? | William Beardmore and Company | Harland and Wolff | Fairfield | Colvilles | Parkhead; Beardmore; Parkhead Forge
+3 | history | In which year did the Parkhead Forge plant close? | 1976 | 1958 | 1988 | 1992 | Parkhead Forge
+4 | history | Which Glasgow cemetery was laid out beside the Gallowgate in Parkhead in 1847? | The Eastern Necropolis | The Southern Necropolis | Sighthill Cemetery | Janefield Cemetery | Parkhead; Eastern Necropolis

@@ -1,0 +1,7 @@
+# Sir Roger and Kelvin - the elephants at Kelvingrove. Source: text pasted by the user (Kelvingrove Museum label text)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | art-culture | What is the name of the famous stuffed elephant in Kelvingrove Museum? | Sir Roger | Sir Walter | Big Rab | King Billy | Sir Roger; Kelvingrove; elephant
+3 | history | On which Glasgow road was the Scottish Zoo where Sir Roger the elephant lived? | New City Road | Duke Street | Paisley Road | Great Western Road | Sir Roger; Scottish Zoo; New City Road; Bostock
+4 | history | In which year was Sir Roger the elephant put down at the Scottish Zoo? | 1900 | 1885 | 1897 | 1912 | Sir Roger; Scottish Zoo; 1900
+4 | art-culture | What did the taxidermists have to remove to get the mounted Sir Roger out of their Sauchiehall Street shop? | Their whole shop front | The roof | The back wall | The staircase | Sir Roger; Charles Kirk; taxidermy; Sauchiehall Street
+3 | art-culture | Which newspaper ran the 1997 competition that named Kelvingrove's young elephant "Kelvin"? | Evening Times | The Herald | Daily Record | Sunday Mail | Kelvin; Kelvingrove; Evening Times; 1997

@@ -1,0 +1,407 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "art-culture",
+    "difficulty": 1,
+    "question": "In which month is the Merchant City Festival held each year?",
+    "options": [
+      "July",
+      "December",
+      "September",
+      "May"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Merchant City",
+      "Merchant City Festival"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "The Briggait in the Merchant City was formerly the city's what?",
+    "options": [
+      "Fish market",
+      "Fruit market",
+      "Corn exchange",
+      "Cattle market"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Merchant City",
+      "Briggait"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which orchestra has its home at City Halls?",
+    "options": [
+      "Scottish Opera Orchestra",
+      "Royal Scottish National Orchestra",
+      "Scottish Chamber Orchestra",
+      "BBC Scottish Symphony Orchestra"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Merchant City",
+      "City Halls",
+      "BBC SSO"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Merchant City venue is the sister venue to City Halls?",
+    "options": [
+      "The Hydro",
+      "The Old Fruitmarket",
+      "The Royal Concert Hall",
+      "The Barrowland"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Merchant City",
+      "Old Fruitmarket",
+      "City Halls"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What does Visit Glasgow call Glasgow's oldest purpose-built performance space?",
+    "options": [
+      "King's Theatre",
+      "Theatre Royal",
+      "City Halls",
+      "Tron Theatre"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Merchant City",
+      "City Halls"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which Merchant City venue does Visit Glasgow call \"the world's oldest surviving music hall\"?",
+    "options": [
+      "Tron Theatre",
+      "City Halls",
+      "The Old Fruitmarket",
+      "Britannia Panopticon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Merchant City",
+      "Britannia Panopticon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Merchant City building is home to Glasgow Print Studio and Street Level Photoworks?",
+    "options": [
+      "The Briggait",
+      "The Lighthouse",
+      "Trongate 103",
+      "Hutchesons' Hall"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Merchant City",
+      "Trongate 103"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Sharmanka Kinetic Theatre's moving figures are made from what?",
+    "options": [
+      "Papier-mâché",
+      "Old toys",
+      "Scrap metal",
+      "Driftwood"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Merchant City",
+      "Sharmanka"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "The Glasgow Police Museum tells the story of the country's oldest what?",
+    "options": [
+      "Fire brigade",
+      "Police force",
+      "Court",
+      "Prison"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Merchant City",
+      "Glasgow Police Museum"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "labels-scene",
+    "difficulty": 2,
+    "question": "Monorail in the Merchant City is what kind of independent shop?",
+    "options": [
+      "Bookshop",
+      "Comic shop",
+      "Guitar shop",
+      "Record shop"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Merchant City",
+      "Monorail"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Mr Ben in the Merchant City is one of the city's best-known what?",
+    "options": [
+      "Vintage stores",
+      "Record shops",
+      "Barbers",
+      "Tattoo parlours"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Merchant City",
+      "Mr Ben"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "According to Visit Glasgow, what does The Spiritualist on Miller Street have?",
+    "options": [
+      "Scotland's oldest pub sign",
+      "Scotland's longest bar",
+      "Scotland's biggest whisky cellar",
+      "Scotland's greatest bar gantry"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Merchant City",
+      "The Spiritualist",
+      "Miller Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which award does Margo on Miller Street hold?",
+    "options": [
+      "A Green Michelin star",
+      "A Michelin star",
+      "A Bib Gourmand",
+      "Three AA rosettes"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Merchant City",
+      "Margo",
+      "Bib Gourmand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Babbity Bowster is a historic Merchant City bar known for live music of which kind?",
+    "options": [
+      "Folk",
+      "Jazz",
+      "Punk",
+      "Country"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Merchant City",
+      "Babbity Bowster"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Rab Ha's in the Merchant City is what kind of pub?",
+    "options": [
+      "An Irish pub",
+      "A sports bar",
+      "A traditional Scottish pub",
+      "A real ale brewpub"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Merchant City",
+      "Rab Ha's"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Delmonica's in the Merchant City is one of the city's longest-running what?",
+    "options": [
+      "Cocktail bars",
+      "Jazz clubs",
+      "Gay bars",
+      "Comedy clubs"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Merchant City",
+      "Delmonica's"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "The Ramshorn Graveyard dates back to which period?",
+    "options": [
+      "Early 16th century",
+      "Early 18th century",
+      "Late 19th century",
+      "Early 20th century"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Merchant City",
+      "Ramshorn Graveyard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Merchant City street does Visit Glasgow call \"Glasgow's fashion boulevard\"?",
+    "options": [
+      "Ingram Street",
+      "Argyle Street",
+      "Sauchiehall Street",
+      "Buchanan Street"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Merchant City",
+      "Ingram Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Rottenrow Garden is on the campus of which university?",
+    "options": [
+      "Glasgow School of Art",
+      "University of Strathclyde",
+      "University of Glasgow",
+      "Glasgow Caledonian University"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Merchant City",
+      "Rottenrow Garden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which iconic Merchant City building houses the brunch spot Saints of Ingram?",
+    "options": [
+      "City Halls",
+      "Hutchesons' Hall",
+      "The Corinthian Club",
+      "Trades Hall"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Merchant City",
+      "Hutchesons' Hall",
+      "Saints of Ingram"
+    ],
+    "source": "manual"
+  }
+]

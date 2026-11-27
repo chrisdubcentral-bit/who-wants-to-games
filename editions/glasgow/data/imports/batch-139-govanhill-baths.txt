@@ -1,0 +1,7 @@
+# Govanhill Baths. Source: https://en.wikipedia.org/wiki/Govanhill_Baths
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Govanhill Baths is Glasgow's last surviving public bathhouse from which era? | Edwardian | Georgian | Victorian | Art Deco | Govanhill Baths
+3 | landmarks | In which year did campaigners occupy Govanhill Baths to stop its closure? | 2001 | 1995 | 2008 | 1989 | Govanhill Baths; occupation
+3 | landmarks | The 2001 Govanhill Baths sit-in is described as the longest occupation of what in British history? | A public building | A swimming pool | A school | A factory | Govanhill Baths; occupation
+3 | landmarks | How many swimming pools are on the ground floor of Govanhill Baths? | Three | One | Two | Five | Govanhill Baths; pools
+4 | landmarks | Which theatre company funded the 2012 reopening of the Govanhill Baths teaching pool for its show Lifeguard? | The National Theatre of Scotland | Wildcat | The Citizens Theatre | Scottish Opera | Govanhill Baths; Lifeguard

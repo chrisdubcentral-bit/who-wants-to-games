@@ -1,0 +1,199 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Maryhill is named after which woman who inherited the estate?",
+    "options": [
+      "Mary Slessor",
+      "Mary, Queen of Scots",
+      "Mary Hill",
+      "Mary Barbour"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maryhill",
+      "Mary Hill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which detective series is described as set and filmed in Maryhill?",
+    "options": [
+      "Rebus",
+      "Vera",
+      "Shetland",
+      "Taggart"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Maryhill",
+      "Taggart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which canal runs through Maryhill, with five locks and an aqueduct?",
+    "options": [
+      "The Crinan Canal",
+      "The Union Canal",
+      "The Forth and Clyde Canal",
+      "The Monkland Canal"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maryhill",
+      "Forth and Clyde Canal"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year did Maryhill become a burgh in its own right?",
+    "options": [
+      "1856",
+      "1891",
+      "1830",
+      "1912"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Maryhill",
+      "burgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was Maryhill absorbed into Glasgow?",
+    "options": [
+      "1856",
+      "1926",
+      "1891",
+      "1912"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Maryhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which senior Nazi was held at Maryhill Barracks during World War II?",
+    "options": [
+      "Hermann Göring",
+      "Albert Speer",
+      "Karl Dönitz",
+      "Rudolf Hess"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Maryhill Barracks",
+      "Rudolf Hess"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Mackintosh-designed church hall stands beside the canal in Maryhill?",
+    "options": [
+      "Ruchill Church Hall",
+      "Govan Old Hall",
+      "Partick Burgh Hall",
+      "Possil Hall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Maryhill",
+      "Ruchill Church Hall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year did Maryhill Barracks open?",
+    "options": [
+      "1914",
+      "1856",
+      "1902",
+      "1872"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Maryhill Barracks"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which ancient Roman frontier runs through the Maryhill Park area?",
+    "options": [
+      "Dere Street",
+      "The Gask Ridge",
+      "Hadrian's Wall",
+      "The Antonine Wall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Maryhill",
+      "Antonine Wall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which two regiments were housed at Maryhill Barracks?",
+    "options": [
+      "The Scots Greys and the Highland Light Infantry",
+      "The Argylls and the KOSB",
+      "The Cameronians and the Royal Scots",
+      "The Black Watch and the Gordons"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Maryhill Barracks"
+    ],
+    "source": "manual"
+  }
+]

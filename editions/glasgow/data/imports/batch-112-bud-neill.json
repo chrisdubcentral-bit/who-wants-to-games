@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which cartoon sheriff of Calton Creek did Glasgow cartoonist Bud Neill create?",
+    "options": [
+      "Oor Wullie",
+      "Lord Snooty",
+      "Lobey Dosser",
+      "Desperate Dan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Bud Neill",
+      "Lobey Dosser"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "On which Glasgow road does the statue of Lobey Dosser stand?",
+    "options": [
+      "Byres Road",
+      "Duke Street",
+      "Woodlands Road",
+      "Sauchiehall Street"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Bud Neill",
+      "Lobey Dosser",
+      "Woodlands Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What is the name of Lobey Dosser's two-legged horse?",
+    "options": [
+      "Rank Bajin",
+      "Trigger",
+      "El Fideldo",
+      "Silver"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Bud Neill",
+      "El Fideldo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Who is the villain in Bud Neill's Lobey Dosser stories?",
+    "options": [
+      "Rid Skwerr",
+      "Rank Bajin",
+      "Fairy Nuff",
+      "Big Chief Toffy Teeth"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bud Neill",
+      "Rank Bajin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In which Glasgow newspaper did Lobey Dosser first appear in 1949?",
+    "options": [
+      "The Daily Record",
+      "The Evening Times",
+      "The Sunday Post",
+      "The Herald"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bud Neill",
+      "Evening Times"
+    ],
+    "source": "manual"
+  }
+]

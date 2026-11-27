@@ -1,0 +1,17 @@
+# Hampden Park. Source: https://en.wikipedia.org/wiki/Hampden_Park
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | sport | In which year did the current Hampden Park open? | 1903 | 1873 | 1923 | 1950 | Hampden Park; 1903
+2 | sport | Which two teams met in the 1960 European Cup final at Hampden Park? | Real Madrid and Eintracht Frankfurt | Benfica and Barcelona | Celtic and Inter Milan | AC Milan and Ajax | Hampden Park; 1960 European Cup final
+2 | sport | Which organisation owns Hampden Park? | The Scottish Football Association | Queen's Park | Glasgow City Council | The SPFL | Hampden Park; SFA
+2 | sport | Hampden Park's name comes from a terrace named after which English Civil War figure? | John Hampden | Oliver Cromwell | Thomas Fairfax | John Pym | Hampden Park; John Hampden
+2 | sport | Which Glasgow club played the first match at the current Hampden in 1903, against Celtic? | Queen's Park | Rangers | Third Lanark | Partick Thistle | Hampden Park; first match
+3 | sport | What was the crowd at the 1960 European Cup final at Hampden, still a record for the final? | 127,621 | 98,000 | 150,000 | 76,200 | Hampden Park; 1960 European Cup final
+3 | sport | Which club took over the second Hampden Park in 1903 and renamed it Cathkin Park? | Third Lanark | Clyde | Queen's Park | Partick Thistle | Hampden Park; Third Lanark; Cathkin Park
+3 | sport | How many European club finals has Hampden Park hosted? | Six | Three | Four | Nine | Hampden Park; European finals
+3 | sport | In which year did Hampden host its most recent Champions League final? | 2002 | 1976 | 1998 | 2010 | Hampden Park; 2002
+3 | sport | Which 1909 event led the SFA to stop using Hampden for Scottish Cup finals? | A riot at the Old Firm final | A fire in the main stand | A pitch flooding | A crowd crush | Hampden Park; 1909 riot
+3 | sport | Which multi-sport event's closing ceremony was held at Hampden Park in 2014? | The Commonwealth Games | The Olympics | The European Championships | The World Athletics Championships | Hampden Park; Commonwealth Games
+3 | sport | Which American football team played at Hampden from 1998 to 2004? | Scottish Claymores | Glasgow Lions | London Monarchs | Edinburgh Eagles | Hampden Park; Scottish Claymores
+4 | sport | Which two railway stations are nearest to Hampden Park? | Mount Florida and King's Park | Crosshill and Pollokshields | Cathcart and Muirend | Queen's Park and Langside | Hampden Park; transport
+4 | sport | What crowd watched the 1937 Scottish Cup final between Celtic and Aberdeen at Hampden? | 147,365 | 98,500 | 125,000 | 183,388 | Hampden Park; 1937 Scottish Cup final
+4 | sport | Which club was briefly a tenant at Hampden in 1994–95 while its own ground was rebuilt? | Celtic | Rangers | Partick Thistle | Clyde | Hampden Park; Celtic

@@ -1,0 +1,4 @@
+# William Beardmore, 1st Baron Invernairn. Source: https://en.wikipedia.org/wiki/William_Beardmore,_1st_Baron_Invernairn
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | history | Which Antarctic feature did Shackleton name after Glasgow industrialist William Beardmore? | The Beardmore Glacier | Beardmore Island | Mount Beardmore | Beardmore Bay | William Beardmore; Shackleton
+4 | history | On which bank of the Clyde did William Beardmore build his Dalmuir shipyard? | North bank | South bank | On an island | At the Firth | William Beardmore; Dalmuir

@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Bis wrote and recorded the theme song for which cartoon?",
+    "options": [
+      "The Powerpuff Girls",
+      "Johnny Bravo",
+      "Dexter's Laboratory",
+      "Rugrats"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Bis",
+      "Powerpuff Girls"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Bis were the first unsigned band to play on Top of the Pops, performing which song?",
+    "options": [
+      "Sweet Shop Avengerz",
+      "Kandy Pop",
+      "Tell It to the Kids",
+      "Eurodisco"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bis",
+      "Kandy Pop",
+      "Top of the Pops"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "What is the stage name of Bis singer Amanda MacKinnon?",
+    "options": [
+      "Kandy Kay",
+      "Sci-Fi Mandy",
+      "Disco Di",
+      "Manda Rin"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bis",
+      "Manda Rin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "labels-scene",
+    "difficulty": 4,
+    "question": "Which Glasgow label, run by the Delgados, released Bis's early EPs?",
+    "options": [
+      "Rock Action",
+      "Creation",
+      "Chemikal Underground",
+      "Postcard"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Bis",
+      "Chemikal Underground"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "At which Glasgow venue did Bis play their farewell show in 2003?",
+    "options": [
+      "The Garage",
+      "QMU",
+      "Barrowland",
+      "King Tut's Wah Wah Hut"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bis",
+      "King Tut's"
+    ],
+    "source": "manual"
+  }
+]

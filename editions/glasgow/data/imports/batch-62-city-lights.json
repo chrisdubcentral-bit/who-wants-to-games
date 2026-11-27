@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actor played bank teller Willie Melvin in the BBC Scotland sitcom City Lights?",
+    "options": [
+      "Gregor Fisher",
+      "Andy Gray",
+      "Jonathan Watson",
+      "Gerard Kelly"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "City Lights",
+      "Gerard Kelly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What does Willie Melvin dream of becoming in City Lights?",
+    "options": [
+      "A novelist",
+      "A footballer",
+      "An actor",
+      "A rock star"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "City Lights",
+      "Willie Melvin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What is the name of Willie's scheming best friend in City Lights, played by Andy Gray?",
+    "options": [
+      "Chancer",
+      "Brian",
+      "Shug",
+      "Tam"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "City Lights",
+      "Chancer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which comedian guest-starred as an angel called \"The Dosser\" in City Lights?",
+    "options": [
+      "Rikki Fulton",
+      "Billy Connolly",
+      "Robbie Coltrane",
+      "Stanley Baxter"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "City Lights",
+      "Billy Connolly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What is the title of Willie Melvin's autobiographical book in City Lights?",
+    "options": [
+      "Tenement Tales",
+      "My Childhood Up A Close",
+      "A Life on the Stair",
+      "Glasgow Boy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "City Lights",
+      "My Childhood Up A Close"
+    ],
+    "source": "manual"
+  }
+]

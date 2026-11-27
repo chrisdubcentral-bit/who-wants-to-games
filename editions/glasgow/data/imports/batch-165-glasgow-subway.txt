@@ -1,0 +1,12 @@
+# Glasgow Subway. Source: https://en.wikipedia.org/wiki/Glasgow_Subway
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | What is the Glasgow Subway's famous nickname? | The Clockwork Orange | The Tube | The Glasgow Loop | The Wee Train | Glasgow Subway; Clockwork Orange
+1 | landmarks | How many stations does the Glasgow Subway have? | 15 | 10 | 20 | 25 | Glasgow Subway; stations
+2 | landmarks | In which year did the Glasgow Subway open? | 1896 | 1863 | 1902 | 1935 | Glasgow Subway; 1896
+2 | landmarks | What are the Glasgow Subway's two lines called? | The Inner Circle and Outer Circle | The Red and Blue Lines | The North and South Loops | The East and West Lines | Glasgow Subway; Inner Circle; Outer Circle
+3 | landmarks | How were the Glasgow Subway's trains powered until 1935? | By cable | By steam | By horses | By diesel | Glasgow Subway; cable
+3 | landmarks | What was the Glasgow Subway renamed in 1936, before SPT readopted "Subway" in 2003? | The Glasgow Underground | The Glasgow Metro | The Clyde Line | The Circle Railway | Glasgow Subway; Underground
+3 | landmarks | Which company built the Glasgow Subway's new driverless trains? | Stadler | Hitachi | Siemens | Bombardier | Glasgow Subway; Stadler
+3 | landmarks | Which monarch inaugurated the modernised Glasgow Subway in 1979? | Queen Elizabeth II | The Queen Mother | Prince Charles | King George VI | Glasgow Subway; 1979
+4 | landmarks | What was the Glasgow Subway's nickname before the 1970s trains, according to the article? | The Shoogly Train | The Clockwork Orange | The Wee Tube | The Rattler | Glasgow Subway; Shoogly Train
+4 | landmarks | Between which two stations is the Glasgow Subway's Broomloan Road depot? | Govan and Ibrox | Partick and Kelvinhall | Hillhead and Kelvinbridge | Bridge Street and West Street | Glasgow Subway; Broomloan depot

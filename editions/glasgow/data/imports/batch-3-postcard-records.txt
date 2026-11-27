@@ -1,0 +1,7 @@
+# Postcard Records. Source: https://en.wikipedia.org/wiki/Postcard_Records
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | labels-scene | What was the motto of Glasgow's Postcard Records? | The Sound of Young Scotland | The Sound of the Clyde | Glasgow Calling | Scotland's Finest Pop | Postcard Records; motto
+2 | labels-scene | Who founded Postcard Records in Glasgow in 1979? | Alan Horne | Alan McGee | Stewart Henderson | Bob Last | Postcard Records; Alan Horne
+3 | labels-scene | What is the logo of Postcard Records? | A cartoon cat beating a drum | A dog with a gramophone | A bird on a branch | A smiling postman | Postcard Records; logo
+3 | songs-albums | Which Orange Juice single was the first release on Postcard Records? | Falling and Laughing | Blue Boy | Simply Thrilled Honey | Poor Old Soul | Postcard Records; Orange Juice; Falling and Laughing
+4 | labels-scene | Which major label did Orange Juice leave Postcard to join in 1981? | Polydor | EMI | Virgin | CBS | Postcard Records; Orange Juice; Polydor

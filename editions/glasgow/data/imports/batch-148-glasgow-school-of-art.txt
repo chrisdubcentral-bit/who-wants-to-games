@@ -1,0 +1,12 @@
+# Glasgow School of Art. Source: https://en.wikipedia.org/wiki/Glasgow_School_of_Art
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | On which Glasgow street is the Mackintosh Building of the Glasgow School of Art? | Renfrew Street | Sauchiehall Street | Bath Street | Hope Street | Glasgow School of Art; Renfrew Street
+2 | art-culture | In which year did the second, more severe fire hit the Glasgow School of Art's Mackintosh Building? | 2018 | 2014 | 2016 | 2020 | Glasgow School of Art; 2018 fire
+3 | art-culture | What was the Glasgow School of Art first called when founded in 1845? | Glasgow Government School of Design | Glasgow Academy of Fine Arts | Mackintosh School | Glasgow College of Drawing | Glasgow School of Art; 1845
+3 | art-culture | Which school director chose Charles Rennie Mackintosh to design the Glasgow School of Art? | Francis Newbery | John Keppie | Alexander Thomson | John Honeyman | Glasgow School of Art; Francis Newbery
+3 | art-culture | Which American architect's firm designed the Reid Building opposite the Mackintosh Building? | Steven Holl | Frank Gehry | Richard Meier | Daniel Libeskind | Glasgow School of Art; Reid Building; Steven Holl
+3 | art-culture | Which music venue next to the Art School was severely damaged in the 2018 fire? | The O2 ABC | The Garage | The Cathouse | The Barrowland | Glasgow School of Art; O2 ABC
+3 | art-culture | On which hill does the Glasgow School of Art stand? | Garnethill | Gilmorehill | Blythswood Hill | Woodlands Hill | Glasgow School of Art; Garnethill
+3 | art-culture | What caused the 2014 fire at the Glasgow School of Art, according to investigators? | Expanding foam near a hot projector | An electrical fault in the library | A discarded cigarette | A gas leak | Glasgow School of Art; 2014 fire
+4 | art-culture | In which year was the second half of the Mackintosh Building completed? | 1909 | 1899 | 1897 | 1920 | Glasgow School of Art; Mackintosh Building
+4 | art-culture | Which 2014 Turner Prize winner is listed among Glasgow School of Art alumni? | Duncan Campbell | Martin Creed | Grayson Perry | Damien Hirst | Glasgow School of Art; Turner Prize

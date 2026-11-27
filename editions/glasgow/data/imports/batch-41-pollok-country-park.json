@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which breed of cattle is famously kept in Pollok Country Park?",
+    "options": [
+      "Highland cattle",
+      "Belted Galloway",
+      "Ayrshire",
+      "Aberdeen Angus"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pollok Country Park",
+      "Highland cattle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which family owned the Pollok estate for over 700 years?",
+    "options": [
+      "The Stewarts",
+      "The Hamiltons",
+      "The Maxwells",
+      "The Campbells"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pollok Country Park",
+      "Maxwell family"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year was the Pollok estate, including Pollok House, gifted to Glasgow?",
+    "options": [
+      "1983",
+      "1944",
+      "1922",
+      "1966"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pollok Country Park",
+      "Pollok House"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which motorway was the \"Pollok Free State\" protest camp trying to stop?",
+    "options": [
+      "The M8",
+      "The M74",
+      "The M80",
+      "The M77"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pollok Country Park",
+      "Pollok Free State",
+      "M77"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which Olympic cyclist opened Pollok Country Park's mountain bike routes in 2004?",
+    "options": [
+      "Graeme Obree",
+      "Mark Cavendish",
+      "Chris Hoy",
+      "Bradley Wiggins"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pollok Country Park",
+      "Chris Hoy"
+    ],
+    "source": "manual"
+  }
+]

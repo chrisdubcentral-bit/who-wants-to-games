@@ -1,0 +1,406 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "What is the nickname of Queen's Park F.C.?",
+    "options": [
+      "The Spiders",
+      "The Hoops",
+      "The Bully Wee",
+      "The Jags"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Queen's Park",
+      "The Spiders"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Queen's Park's nickname \"The Spiders\" comes from their shirts in which pattern?",
+    "options": [
+      "Green and white hoops",
+      "Blue and white quarters",
+      "Red and black stripes",
+      "Black and white hoops"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Queen's Park",
+      "The Spiders"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "What is the Latin motto of Queen's Park, meaning \"To Play for the Sake of Playing\"?",
+    "options": [
+      "Semper Fidelis",
+      "Nisi Dominus Frustra",
+      "Let Glasgow Flourish",
+      "Ludere Causa Ludendi"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Queen's Park",
+      "motto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Queen's Park are the only Scottish club to have played in which final?",
+    "options": [
+      "The Cup Winners' Cup final",
+      "The FA Cup final",
+      "The European Cup final",
+      "The League Cup final"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Queen's Park",
+      "FA Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In 1872, how many of Scotland's eleven players against England came from Queen's Park?",
+    "options": [
+      "Seven",
+      "All eleven",
+      "Five",
+      "Nine"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Queen's Park",
+      "1872 international"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which team beat Queen's Park in both the 1884 and 1885 FA Cup finals?",
+    "options": [
+      "Aston Villa",
+      "Old Etonians",
+      "Blackburn Rovers",
+      "Wanderers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Queen's Park",
+      "FA Cup final",
+      "Blackburn Rovers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "How many times have Queen's Park won the Scottish Cup?",
+    "options": [
+      "14",
+      "3",
+      "6",
+      "10"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Queen's Park",
+      "Scottish Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In 2019, Queen's Park members voted to give up which status after 152 years?",
+    "options": [
+      "Charity status",
+      "Members' club status",
+      "Hampden ownership",
+      "Amateur status"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Queen's Park",
+      "amateur",
+      "2019"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Queen's Park are credited with introducing what to association football at an 1875 FA meeting?",
+    "options": [
+      "Goal nets",
+      "Penalty kicks",
+      "The crossbar",
+      "Corner flags"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Queen's Park",
+      "crossbar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Until 1950, Hampden Park was the world's largest stadium. Which stadium overtook it?",
+    "options": [
+      "Wembley Stadium",
+      "Camp Nou",
+      "The Bernabéu",
+      "The Maracanã"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Queen's Park",
+      "Hampden",
+      "Maracanã"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which team did Queen's Park beat 2–1 at Ibrox to win their last Scottish Cup, in 1893?",
+    "options": [
+      "Hearts",
+      "Rangers",
+      "Celtic",
+      "Third Lanark"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Queen's Park",
+      "Scottish Cup 1893"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In 2025, Queen's Park beat which club 1–0 away in the Scottish Cup fifth round?",
+    "options": [
+      "Rangers",
+      "Hearts",
+      "Celtic",
+      "Aberdeen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Queen's Park",
+      "Scottish Cup 2025",
+      "Ibrox"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which player is credited with introducing Queen's Park's black and white hoops?",
+    "options": [
+      "Walter Arnott",
+      "Charlie Campbell",
+      "Andrew Watson",
+      "David Wotherspoon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Queen's Park",
+      "David Wotherspoon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Queen's Park player is described as the first black football player in Britain?",
+    "options": [
+      "Walter Arnott",
+      "Charlie Campbell",
+      "Andrew Watson",
+      "R. S. McColl"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Queen's Park",
+      "Andrew Watson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which goalkeeper made his Queen's Park debut aged just 14?",
+    "options": [
+      "Jim Leighton",
+      "Ronnie Simpson",
+      "Alan Rough",
+      "Bobby Clark"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Queen's Park",
+      "Ronnie Simpson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which soft drink sponsored Queen's Park's shirts from 1996 to 2022?",
+    "options": [
+      "Tennent's",
+      "Irn-Bru",
+      "Barr's Cola",
+      "Vimto"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Queen's Park",
+      "Irn-Bru"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which club did Queen's Park beat 2–0 in their first ever match, in 1868?",
+    "options": [
+      "Thistle F.C.",
+      "Dumbreck",
+      "Vale of Leven",
+      "Rangers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Queen's Park",
+      "first match"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "What was the record attendance for a Queen's Park match, against Rangers in 1930?",
+    "options": [
+      "62,470",
+      "81,000",
+      "95,722",
+      "149,547"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Queen's Park",
+      "record attendance"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Who scored Queen's Park's fastest hat-trick, in 5 minutes against Elgin City in 2019?",
+    "options": [
+      "Ross Caven",
+      "Callan McKenna",
+      "Zak Rudden",
+      "David Galt"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Queen's Park",
+      "David Galt"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "sport",
+    "difficulty": 5,
+    "question": "By how many votes was the name \"Queen's Park\" chosen at the club's founding meeting?",
+    "options": [
+      "Three",
+      "Ten",
+      "One",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Queen's Park",
+      "founding"
+    ],
+    "source": "manual"
+  }
+]

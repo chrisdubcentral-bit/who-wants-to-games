@@ -1,0 +1,32 @@
+# Glasgow gigs and venues (4) - hard questions for The Barras. Source: user's gig list (Google Sheet 12jcAUZ9pQ41Dau2yOkS59qn6L4dlUF0x58Ixv4fQfmc)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+5 | venues-gigs | At which Glasgow venue did the Stone Roses play in June 1989? | Rooftops | King Tut's | The Barrowland | The QMU | Stone Roses; Rooftops; 1989
+5 | venues-gigs | In which year did the Stone Roses play Glasgow Green? | 1990 | 1989 | 1992 | 1995 | Stone Roses; Glasgow Green; 1990
+5 | venues-gigs | In which year did New Order play the SECC? | 1989 | 1986 | 1993 | 1997 | New Order; SECC; 1989
+5 | venues-gigs | Which Washington DC band played The Mayfair in November 1989? | Fugazi | Minor Threat | Bad Brains | Jawbox | Fugazi; The Mayfair; 1989
+5 | venues-gigs | Which band, led by Sonic Boom and Jason Pierce, played Fury Murrys in February 1989? | Spacemen 3 | Loop | The Telescopes | Spectrum | Spacemen 3; Fury Murrys; 1989
+5 | venues-gigs | At which Glasgow college did My Bloody Valentine play in April 1990? | College of Building & Printing | Glasgow Tech | Stow College | Langside College | My Bloody Valentine; College of Building & Printing; 1990
+5 | venues-gigs | Which Oxford band played Glasgow Tech in February 1990? | Ride | Supergrass | Radiohead | Swervedriver | Ride; Glasgow Tech; 1990
+5 | venues-gigs | Who supported Loop at Glasgow Tech in February 1990? | World Domination Enterprises | Spacemen 3 | The Telescopes | Cranes | Loop; Glasgow Tech; World Domination Enterprises; 1990
+5 | venues-gigs | Which band played the Plaza Ballroom in April 1993? | Suede | Blur | Pulp | Elastica | Suede; Plaza Ballroom; 1993
+5 | venues-gigs | Which band played The Cathouse in May 1992? | Swervedriver | Ride | Slowdive | Lush | Swervedriver; The Cathouse; 1992
+5 | venues-gigs | Which Glasgow band played the Plaza Ballroom in July 1991? | Primal Scream | Teenage Fanclub | The Soup Dragons | Jesus and Mary Chain | Primal Scream; Plaza Ballroom; 1991
+5 | venues-gigs | Which Beach Boy played the Clyde Auditorium (the Armadillo) in January 2002? | Brian Wilson | Mike Love | Al Jardine | Carl Wilson | Brian Wilson; Armadillo; 2002
+5 | venues-gigs | Which French duo played the Old Fruitmarket in November 1998? | Air | Daft Punk | Justice | Phoenix | Air; Fruitmarket; 1998
+5 | venues-gigs | On which floating venue did The Fall play in 2004 and again in 2009? | The Renfrew Ferry | The Tuxedo Princess | The Waverley | The Glenlee | The Fall; Renfrew Ferry
+5 | venues-gigs | Which reggae singer played the Renfrew Ferry in March 2006? | Max Romeo | Lee "Scratch" Perry | Gregory Isaacs | Burning Spear | Max Romeo; Renfrew Ferry; 2006
+5 | venues-gigs | Which reggae singer played The Arches in November 2006? | Horace Andy | Max Romeo | Gregory Isaacs | Dennis Brown | Horace Andy; The Arches; 2006
+5 | venues-gigs | Who supported Johnny Clarke at King Tut's during the Triptych festival in 2002? | Dennis Alcapone | Horace Andy | Max Romeo | U-Roy | Johnny Clarke; King Tut's; Dennis Alcapone; Triptych; 2002
+5 | venues-gigs | In which year did Arctic Monkeys play the Hydro? | 2013 | 2011 | 2015 | 2018 | Arctic Monkeys; Hydro; 2013
+5 | venues-gigs | Which Manchester band played the Hydro in April 2014? | Elbow | Doves | The Courteeners | James | Elbow; Hydro; 2014
+5 | venues-gigs | Which post-punk band played The Arches in September 2008? | Wire | Gang of Four | Magazine | The Fall | Wire; The Arches; 2008
+5 | venues-gigs | Which Sonic Youth guitarist played a solo gig at The Arches in November 2011? | Thurston Moore | Lee Ranaldo | Kim Gordon | Steve Shelley | Thurston Moore; The Arches; 2011
+5 | venues-gigs | Which former Pavement frontman played The Arches in November 2011? | Stephen Malkmus | Scott Kannberg | Bob Nastanovich | Mark Ibold | Stephen Malkmus; The Arches; 2011
+5 | venues-gigs | Which Californian band played the ABC in August 2012? | Grandaddy | The Shins | Mercury Rev | Band of Horses | Grandaddy; ABC; 2012
+5 | venues-gigs | Where did Wilco play in Glasgow in October 2011? | The Royal Concert Hall | The Barrowland | The ABC | The Academy | Wilco; Concert Hall; 2011
+5 | venues-gigs | At which outdoor venue did Belle & Sebastian play in July 2014? | Kelvingrove Bandstand | Glasgow Green | Bellahouston Park | Queen's Park | Belle and Sebastian; Kelvingrove Bandstand; 2014
+5 | venues-gigs | At which college venue did Teenage Fanclub play in June 1991? | Glasgow Tech | Strathclyde Union | The QMU | Stow College | Teenage Fanclub; Glasgow Tech; 1991
+5 | venues-gigs | Which comedian played Strathclyde Union in October 1990? | Vic Reeves | Frank Skinner | Harry Enfield | Rik Mayall | Vic Reeves; Strathclyde Union; 1990
+5 | venues-gigs | Which David Berman band played the Tramway in April 2006? | Silver Jews | Pavement | Smog | Lambchop | Silver Jews; Tramway; 2006
+5 | venues-gigs | Which Scottish dance band played The Arches in May 1993? | One Dove | The Shamen | Slam | Primal Scream | One Dove; The Arches; 1993
+5 | venues-gigs | Which band played the Barrowland in April 1991, the year "Move Any Mountain" came out? | The Shamen | 808 State | KLF | Utah Saints | The Shamen; Barrowland; 1991

@@ -1,0 +1,207 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which two comedians wrote and starred in the BBC Scotland sketch show Burnistoun?",
+    "options": [
+      "Sanjeev Kohli and Paul Riley",
+      "Kevin Bridges and Frankie Boyle",
+      "Ford Kiernan and Greg Hemphill",
+      "Robert Florence and Iain Connell"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Burnistoun",
+      "Robert Florence",
+      "Iain Connell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "The name Burnistoun comes from which two areas of Glasgow?",
+    "options": [
+      "Shettleston and Dennistoun",
+      "Springburn and Dennistoun",
+      "Bridgeton and Dennistoun",
+      "Springburn and Bridgeton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Burnistoun",
+      "Springburn",
+      "Dennistoun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What do Burnistoun's police officers MacGregor and Toshan call themselves?",
+    "options": [
+      "Quality Polis",
+      "Top Polis",
+      "Real Polis",
+      "Glesga Polis"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Burnistoun",
+      "Quality Polis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which 17-year-old brothers run an ice-cream van in Burnistoun?",
+    "options": [
+      "Jamesie and Andra",
+      "Paul and Walter",
+      "Scott and Peter",
+      "Joe and Barry"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Burnistoun",
+      "Paul and Walter"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which superhero is parodied by Burnistoun's Doberman Man?",
+    "options": [
+      "Batman",
+      "Spider-Man",
+      "The Incredible Hulk",
+      "Superman"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Burnistoun",
+      "Doberman Man"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which aspiring girl band is led by Kelly McGlade in Burnistoun?",
+    "options": [
+      "The Bampots",
+      "The Burnistoun Belles",
+      "The Sloppy Seconds",
+      "The Wee Spice Girls"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Burnistoun",
+      "Kelly McGlade",
+      "Sloppy Seconds"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "How many series of Burnistoun were made between 2010 and 2012?",
+    "options": [
+      "Five",
+      "Three",
+      "Four",
+      "Two"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Burnistoun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which documentary presenter is Burnistoun's Robert Clach often thought to parody?",
+    "options": [
+      "David Starkey",
+      "Neil Oliver",
+      "Simon Schama",
+      "Tony Robinson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Burnistoun",
+      "Robert Clach",
+      "Neil Oliver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which old TV show does Burnistoun Kilty Club parody?",
+    "options": [
+      "The White Heather Club",
+      "Thingummyjig",
+      "Hogmanay Show",
+      "The Kilt Is My Delight"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Burnistoun",
+      "Kilty Club",
+      "White Heather Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which Glasgow theatre hosted \"Burnistoun: Live and For Real\" in 2015?",
+    "options": [
+      "The Citizens Theatre",
+      "The King's Theatre",
+      "The Theatre Royal",
+      "The Pavilion Theatre"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Burnistoun",
+      "King's Theatre",
+      "2015"
+    ],
+    "source": "manual"
+  }
+]

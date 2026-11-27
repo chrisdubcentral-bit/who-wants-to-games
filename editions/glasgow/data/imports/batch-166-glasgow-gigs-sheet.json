@@ -1,0 +1,542 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which band played the QMU in November 1991, with Shonen Knife supporting?",
+    "options": [
+      "Sonic Youth",
+      "Mudhoney",
+      "Pearl Jam",
+      "Nirvana"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "QMU",
+      "Nirvana",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which Manchester band played the Barrowland on 16 July 1986?",
+    "options": [
+      "The Smiths",
+      "The Fall",
+      "New Order",
+      "James"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barrowland",
+      "The Smiths",
+      "1986"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "At which festival did Radiohead headline Glasgow Green in July 2017, with Belle & Sebastian supporting?",
+    "options": [
+      "Connect",
+      "TRNSMT",
+      "The Big Day",
+      "T in the Park"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Green",
+      "Radiohead",
+      "TRNSMT",
+      "2017"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band were on the bill supporting The Verve at The Cathouse in December 1993, alongside Acetone?",
+    "options": [
+      "Pulp",
+      "Oasis",
+      "Suede",
+      "Blur"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Cathouse",
+      "The Verve",
+      "Oasis",
+      "1993"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band played three nights in a row at the Barrowland in December 1987?",
+    "options": [
+      "Simple Minds",
+      "U2",
+      "The Pogues",
+      "The Undertones"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "The Pogues",
+      "1987"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band headlined the Barrowland on 27 December 1994?",
+    "options": [
+      "Primal Scream",
+      "Blur",
+      "Oasis",
+      "Pulp"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "Oasis",
+      "1994"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which garage rock duo played the Glasgow Academy in April 2003?",
+    "options": [
+      "The White Stripes",
+      "The Black Keys",
+      "The Kills",
+      "The Ting Tings"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Academy",
+      "The White Stripes",
+      "2003"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Britpop band played King Tut's in July 1990 and again in May 1991?",
+    "options": [
+      "Pulp",
+      "Blur",
+      "Oasis",
+      "Suede"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "King Tut's",
+      "Blur",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Scottish band played King Tut's in March 1997?",
+    "options": [
+      "Idlewild",
+      "Texas",
+      "Travis",
+      "Mogwai"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "King Tut's",
+      "Travis",
+      "1997"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Welsh band held a \"Furrymania\" event at Nice N Sleazy in June 2001?",
+    "options": [
+      "Stereophonics",
+      "Manic Street Preachers",
+      "Super Furry Animals",
+      "Catatonia"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Nice N Sleazy",
+      "Super Furry Animals",
+      "2001"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Who supported Nirvana at the QMU in November 1991?",
+    "options": [
+      "Babes in Toyland",
+      "Bis",
+      "Shonen Knife",
+      "Teenage Fanclub"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "QMU",
+      "Nirvana",
+      "Shonen Knife",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band supported Simple Minds at Ibrox Stadium in June 1986?",
+    "options": [
+      "The Alarm",
+      "The Waterboys",
+      "Big Country",
+      "The Cult"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ibrox",
+      "Simple Minds",
+      "The Cult",
+      "1986"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band supported U2 at Celtic Park in August 1993, along with Utah Saints?",
+    "options": [
+      "Hoodoo Gurus",
+      "The Pogues",
+      "Stereo MCs",
+      "Primal Scream"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celtic Park",
+      "U2",
+      "Stereo MCs",
+      "1993"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "What was the 1990 Glasgow Green concert headlined by Sheena Easton, with Big Country and Deacon Blue, called?",
+    "options": [
+      "The Big Day",
+      "Glasgow Live",
+      "Mayfest",
+      "Festival in the City"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Green",
+      "The Big Day",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "What was the name of the 1992 SECC tour headlined by the Jesus and Mary Chain, with My Bloody Valentine, Blur and Dinosaur Jr?",
+    "options": [
+      "Sound City",
+      "Rollercoaster",
+      "Lollapalooza",
+      "Reading Revue"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "SECC",
+      "Jesus and Mary Chain",
+      "Rollercoaster",
+      "1992"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Who supported Sonic Youth at the Barrowland in December 1992?",
+    "options": [
+      "Mudhoney",
+      "Dinosaur Jr",
+      "Nirvana",
+      "Pavement"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barrowland",
+      "Sonic Youth",
+      "Pavement",
+      "1992"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band headlined Festival in the City on Glasgow Green on 26 August 2000, with Teenage Fanclub supporting?",
+    "options": [
+      "Primal Scream",
+      "Paul Weller",
+      "Travis",
+      "Oasis"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Green",
+      "Festival in the City",
+      "Primal Scream",
+      "2000"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Who headlined Festival in the City on Glasgow Green on 25 August 2000, with Beck and Elliott Smith on the bill?",
+    "options": [
+      "Primal Scream",
+      "Super Furry Animals",
+      "Blur",
+      "Paul Weller"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Green",
+      "Festival in the City",
+      "Paul Weller",
+      "2000"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which Glasgow band supported Super Furry Animals at King Tut's in March 1996?",
+    "options": [
+      "Bis",
+      "Belle and Sebastian",
+      "Mogwai",
+      "Arab Strap"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "King Tut's",
+      "Super Furry Animals",
+      "Bis",
+      "1996"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band supported Mogwai at the Hydro in December 2017?",
+    "options": [
+      "Spiritualized",
+      "Slowdive",
+      "Swervedriver",
+      "Ride"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hydro",
+      "Mogwai",
+      "Ride",
+      "2017"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "In which Glasgow park did Mogwai headline the East End Social gig in 2014?",
+    "options": [
+      "Richmond Park",
+      "Bellahouston Park",
+      "Kelvingrove Park",
+      "Glasgow Green"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mogwai",
+      "East End Social",
+      "Richmond Park",
+      "2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Who supported Sonic Youth at Strathclyde Union in March 1989?",
+    "options": [
+      "Big Black",
+      "Dinosaur Jr",
+      "Pavement",
+      "Mudhoney"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Strathclyde Union",
+      "Sonic Youth",
+      "Mudhoney",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Before it became King Tut's, the St Vincent Street venue was briefly called what, after Saints and Sinners?",
+    "options": [
+      "Fury Murrys",
+      "The Doublet",
+      "Rooftops",
+      "The Buck"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "King Tut's",
+      "The Buck",
+      "Saints and Sinners"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which comedy character supported Kitchens of Distinction at The Revue at the Barras in 1989?",
+    "options": [
+      "Mr Blobby",
+      "Max Headroom",
+      "Spitting Image",
+      "Frank Sidebottom"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Barras",
+      "Kitchens of Distinction",
+      "Frank Sidebottom",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Who supported Belle & Sebastian at the Botanic Gardens in June 2004?",
+    "options": [
+      "Teenage Fanclub",
+      "The Delgados",
+      "V-Twin",
+      "Camera Obscura"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Botanic Gardens",
+      "Belle and Sebastian",
+      "V-Twin",
+      "2004"
+    ],
+    "source": "manual"
+  }
+]

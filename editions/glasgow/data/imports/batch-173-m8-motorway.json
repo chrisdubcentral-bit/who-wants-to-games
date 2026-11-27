@@ -1,0 +1,207 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "The M8 motorway connects Glasgow with which city?",
+    "options": [
+      "Stirling",
+      "Dundee",
+      "Edinburgh",
+      "Perth"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "M8",
+      "Edinburgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which bypass was the first section of the M8 to open, in 1965?",
+    "options": [
+      "The Renfrew bypass",
+      "The Harthill bypass",
+      "The Livingston bypass",
+      "The Bathgate bypass"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "M8",
+      "Harthill",
+      "1965"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "The Monkland Motorway was built over the former route of which canal?",
+    "options": [
+      "The Union Canal",
+      "The Monkland Canal",
+      "The Paisley Canal",
+      "The Forth and Clyde Canal"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "M8",
+      "Monkland Motorway",
+      "Monkland Canal"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was the M8's \"missing link\" between Baillieston and Newhouse fully opened?",
+    "options": [
+      "2011",
+      "2020",
+      "2014",
+      "2017"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "M8",
+      "missing link",
+      "2017"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What is the only service station on the M8?",
+    "options": [
+      "Heart of Scotland Services",
+      "Stirling Services",
+      "Abington Services",
+      "Hamilton Services"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "M8",
+      "Heart of Scotland Services"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "The M8's Glasgow inner city section was built under a scheme from which report?",
+    "options": [
+      "The Abercrombie Plan",
+      "The Buchanan Report",
+      "The Beeching Report",
+      "The Bruce Report"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "M8",
+      "Bruce Report"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Unusually, some M8 slip roads in Glasgow join and leave from which lane?",
+    "options": [
+      "The hard shoulder",
+      "The right-hand (overtaking) lane",
+      "The middle lane",
+      "The left-hand lane"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "M8",
+      "slip roads"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What nickname was given to the unfinished 1960s M8 structures that were later demolished or reused?",
+    "options": [
+      "Bridges to Nowhere",
+      "The Glasgow Stubs",
+      "Roads to Ruin",
+      "Ghost Ramps"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "M8",
+      "Bridges to Nowhere"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which M8 junction number is Charing Cross?",
+    "options": [
+      "8",
+      "18",
+      "15",
+      "20"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "M8",
+      "Charing Cross",
+      "junction 18"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "In which year did the M8's eastern extension from Newbridge to the Edinburgh City Bypass open?",
+    "options": [
+      "1980",
+      "2001",
+      "1995",
+      "1992"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "M8",
+      "Newbridge",
+      "1995"
+    ],
+    "source": "manual"
+  }
+]

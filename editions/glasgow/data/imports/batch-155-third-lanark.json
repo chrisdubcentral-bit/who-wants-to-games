@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "What was the name of Third Lanark's home ground?",
+    "options": [
+      "Firhill",
+      "Lesser Hampden",
+      "Cathkin Park",
+      "Shawfield"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Third Lanark",
+      "Cathkin Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In which year did Third Lanark go out of business?",
+    "options": [
+      "1957",
+      "1986",
+      "1977",
+      "1967"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Third Lanark",
+      "1967"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Third Lanark began as the football team of which organisation?",
+    "options": [
+      "Glasgow University",
+      "A Govan shipyard",
+      "A Catholic church",
+      "The 3rd Lanarkshire Rifle Volunteers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Third Lanark",
+      "Rifle Volunteers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which nickname, supposedly from a crowd chant about a high kick, did Third Lanark have?",
+    "options": [
+      "The Spiders",
+      "The Hi-Hi",
+      "The Jags",
+      "The Bully Wee"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Third Lanark",
+      "Hi-Hi"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which season did Third Lanark win their only Scottish League title?",
+    "options": [
+      "1923–24",
+      "1903–04",
+      "1889–90",
+      "1960–61"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Third Lanark",
+      "league title"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which team beat Third Lanark in the 1959 League Cup final?",
+    "options": [
+      "Hibernian",
+      "Rangers",
+      "Hearts",
+      "Celtic"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Third Lanark",
+      "League Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which team beat Third Lanark 1–0 in the 1936 Scottish Cup final?",
+    "options": [
+      "Motherwell",
+      "Celtic",
+      "Aberdeen",
+      "Rangers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Third Lanark",
+      "1936 Scottish Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Third Lanark's 1921 North America tour was billed under which name?",
+    "options": [
+      "Lanark Rovers",
+      "Scotland XI",
+      "Glasgow Select",
+      "The Warriors"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Third Lanark",
+      "1921 tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Third Lanark's last senior trophy was the 1963 Glasgow Cup, beating which team in the final?",
+    "options": [
+      "Rangers",
+      "Partick Thistle",
+      "Celtic",
+      "Clyde"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Third Lanark",
+      "Glasgow Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Where did Third Lanark play their final game, losing 5–1 in 1967?",
+    "options": [
+      "Somerset Park",
+      "Cliftonhill",
+      "Brockville",
+      "Boghead Park, Dumbarton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Third Lanark",
+      "final game"
+    ],
+    "source": "manual"
+  }
+]

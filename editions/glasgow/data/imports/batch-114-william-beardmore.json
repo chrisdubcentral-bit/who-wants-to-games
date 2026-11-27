@@ -1,0 +1,42 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which Antarctic feature did Shackleton name after Glasgow industrialist William Beardmore?",
+    "options": [
+      "Beardmore Bay",
+      "Beardmore Island",
+      "Mount Beardmore",
+      "The Beardmore Glacier"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "William Beardmore",
+      "Shackleton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "On which bank of the Clyde did William Beardmore build his Dalmuir shipyard?",
+    "options": [
+      "South bank",
+      "At the Firth",
+      "On an island",
+      "North bank"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "William Beardmore",
+      "Dalmuir"
+    ],
+    "source": "manual"
+  }
+]

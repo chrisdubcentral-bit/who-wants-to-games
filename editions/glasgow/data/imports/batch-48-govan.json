@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "famous-glaswegians",
+    "difficulty": 1,
+    "question": "Which legendary Manchester United manager came from Govan?",
+    "options": [
+      "Jock Stein",
+      "Bill Shankly",
+      "Sir Matt Busby",
+      "Sir Alex Ferguson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Govan",
+      "Alex Ferguson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "What is the name of Govan's famous collection of early Christian carved stones?",
+    "options": [
+      "The Clyde Stones",
+      "The Kentigern Stones",
+      "The Pictish Stones",
+      "The Govan Stones"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Govan",
+      "Govan Stones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "What did the unions stage when Upper Clyde Shipbuilders went into receivership in 1971?",
+    "options": [
+      "A work-in",
+      "A general strike",
+      "A march on London",
+      "A hunger strike"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Govan",
+      "UCS work-in"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which SNP politician won the 1973 Govan by-election?",
+    "options": [
+      "Margo MacDonald",
+      "Nicola Sturgeon",
+      "Winnie Ewing",
+      "Jim Sillars"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Govan",
+      "Margo MacDonald"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which SNP politician won the 1988 Govan by-election?",
+    "options": [
+      "Margo MacDonald",
+      "Gordon Wilson",
+      "Alex Salmond",
+      "Jim Sillars"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Govan",
+      "Jim Sillars"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which Govan shipbuilding company, formed in 1885, went bankrupt in 1965?",
+    "options": [
+      "Yarrow",
+      "John Brown",
+      "Fairfield",
+      "Harland and Wolff"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Govan",
+      "Fairfield"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which three subway stations serve Govan?",
+    "options": [
+      "Govan, Partick and Kelvinhall",
+      "Ibrox, Shields Road and Kinning Park",
+      "Govan, Ibrox and Cessnock",
+      "Govan, Cessnock and Bridge Street"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Govan",
+      "subway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What does Govan's Gaelic name, Baile a' Ghobhainn, mean?",
+    "options": [
+      "The smith's town",
+      "The green hill",
+      "The church town",
+      "The river ford"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Govan",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which shipbuilder began iron shipbuilding at Govan in 1841?",
+    "options": [
+      "Robert Napier",
+      "John Elder",
+      "Alexander Stephen",
+      "William Pearce"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Govan",
+      "Robert Napier"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Who was the first Provost of the Burgh of Govan?",
+    "options": [
+      "Morris Pollok",
+      "John Elder",
+      "David McKechnie",
+      "William Pearce"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Govan",
+      "Morris Pollok"
+    ],
+    "source": "manual"
+  }
+]

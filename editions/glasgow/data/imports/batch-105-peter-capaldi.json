@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which incarnation of the Doctor did Peter Capaldi play in Doctor Who?",
+    "options": [
+      "The Tenth",
+      "The Thirteenth",
+      "The Twelfth",
+      "The Eleventh"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Peter Capaldi",
+      "Doctor Who"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which foul-mouthed spin doctor did Peter Capaldi play in The Thick of It?",
+    "options": [
+      "Jamie McDonald",
+      "Malcolm Tucker",
+      "Hugh Abbot",
+      "Ollie Reeder"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Peter Capaldi",
+      "Malcolm Tucker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actor did Peter Capaldi succeed as the Doctor in Doctor Who?",
+    "options": [
+      "David Tennant",
+      "Matt Smith",
+      "Christopher Eccleston",
+      "Jodie Whittaker"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Peter Capaldi",
+      "Matt Smith"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which grumpy neighbour did Peter Capaldi play in the Paddington films?",
+    "options": [
+      "Mr Curry",
+      "Mr Gruber",
+      "Mr Buchanan",
+      "Mr Brown"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Capaldi",
+      "Paddington",
+      "Mr Curry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Peter Capaldi won an Oscar for which short film he directed?",
+    "options": [
+      "Franz Kafka's It's a Wonderful Life",
+      "Strictly Sinatra",
+      "Local Hero",
+      "The Thick of It"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Capaldi",
+      "Oscar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which future US talk show host was the drummer in Peter Capaldi's punk band the Dreamboys?",
+    "options": [
+      "Craig Ferguson",
+      "Jimmy Kimmel",
+      "James Corden",
+      "Conan O'Brien"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Capaldi",
+      "Dreamboys",
+      "Craig Ferguson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Beatle did Peter Capaldi play in the 1985 TV film John and Yoko: A Love Story?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Peter Capaldi",
+      "George Harrison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "What business did Peter Capaldi's parents run in Springburn?",
+    "options": [
+      "A chip shop",
+      "An ice cream business",
+      "A pub",
+      "A barber's"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Peter Capaldi",
+      "Springburn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which actress succeeded Peter Capaldi as the Doctor?",
+    "options": [
+      "Pearl Mackie",
+      "Jenna Coleman",
+      "Michelle Gomez",
+      "Jodie Whittaker"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Peter Capaldi",
+      "Jodie Whittaker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "In which 1983 Bill Forsyth film did Peter Capaldi play Danny Oldsen?",
+    "options": [
+      "Comfort and Joy",
+      "Local Hero",
+      "Gregory's Girl",
+      "That Sinking Feeling"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Peter Capaldi",
+      "Local Hero"
+    ],
+    "source": "manual"
+  }
+]

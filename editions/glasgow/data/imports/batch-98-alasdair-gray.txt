@@ -1,0 +1,12 @@
+# Alasdair Gray. Source: https://en.wikipedia.org/wiki/Alasdair_Gray
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | art-culture | What is the title of Alasdair Gray's best-known novel, published in 1981? | Lanark | Poor Things | 1982, Janine | The Busconductor Hines | Alasdair Gray; Lanark
+2 | art-culture | Which Alasdair Gray novel was made into a film starring Emma Stone? | Poor Things | Lanark | 1982, Janine | Something Leather | Alasdair Gray; Poor Things; Emma Stone
+2 | art-culture | Alasdair Gray's motto "Work as if you live in the early days of a better..." what? | Nation | World | City | Scotland | Alasdair Gray; motto
+2 | art-culture | Alasdair Gray painted a famous ceiling mural in which Byres Road venue? | Òran Mór | The Ubiquitous Chip | Hillhead Bookclub | The Grosvenor | Alasdair Gray; Òran Mór
+3 | art-culture | In which area of north-east Glasgow was Alasdair Gray born? | Riddrie | Springburn | Dennistoun | Royston | Alasdair Gray; Riddrie
+3 | art-culture | Where is Alasdair Gray's motto engraved? | The Canongate Wall of the Scottish Parliament | George Square | The Hunterian | Glasgow Central Station | Alasdair Gray; Scottish Parliament
+3 | art-culture | At which Glasgow subway station does an Alasdair Gray mural survive? | Hillhead | Kelvinbridge | St Enoch | Partick | Alasdair Gray; Hillhead
+3 | art-culture | Which prizes did Alasdair Gray's Poor Things win in 1992? | Whitbread and Guardian Fiction | Booker and Costa | Pulitzer and Hugo | Orange and Saltire | Alasdair Gray; Poor Things
+4 | art-culture | Which Still Game star narrowly beat Alasdair Gray to the Glasgow University rectorship in 2001? | Greg Hemphill | Ford Kiernan | Sanjeev Kohli | Paul Riley | Alasdair Gray; Greg Hemphill; rector
+4 | art-culture | What was Alasdair Gray's role at the People's Palace in 1977–78? | Glasgow's "artist recorder" | Curator | Writer-in-residence | Head of design | Alasdair Gray; People's Palace

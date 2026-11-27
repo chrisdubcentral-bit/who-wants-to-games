@@ -1,0 +1,32 @@
+# Finnieston. Source: https://www.visitglasgow.com/neighbourhoods/finnieston
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | Finnieston sits between the city centre and which part of Glasgow? | West End | Southside | East End | North | Finnieston
+1 | landmarks | Finnieston is set beside which river? | River Clyde | River Forth | River Tay | River Leven | Finnieston; River Clyde
+2 | landmarks | Finnieston often tops lists of the UK's and Europe's what? | Hippest neighbourhoods | Cheapest neighbourhoods | Quietest neighbourhoods | Greenest neighbourhoods | Finnieston
+2 | landmarks | How many floors of interactive exhibits does Glasgow Science Centre have? | Four | Two | Three | Six | Finnieston; Glasgow Science Centre
+2 | landmarks | Which Glasgow attraction has a Planetarium, an IMAX cinema and a tower with city views? | Glasgow Science Centre | Riverside Museum | Kelvingrove Art Gallery | The Lighthouse | Finnieston; Glasgow Science Centre
+3 | landmarks | Glasgow Science Centre sits on what kind of land in the Clyde? | A peninsula | An island | A pier | A floating pontoon | Finnieston; Glasgow Science Centre
+2 | food-drink | Which Finnieston distillery offers whisky tastings with riverside views? | Clydeside Distillery | Auchentoshan | Glengoyne | The Glasgow Distillery | Finnieston; Clydeside Distillery
+3 | food-drink | What does Once Upon a Whisky run in Glasgow? | Walking tours of whisky bars | A whisky distillery | A whisky shop | A whisky festival | Finnieston; Once Upon a Whisky
+3 | food-drink | The Once Upon a Whisky walking tour starts at which bar? | The Ben Nevis Bar | The Islay Inn | The Park Bar | The Pot Still | Finnieston; Once Upon a Whisky; Ben Nevis
+3 | food-drink | Which three Finnieston pubs make up the "Highland Triangle"? | Ben Nevis, Islay Inn and Park Bar | Ben Nevis, Pot Still and Lismore | Islay Inn, Lismore and Bon Accord | Park Bar, Pot Still and Bon Accord | Finnieston; Highland Triangle
+2 | art-culture | Which colourful Finnieston hub is home to artists, designers and musicians? | The Hidden Lane | Ashton Lane | Trongate 103 | The Briggait | Finnieston; Hidden Lane
+3 | art-culture | Which sculptor designed the Charles Rennie Mackintosh statue in Finnieston? | Andy Scott | Kenny Hunter | George Wyllie | Alexander Stoddart | Finnieston; Mackintosh statue; Andy Scott
+3 | art-culture | Andy Scott, who made Finnieston's Mackintosh statue, also created which famous Scottish sculptures? | The Kelpies | The Big Heids | The Angel of the North | The Wee Man | Finnieston; Andy Scott; Kelpies
+3 | art-culture | What is Mackintosh sitting on in his Finnieston statue? | The Argyle Chair | The Hill House Chair | A park bench | A tenement step | Finnieston; Mackintosh statue; Argyle Chair
+4 | art-culture | The Mackintosh statue stands on the corner of Argyle Street and which street? | Elliot Street | Kelvinhaugh Street | Finnieston Street | Minerva Street | Finnieston; Mackintosh statue; Argyle Street
+3 | food-drink | Which Finnieston restaurant is a Michelin Bib Gourmand winner known for creative sharing plates? | Ox and Finch | Crabshakk | Fat Sal's Kitchen | The Corner Shop | Finnieston; Ox and Finch; Bib Gourmand
+4 | food-drink | Which chef runs the Michelin-starred Unalome in Finnieston? | Graeme Cheevers | Gary Maclean | Tom Kitchin | Nick Nairn | Finnieston; Unalome; Graeme Cheevers
+4 | food-drink | Gloriosa's chef Rosie Healy trained with which famous chef? | Yotam Ottolenghi | Jamie Oliver | Gordon Ramsay | Nigel Slater | Finnieston; Gloriosa; Rosie Healy
+3 | food-drink | Which Finnieston restaurant is a favourite with seafood lovers? | Crabshakk | Ox and Finch | Fat Sal's Kitchen | Dockyard Social | Finnieston; Crabshakk
+4 | food-drink | The Corner Shop in Finnieston serves plates from which two regions? | Basque and Catalan | Tuscan and Sicilian | Provençal and Breton | Andalusian and Galician | Finnieston; The Corner Shop
+2 | food-drink | Fat Sal's Kitchen is known for cakes, desserts and what? | Milkshakes | Oysters | Ramen | Whisky | Finnieston; Fat Sal's Kitchen
+2 | food-drink | Dockyard Social in Finnieston is what kind of venue? | A street food market | A whisky distillery | A comedy club | A cinema | Finnieston; Dockyard Social
+4 | food-drink | On which Sunday of each month does Finnieston Food Market run? | The third | The first | The second | The last | Finnieston; Finnieston Food Market
+1 | venues-gigs | What does Visit Glasgow call the city's biggest venue? | The OVO Hydro | The Barrowland | The SEC Armadillo | The Royal Concert Hall | Finnieston; OVO Hydro
+2 | venues-gigs | Which venue is the "sister venue" of the OVO Hydro? | The SEC Armadillo | SWG3 | The Barrowland | The Old Fruitmarket | Finnieston; SEC Armadillo; OVO Hydro
+3 | venues-gigs | The OVO Hydro is described as one of the busiest what in the world? | Arenas | Football stadiums | Theatres | Nightclubs | Finnieston; OVO Hydro
+3 | venues-gigs | What is the name of SWG3's urban art gallery? | Yardlife | Streetlife | Wallworks | The Yard | Finnieston; SWG3; Yardlife
+3 | venues-gigs | What does SWG3 use to help power its building? | Clubbers' body heat | A rooftop wind turbine | Waste cooking oil | Tidal power from the Clyde | Finnieston; SWG3; sustainability
+2 | venues-gigs | SWG3 in Finnieston was formerly what kind of building? | A warehouse | A church | A cinema | A school | Finnieston; SWG3
+3 | food-drink | Red Sky Bar is a rooftop bar at which hotel? | Radisson Red | Hilton Garden Inn | Crowne Plaza | Moxy | Finnieston; Red Sky Bar; Radisson Red

@@ -1,0 +1,201 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which large shopping centre opened in Pollok in October 2007?",
+    "options": [
+      "St Enoch Centre",
+      "Braehead",
+      "The Fort",
+      "Silverburn"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pollok",
+      "Silverburn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "On which side of Glasgow is the Pollok housing estate?",
+    "options": [
+      "North-west",
+      "South-west",
+      "North-east",
+      "South-east"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Pollok"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Pollok was the first of Glasgow's \"big four\" what?",
+    "options": [
+      "New towns",
+      "Football grounds",
+      "Peripheral housing schemes",
+      "Shopping centres"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pollok",
+      "big four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "From which family did Glasgow buy the farmland for Pollok in 1935?",
+    "options": [
+      "The Hamiltons",
+      "The Stewarts",
+      "The Campbells",
+      "The Stirling-Maxwells"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pollok",
+      "Stirling-Maxwell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What does the Gaelic name for Pollok, \"Pollag\", mean?",
+    "options": [
+      "A pool",
+      "A ford",
+      "A hill",
+      "A wood"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pollok",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which ruined castle is said to have been visited by Mary, Queen of Scots, near Pollok?",
+    "options": [
+      "Haggs Castle",
+      "Crookston Castle",
+      "Cathcart Castle",
+      "Mearns Castle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Pollok",
+      "Crookston Castle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which motorway serves Pollok at junctions 2 and 3?",
+    "options": [
+      "The M77",
+      "The M8",
+      "The M73",
+      "The M74"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pollok",
+      "M77"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which river forms part of Pollok's northern and eastern boundary?",
+    "options": [
+      "The Black Cart Water",
+      "The White Cart Water",
+      "The Clyde",
+      "The Kelvin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Pollok",
+      "White Cart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which year was Pollok House built?",
+    "options": [
+      "1852",
+      "1752",
+      "1902",
+      "1652"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Pollok",
+      "Pollok House"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which Pollok secondary school is recognised as a \"school of ambition\"?",
+    "options": [
+      "Rosshall Academy",
+      "Penilee Secondary",
+      "St Paul's High School",
+      "Bellahouston Academy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pollok",
+      "St Paul's"
+    ],
+    "source": "manual"
+  }
+]

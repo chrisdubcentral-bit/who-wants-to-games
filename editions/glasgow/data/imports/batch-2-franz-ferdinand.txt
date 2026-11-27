@@ -1,0 +1,12 @@
+# Franz Ferdinand. Source: https://en.wikipedia.org/wiki/Franz_Ferdinand_(band)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | glasgow-bands | Who is the lead singer of Franz Ferdinand? | Alex Kapranos | Fran Healy | Bobby Gillespie | Stuart Murdoch | Franz Ferdinand; Alex Kapranos
+1 | songs-albums | Which 2004 single gave Franz Ferdinand their big breakthrough, reaching No. 3 in the UK? | Take Me Out | Do You Want To | Darts of Pleasure | Ulysses | Franz Ferdinand; Take Me Out
+2 | labels-scene | Which independent label signed Franz Ferdinand in 2003? | Domino | Creation | Rough Trade | Chemikal Underground | Franz Ferdinand; Domino Records; Laurence Bell
+2 | songs-albums | Which prize did Franz Ferdinand's self-titled debut album win in September 2004? | Mercury Music Prize | Ivor Novello Award | Grammy Award | Scottish Album of the Year | Franz Ferdinand; Mercury Prize 2004
+3 | glasgow-bands | Franz Ferdinand took their name from a racehorse that won which race in 2001? | Northumberland Plate | Grand National | Scottish Grand National | Ebor Handicap | Franz Ferdinand; band name
+3 | songs-albums | What was Franz Ferdinand's debut single, released in 2003? | Darts of Pleasure | Take Me Out | This Fire | The Dark of the Matinee | Franz Ferdinand; Darts of Pleasure
+3 | songs-albums | Which Franz Ferdinand album reached No. 1 in the UK in 2005? | You Could Have It So Much Better | Franz Ferdinand | Tonight: Franz Ferdinand | Always Ascending | Franz Ferdinand; You Could Have It So Much Better
+4 | glasgow-bands | Which American band joined Franz Ferdinand to form the supergroup FFS in 2015? | Sparks | Devo | Talking Heads | The B-52's | Franz Ferdinand; FFS; Sparks
+4 | songs-albums | In which Swedish city did Franz Ferdinand record their debut album? | Malmö | Stockholm | Gothenburg | Uppsala | Franz Ferdinand; Malmö; Tore Johansson
+5 | songs-albums | Q magazine named which Franz Ferdinand song its best single of 2005? | Do You Want To | Walk Away | The Fallen | Eleanor Put Your Boots On | Franz Ferdinand; Do You Want To; Q

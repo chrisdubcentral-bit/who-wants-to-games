@@ -1,0 +1,22 @@
+# Top restaurants in Glasgow. Source: https://www.visitglasgow.com/food-and-drink/top-restaurants/top-restaurants-in-glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | food-drink | Which Glasgow restaurant is said to be the birthplace of chicken tikka masala? | Shish Mahal | Mother India | Mister Singh's India | Ashoka | Shish Mahal; chicken tikka masala
+2 | food-drink | What do the waiters wear at Mister Singh's India? | Singh tartan kilts | Bow ties and tails | Football tops | Chef's whites | Mister Singh's India; kilts
+3 | food-drink | What is the signature dish at Mister Singh's India? | Haggis pakora | Chicken tikka masala | Lamb rogan josh | Butter chicken | Mister Singh's India; haggis pakora
+3 | food-drink | In which year did Mother India open? | 1990 | 1982 | 1970 | 2001 | Mother India; 1990
+3 | food-drink | Which Hope Street restaurant does Visit Glasgow call the oldest Italian restaurant in Glasgow? | La Lanterna | Sarti | Celino's | Eusebi | La Lanterna; Hope Street
+4 | food-drink | In which year did La Lanterna open? | 1970 | 1928 | 1982 | 1990 | La Lanterna; 1970
+3 | food-drink | Celino's first opened in the East End in 1982 as what? | A delicatessen | A chip shop | An ice cream parlour | A pizzeria | Celino's; 1982
+4 | food-drink | In which year did the Coia family open their original café in the East End? | 1928 | 1948 | 1970 | 1910 | Coia's Café; 1928
+2 | food-drink | Paesano Pizza specialises in which style of pizza? | Neapolitan | Roman | New York | Chicago deep dish | Paesano; pizza
+3 | food-drink | How long is the dough proofed for at Paesano Pizza? | Over 24 hours | Two hours | Six hours | Over 72 hours | Paesano; dough
+3 | food-drink | Ramen Dayo began in 2016 as a pop-up in an alleyway beside which station? | Central Station | Queen Street | Partick | Charing Cross | Ramen Dayo; Central Station; 2016
+2 | food-drink | Which West End lane is home to one of Ramen Dayo's restaurants? | Ashton Lane | Ruthven Lane | Cresswell Lane | Otago Lane | Ramen Dayo; Ashton Lane
+3 | food-drink | On which street is Sichuan House, Glasgow's first Sichuan restaurant? | Sauchiehall Street | Buchanan Street | Argyle Street | Byres Road | Sichuan House; Sauchiehall Street
+4 | food-drink | What is the motto of Sichuan House? | Live life with a little bit of spice | The spice of Glasgow | Fire in every bowl | Hot food for cold nights | Sichuan House; motto
+4 | food-drink | In which year did the Amber Regent Chinese restaurant open? | 1988 | 1970 | 1996 | 2005 | Amber Regent; 1988
+1 | food-drink | The Wee Paree's interior is themed on which city? | Paris | Rome | Venice | Barcelona | Wee Paree; Paris
+3 | food-drink | Maison by Glaschu is in which historic Glasgow shopping centre? | Princes Square | St Enoch Centre | Buchanan Galleries | Merchant Square | Maison by Glaschu; Princes Square
+3 | food-drink | Cubatas restaurant takes its inspiration from which Spanish city? | Valencia | Barcelona | Seville | Madrid | Cubatas; Valencia
+2 | food-drink | Dennistoun Bar-B-Que is inspired by the food of which US state? | Texas | Tennessee | Louisiana | California | Dennistoun Bar-B-Que; Texas
+3 | food-drink | Maggie's Rock'n'Rodeo in the Merchant City is inspired by dive bars in which city? | Nashville | Memphis | Austin | New Orleans | Maggie's Rock'n'Rodeo; Merchant City; Nashville

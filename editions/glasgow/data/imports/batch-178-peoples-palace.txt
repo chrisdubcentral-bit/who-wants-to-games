@@ -1,0 +1,7 @@
+# People's Palace, Glasgow. Source: https://en.wikipedia.org/wiki/People%27s_Palace,_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | history | Who opened the People's Palace on 22 January 1898? | The Earl of Rosebery | Queen Victoria | William Gladstone | Lord Kelvin | People's Palace; Rosebery; 1898
+3 | landmarks | The Doulton Fountain outside the People's Palace is the largest fountain in the world made of what? | Terracotta | Cast iron | Marble | Granite | People's Palace; Doulton Fountain
+2 | history | Since the 1940s, the People's Palace has been Glasgow's museum of what? | Social history | Transport | Modern art | Natural history | People's Palace; social history
+4 | history | Which union did the People's Palace cat Smudge join in the 1980s? | GMB | NALGO | Unison | Unite | People's Palace; Smudge; GMB
+4 | art-culture | Which artist painted the People's Palace dome panels marking the 1787 Calton weavers massacre? | Ken Currie | Peter Howson | Steven Campbell | Alasdair Gray | People's Palace; Ken Currie; Calton weavers

@@ -1,0 +1,12 @@
+# M8 motorway (Scotland). Source: https://en.wikipedia.org/wiki/M8_motorway_(Scotland)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | The M8 motorway connects Glasgow with which city? | Edinburgh | Stirling | Perth | Dundee | M8; Edinburgh
+3 | history | Which bypass was the first section of the M8 to open, in 1965? | The Harthill bypass | The Renfrew bypass | The Livingston bypass | The Bathgate bypass | M8; Harthill; 1965
+4 | history | The Monkland Motorway was built over the former route of which canal? | The Monkland Canal | The Forth and Clyde Canal | The Union Canal | The Paisley Canal | M8; Monkland Motorway; Monkland Canal
+3 | history | In which year was the M8's "missing link" between Baillieston and Newhouse fully opened? | 2017 | 2011 | 2014 | 2020 | M8; missing link; 2017
+2 | landmarks | What is the only service station on the M8? | Heart of Scotland Services | Hamilton Services | Stirling Services | Abington Services | M8; Heart of Scotland Services
+4 | history | The M8's Glasgow inner city section was built under a scheme from which report? | The Bruce Report | The Beeching Report | The Buchanan Report | The Abercrombie Plan | M8; Bruce Report
+3 | landmarks | Unusually, some M8 slip roads in Glasgow join and leave from which lane? | The right-hand (overtaking) lane | The hard shoulder | The left-hand lane | The middle lane | M8; slip roads
+3 | landmarks | What nickname was given to the unfinished 1960s M8 structures that were later demolished or reused? | Bridges to Nowhere | Roads to Ruin | Ghost Ramps | The Glasgow Stubs | M8; Bridges to Nowhere
+4 | landmarks | Which M8 junction number is Charing Cross? | 18 | 15 | 20 | 8 | M8; Charing Cross; junction 18
+5 | history | In which year did the M8's eastern extension from Newbridge to the Edinburgh City Bypass open? | 1995 | 1980 | 1992 | 2001 | M8; Newbridge; 1995

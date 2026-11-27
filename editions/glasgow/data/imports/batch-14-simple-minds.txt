@@ -1,0 +1,17 @@
+# Simple Minds. Source: https://en.wikipedia.org/wiki/Simple_Minds
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | glasgow-bands | Who is the lead singer of Simple Minds? | Jim Kerr | Charlie Burchill | Ricky Ross | Bobby Gillespie | Simple Minds; Jim Kerr
+1 | songs-albums | Which Simple Minds song from The Breakfast Club reached No. 1 in the US? | Don't You (Forget About Me) | Alive and Kicking | Promised You a Miracle | Belfast Child | Simple Minds; Don't You (Forget About Me); The Breakfast Club
+2 | glasgow-bands | Simple Minds took their name from a lyric in which David Bowie song? | The Jean Genie | Starman | Heroes | Rebel Rebel | Simple Minds; band name; David Bowie
+2 | glasgow-bands | Which guitarist has known Jim Kerr since the age of eight and co-founded Simple Minds? | Charlie Burchill | Derek Forbes | Mick MacNeil | Brian McGee | Simple Minds; Charlie Burchill
+2 | famous-glaswegians | Which Pretenders singer did Jim Kerr marry in 1984? | Chrissie Hynde | Kim Wilde | Siouxsie Sioux | Annie Lennox | Simple Minds; Jim Kerr; Chrissie Hynde
+2 | glasgow-bands | Before Simple Minds, Jim Kerr and Charlie Burchill were in which punk band? | Johnny & the Self-Abusers | The Subs | The Skids | The Rezillos | Simple Minds; Johnny & the Self-Abusers
+3 | songs-albums | "Belfast Child" by Simple Minds is a rewrite of which folk song? | She Moved Through the Fair | The Fields of Athenry | Danny Boy | The Parting Glass | Simple Minds; Belfast Child
+3 | songs-albums | Which Simple Minds album debuted at No. 1 in the UK in February 1984? | Sparkle in the Rain | New Gold Dream | Once Upon a Time | Street Fighting Years | Simple Minds; Sparkle in the Rain; 1984
+3 | venues-gigs | From which city's JFK Stadium did Simple Minds play Live Aid in 1985? | Philadelphia | New York | Boston | Chicago | Simple Minds; Live Aid; Philadelphia
+3 | songs-albums | Which 1982 single was Simple Minds' first UK Top 20 hit? | Promised You a Miracle | Glittering Prize | Waterfront | Love Song | Simple Minds; Promised You a Miracle; 1982
+3 | venues-gigs | Simple Minds were the only act to write a song for Nelson Mandela's 70th birthday concert. What was it called? | Mandela Day | Free Nelson Mandela | Asimbonanga | Biko | Simple Minds; Mandela Day; Wembley
+4 | labels-scene | Which record label did Simple Minds join from Arista in 1981? | Virgin | Chrysalis | Island | Mercury | Simple Minds; Virgin Records
+4 | venues-gigs | At which Glasgow venue did Simple Minds play their first gig, in January 1978? | Satellite City | Barrowland Ballroom | The Apollo | Doune Castle | Simple Minds; Satellite City; 1978
+4 | songs-albums | Which jazz musician played a synth solo on Simple Minds' "Hunter and the Hunted"? | Herbie Hancock | Chick Corea | Joe Zawinul | Jan Hammer | Simple Minds; New Gold Dream; Herbie Hancock
+5 | glasgow-bands | Simple Minds keyboard player Mick MacNeil was born on which Scottish island? | Barra | Lewis | Skye | Islay | Simple Minds; Mick MacNeil; Barra

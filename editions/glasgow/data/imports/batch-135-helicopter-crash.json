@@ -1,0 +1,104 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Onto which Glasgow pub did a police helicopter crash in November 2013?",
+    "options": [
+      "The Scotia Bar",
+      "The Clutha",
+      "The Grove",
+      "The Horseshoe Bar"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Helicopter crash",
+      "Clutha"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "For which police force was the helicopter that crashed onto the Clutha operating?",
+    "options": [
+      "Police Scotland",
+      "British Transport Police",
+      "The Met",
+      "Strathclyde Police"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Helicopter crash",
+      "Police Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "On which Glasgow street is the Clutha pub?",
+    "options": [
+      "Stockwell Street",
+      "Bath Street",
+      "Hope Street",
+      "Argyle Street"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Helicopter crash",
+      "Clutha",
+      "Stockwell Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which Scottish public event was cancelled after the Clutha helicopter crash?",
+    "options": [
+      "The Christmas lights switch-on",
+      "The Great Scottish Run",
+      "St Andrew's Day events in George Square",
+      "The Hogmanay street party"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Helicopter crash",
+      "St Andrew's Day"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Where was a temporary court set up for the 2019 inquiry into the Clutha helicopter crash?",
+    "options": [
+      "The SECC",
+      "Hampden Park",
+      "The Kelvin Hall",
+      "Celtic Park"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Helicopter crash",
+      "inquiry",
+      "Hampden"
+    ],
+    "source": "manual"
+  }
+]

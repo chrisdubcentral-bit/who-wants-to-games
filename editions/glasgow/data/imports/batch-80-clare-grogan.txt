@@ -1,0 +1,7 @@
+# Clare Grogan. Source: https://en.wikipedia.org/wiki/Clare_Grogan
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Clare Grogan played Susan in which 1981 Bill Forsyth film? | Gregory's Girl | Local Hero | That Sinking Feeling | Comfort and Joy | Clare Grogan; Gregory's Girl
+2 | film-tv | Which character did Clare Grogan play in the first series of Red Dwarf? | Kristine Kochanski | Holly | Rimmer's wife | Camille | Clare Grogan; Red Dwarf; Kochanski
+3 | film-tv | Where was Clare Grogan working when Bill Forsyth spotted her? | Waitressing at the Spaghetti Factory | In a record shop | At a hairdresser's | In a bank | Clare Grogan; Bill Forsyth
+3 | songs-albums | Clare Grogan is said to have inspired which 1983 Spandau Ballet song? | True | Gold | Only When You Leave | Lifeline | Clare Grogan; Spandau Ballet; True
+4 | film-tv | Which EastEnders character did Clare Grogan play as Ian Beale's love interest? | Ros Thorne | Melanie Healy | Laura Dunn | Lucy Beale | Clare Grogan; EastEnders

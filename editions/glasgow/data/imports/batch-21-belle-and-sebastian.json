@@ -1,0 +1,308 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "Who is the lead singer and main songwriter of Belle and Sebastian?",
+    "options": [
+      "Stuart David",
+      "Stevie Jackson",
+      "Norman Blake",
+      "Stuart Murdoch"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Stuart Murdoch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which Brit Award did Belle and Sebastian win in 1999, beating Steps and 5ive?",
+    "options": [
+      "Best Newcomer",
+      "Best Live Act",
+      "Best British Group",
+      "Best British Album"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Belle and Sebastian",
+      "Brit Awards 1999"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "What was the first Belle and Sebastian album, recorded for a college label in 1996?",
+    "options": [
+      "If You're Feeling Sinister",
+      "Tigermilk",
+      "Write About Love",
+      "The Boy with the Arab Strap"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Belle and Sebastian",
+      "Tigermilk"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which instrument did Isobel Campbell play in Belle and Sebastian?",
+    "options": [
+      "Cello",
+      "Flute",
+      "Violin",
+      "Trumpet"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Belle and Sebastian",
+      "Isobel Campbell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "labels-scene",
+    "difficulty": 2,
+    "question": "Which Glasgow college's music business course released Belle and Sebastian's first album?",
+    "options": [
+      "Glasgow School of Art",
+      "Langside College",
+      "Glasgow Caledonian University",
+      "Stow College"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Stow College",
+      "Electric Honey"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Belle and Sebastian took their name from a 1965 TV series about a boy and his what?",
+    "options": [
+      "Donkey",
+      "Dog",
+      "Cat",
+      "Horse"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Belle and Sebastian",
+      "band name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Belle and Sebastian album caused some tension with another Scottish band over its title?",
+    "options": [
+      "Dear Catastrophe Waitress",
+      "The Life Pursuit",
+      "Fold Your Hands Child",
+      "The Boy with the Arab Strap"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "The Boy with the Arab Strap",
+      "Arab Strap"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which famous producer worked on Belle and Sebastian's 2003 album Dear Catastrophe Waitress?",
+    "options": [
+      "Stephen Street",
+      "Trevor Horn",
+      "Mike Hurst",
+      "Tony Hoffer"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Belle and Sebastian",
+      "Dear Catastrophe Waitress",
+      "Trevor Horn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What was the name of the festival Belle and Sebastian hosted in 1999?",
+    "options": [
+      "The Sinister Weekender",
+      "The Tigermilk Weekender",
+      "Belle Fest",
+      "The Bowlie Weekender"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Bowlie Weekender"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Belle and Sebastian single gave the band their first Top of the Pops appearance?",
+    "options": [
+      "Legal Man",
+      "I'm a Cuckoo",
+      "Jonathan David",
+      "Funny Little Frog"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Belle and Sebastian",
+      "Legal Man",
+      "Top of the Pops"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "labels-scene",
+    "difficulty": 3,
+    "question": "Which label did Belle and Sebastian sign to in 2002 after leaving Jeepster?",
+    "options": [
+      "Rough Trade",
+      "Chemikal Underground",
+      "Creation",
+      "Domino"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Belle and Sebastian",
+      "Rough Trade"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which magazine voted Belle and Sebastian Scotland's greatest band in January 2005?",
+    "options": [
+      "NME",
+      "The Skinny",
+      "The List",
+      "Q"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Belle and Sebastian",
+      "The List"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which Belle and Sebastian single, from The Life Pursuit, was their highest-charting?",
+    "options": [
+      "Legal Man",
+      "Step into My Office, Baby",
+      "I'm a Cuckoo",
+      "Funny Little Frog"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Funny Little Frog"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Belle and Sebastian played which famous US venue with the Los Angeles Philharmonic in 2006?",
+    "options": [
+      "Carnegie Hall",
+      "Madison Square Garden",
+      "The Hollywood Bowl",
+      "Red Rocks"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Belle and Sebastian",
+      "Hollywood Bowl",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "glasgow-bands",
+    "difficulty": 5,
+    "question": "Which band did Stuart David leave Belle and Sebastian to concentrate on?",
+    "options": [
+      "V-Twin",
+      "Looper",
+      "The Reindeer Section",
+      "The Gentle Waves"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Belle and Sebastian",
+      "Stuart David",
+      "Looper"
+    ],
+    "source": "manual"
+  }
+]

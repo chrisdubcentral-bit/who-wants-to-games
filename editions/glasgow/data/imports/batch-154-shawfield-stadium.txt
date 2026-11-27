@@ -1,0 +1,17 @@
+# Shawfield Stadium. Source: https://en.wikipedia.org/wiki/Shawfield_Stadium
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | sport | Which sport was Shawfield Stadium best known for hosting? | Greyhound racing | Horse racing | Rugby league | Cricket | Shawfield Stadium; greyhound racing
+2 | sport | Which football club played at Shawfield from 1898 to 1986? | Clyde | Third Lanark | Partick Thistle | Queen's Park | Shawfield Stadium; Clyde
+2 | sport | In which town is Shawfield Stadium? | Rutherglen | Cambuslang | Paisley | Hamilton | Shawfield Stadium; Rutherglen
+2 | sport | Which major greyhound race was held at Shawfield for decades? | The Scottish Greyhound Derby | The English Derby | The Grand National | The St Leger | Shawfield Stadium; Scottish Greyhound Derby
+3 | sport | In which year did Shawfield Stadium open? | 1898 | 1932 | 1872 | 1910 | Shawfield Stadium; 1898
+3 | sport | In which year was greyhound racing introduced at Shawfield? | 1932 | 1898 | 1950 | 1926 | Shawfield Stadium; 1932
+3 | sport | To which ground did Clyde eventually move after leaving Shawfield? | Broadwood Stadium | Firhill | Cliftonhill | New Douglas Park | Shawfield Stadium; Broadwood
+3 | sport | Which speedway team raced at Shawfield from 1988? | Glasgow Tigers | Edinburgh Monarchs | Belle Vue Aces | Berwick Bandits | Shawfield Stadium; Glasgow Tigers
+3 | sport | Why was greyhound racing at Shawfield suspended in March 2020? | COVID-19 | A fire | Flooding | A ban by the council | Shawfield Stadium; 2020
+3 | sport | Shawfield was the last remaining licensed track in Scotland for which sport? | Greyhound racing | Speedway | Harness racing | Stock car racing | Shawfield Stadium
+4 | sport | Which bookmaker's consortium reopened Shawfield in 1987? | Billy King's | Fred Done's | William Hill's | Joe Coral's | Shawfield Stadium; Billy King
+4 | sport | Which greyhound cup, formerly run at Carntyne, came to Shawfield in 1971? | The St Mungo Cup | The Scottish Grand National | The Glasgow Cup | The Clyde Stakes | Shawfield Stadium; St Mungo Cup
+4 | sport | Which club did Clyde play when a wall collapsed at Shawfield in 1957? | Celtic | Rangers | Hearts | Partick Thistle | Shawfield Stadium; 1957
+4 | sport | In which year was greyhound racing formally banned in Scotland? | 2026 | 2020 | 2023 | 2016 | Shawfield Stadium; greyhound ban
+5 | sport | Who was the first recorded greyhound winner at Shawfield in 1932? | Swordmanship | Mad Midnight | Mick the Miller | Ballyregan Bob | Shawfield Stadium; Swordmanship

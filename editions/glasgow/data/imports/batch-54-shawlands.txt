@@ -1,0 +1,7 @@
+# Shawlands. Source: https://en.wikipedia.org/wiki/Shawlands
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Queen's Park, beside Shawlands, is dedicated to which queen? | Mary, Queen of Scots | Queen Victoria | Queen Margaret | Queen Anne | Shawlands; Queen's Park
+3 | landmarks | Who designed Queen's Park in Glasgow? | Sir Joseph Paxton | Capability Brown | Charles Rennie Mackintosh | Alexander Thomson | Shawlands; Queen's Park; Joseph Paxton
+3 | history | Which 16th-century battle was fought on the site of Queen's Park? | The Battle of Langside | The Battle of Bothwell Bridge | The Battle of Pinkie | The Battle of Flodden | Shawlands; Battle of Langside
+3 | landmarks | Which two roads converge at Shawlands Cross? | Kilmarnock Road and Pollokshaws Road | Paisley Road and Govan Road | Cathcart Road and Victoria Road | Barrhead Road and Nether Auldhouse Road | Shawlands Cross
+4 | landmarks | Which magazine named Shawlands one of the world's coolest neighbourhoods? | Time Out | Vogue | Monocle | The Economist | Shawlands; Time Out

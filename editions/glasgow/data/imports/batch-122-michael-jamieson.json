@@ -1,0 +1,62 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which medal did Glasgow swimmer Michael Jamieson win at the London 2012 Olympics?",
+    "options": [
+      "Silver",
+      "Gold",
+      "Bronze",
+      "None"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Michael Jamieson",
+      "London 2012"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which event did Michael Jamieson win his Olympic medal?",
+    "options": [
+      "400 m individual medley",
+      "200 m breaststroke",
+      "100 m freestyle",
+      "200 m butterfly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Michael Jamieson",
+      "breaststroke"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Who beat Michael Jamieson to gold in the 200 m breaststroke at the 2014 Glasgow Commonwealth Games?",
+    "options": [
+      "Duncan Scott",
+      "Dániel Gyurta",
+      "Adam Peaty",
+      "Ross Murdoch"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Michael Jamieson",
+      "Ross Murdoch"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,12 @@
+/* This edition's card in the About page carousel (about.html). Loaded by the About page, not by the game.
+   Emerald studio, chrome and gold lettering in Montserrat, as on the game's home screen. */
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&display=swap");
+
+.front.celtic .bg { background: radial-gradient(ellipse at 50% 0%, rgba(31,138,98,.6), transparent 60%), radial-gradient(ellipse at 50% 100%, rgba(20,107,76,.45), transparent 60%), #06100B; }
+.front.celtic .bg::after { content: ""; position: absolute; inset: 0; background: repeating-conic-gradient(from 0deg at 50% -10%, rgba(220,255,240,.07) 0 4deg, transparent 4deg 12deg); }
+.front.celtic .top { font: 800 7.4cqi/1 Montserrat, sans-serif; text-transform: uppercase; background: linear-gradient(180deg, #fff 0%, #cfd7d2 38%, #76817b 52%, #f2f5f3 60%, #a9b3ad 100%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.front.celtic .accent { font: 900 10.4cqi/1.05 Montserrat, sans-serif; text-transform: uppercase; background: linear-gradient(180deg, #fff3cf 0%, #e0c27a 45%, #a78439 100%); -webkit-background-clip: text; background-clip: text; color: transparent; }
+.front.celtic .edition { display: flex; align-items: center; gap: 3cqi; font: 700 3.6cqi/1 Montserrat, sans-serif; letter-spacing: .4em; color: #cfd7d2; }
+.front.celtic .edition::before, .front.celtic .edition::after { content: ""; width: 10cqi; height: 1px; background: linear-gradient(90deg, transparent, #e0c27a, transparent); }
+.front.celtic .tagline { color: #c8d0ca; }
+.front.celtic .start { font: 800 4.4cqi/1 Montserrat, sans-serif; letter-spacing: .14em; border-radius: 999px; color: #1a1405; background: linear-gradient(180deg, #f6e2a6 0%, #d2b064 50%, #a78439 100%); box-shadow: 0 0 0 .6cqi rgba(255,243,207,.4), 0 2cqi 5cqi rgba(0,0,0,.5); }

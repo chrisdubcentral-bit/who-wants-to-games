@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "history",
+    "difficulty": 1,
+    "question": "Which smiling Mr. Men character fronted the \"Glasgow's Miles Better\" campaign?",
+    "options": [
+      "Mr. Strong",
+      "Mr. Happy",
+      "Mr. Bump",
+      "Mr. Tickle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow's Miles Better",
+      "Mr. Happy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which Lord Provost backed the \"Glasgow's Miles Better\" campaign?",
+    "options": [
+      "Michael Kelly",
+      "Liz Cameron",
+      "Pat Lally",
+      "Jean McFadden"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow's Miles Better",
+      "Michael Kelly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which advertising man is credited with devising \"Glasgow's Miles Better\"?",
+    "options": [
+      "John Struthers",
+      "Maurice Saatchi",
+      "Charles Saatchi",
+      "David Ogilvy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow's Miles Better",
+      "John Struthers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which famous city campaign did the Lord Provost want Glasgow to emulate?",
+    "options": [
+      "Paris, Je T'aime",
+      "I Love New York",
+      "Visit London",
+      "I amsterdam"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow's Miles Better",
+      "I Love New York"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which city's council banned the \"Glasgow's Miles Better\" ads from six buses during its festival?",
+    "options": [
+      "Edinburgh",
+      "Aberdeen",
+      "Dundee",
+      "Perth"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow's Miles Better",
+      "Edinburgh"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,12 @@
+# Glasgow City Council. Source: https://en.wikipedia.org/wiki/Glasgow_City_Council
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | What is Glasgow City Council's motto? | Let Glasgow Flourish | Nemo Me Impune Lacessit | People Make Glasgow | Glasgow Smiles Better | Glasgow City Council; motto
+3 | history | How many councillors sit on Glasgow City Council? | 85 | 79 | 100 | 64 | Glasgow City Council; councillors
+3 | history | How many wards is Glasgow City Council divided into? | 23 | 21 | 32 | 15 | Glasgow City Council; wards
+3 | history | In which year was Glasgow City Council created in its modern form? | 1996 | 1975 | 1889 | 2007 | Glasgow City Council; 1996
+2 | history | Which party controlled Glasgow City Council from 1996 to 2017? | Labour | SNP | Liberal Democrats | Conservatives | Glasgow City Council; Labour
+4 | history | Since 1893, the Lord Provost of Glasgow has also held which role? | Lord Lieutenant | Lord Advocate | Rector of Glasgow University | Sheriff Principal | Glasgow City Council; Lord Provost; Lord Lieutenant
+4 | history | Who led Glasgow City Council from May 2017 to September 2026? | Susan Aitken | Nicola Sturgeon | Frank McAveety | Gordon Matheson | Glasgow City Council; Susan Aitken
+5 | history | Who was the first leader of Glasgow City Council after the 1996 reforms? | Bob Gould | Frank McAveety | Steven Purcell | Charles Gordon | Glasgow City Council; Bob Gould; 1996
+4 | history | Which two towns moved from Glasgow to South Lanarkshire after a local referendum? | Rutherglen and Cambuslang | Bearsden and Milngavie | Clydebank and Dalmuir | Paisley and Renfrew | Glasgow City Council; Rutherglen; Cambuslang
+5 | history | Which king granted Glasgow its first burgh charter? | William the Lion | David I | Robert the Bruce | Alexander II | Glasgow City Council; burgh charter; William the Lion

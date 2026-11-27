@@ -1,0 +1,7 @@
+# Fergus McCann. Source: https://en.wikipedia.org/wiki/Fergus_McCann
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | Which club did Fergus McCann take over in 1994, when it appeared to face bankruptcy? | Celtic | Rangers | Hearts | Partick Thistle | Fergus McCann; Celtic
+3 | sport | How many years did Fergus McCann say he would stay at Celtic? | Five | Three | Ten | Two | Fergus McCann; Celtic
+3 | sport | In which year did Celtic win the league under Fergus McCann, stopping Rangers' bid for ten in a row? | 1998 | 1996 | 1999 | 2001 | Fergus McCann; 1998
+3 | sport | Fergus McCann made his fortune from what kind of company, based in Montreal and Phoenix? | A golf holiday company | A whisky distillery | A shipping line | An airline | Fergus McCann; golf holidays
+4 | sport | Who became Celtic's largest shareholder when Fergus McCann sold up in 1999? | Dermot Desmond | Brian Quinn | Peter Lawwell | Michael Kelly | Fergus McCann; Dermot Desmond

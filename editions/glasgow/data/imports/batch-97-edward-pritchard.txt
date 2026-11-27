@@ -1,0 +1,7 @@
+# Edward William Pritchard. Source: https://en.wikipedia.org/wiki/Edward_William_Pritchard
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | history | What was the profession of Edward William Pritchard, the Glasgow poisoner? | Doctor | Chemist | Lawyer | Minister | Edward Pritchard
+3 | history | Edward Pritchard was the last person to be publicly executed in which city? | Glasgow | Edinburgh | London | Aberdeen | Edward Pritchard
+3 | history | In which year was Edward Pritchard executed? | 1865 | 1845 | 1885 | 1901 | Edward Pritchard; 1865
+4 | history | At which end of Glasgow Green was Edward Pritchard hanged? | The Saltmarket end | The Templeton end | The Bridgeton end | The People's Palace end | Edward Pritchard; Glasgow Green
+4 | history | Which Glasgow playwright based his 1947 play Dr Angelus on the Pritchard case? | James Bridie | Tony Roper | Robert McLeish | John Byrne | Edward Pritchard; James Bridie

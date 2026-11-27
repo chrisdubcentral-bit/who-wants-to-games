@@ -1,0 +1,122 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "On which BBC channel was Naked Video shown?",
+    "options": [
+      "BBC1",
+      "BBC Choice",
+      "BBC2",
+      "BBC Four"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Naked Video"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which actor co-presented the first two series of Naked Video with Helen Lederer?",
+    "options": [
+      "Ron Bain",
+      "Andy Gray",
+      "Jonathan Watson",
+      "Tony Roper"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video",
+      "Andy Gray",
+      "Helen Lederer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which actress, later Frances in Still Game, joined the Naked Video cast in its later years?",
+    "options": [
+      "Kate Donnelly",
+      "Barbara Rafferty",
+      "Jane McCarry",
+      "Elaine C. Smith"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Naked Video",
+      "Kate Donnelly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "In which year did the Naked Video cast reunite for a theatre show and radio broadcast?",
+    "options": [
+      "2005",
+      "2010",
+      "1995",
+      "2000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Naked Video",
+      "reunion"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which actor presented a 2005 BBC Radio Scotland documentary about Naked Radio and Naked Video?",
+    "options": [
+      "Gerard Kelly",
+      "Rikki Fulton",
+      "Jonathan Watson",
+      "Gregor Fisher"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Naked Video",
+      "Gerard Kelly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "In which year was series 3 of Naked Video finally broadcast?",
+    "options": [
+      "1987",
+      "1991",
+      "1989",
+      "1988"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Naked Video",
+      "series 3"
+    ],
+    "source": "manual"
+  }
+]

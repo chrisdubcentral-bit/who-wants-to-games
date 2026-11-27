@@ -1,0 +1,7 @@
+# Riverside Museum. Source: https://en.wikipedia.org/wiki/Riverside_Museum
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Which award did the Riverside Museum win in 2013? | European Museum of the Year | Art Fund Museum of the Year | Stirling Prize | Turner Prize | Riverside Museum; European Museum of the Year
+2 | landmarks | Which tall ship is berthed in front of the Riverside Museum? | The Glenlee | The Cutty Sark | RRS Discovery | The Waverley | Riverside Museum; Glenlee
+3 | landmarks | In which year did the Riverside Museum open? | 2011 | 2007 | 2014 | 2001 | Riverside Museum
+3 | landmarks | Before the Riverside Museum, where was Glasgow's Museum of Transport? | Kelvin Hall | The People's Palace | The SECC | The McLellan Galleries | Riverside Museum; Kelvin Hall
+4 | landmarks | Which former tram depot was the original home of Glasgow's Museum of Transport? | Coplawhill | Dalmarnock | Partick | Possilpark | Riverside Museum; Coplawhill

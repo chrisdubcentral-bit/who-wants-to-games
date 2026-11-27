@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "What was the Glasgow Apollo called when it was a cinema?",
+    "options": [
+      "The Picture House",
+      "The Regal",
+      "The Odeon",
+      "Green's Playhouse"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Apollo",
+      "Green's Playhouse"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which band recorded their first live album, Live!, at the Glasgow Apollo in 1976?",
+    "options": [
+      "Queen",
+      "AC/DC",
+      "Thin Lizzy",
+      "Status Quo"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Apollo",
+      "Status Quo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band wore Scottish football strips for the encore when recording a live album at the Apollo in 1978?",
+    "options": [
+      "Rush",
+      "Status Quo",
+      "Motörhead",
+      "AC/DC"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Apollo",
+      "AC/DC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Swedish group gave their last live performance in Britain at the Glasgow Apollo in 1979?",
+    "options": [
+      "Roxette",
+      "ABBA",
+      "Europe",
+      "The Cardigans"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Apollo",
+      "ABBA"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band played the final concert at the Glasgow Apollo in 1985?",
+    "options": [
+      "The Style Council",
+      "Big Country",
+      "Simple Minds",
+      "The Jam"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Apollo",
+      "The Style Council"
+    ],
+    "source": "manual"
+  }
+]

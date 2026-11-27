@@ -1,0 +1,5 @@
+# The White Elephant cinema, 42 Kilmarnock Road. Source: text pasted by the user
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | film-tv | Which showman commissioned the White Elephant cinema on Kilmarnock Road, which opened in 1927? | A.E. Pickard | Alexander King | Harry Barnes | George Green | White Elephant; Kilmarnock Road; A.E. Pickard
+4 | film-tv | About how many people could the White Elephant cinema's main auditorium seat? | 1,900 | 600 | 3,500 | 900 | White Elephant; Kilmarnock Road
+4 | film-tv | After cinema mogul Alexander King bought the White Elephant in 1934, what was it renamed? | The Elephant | The King's | The Ritz | The Shawlands | White Elephant; Alexander King; 1934

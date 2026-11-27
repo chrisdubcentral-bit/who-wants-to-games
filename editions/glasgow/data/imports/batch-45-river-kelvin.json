@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Where does the River Kelvin join the River Clyde?",
+    "options": [
+      "Glasgow Green",
+      "The Broomielaw",
+      "Yorkhill Basin",
+      "Govan Cross"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River Kelvin",
+      "Yorkhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which canal does the Kelvin Aqueduct carry over the River Kelvin at Maryhill?",
+    "options": [
+      "The Monkland Canal",
+      "The Union Canal",
+      "The Forth and Clyde Canal",
+      "The Caledonian Canal"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River Kelvin",
+      "Kelvin Aqueduct"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Roughly how long is the River Kelvin?",
+    "options": [
+      "22 miles",
+      "70 miles",
+      "8 miles",
+      "45 miles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "River Kelvin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which walkway links the Clyde Walkway with the West Highland Way along the River Kelvin?",
+    "options": [
+      "The Rob Roy Way",
+      "The Clyde Coastal Path",
+      "The John Muir Way",
+      "The Kelvin Walkway"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "River Kelvin",
+      "Kelvin Walkway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which Glasgow gardens is the Ha'penny Footbridge over the River Kelvin?",
+    "options": [
+      "Victoria Park",
+      "Ruchill Park",
+      "The Botanic Gardens",
+      "Kelvingrove Park"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River Kelvin",
+      "Ha'penny Footbridge"
+    ],
+    "source": "manual"
+  }
+]

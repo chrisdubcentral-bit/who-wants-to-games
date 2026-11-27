@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which grunge star called Teenage Fanclub \"the best band in the world\"?",
+    "options": [
+      "Eddie Vedder",
+      "Dave Grohl",
+      "Kurt Cobain",
+      "Chris Cornell"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Teenage Fanclub",
+      "Kurt Cobain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which 1991 Teenage Fanclub album topped Spin's best album poll, beating Nevermind?",
+    "options": [
+      "Grand Prix",
+      "Bandwagonesque",
+      "Songs from Northern Britain",
+      "A Catholic Education"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Teenage Fanclub",
+      "Bandwagonesque"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "In which year did Teenage Fanclub form in Glasgow?",
+    "options": [
+      "1989",
+      "1983",
+      "1993",
+      "1979"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Teenage Fanclub"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which Oasis singer called Teenage Fanclub \"the second best band in the world\"?",
+    "options": [
+      "Noel Gallagher",
+      "Paul Arthurs",
+      "Andy Bell",
+      "Liam Gallagher"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Teenage Fanclub",
+      "Liam Gallagher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which Madonna song did Teenage Fanclub cover on their 1991 album The King?",
+    "options": [
+      "Like a Virgin",
+      "Vogue",
+      "Material Girl",
+      "Holiday"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Teenage Fanclub",
+      "The King",
+      "Like a Virgin"
+    ],
+    "source": "manual"
+  }
+]

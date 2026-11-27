@@ -1,0 +1,612 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Finnieston sits between the city centre and which part of Glasgow?",
+    "options": [
+      "North",
+      "Southside",
+      "East End",
+      "West End"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Finnieston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Finnieston is set beside which river?",
+    "options": [
+      "River Clyde",
+      "River Leven",
+      "River Forth",
+      "River Tay"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Finnieston",
+      "River Clyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Finnieston often tops lists of the UK's and Europe's what?",
+    "options": [
+      "Hippest neighbourhoods",
+      "Greenest neighbourhoods",
+      "Quietest neighbourhoods",
+      "Cheapest neighbourhoods"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Finnieston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "How many floors of interactive exhibits does Glasgow Science Centre have?",
+    "options": [
+      "Three",
+      "Two",
+      "Six",
+      "Four"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Finnieston",
+      "Glasgow Science Centre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which Glasgow attraction has a Planetarium, an IMAX cinema and a tower with city views?",
+    "options": [
+      "Riverside Museum",
+      "Glasgow Science Centre",
+      "Kelvingrove Art Gallery",
+      "The Lighthouse"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Finnieston",
+      "Glasgow Science Centre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Glasgow Science Centre sits on what kind of land in the Clyde?",
+    "options": [
+      "A floating pontoon",
+      "A peninsula",
+      "A pier",
+      "An island"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Finnieston",
+      "Glasgow Science Centre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Which Finnieston distillery offers whisky tastings with riverside views?",
+    "options": [
+      "Auchentoshan",
+      "The Glasgow Distillery",
+      "Clydeside Distillery",
+      "Glengoyne"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "Clydeside Distillery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "What does Once Upon a Whisky run in Glasgow?",
+    "options": [
+      "A whisky distillery",
+      "A whisky festival",
+      "Walking tours of whisky bars",
+      "A whisky shop"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "Once Upon a Whisky"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "The Once Upon a Whisky walking tour starts at which bar?",
+    "options": [
+      "The Pot Still",
+      "The Islay Inn",
+      "The Park Bar",
+      "The Ben Nevis Bar"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Finnieston",
+      "Once Upon a Whisky",
+      "Ben Nevis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which three Finnieston pubs make up the \"Highland Triangle\"?",
+    "options": [
+      "Islay Inn, Lismore and Bon Accord",
+      "Ben Nevis, Islay Inn and Park Bar",
+      "Ben Nevis, Pot Still and Lismore",
+      "Park Bar, Pot Still and Bon Accord"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Finnieston",
+      "Highland Triangle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which colourful Finnieston hub is home to artists, designers and musicians?",
+    "options": [
+      "Ashton Lane",
+      "The Hidden Lane",
+      "The Briggait",
+      "Trongate 103"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Finnieston",
+      "Hidden Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which sculptor designed the Charles Rennie Mackintosh statue in Finnieston?",
+    "options": [
+      "Andy Scott",
+      "Alexander Stoddart",
+      "George Wyllie",
+      "Kenny Hunter"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Finnieston",
+      "Mackintosh statue",
+      "Andy Scott"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Andy Scott, who made Finnieston's Mackintosh statue, also created which famous Scottish sculptures?",
+    "options": [
+      "The Wee Man",
+      "The Angel of the North",
+      "The Kelpies",
+      "The Big Heids"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "Andy Scott",
+      "Kelpies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What is Mackintosh sitting on in his Finnieston statue?",
+    "options": [
+      "A tenement step",
+      "A park bench",
+      "The Argyle Chair",
+      "The Hill House Chair"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "Mackintosh statue",
+      "Argyle Chair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "The Mackintosh statue stands on the corner of Argyle Street and which street?",
+    "options": [
+      "Finnieston Street",
+      "Elliot Street",
+      "Minerva Street",
+      "Kelvinhaugh Street"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Finnieston",
+      "Mackintosh statue",
+      "Argyle Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which Finnieston restaurant is a Michelin Bib Gourmand winner known for creative sharing plates?",
+    "options": [
+      "Ox and Finch",
+      "Fat Sal's Kitchen",
+      "Crabshakk",
+      "The Corner Shop"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Finnieston",
+      "Ox and Finch",
+      "Bib Gourmand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "Which chef runs the Michelin-starred Unalome in Finnieston?",
+    "options": [
+      "Nick Nairn",
+      "Gary Maclean",
+      "Tom Kitchin",
+      "Graeme Cheevers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Finnieston",
+      "Unalome",
+      "Graeme Cheevers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "Gloriosa's chef Rosie Healy trained with which famous chef?",
+    "options": [
+      "Gordon Ramsay",
+      "Yotam Ottolenghi",
+      "Nigel Slater",
+      "Jamie Oliver"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Finnieston",
+      "Gloriosa",
+      "Rosie Healy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which Finnieston restaurant is a favourite with seafood lovers?",
+    "options": [
+      "Fat Sal's Kitchen",
+      "Ox and Finch",
+      "Dockyard Social",
+      "Crabshakk"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Finnieston",
+      "Crabshakk"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "The Corner Shop in Finnieston serves plates from which two regions?",
+    "options": [
+      "Provençal and Breton",
+      "Tuscan and Sicilian",
+      "Basque and Catalan",
+      "Andalusian and Galician"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "The Corner Shop"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Fat Sal's Kitchen is known for cakes, desserts and what?",
+    "options": [
+      "Milkshakes",
+      "Oysters",
+      "Whisky",
+      "Ramen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Finnieston",
+      "Fat Sal's Kitchen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Dockyard Social in Finnieston is what kind of venue?",
+    "options": [
+      "A whisky distillery",
+      "A comedy club",
+      "A street food market",
+      "A cinema"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "Dockyard Social"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "On which Sunday of each month does Finnieston Food Market run?",
+    "options": [
+      "The second",
+      "The first",
+      "The third",
+      "The last"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "Finnieston Food Market"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "venues-gigs",
+    "difficulty": 1,
+    "question": "What does Visit Glasgow call the city's biggest venue?",
+    "options": [
+      "The SEC Armadillo",
+      "The OVO Hydro",
+      "The Barrowland",
+      "The Royal Concert Hall"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Finnieston",
+      "OVO Hydro"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which venue is the \"sister venue\" of the OVO Hydro?",
+    "options": [
+      "SWG3",
+      "The SEC Armadillo",
+      "The Old Fruitmarket",
+      "The Barrowland"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Finnieston",
+      "SEC Armadillo",
+      "OVO Hydro"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "The OVO Hydro is described as one of the busiest what in the world?",
+    "options": [
+      "Theatres",
+      "Football stadiums",
+      "Arenas",
+      "Nightclubs"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "OVO Hydro"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What is the name of SWG3's urban art gallery?",
+    "options": [
+      "Streetlife",
+      "Wallworks",
+      "Yardlife",
+      "The Yard"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "SWG3",
+      "Yardlife"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What does SWG3 use to help power its building?",
+    "options": [
+      "Waste cooking oil",
+      "Tidal power from the Clyde",
+      "Clubbers' body heat",
+      "A rooftop wind turbine"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Finnieston",
+      "SWG3",
+      "sustainability"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "SWG3 in Finnieston was formerly what kind of building?",
+    "options": [
+      "A warehouse",
+      "A church",
+      "A school",
+      "A cinema"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Finnieston",
+      "SWG3"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Red Sky Bar is a rooftop bar at which hotel?",
+    "options": [
+      "Radisson Red",
+      "Crowne Plaza",
+      "Hilton Garden Inn",
+      "Moxy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Finnieston",
+      "Red Sky Bar",
+      "Radisson Red"
+    ],
+    "source": "manual"
+  }
+]

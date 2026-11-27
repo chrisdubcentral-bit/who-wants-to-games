@@ -1,0 +1,7 @@
+# Pollokshaws. Source: https://en.wikipedia.org/wiki/Pollokshaws
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | famous-glaswegians | Which stand-up comedian is listed as a notable person from Pollokshaws? | Frankie Boyle | Kevin Bridges | Billy Connolly | Limmy | Pollokshaws; Frankie Boyle
+3 | history | In which year was Pollokshaws annexed to the City of Glasgow? | 1912 | 1846 | 1891 | 1938 | Pollokshaws
+3 | history | What was Pollokshaws' main industry as a 17th-century village? | Weaving | Coal mining | Shipbuilding | Brewing | Pollokshaws; weaving
+3 | landmarks | What is the Round Toll at Pollokshaws? | A former tollbooth | A clock tower | A bandstand | A church | Pollokshaws; Round Toll
+4 | history | Which daughter of Robert Burns is buried in Pollokshaws? | Betty Burns | Jean Burns | Agnes Burns | Isabella Burns | Pollokshaws; Betty Burns

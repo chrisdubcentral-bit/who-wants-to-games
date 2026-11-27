@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which Middle of the Road song was a UK No. 1 in 1971?",
+    "options": [
+      "Soley Soley",
+      "Sacramento",
+      "Chirpy Chirpy Cheep Cheep",
+      "Tweedle Dee, Tweedle Dum"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Middle of the Road",
+      "Chirpy Chirpy Cheep Cheep"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Who was the original lead singer of Middle of the Road?",
+    "options": [
+      "Linda Carroll",
+      "Barbara Dickson",
+      "Lulu",
+      "Sally Carr"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Middle of the Road",
+      "Sally Carr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "To which country did Middle of the Road move in 1970 in search of success?",
+    "options": [
+      "Spain",
+      "Italy",
+      "The Netherlands",
+      "Germany"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Middle of the Road",
+      "Italy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which TV talent show did Middle of the Road win under an earlier name?",
+    "options": [
+      "Opportunity Knocks",
+      "Top Town",
+      "Search for a Star",
+      "New Faces"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Middle of the Road",
+      "Opportunity Knocks"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which Middle of the Road hit was covered by Nana Mouskouri?",
+    "options": [
+      "Sacramento",
+      "Chirpy Chirpy Cheep Cheep",
+      "Soley Soley",
+      "Samson and Delilah"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Middle of the Road",
+      "Soley Soley",
+      "Nana Mouskouri"
+    ],
+    "source": "manual"
+  }
+]

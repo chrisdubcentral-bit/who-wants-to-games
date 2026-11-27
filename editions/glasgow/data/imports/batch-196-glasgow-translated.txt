@@ -1,0 +1,22 @@
+# Glasgow Translated - patter and slang. Source: https://discoverglasgow.org/home/tourist-information/glasgow-translated/
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | patter | When a Glaswegian says "It's Baltic out", what is the weather like? | Very, very cold | Very hot | Very wet | Very windy | patter; Baltic
+1 | patter | What is a "wean" in Glasgow patter? | A small child | A dog | A pint | A bus | patter; wean
+1 | patter | In Glasgow patter, what does it mean to "greet"? | To cry | To shout | To laugh | To wave | patter; greet
+1 | patter | What is a "Weegie"? | A native of Glasgow | A small dog | A tram | A type of pie | patter; Weegie
+2 | patter | If a Glaswegian says "That's boggin'", what do they mean? | It's disgusting | It's brilliant | It's expensive | It's broken | patter; boggin'
+2 | patter | In Glasgow patter, what is your "coupon"? | Your face | Your feet | Your belly | Your hands | patter; coupon
+2 | patter | What does "crabbit" mean in Glasgow patter? | Foul-tempered | Clumsy | Lazy | Hungry | patter; crabbit
+2 | patter | If someone is "taking a beamer", what is happening? | They're blushing with embarrassment | They're driving a BMW | They're running late | They're laughing hard | patter; beamer
+2 | patter | What does "feart" mean in Glasgow patter? | Afraid | Tired | Hungry | Angry | patter; feart
+2 | patter | If you won "hee-haw" last night, what did you win? | Nothing | Everything | A donkey | A tenner | patter; hee-haw
+2 | patter | If you "lose the rag", what have you done? | Lost your temper | Lost your job | Lost your way | Lost a bet | patter; lose the rag
+2 | patter | If you "don't have a scooby", what don't you have? | A clue | A penny | A pal | A dog | patter; scooby; rhyming slang
+2 | patter | Ask for "a bottle of ginger" in Glasgow and what will you get? | Fizzy juice | Ginger wine | A bottle of whisky | Ginger shampoo | patter; ginger
+2 | patter | What does "gallus" mean in Glasgow patter? | Amazing or self-confident | Nervous | Grumpy | Skint | patter; gallus
+3 | food-drink | What is Lorne sausage also known as? | Square sausage | Link sausage | Black pudding | White pudding | patter; Lorne sausage
+3 | patter | What does "peely-wally" describe? | A pale skin colour | Red cheeks | Freckles | A suntan | patter; peely-wally
+3 | patter | When a Glaswegian says "Awayyego", what do they mean? | I do not believe you | Go away now | Good luck | See you later | patter; awayyego
+3 | patter | At the football, what does the shout "Gaun yersel" mean? | Go on yourself | Pass the ball | Get off the pitch | Go home | patter; gaun yersel; football
+3 | patter | What does "skelp" mean in Glasgow patter? | To slap or hit | To run away | To steal | To shout | patter; skelp
+3 | patter | Discover Glasgow's patter guide is written in the spirit of which comedian? | Stanley Baxter | Billy Connolly | Rikki Fulton | Chic Murray | patter; Stanley Baxter

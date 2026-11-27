@@ -1,0 +1,12 @@
+# Rikki Fulton. Source: https://en.wikipedia.org/wiki/Rikki_Fulton
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which dour minister was Rikki Fulton's most famous character? | Rev. I.M. Jolly | Rev. Timothy Farthing | Father Ted | Rev. Gerald Fogg | Rikki Fulton; I.M. Jolly
+1 | film-tv | With which comedian did Rikki Fulton form the double act Francie and Josie? | Jack Milroy | Stanley Baxter | Jimmy Logan | Chic Murray | Rikki Fulton; Jack Milroy; Francie and Josie
+2 | film-tv | What was the name of Rikki Fulton's long-running BBC Scotland sketch show? | Scotch and Wry | Naked Video | Chewin' the Fat | Only an Excuse? | Rikki Fulton; Scotch and Wry
+2 | film-tv | Which dimwitted motorbike traffic cop did Rikki Fulton play in Scotch and Wry? | Supercop | Robocop | Speedcop | Mr Plod | Rikki Fulton; Supercop
+2 | film-tv | What was the name of I.M. Jolly's fictional TV programme? | Last Call | Thought for the Day | Sunday Service | Songs of Praise | Rikki Fulton; I.M. Jolly; Last Call
+3 | famous-glaswegians | In which area of Glasgow was Rikki Fulton born? | Dennistoun | Riddrie | Partick | Gorbals | Rikki Fulton; Dennistoun
+3 | film-tv | In which film did Rikki Fulton play a KGB officer? | Gorky Park | The Russia House | Octopussy | The Fourth Protocol | Rikki Fulton; Gorky Park
+3 | famous-glaswegians | In which service did Rikki Fulton serve during World War II? | The Royal Navy | The RAF | The Army | The Merchant Navy | Rikki Fulton; Royal Navy
+3 | film-tv | What kind of characters were Francie and Josie? | Teddy Boys | Bus drivers | Policemen | Pensioners | Rikki Fulton; Francie and Josie
+4 | famous-glaswegians | What was the title of Rikki Fulton's 1999 autobiography? | Is It That Time Already? | Last Call | A Jolly Life | Rikki & Me | Rikki Fulton; autobiography

@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which year did the Kingston Bridge open?",
+    "options": [
+      "1978",
+      "1985",
+      "1962",
+      "1970"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kingston Bridge",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Who opened the Kingston Bridge in 1970?",
+    "options": [
+      "Harold Wilson",
+      "The Queen Mother",
+      "Prince Charles",
+      "Queen Elizabeth II"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kingston Bridge",
+      "Queen Mother"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Roughly how many vehicles cross the Kingston Bridge every day?",
+    "options": [
+      "20,000",
+      "500,000",
+      "150,000",
+      "50,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kingston Bridge",
+      "traffic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which dock, Glasgow's first enclosed dock, closed to make way for the Kingston Bridge?",
+    "options": [
+      "Govan Dry Dock",
+      "Prince's Dock",
+      "Queen's Dock",
+      "Kingston Dock"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kingston Bridge",
+      "Kingston Dock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "The Kingston Bridge's deck was jacked up while it stayed open, using how many hydraulic jacks?",
+    "options": [
+      "500",
+      "128",
+      "52",
+      "16"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kingston Bridge",
+      "repairs"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "What is the University of Strathclyde's motto?",
+    "options": [
+      "Via, Veritas, Vita",
+      "The Place of Useful Learning",
+      "Let Glasgow Flourish",
+      "Knowledge is Power"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "University of Strathclyde",
+      "motto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was the institution that became Strathclyde University founded?",
+    "options": [
+      "1451",
+      "1912",
+      "1796",
+      "1845"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "University of Strathclyde",
+      "1796"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Whose will founded the institution that became the University of Strathclyde?",
+    "options": [
+      "Adam Smith",
+      "John Anderson",
+      "James Watt",
+      "Lord Kelvin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "University of Strathclyde",
+      "John Anderson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In 1964, Strathclyde became the UK's first university of what kind?",
+    "options": [
+      "Open",
+      "Online",
+      "Technological",
+      "Women's"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "University of Strathclyde",
+      "1964"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which college of education did Strathclyde incorporate in 1993?",
+    "options": [
+      "Notre Dame",
+      "Moray House",
+      "Craiglockhart",
+      "Jordanhill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "University of Strathclyde",
+      "Jordanhill"
+    ],
+    "source": "manual"
+  }
+]

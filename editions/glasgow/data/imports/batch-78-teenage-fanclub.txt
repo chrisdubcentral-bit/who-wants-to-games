@@ -1,0 +1,7 @@
+# Teenage Fanclub. Source: https://en.wikipedia.org/wiki/Teenage_Fanclub
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | glasgow-bands | Which grunge star called Teenage Fanclub "the best band in the world"? | Kurt Cobain | Eddie Vedder | Chris Cornell | Dave Grohl | Teenage Fanclub; Kurt Cobain
+2 | songs-albums | Which 1991 Teenage Fanclub album topped Spin's best album poll, beating Nevermind? | Bandwagonesque | A Catholic Education | Grand Prix | Songs from Northern Britain | Teenage Fanclub; Bandwagonesque
+3 | glasgow-bands | In which year did Teenage Fanclub form in Glasgow? | 1989 | 1983 | 1993 | 1979 | Teenage Fanclub
+3 | glasgow-bands | Which Oasis singer called Teenage Fanclub "the second best band in the world"? | Liam Gallagher | Noel Gallagher | Paul Arthurs | Andy Bell | Teenage Fanclub; Liam Gallagher
+4 | songs-albums | Which Madonna song did Teenage Fanclub cover on their 1991 album The King? | Like a Virgin | Holiday | Material Girl | Vogue | Teenage Fanclub; The King; Like a Virgin

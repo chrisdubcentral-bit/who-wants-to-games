@@ -1,0 +1,203 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "On which Glasgow street was the Goldbergs flagship store?",
+    "options": [
+      "Sauchiehall Street",
+      "Candleriggs",
+      "Buchanan Street",
+      "Argyle Street"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goldbergs",
+      "Candleriggs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which year did the Glasgow retailer Goldbergs cease trading?",
+    "options": [
+      "1998",
+      "1990",
+      "1985",
+      "1979"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goldbergs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year did Abraham Goldberg found the business that became Goldbergs?",
+    "options": [
+      "1925",
+      "1934",
+      "1888",
+      "1908"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Goldbergs",
+      "Abraham Goldberg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which young fashion chain did Goldbergs launch in 1979?",
+    "options": [
+      "Topshop",
+      "Wrygges",
+      "Etam",
+      "Miss Selfridge"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goldbergs",
+      "Wrygges"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which shoe firm did Goldbergs hold a 90% stake in during the 1980s?",
+    "options": [
+      "Barratts",
+      "Schuh",
+      "Saxone",
+      "Clarks"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goldbergs",
+      "schuh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Goldbergs held a major stake in which fashion brand, saved by its founder in 1990?",
+    "options": [
+      "Next",
+      "Hobbs",
+      "Jigsaw",
+      "Ted Baker"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Goldbergs",
+      "Ted Baker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What was the name of Goldbergs' in-house credit card?",
+    "options": [
+      "Stylecard",
+      "Fashioncard",
+      "Glasgow Card",
+      "Goldcard"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goldbergs",
+      "Stylecard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "What did Vera and Gerald Weisfeld open in the old Goldbergs Candleriggs store in 1994?",
+    "options": [
+      "A nightclub",
+      "A discount store called Weisfelds",
+      "A furniture showroom",
+      "An indoor market"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Goldbergs",
+      "Weisfelds",
+      "Candleriggs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which department store bought the Goldbergs site but shelved plans for its first Scottish store?",
+    "options": [
+      "Selfridges",
+      "Harvey Nichols",
+      "House of Fraser",
+      "John Lewis"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goldbergs",
+      "Selfridges"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which Edinburgh district did Goldbergs open a store with a rooftop restaurant in 1963?",
+    "options": [
+      "Tollcross",
+      "Leith",
+      "Stockbridge",
+      "Morningside"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Goldbergs",
+      "Edinburgh",
+      "Tollcross"
+    ],
+    "source": "manual"
+  }
+]

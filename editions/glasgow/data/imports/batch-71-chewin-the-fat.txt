@@ -1,0 +1,12 @@
+# Chewin' the Fat. Source: https://en.wikipedia.org/wiki/Chewin%27_the_Fat
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | What does lighthouse keeper Duncan say to Malcolm in Chewin' the Fat? | Gonnae no dae that? | Ah can dae that | See you, Jimmy | Away and bile yer heid | Chewin' the Fat; Gonnae no dae that
+1 | film-tv | Which Chewin' the Fat character always says "Ah can dae that"? | Ronald Villiers | The Big Man | Rab McGlinchy | Big Jock | Chewin' the Fat; Ronald Villiers
+2 | film-tv | Which actress starred in Chewin' the Fat alongside Ford Kiernan and Greg Hemphill? | Karen Dunbar | Elaine C. Smith | Jane McCarry | Kate Donnelly | Chewin' the Fat; Karen Dunbar
+2 | film-tv | Chewin' the Fat began on which station before moving to TV? | BBC Radio Scotland | Radio Clyde | BBC Radio 4 | Radio Forth | Chewin' the Fat; BBC Radio Scotland
+2 | film-tv | How many TV series of Chewin' the Fat were made? | Four | Two | Six | Eight | Chewin' the Fat
+3 | film-tv | On which fictional island do Chewin' the Fat's lighthouse keepers live? | Aonoch Mor | Toder | Craiglang | Inchmurrin | Chewin' the Fat; Aonoch Mor
+3 | film-tv | What job do Chewin' the Fat's Tony and Wullie do while stealing from clients? | Painters and decorators | Plumbers | Window cleaners | Removal men | Chewin' the Fat; Tony and Wullie
+3 | film-tv | What is the QVC parody shopping channel in Chewin' the Fat called? | QSC | QTV | ShopScot | Bargain Bin TV | Chewin' the Fat; QSC
+4 | film-tv | Which Chewin' the Fat sketch parodied Star Trek with a crew from Dundee? | Taysiders in Space | Star Trek: Tayside | Dundee Voyager | The Final Frontier | Chewin' the Fat; Taysiders in Space
+4 | film-tv | Which Gaelic children's show do Chewin' the Fat's sock puppets Sluich parody? | Dòtaman | Machair | Balamory | Bìdeasan | Chewin' the Fat; Sluich; Dòtaman

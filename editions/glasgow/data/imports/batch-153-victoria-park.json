@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What famous ancient feature was discovered when Victoria Park was being built?",
+    "options": [
+      "A Bronze Age burial",
+      "A Viking ship",
+      "The Fossil Grove",
+      "A Roman fort"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Victoria Park",
+      "Fossil Grove"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Victoria Park was created to mark which event in 1887?",
+    "options": [
+      "Queen Victoria's jubilee",
+      "The founding of Partick Thistle",
+      "The Glasgow Exhibition",
+      "The opening of the subway"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Victoria Park",
+      "jubilee"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Who formally opened Victoria Park in 1887?",
+    "options": [
+      "Queen Victoria",
+      "The Prince of Wales",
+      "The Provost of Partick",
+      "The Lord Provost of Glasgow"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Victoria Park",
+      "opening"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Who built Victoria Park in the 1880s?",
+    "options": [
+      "Unemployed men needing work",
+      "Soldiers from Maryhill Barracks",
+      "Shipyard apprentices",
+      "Prisoners from Barlinnie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Victoria Park",
+      "builders"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Who paid for Victoria Park's Jubilee Gates in 1887?",
+    "options": [
+      "The Glasgow Corporation",
+      "The \"Ladies of Partick\"",
+      "The Maxwell family",
+      "Queen Victoria"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Victoria Park",
+      "Jubilee Gates"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which foundry made Victoria Park's Jubilee Gates?",
+    "options": [
+      "Macfarlane's Saracen Foundry",
+      "Beardmore's Parkhead Forge",
+      "Walter Macfarlane's Possil Works",
+      "Carron Ironworks"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Victoria Park",
+      "Saracen Foundry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which sport is Victoria Park understood to be the UK's only dedicated ground for?",
+    "options": [
+      "Lacrosse",
+      "Hurling",
+      "Baseball",
+      "Australian Rules football"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Victoria Park",
+      "Australian Rules"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which birds form Scotland's most northerly flock of their kind in Victoria Park?",
+    "options": [
+      "Flamingos",
+      "Parakeets",
+      "Peacocks",
+      "Pelicans"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Victoria Park",
+      "parakeets"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which ship is commemorated by a monument in Victoria Park?",
+    "options": [
+      "SS Daphne",
+      "PS Waverley",
+      "Queen Mary",
+      "HMS Hood"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Victoria Park",
+      "SS Daphne"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which tunnel's approach roads took a large section of Victoria Park in the 1960s?",
+    "options": [
+      "The Kingston Tunnel",
+      "The Clyde Tunnel",
+      "The Govan Tunnel",
+      "The Finnieston Tunnel"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Victoria Park",
+      "Clyde Tunnel"
+    ],
+    "source": "manual"
+  }
+]

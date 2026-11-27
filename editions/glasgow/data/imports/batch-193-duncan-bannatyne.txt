@@ -1,0 +1,7 @@
+# Duncan Bannatyne. Source: https://en.wikipedia.org/wiki/Duncan_Bannatyne
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | famous-glaswegians | Which BBC show was Duncan Bannatyne a Dragon on from 2005 to 2015? | Dragons' Den | The Apprentice | Shark Tank | Undercover Boss | Duncan Bannatyne; Dragons' Den
+2 | famous-glaswegians | Duncan Bannatyne's business career began with what, bought for £450? | An ice cream van | A taxi | A fish and chip van | A market stall | Duncan Bannatyne; ice cream van
+3 | famous-glaswegians | Which armed service did Duncan Bannatyne join in 1964? | The Royal Navy | The British Army | The Royal Air Force | The Merchant Navy | Duncan Bannatyne; Royal Navy; 1964
+4 | famous-glaswegians | Duncan Bannatyne sold which nursing home business for £26 million in 1997? | Quality Care Homes | Just Learning | Bannatyne Care | Caring Homes Group | Duncan Bannatyne; Quality Care Homes; 1997
+4 | famous-glaswegians | From which hotel group did Duncan Bannatyne buy 26 health clubs in 2006? | Hilton | Marriott | Holiday Inn | Radisson | Duncan Bannatyne; Bannatyne Group; Hilton; 2006

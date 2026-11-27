@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "art-culture",
+    "difficulty": 1,
+    "question": "Who wrote the Glasgow play The Steamie?",
+    "options": [
+      "Liz Lochhead",
+      "John Byrne",
+      "Ian Pattison",
+      "Tony Roper"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Steamie",
+      "Tony Roper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "On which night of the year is The Steamie set?",
+    "options": [
+      "Hogmanay",
+      "Christmas Eve",
+      "Burns Night",
+      "Halloween"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Steamie",
+      "Hogmanay"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "What is a \"steamie\", the setting of Tony Roper's play?",
+    "options": [
+      "A public washhouse",
+      "A railway station",
+      "A tea room",
+      "A sauna"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Steamie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which theatre company first staged The Steamie in 1987?",
+    "options": [
+      "7:84",
+      "TAG",
+      "Wildcat",
+      "Communicado"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Steamie",
+      "Wildcat"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In which year did The Steamie play six nights at Glasgow's SSE Hydro?",
+    "options": [
+      "2012",
+      "2015",
+      "2022",
+      "2019"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Steamie",
+      "Hydro"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,17 @@
+# River City. Source: https://en.wikipedia.org/wiki/River_City_(TV_series)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | In which fictional Glasgow district was the soap River City set? | Shieldinch | Craiglang | Burnistoun | Glenbogle | River City; Shieldinch
+1 | film-tv | What was the name of the pub in River City? | The Tall Ship | The Clansman | The Woolpack | The Rovers Return | River City; The Tall Ship
+2 | film-tv | In which town was River City filmed on a purpose-built set? | Dumbarton | Paisley | Clydebank | Greenock | River City; Dumbarton
+2 | film-tv | In which year was River City first broadcast? | 2002 | 1998 | 2005 | 2008 | River City; 2002
+2 | film-tv | Who created the BBC Scotland soap River City? | Stephen Greenhorn | Glenn Chandler | Ian Pattison | Peter May | River City; Stephen Greenhorn
+3 | film-tv | The name Shieldinch comes from which two real places on opposite banks of the Clyde? | Whiteinch and Shieldhall | Partick and Govan | Yoker and Renfrew | Finnieston and Kinning Park | River City; Shieldinch; Whiteinch; Shieldhall
+3 | film-tv | Which city did River City's creator first propose as the soap's setting? | Edinburgh | Dundee | Aberdeen | Inverness | River City; Edinburgh
+3 | film-tv | What was the working title of the Leith-based idea that became River City? | The Shore | Leith Walk | Port of Leith | The Docks | River City; The Shore
+3 | film-tv | Which Scottish comedy did River City cross over with for Children in Need in 2017? | Scot Squad | Still Game | Two Doors Down | Burnistoun | River City; Scot Squad; Children in Need
+3 | film-tv | In which year was the final episode of River City broadcast? | 2026 | 2022 | 2024 | 2019 | River City
+3 | film-tv | What was River City called by the BBC before its name was revealed? | The Scottish soap | Project Clyde | Glasgow Lives | Untitled Drama | River City
+4 | film-tv | What name was River City's title shortened from after a brainstorm? | River City People | River City Lives | City on the River | River City Glasgow | River City; title
+4 | film-tv | About how many viewers watched the first episode of River City in 2002? | Over 700,000 | About 250,000 | Over 2 million | About 1.5 million | River City; viewing figures
+4 | film-tv | Classic episodes of River City shown during the 2020 pandemic were given which title? | River City Rewind | River City Gold | River City Classics | Back to Shieldinch | River City; River City Rewind
+4 | film-tv | Which award did River City win at the RTS Scotland Awards in 2023? | Drama | Soap of the Year | Best Ensemble | Audience Award | River City; RTS Scotland 2023

@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Which Scottish club did Alex Ferguson lead to the 1983 European Cup Winners' Cup?",
+    "options": [
+      "Celtic",
+      "Dundee United",
+      "Aberdeen",
+      "Rangers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alex Ferguson",
+      "Aberdeen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In which year was Alex Ferguson appointed Manchester United manager?",
+    "options": [
+      "1990",
+      "1982",
+      "1986",
+      "1978"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alex Ferguson",
+      "Manchester United"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In which year was Alex Ferguson knighted, after United's treble?",
+    "options": [
+      "1993",
+      "1999",
+      "2003",
+      "2008"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alex Ferguson",
+      "knighthood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which famous phrase about the tense end of a season did Alex Ferguson coin?",
+    "options": [
+      "Mind games",
+      "Hairdryer treatment",
+      "Fergie time",
+      "Squeaky-bum time"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Alex Ferguson",
+      "squeaky-bum time"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What trade did Alex Ferguson serve an apprenticeship in?",
+    "options": [
+      "Electrician",
+      "Joiner",
+      "Toolmaker",
+      "Welder"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alex Ferguson",
+      "toolmaker"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which club gave Alex Ferguson his first managerial job in 1974?",
+    "options": [
+      "Aberdeen",
+      "Falkirk",
+      "St Mirren",
+      "East Stirlingshire"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Alex Ferguson",
+      "East Stirlingshire"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Glasgow club did Alex Ferguson make his debut for as an amateur aged 16?",
+    "options": [
+      "Clyde",
+      "Partick Thistle",
+      "Queen's Park",
+      "Rangers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alex Ferguson",
+      "Queen's Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "How many trophies did Alex Ferguson win in his 26 years at Manchester United?",
+    "options": [
+      "38",
+      "45",
+      "21",
+      "27"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alex Ferguson",
+      "trophies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Whom did Alex Ferguson overtake as Manchester United's longest-serving manager in 2010?",
+    "options": [
+      "Ron Atkinson",
+      "Tommy Docherty",
+      "Sir Matt Busby",
+      "Ernest Mangnall"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alex Ferguson",
+      "Matt Busby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which club did Alex Ferguson manage between 1974 and 1978?",
+    "options": [
+      "Morton",
+      "Ayr United",
+      "Dunfermline",
+      "St Mirren"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Alex Ferguson",
+      "St Mirren"
+    ],
+    "source": "manual"
+  }
+]

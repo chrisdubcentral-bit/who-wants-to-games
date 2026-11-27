@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "glasgow",
+  "vars": {
+    "team": "your band",
+    "prize": "Barras Star",
+    "prizes": "Barras Stars",
+    "champion": "Barras Headliner",
+    "start": "Start The Tour",
+    "game": "tour",
+    "games": "tours",
+    "season": "Tour"
+  },
+  "seasons": {
+    "restartStage": "qmu"
+  },
+  "sound": {
+    "enabled": false
+  },
+  "images": {
+    "prize": "assets/img/barras-stamp.png",
+    "home": "assets/img/barras-stamp.png",
+    "eliminated": "assets/img/eliminated-icon.svg"
+  },
+  "text": {
+    "home": {
+      "titleTop": "Who Wants To Play",
+      "titleAccent": "The Barras",
+      "edition": "Glasgow Quiz",
+      "tagline": "Take {team} from Nice N Sleazys to The Barras. Eight Glasgow venues. One wrong answer and it's over."
+    },
+    "how": {
+      "eyebrow": "Backstage Briefing",
+      "roadTitle": "The Road to The Barras",
+      "road": "Each venue on the {game} is one question: {stages}. Get it right and the band move on to a bigger stage.",
+      "knockoutTitle": "One Bum Note",
+      "knockout": "One wrong answer and the {game} is over. Play the last venue and you're a {champion}, with a {prize} to show for it.",
+      "lifeline": "Use it once to remove two wrong answers. Choose the moment carefully: you don't get another one if you play on into a new tour.",
+      "seasonsTitle": "The Next Tour",
+      "seasons": "Play The Barras and you can start a new tour, going straight in at {restart}. Keep going to add more {prizes}. A wrong answer ends your run, but you keep the {prizes} you've won.",
+      "top100": "The Top 40 is shared with players everywhere, and anyone can add their name and town to it. The most {prizes} ranks highest, then the furthest venue reached. After that, players who didn't use the 50:50 rank above those who did, then the fastest time wins.",
+      "sound": "Hear the crowd roar when you get an answer right. On a phone, the silent switch or volume may also need turning up."
+    },
+    "quiz": {
+      "ladder": "Road to The Barras",
+      "ladderLabel": "Venue ladder",
+      "bye": "already behind you",
+      "won": "{count} won",
+      "correct": "Correct! The band move on."
+    },
+    "advert": {
+      "eyebrow": "Affiliate link",
+      "skipIn": "Skip in {s}",
+      "skip": "Skip advert",
+      "link": "Find out more"
+    },
+    "newspaper": {
+      "masthead": "The Glasgow Gig Guide",
+      "special": "Live Music Special",
+      "sub": "{won}: done · Next stop: {next}",
+      "headline": "Glasgow's Hottest New Band",
+      "helped": "Band Get By With a Wee Bit of Help",
+      "stages": {
+        "king-tuts": "Sold Out at King Tuts",
+        "art-school": "Art School Crowd Go Wild",
+        "qmu": "Students Pack Out the QMU",
+        "oran-mor": "Oran Mor Rocked to the Rafters",
+        "swg3": "Queues Round the Block at SWG3",
+        "the-academy": "Academy Crowd Bounce All Night"
+      }
+    },
+    "results": {
+      "edition": "Glasgow Edition",
+      "champion": "You Played The Barras",
+      "wonOnce": "You Have Won A {prize}",
+      "wonMany": "You Have Won {n} {prizes}",
+      "prizeAlt": "A {prize}",
+      "result": "Result",
+      "prizeCount": "{prizes}",
+      "seasonButton": "CONTINUE TOUR",
+      "seasonNote": "Carry on with the tour from {restart} and try to do it again. A wrong answer ends your run, but you keep the {prizes} you've won.",
+      "outEyebrow": "Lights Up",
+      "out": "That's Yer Lot",
+      "outIn": "Out at {stage}",
+      "leftIn": "Left at {stage}",
+      "retired": "Tour Over",
+      "retiredSub": "Bowed out at The Barras with {count}"
+    },
+    "top100": {
+      "eyebrow": "Hall of Fame",
+      "prizeColumn": "Stars",
+      "none": "No {prizes}",
+      "rules": "Most {prizes} first, then the furthest venue reached. After that, players who didn't use the 50:50 rank higher, then the fastest time. One board for players everywhere."
+    },
+    "share": {
+      "game": "Who Wants To Play The Barras (Glasgow Edition)",
+      "withCups": "I'm number {rank} in the Top 40 on {game} ⭐ {count} won. Can you beat me?",
+      "noCups": "I'm number {rank} in the Top 40 on {game}. I reached {stage}. Can you beat me?",
+      "cardTitleTop": "Who Wants To Play",
+      "cardTitle": "The Barras",
+      "cardEdition": "Glasgow Edition",
+      "cardCta": "Can you beat me?"
+    },
+    "stats": {
+      "eyebrow": "Your Record So Far",
+      "won": "Played The Barras",
+      "outIn": "Out at {stage}",
+      "none": "No {games} played yet.",
+      "recent": "Recent Tours",
+      "barsLabel": "Number of {games} ending at each venue"
+    },
+    "boot": {
+      "notReadyEyebrow": "Soundcheck",
+      "notReady": "Band Not Ready",
+      "notReadyBody": "There aren't enough approved questions to play a full {game} yet.",
+      "delayed": "Doors delayed",
+      "resumeTitle": "Resume your {game}?",
+      "resumeBody": "You were at {stage}. If you don't resume, the {game} ends and counts as a wrong answer.",
+      "end": "End Tour"
+    },
+    "admin": {
+      "eyebrow": "Glasgow Edition · Admin"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+# Gerry Cinnamon. Source: https://en.wikipedia.org/wiki/Gerry_Cinnamon
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | glasgow-bands | In which Glasgow district was Gerry Cinnamon raised? | Castlemilk | Easterhouse | Drumchapel | Pollok | Gerry Cinnamon; Castlemilk
+2 | songs-albums | Which Gerry Cinnamon album went straight to No. 1 in the UK in 2020? | The Bonny | Erratic Cinematic | Live at Hampden Park | Canter | Gerry Cinnamon; The Bonny
+2 | venues-gigs | At which Glasgow stadium did Gerry Cinnamon play two sold-out homecoming shows in 2022? | Hampden Park | Celtic Park | Ibrox | Firhill | Gerry Cinnamon; Hampden
+3 | glasgow-bands | What is Gerry Cinnamon's real name? | Gerard Crosbie | Gerard Cinnamond | Gerry Callaghan | Gerald Cairns | Gerry Cinnamon
+3 | songs-albums | What was the title of Gerry Cinnamon's debut album, funded through PledgeMusic? | Erratic Cinematic | The Bonny | Belter | Hope Over Fear | Gerry Cinnamon; Erratic Cinematic

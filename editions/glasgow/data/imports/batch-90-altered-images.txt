@@ -1,0 +1,7 @@
+# Altered Images. Source: https://en.wikipedia.org/wiki/Altered_Images
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | songs-albums | Which Altered Images single reached No. 2 in the UK in 1981? | Happy Birthday | I Could Be Happy | See Those Eyes | Dead Pop Stars | Altered Images; Happy Birthday
+2 | glasgow-bands | Who was the lead singer of Altered Images? | Clare Grogan | Lulu | Sharleen Spiteri | Eddi Reader | Altered Images; Clare Grogan
+3 | glasgow-bands | The founders of Altered Images were all members of which band's fan club? | Siouxsie and the Banshees | The Clash | Buzzcocks | Joy Division | Altered Images; Siouxsie and the Banshees
+3 | glasgow-bands | Which Radio 1 DJ championed Altered Images early on? | John Peel | Kid Jensen | Simon Bates | Steve Wright | Altered Images; John Peel
+4 | glasgow-bands | Altered Images took their name from a sleeve design by which band? | Buzzcocks | The Undertones | Magazine | Wire | Altered Images; band name; Buzzcocks

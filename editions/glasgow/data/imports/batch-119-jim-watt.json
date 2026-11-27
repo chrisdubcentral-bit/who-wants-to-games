@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "At which weight did Glasgow boxer Jim Watt become world champion?",
+    "options": [
+      "Heavyweight",
+      "Lightweight",
+      "Welterweight",
+      "Flyweight"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Jim Watt",
+      "lightweight"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "At which Glasgow venue did Jim Watt win the WBC world title in 1979?",
+    "options": [
+      "The SECC",
+      "Ibrox",
+      "Kelvin Hall",
+      "Hampden"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jim Watt",
+      "Kelvin Hall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "To whom did Jim Watt lose his world title in his last fight, in 1981?",
+    "options": [
+      "Howard Davis",
+      "Alexis Argüello",
+      "Sean O'Grady",
+      "Roberto Durán"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Jim Watt",
+      "Alexis Argüello"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "At which stadium did Jim Watt defend his title against Howard Davis in 1980?",
+    "options": [
+      "Ibrox Park",
+      "Hampden Park",
+      "Celtic Park",
+      "Firhill"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jim Watt",
+      "Ibrox",
+      "Howard Davis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which commentator did Jim Watt partner on ITV's The Big Fight Live?",
+    "options": [
+      "Ian Darke",
+      "Barry McGuigan",
+      "Reg Gutteridge",
+      "Harry Carpenter"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jim Watt",
+      "Reg Gutteridge"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,11 @@
+/* This edition's card in the About page carousel (about.html). Loaded by the About page, not by the game.
+   Red-wash gig photo, bone white Anton with a red shadow and typewriter text, as on the game's home screen. */
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Special+Elite&display=swap");
+
+.front.glasgow .bg { background-image: linear-gradient(180deg, rgba(10,6,6,.35) 0%, rgba(10,6,6,.55) 50%, rgba(10,6,6,.95) 100%), url("assets/img/gig-backdrop.jpg"); }
+.front.glasgow .prize { width: 44cqi; height: 44cqi; transform: rotate(-8deg); }
+.front.glasgow .top { font: 400 8.6cqi/1 Anton, sans-serif; text-transform: uppercase; color: #f1ebe1; }
+.front.glasgow .accent { font: 400 19cqi/.92 Anton, sans-serif; text-transform: uppercase; color: #f1ebe1; text-shadow: -1.1cqi 1.1cqi 0 #d4141c; }
+.front.glasgow .edition { padding: 2cqi 4cqi; background: #d4141c; font: 400 4.6cqi/1 "Special Elite", monospace; letter-spacing: .18em; color: #fff; }
+.front.glasgow .tagline { font: 400 3.9cqi/1.45 "Special Elite", monospace; color: #e6ddd2; }
+.front.glasgow .start { font: 400 5cqi/1 Anton, sans-serif; color: #fff; background: #d4141c; box-shadow: 1cqi 1cqi 0 #f1ebe1; }

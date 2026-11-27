@@ -1,0 +1,300 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "What is Drumchapel known as locally?",
+    "options": [
+      "Drummy",
+      "The Scheme",
+      "The Drum",
+      "The Chapel"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Drumchapel",
+      "The Drum"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which part of Glasgow is Drumchapel?",
+    "options": [
+      "North-west",
+      "South-west",
+      "East End",
+      "South-east"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Drumchapel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Drumchapel's name is said to come from a Gaelic phrase meaning \"the ridge of\" what?",
+    "options": [
+      "The chapel",
+      "The river",
+      "The deer",
+      "The horse"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Drumchapel",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which decade was the large Drumchapel housing estate built?",
+    "options": [
+      "1970s",
+      "1930s",
+      "1950s",
+      "1980s"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Drumchapel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which East Dunbartonshire town borders Drumchapel to the north-east?",
+    "options": [
+      "Bearsden",
+      "Bishopbriggs",
+      "Milngavie",
+      "Kirkintilloch"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Drumchapel",
+      "Bearsden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Roman frontier runs through undeveloped land north of Drumchapel?",
+    "options": [
+      "The Antonine Wall",
+      "Dere Street",
+      "Hadrian's Wall",
+      "The Gask Ridge"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Drumchapel",
+      "Antonine Wall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year did Drumchapel pass from New Kilpatrick to Glasgow Corporation?",
+    "options": [
+      "1912",
+      "1975",
+      "1950",
+      "1938"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Drumchapel",
+      "1938"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which tyre company was a major Drumchapel employer until 1979?",
+    "options": [
+      "Firestone",
+      "Goodyear",
+      "Michelin",
+      "Dunlop"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Drumchapel",
+      "Goodyear"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which biscuit factory near Drumchapel closed in 1978?",
+    "options": [
+      "Gray Dunn",
+      "McVitie's",
+      "Tunnock's",
+      "Beattie's"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Drumchapel",
+      "Beattie's"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Celtic legend is listed as a notable Drumchapel resident?",
+    "options": [
+      "Kenny Dalglish",
+      "Billy McNeill",
+      "Danny McGrain",
+      "Jimmy Johnstone"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Drumchapel",
+      "Danny McGrain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Booker Prize-winning writer is listed as a notable Drumchapel resident?",
+    "options": [
+      "Alasdair Gray",
+      "Douglas Stuart",
+      "William McIlvanney",
+      "James Kelman"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Drumchapel",
+      "James Kelman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "What is the name of the wooded area to the north of Drumchapel?",
+    "options": [
+      "Dawsholm Park",
+      "Cathkin Braes",
+      "Mugdock Woods",
+      "Garscadden Woodlands"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Drumchapel",
+      "Garscadden Woodlands"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Roughly how many people was the Drumchapel scheme built to house?",
+    "options": [
+      "120,000",
+      "80,000",
+      "34,000",
+      "10,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Drumchapel",
+      "population"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which whisky company's bond is still a major employer near Drumchapel?",
+    "options": [
+      "William Grant & Sons",
+      "Whyte & Mackay",
+      "The Edrington Group",
+      "Diageo"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Drumchapel",
+      "Edrington"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which year did Drumchapel become a church parish in its own right?",
+    "options": [
+      "1901",
+      "1875",
+      "1950",
+      "1923"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Drumchapel",
+      "parish"
+    ],
+    "source": "manual"
+  }
+]

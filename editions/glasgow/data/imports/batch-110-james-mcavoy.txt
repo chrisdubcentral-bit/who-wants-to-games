@@ -1,0 +1,12 @@
+# James McAvoy. Source: https://en.wikipedia.org/wiki/James_McAvoy
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which X-Men character did James McAvoy play from X-Men: First Class onwards? | Charles Xavier | Magneto | Wolverine | Cyclops | James McAvoy; X-Men; Charles Xavier
+1 | film-tv | Which faun did James McAvoy play in The Chronicles of Narnia? | Mr Tumnus | Aslan | Mr Beaver | Reepicheep | James McAvoy; Narnia; Mr Tumnus
+2 | film-tv | In which Glasgow scheme did James McAvoy live with his grandparents as a boy? | Drumchapel | Castlemilk | Easterhouse | Pollok | James McAvoy; Drumchapel
+2 | film-tv | In which 2007 film did James McAvoy play Robbie, his breakthrough role? | Atonement | Becoming Jane | Penelope | Starter for 10 | James McAvoy; Atonement
+2 | film-tv | Which award did James McAvoy win as its very first recipient in 2006? | BAFTA Rising Star | Golden Globe | Olivier Award | Empire Newcomer | James McAvoy; BAFTA Rising Star
+3 | film-tv | In which 2006 film did James McAvoy play a Scottish doctor alongside Idi Amin? | The Last King of Scotland | Hotel Rwanda | Blood Diamond | The Constant Gardener | James McAvoy; The Last King of Scotland
+3 | film-tv | Which character did James McAvoy play in the first two series of Shameless? | Steve McBride | Lip Gallagher | Frank Gallagher | Kev Ball | James McAvoy; Shameless
+3 | film-tv | In which M. Night Shyamalan film did James McAvoy play a man with 23 identities? | Split | The Village | Signs | Old | James McAvoy; Split
+3 | film-tv | Which character did James McAvoy play in His Dark Materials? | Lord Asriel | Lee Scoresby | Lord Boreal | Iorek Byrnison | James McAvoy; His Dark Materials
+4 | film-tv | Which service had accepted James McAvoy before he took up drama school? | The Royal Navy | The Army | The Police | The RAF | James McAvoy; Royal Navy

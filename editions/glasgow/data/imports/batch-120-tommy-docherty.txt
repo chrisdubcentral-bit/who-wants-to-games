@@ -1,0 +1,7 @@
+# Tommy Docherty. Source: https://en.wikipedia.org/wiki/Tommy_Docherty
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | sport | What was Tommy Docherty's famous nickname? | The Doc | The Boss | The Gaffer | Tommy Gun | Tommy Docherty; The Doc
+2 | sport | With which club did Tommy Docherty win the 1977 FA Cup, beating Liverpool? | Manchester United | Chelsea | Aston Villa | Derby County | Tommy Docherty; 1977 FA Cup
+3 | sport | What was Tommy Docherty's young Chelsea team nicknamed? | Docherty's Diamonds | The Doc's Boys | The Blue Boys | Tommy's Tigers | Tommy Docherty; Chelsea
+3 | sport | Which Glasgow club did Tommy Docherty join as a player in 1947? | Celtic | Rangers | Partick Thistle | Clyde | Tommy Docherty; Celtic
+4 | sport | Tommy Docherty joked he promised to take which club out of the Second Division, then took them into the Third? | Rotherham United | Aston Villa | Preston North End | Wolves | Tommy Docherty; Rotherham

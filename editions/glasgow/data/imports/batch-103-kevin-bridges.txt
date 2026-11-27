@@ -1,0 +1,7 @@
+# Kevin Bridges. Source: https://en.wikipedia.org/wiki/Kevin_Bridges
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | famous-glaswegians | In which town was comedian Kevin Bridges born and raised? | Clydebank | Paisley | Motherwell | Greenock | Kevin Bridges; Clydebank
+2 | venues-gigs | How many record-breaking sold-out nights did Kevin Bridges play at the Hydro on his 2018 tour? | 19 | 9 | 12 | 30 | Kevin Bridges; Hydro
+3 | film-tv | What was the name of Kevin Bridges' 2012 BBC One series based on his stand-up? | Kevin Bridges: What's the Story? | Bridges Over Glasgow | Kevin Live | The Story So Far | Kevin Bridges; What's the Story?
+3 | film-tv | On whose BBC One comedy show did Kevin Bridges make his TV debut in 2009? | Michael McIntyre's Comedy Roadshow | Live at the Apollo | Mock the Week | Frankie Boyle's Show | Kevin Bridges; Michael McIntyre
+4 | art-culture | What is the title of Kevin Bridges' 2022 novel? | The Black Dog | The Story So Far | Clydebank Blues | A Whole Different Story | Kevin Bridges; The Black Dog

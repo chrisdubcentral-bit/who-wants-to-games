@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-22T17:25:00.000Z",
+  "updatedAt": "2026-11-24T19:45:25.533Z",
   "order": "random",
   "adverts": [
     {
@@ -71,6 +71,20 @@
       "linkText": "Order Now",
       "landscape": "../../media/ads/celtic-jungle-days-landscape-1280x720.mp4",
       "portrait": "../../media/ads/celtic-jungle-days-portrait-720x1280.mp4",
+      "skipAfterMs": 5000
+    },
+    {
+      "id": "maestro",
+      "name": "Maestro: The Paul McStay Autobiography",
+      "enabled": true,
+      "from": "2026-11-24",
+      "until": null,
+      "after": "round-1",
+      "label": "Maestro",
+      "url": "https://link.amazon/B044pK3Hd",
+      "linkText": "Order Now",
+      "landscape": "../../media/ads/celtic-maestro-landscape-1280x720.mp4",
+      "portrait": "../../media/ads/celtic-maestro-portrait-720x1280.mp4",
       "skipAfterMs": 5000
     }
   ]

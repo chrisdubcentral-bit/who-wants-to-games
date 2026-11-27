@@ -1,0 +1,812 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "What is Partick Thistle's best-known nickname?",
+    "options": [
+      "The Sons",
+      "The Spiders",
+      "The Bully Wee",
+      "The Jags"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "The Jags"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "In which area of Glasgow is Partick Thistle's Firhill Stadium?",
+    "options": [
+      "Partick",
+      "Springburn",
+      "Govan",
+      "Maryhill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "Firhill",
+      "Maryhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "What is the name of Partick Thistle's sun-shaped mascot, unveiled in 2015?",
+    "options": [
+      "Jaggy MacBee",
+      "Pee Tee",
+      "Kingsley",
+      "Sunny Jim"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Kingsley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Which team did Partick Thistle beat 4–1 in the 1971 League Cup final?",
+    "options": [
+      "Celtic",
+      "Hibernian",
+      "Aberdeen",
+      "Rangers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Partick Thistle",
+      "1971 League Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In which year was Partick Thistle founded?",
+    "options": [
+      "1888",
+      "1867",
+      "1876",
+      "1872"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which team did Partick Thistle beat 1–0 to win the 1921 Scottish Cup?",
+    "options": [
+      "Celtic",
+      "Hearts",
+      "Motherwell",
+      "Rangers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "Scottish Cup 1921"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "What was the half-time score in Partick Thistle's 1971 League Cup final win over Celtic?",
+    "options": [
+      "1–0 to Thistle",
+      "4–0 to Thistle",
+      "2–0 to Thistle",
+      "3–1 to Thistle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Partick Thistle",
+      "1971 League Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which future Liverpool great scored Celtic's goal in the 1971 League Cup final against Partick Thistle?",
+    "options": [
+      "Jimmy Johnstone",
+      "Bobby Lennox",
+      "Lou Macari",
+      "Kenny Dalglish"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "1971 League Cup final",
+      "Kenny Dalglish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which EuroMillions winner completed a takeover of Partick Thistle in 2019?",
+    "options": [
+      "Paul Conway",
+      "Colin Weir",
+      "Ken Bates",
+      "Chien Lee"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Partick Thistle",
+      "Colin Weir"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which colours did Partick Thistle adopt in 1936–37?",
+    "options": [
+      "Blue and white",
+      "Maroon and gold",
+      "Black and white",
+      "Red, yellow and black"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "colours"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which Turner Prize-nominated artist designed Partick Thistle's mascot Kingsley?",
+    "options": [
+      "Martin Creed",
+      "Simon Starling",
+      "David Shrigley",
+      "Douglas Gordon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Kingsley",
+      "David Shrigley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which club plays the \"Glasgow derby\" against Partick Thistle, sometimes called the \"Old Firm alternative\"?",
+    "options": [
+      "Queen's Park",
+      "Airdrieonians",
+      "Clyde",
+      "Greenock Morton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Clyde",
+      "Glasgow derby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Who managed Partick Thistle to the 1971 League Cup?",
+    "options": [
+      "John Lambie",
+      "Scot Symon",
+      "Davie McParland",
+      "Bertie Auld"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Davie McParland",
+      "1971 League Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which BBC broadcaster said before the 1971 League Cup final that Partick Thistle had \"no chance\"?",
+    "options": [
+      "Arthur Montford",
+      "Archie Macpherson",
+      "Sam Leitch",
+      "David Coleman"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "1971 League Cup final",
+      "Sam Leitch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Who scored the winner for Partick Thistle in the 1921 Scottish Cup final?",
+    "options": [
+      "Alex Hair",
+      "Jimmy McMenemy",
+      "Johnny Blair",
+      "Willie Sharp"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Scottish Cup 1921",
+      "Johnny Blair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Why were Partick Thistle forced out of their Meadowside ground in 1908?",
+    "options": [
+      "For a new tramway depot",
+      "For housing",
+      "To make way for a shipyard",
+      "To build a railway"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Meadowside"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Partick Thistle bought the Firhill land in 1909 from which company?",
+    "options": [
+      "Caledonian Railway",
+      "North British Railway",
+      "Glasgow Corporation",
+      "Forth and Clyde Canal Company"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Partick Thistle",
+      "Firhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which year did Partick Thistle play their first home match at Firhill?",
+    "options": [
+      "1876",
+      "1921",
+      "1897",
+      "1909"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "Firhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which bumble bee was Partick Thistle's mascot before Kingsley?",
+    "options": [
+      "Buzzy Jag",
+      "Thistle Bee",
+      "Bumble Jag",
+      "Jaggy MacBee"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "Jaggy MacBee"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What was Partick Thistle's mascot before Jaggy MacBee?",
+    "options": [
+      "A thistle called Jaggy",
+      "A lion called Leo",
+      "A toucan called Pee Tee",
+      "A bee called Buzz"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Pee Tee"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Chelsea chairman owned Partick Thistle from 1986 to 1989?",
+    "options": [
+      "Roman Abramovich",
+      "Ken Bates",
+      "Matthew Harding",
+      "Brian Mears"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Partick Thistle",
+      "Ken Bates"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What was the name of the fan campaign that saved Partick Thistle from bankruptcy in 1998?",
+    "options": [
+      "Save the Jags",
+      "Firhill First",
+      "Jags Forever",
+      "Thistle Trust"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Partick Thistle",
+      "Save the Jags"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which manager led Partick Thistle to back-to-back promotions in 2000–01 and 2001–02?",
+    "options": [
+      "Alan Archibald",
+      "Ian McCall",
+      "John Lambie",
+      "Dick Campbell"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "John Lambie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Firhill stand was renamed after a former manager in 2018?",
+    "options": [
+      "The Davie McParland Stand",
+      "The Jackie Husband Stand",
+      "The John Lambie Stand",
+      "The Bertie Auld Stand"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "John Lambie Stand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Firhill stand was renamed the Colin Weir Stand in 2016?",
+    "options": [
+      "The North Stand",
+      "The Bing",
+      "The Main Stand",
+      "The Jackie Husband Stand"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Colin Weir Stand"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In 2008–09, Partick Thistle became the first Scottish club to use which colour as their main away colour?",
+    "options": [
+      "Pink",
+      "Lime green",
+      "Orange",
+      "Purple"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Partick Thistle",
+      "pink away kit"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Glasgow rugby team had a residency at Firhill from 2007 to 2012?",
+    "options": [
+      "Glasgow Academicals",
+      "Glasgow Hawks",
+      "West of Scotland",
+      "Glasgow Warriors"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "Firhill",
+      "Glasgow Warriors"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which former Baywatch star is listed among Partick Thistle's famous supporters?",
+    "options": [
+      "David Charvet",
+      "Pamela Anderson",
+      "David Hasselhoff",
+      "Jeremy Jackson"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "David Hasselhoff"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Who was the Partick Thistle goalkeeper in the 1971 League Cup-winning team?",
+    "options": [
+      "Bobby Clark",
+      "Andy Goram",
+      "Jim Leighton",
+      "Alan Rough"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "Alan Rough",
+      "1971 League Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "What was the grass embankment at the south end of Firhill, demolished in 2006, called?",
+    "options": [
+      "The Hill",
+      "The Jungle",
+      "The Bing",
+      "The Shed"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "The Bing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "In 2019–20, Partick Thistle became the first Scottish club to put which flag on a jersey?",
+    "options": [
+      "The Saltire",
+      "The Lion Rampant",
+      "The rainbow flag",
+      "The European flag"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "rainbow flag"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Who scored Partick Thistle's goals at half-time in the 1971 League Cup final, along with Bobby Lawrie and Jimmy Bone?",
+    "options": [
+      "Frank Coulston",
+      "Denis McQuade",
+      "Alex Rae",
+      "Alex Forsyth"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "1971 League Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which club did Partick Thistle beat 2–0 at Falkirk to clinch the 2013 First Division title?",
+    "options": [
+      "Falkirk",
+      "Livingston",
+      "Greenock Morton",
+      "Dundee"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Partick Thistle",
+      "2013"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which team beat Partick Thistle in the 2018 Premiership play-off, sending them down?",
+    "options": [
+      "Hamilton",
+      "Livingston",
+      "St Mirren",
+      "Dundee United"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Partick Thistle",
+      "Livingston",
+      "2018"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "What was the first recorded home ground of Partick Thistle?",
+    "options": [
+      "Jordanvale",
+      "Inchview",
+      "Meadowside",
+      "Overnewton Park"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "Overnewton Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Who was appointed Partick Thistle's first-ever sporting director in April 2025?",
+    "options": [
+      "Brian Graham",
+      "Mark Wilson",
+      "Ian Baraclough",
+      "Alex Rae"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Ian Baraclough"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which BBC political editor is listed among Partick Thistle's famous supporters?",
+    "options": [
+      "Nick Robinson",
+      "Chris Mason",
+      "Andrew Marr",
+      "Laura Kuenssberg"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick Thistle",
+      "Laura Kuenssberg"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "sport",
+    "difficulty": 5,
+    "question": "Who were Partick Thistle's opponents in their first-ever home match at Firhill, in 1909?",
+    "options": [
+      "Dumbarton Harp",
+      "Third Lanark",
+      "Queen's Park",
+      "Clyde"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Partick Thistle",
+      "Firhill",
+      "Dumbarton Harp"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "sport",
+    "difficulty": 5,
+    "question": "What was the attendance at the 1971 League Cup final between Partick Thistle and Celtic?",
+    "options": [
+      "62,470",
+      "81,000",
+      "48,250",
+      "105,200"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Partick Thistle",
+      "1971 League Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "sport",
+    "difficulty": 5,
+    "question": "How much did Partick Thistle pay the Caledonian Railway for the Firhill land in 1909?",
+    "options": [
+      "£12,000",
+      "£25,000",
+      "£5,500",
+      "£1,200"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick Thistle",
+      "Firhill"
+    ],
+    "source": "manual"
+  }
+]

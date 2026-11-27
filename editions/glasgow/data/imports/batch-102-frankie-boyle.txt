@@ -1,0 +1,7 @@
+# Frankie Boyle. Source: https://en.wikipedia.org/wiki/Frankie_Boyle
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Frankie Boyle was a regular on which BBC panel show from its first episode in 2005? | Mock the Week | Have I Got News for You | QI | Never Mind the Buzzcocks | Frankie Boyle; Mock the Week
+2 | film-tv | What was the name of Frankie Boyle's BBC Two chat show that began in 2017? | Frankie Boyle's New World Order | The Frankie Boyle Show | Frankie Tonight | Boyle Point | Frankie Boyle; New World Order
+3 | film-tv | What was Frankie Boyle's 2010 Channel 4 sketch show called? | Tramadol Nights | Deal With This | Frankie's Lot | Boyle Over | Frankie Boyle; Tramadol Nights
+3 | art-culture | What is the title of Frankie Boyle's 2022 crime novel set in Glasgow? | Meantime | Morons | Full Power | Lap of Shame | Frankie Boyle; Meantime
+4 | famous-glaswegians | At which English university did Frankie Boyle study English literature? | Sussex | Aston | Leeds | Warwick | Frankie Boyle; Sussex

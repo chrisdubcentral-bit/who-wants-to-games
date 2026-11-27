@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "What is the title of Jimmy Boyle's 1977 autobiography?",
+    "options": [
+      "Hard Man",
+      "Hero of the Underworld",
+      "Pain of Confinement",
+      "A Sense of Freedom"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jimmy Boyle",
+      "A Sense of Freedom"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which art therapist helped Jimmy Boyle discover art in Barlinnie's Special Unit?",
+    "options": [
+      "Joyce Laing",
+      "Kate Fenwick",
+      "Evlynn Smith",
+      "Sara Trevelyan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jimmy Boyle",
+      "Joyce Laing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What is \"Gulliver\", designed by Jimmy Boyle for the Craigmillar Festival Society?",
+    "options": [
+      "A stage play",
+      "A concrete sculpture",
+      "A mural",
+      "A stained glass window"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Jimmy Boyle",
+      "Gulliver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "To which city did Jimmy Boyle move after his release from prison?",
+    "options": [
+      "Paris",
+      "Dundee",
+      "London",
+      "Edinburgh"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jimmy Boyle",
+      "Edinburgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which Scottish poet was Jimmy Boyle commissioned to make a memorial statue of in 1979?",
+    "options": [
+      "William McGonagall",
+      "Hugh MacDiarmid",
+      "Robert Burns",
+      "Robert Fergusson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jimmy Boyle",
+      "William McGonagall"
+    ],
+    "source": "manual"
+  }
+]

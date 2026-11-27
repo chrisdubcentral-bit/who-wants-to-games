@@ -1,0 +1,5 @@
+# Kenmure Street protests. Source: https://en.wikipedia.org/wiki/Kenmure_Street_protests
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | In which Glasgow area did the 2021 Kenmure Street protest take place? | Pollokshields | Govanhill | Partick | Govan | Kenmure Street; Pollokshields
+3 | history | In which year did hundreds of people surround a Home Office van on Kenmure Street? | 2021 | 2018 | 2016 | 2023 | Kenmure Street
+3 | history | How did one protester, nicknamed "van man", stop the van moving on Kenmure Street? | He lay underneath it | He chained himself to it | He sat on the roof | He let the tyres down | Kenmure Street; van man

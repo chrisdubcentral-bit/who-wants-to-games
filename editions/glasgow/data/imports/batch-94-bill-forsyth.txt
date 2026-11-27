@@ -1,0 +1,7 @@
+# Bill Forsyth. Source: https://en.wikipedia.org/wiki/Bill_Forsyth
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | Which Hollywood legend starred in Bill Forsyth's 1983 film Local Hero? | Burt Lancaster | Kirk Douglas | Gregory Peck | Paul Newman | Bill Forsyth; Local Hero; Burt Lancaster
+2 | film-tv | What was the title of Bill Forsyth's 1999 sequel to Gregory's Girl? | Gregory's Two Girls | Gregory Grows Up | Return of Gregory | Gregory's Girl 2 | Bill Forsyth; Gregory's Two Girls
+3 | film-tv | What was Bill Forsyth's first feature film, made in 1979 with youth theatre actors? | That Sinking Feeling | Gregory's Girl | Local Hero | Comfort and Joy | Bill Forsyth; That Sinking Feeling
+3 | film-tv | Which Hollywood star led Bill Forsyth's 1994 film Being Human? | Robin Williams | Burt Reynolds | Tom Hanks | Bill Murray | Bill Forsyth; Being Human; Robin Williams
+4 | film-tv | Which Glasgow secondary school did director Bill Forsyth leave at 17? | Knightswood Secondary | Hillhead High | Whitehill Secondary | Shawlands Academy | Bill Forsyth; Knightswood

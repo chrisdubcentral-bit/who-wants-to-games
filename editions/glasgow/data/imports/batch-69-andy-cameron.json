@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which comedian sang \"Ally's Tartan Army\" for the 1978 World Cup?",
+    "options": [
+      "Jimmy Logan",
+      "Andy Cameron",
+      "Billy Connolly",
+      "Rikki Fulton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Andy Cameron",
+      "Ally's Tartan Army"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "What position did \"Ally's Tartan Army\" reach in the UK Singles Chart?",
+    "options": [
+      "15",
+      "1",
+      "32",
+      "6"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Andy Cameron",
+      "Ally's Tartan Army"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which character did Andy Cameron play in Take the High Road?",
+    "options": [
+      "Sorry Watson",
+      "Inverdarroch",
+      "Dougal Lachlan",
+      "Chic Cherry"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Andy Cameron",
+      "Take the High Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which burgh south-east of Glasgow was Andy Cameron raised?",
+    "options": [
+      "Cambuslang",
+      "Paisley",
+      "Hamilton",
+      "Rutherglen"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Andy Cameron",
+      "Rutherglen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "On which TV talent show did Andy Cameron come second in 1975?",
+    "options": [
+      "Opportunity Knocks",
+      "Search for a Star",
+      "New Faces",
+      "Rising Stars"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Andy Cameron",
+      "New Faces"
+    ],
+    "source": "manual"
+  }
+]

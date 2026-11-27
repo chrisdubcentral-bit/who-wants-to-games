@@ -1,0 +1,7 @@
+# The Pastels. Source: https://en.wikipedia.org/wiki/The_Pastels
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | glasgow-bands | In which year did The Pastels form in Glasgow? | 1981 | 1976 | 1986 | 1991 | The Pastels
+3 | labels-scene | Which Glasgow record shop are The Pastels partners in? | Monorail | Missing Records | Fopp | Avalanche | The Pastels; Monorail
+3 | songs-albums | Which 1986 NME compilation featured The Pastels? | C86 | C81 | Indie Top 20 | Sound of Young Scotland | The Pastels; C86
+4 | venues-gigs | Where did The Pastels play their first gig? | Bearsden Burgh Hall | King Tut's | The Venue | Glasgow School of Art | The Pastels; Bearsden Burgh Hall
+4 | songs-albums | What was the title of The Pastels' 1987 debut album? | Up for a Bit with The Pastels | Sittin' Pretty | Mobile Safari | Illumination | The Pastels; Up for a Bit with The Pastels

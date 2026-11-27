@@ -1,0 +1,209 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Who designed Ibrox Stadium?",
+    "options": [
+      "Archibald Leitch",
+      "William Leiper",
+      "Alexander Thomson",
+      "Charles Rennie Mackintosh"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ibrox Stadium",
+      "Archibald Leitch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which team did Rangers beat 3-1 when Ibrox Park opened on 30 December 1899?",
+    "options": [
+      "Hibernian",
+      "Hearts",
+      "Celtic",
+      "Queen's Park"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ibrox Stadium",
+      "1899",
+      "Hearts"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "What is Ibrox's record attendance, set against Celtic on 2 January 1939?",
+    "options": [
+      "134,000",
+      "105,412",
+      "98,230",
+      "118,567"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ibrox Stadium",
+      "record attendance",
+      "1939"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "What is the all-seated capacity of Ibrox Stadium?",
+    "options": [
+      "51,700",
+      "44,000",
+      "38,500",
+      "60,411"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ibrox Stadium",
+      "capacity"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which year was Ibrox Park renamed Ibrox Stadium after renovations?",
+    "options": [
+      "2004",
+      "1981",
+      "1997",
+      "1971"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ibrox Stadium",
+      "Ibrox Park",
+      "1997"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which year did the Ibrox Main Stand become a Category B listed building?",
+    "options": [
+      "1929",
+      "1999",
+      "1987",
+      "1971"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ibrox Stadium",
+      "Main Stand",
+      "listed"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "sport",
+    "difficulty": 5,
+    "question": "Which writer called the Ibrox Main Stand Archibald Leitch's \"greatest work\"?",
+    "options": [
+      "Stuart Cosgrove",
+      "Archie Macpherson",
+      "Hugh McIlvanney",
+      "Simon Inglis"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ibrox Stadium",
+      "Main Stand",
+      "Simon Inglis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which sport did Ibrox host at the 2014 Commonwealth Games?",
+    "options": [
+      "Athletics",
+      "Hockey",
+      "Rugby sevens",
+      "Boxing"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ibrox Stadium",
+      "2014 Commonwealth Games",
+      "rugby sevens"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Against which club were the Ibrox floodlights first used, in December 1953?",
+    "options": [
+      "Manchester United",
+      "Tottenham Hotspur",
+      "Real Madrid",
+      "Arsenal"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ibrox Stadium",
+      "floodlights",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What is the name of the east stand at Ibrox Stadium?",
+    "options": [
+      "Copland Road",
+      "Bill Struth Main",
+      "Broomloan Road",
+      "Edmiston Drive"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ibrox Stadium",
+      "Copland Road stand"
+    ],
+    "source": "manual"
+  }
+]

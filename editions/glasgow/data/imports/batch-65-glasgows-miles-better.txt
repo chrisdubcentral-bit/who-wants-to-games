@@ -1,0 +1,7 @@
+# Glasgow's Miles Better. Source: https://en.wikipedia.org/wiki/Glasgow%27s_miles_better
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | history | Which smiling Mr. Men character fronted the "Glasgow's Miles Better" campaign? | Mr. Happy | Mr. Tickle | Mr. Bump | Mr. Strong | Glasgow's Miles Better; Mr. Happy
+2 | history | Which Lord Provost backed the "Glasgow's Miles Better" campaign? | Michael Kelly | Pat Lally | Jean McFadden | Liz Cameron | Glasgow's Miles Better; Michael Kelly
+3 | history | Which advertising man is credited with devising "Glasgow's Miles Better"? | John Struthers | Charles Saatchi | David Ogilvy | Maurice Saatchi | Glasgow's Miles Better; John Struthers
+3 | history | Which famous city campaign did the Lord Provost want Glasgow to emulate? | I Love New York | I amsterdam | Paris, Je T'aime | Visit London | Glasgow's Miles Better; I Love New York
+4 | history | Which city's council banned the "Glasgow's Miles Better" ads from six buses during its festival? | Edinburgh | Aberdeen | Dundee | Perth | Glasgow's Miles Better; Edinburgh

@@ -1,0 +1,7 @@
+# Jim Watt (boxer). Source: https://en.wikipedia.org/wiki/Jim_Watt_(boxer)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | At which weight did Glasgow boxer Jim Watt become world champion? | Lightweight | Flyweight | Welterweight | Heavyweight | Jim Watt; lightweight
+3 | sport | At which Glasgow venue did Jim Watt win the WBC world title in 1979? | Kelvin Hall | Ibrox | The SECC | Hampden | Jim Watt; Kelvin Hall
+3 | sport | To whom did Jim Watt lose his world title in his last fight, in 1981? | Alexis Argüello | Roberto Durán | Howard Davis | Sean O'Grady | Jim Watt; Alexis Argüello
+3 | sport | At which stadium did Jim Watt defend his title against Howard Davis in 1980? | Ibrox Park | Celtic Park | Hampden Park | Firhill | Jim Watt; Ibrox; Howard Davis
+4 | sport | Which commentator did Jim Watt partner on ITV's The Big Fight Live? | Reg Gutteridge | Harry Carpenter | Ian Darke | Barry McGuigan | Jim Watt; Reg Gutteridge

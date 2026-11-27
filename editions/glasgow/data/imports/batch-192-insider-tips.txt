@@ -1,0 +1,32 @@
+# Insider tips and local stories. Source: https://www.visitglasgow.com/plan-your-trip/insider-tips-and-local-stories (and its articles on the Barrowlands, Glasgow's musical history, the Belle and Sebastian trail, Pollok's Highland cows and the Burrell)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | venues-gigs | What part of the Barrowland's original rooftop wheelbarrow figure was saved and put in the foyer? | The cartwheel | The handles | The barrow tray | The neon sign | Barrowland; wheelbarrow; cartwheel
+3 | venues-gigs | What wood is the Barrowland's sprung dancefloor made from? | Canadian maple | Scottish oak | English ash | Swedish pine | Barrowland; dancefloor
+4 | venues-gigs | By 1988, how many steel pillars were needed to hold up the Barrowland's dancefloor? | 18 | 6 | 12 | 30 | Barrowland; dancefloor; 1988
+5 | venues-gigs | The company that installed the Barrowland's steel floor pillars usually designed what? | Oil rigs | Ships | Bridges | Football stadiums | Barrowland; dancefloor
+4 | venues-gigs | Sheet music for which Will Fyffe song is set into the Barrowland's 1960 foyer floor? | I Belong to Glasgow | Glasgow Belongs to Me | The Jeely Piece Song | Roamin' in the Gloamin' | Barrowland; Will Fyffe; I Belong to Glasgow
+3 | venues-gigs | Which band's lyrics are painted up the Barrowland's interior stairs? | Biffy Clyro | Simple Minds | Franz Ferdinand | Mogwai | Barrowland; Biffy Clyro
+4 | venues-gigs | Which band were first to use the lighting rig Simple Minds left at the Barrowland in 1985? | Big Country | Deacon Blue | The Proclaimers | Del Amitri | Barrowland; Simple Minds; Big Country; 1985
+2 | venues-gigs | Which family still owns the Barrowland? | The McIvers | The Kings | The Coias | The Templetons | Barrowland; McIver
+4 | venues-gigs | What did David Bowie keep in his Paris bathroom from the Barrowland? | One of its ceiling stars | A dressing room mirror | Its neon sign | A floorboard | Barrowland; David Bowie
+3 | venues-gigs | On which tour did David Bowie play the Barrowland in 1991? | Tin Machine | Glass Spider | Sound+Vision | Serious Moonlight | Barrowland; David Bowie; Tin Machine; 1991
+3 | history | What was the Royal Conservatoire of Scotland called when it opened in 1847? | The Glasgow Athenaeum | The Glasgow Conservatory | The Andersonian Institute | The Glasgow College of Music | Royal Conservatoire of Scotland; Athenaeum; 1847
+4 | history | Which famous author was invited to the opening of the Glasgow Athenaeum in 1847? | Charles Dickens | Thomas Carlyle | Robert Louis Stevenson | Walter Scott | Royal Conservatoire of Scotland; Athenaeum; Charles Dickens
+2 | film-tv | Which Outlander star is a former student of the Royal Conservatoire of Scotland? | Sam Heughan | Gerard Butler | Ewan McGregor | Billy Connolly | Royal Conservatoire of Scotland; Sam Heughan
+3 | venues-gigs | In which year was the Britannia Panopticon rediscovered above shop floors? | 1997 | 1977 | 1987 | 2007 | Britannia Panopticon; 1997
+4 | venues-gigs | Which American folk singer played Glasgow's Victoria Bar during the Second World War? | Woody Guthrie | Pete Seeger | Lead Belly | Johnny Cash | Victoria Bar; Woody Guthrie
+3 | venues-gigs | How many nights did Frank Sinatra play at the Empire on Sauchiehall Street in 1953? | Five | One | Three | Ten | Frank Sinatra; Empire; 1953
+4 | venues-gigs | Which Glasgow hotel did Frank Sinatra stay at in 1953? | The Central Hotel | The Beresford Hotel | The North British Hotel | The Malmaison | Frank Sinatra; Central Hotel; 1953
+3 | venues-gigs | Which guitarist was on a 1967 bill at Green's Playhouse with Pink Floyd, The Move and The Nice? | Jimi Hendrix | Eric Clapton | Jeff Beck | Pete Townshend | Green's Playhouse; Apollo; Jimi Hendrix; 1967
+3 | venues-gigs | What did Bob Dylan buy at the National Piping Centre in 2011? | A set of bagpipes | A kilt | A fiddle | A tin whistle | National Piping Centre; Bob Dylan; 2011
+4 | glasgow-bands | Which Belle and Sebastian member was a student on the Stow College course behind Electric Honey? | Richard Colburn | Stevie Jackson | Stuart David | Chris Geddes | Belle and Sebastian; Richard Colburn; Electric Honey
+3 | labels-scene | Electric Honey helped build the careers of Biffy Clyro and which other band? | Snow Patrol | Travis | Mogwai | Idlewild | Electric Honey; Snow Patrol; Biffy Clyro
+4 | glasgow-bands | In which bar did Stuart Murdoch and Stevie Jackson meet at an open mic night? | The Halt Bar | The Grosvenor Café | The Sparkle Horse | The Griffin | Belle and Sebastian; Halt Bar
+4 | glasgow-bands | Which music mogul did Belle and Sebastian meet at One Devonshire Gardens? | Seymour Stein | Alan McGee | Geoff Travis | Tony Wilson | Belle and Sebastian; Seymour Stein
+3 | glasgow-bands | Which Belle and Sebastian video is set in Kelvingrove Park? | Like Dylan in the Movies | Dog on Wheels | The Boy with the Arab Strap | Legal Man | Belle and Sebastian; Kelvingrove Park
+3 | glasgow-bands | Which Belle and Sebastian video features the Charing Cross footbridge? | Dog on Wheels | Like Dylan in the Movies | Legal Man | Jonathan David | Belle and Sebastian; Dog on Wheels; Charing Cross
+4 | glasgow-bands | Stuart Murdoch was caretaker of which church while living above its hall? | Broomhill Hyndland Parish Church | Glasgow Cathedral | St Mary's Cathedral | Wellington Church | Belle and Sebastian; Stuart Murdoch; Broomhill
+3 | glasgow-bands | How many people saw Belle and Sebastian's free "School's Out" gig at the Botanic Gardens in 2004? | 12,000 | 3,000 | 25,000 | 50,000 | Belle and Sebastian; Botanic Gardens; 2004
+2 | landmarks | About how many Highland cattle are in Pollok Country Park's fold? | 50 | 10 | 200 | 500 | Pollok; Highland cattle
+1 | patter | What is a group of Highland cattle called? | A fold | A flock | A pack | A clan | Pollok; Highland cattle; fold
+3 | landmarks | For how long have Highland cattle been kept at Pollok Country Park? | Over 180 years | Over 20 years | Over 50 years | Over 300 years | Pollok; Highland cattle

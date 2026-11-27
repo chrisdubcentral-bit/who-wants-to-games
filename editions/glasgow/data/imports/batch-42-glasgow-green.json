@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which is the oldest park in Glasgow?",
+    "options": [
+      "Queen's Park",
+      "Pollok Country Park",
+      "Kelvingrove Park",
+      "Glasgow Green"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Green"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which music festival has been held on Glasgow Green since 2017?",
+    "options": [
+      "Summer Sessions",
+      "TRNSMT",
+      "T in the Park",
+      "Connect"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Green",
+      "TRNSMT"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which inventor had the idea for the separate steam condenser while walking on Glasgow Green?",
+    "options": [
+      "John Logie Baird",
+      "Thomas Telford",
+      "James Watt",
+      "Robert Stevenson"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Green",
+      "James Watt"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which museum of Glasgow history stands on Glasgow Green?",
+    "options": [
+      "Kelvingrove",
+      "The Riverside Museum",
+      "The People's Palace",
+      "The Hunterian"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Green",
+      "People's Palace"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which admiral's monument, erected in 1806, stands on Glasgow Green?",
+    "options": [
+      "Nelson",
+      "Wellington",
+      "Collingwood",
+      "Cochrane"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Green",
+      "Nelson Monument"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which American superstar played his only Scottish concert on Glasgow Green in 1992?",
+    "options": [
+      "Michael Jackson",
+      "Bruce Springsteen",
+      "Prince",
+      "Madonna"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Green",
+      "Michael Jackson",
+      "1992"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which fountain on Glasgow Green was moved there from Kelvingrove Park in 1890?",
+    "options": [
+      "The Stewart Memorial Fountain",
+      "The Doulton Fountain",
+      "The Cameron Fountain",
+      "The Saracen Fountain"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Green",
+      "Doulton Fountain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which king granted the land of Glasgow Green to the people of Glasgow in 1450?",
+    "options": [
+      "David I",
+      "Robert the Bruce",
+      "James II",
+      "James IV"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Green",
+      "James II",
+      "1450"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which arch, funded by James McLennan, stands on Glasgow Green?",
+    "options": [
+      "The Calton Arch",
+      "The McLennan Arch",
+      "The Saltmarket Arch",
+      "The Marble Arch"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Green",
+      "McLennan Arch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which Glasgow football club played its first match on Fleshers' Haugh, Glasgow Green, in 1872?",
+    "options": [
+      "Celtic",
+      "Queen's Park",
+      "Rangers",
+      "Partick Thistle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Green",
+      "Fleshers' Haugh",
+      "Rangers"
+    ],
+    "source": "manual"
+  }
+]

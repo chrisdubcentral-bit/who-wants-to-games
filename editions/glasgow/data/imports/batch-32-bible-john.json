@@ -1,0 +1,100 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which Glasgow dance hall is linked to the unsolved Bible John case of the late 1960s?",
+    "options": [
+      "The Majestic",
+      "The Locarno",
+      "The Plaza",
+      "Barrowland Ballroom"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bible John",
+      "Barrowland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "How did the unidentified suspect known as Bible John get his nickname?",
+    "options": [
+      "He carried a Bible",
+      "He quoted from the Bible",
+      "He left Bible verses",
+      "He was a church minister"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bible John"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which years did the Bible John murders take place?",
+    "options": [
+      "1972 and 1973",
+      "1968 and 1969",
+      "1964 and 1965",
+      "1958 and 1959"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bible John"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In the Bible John case, what was released to the press for the first time in a Scottish murder hunt?",
+    "options": [
+      "A composite drawing of the suspect",
+      "A recording of his voice",
+      "A DNA profile",
+      "His fingerprints"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Bible John",
+      "composite drawing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which convicted killer was speculated to be Bible John in the late 2000s, before police ruled him out?",
+    "options": [
+      "Dennis Nilsen",
+      "Peter Tobin",
+      "Peter Manuel",
+      "Ian Brady"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bible John",
+      "Peter Tobin"
+    ],
+    "source": "manual"
+  }
+]

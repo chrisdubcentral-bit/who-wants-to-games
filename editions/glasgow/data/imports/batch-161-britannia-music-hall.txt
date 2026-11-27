@@ -1,0 +1,7 @@
+# Britannia Music Hall. Source: https://en.wikipedia.org/wiki/Britannia_Music_Hall
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | venues-gigs | Which future Hollywood comedy star made his first stage appearance at Glasgow's Britannia Panopticon in 1906? | Stan Laurel | Charlie Chaplin | Buster Keaton | Harry Lauder | Britannia Panopticon; Stan Laurel
+2 | venues-gigs | On which Glasgow street is the Britannia Panopticon music hall? | Trongate | Sauchiehall Street | Argyle Street | Gallowgate | Britannia Panopticon; Trongate
+3 | venues-gigs | Which showman renamed the Britannia Music Hall the Panopticon in 1906? | A. E. Pickard | Harry McKelvie | Arthur Lloyd | Tom Honeyman | Britannia Panopticon; A. E. Pickard
+3 | venues-gigs | What did A. E. Pickard install in the basement of the Panopticon? | An indoor zoo | A swimming pool | A boxing ring | A cinema | Britannia Panopticon; zoo
+4 | venues-gigs | On which day of the year did the Britannia Music Hall first open in 1859? | Christmas Day | Hogmanay | Burns Night | Easter Sunday | Britannia Panopticon; 1859

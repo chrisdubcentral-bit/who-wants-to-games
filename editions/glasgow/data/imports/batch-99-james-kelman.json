@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which James Kelman novel won the 1994 Booker Prize?",
+    "options": [
+      "The Busconductor Hines",
+      "How Late It Was, How Late",
+      "A Disaffection",
+      "Kieron Smith, Boy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "James Kelman",
+      "Booker Prize"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which year did James Kelman win the Booker Prize?",
+    "options": [
+      "1994",
+      "1989",
+      "1984",
+      "2001"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "James Kelman",
+      "Booker Prize"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What was James Kelman's first published novel, in 1984?",
+    "options": [
+      "A Chancer",
+      "Translated Accounts",
+      "The Busconductor Hines",
+      "A Disaffection"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "James Kelman",
+      "The Busconductor Hines"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which later Booker winner said Kelman's 1994 win changed his life?",
+    "options": [
+      "Alan Warner",
+      "Ian Rankin",
+      "Irvine Welsh",
+      "Douglas Stuart"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "James Kelman",
+      "Douglas Stuart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which James Kelman novel won the James Tait Black Memorial Prize?",
+    "options": [
+      "The Good Times",
+      "Dirt Road",
+      "A Disaffection",
+      "How Late It Was, How Late"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "James Kelman",
+      "A Disaffection"
+    ],
+    "source": "manual"
+  }
+]

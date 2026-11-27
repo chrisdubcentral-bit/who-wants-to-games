@@ -1,0 +1,12 @@
+# Two Doors Down. Source: https://en.wikipedia.org/wiki/Two_Doors_Down_(TV_series)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which actress plays Christine in the sitcom Two Doors Down? | Elaine C. Smith | Arabella Weir | Doon Mackichan | Sharon Rooney | Two Doors Down; Christine; Elaine C. Smith
+2 | film-tv | Which actors play married couple Beth and Eric Baird in Two Doors Down? | Arabella Weir and Alex Norton | Doon Mackichan and Jonathan Watson | Elaine C. Smith and Gregor Fisher | Jane McCarry and Ford Kiernan | Two Doors Down; Beth; Eric
+2 | film-tv | Which actor plays Colin in Two Doors Down? | Jonathan Watson | Alex Norton | Greg Hemphill | Sanjeev Kohli | Two Doors Down; Colin; Jonathan Watson
+2 | film-tv | Who plays Cathy in Two Doors Down? | Doon Mackichan | Arabella Weir | Siobhan Redmond | Joy McAvoy | Two Doors Down; Cathy; Doon Mackichan
+2 | film-tv | Which two writers created Two Doors Down? | Simon Carlyle and Gregor Sharp | Ford Kiernan and Greg Hemphill | Robert Florence and Iain Connell | Ian Pattison and Colin Gilbert | Two Doors Down; Simon Carlyle; Gregor Sharp
+3 | film-tv | Two Doors Down began as a one-off special for which occasion in 2013? | Hogmanay | Christmas Day | Burns Night | Comic Relief | Two Doors Down; Hogmanay
+3 | film-tv | Which actress played Sophie in the early series of Two Doors Down? | Sharon Rooney | Joy McAvoy | Doon Mackichan | Siobhan Redmond | Two Doors Down; Sophie; Sharon Rooney
+3 | film-tv | Which actor plays Ian Baird in Two Doors Down? | Jamie Quinn | Kieran Hodgson | Harki Bhambra | Kevin Guthrie | Two Doors Down; Ian; Jamie Quinn
+4 | film-tv | Which band performs "S.O.B.", the theme tune of Two Doors Down? | Nathaniel Rateliff & the Night Sweats | The Proclaimers | Mumford & Sons | The Lumineers | Two Doors Down; theme tune
+4 | film-tv | Which former wrestler plays Alan in Two Doors Down? | Graeme 'Grado' Stevely | Drew McIntyre | Big Damo | Joe Hendry | Two Doors Down; Grado

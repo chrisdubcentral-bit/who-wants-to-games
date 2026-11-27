@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which rent strike leader was honoured with a statue in Govan in 2018?",
+    "options": [
+      "Helen Crawfurd",
+      "Agnes Dollan",
+      "Mary Barbour",
+      "Jane Rae"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Red Clydeside",
+      "Mary Barbour",
+      "rent strike"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which year did the famous Glasgow rent strike begin?",
+    "options": [
+      "1919",
+      "1911",
+      "1922",
+      "1915"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Red Clydeside",
+      "rent strike"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Who led the Clyde Workers' Committee during Red Clydeside?",
+    "options": [
+      "Willie Gallacher",
+      "Manny Shinwell",
+      "James Maxton",
+      "John Wheatley"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Red Clydeside",
+      "Willie Gallacher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Workers at which Clydebank factory struck in 1911 in support of 12 women?",
+    "options": [
+      "John Brown",
+      "Yarrow",
+      "Beardmore",
+      "Singer"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Red Clydeside",
+      "Singer strike"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "At which general election did several Red Clydesiders win seats in the House of Commons?",
+    "options": [
+      "1922",
+      "1931",
+      "1929",
+      "1918"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Red Clydeside",
+      "1922 election"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "How many tanks arrived in Glasgow in February 1919, after the George Square rally?",
+    "options": [
+      "Twenty",
+      "Six",
+      "Twelve",
+      "Two"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Red Clydeside",
+      "tanks",
+      "1919"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Who was jailed along with Willie Gallacher after the 1919 George Square events?",
+    "options": [
+      "John Maclean",
+      "Manny Shinwell",
+      "James Maxton",
+      "Neil Maclean"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Red Clydeside",
+      "Manny Shinwell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which Clyde Workers' Committee treasurer was attacked leaving the City Chambers in 1919?",
+    "options": [
+      "John Wheatley",
+      "Arthur McManus",
+      "David Kirkwood",
+      "George Buchanan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Red Clydeside",
+      "David Kirkwood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Where did the Women's Peace Crusade arise in November 1916?",
+    "options": [
+      "Clydebank",
+      "Govan",
+      "Partick",
+      "Bridgeton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Red Clydeside",
+      "Women's Peace Crusade"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which man sacked after the 1911 Singer strike became first chairman of the Communist Party of Great Britain?",
+    "options": [
+      "James Maxton",
+      "Arthur McManus",
+      "John Maclean",
+      "Willie Gallacher"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Red Clydeside",
+      "Arthur McManus"
+    ],
+    "source": "manual"
+  }
+]

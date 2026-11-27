@@ -1,0 +1,409 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "In which month is the Glasgow Film Festival held each year?",
+    "options": [
+      "February",
+      "May",
+      "October",
+      "August"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "City Centre",
+      "Glasgow Film Festival"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What does Visit Glasgow call the Glasgow Film Theatre?",
+    "options": [
+      "Scotland's original independent cinema",
+      "Scotland's biggest cinema",
+      "Scotland's oldest picture house",
+      "Scotland's first multiplex"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "City Centre",
+      "Glasgow Film Theatre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which music festival is held on Glasgow Green in the summer?",
+    "options": [
+      "T in the Park",
+      "TRNSMT",
+      "Connect",
+      "Summer Sessions"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "City Centre",
+      "TRNSMT",
+      "Glasgow Green"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which Glasgow music festival is held in the winter?",
+    "options": [
+      "TRNSMT",
+      "Glasgow Jazz Festival",
+      "Celtic Connections",
+      "Merchant City Festival"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "City Centre",
+      "Celtic Connections"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "art-culture",
+    "difficulty": 1,
+    "question": "Glasgow is a UNESCO City of what?",
+    "options": [
+      "Music",
+      "Film",
+      "Literature",
+      "Design"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "City Centre",
+      "UNESCO City of Music"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "From which year are the restored Mackintosh Tearooms?",
+    "options": [
+      "1923",
+      "1912",
+      "1903",
+      "1888"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "City Centre",
+      "Mackintosh Tearooms",
+      "1903"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which newspaper's former building on Renfield Lane is a lesser-known Mackintosh work?",
+    "options": [
+      "Evening Times",
+      "The Herald",
+      "Sunday Post",
+      "Daily Record"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "City Centre",
+      "Daily Record building",
+      "Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which music and vegan venue is in Mackintosh's old Daily Record building?",
+    "options": [
+      "Stereo",
+      "The Hug and Pint",
+      "Nice N Sleazy",
+      "Mono"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "City Centre",
+      "Stereo",
+      "Daily Record building"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "The Tenement House shows life in a Glasgow tenement in which period?",
+    "options": [
+      "The early 1900s",
+      "The 1960s",
+      "The 1750s",
+      "The 1830s"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "City Centre",
+      "Tenement House"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Glasgow library does Visit Glasgow call one of Europe's largest public libraries?",
+    "options": [
+      "The Mitchell Library",
+      "The Hunterian Library",
+      "Baillie's Library",
+      "Stirling's Library"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "City Centre",
+      "Mitchell Library"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "The original House of Fraser store on Buchanan Street has a history dating back to which year?",
+    "options": [
+      "1875",
+      "1849",
+      "1901",
+      "1922"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "City Centre",
+      "House of Fraser",
+      "Buchanan Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "How many outdoor artworks are on the City Centre Contemporary Art Trail?",
+    "options": [
+      "30",
+      "8",
+      "14",
+      "22"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "City Centre",
+      "art trail"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which street artist painted the City Centre mural \"The World's Most Economical Taxi\"?",
+    "options": [
+      "Smug",
+      "Rogue-One",
+      "Banksy",
+      "Conzo Throb"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "City Centre",
+      "mural trail",
+      "Rogue-One"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which instrument is the National Piping Centre dedicated to?",
+    "options": [
+      "The bagpipes",
+      "The fiddle",
+      "The clarsach",
+      "The accordion"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "City Centre",
+      "National Piping Centre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "How many AA Rosettes has the Indian restaurant Swadish won?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "City Centre",
+      "Swadish",
+      "AA Rosettes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Flight Club's weekend \"Brunch Social\" comes with bottomless pizza and which game?",
+    "options": [
+      "Shuffleboard",
+      "Pool",
+      "Bowling",
+      "Darts"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "City Centre",
+      "Flight Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Chaakoo Bombay Cafe draws its inspiration from which country's food?",
+    "options": [
+      "Lebanon",
+      "Thailand",
+      "Turkey",
+      "Iran"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "City Centre",
+      "Chaakoo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Glasgow shopping centre is home to The Lego Store and the Scottish Design Exchange?",
+    "options": [
+      "Silverburn",
+      "Buchanan Galleries",
+      "St Enoch Centre",
+      "Princes Square"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "City Centre",
+      "Buchanan Galleries"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Glasgow shopping centre has a boutique cinema?",
+    "options": [
+      "Argyll Arcade",
+      "Princes Square",
+      "St Enoch Centre",
+      "Buchanan Galleries"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "City Centre",
+      "Princes Square"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Howlin' Wolf, Macsorley's and Berlinkys in the city centre are known for what?",
+    "options": [
+      "Karaoke",
+      "Free live music",
+      "Comedy nights",
+      "Quiz nights"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "City Centre",
+      "live music bars"
+    ],
+    "source": "manual"
+  }
+]

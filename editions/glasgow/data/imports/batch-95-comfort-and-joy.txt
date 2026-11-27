@@ -1,0 +1,7 @@
+# Comfort and Joy (1984 film). Source: https://en.wikipedia.org/wiki/Comfort_and_Joy_(1984_film)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | In Bill Forsyth's Comfort and Joy, the hero is drawn into a war between rival sellers of what? | Ice cream | Fish suppers | Newspapers | Taxis | Comfort and Joy; ice cream war
+2 | film-tv | Which actor plays radio DJ Alan "Dicky" Bird in Comfort and Joy? | Bill Paterson | Robbie Coltrane | Gregor Fisher | Peter Capaldi | Comfort and Joy; Bill Paterson
+3 | film-tv | Which Dire Straits guitarist wrote the music for Comfort and Joy? | Mark Knopfler | David Knopfler | Eric Clapton | Mike Oldfield | Comfort and Joy; Mark Knopfler
+3 | film-tv | Which Scotch and Wry star plays the DJ's boss Hilary in Comfort and Joy? | Rikki Fulton | Stanley Baxter | Jimmy Logan | Andy Cameron | Comfort and Joy; Rikki Fulton
+4 | film-tv | What treat does the DJ suggest the rival vendors sell together at the end of Comfort and Joy? | Ice cream fritters | Deep-fried Mars bars | Knickerbocker glories | Ice lollies | Comfort and Joy; ending

@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "history",
+    "difficulty": 1,
+    "question": "Which unit of power is named after James Watt?",
+    "options": [
+      "The volt",
+      "The joule",
+      "The ampere",
+      "The watt"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "James Watt",
+      "watt"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which town was James Watt born in 1736?",
+    "options": [
+      "Dumbarton",
+      "Greenock",
+      "Glasgow",
+      "Paisley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "James Watt",
+      "Greenock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "With which Birmingham businessman did James Watt form a famous partnership?",
+    "options": [
+      "Josiah Wedgwood",
+      "Richard Arkwright",
+      "Abraham Darby",
+      "Matthew Boulton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "James Watt",
+      "Matthew Boulton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What job did James Watt do at the University of Glasgow?",
+    "options": [
+      "Professor of physics",
+      "Groundsman",
+      "Instrument maker",
+      "Librarian"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "James Watt",
+      "University of Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "James Watt and Matthew Boulton appear together on which Bank of England note?",
+    "options": [
+      "£50",
+      "£10",
+      "£5",
+      "£20"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "James Watt",
+      "£50 note"
+    ],
+    "source": "manual"
+  }
+]

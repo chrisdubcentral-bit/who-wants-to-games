@@ -1,0 +1,22 @@
+# Charles Rennie Mackintosh. Source: https://en.wikipedia.org/wiki/Charles_Rennie_Mackintosh
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | art-culture | Which flower motif is famously linked with Charles Rennie Mackintosh? | The rose | The thistle | The tulip | The lily | Mackintosh; Mackintosh Rose
+2 | art-culture | Which artist did Charles Rennie Mackintosh marry in 1900? | Margaret Macdonald | Frances Macdonald | Jessie Newbery | Catherine Cranston | Mackintosh; Margaret Macdonald
+2 | art-culture | Which Mackintosh house stands in Helensburgh? | The Hill House | Windy Hill | Craigie Hall | Dunglass | Mackintosh; Hill House; Helensburgh
+2 | art-culture | Which Mackintosh design was built in Bellahouston Park long after his death, opening in 1996? | House for an Art Lover | The Hill House | Windy Hill | The Lighthouse | Mackintosh; House for an Art Lover; Bellahouston Park
+2 | art-culture | Which group did Mackintosh form with Margaret and Frances Macdonald and Herbert MacNair? | The Four | The Glasgow Boys | The Colourists | The Secessionists | Mackintosh; The Four; Glasgow Style
+2 | art-culture | For which tearoom owner did Mackintosh design his famous Glasgow tearooms? | Catherine Cranston | Margaret Macdonald | Jessie Newbery | Frances Newbery | Mackintosh; Miss Cranston; Willow Tearooms
+3 | art-culture | What is the former Glasgow Herald building on Mitchell Street, designed by Mackintosh, now called? | The Lighthouse | The Tobacco Exchange | The Herald Rooms | The Beacon | Mackintosh; The Lighthouse; Glasgow Herald
+3 | art-culture | Which Glasgow firm did Mackintosh join as a draughtsman in 1889? | Honeyman and Keppie | Burnet, Son and Campbell | Salmon, Son and Gillespie | John Hutchinson & Co | Mackintosh; Honeyman and Keppie
+3 | art-culture | In which year was Charles Rennie Mackintosh born? | 1868 | 1858 | 1878 | 1888 | Mackintosh
+3 | art-culture | In which area of Glasgow was Mackintosh born, at 70 Parson Street? | Townhead | Dennistoun | Partick | Maryhill | Mackintosh; Townhead
+3 | art-culture | Which Glasgow museum is housed in a school Mackintosh designed in 1906? | Scotland Street School Museum | People's Palace | Riverside Museum | St Mungo Museum | Mackintosh; Scotland Street School
+3 | art-culture | In 1914 Mackintosh moved to Walberswick, in which English county? | Suffolk | Norfolk | Essex | Kent | Mackintosh; Walberswick
+3 | art-culture | Which Glasgow museum's collection includes the reconstructed Mackintosh House? | The Hunterian | Kelvingrove | The Burrell Collection | Gallery of Modern Art | Mackintosh; Mackintosh House; Hunterian
+3 | art-culture | In which year did fire destroy the Glasgow School of Art's library? | 2014 | 2018 | 2010 | 2016 | Mackintosh; Glasgow School of Art fire; 2014
+4 | art-culture | What was Charles Rennie Mackintosh's nickname in letters? | Toshie | Macky | Rennie | Charlie Mac | Mackintosh; Toshie
+4 | art-culture | In 1915, Mackintosh was briefly arrested on suspicion of being what? | A German spy | A bank robber | An art forger | A smuggler | Mackintosh; Walberswick; 1915
+4 | art-culture | In which town is 78 Derngate, designed by Mackintosh for W. J. Bassett-Lowke? | Northampton | Nottingham | Leicester | Bedford | Mackintosh; 78 Derngate; Northampton
+4 | art-culture | In which year did Charles Rennie Mackintosh die? | 1928 | 1918 | 1933 | 1940 | Mackintosh
+4 | art-culture | Mackintosh's work was shown at the 1900 exhibition of which art movement in Vienna? | The Vienna Secession | The Bauhaus | The Wiener Werkstätte | The Jugendstil | Mackintosh; Vienna Secession; 1900
+5 | art-culture | Where in France were Mackintosh's ashes scattered over the Mediterranean? | Port Vendres | Collioure | Nice | Marseille | Mackintosh; Port Vendres

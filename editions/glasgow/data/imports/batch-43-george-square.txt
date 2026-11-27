@@ -1,0 +1,12 @@
+# George Square. Source: https://en.wikipedia.org/wiki/George_Square
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | Which king is George Square named after? | George III | George I | George IV | George V | George Square; George III
+2 | landmarks | Whose statue stands on top of the tall central column in George Square? | Sir Walter Scott | Robert Burns | Queen Victoria | James Watt | George Square; Scott Monument
+2 | landmarks | Which railway station stands on the north side of George Square? | Queen Street | Central | High Street | Argyle Street | George Square; Queen Street
+3 | landmarks | George Square has the only known equestrian statues of which monarch as a young woman? | Queen Victoria | Mary, Queen of Scots | Queen Anne | Elizabeth II | George Square; Queen Victoria
+3 | landmarks | Whose statue, erected in 1819, was the first in George Square? | Sir John Moore | Sir Walter Scott | James Watt | Robert Peel | George Square; Sir John Moore
+3 | landmarks | Which Hollywood zombie film shot scenes in George Square in 2011, dressed as Philadelphia? | World War Z | 28 Days Later | Shaun of the Dead | I Am Legend | George Square; World War Z
+3 | landmarks | Which war memorial on George Square was unveiled by Earl Haig in 1924? | The Cenotaph | The Nelson Monument | The Scott Monument | The Lion Gates | George Square; Cenotaph
+4 | landmarks | How tall is the Scott Monument column in George Square? | 80 feet | 50 feet | 120 feet | 200 feet | George Square; Scott Monument
+4 | landmarks | Which hotel occupies the only surviving original townhouses on George Square? | The Millennium Hotel | The Grand Central | The Malmaison | The Kimpton Blythswood | George Square; Millennium Hotel
+5 | landmarks | Who sculpted the equestrian statues of Victoria and Albert in George Square? | Carlo Marochetti | John Flaxman | Francis Chantrey | John Mossman | George Square; Marochetti

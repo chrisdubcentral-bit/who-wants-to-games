@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "What nickname did Celtic Park get when Celtic moved there in 1892?",
+    "options": [
+      "The Jungle",
+      "Paradise",
+      "The Promised Land",
+      "Heaven"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Parkhead",
+      "Celtic Park",
+      "Paradise"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What is the name of the shopping centre in Parkhead that opened in 1988?",
+    "options": [
+      "Silverburn",
+      "The Forge",
+      "St Enoch Centre",
+      "Braehead"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Parkhead",
+      "The Forge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which engineering firm made Parkhead Forge famous for high grade steel?",
+    "options": [
+      "Harland and Wolff",
+      "Fairfield",
+      "William Beardmore and Company",
+      "Colvilles"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Parkhead",
+      "Beardmore",
+      "Parkhead Forge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year did the Parkhead Forge plant close?",
+    "options": [
+      "1976",
+      "1992",
+      "1988",
+      "1958"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Parkhead Forge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which Glasgow cemetery was laid out beside the Gallowgate in Parkhead in 1847?",
+    "options": [
+      "The Eastern Necropolis",
+      "Janefield Cemetery",
+      "The Southern Necropolis",
+      "Sighthill Cemetery"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Parkhead",
+      "Eastern Necropolis"
+    ],
+    "source": "manual"
+  }
+]

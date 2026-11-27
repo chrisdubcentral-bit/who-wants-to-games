@@ -1,0 +1,22 @@
+# Primal Scream. Source: https://en.wikipedia.org/wiki/Primal_Scream
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | glasgow-bands | Who is the lead singer of Primal Scream? | Bobby Gillespie | Jim Reid | Alex Kapranos | Norman Blake | Primal Scream; Bobby Gillespie
+1 | songs-albums | Which 1991 Primal Scream album won the first Mercury Music Prize? | Screamadelica | XTRMNTR | Vanishing Point | Riot City Blues | Primal Scream; Screamadelica; Mercury Prize
+2 | glasgow-bands | Before concentrating on Primal Scream, Bobby Gillespie was the drummer in which band? | The Jesus and Mary Chain | Teenage Fanclub | The Pastels | Orange Juice | Primal Scream; Bobby Gillespie; The Jesus and Mary Chain
+2 | songs-albums | Which Primal Scream single, a 2006 UK No. 5, was their highest-charting? | Country Girl | Rocks | Kowalski | Loaded | Primal Scream; Country Girl; 2006
+2 | glasgow-bands | Which former Stone Roses bassist joined Primal Scream? | Gary "Mani" Mounfield | Peter Hook | Andy Rourke | Paul Ryder | Primal Scream; Mani; The Stone Roses
+2 | songs-albums | Which DJ remixed a Primal Scream track into the hit "Loaded"? | Andrew Weatherall | Paul Oakenfold | Andrew Innes | Norman Cook | Primal Scream; Loaded; Andrew Weatherall
+2 | glasgow-bands | In which year were Primal Scream formed in Glasgow? | 1982 | 1977 | 1987 | 1991 | Primal Scream; formation
+3 | glasgow-bands | Primal Scream took their name from a line in a song by which band? | The Fall | Joy Division | The Stooges | The Cramps | Primal Scream; band name; The Fall
+3 | songs-albums | Which Primal Scream single reached No. 7 in March 1994? | Rocks | Jailbird | Kowalski | Swastika Eyes | Primal Scream; Rocks; 1994
+3 | songs-albums | Primal Scream's "Vanishing Point" title track came from the soundtrack of which film? | Trainspotting | Shallow Grave | The Acid House | Small Faces | Primal Scream; Vanishing Point; Trainspotting
+3 | glasgow-bands | Which former My Bloody Valentine guitarist worked with Primal Scream from the late 1990s? | Kevin Shields | Bilinda Butcher | Colm Ó Cíosóig | Debbie Googe | Primal Scream; Kevin Shields; My Bloody Valentine
+3 | songs-albums | What was the title of Primal Scream's debut album, released in 1987? | Sonic Flower Groove | Primal Scream | Give Out But Don't Give Up | Velocity Girl | Primal Scream; Sonic Flower Groove
+3 | glasgow-bands | Which guitarist, nicknamed "Throb", died in September 2014? | Robert Young | Andrew Innes | Jim Beattie | Barrie Cadogan | Primal Scream; Robert Young; Throb
+3 | songs-albums | Which supermodel sang "Some Velvet Morning" on Primal Scream's album Evil Heat? | Kate Moss | Naomi Campbell | Helena Christensen | Jodie Kidd | Primal Scream; Evil Heat; Kate Moss
+3 | songs-albums | Which Primal Scream B-side appeared on the C86 compilation? | Velocity Girl | Crystal Crescent | All Fall Down | Gentle Tuesday | Primal Scream; Velocity Girl; C86
+4 | glasgow-bands | Who formed Primal Scream with Bobby Gillespie in 1982? | Jim Beattie | Andrew Innes | Robert Young | Martin Duffy | Primal Scream; Jim Beattie
+4 | songs-albums | Which Manchester singer sang lead on "Higher Than the Sun" and "Don't Fight It, Feel It"? | Denise Johnson | Rowetta | Sonya Madan | Beverley Knight | Primal Scream; Denise Johnson; Screamadelica
+4 | glasgow-bands | Which band was keyboardist Martin Duffy in before joining Primal Scream full time? | Felt | The Loft | The Weather Prophets | The Jasmine Minks | Primal Scream; Martin Duffy; Felt
+4 | songs-albums | What was Primal Scream's twelfth studio album, released in November 2024? | Come Ahead | Chaosmosis | More Light | Beautiful Future | Primal Scream; Come Ahead; 2024
+5 | songs-albums | Which 1999 Primal Scream single reached No. 22? | Swastika Eyes | Kill All Hippies | Accelerator | Miss Lucifer | Primal Scream; Swastika Eyes; XTRMNTR

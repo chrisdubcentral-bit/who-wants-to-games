@@ -1,0 +1,7 @@
+# Tony Curran. Source: https://en.wikipedia.org/wiki/Tony_Curran
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | Which artist did Glasgow actor Tony Curran play in Doctor Who in 2010? | Vincent van Gogh | Pablo Picasso | Claude Monet | Leonardo da Vinci | Tony Curran; Doctor Who; Van Gogh
+3 | film-tv | Which invisible character did Tony Curran play in The League of Extraordinary Gentlemen? | Rodney Skinner | Hawley Griffin | Dorian Gray | Captain Nemo | Tony Curran; League of Extraordinary Gentlemen
+3 | film-tv | For which Glasgow-set film did Tony Curran win Best Actor at the 2006 British Independent Film Awards? | Red Road | Sweet Sixteen | Neds | Young Adam | Tony Curran; Red Road
+4 | film-tv | In which Ridley Scott epic did Tony Curran play Assassin No. 1? | Gladiator | Kingdom of Heaven | Robin Hood | Black Hawk Down | Tony Curran; Gladiator
+4 | film-tv | Which Marvel series saw Tony Curran play a Skrull posing as MI6's "C"? | Secret Invasion | Loki | Hawkeye | Moon Knight | Tony Curran; Secret Invasion

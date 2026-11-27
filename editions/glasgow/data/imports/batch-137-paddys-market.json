@@ -1,0 +1,61 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Paddy's Market in Glasgow was named after which group of immigrants?",
+    "options": [
+      "The Italians",
+      "The Lithuanians",
+      "Highlanders",
+      "The Irish"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paddy's Market"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "On which lane was Glasgow's Paddy's Market?",
+    "options": [
+      "Virginia Lane",
+      "Mitchell Lane",
+      "Shipbank Lane",
+      "Ashton Lane"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paddy's Market",
+      "Shipbank Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year was Paddy's Market closed by Glasgow City Council?",
+    "options": [
+      "1987",
+      "2009",
+      "1999",
+      "2015"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paddy's Market",
+      "2009"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,17 @@
+# Radio Clyde. Source: https://en.wikipedia.org/wiki/Radio_Clyde
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which Glasgow commercial radio station began broadcasting on 31 December 1973? | Radio Clyde | Radio Forth | Radio Scotland | West Sound | Radio Clyde
+2 | film-tv | Radio Clyde was the first Independent Local Radio station outside which city? | London | Manchester | Edinburgh | Birmingham | Radio Clyde; ILR
+2 | film-tv | To which town did Radio Clyde's studios move in 1983? | Clydebank | Paisley | Dumbarton | Motherwell | Radio Clyde; Clydebank
+2 | film-tv | Which two stations did Radio Clyde split into in 1990? | Clyde 1 and Clyde 2 | Clyde FM and Clyde Gold | Clyde West and Clyde East | Clyde Hits and Clyde Classics | Radio Clyde; Clyde 1; Clyde 2
+3 | film-tv | What was Radio Clyde's original slogan? | Radio Clyde, 261, all together now | Glasgow's Number One | The Sound of the West | Hits and Homegrown | Radio Clyde; slogan
+3 | film-tv | On which medium wave wavelength did Radio Clyde launch? | 261 metres | 194 metres | 301 metres | 208 metres | Radio Clyde; 261
+3 | film-tv | Which FM frequency did Radio Clyde later move to? | 102.5 FM | 95.1 FM | 97.6 FM | 105.2 FM | Radio Clyde; 102.5
+3 | film-tv | Where were Radio Clyde's first studios? | The Anderston Centre | Pacific Quay | Queen Margaret Drive | The Barras | Radio Clyde; Anderston Centre
+3 | film-tv | Which Hollywood-based presenter was Radio Clyde's youngest ever DJ? | Ross King | Lorraine Kelly | Kirsty Young | Ewan McGregor | Radio Clyde; Ross King
+3 | film-tv | Which future BBC Breakfast presenter began his journalism career at Radio Clyde? | Bill Turnbull | Dan Walker | Charlie Stayt | Jeremy Bowen | Radio Clyde; Bill Turnbull
+3 | film-tv | What did Radio Clyde plc later rename itself? | Scottish Radio Holdings | Bauer Scotland | Clyde Media Group | West of Scotland Radio | Radio Clyde; Scottish Radio Holdings
+4 | film-tv | Which long-running Radio Clyde show did Tom Russell present? | The Friday Night Rock Show | Superscoreboard | Clyde Club | The Rock Show Saturday | Radio Clyde; Tom Russell
+4 | film-tv | What time did Radio Clyde first go on air on 31 December 1973? | 10.30pm | Midnight | 6am | 7pm | Radio Clyde; launch
+4 | film-tv | What format did Clyde 2 broadcast after the 1990 split? | Classic hits | Top 40 | Talk radio | Country music | Radio Clyde; Clyde 2
+5 | film-tv | What was the name of Radio Clyde's two-hour weekly arts magazine in the 1980s? | Interact | The Arts Hour | Clyde Culture | Artbeat | Radio Clyde; Interact

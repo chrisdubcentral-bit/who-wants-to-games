@@ -1,0 +1,61 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which Glasgow area did the 2021 Kenmure Street protest take place?",
+    "options": [
+      "Partick",
+      "Pollokshields",
+      "Govanhill",
+      "Govan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenmure Street",
+      "Pollokshields"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year did hundreds of people surround a Home Office van on Kenmure Street?",
+    "options": [
+      "2023",
+      "2021",
+      "2016",
+      "2018"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kenmure Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "How did one protester, nicknamed \"van man\", stop the van moving on Kenmure Street?",
+    "options": [
+      "He lay underneath it",
+      "He let the tyres down",
+      "He chained himself to it",
+      "He sat on the roof"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kenmure Street",
+      "van man"
+    ],
+    "source": "manual"
+  }
+]

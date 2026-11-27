@@ -1,0 +1,7 @@
+# Chvrches. Source: https://en.wikipedia.org/wiki/Chvrches
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | glasgow-bands | Who is the lead singer of Glasgow synth-pop band Chvrches? | Lauren Mayberry | Tracyanne Campbell | Amy Macdonald | Nina Nesbitt | Chvrches; Lauren Mayberry
+2 | glasgow-bands | Why do Chvrches spell their name with a "v"? | To stand out from real churches in online searches | It is Latin | A typo on their first poster | It stands for "victory" | Chvrches; band name
+3 | songs-albums | What was Chvrches' debut single, released in November 2012? | The Mother We Share | Recover | Lies | Leave a Trace | Chvrches; The Mother We Share
+3 | songs-albums | Which DJ did Chvrches team up with on the 2019 hit "Here with Me"? | Marshmello | Calvin Harris | Avicii | David Guetta | Chvrches; Marshmello
+4 | songs-albums | Which Cure singer features on Chvrches' 2021 single "How Not to Drown"? | Robert Smith | Morrissey | Ian McCulloch | Siouxsie Sioux | Chvrches; Robert Smith

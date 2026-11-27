@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "labels-scene",
+    "difficulty": 3,
+    "question": "Which hi-fi company released The Blue Nile's debut album as its first record?",
+    "options": [
+      "Bang & Olufsen",
+      "Naim",
+      "Linn",
+      "Cambridge Audio"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Blue Nile",
+      "Linn Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "What was the title of The Blue Nile's 1984 debut album?",
+    "options": [
+      "Hats",
+      "High",
+      "A Walk Across the Rooftops",
+      "Peace at Last"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Blue Nile",
+      "A Walk Across the Rooftops"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "The Blue Nile took their name from a 1962 book by which author?",
+    "options": [
+      "Graham Greene",
+      "Alan Moorehead",
+      "Evelyn Waugh",
+      "Wilbur Smith"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Blue Nile",
+      "band name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which Blue Nile song did Annie Lennox cover on her album Medusa?",
+    "options": [
+      "The Downtown Lights",
+      "Tinseltown in the Rain",
+      "Headlights on the Parade",
+      "Saturday Night"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Blue Nile",
+      "Annie Lennox"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which 1989 Blue Nile album was given a rare five-star review by Q magazine?",
+    "options": [
+      "A Walk Across the Rooftops",
+      "Peace at Last",
+      "Hats",
+      "High"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Blue Nile",
+      "Hats"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which showman commissioned the White Elephant cinema on Kilmarnock Road, which opened in 1927?",
+    "options": [
+      "George Green",
+      "Alexander King",
+      "Harry Barnes",
+      "A.E. Pickard"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "White Elephant",
+      "Kilmarnock Road",
+      "A.E. Pickard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "About how many people could the White Elephant cinema's main auditorium seat?",
+    "options": [
+      "1,900",
+      "900",
+      "600",
+      "3,500"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Elephant",
+      "Kilmarnock Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "After cinema mogul Alexander King bought the White Elephant in 1934, what was it renamed?",
+    "options": [
+      "The Elephant",
+      "The King's",
+      "The Shawlands",
+      "The Ritz"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "White Elephant",
+      "Alexander King",
+      "1934"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "What is Glasgow City Council's motto?",
+    "options": [
+      "Let Glasgow Flourish",
+      "Nemo Me Impune Lacessit",
+      "People Make Glasgow",
+      "Glasgow Smiles Better"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow City Council",
+      "motto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "How many councillors sit on Glasgow City Council?",
+    "options": [
+      "79",
+      "85",
+      "64",
+      "100"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow City Council",
+      "councillors"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "How many wards is Glasgow City Council divided into?",
+    "options": [
+      "32",
+      "23",
+      "21",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow City Council",
+      "wards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was Glasgow City Council created in its modern form?",
+    "options": [
+      "1996",
+      "1889",
+      "1975",
+      "2007"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow City Council",
+      "1996"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which party controlled Glasgow City Council from 1996 to 2017?",
+    "options": [
+      "Liberal Democrats",
+      "Labour",
+      "SNP",
+      "Conservatives"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow City Council",
+      "Labour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Since 1893, the Lord Provost of Glasgow has also held which role?",
+    "options": [
+      "Sheriff Principal",
+      "Rector of Glasgow University",
+      "Lord Lieutenant",
+      "Lord Advocate"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow City Council",
+      "Lord Provost",
+      "Lord Lieutenant"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Who led Glasgow City Council from May 2017 to September 2026?",
+    "options": [
+      "Frank McAveety",
+      "Gordon Matheson",
+      "Susan Aitken",
+      "Nicola Sturgeon"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow City Council",
+      "Susan Aitken"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "Who was the first leader of Glasgow City Council after the 1996 reforms?",
+    "options": [
+      "Steven Purcell",
+      "Bob Gould",
+      "Frank McAveety",
+      "Charles Gordon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow City Council",
+      "Bob Gould",
+      "1996"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which two towns moved from Glasgow to South Lanarkshire after a local referendum?",
+    "options": [
+      "Paisley and Renfrew",
+      "Clydebank and Dalmuir",
+      "Bearsden and Milngavie",
+      "Rutherglen and Cambuslang"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow City Council",
+      "Rutherglen",
+      "Cambuslang"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "Which king granted Glasgow its first burgh charter?",
+    "options": [
+      "William the Lion",
+      "Robert the Bruce",
+      "Alexander II",
+      "David I"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow City Council",
+      "burgh charter",
+      "William the Lion"
+    ],
+    "source": "manual"
+  }
+]

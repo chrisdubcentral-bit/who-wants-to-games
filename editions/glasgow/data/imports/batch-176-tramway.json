@@ -1,0 +1,106 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Peter Brook production was the first show at the Tramway, in 1988?",
+    "options": [
+      "The Mahabharata",
+      "The Tempest",
+      "Carmen",
+      "A Midsummer Night's Dream"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Tramway",
+      "Peter Brook",
+      "1988"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which company moved into its new home at the Tramway in 2009?",
+    "options": [
+      "Scottish Ballet",
+      "Scottish Opera",
+      "Royal Scottish National Orchestra",
+      "National Theatre of Scotland"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Tramway",
+      "Scottish Ballet",
+      "2009"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "The Tramway hosted the Turner Prize in which year?",
+    "options": [
+      "2005",
+      "1990",
+      "2013",
+      "2015"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tramway",
+      "Turner Prize",
+      "2015"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What gardens sit behind the Tramway arts centre?",
+    "options": [
+      "The Winter Gardens",
+      "The Secret Garden",
+      "The Botanic Gardens",
+      "The Hidden Gardens"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tramway",
+      "Hidden Gardens"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "art-culture",
+    "difficulty": 5,
+    "question": "Who was appointed the first General Manager of the Tramway in 2008?",
+    "options": [
+      "Tashi Gore",
+      "Jess Thorpe",
+      "Andrea Gibb",
+      "Sarah Munro"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tramway",
+      "Sarah Munro",
+      "2008"
+    ],
+    "source": "manual"
+  }
+]

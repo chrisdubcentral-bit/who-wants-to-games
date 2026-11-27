@@ -1,0 +1,7 @@
+# Scrooge McDuck. Source: https://en.wikipedia.org/wiki/Scrooge_McDuck
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which Disney cartoon duck's origin is given as Glasgow, Scotland? | Scrooge McDuck | Donald Duck | Daisy Duck | Ludwig Von Drake | Scrooge McDuck; Glasgow
+2 | film-tv | Which cartoonist created Scrooge McDuck in 1947? | Carl Barks | Walt Disney | Don Rosa | Floyd Gottfredson | Scrooge McDuck; Carl Barks
+2 | film-tv | Which Scottish actor voiced Scrooge McDuck in the 2017 DuckTales reboot? | David Tennant | Peter Capaldi | Billy Connolly | Robbie Coltrane | Scrooge McDuck; David Tennant
+3 | film-tv | Scrooge McDuck is the uncle of which famous Disney character? | Donald Duck | Mickey Mouse | Goofy | Daffy Duck | Scrooge McDuck; Donald Duck
+4 | film-tv | On which Scottish moor does the story place Dismal Downs, the McDuck family castle? | Rannoch Moor | Culloden Moor | Fenwick Moor | Eaglesham Moor | Scrooge McDuck; Rannoch Moor

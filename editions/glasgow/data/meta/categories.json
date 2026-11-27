@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    { "key": "glasgow-bands", "label": "Glasgow Bands & Artists", "club": "glasgow", "active": true },
+    { "key": "songs-albums", "label": "Songs & Albums", "club": "glasgow", "active": true },
+    { "key": "venues-gigs", "label": "Venues & Gigs", "club": "glasgow", "active": true },
+    { "key": "labels-scene", "label": "Record Labels & the Scene", "club": "glasgow", "active": true },
+    { "key": "famous-glaswegians", "label": "Famous Glaswegians", "club": "glasgow", "active": true },
+    { "key": "history", "label": "Glasgow History", "club": "glasgow", "active": true },
+    { "key": "landmarks", "label": "Streets & Landmarks", "club": "glasgow", "active": true },
+    { "key": "patter", "label": "Patter & Slang", "club": "glasgow", "active": true },
+    { "key": "food-drink", "label": "Food & Drink", "club": "glasgow", "active": true },
+    { "key": "film-tv", "label": "Film, TV & Comedy", "club": "glasgow", "active": true },
+    { "key": "art-culture", "label": "Art & Culture", "club": "glasgow", "active": true },
+    { "key": "sport", "label": "Sport", "club": "glasgow", "active": true }
+  ]
+}

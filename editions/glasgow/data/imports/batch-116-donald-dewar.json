@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "history",
+    "difficulty": 1,
+    "question": "Who was the first First Minister of Scotland?",
+    "options": [
+      "Alex Salmond",
+      "Donald Dewar",
+      "Jack McConnell",
+      "Henry McLeish"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Donald Dewar",
+      "First Minister"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Donald Dewar is widely remembered by which title?",
+    "options": [
+      "The Iron Chancellor",
+      "Father of the Nation",
+      "The Big Man",
+      "Mr Scotland"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Donald Dewar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "What famous words did Donald Dewar say at the opening of the Scottish Parliament in 1999?",
+    "options": [
+      "There shall be a Scottish parliament",
+      "Let Glasgow flourish",
+      "Scotland is free",
+      "A new dawn has broken"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Donald Dewar",
+      "Scottish Parliament"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which Glasgow constituency did Donald Dewar represent at both Westminster and Holyrood?",
+    "options": [
+      "Glasgow Anniesland",
+      "Glasgow Hillhead",
+      "Glasgow Pollok",
+      "Glasgow Govan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Donald Dewar",
+      "Anniesland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Who succeeded Donald Dewar as First Minister in October 2000?",
+    "options": [
+      "Jack McConnell",
+      "Henry McLeish",
+      "Wendy Alexander",
+      "Alex Salmond"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Donald Dewar",
+      "Henry McLeish"
+    ],
+    "source": "manual"
+  }
+]

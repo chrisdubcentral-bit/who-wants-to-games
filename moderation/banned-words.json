@@ -35,6 +35,13 @@
         "1690", "no surrender", "billy boys", "uvf", "uda", "lvf",
         "hun", "huns", "sevco", "rangers", "gers", "teddy bears"
       ]
+    },
+    "glasgow": {
+      "words": [
+        "fenian", "taig", "papist", "bead rattler", "beadrattler", "ftp", "ftq",
+        "1690", "no surrender", "billy boys", "uvf", "uda", "lvf", "ira",
+        "hun", "huns", "sevco", "orange bastard", "dirty orange", "tarrier"
+      ]
     }
   }
 }

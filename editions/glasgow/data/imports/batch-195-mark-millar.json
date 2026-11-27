@@ -1,0 +1,104 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Comic book writer Mark Millar co-created which superhero series with John Romita Jr.?",
+    "options": [
+      "Kick-Ass",
+      "Preacher",
+      "Watchmen",
+      "The Boys"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mark Millar",
+      "Kick-Ass"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which town was comic book writer Mark Millar born?",
+    "options": [
+      "Motherwell",
+      "Coatbridge",
+      "Paisley",
+      "Airdrie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mark Millar",
+      "Coatbridge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Mark Millar storyline inspired the 2017 film Logan?",
+    "options": [
+      "Weapon X",
+      "Old Man Logan",
+      "Days of Future Past",
+      "Enemy of the State"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mark Millar",
+      "Old Man Logan",
+      "Logan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Mark Millar studied politics and economics at which university before dropping out?",
+    "options": [
+      "Edinburgh University",
+      "Glasgow University",
+      "Strathclyde University",
+      "Stirling University"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mark Millar",
+      "Glasgow University"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which Mark Millar Marvel series did Time magazine call \"the comic book of the decade\"?",
+    "options": [
+      "Civil War",
+      "Old Man Logan",
+      "The Ultimates",
+      "Ultimate X-Men"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mark Millar",
+      "The Ultimates",
+      "Time"
+    ],
+    "source": "manual"
+  }
+]

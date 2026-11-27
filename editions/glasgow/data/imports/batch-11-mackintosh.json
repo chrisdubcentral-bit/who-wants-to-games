@@ -1,0 +1,410 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "art-culture",
+    "difficulty": 1,
+    "question": "Which flower motif is famously linked with Charles Rennie Mackintosh?",
+    "options": [
+      "The lily",
+      "The tulip",
+      "The rose",
+      "The thistle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mackintosh",
+      "Mackintosh Rose"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which artist did Charles Rennie Mackintosh marry in 1900?",
+    "options": [
+      "Frances Macdonald",
+      "Jessie Newbery",
+      "Margaret Macdonald",
+      "Catherine Cranston"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mackintosh",
+      "Margaret Macdonald"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which Mackintosh house stands in Helensburgh?",
+    "options": [
+      "Windy Hill",
+      "Craigie Hall",
+      "The Hill House",
+      "Dunglass"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mackintosh",
+      "Hill House",
+      "Helensburgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which Mackintosh design was built in Bellahouston Park long after his death, opening in 1996?",
+    "options": [
+      "The Hill House",
+      "Windy Hill",
+      "The Lighthouse",
+      "House for an Art Lover"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Mackintosh",
+      "House for an Art Lover",
+      "Bellahouston Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which group did Mackintosh form with Margaret and Frances Macdonald and Herbert MacNair?",
+    "options": [
+      "The Four",
+      "The Colourists",
+      "The Secessionists",
+      "The Glasgow Boys"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mackintosh",
+      "The Four",
+      "Glasgow Style"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "For which tearoom owner did Mackintosh design his famous Glasgow tearooms?",
+    "options": [
+      "Margaret Macdonald",
+      "Jessie Newbery",
+      "Frances Newbery",
+      "Catherine Cranston"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Mackintosh",
+      "Miss Cranston",
+      "Willow Tearooms"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What is the former Glasgow Herald building on Mitchell Street, designed by Mackintosh, now called?",
+    "options": [
+      "The Tobacco Exchange",
+      "The Lighthouse",
+      "The Herald Rooms",
+      "The Beacon"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mackintosh",
+      "The Lighthouse",
+      "Glasgow Herald"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Glasgow firm did Mackintosh join as a draughtsman in 1889?",
+    "options": [
+      "Honeyman and Keppie",
+      "Burnet, Son and Campbell",
+      "Salmon, Son and Gillespie",
+      "John Hutchinson & Co"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mackintosh",
+      "Honeyman and Keppie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which year was Charles Rennie Mackintosh born?",
+    "options": [
+      "1878",
+      "1858",
+      "1888",
+      "1868"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which area of Glasgow was Mackintosh born, at 70 Parson Street?",
+    "options": [
+      "Townhead",
+      "Partick",
+      "Maryhill",
+      "Dennistoun"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mackintosh",
+      "Townhead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Glasgow museum is housed in a school Mackintosh designed in 1906?",
+    "options": [
+      "People's Palace",
+      "Scotland Street School Museum",
+      "St Mungo Museum",
+      "Riverside Museum"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mackintosh",
+      "Scotland Street School"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In 1914 Mackintosh moved to Walberswick, in which English county?",
+    "options": [
+      "Norfolk",
+      "Suffolk",
+      "Essex",
+      "Kent"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mackintosh",
+      "Walberswick"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Glasgow museum's collection includes the reconstructed Mackintosh House?",
+    "options": [
+      "Kelvingrove",
+      "The Hunterian",
+      "The Burrell Collection",
+      "Gallery of Modern Art"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mackintosh",
+      "Mackintosh House",
+      "Hunterian"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which year did fire destroy the Glasgow School of Art's library?",
+    "options": [
+      "2010",
+      "2018",
+      "2016",
+      "2014"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Mackintosh",
+      "Glasgow School of Art fire",
+      "2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "What was Charles Rennie Mackintosh's nickname in letters?",
+    "options": [
+      "Charlie Mac",
+      "Toshie",
+      "Macky",
+      "Rennie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mackintosh",
+      "Toshie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In 1915, Mackintosh was briefly arrested on suspicion of being what?",
+    "options": [
+      "A bank robber",
+      "A German spy",
+      "A smuggler",
+      "An art forger"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mackintosh",
+      "Walberswick",
+      "1915"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In which town is 78 Derngate, designed by Mackintosh for W. J. Bassett-Lowke?",
+    "options": [
+      "Northampton",
+      "Leicester",
+      "Nottingham",
+      "Bedford"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mackintosh",
+      "78 Derngate",
+      "Northampton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In which year did Charles Rennie Mackintosh die?",
+    "options": [
+      "1933",
+      "1918",
+      "1928",
+      "1940"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Mackintosh's work was shown at the 1900 exhibition of which art movement in Vienna?",
+    "options": [
+      "The Wiener Werkstätte",
+      "The Vienna Secession",
+      "The Jugendstil",
+      "The Bauhaus"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mackintosh",
+      "Vienna Secession",
+      "1900"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "art-culture",
+    "difficulty": 5,
+    "question": "Where in France were Mackintosh's ashes scattered over the Mediterranean?",
+    "options": [
+      "Marseille",
+      "Port Vendres",
+      "Nice",
+      "Collioure"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mackintosh",
+      "Port Vendres"
+    ],
+    "source": "manual"
+  }
+]

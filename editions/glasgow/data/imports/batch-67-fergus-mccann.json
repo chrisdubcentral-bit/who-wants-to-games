@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which club did Fergus McCann take over in 1994, when it appeared to face bankruptcy?",
+    "options": [
+      "Partick Thistle",
+      "Rangers",
+      "Hearts",
+      "Celtic"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fergus McCann",
+      "Celtic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "How many years did Fergus McCann say he would stay at Celtic?",
+    "options": [
+      "Two",
+      "Three",
+      "Ten",
+      "Five"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fergus McCann",
+      "Celtic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which year did Celtic win the league under Fergus McCann, stopping Rangers' bid for ten in a row?",
+    "options": [
+      "1996",
+      "1999",
+      "1998",
+      "2001"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Fergus McCann",
+      "1998"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Fergus McCann made his fortune from what kind of company, based in Montreal and Phoenix?",
+    "options": [
+      "A golf holiday company",
+      "A whisky distillery",
+      "A shipping line",
+      "An airline"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Fergus McCann",
+      "golf holidays"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Who became Celtic's largest shareholder when Fergus McCann sold up in 1999?",
+    "options": [
+      "Peter Lawwell",
+      "Brian Quinn",
+      "Michael Kelly",
+      "Dermot Desmond"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fergus McCann",
+      "Dermot Desmond"
+    ],
+    "source": "manual"
+  }
+]

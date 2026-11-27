@@ -1,0 +1,7 @@
+# The Apollo, Glasgow. Source: https://en.wikipedia.org/wiki/The_Apollo,_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | venues-gigs | What was the Glasgow Apollo called when it was a cinema? | Green's Playhouse | The Odeon | The Picture House | The Regal | Glasgow Apollo; Green's Playhouse
+2 | venues-gigs | Which band recorded their first live album, Live!, at the Glasgow Apollo in 1976? | Status Quo | Thin Lizzy | AC/DC | Queen | Glasgow Apollo; Status Quo
+3 | venues-gigs | Which band wore Scottish football strips for the encore when recording a live album at the Apollo in 1978? | AC/DC | Status Quo | Rush | Motörhead | Glasgow Apollo; AC/DC
+3 | venues-gigs | Which Swedish group gave their last live performance in Britain at the Glasgow Apollo in 1979? | ABBA | Roxette | Europe | The Cardigans | Glasgow Apollo; ABBA
+4 | venues-gigs | Which band played the final concert at the Glasgow Apollo in 1985? | The Style Council | Simple Minds | The Jam | Big Country | Glasgow Apollo; The Style Council

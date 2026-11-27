@@ -1,0 +1,7 @@
+# Lulu. Source: https://en.wikipedia.org/wiki/Lulu_(singer)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | songs-albums | What was Lulu's debut single, a UK top ten hit in 1964 when she was 15? | Shout | Relight My Fire | Boom Bang-a-Bang | The Boat That I Row | Lulu; Shout; 1964
+2 | songs-albums | Which band joined Lulu on "Relight My Fire", her first UK No. 1? | Take That | Boyzone | East 17 | Westlife | Lulu; Relight My Fire; Take That
+2 | songs-albums | With which song did Lulu share first place at Eurovision in 1969? | Boom Bang-a-Bang | Puppet on a String | Congratulations | Shout | Lulu; Eurovision 1969; Boom Bang-a-Bang
+3 | famous-glaswegians | Which Bee Gee did Lulu marry in February 1969? | Maurice Gibb | Barry Gibb | Robin Gibb | Andy Gibb | Lulu; Maurice Gibb; Bee Gees
+3 | film-tv | Lulu sang the title song for which 1974 James Bond film? | The Man with the Golden Gun | Live and Let Die | Diamonds Are Forever | The Spy Who Loved Me | Lulu; James Bond; The Man with the Golden Gun

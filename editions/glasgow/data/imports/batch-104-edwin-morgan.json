@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "In 2004, Edwin Morgan was named Scotland's first what?",
+    "options": [
+      "Makar",
+      "Lord Rector",
+      "Children's Laureate",
+      "Poet Laureate"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Edwin Morgan",
+      "Makar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Edwin Morgan poem is named after birds in a famous Glasgow square?",
+    "options": [
+      "Pigeons in Buchanan Street",
+      "Crows on the Necropolis",
+      "Gulls over the Clyde",
+      "Starlings in George Square"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Edwin Morgan",
+      "Starlings in George Square"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Who read Edwin Morgan's poem at the opening of the Scottish Parliament building in 2004?",
+    "options": [
+      "Jackie Kay",
+      "Edwin Morgan himself",
+      "Liz Lochhead",
+      "Sean Connery"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Edwin Morgan",
+      "Scottish Parliament"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Old English epic did Edwin Morgan translate in 1952?",
+    "options": [
+      "Gawain and the Green Knight",
+      "The Odyssey",
+      "Beowulf",
+      "The Canterbury Tales"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Edwin Morgan",
+      "Beowulf"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In which burgh did poet Edwin Morgan grow up?",
+    "options": [
+      "Cambuslang",
+      "Rutherglen",
+      "Paisley",
+      "Bearsden"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Edwin Morgan",
+      "Rutherglen"
+    ],
+    "source": "manual"
+  }
+]

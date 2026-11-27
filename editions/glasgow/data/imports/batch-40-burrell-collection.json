@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "What was Sir William Burrell's business?",
+    "options": [
+      "Banking",
+      "Whisky",
+      "Tobacco",
+      "Shipping"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Burrell Collection",
+      "William Burrell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Who officially opened the Burrell Collection building in 1983?",
+    "options": [
+      "The Queen Mother",
+      "Prince Charles",
+      "Margaret Thatcher",
+      "Queen Elizabeth II"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Burrell Collection",
+      "1983"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "In which year did Sir William Burrell and his wife give their collection to Glasgow?",
+    "options": [
+      "1958",
+      "1944",
+      "1967",
+      "1925"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Burrell Collection",
+      "1944"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which French artist is the Burrell Collection known for holding over 20 works by?",
+    "options": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Henri Matisse",
+      "Edgar Degas"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Burrell Collection",
+      "Degas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which award did the Burrell Collection win in 2023 after its refurbishment?",
+    "options": [
+      "Art Fund Museum of the Year",
+      "Stirling Prize",
+      "European Museum of the Year",
+      "Turner Prize"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Burrell Collection",
+      "Art Fund Museum of the Year"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which year did the Burrell Collection reopen after its refurbishment?",
+    "options": [
+      "2020",
+      "2019",
+      "2024",
+      "2022"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Burrell Collection",
+      "reopening"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Who won the competition to design the Burrell Collection building?",
+    "options": [
+      "Barry Gasson",
+      "Zaha Hadid",
+      "Basil Spence",
+      "Norman Foster"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Burrell Collection",
+      "Barry Gasson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which king officially reopened the Burrell Collection in October 2022?",
+    "options": [
+      "King William",
+      "King George",
+      "King Edward",
+      "King Charles III"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Burrell Collection",
+      "King Charles III"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "How much did the Burrell Collection's refurbishment cost?",
+    "options": [
+      "£120 million",
+      "£68.25 million",
+      "£9.6 million",
+      "£29.8 million"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Burrell Collection",
+      "refurbishment"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "The famous Wagner Garden Carpet in the Burrell Collection comes from which country?",
+    "options": [
+      "Turkey",
+      "China",
+      "Iran",
+      "India"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Burrell Collection",
+      "Wagner Garden Carpet"
+    ],
+    "source": "manual"
+  }
+]

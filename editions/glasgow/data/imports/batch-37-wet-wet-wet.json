@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which Wet Wet Wet song spent 15 weeks at No. 1 after featuring in Four Weddings and a Funeral?",
+    "options": [
+      "Sweet Little Mystery",
+      "Love Is All Around",
+      "Wishing I Was Lucky",
+      "Goodnight Girl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Wet Wet Wet",
+      "Love Is All Around"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "In which town did Wet Wet Wet form in 1982?",
+    "options": [
+      "Dumbarton",
+      "Motherwell",
+      "Paisley",
+      "Clydebank"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Wet Wet Wet",
+      "Clydebank"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "What is the stage name of Wet Wet Wet singer Mark McLachlan?",
+    "options": [
+      "Graeme Clark",
+      "Neil Mitchell",
+      "Marti Pellow",
+      "Tommy Cunningham"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Wet Wet Wet",
+      "Marti Pellow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Wet Wet Wet took their name from a lyric by which band?",
+    "options": [
+      "Scritti Politti",
+      "Altered Images",
+      "The Associates",
+      "Orange Juice"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Wet Wet Wet",
+      "band name",
+      "Scritti Politti"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Beatles cover gave Wet Wet Wet their first UK No. 1 in 1988?",
+    "options": [
+      "With a Little Help from My Friends",
+      "Let It Be",
+      "Help!",
+      "Yesterday"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Wet Wet Wet",
+      "With a Little Help from My Friends"
+    ],
+    "source": "manual"
+  }
+]

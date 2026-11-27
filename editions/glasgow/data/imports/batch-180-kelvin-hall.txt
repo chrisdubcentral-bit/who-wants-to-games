@@ -1,0 +1,12 @@
+# Kelvin Hall. Source: https://en.wikipedia.org/wiki/Kelvin_Hall
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | In which year did Kelvin Hall open as an exhibition venue? | 1927 | 1901 | 1938 | 1951 | Kelvin Hall; 1927
+3 | history | What destroyed the first Kelvin Hall in 1925? | Fire | A storm | Flooding | A gas explosion | Kelvin Hall; fire; 1925
+3 | history | During the Second World War, Kelvin Hall became a factory making what? | Barrage balloons | Tanks | Parachutes | Torpedoes | Kelvin Hall; Second World War; balloons
+2 | sport | Which Scottish boxer took over Roberto Durán's world lightweight title at Kelvin Hall in April 1979? | Jim Watt | Ken Buchanan | Walter McGowan | Scott Harrison | Kelvin Hall; Jim Watt; 1979
+3 | venues-gigs | Which band recorded a live album at Kelvin Hall in April 1967? | The Kinks | The Who | The Small Faces | The Rolling Stones | Kelvin Hall; The Kinks; 1967
+4 | venues-gigs | Which Scottish band played its debut concert at Kelvin Hall in 1973? | Runrig | Big Country | Simple Minds | Capercaillie | Kelvin Hall; Runrig; 1973
+4 | venues-gigs | Who performed Tubular Bells at Kelvin Hall with the Scottish National Orchestra in 1975? | Mike Oldfield | Rick Wakeman | Jean-Michel Jarre | Vangelis | Kelvin Hall; Mike Oldfield; 1975
+4 | history | Which American evangelist preached daily at Kelvin Hall for six weeks in 1955? | Billy Graham | Oral Roberts | Billy Sunday | Pat Robertson | Kelvin Hall; Billy Graham; 1955
+3 | landmarks | Which subway station serves Kelvin Hall? | Kelvinhall | Hillhead | Partick | Kelvinbridge | Kelvin Hall; subway
+5 | venues-gigs | Which band supported Jerry Lee Lewis at Kelvin Hall in 1964 and were booed off? | The Animals | The Yardbirds | The Hollies | Them | Kelvin Hall; Jerry Lee Lewis; The Animals; 1964

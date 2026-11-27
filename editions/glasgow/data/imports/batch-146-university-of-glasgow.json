@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which famous economist studied at the University of Glasgow?",
+    "options": [
+      "John Maynard Keynes",
+      "Adam Smith",
+      "Karl Marx",
+      "David Ricardo"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "University of Glasgow",
+      "Adam Smith"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which year did the University of Glasgow move to Gilmorehill?",
+    "options": [
+      "1870",
+      "1820",
+      "1901",
+      "1451"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "University of Glasgow",
+      "Gilmorehill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which pope issued the bull founding the University of Glasgow?",
+    "options": [
+      "Nicholas V",
+      "Sixtus IV",
+      "Alexander VI",
+      "Pius II"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "University of Glasgow",
+      "Nicholas V"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which bishop received permission to found the University of Glasgow?",
+    "options": [
+      "James Beaton",
+      "William Turnbull",
+      "Robert Wishart",
+      "Jocelin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "University of Glasgow",
+      "William Turnbull"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Where did teaching first take place at the University of Glasgow?",
+    "options": [
+      "The Chapter House of Glasgow Cathedral",
+      "The Tron Kirk",
+      "The Tolbooth",
+      "Provand's Lordship"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "University of Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What is the University of Glasgow's Latin motto?",
+    "options": [
+      "Via, Veritas, Vita",
+      "Let Glasgow Flourish",
+      "Nemo Me Impune Lacessit",
+      "Lux et Veritas"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "University of Glasgow",
+      "motto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which whistleblower was elected rector of the University of Glasgow in 2014?",
+    "options": [
+      "Chelsea Manning",
+      "Julian Assange",
+      "Daniel Ellsberg",
+      "Edward Snowden"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "University of Glasgow",
+      "rector",
+      "Edward Snowden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which Olympic rower is the University of Glasgow's first female chancellor?",
+    "options": [
+      "Dame Kelly Holmes",
+      "Dame Katherine Grainger",
+      "Laura Muir",
+      "Eilidh Doyle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "University of Glasgow",
+      "Katherine Grainger"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which famous physicist gave the first Gibson Lecture at the University of Glasgow in 1933?",
+    "options": [
+      "Niels Bohr",
+      "Max Planck",
+      "Albert Einstein",
+      "Marie Curie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "University of Glasgow",
+      "Einstein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In 2014, Glasgow became the first academic institution in Europe to divest from what?",
+    "options": [
+      "Fossil fuels",
+      "Arms",
+      "Tobacco",
+      "Gambling"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "University of Glasgow",
+      "divestment"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,17 @@
+# Belle and Sebastian. Source: https://en.wikipedia.org/wiki/Belle_and_Sebastian
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | glasgow-bands | Who is the lead singer and main songwriter of Belle and Sebastian? | Stuart Murdoch | Stevie Jackson | Stuart David | Norman Blake | Belle and Sebastian; Stuart Murdoch
+2 | glasgow-bands | Which Brit Award did Belle and Sebastian win in 1999, beating Steps and 5ive? | Best Newcomer | Best British Group | Best British Album | Best Live Act | Belle and Sebastian; Brit Awards 1999
+2 | glasgow-bands | What was the first Belle and Sebastian album, recorded for a college label in 1996? | Tigermilk | If You're Feeling Sinister | The Boy with the Arab Strap | Write About Love | Belle and Sebastian; Tigermilk
+2 | glasgow-bands | Which instrument did Isobel Campbell play in Belle and Sebastian? | Cello | Violin | Trumpet | Flute | Belle and Sebastian; Isobel Campbell
+2 | labels-scene | Which Glasgow college's music business course released Belle and Sebastian's first album? | Stow College | Glasgow Caledonian University | Glasgow School of Art | Langside College | Belle and Sebastian; Stow College; Electric Honey
+3 | glasgow-bands | Belle and Sebastian took their name from a 1965 TV series about a boy and his what? | Dog | Horse | Cat | Donkey | Belle and Sebastian; band name
+3 | songs-albums | Which Belle and Sebastian album caused some tension with another Scottish band over its title? | The Boy with the Arab Strap | Dear Catastrophe Waitress | The Life Pursuit | Fold Your Hands Child | Belle and Sebastian; The Boy with the Arab Strap; Arab Strap
+3 | songs-albums | Which famous producer worked on Belle and Sebastian's 2003 album Dear Catastrophe Waitress? | Trevor Horn | Tony Hoffer | Mike Hurst | Stephen Street | Belle and Sebastian; Dear Catastrophe Waitress; Trevor Horn
+3 | venues-gigs | What was the name of the festival Belle and Sebastian hosted in 1999? | The Bowlie Weekender | The Sinister Weekender | Belle Fest | The Tigermilk Weekender | Belle and Sebastian; Bowlie Weekender
+3 | songs-albums | Which Belle and Sebastian single gave the band their first Top of the Pops appearance? | Legal Man | I'm a Cuckoo | Funny Little Frog | Jonathan David | Belle and Sebastian; Legal Man; Top of the Pops
+3 | labels-scene | Which label did Belle and Sebastian sign to in 2002 after leaving Jeepster? | Rough Trade | Domino | Creation | Chemikal Underground | Belle and Sebastian; Rough Trade
+4 | glasgow-bands | Which magazine voted Belle and Sebastian Scotland's greatest band in January 2005? | The List | NME | The Skinny | Q | Belle and Sebastian; The List
+4 | songs-albums | Which Belle and Sebastian single, from The Life Pursuit, was their highest-charting? | Funny Little Frog | I'm a Cuckoo | Legal Man | Step into My Office, Baby | Belle and Sebastian; Funny Little Frog
+4 | venues-gigs | Belle and Sebastian played which famous US venue with the Los Angeles Philharmonic in 2006? | The Hollywood Bowl | Madison Square Garden | Carnegie Hall | Red Rocks | Belle and Sebastian; Hollywood Bowl; 2006
+5 | glasgow-bands | Which band did Stuart David leave Belle and Sebastian to concentrate on? | Looper | The Reindeer Section | The Gentle Waves | V-Twin | Belle and Sebastian; Stuart David; Looper

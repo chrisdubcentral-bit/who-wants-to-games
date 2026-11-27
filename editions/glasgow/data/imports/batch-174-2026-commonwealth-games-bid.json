@@ -1,0 +1,105 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "On what date was Glasgow announced as host of the 2026 Commonwealth Games?",
+    "options": [
+      "11 April 2024",
+      "17 September 2024",
+      "1 January 2025",
+      "30 August 2024"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "2026 Commonwealth Games",
+      "announcement"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "How many sports were planned for Glasgow's 2026 Commonwealth Games?",
+    "options": [
+      "Ten",
+      "Fourteen",
+      "Six",
+      "Eighteen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "2026 Commonwealth Games",
+      "sports"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which stadium was named as the athletics venue for Glasgow's 2026 Commonwealth Games?",
+    "options": [
+      "Scotstoun Stadium",
+      "Ibrox Stadium",
+      "Hampden Park",
+      "Celtic Park"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "2026 Commonwealth Games",
+      "Scotstoun",
+      "athletics"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Where were swimming and diving to be held at Glasgow's 2026 Commonwealth Games?",
+    "options": [
+      "Govanhill Baths",
+      "Tollcross International Swimming Centre",
+      "Bellahouston Leisure Centre",
+      "Kelvin Hall"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "2026 Commonwealth Games",
+      "Tollcross",
+      "swimming"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "How much did the UK Government pledge towards security for Glasgow's 2026 Commonwealth Games?",
+    "options": [
+      "£2 million",
+      "£20 million",
+      "£200,000",
+      "£50 million"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "2026 Commonwealth Games",
+      "security",
+      "funding"
+    ],
+    "source": "manual"
+  }
+]

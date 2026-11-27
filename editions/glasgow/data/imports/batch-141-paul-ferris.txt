@@ -1,0 +1,5 @@
+# Paul Ferris. Source: https://en.wikipedia.org/wiki/Paul_Ferris_(Scottish_writer)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | Which actor played Paul Ferris in the 2013 film The Wee Man? | Martin Compston | James McAvoy | Robert Carlyle | Gerard Butler | Paul Ferris; The Wee Man; Martin Compston
+3 | art-culture | What was the title of Paul Ferris's first book, published in 2001? | The Ferris Conspiracy | Deadly Divisions | Vendetta | Villains | Paul Ferris; The Ferris Conspiracy
+3 | famous-glaswegians | In which Glasgow district was Paul Ferris born? | Blackhill | Easterhouse | Possilpark | Govan | Paul Ferris; Blackhill

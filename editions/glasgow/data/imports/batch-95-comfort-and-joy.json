@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In Bill Forsyth's Comfort and Joy, the hero is drawn into a war between rival sellers of what?",
+    "options": [
+      "Fish suppers",
+      "Ice cream",
+      "Taxis",
+      "Newspapers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Comfort and Joy",
+      "ice cream war"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actor plays radio DJ Alan \"Dicky\" Bird in Comfort and Joy?",
+    "options": [
+      "Bill Paterson",
+      "Peter Capaldi",
+      "Robbie Coltrane",
+      "Gregor Fisher"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Comfort and Joy",
+      "Bill Paterson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Dire Straits guitarist wrote the music for Comfort and Joy?",
+    "options": [
+      "Mark Knopfler",
+      "Eric Clapton",
+      "David Knopfler",
+      "Mike Oldfield"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Comfort and Joy",
+      "Mark Knopfler"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Scotch and Wry star plays the DJ's boss Hilary in Comfort and Joy?",
+    "options": [
+      "Stanley Baxter",
+      "Jimmy Logan",
+      "Andy Cameron",
+      "Rikki Fulton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Comfort and Joy",
+      "Rikki Fulton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What treat does the DJ suggest the rival vendors sell together at the end of Comfort and Joy?",
+    "options": [
+      "Ice lollies",
+      "Knickerbocker glories",
+      "Deep-fried Mars bars",
+      "Ice cream fritters"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Comfort and Joy",
+      "ending"
+    ],
+    "source": "manual"
+  }
+]

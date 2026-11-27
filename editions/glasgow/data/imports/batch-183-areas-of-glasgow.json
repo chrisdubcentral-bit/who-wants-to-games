@@ -1,0 +1,604 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "In which part of Glasgow will you find Byres Road?",
+    "options": [
+      "East End",
+      "Southside",
+      "North",
+      "West End"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Byres Road"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "In which part of Glasgow is Kelvingrove Art Gallery and Museum?",
+    "options": [
+      "Southside",
+      "East End",
+      "North",
+      "West End"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Kelvingrove"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "The University of Glasgow's main campus at Gilmorehill is in which part of the city?",
+    "options": [
+      "Southside",
+      "North",
+      "West End",
+      "East End"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "areas",
+      "University of Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "In which part of Glasgow are the Botanic Gardens?",
+    "options": [
+      "North",
+      "West End",
+      "East End",
+      "Southside"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "areas",
+      "Botanic Gardens"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Hyndland is in which part of Glasgow?",
+    "options": [
+      "East End",
+      "West End",
+      "North",
+      "Southside"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "areas",
+      "Hyndland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which part of Glasgow is Partick in?",
+    "options": [
+      "East End",
+      "Southside",
+      "West End",
+      "North"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "areas",
+      "Partick"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Hillhead is a district in which part of Glasgow?",
+    "options": [
+      "West End",
+      "North",
+      "Southside",
+      "East End"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "areas",
+      "Hillhead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Ashton Lane, with its bars and cobbles, is in which part of Glasgow?",
+    "options": [
+      "North",
+      "West End",
+      "Southside",
+      "East End"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "areas",
+      "Ashton Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "In which part of Glasgow is Shawlands?",
+    "options": [
+      "West End",
+      "Southside",
+      "East End",
+      "North"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "areas",
+      "Shawlands"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Govanhill is in which part of Glasgow?",
+    "options": [
+      "East End",
+      "Southside",
+      "West End",
+      "North"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "areas",
+      "Govanhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which part of Glasgow is Queen's Park in?",
+    "options": [
+      "East End",
+      "West End",
+      "North",
+      "Southside"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Queen's Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "The Burrell Collection in Pollok Country Park is in which part of Glasgow?",
+    "options": [
+      "West End",
+      "North",
+      "East End",
+      "Southside"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Burrell Collection",
+      "Pollok"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Hampden Park, Scotland's national stadium, is in which part of Glasgow?",
+    "options": [
+      "West End",
+      "North",
+      "Southside",
+      "East End"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "areas",
+      "Hampden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Strathbungo is a district in which part of Glasgow?",
+    "options": [
+      "West End",
+      "East End",
+      "North",
+      "Southside"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Strathbungo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "In which part of Glasgow will you find Castlemilk?",
+    "options": [
+      "West End",
+      "Southside",
+      "North",
+      "East End"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "areas",
+      "Castlemilk"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Cathcart is in which part of Glasgow?",
+    "options": [
+      "North",
+      "Southside",
+      "West End",
+      "East End"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "areas",
+      "Cathcart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Celtic Park in Parkhead is in which part of Glasgow?",
+    "options": [
+      "North",
+      "Southside",
+      "West End",
+      "East End"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Parkhead",
+      "Celtic Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "In which part of Glasgow is Dennistoun?",
+    "options": [
+      "Southside",
+      "North",
+      "East End",
+      "West End"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "areas",
+      "Dennistoun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Bridgeton is a district in which part of Glasgow?",
+    "options": [
+      "North",
+      "Southside",
+      "West End",
+      "East End"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Bridgeton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "The Barras market is in which part of Glasgow?",
+    "options": [
+      "West End",
+      "North",
+      "Southside",
+      "East End"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Barras"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which part of Glasgow is Shettleston in?",
+    "options": [
+      "East End",
+      "Southside",
+      "North",
+      "West End"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "areas",
+      "Shettleston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "In which part of Glasgow will you find Tollcross?",
+    "options": [
+      "North",
+      "East End",
+      "Southside",
+      "West End"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "areas",
+      "Tollcross"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Easterhouse is in which part of Glasgow?",
+    "options": [
+      "North",
+      "East End",
+      "West End",
+      "Southside"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "areas",
+      "Easterhouse"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "In which part of Glasgow is Springburn?",
+    "options": [
+      "Southside",
+      "East End",
+      "West End",
+      "North"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Springburn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Possilpark is a district in which part of Glasgow?",
+    "options": [
+      "Southside",
+      "West End",
+      "East End",
+      "North"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Possilpark"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which part of Glasgow is Maryhill in?",
+    "options": [
+      "East End",
+      "Southside",
+      "North",
+      "West End"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "areas",
+      "Maryhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Ruchill is in which part of Glasgow?",
+    "options": [
+      "West End",
+      "East End",
+      "North",
+      "Southside"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "areas",
+      "Ruchill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "In which part of Glasgow will you find Milton?",
+    "options": [
+      "East End",
+      "West End",
+      "Southside",
+      "North"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "areas",
+      "Milton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Balornock is a district in which part of Glasgow?",
+    "options": [
+      "Southside",
+      "East End",
+      "North",
+      "West End"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "areas",
+      "Balornock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Lambhill is in which part of Glasgow?",
+    "options": [
+      "North",
+      "Southside",
+      "East End",
+      "West End"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "areas",
+      "Lambhill"
+    ],
+    "source": "manual"
+  }
+]

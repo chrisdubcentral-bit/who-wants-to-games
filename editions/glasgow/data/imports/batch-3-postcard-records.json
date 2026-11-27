@@ -1,0 +1,104 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "labels-scene",
+    "difficulty": 2,
+    "question": "What was the motto of Glasgow's Postcard Records?",
+    "options": [
+      "The Sound of Young Scotland",
+      "Scotland's Finest Pop",
+      "The Sound of the Clyde",
+      "Glasgow Calling"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Postcard Records",
+      "motto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "labels-scene",
+    "difficulty": 2,
+    "question": "Who founded Postcard Records in Glasgow in 1979?",
+    "options": [
+      "Bob Last",
+      "Stewart Henderson",
+      "Alan Horne",
+      "Alan McGee"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Postcard Records",
+      "Alan Horne"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "labels-scene",
+    "difficulty": 3,
+    "question": "What is the logo of Postcard Records?",
+    "options": [
+      "A smiling postman",
+      "A bird on a branch",
+      "A dog with a gramophone",
+      "A cartoon cat beating a drum"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Postcard Records",
+      "logo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Orange Juice single was the first release on Postcard Records?",
+    "options": [
+      "Blue Boy",
+      "Simply Thrilled Honey",
+      "Falling and Laughing",
+      "Poor Old Soul"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Postcard Records",
+      "Orange Juice",
+      "Falling and Laughing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "labels-scene",
+    "difficulty": 4,
+    "question": "Which major label did Orange Juice leave Postcard to join in 1981?",
+    "options": [
+      "CBS",
+      "Polydor",
+      "EMI",
+      "Virgin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Postcard Records",
+      "Orange Juice",
+      "Polydor"
+    ],
+    "source": "manual"
+  }
+]

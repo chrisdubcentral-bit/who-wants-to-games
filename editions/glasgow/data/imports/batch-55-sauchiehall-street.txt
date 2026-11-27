@@ -1,0 +1,7 @@
+# Sauchiehall Street. Source: https://en.wikipedia.org/wiki/Sauchiehall_Street
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | The name Sauchiehall comes from Scots words for a meadow full of which trees? | Willows | Oaks | Birches | Rowans | Sauchiehall Street; name
+3 | landmarks | In which year was the first stretch of Sauchiehall Street pedestrianised? | 1972 | 1958 | 1985 | 1999 | Sauchiehall Street; pedestrianisation
+3 | venues-gigs | Which Sauchiehall Street theatre hosted Frank Sinatra and Judy Garland before closing in 1963? | The Glasgow Empire | The Alhambra | The Pavilion | The Metropole | Sauchiehall Street; Glasgow Empire
+3 | landmarks | Which concert hall stands at the eastern end of Sauchiehall Street? | Glasgow Royal Concert Hall | City Halls | The Old Fruitmarket | The Usher Hall | Sauchiehall Street; Royal Concert Hall
+4 | landmarks | Which hotel, built for the 1938 Empire Exhibition, was called Glasgow's first "skyscraper"? | The Beresford | The Central | The Grand | The North British | Sauchiehall Street; Beresford Hotel

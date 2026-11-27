@@ -1,0 +1,7 @@
+# Argyle Street. Source: https://en.wikipedia.org/wiki/Argyle_Street,_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | What is the railway bridge over Argyle Street at Central Station known as? | The Hielanman's Umbrella | The Squinty Bridge | The Clyde Arc | The Glesga Brolly | Argyle Street; Hielanman's Umbrella
+2 | landmarks | Argyle Street was renamed in honour of which nobleman? | The Duke of Argyll | The Duke of Hamilton | The Earl of Glasgow | The Marquess of Bute | Argyle Street; Duke of Argyll
+3 | landmarks | What kind of shops mainly fill the Argyll Arcade? | Jewellers | Bookshops | Tailors | Toyshops | Argyle Street; Argyll Arcade
+3 | landmarks | What was Argyle Street originally called? | Westergait | St Thenew's Gait | The Drygate | Westport Road | Argyle Street; Westergait
+4 | landmarks | What does Argyle Street become as it crosses the River Kelvin into Partick? | Dumbarton Road | Byres Road | Crow Road | Great Western Road | Argyle Street; Dumbarton Road

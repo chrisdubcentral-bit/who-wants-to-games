@@ -1,0 +1,22 @@
+# Glasgow City Centre. Source: https://www.visitglasgow.com/neighbourhoods/city-centre
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | In which month is the Glasgow Film Festival held each year? | February | August | May | October | City Centre; Glasgow Film Festival
+2 | film-tv | What does Visit Glasgow call the Glasgow Film Theatre? | Scotland's original independent cinema | Scotland's biggest cinema | Scotland's oldest picture house | Scotland's first multiplex | City Centre; Glasgow Film Theatre
+2 | venues-gigs | Which music festival is held on Glasgow Green in the summer? | TRNSMT | T in the Park | Connect | Summer Sessions | City Centre; TRNSMT; Glasgow Green
+2 | venues-gigs | Which Glasgow music festival is held in the winter? | Celtic Connections | TRNSMT | Merchant City Festival | Glasgow Jazz Festival | City Centre; Celtic Connections
+1 | art-culture | Glasgow is a UNESCO City of what? | Music | Literature | Design | Film | City Centre; UNESCO City of Music
+3 | landmarks | From which year are the restored Mackintosh Tearooms? | 1903 | 1888 | 1912 | 1923 | City Centre; Mackintosh Tearooms; 1903
+3 | landmarks | Which newspaper's former building on Renfield Lane is a lesser-known Mackintosh work? | Daily Record | The Herald | Evening Times | Sunday Post | City Centre; Daily Record building; Mackintosh
+3 | venues-gigs | Which music and vegan venue is in Mackintosh's old Daily Record building? | Stereo | Mono | Nice N Sleazy | The Hug and Pint | City Centre; Stereo; Daily Record building
+3 | history | The Tenement House shows life in a Glasgow tenement in which period? | The early 1900s | The 1750s | The 1960s | The 1830s | City Centre; Tenement House
+3 | landmarks | Which Glasgow library does Visit Glasgow call one of Europe's largest public libraries? | The Mitchell Library | The Hunterian Library | Stirling's Library | Baillie's Library | City Centre; Mitchell Library
+3 | history | The original House of Fraser store on Buchanan Street has a history dating back to which year? | 1849 | 1901 | 1875 | 1922 | City Centre; House of Fraser; Buchanan Street
+3 | art-culture | How many outdoor artworks are on the City Centre Contemporary Art Trail? | 14 | 8 | 22 | 30 | City Centre; art trail
+4 | art-culture | Which street artist painted the City Centre mural "The World's Most Economical Taxi"? | Rogue-One | Smug | Banksy | Conzo Throb | City Centre; mural trail; Rogue-One
+2 | art-culture | Which instrument is the National Piping Centre dedicated to? | The bagpipes | The fiddle | The clarsach | The accordion | City Centre; National Piping Centre
+3 | food-drink | How many AA Rosettes has the Indian restaurant Swadish won? | 2 | 1 | 3 | 4 | City Centre; Swadish; AA Rosettes
+3 | food-drink | Flight Club's weekend "Brunch Social" comes with bottomless pizza and which game? | Darts | Bowling | Shuffleboard | Pool | City Centre; Flight Club
+3 | food-drink | Chaakoo Bombay Cafe draws its inspiration from which country's food? | Iran | Thailand | Turkey | Lebanon | City Centre; Chaakoo
+3 | landmarks | Which Glasgow shopping centre is home to The Lego Store and the Scottish Design Exchange? | Buchanan Galleries | St Enoch Centre | Princes Square | Silverburn | City Centre; Buchanan Galleries
+3 | landmarks | Which Glasgow shopping centre has a boutique cinema? | Princes Square | St Enoch Centre | Buchanan Galleries | Argyll Arcade | City Centre; Princes Square
+2 | venues-gigs | Howlin' Wolf, Macsorley's and Berlinkys in the city centre are known for what? | Free live music | Comedy nights | Karaoke | Quiz nights | City Centre; live music bars

@@ -1,0 +1,7 @@
+# Liz Lochhead. Source: https://en.wikipedia.org/wiki/Liz_Lochhead
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | Liz Lochhead wrote the play "Mary Queen of Scots Got Her..." what? | Head Chopped Off | Crown Taken Away | Wings Clipped | Castle Burned Down | Liz Lochhead; Mary Queen of Scots
+2 | art-culture | Liz Lochhead was the second person to hold which national post, from 2011 to 2016? | Makar | Poet Laureate | Lord Lyon | First Minister | Liz Lochhead; Makar
+3 | art-culture | Which art college did Liz Lochhead attend from 1965 to 1970? | Glasgow School of Art | Edinburgh College of Art | Duncan of Jordanstone | Gray's School of Art | Liz Lochhead; Glasgow School of Art
+3 | art-culture | Liz Lochhead translated which Molière comedy into Scots in 1985? | Tartuffe | The Miser | The Misanthrope | The Hypochondriac | Liz Lochhead; Tartuffe
+4 | art-culture | Which poet succeeded Liz Lochhead as Makar in 2016? | Jackie Kay | Kathleen Jamie | Carol Ann Duffy | Don Paterson | Liz Lochhead; Jackie Kay

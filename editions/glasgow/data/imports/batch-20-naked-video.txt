@@ -1,0 +1,22 @@
+# Naked Video. Source: https://en.wikipedia.org/wiki/Naked_Video
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | Which balding Gregor Fisher character from Naked Video got his own ITV series in 1995? | The Baldy Man | Highlander Angus | Bernard | Siadwell | Naked Video; The Baldy Man; Gregor Fisher
+2 | film-tv | Which BBC Radio Scotland sketch show led to the TV series Naked Video? | Naked Radio | Only an Excuse? | Watson's Wind-Up | The Big Yin Show | Naked Video; Naked Radio
+2 | film-tv | Who created the BBC Scotland sketch show Naked Video? | Colin Gilbert | Ian Pattison | Ford Kiernan | Rikki Fulton | Naked Video; Colin Gilbert
+2 | film-tv | In which decade was Naked Video first shown on BBC2? | 1980s | 1970s | 1990s | 2000s | Naked Video; 1986
+3 | film-tv | How many series of Naked Video were made? | Five | Three | Four | Seven | Naked Video
+3 | film-tv | Which Naked Video character was a Gaelic presenter for the "Outer Hebrides Broadcasting Corporation"? | Highlander Angus | The Baldy Man | Bernard | Siadwell | Naked Video; Highlander Angus
+3 | film-tv | Which football-themed radio show was a spin-off from the Naked Radio team? | Only an Excuse? | Off the Ball | Sportsound | A View from the Terraces | Naked Video; Naked Radio; Only an Excuse?
+3 | film-tv | Which Naked Video character was a naive young Welsh poet? | Siadwell | Highlander Angus | Bernard | Rab C. Nesbitt | Naked Video; Siadwell
+3 | film-tv | Which actress played Drunk Sloane in Naked Video? | Helen Lederer | Elaine C. Smith | Kate Donnelly | Louise Beattie | Naked Video; Drunk Sloane; Helen Lederer
+3 | film-tv | In Naked Video, what was the name of Bitter Divorcee Lizzie's ex-husband? | Fast Eddy | Big Tam | Slick Willie | Flash Harry | Naked Video; Lizzie; Fast Eddy
+3 | film-tv | Which actress played Bitter Divorcee Lizzie in Naked Video? | Elaine C. Smith | Helen Lederer | Kate Donnelly | Barbara Rafferty | Naked Video; Lizzie; Elaine C. Smith
+3 | film-tv | In which year were both Naked Radio and Naked Video cancelled? | 1991 | 1988 | 1989 | 1993 | Naked Video; Naked Radio; 1991
+4 | film-tv | Who played the Welsh poet Siadwell in Naked Video? | John Sparkes | Jonathan Watson | Ron Bain | Andy Gray | Naked Video; Siadwell; John Sparkes
+4 | film-tv | Which repressed middle-aged couple were played by Gregor Fisher and Helen Lederer in Naked Video? | Bernard and Miriam | Rab and Mary | Jamesie and Ella | George and Mildred | Naked Video; Bernard and Miriam
+4 | film-tv | What did Bernard build for Miriam's mother in a Naked Video sketch? | An electric chair | A garden shed | A guillotine | A rocket | Naked Video; Bernard and Miriam
+4 | venues-gigs | Where did the Naked Radio cast stage their show in 1985, leading to Naked Video? | The Edinburgh Festival Fringe | The Glasgow Pavilion | The Mayfest | The King's Theatre, Glasgow | Naked Video; Edinburgh Fringe; 1985
+4 | film-tv | How many episodes of Naked Video were made in total? | 30 | 24 | 36 | 18 | Naked Video
+5 | film-tv | In which year did Naked Radio begin its ten-year run on BBC Radio Scotland? | 1981 | 1978 | 1984 | 1986 | Naked Video; Naked Radio; 1981
+5 | film-tv | What prize could viewers win in Highlander Angus's Naked Video phone-in competition? | An OHBC vest | A Gaelic dictionary | A set of bagpipes | A Harris Tweed cap | Naked Video; Highlander Angus; OHBC
+5 | film-tv | How did the poet Siadwell meet his end at the close of series 3 of Naked Video? | He drank himself to death | He fell off a cliff | He was struck by lightning | He emigrated to Patagonia | Naked Video; Siadwell

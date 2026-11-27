@@ -1,0 +1,7 @@
+# Mary Barbour. Source: https://en.wikipedia.org/wiki/Mary_Barbour
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | What nickname was given to Mary Barbour's rent-strike protesters? | Mrs Barbour's Army | The Govan Lassies | The Housewives' Brigade | The Tenement Rebels | Mary Barbour; Mrs Barbour's Army
+3 | history | In which Renfrewshire village was Mary Barbour born? | Kilbarchan | Lochwinnoch | Bridge of Weir | Houston | Mary Barbour; Kilbarchan
+3 | history | In which year was Mary Barbour elected to Glasgow Town Council? | 1920 | 1915 | 1928 | 1935 | Mary Barbour; councillor
+3 | history | Where in Govan does Mary Barbour's statue stand? | Govan Cross | Elder Park | Ibrox | Linthouse | Mary Barbour; statue; Govan Cross
+4 | history | Who sculpted the statue of Mary Barbour? | Andrew Brown | Andy Scott | Kenny Hunter | George Wyllie | Mary Barbour; Andrew Brown

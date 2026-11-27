@@ -1,0 +1,7 @@
+# James Watt. Source: https://en.wikipedia.org/wiki/James_Watt
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | history | Which unit of power is named after James Watt? | The watt | The volt | The joule | The ampere | James Watt; watt
+2 | history | In which town was James Watt born in 1736? | Greenock | Paisley | Glasgow | Dumbarton | James Watt; Greenock
+2 | history | With which Birmingham businessman did James Watt form a famous partnership? | Matthew Boulton | Josiah Wedgwood | Richard Arkwright | Abraham Darby | James Watt; Matthew Boulton
+3 | history | What job did James Watt do at the University of Glasgow? | Instrument maker | Professor of physics | Librarian | Groundsman | James Watt; University of Glasgow
+3 | history | James Watt and Matthew Boulton appear together on which Bank of England note? | £50 | £20 | £10 | £5 | James Watt; £50 note

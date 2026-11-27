@@ -1,0 +1,12 @@
+# Gorbals. Source: https://en.wikipedia.org/wiki/Gorbals
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | On which bank of the River Clyde is the Gorbals? | South bank | North bank | On an island | Both banks | Gorbals
+2 | landmarks | Which architect designed the Gorbals' Queen Elizabeth Square flats, demolished in 1993? | Sir Basil Spence | Sir Robert Matthew | Ernő Goldfinger | Charles Rennie Mackintosh | Gorbals; Basil Spence; Queen Elizabeth Square
+2 | famous-glaswegians | Which flyweight boxing champion came from the Gorbals? | Benny Lynch | Ken Buchanan | Jim Watt | Walter McGowan | Gorbals; Benny Lynch
+3 | famous-glaswegians | Which man from the Gorbals founded a famous American detective agency? | Allan Pinkerton | Thomas Lipton | Joe Yule | Alexander Watson Hutton | Gorbals; Allan Pinkerton
+3 | famous-glaswegians | Which Poet Laureate (2009–2019) is listed among notable people from the Gorbals? | Carol Ann Duffy | Liz Lochhead | Jackie Kay | Kathleen Jamie | Gorbals; Carol Ann Duffy
+3 | history | In which year did the city of Glasgow absorb the Gorbals? | 1846 | 1912 | 1891 | 1801 | Gorbals
+3 | history | Around what was the peak population of the wider Gorbals district in the 1930s? | 90,000 | 30,000 | 150,000 | 50,000 | Gorbals; population
+4 | history | What was the Gorbals village once known as, at the south end of the Clyde bridge? | Bridgend | Southbank | Clydeside | Riverend | Gorbals; Bridgend
+4 | famous-glaswegians | Which man from the Gorbals is known as the "father of Argentine football"? | Alexander Watson Hutton | Allan Pinkerton | Benny Lynch | Thomas Lipton | Gorbals; Alexander Watson Hutton
+4 | famous-glaswegians | Gorbals comedian Joe Yule was the father of which Hollywood star? | Mickey Rooney | Bob Hope | Danny Kaye | Gene Kelly | Gorbals; Joe Yule; Mickey Rooney

@@ -1,0 +1,7 @@
+# Hunterian Museum and Art Gallery. Source: https://en.wikipedia.org/wiki/Hunterian_Museum_and_Art_Gallery
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | Which anatomist left the collections that founded Glasgow's Hunterian Museum? | William Hunter | John Hunter | Joseph Lister | Joseph Black | Hunterian; William Hunter
+2 | art-culture | The Hunterian is described as the oldest what in Scotland? | Museum | Library | University | Theatre | Hunterian
+3 | art-culture | In which year did the Hunterian Museum first open? | 1807 | 1783 | 1870 | 1901 | Hunterian; 1807
+3 | art-culture | The Hunterian Art Gallery holds a large collection of works by which American-born artist? | James McNeill Whistler | John Singer Sargent | Winslow Homer | Edward Hopper | Hunterian; Whistler
+4 | art-culture | Which Glasgow venue became home to the Hunterian Collections and Study Centre in 2016? | Kelvin Hall | The Lighthouse | The McLellan Galleries | Pollok House | Hunterian; Kelvin Hall

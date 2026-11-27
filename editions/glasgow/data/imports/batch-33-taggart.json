@@ -1,0 +1,206 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which actor played DCI Jim Taggart?",
+    "options": [
+      "Alex Norton",
+      "Mark McManus",
+      "John Michie",
+      "James MacPherson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Taggart",
+      "Mark McManus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Who created the detective series Taggart?",
+    "options": [
+      "Peter McDougall",
+      "Ian Pattison",
+      "Colin Gilbert",
+      "Glenn Chandler"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Taggart",
+      "Glenn Chandler"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actress played DS Jackie Reid in Taggart?",
+    "options": [
+      "Elaine C. Smith",
+      "Blythe Duff",
+      "Barbara Rafferty",
+      "Kate Donnelly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Taggart",
+      "Blythe Duff",
+      "Jackie Reid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In which Glasgow CID were Taggart's detectives first based?",
+    "options": [
+      "Partick",
+      "Govan",
+      "Shettleston",
+      "Maryhill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Taggart",
+      "Maryhill CID"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What was the title of the 1983 pilot miniseries that launched Taggart?",
+    "options": [
+      "Murder",
+      "Black Orchid",
+      "Killer",
+      "Dead Ringer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Taggart",
+      "Killer",
+      "1983"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which actor played DCI Matt Burke, who replaced Jardine in Taggart in 2002?",
+    "options": [
+      "Colin McCredie",
+      "Alex Norton",
+      "Robert Robertson",
+      "Iain Anders"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Taggart",
+      "Alex Norton",
+      "Matt Burke"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which actor played DI Michael Jardine in Taggart?",
+    "options": [
+      "Colin McCredie",
+      "Neil Duncan",
+      "John Michie",
+      "James MacPherson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Taggart",
+      "James MacPherson",
+      "Jardine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Taggart episode, broadcast in 1995, opened with Jim Taggart's funeral?",
+    "options": [
+      "Killer",
+      "Genesis",
+      "Black Orchid",
+      "Dead Ringer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Taggart",
+      "Black Orchid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which university's buildings were used as the police station in later series of Taggart?",
+    "options": [
+      "University of Stirling",
+      "University of Glasgow",
+      "University of Strathclyde",
+      "Glasgow Caledonian"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Taggart",
+      "University of Strathclyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What was the name of the fictional police station in Taggart?",
+    "options": [
+      "John Street",
+      "Stewart Street",
+      "Partick Cross",
+      "Maryhill Road"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Taggart",
+      "John Street"
+    ],
+    "source": "manual"
+  }
+]

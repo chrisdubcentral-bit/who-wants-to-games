@@ -1,0 +1,5 @@
+# Paddy's Market. Source: https://en.wikipedia.org/wiki/Paddy%27s_Market
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Paddy's Market in Glasgow was named after which group of immigrants? | The Irish | The Italians | Highlanders | The Lithuanians | Paddy's Market
+3 | landmarks | On which lane was Glasgow's Paddy's Market? | Shipbank Lane | Ashton Lane | Mitchell Lane | Virginia Lane | Paddy's Market; Shipbank Lane
+3 | landmarks | In which year was Paddy's Market closed by Glasgow City Council? | 2009 | 1999 | 2015 | 1987 | Paddy's Market; 2009

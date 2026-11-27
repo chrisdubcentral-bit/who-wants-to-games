@@ -1,0 +1,12 @@
+# Easterhouse. Source: https://en.wikipedia.org/wiki/Easterhouse
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Roughly how far east of Glasgow city centre is Easterhouse? | Six miles | Two miles | Twelve miles | Twenty miles | Easterhouse
+2 | landmarks | Which 15th-century mansion in Easterhouse is owned by the National Trust for Scotland? | Provan Hall | Pollok House | Crookston Castle | Haggs Castle | Easterhouse; Provan Hall
+3 | landmarks | Which entertainer got involved with Easterhouse's youth gangs in the 1960s? | Frankie Vaughan | Tom Jones | Cliff Richard | Jimmy Logan | Easterhouse; Frankie Vaughan
+3 | landmarks | What is the name of Easterhouse's arts, library and swimming centre opened in 2004? | The Bridge | The Forge | The Hub | The Phoenix | Easterhouse; The Bridge
+3 | landmarks | Easterhouse took its name from a farm that lay east of which other farm? | Westerhouse | Northfield | Provanhall | Blairtummock | Easterhouse; name
+3 | landmarks | In which decade did the building of the Easterhouse housing scheme begin? | 1950s | 1930s | 1960s | 1970s | Easterhouse
+3 | landmarks | Which motorway runs east to west through Easterhouse? | The M8 | The M74 | The M80 | The M77 | Easterhouse; M8
+4 | landmarks | In which year was Glasgow's 100,000th council home completed in Easterhouse? | 1965 | 1955 | 1975 | 1948 | Easterhouse; council homes
+4 | landmarks | Roughly what was Easterhouse's peak population in the early 1960s? | Over 56,000 | About 20,000 | About 100,000 | About 35,000 | Easterhouse; population
+4 | landmarks | Which canal bounded the original village of Easterhouse? | The Monkland Canal | The Forth and Clyde Canal | The Union Canal | The Paisley Canal | Easterhouse; Monkland Canal

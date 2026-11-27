@@ -1,0 +1,12 @@
+# Kelvingrove Art Gallery and Museum. Source: https://en.wikipedia.org/wiki/Kelvingrove_Art_Gallery_and_Museum
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | art-culture | Which Salvador Dalí painting is held by Glasgow Museums at Kelvingrove? | Christ of Saint John of the Cross | The Persistence of Memory | The Elephants | Swans Reflecting Elephants | Kelvingrove; Dalí
+2 | art-culture | Which aircraft hangs from the ceiling in Kelvingrove? | A Spitfire | A Hurricane | A Lancaster | A Concorde | Kelvingrove; Spitfire
+2 | art-culture | Kelvingrove opened in 1901 as the Palace of Fine Arts for which event? | The Glasgow International Exhibition | The Empire Exhibition | The Garden Festival | The Commonwealth Games | Kelvingrove; 1901 Exhibition
+2 | art-culture | Which popular story about Kelvingrove is an urban myth? | That it was built back to front | That it is haunted | That it sank a foot | That it was meant for Edinburgh | Kelvingrove; myth
+3 | art-culture | Which famous artwork of hanging faces by Sophie Cave is in Kelvingrove's East Court? | Floating Heads | Flying Faces | The Crowd | Suspended Souls | Kelvingrove; Floating Heads
+3 | art-culture | In what architectural style is Kelvingrove built? | Spanish Baroque | Gothic Revival | Art Deco | Scots Baronial | Kelvingrove; Spanish Baroque
+3 | art-culture | Who reopened Kelvingrove in July 2006 after its refurbishment? | Queen Elizabeth II | Prince Charles | Tony Blair | Jack McConnell | Kelvingrove; 2006
+3 | art-culture | What colour is the sandstone on Kelvingrove's exterior? | Red | White | Grey | Yellow | Kelvingrove; sandstone
+3 | art-culture | Into which two halves were Kelvingrove's collections reorganised in 2006? | Life and Expression | Art and Science | Old and New | Glasgow and the World | Kelvingrove; Life; Expression
+4 | art-culture | Which RAF squadron did Kelvingrove's Spitfire serve with? | No. 602 (City of Glasgow) | No. 617 (Dambusters) | No. 303 (Polish) | No. 43 (Fighting Cocks) | Kelvingrove; Spitfire; 602 Squadron

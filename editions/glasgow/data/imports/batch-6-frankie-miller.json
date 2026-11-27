@@ -1,0 +1,105 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which Frankie Miller single reached No. 6 in the UK in 1978?",
+    "options": [
+      "Be Good to Yourself",
+      "Caledonia",
+      "Darlin'",
+      "When I'm Away from You"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Frankie Miller",
+      "Darlin'",
+      "1978"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "In which area of Glasgow was singer Frankie Miller born?",
+    "options": [
+      "Springburn",
+      "Govan",
+      "Partick",
+      "Bridgeton"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Frankie Miller",
+      "Bridgeton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Frankie Miller's song \"Caledonia\" was first heard in a TV advert for which drink?",
+    "options": [
+      "Tennent's lager",
+      "Irn-Bru",
+      "Bell's whisky",
+      "McEwan's Export"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Frankie Miller",
+      "Caledonia",
+      "Tennent's"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which Thin Lizzy frontman sang \"Still in Love with You\" as a duet with Frankie Miller?",
+    "options": [
+      "Scott Gorham",
+      "Gary Moore",
+      "Phil Lynott",
+      "Brian Robertson"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Frankie Miller",
+      "Phil Lynott",
+      "Thin Lizzy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Frankie Miller started singing professionally as a teenager with which Glasgow band?",
+    "options": [
+      "The Pathfinders",
+      "The Poets",
+      "The Beatstalkers",
+      "The Stoics"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Frankie Miller",
+      "The Stoics"
+    ],
+    "source": "manual"
+  }
+]

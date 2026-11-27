@@ -1,0 +1,7 @@
+# Dinosaur (TV series). Source: https://en.wikipedia.org/wiki/Dinosaur_(TV_series)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | Who plays Nina, the autistic palaeontologist, in the Glasgow comedy Dinosaur? | Ashley Storrie | Kate Dickie | Kat Ronney | Sharon Rooney | Dinosaur; Ashley Storrie
+2 | film-tv | What is Nina McArthur's job in the comedy drama Dinosaur? | Palaeontologist | Zookeeper | Vet | Librarian | Dinosaur; Nina McArthur
+3 | film-tv | Which Glasgow museum was used as the "Natural History Museum of Glasgow" in Dinosaur? | Kelvingrove Art Gallery and Museum | The Hunterian | The Riverside Museum | The People's Palace | Dinosaur; Kelvingrove
+3 | film-tv | On which BBC channel was the comedy drama Dinosaur first shown in 2024? | BBC Three | BBC One | BBC Two | BBC Four | Dinosaur; BBC Three
+4 | film-tv | Which Still Game star plays Ade in Dinosaur? | Greg Hemphill | Ford Kiernan | Sanjeev Kohli | Paul Riley | Dinosaur; Greg Hemphill

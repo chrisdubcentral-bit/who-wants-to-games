@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which Disney cartoon duck's origin is given as Glasgow, Scotland?",
+    "options": [
+      "Ludwig Von Drake",
+      "Scrooge McDuck",
+      "Donald Duck",
+      "Daisy Duck"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Scrooge McDuck",
+      "Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which cartoonist created Scrooge McDuck in 1947?",
+    "options": [
+      "Carl Barks",
+      "Floyd Gottfredson",
+      "Walt Disney",
+      "Don Rosa"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Scrooge McDuck",
+      "Carl Barks"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which Scottish actor voiced Scrooge McDuck in the 2017 DuckTales reboot?",
+    "options": [
+      "Peter Capaldi",
+      "David Tennant",
+      "Robbie Coltrane",
+      "Billy Connolly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Scrooge McDuck",
+      "David Tennant"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Scrooge McDuck is the uncle of which famous Disney character?",
+    "options": [
+      "Daffy Duck",
+      "Mickey Mouse",
+      "Goofy",
+      "Donald Duck"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Scrooge McDuck",
+      "Donald Duck"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "On which Scottish moor does the story place Dismal Downs, the McDuck family castle?",
+    "options": [
+      "Fenwick Moor",
+      "Rannoch Moor",
+      "Culloden Moor",
+      "Eaglesham Moor"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Scrooge McDuck",
+      "Rannoch Moor"
+    ],
+    "source": "manual"
+  }
+]

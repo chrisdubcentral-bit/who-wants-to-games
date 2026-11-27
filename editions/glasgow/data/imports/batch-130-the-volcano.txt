@@ -1,0 +1,5 @@
+# The Volcano (nightclub). Source: https://en.wikipedia.org/wiki/The_Volcano_(nightclub)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | venues-gigs | Glasgow nightclub The Volcano featured in which 1996 film? | Trainspotting | Shallow Grave | Small Faces | Orphans | The Volcano; Trainspotting
+3 | venues-gigs | Which Trainspotting scene was filmed at The Volcano in Partick? | Renton meeting Diane | The "Choose life" speech | The worst toilet in Scotland | The football kickabout | The Volcano; Trainspotting
+4 | venues-gigs | In which area of Glasgow was The Volcano nightclub? | Partick | Govan | Sauchiehall Street | Merchant City | The Volcano; Partick

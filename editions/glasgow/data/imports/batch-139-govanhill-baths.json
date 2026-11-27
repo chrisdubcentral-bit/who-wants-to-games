@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Govanhill Baths is Glasgow's last surviving public bathhouse from which era?",
+    "options": [
+      "Victorian",
+      "Georgian",
+      "Art Deco",
+      "Edwardian"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Govanhill Baths"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year did campaigners occupy Govanhill Baths to stop its closure?",
+    "options": [
+      "2008",
+      "2001",
+      "1989",
+      "1995"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Govanhill Baths",
+      "occupation"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "The 2001 Govanhill Baths sit-in is described as the longest occupation of what in British history?",
+    "options": [
+      "A school",
+      "A factory",
+      "A swimming pool",
+      "A public building"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Govanhill Baths",
+      "occupation"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "How many swimming pools are on the ground floor of Govanhill Baths?",
+    "options": [
+      "Five",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Govanhill Baths",
+      "pools"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which theatre company funded the 2012 reopening of the Govanhill Baths teaching pool for its show Lifeguard?",
+    "options": [
+      "Wildcat",
+      "The National Theatre of Scotland",
+      "The Citizens Theatre",
+      "Scottish Opera"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Govanhill Baths",
+      "Lifeguard"
+    ],
+    "source": "manual"
+  }
+]

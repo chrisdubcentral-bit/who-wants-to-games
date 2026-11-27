@@ -1,0 +1,32 @@
+# North Glasgow. Source: https://www.visitglasgow.com/neighbourhoods/north-glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | Which canal runs through North Glasgow? | The Forth and Clyde Canal | The Union Canal | The Caledonian Canal | The Monkland Canal | North Glasgow; Forth and Clyde Canal
+2 | landmarks | Which North Glasgow canalside spot has Georgian warehouses, cobbled streets and houseboats? | Speirs Wharf | Pacific Quay | Merchant Square | Princes Dock | North Glasgow; Speirs Wharf
+2 | landmarks | Which award-winning bridge over the Forth and Clyde Canal links three communities? | Stockingfield Bridge | The Clyde Arc | Tradeston Bridge | Bells Bridge | North Glasgow; Stockingfield Bridge
+4 | history | Stockingfield Bridge reconnected three communities for the first time since which year? | 1790 | 1850 | 1914 | 1966 | North Glasgow; Stockingfield Bridge
+3 | landmarks | Stockingfield Bridge is on a cycle route linking Glasgow with which city? | Edinburgh | Stirling | Perth | Dundee | North Glasgow; Stockingfield Bridge; cycling
+3 | landmarks | Which reserve does Visit Glasgow call Glasgow's first inner city nature reserve? | Hamiltonhill Claypits | Possil Marsh | Cuningar Loop | Dawsholm Park | North Glasgow; Hamiltonhill Claypits
+3 | landmarks | On clear days, which island can be seen from Hamiltonhill Claypits? | Arran | Bute | Mull | Islay | North Glasgow; Hamiltonhill Claypits; Arran
+4 | landmarks | How many bird species have been recorded at Possil Marsh and Loch? | Over 150 | Over 50 | Over 300 | Over 20 | North Glasgow; Possil Marsh
+3 | landmarks | Which North Glasgow park is one of the highest spots in the city, with its best viewpoints? | Ruchill Park | Queen's Park | Bellahouston Park | Kelvingrove Park | North Glasgow; Ruchill Park
+3 | history | Lambhill Stables were built in the early 1800s, when goods were moved by what? | Horse | Tram | Steam train | Lorry | North Glasgow; Lambhill Stables
+4 | history | Since which year has Maryhill Burgh Halls been open? | 1878 | 1856 | 1901 | 1923 | North Glasgow; Maryhill Burgh Halls
+2 | art-culture | What makes Mackintosh Queen's Cross special? | It's the only church Mackintosh designed | It's Mackintosh's only school | It's Mackintosh's first tearoom | It's Mackintosh's family home | North Glasgow; Queen's Cross; Mackintosh
+3 | history | Provan Hall, an A-listed medieval building, is in which district? | Easterhouse | Maryhill | Springburn | Possilpark | North Glasgow; Provan Hall; Easterhouse
+4 | history | Provan Hall dates back to which decade? | The 1470s | The 1270s | The 1670s | The 1870s | North Glasgow; Provan Hall
+4 | art-culture | In which year was Mackintosh's Ruchill Free Church Halls built? | 1899 | 1880 | 1910 | 1925 | North Glasgow; Ruchill Free Church Halls; Mackintosh
+4 | history | In which year did the Possil meteorite fall, Scotland's earliest recorded meteorite fall? | 1804 | 1745 | 1888 | 1912 | North Glasgow; Possil meteorite
+3 | history | Where is the largest surviving fragment of the Possil meteorite kept? | The Hunterian | Kelvingrove | Riverside Museum | National Museum of Scotland | North Glasgow; Possil meteorite; Hunterian
+2 | sport | Which North Glasgow centre has Scotland's only artificial white water course? | Pinkston Watersports | Tollcross | Strathclyde Park | Loch Lomond Shores | North Glasgow; Pinkston Watersports
+3 | sport | The Loading Bay in North Glasgow is an indoor venue for what? | Skate, BMX and parkour | Climbing and bouldering | Ice skating | Ten-pin bowling | North Glasgow; The Loading Bay
+3 | food-drink | In which decade was Café D'Jaconelli established? | The 1920s | The 1950s | The 1890s | The 1970s | North Glasgow; Café D'Jaconelli
+3 | food-drink | Café D'Jaconelli is known for the style and music of which decade? | The 1950s | The 1920s | The 1970s | The 1980s | North Glasgow; Café D'Jaconelli
+3 | food-drink | Rockvilla was named Pizza Restaurant of the Year at which year's Scottish Restaurant Awards? | 2024 | 2019 | 2021 | 2023 | North Glasgow; Rockvilla
+2 | food-drink | Rockvilla in North Glasgow won an award for what kind of food? | Pizza | Curry | Seafood | Vegan food | North Glasgow; Rockvilla
+3 | food-drink | What does 111 by Modou offer diners? | Tasting menus | Street food | Afternoon tea | Fish suppers | North Glasgow; 111 by Modou
+3 | history | The Whisky Bond was once a bonding warehouse for which distilleries? | Highland | Islay | Lowland | Campbeltown | North Glasgow; Whisky Bond
+4 | art-culture | Which writer and artist's archive is housed at the Whisky Bond? | Alasdair Gray | Edwin Morgan | Liz Lochhead | James Kelman | North Glasgow; Whisky Bond; Alasdair Gray
+3 | art-culture | Which studio shares the Whisky Bond with the Alasdair Gray archive? | Glasgow Sculpture Studio | Glasgow Print Studio | Street Level Photoworks | Wasps Studios | North Glasgow; Whisky Bond; Glasgow Sculpture Studio
+3 | art-culture | Which independent North Glasgow arts venue is also used for weddings? | The Glue Factory | The Briggait | Trongate 103 | SWG3 | North Glasgow; The Glue Factory
+3 | art-culture | Which two companies have rehearsal spaces in North Glasgow? | National Theatre of Scotland and Scottish Opera | Scottish Ballet and Scottish Opera | Citizens Theatre and Scottish Ballet | RSNO and National Theatre of Scotland | North Glasgow; National Theatre of Scotland; Scottish Opera
+2 | food-drink | Gathering Ground in North Glasgow is what kind of café? | A dog-friendly community café | A cat café | A board game café | A vegan bakery | North Glasgow; Gathering Ground

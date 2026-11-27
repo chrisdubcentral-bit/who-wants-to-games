@@ -1,0 +1,32 @@
+# Glasgow's Southside. Source: https://www.visitglasgow.com/neighbourhoods/southside
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | What is the name of Hampden's tour, with its museum of football memorabilia? | The Hampden Experience | The Hampden Story | The Mount Florida Tour | The Scottish Football Vault | Southside; Hampden Experience
+3 | sport | What is Rangers' building at Ibrox with a museum, store and café called? | Edmiston House | Copland House | Struth House | Broomloan House | Southside; Edmiston House; Rangers
+3 | art-culture | In which year did Glasgow become the UK's first UNESCO City of Music? | 2008 | 1990 | 1999 | 2014 | Southside; UNESCO City of Music; 2008
+2 | landmarks | Which country park does Visit Glasgow call the highest point in Glasgow? | Cathkin Braes | Pollok Country Park | Linn Park | Queen's Park | Southside; Cathkin Braes
+3 | landmarks | How high above sea level is Cathkin Braes, according to Visit Glasgow? | 200 metres | 100 metres | 350 metres | 500 metres | Southside; Cathkin Braes
+3 | history | Which castle does Visit Glasgow call the city's only surviving medieval castle? | Crookston Castle | Cathcart Castle | Haggs Castle | Provan Hall | Southside; Crookston Castle
+2 | art-culture | Who designed the House for an Art Lover? | Charles Rennie Mackintosh | Alexander Thomson | William Leiper | Archibald Leitch | Southside; House for an Art Lover; Mackintosh
+3 | art-culture | Mackintosh designed the House for an Art Lover in 1901. In which year was it completed? | 1989 | 1910 | 1951 | 2001 | Southside; House for an Art Lover
+2 | landmarks | In which park is the House for an Art Lover? | Bellahouston Park | Queen's Park | Pollok Country Park | Rouken Glen | Southside; House for an Art Lover; Bellahouston Park
+3 | history | Which Mackintosh-designed school on the Southside is now a museum? | Scotland Street School | Martyrs' Public School | Hutchesons' Grammar | Govan High School | Southside; Scotland Street School; Mackintosh
+4 | history | Holmwood House in Cathcart was designed by which architect? | Alexander "Greek" Thomson | Charles Rennie Mackintosh | William Leiper | John Burnet | Southside; Holmwood House; Alexander Thomson
+4 | history | In which year was Holmwood House in Cathcart built? | 1858 | 1830 | 1888 | 1901 | Southside; Holmwood House
+4 | history | How many carved stones make up the Govan Stones and Govan Sarcophagus? | 31 | 7 | 12 | 50 | Southside; Govan Stones
+4 | history | The Govan Stones date from which centuries? | 9th to 11th | 5th to 7th | 12th to 14th | 15th to 17th | Southside; Govan Stones
+3 | history | What was the A-listed building that now houses Govan's Fairfield Heritage Centre? | A shipbuilding office | A church | A tram depot | A school | Southside; Govan; Fairfield Heritage Centre
+3 | art-culture | Queen's Park Railway Club is an artist-run gallery in a former station what? | Waiting room | Signal box | Ticket office | Goods shed | Southside; Queen's Park Railway Club
+2 | landmarks | Which spot in Queen's Park offers one of Glasgow's best city views? | The flagpole | The bandstand | The boating pond | The glasshouse | Southside; Queen's Park
+3 | landmarks | Which garden can you visit in Queen's Park? | The Scottish Poetry Rose Garden | The Japanese Peace Garden | The Physic Garden | The Hidden Gardens | Southside; Queen's Park; Scottish Poetry Rose Garden
+2 | landmarks | Which Southside park has a large boating pond and a historic bandstand? | Queen's Park | Pollok Country Park | Linn Park | Cathkin Braes | Southside; Queen's Park
+2 | venues-gigs | Which Southside music venue regularly welcomes international acts? | The O2 Academy | King Tut's | The Barrowland | SWG3 | Southside; O2 Academy
+3 | venues-gigs | Which Southside café hosts indie gigs? | The Glad Café | Café Strange Brew | Bramble Café | Brooklyn Café | Southside; Glad Café
+3 | venues-gigs | What is the summer live music and events series at Queen's Park Arena called? | Summer Nights on The Southside | Southside Sessions | Queen's Park Live | Summer in the Park | Southside; Queen's Park Arena
+3 | food-drink | Ranjit's Kitchen serves authentic dishes from which region? | Panjab | Kerala | Bengal | Goa | Southside; Ranjit's Kitchen
+3 | food-drink | What is unusual about the menu at Big Counter? | You don't know it until you arrive | It changes every hour | It is written in Gaelic | It has only one dish | Southside; Big Counter
+2 | food-drink | Battlefield Rest is an iconic bistro serving which cuisine? | Italian | French | Spanish | Greek | Southside; Battlefield Rest
+4 | food-drink | What was Ginesi's Artisan Gelato formerly called? | Queen's Café | Brooklyn Café | Café Strange Brew | Battlefield Café | Southside; Ginesi's; Queen's Café
+4 | food-drink | Peacock's in Battlefield makes ice cream in which style? | North American | Italian | French | Turkish | Southside; Battlefield; Peacock's
+3 | food-drink | In which year was Rude Cookies established? | 2020 | 2012 | 2016 | 2023 | Southside; Rude Cookies
+2 | food-drink | Bar Vini is known for antipasti, homemade pasta and what kind of wine? | Natural wines | Fortified wines | Ice wines | Dessert wines | Southside; Bar Vini
+1 | landmarks | Glasgow's Southside is known for its expansive parks and what kind of housing? | Traditional tenements | Tower blocks | Thatched cottages | Modern townhouses | Southside; tenements

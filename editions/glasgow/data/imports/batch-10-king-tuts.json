@@ -1,0 +1,104 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "venues-gigs",
+    "difficulty": 1,
+    "question": "On which Glasgow street is King Tut's Wah Wah Hut?",
+    "options": [
+      "Argyle Street",
+      "West Nile Street",
+      "Sauchiehall Street",
+      "St Vincent Street"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "King Tut's",
+      "St Vincent Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "In which year did King Tut's Wah Wah Hut first open its doors?",
+    "options": [
+      "1990",
+      "1984",
+      "1993",
+      "1997"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "King Tut's",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which DF Concerts boss founded King Tut's Wah Wah Hut?",
+    "options": [
+      "Stuart Clumpas",
+      "Geoff Ellis",
+      "Alan McGee",
+      "Dave McGeachan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "King Tut's",
+      "Stuart Clumpas",
+      "DF Concerts"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "King Tut's Wah Wah Hut was named after a club in which city?",
+    "options": [
+      "London",
+      "Chicago",
+      "New York",
+      "Cairo"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "King Tut's",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "In 2017, which Glasgow band played a record run of six sold-out shows at King Tut's?",
+    "options": [
+      "The View",
+      "The Fratellis",
+      "Glasvegas",
+      "Twin Atlantic"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "King Tut's",
+      "The View",
+      "2017"
+    ],
+    "source": "manual"
+  }
+]

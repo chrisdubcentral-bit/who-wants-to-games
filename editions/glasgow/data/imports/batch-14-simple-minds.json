@@ -1,0 +1,312 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "Who is the lead singer of Simple Minds?",
+    "options": [
+      "Ricky Ross",
+      "Bobby Gillespie",
+      "Jim Kerr",
+      "Charlie Burchill"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Simple Minds",
+      "Jim Kerr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which Simple Minds song from The Breakfast Club reached No. 1 in the US?",
+    "options": [
+      "Don't You (Forget About Me)",
+      "Belfast Child",
+      "Promised You a Miracle",
+      "Alive and Kicking"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Simple Minds",
+      "Don't You (Forget About Me)",
+      "The Breakfast Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Simple Minds took their name from a lyric in which David Bowie song?",
+    "options": [
+      "The Jean Genie",
+      "Starman",
+      "Rebel Rebel",
+      "Heroes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Simple Minds",
+      "band name",
+      "David Bowie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which guitarist has known Jim Kerr since the age of eight and co-founded Simple Minds?",
+    "options": [
+      "Brian McGee",
+      "Charlie Burchill",
+      "Derek Forbes",
+      "Mick MacNeil"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Simple Minds",
+      "Charlie Burchill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Which Pretenders singer did Jim Kerr marry in 1984?",
+    "options": [
+      "Kim Wilde",
+      "Siouxsie Sioux",
+      "Chrissie Hynde",
+      "Annie Lennox"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Simple Minds",
+      "Jim Kerr",
+      "Chrissie Hynde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Before Simple Minds, Jim Kerr and Charlie Burchill were in which punk band?",
+    "options": [
+      "The Skids",
+      "The Subs",
+      "The Rezillos",
+      "Johnny & the Self-Abusers"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Simple Minds",
+      "Johnny & the Self-Abusers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "\"Belfast Child\" by Simple Minds is a rewrite of which folk song?",
+    "options": [
+      "The Fields of Athenry",
+      "Danny Boy",
+      "She Moved Through the Fair",
+      "The Parting Glass"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Simple Minds",
+      "Belfast Child"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Simple Minds album debuted at No. 1 in the UK in February 1984?",
+    "options": [
+      "New Gold Dream",
+      "Once Upon a Time",
+      "Street Fighting Years",
+      "Sparkle in the Rain"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Simple Minds",
+      "Sparkle in the Rain",
+      "1984"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "From which city's JFK Stadium did Simple Minds play Live Aid in 1985?",
+    "options": [
+      "New York",
+      "Boston",
+      "Chicago",
+      "Philadelphia"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Simple Minds",
+      "Live Aid",
+      "Philadelphia"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which 1982 single was Simple Minds' first UK Top 20 hit?",
+    "options": [
+      "Love Song",
+      "Promised You a Miracle",
+      "Waterfront",
+      "Glittering Prize"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Simple Minds",
+      "Promised You a Miracle",
+      "1982"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Simple Minds were the only act to write a song for Nelson Mandela's 70th birthday concert. What was it called?",
+    "options": [
+      "Free Nelson Mandela",
+      "Biko",
+      "Asimbonanga",
+      "Mandela Day"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Simple Minds",
+      "Mandela Day",
+      "Wembley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "labels-scene",
+    "difficulty": 4,
+    "question": "Which record label did Simple Minds join from Arista in 1981?",
+    "options": [
+      "Chrysalis",
+      "Mercury",
+      "Virgin",
+      "Island"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Simple Minds",
+      "Virgin Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "At which Glasgow venue did Simple Minds play their first gig, in January 1978?",
+    "options": [
+      "Doune Castle",
+      "Satellite City",
+      "The Apollo",
+      "Barrowland Ballroom"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Simple Minds",
+      "Satellite City",
+      "1978"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which jazz musician played a synth solo on Simple Minds' \"Hunter and the Hunted\"?",
+    "options": [
+      "Herbie Hancock",
+      "Chick Corea",
+      "Joe Zawinul",
+      "Jan Hammer"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Simple Minds",
+      "New Gold Dream",
+      "Herbie Hancock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "glasgow-bands",
+    "difficulty": 5,
+    "question": "Simple Minds keyboard player Mick MacNeil was born on which Scottish island?",
+    "options": [
+      "Lewis",
+      "Barra",
+      "Islay",
+      "Skye"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Simple Minds",
+      "Mick MacNeil",
+      "Barra"
+    ],
+    "source": "manual"
+  }
+]

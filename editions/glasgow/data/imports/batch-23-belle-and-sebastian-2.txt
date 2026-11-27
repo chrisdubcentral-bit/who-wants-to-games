@@ -1,0 +1,17 @@
+# Belle and Sebastian (extra). Source: https://en.wikipedia.org/wiki/Belle_and_Sebastian
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | glasgow-bands | Which instrument did Mick Cooke play in Belle and Sebastian? | Trumpet | Saxophone | Cello | Violin | Belle and Sebastian; Mick Cooke
+2 | glasgow-bands | Which instrument does Sarah Martin play alongside singing in Belle and Sebastian? | Violin | Trumpet | Cello | Harp | Belle and Sebastian; Sarah Martin
+3 | labels-scene | What was the name of the Stow College label that first released Belle and Sebastian? | Electric Honey | Postcard | Chemikal Underground | Jeepster | Belle and Sebastian; Electric Honey
+3 | songs-albums | Which Belle and Sebastian release gave the band their first top 40 single in 1997? | 3.. 6.. 9 Seconds of Light | Dog on Wheels | Lazy Line Painter Jane | Legal Man | Belle and Sebastian; 3.. 6.. 9 Seconds of Light
+3 | film-tv | For which Todd Solondz film did Belle and Sebastian record a soundtrack album in 2002? | Storytelling | Happiness | Welcome to the Dollhouse | Palindromes | Belle and Sebastian; Storytelling; Todd Solondz
+3 | songs-albums | Which American singer features on Belle and Sebastian's "Little Lou, Ugly Jack, Prophet John"? | Norah Jones | Zooey Deschanel | Feist | Neko Case | Belle and Sebastian; Write About Love; Norah Jones
+3 | film-tv | Two Belle and Sebastian songs featured on the soundtrack of which 2007 film? | Juno | Garden State | Little Miss Sunshine | 500 Days of Summer | Belle and Sebastian; Juno
+3 | glasgow-bands | Which American singer did Isobel Campbell make three albums with after leaving Belle and Sebastian? | Mark Lanegan | Bonnie "Prince" Billy | Nick Cave | Kurt Vile | Belle and Sebastian; Isobel Campbell; Mark Lanegan
+3 | venues-gigs | Where did Belle and Sebastian hold their 2019 Boaty Weekender festival? | On a cruise ship in the Mediterranean | At Butlin's in Minehead | On Loch Lomond | At Pontins in Camber Sands | Belle and Sebastian; Boaty Weekender
+4 | film-tv | Which actress sings on the title track of Belle and Sebastian's album Write About Love? | Carey Mulligan | Keira Knightley | Emma Watson | Kelly Macdonald | Belle and Sebastian; Write About Love; Carey Mulligan
+4 | glasgow-bands | Which bassist from V-Twin replaced Stuart David in Belle and Sebastian? | Bobby Kildea | Chris Geddes | Richard Colburn | Dave McGowan | Belle and Sebastian; Bobby Kildea
+4 | songs-albums | Which singer guested on Belle and Sebastian's 1997 EP Lazy Line Painter Jane? | Monica Queen | Eddi Reader | Isobel Campbell | Karine Polwart | Belle and Sebastian; Lazy Line Painter Jane; Monica Queen
+4 | labels-scene | Which former Associates musician led the Stow College course that released Tigermilk? | Alan Rankine | Billy Mackenzie | Edwyn Collins | Bob Last | Belle and Sebastian; Alan Rankine; Stow College
+4 | film-tv | In the 2000 film High Fidelity, a clip of which Belle and Sebastian song is heard? | Seymour Stein | Get Me Away from Here, I'm Dying | Judy and the Dream of Horses | The Boy with the Arab Strap | Belle and Sebastian; High Fidelity; Seymour Stein
+5 | glasgow-bands | Which award did Belle and Sebastian receive at the NME Awards 2014? | Outstanding Contribution to Music | Godlike Genius | Best Live Band | Best British Band | Belle and Sebastian; NME Awards 2014

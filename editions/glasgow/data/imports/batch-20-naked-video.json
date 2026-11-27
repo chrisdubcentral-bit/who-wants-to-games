@@ -1,0 +1,410 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which balding Gregor Fisher character from Naked Video got his own ITV series in 1995?",
+    "options": [
+      "Highlander Angus",
+      "Siadwell",
+      "The Baldy Man",
+      "Bernard"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Naked Video",
+      "The Baldy Man",
+      "Gregor Fisher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which BBC Radio Scotland sketch show led to the TV series Naked Video?",
+    "options": [
+      "Watson's Wind-Up",
+      "Naked Radio",
+      "The Big Yin Show",
+      "Only an Excuse?"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video",
+      "Naked Radio"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Who created the BBC Scotland sketch show Naked Video?",
+    "options": [
+      "Ian Pattison",
+      "Rikki Fulton",
+      "Colin Gilbert",
+      "Ford Kiernan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Naked Video",
+      "Colin Gilbert"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In which decade was Naked Video first shown on BBC2?",
+    "options": [
+      "1970s",
+      "1980s",
+      "2000s",
+      "1990s"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video",
+      "1986"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "How many series of Naked Video were made?",
+    "options": [
+      "Seven",
+      "Five",
+      "Four",
+      "Three"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Naked Video character was a Gaelic presenter for the \"Outer Hebrides Broadcasting Corporation\"?",
+    "options": [
+      "Bernard",
+      "The Baldy Man",
+      "Siadwell",
+      "Highlander Angus"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Naked Video",
+      "Highlander Angus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which football-themed radio show was a spin-off from the Naked Radio team?",
+    "options": [
+      "Off the Ball",
+      "Only an Excuse?",
+      "Sportsound",
+      "A View from the Terraces"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video",
+      "Naked Radio",
+      "Only an Excuse?"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Naked Video character was a naive young Welsh poet?",
+    "options": [
+      "Siadwell",
+      "Bernard",
+      "Rab C. Nesbitt",
+      "Highlander Angus"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Naked Video",
+      "Siadwell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which actress played Drunk Sloane in Naked Video?",
+    "options": [
+      "Louise Beattie",
+      "Kate Donnelly",
+      "Elaine C. Smith",
+      "Helen Lederer"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Naked Video",
+      "Drunk Sloane",
+      "Helen Lederer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In Naked Video, what was the name of Bitter Divorcee Lizzie's ex-husband?",
+    "options": [
+      "Fast Eddy",
+      "Big Tam",
+      "Flash Harry",
+      "Slick Willie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Naked Video",
+      "Lizzie",
+      "Fast Eddy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which actress played Bitter Divorcee Lizzie in Naked Video?",
+    "options": [
+      "Helen Lederer",
+      "Elaine C. Smith",
+      "Kate Donnelly",
+      "Barbara Rafferty"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video",
+      "Lizzie",
+      "Elaine C. Smith"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which year were both Naked Radio and Naked Video cancelled?",
+    "options": [
+      "1993",
+      "1991",
+      "1989",
+      "1988"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video",
+      "Naked Radio",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Who played the Welsh poet Siadwell in Naked Video?",
+    "options": [
+      "Ron Bain",
+      "John Sparkes",
+      "Andy Gray",
+      "Jonathan Watson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video",
+      "Siadwell",
+      "John Sparkes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which repressed middle-aged couple were played by Gregor Fisher and Helen Lederer in Naked Video?",
+    "options": [
+      "Rab and Mary",
+      "George and Mildred",
+      "Bernard and Miriam",
+      "Jamesie and Ella"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Naked Video",
+      "Bernard and Miriam"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What did Bernard build for Miriam's mother in a Naked Video sketch?",
+    "options": [
+      "An electric chair",
+      "A guillotine",
+      "A rocket",
+      "A garden shed"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Naked Video",
+      "Bernard and Miriam"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Where did the Naked Radio cast stage their show in 1985, leading to Naked Video?",
+    "options": [
+      "The Mayfest",
+      "The King's Theatre, Glasgow",
+      "The Glasgow Pavilion",
+      "The Edinburgh Festival Fringe"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Naked Video",
+      "Edinburgh Fringe",
+      "1985"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "How many episodes of Naked Video were made in total?",
+    "options": [
+      "24",
+      "30",
+      "18",
+      "36"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "In which year did Naked Radio begin its ten-year run on BBC Radio Scotland?",
+    "options": [
+      "1978",
+      "1981",
+      "1984",
+      "1986"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Naked Video",
+      "Naked Radio",
+      "1981"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "What prize could viewers win in Highlander Angus's Naked Video phone-in competition?",
+    "options": [
+      "A Gaelic dictionary",
+      "A set of bagpipes",
+      "A Harris Tweed cap",
+      "An OHBC vest"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Naked Video",
+      "Highlander Angus",
+      "OHBC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "How did the poet Siadwell meet his end at the close of series 3 of Naked Video?",
+    "options": [
+      "He drank himself to death",
+      "He emigrated to Patagonia",
+      "He fell off a cliff",
+      "He was struck by lightning"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Naked Video",
+      "Siadwell"
+    ],
+    "source": "manual"
+  }
+]

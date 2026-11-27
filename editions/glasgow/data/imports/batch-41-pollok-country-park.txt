@@ -1,0 +1,7 @@
+# Pollok Country Park. Source: https://en.wikipedia.org/wiki/Pollok_Country_Park
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | Which breed of cattle is famously kept in Pollok Country Park? | Highland cattle | Aberdeen Angus | Belted Galloway | Ayrshire | Pollok Country Park; Highland cattle
+2 | landmarks | Which family owned the Pollok estate for over 700 years? | The Maxwells | The Hamiltons | The Campbells | The Stewarts | Pollok Country Park; Maxwell family
+3 | landmarks | In which year was the Pollok estate, including Pollok House, gifted to Glasgow? | 1966 | 1944 | 1983 | 1922 | Pollok Country Park; Pollok House
+3 | landmarks | Which motorway was the "Pollok Free State" protest camp trying to stop? | The M77 | The M8 | The M74 | The M80 | Pollok Country Park; Pollok Free State; M77
+4 | landmarks | Which Olympic cyclist opened Pollok Country Park's mountain bike routes in 2004? | Chris Hoy | Bradley Wiggins | Mark Cavendish | Graeme Obree | Pollok Country Park; Chris Hoy

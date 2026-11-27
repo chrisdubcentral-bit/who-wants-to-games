@@ -1,0 +1,12 @@
+# Maryhill. Source: https://en.wikipedia.org/wiki/Maryhill
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | Maryhill is named after which woman who inherited the estate? | Mary Hill | Mary Barbour | Mary Slessor | Mary, Queen of Scots | Maryhill; Mary Hill
+2 | landmarks | Which detective series is described as set and filmed in Maryhill? | Taggart | Rebus | Shetland | Vera | Maryhill; Taggart
+3 | landmarks | Which canal runs through Maryhill, with five locks and an aqueduct? | The Forth and Clyde Canal | The Union Canal | The Monkland Canal | The Crinan Canal | Maryhill; Forth and Clyde Canal
+3 | history | In which year did Maryhill become a burgh in its own right? | 1856 | 1891 | 1912 | 1830 | Maryhill; burgh
+3 | history | In which year was Maryhill absorbed into Glasgow? | 1891 | 1856 | 1912 | 1926 | Maryhill
+3 | history | Which senior Nazi was held at Maryhill Barracks during World War II? | Rudolf Hess | Hermann Göring | Albert Speer | Karl Dönitz | Maryhill Barracks; Rudolf Hess
+3 | landmarks | Which Mackintosh-designed church hall stands beside the canal in Maryhill? | Ruchill Church Hall | Govan Old Hall | Partick Burgh Hall | Possil Hall | Maryhill; Ruchill Church Hall
+4 | history | In which year did Maryhill Barracks open? | 1872 | 1902 | 1856 | 1914 | Maryhill Barracks
+4 | history | Which ancient Roman frontier runs through the Maryhill Park area? | The Antonine Wall | Hadrian's Wall | The Gask Ridge | Dere Street | Maryhill; Antonine Wall
+4 | history | Which two regiments were housed at Maryhill Barracks? | The Scots Greys and the Highland Light Infantry | The Black Watch and the Gordons | The Cameronians and the Royal Scots | The Argylls and the KOSB | Maryhill Barracks

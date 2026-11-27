@@ -1,0 +1,12 @@
+# Robert Carlyle. Source: https://en.wikipedia.org/wiki/Robert_Carlyle
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which character did Robert Carlyle play in Trainspotting? | Francis Begbie | Renton | Sick Boy | Spud | Robert Carlyle; Trainspotting; Begbie
+1 | film-tv | In which 1997 film did Robert Carlyle lead a group of amateur strippers? | The Full Monty | Brassed Off | Billy Elliot | Calendar Girls | Robert Carlyle; The Full Monty
+2 | film-tv | Which Highland policeman did Robert Carlyle play in a BBC comedy-drama? | Hamish Macbeth | Taggart | Rebus | Jimmy Perez | Robert Carlyle; Hamish Macbeth
+2 | film-tv | Which Bond villain did Robert Carlyle play in The World Is Not Enough? | Renard | Le Chiffre | Silva | Zorin | Robert Carlyle; James Bond; Renard
+2 | film-tv | Which fairy-tale character did Robert Carlyle play in Once Upon a Time? | Rumplestiltskin | Captain Hook | The Big Bad Wolf | Geppetto | Robert Carlyle; Once Upon a Time
+2 | famous-glaswegians | In which area of Glasgow was Robert Carlyle born? | Maryhill | Govan | Partick | Easterhouse | Robert Carlyle; Maryhill
+3 | film-tv | In which series did Robert Carlyle play serial killer Albie Kinsella in 1994? | Cracker | Taggart | Prime Suspect | Inspector Morse | Robert Carlyle; Cracker
+3 | art-culture | Which theatre company did Robert Carlyle co-found in 1990? | Raindog | Wildcat | 7:84 | TAG | Robert Carlyle; Raindog
+3 | film-tv | Which 2015 film did Robert Carlyle direct and star in as a Glasgow barber? | The Legend of Barney Thomson | Carla's Song | Riff-Raff | Ravenous | Robert Carlyle; Barney Thomson
+4 | film-tv | Which Ken Loach film gave Robert Carlyle his first film role in 1991? | Riff-Raff | Carla's Song | Kes | My Name Is Joe | Robert Carlyle; Riff-Raff; Ken Loach

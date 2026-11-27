@@ -1,0 +1,22 @@
+# Merchant City. Source: https://www.visitglasgow.com/neighbourhoods/merchant-city
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | art-culture | In which month is the Merchant City Festival held each year? | July | May | September | December | Merchant City; Merchant City Festival
+2 | landmarks | The Briggait in the Merchant City was formerly the city's what? | Fish market | Fruit market | Cattle market | Corn exchange | Merchant City; Briggait
+2 | venues-gigs | Which orchestra has its home at City Halls? | BBC Scottish Symphony Orchestra | Royal Scottish National Orchestra | Scottish Chamber Orchestra | Scottish Opera Orchestra | Merchant City; City Halls; BBC SSO
+3 | venues-gigs | Which Merchant City venue is the sister venue to City Halls? | The Old Fruitmarket | The Royal Concert Hall | The Barrowland | The Hydro | Merchant City; Old Fruitmarket; City Halls
+3 | venues-gigs | What does Visit Glasgow call Glasgow's oldest purpose-built performance space? | City Halls | Theatre Royal | Tron Theatre | King's Theatre | Merchant City; City Halls
+2 | venues-gigs | Which Merchant City venue does Visit Glasgow call "the world's oldest surviving music hall"? | Britannia Panopticon | City Halls | The Old Fruitmarket | Tron Theatre | Merchant City; Britannia Panopticon
+3 | art-culture | Which Merchant City building is home to Glasgow Print Studio and Street Level Photoworks? | Trongate 103 | The Briggait | Hutchesons' Hall | The Lighthouse | Merchant City; Trongate 103
+4 | art-culture | Sharmanka Kinetic Theatre's moving figures are made from what? | Scrap metal | Driftwood | Papier-mâché | Old toys | Merchant City; Sharmanka
+3 | history | The Glasgow Police Museum tells the story of the country's oldest what? | Police force | Prison | Fire brigade | Court | Merchant City; Glasgow Police Museum
+2 | labels-scene | Monorail in the Merchant City is what kind of independent shop? | Record shop | Bookshop | Comic shop | Guitar shop | Merchant City; Monorail
+2 | food-drink | Mr Ben in the Merchant City is one of the city's best-known what? | Vintage stores | Record shops | Barbers | Tattoo parlours | Merchant City; Mr Ben
+3 | food-drink | According to Visit Glasgow, what does The Spiritualist on Miller Street have? | Scotland's greatest bar gantry | Scotland's longest bar | Scotland's biggest whisky cellar | Scotland's oldest pub sign | Merchant City; The Spiritualist; Miller Street
+3 | food-drink | Which award does Margo on Miller Street hold? | A Bib Gourmand | A Michelin star | Three AA rosettes | A Green Michelin star | Merchant City; Margo; Bib Gourmand
+2 | food-drink | Babbity Bowster is a historic Merchant City bar known for live music of which kind? | Folk | Jazz | Punk | Country | Merchant City; Babbity Bowster
+3 | food-drink | Rab Ha's in the Merchant City is what kind of pub? | A traditional Scottish pub | An Irish pub | A sports bar | A real ale brewpub | Merchant City; Rab Ha's
+3 | art-culture | Delmonica's in the Merchant City is one of the city's longest-running what? | Gay bars | Jazz clubs | Comedy clubs | Cocktail bars | Merchant City; Delmonica's
+4 | history | The Ramshorn Graveyard dates back to which period? | Early 18th century | Early 16th century | Late 19th century | Early 20th century | Merchant City; Ramshorn Graveyard
+3 | landmarks | Which Merchant City street does Visit Glasgow call "Glasgow's fashion boulevard"? | Ingram Street | Buchanan Street | Sauchiehall Street | Argyle Street | Merchant City; Ingram Street
+4 | landmarks | Rottenrow Garden is on the campus of which university? | University of Strathclyde | University of Glasgow | Glasgow Caledonian University | Glasgow School of Art | Merchant City; Rottenrow Garden
+3 | landmarks | Which iconic Merchant City building houses the brunch spot Saints of Ingram? | Hutchesons' Hall | The Corinthian Club | City Halls | Trades Hall | Merchant City; Hutchesons' Hall; Saints of Ingram

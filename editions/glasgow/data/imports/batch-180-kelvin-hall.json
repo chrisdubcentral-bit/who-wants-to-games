@@ -1,0 +1,211 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which year did Kelvin Hall open as an exhibition venue?",
+    "options": [
+      "1927",
+      "1901",
+      "1951",
+      "1938"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kelvin Hall",
+      "1927"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What destroyed the first Kelvin Hall in 1925?",
+    "options": [
+      "Flooding",
+      "Fire",
+      "A gas explosion",
+      "A storm"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelvin Hall",
+      "fire",
+      "1925"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "During the Second World War, Kelvin Hall became a factory making what?",
+    "options": [
+      "Barrage balloons",
+      "Tanks",
+      "Parachutes",
+      "Torpedoes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kelvin Hall",
+      "Second World War",
+      "balloons"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which Scottish boxer took over Roberto Durán's world lightweight title at Kelvin Hall in April 1979?",
+    "options": [
+      "Scott Harrison",
+      "Walter McGowan",
+      "Ken Buchanan",
+      "Jim Watt"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kelvin Hall",
+      "Jim Watt",
+      "1979"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band recorded a live album at Kelvin Hall in April 1967?",
+    "options": [
+      "The Who",
+      "The Kinks",
+      "The Small Faces",
+      "The Rolling Stones"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelvin Hall",
+      "The Kinks",
+      "1967"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which Scottish band played its debut concert at Kelvin Hall in 1973?",
+    "options": [
+      "Capercaillie",
+      "Runrig",
+      "Big Country",
+      "Simple Minds"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelvin Hall",
+      "Runrig",
+      "1973"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Who performed Tubular Bells at Kelvin Hall with the Scottish National Orchestra in 1975?",
+    "options": [
+      "Vangelis",
+      "Mike Oldfield",
+      "Rick Wakeman",
+      "Jean-Michel Jarre"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelvin Hall",
+      "Mike Oldfield",
+      "1975"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which American evangelist preached daily at Kelvin Hall for six weeks in 1955?",
+    "options": [
+      "Oral Roberts",
+      "Billy Graham",
+      "Pat Robertson",
+      "Billy Sunday"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelvin Hall",
+      "Billy Graham",
+      "1955"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which subway station serves Kelvin Hall?",
+    "options": [
+      "Hillhead",
+      "Partick",
+      "Kelvinhall",
+      "Kelvinbridge"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kelvin Hall",
+      "subway"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which band supported Jerry Lee Lewis at Kelvin Hall in 1964 and were booed off?",
+    "options": [
+      "The Yardbirds",
+      "The Animals",
+      "The Hollies",
+      "Them"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelvin Hall",
+      "Jerry Lee Lewis",
+      "The Animals",
+      "1964"
+    ],
+    "source": "manual"
+  }
+]

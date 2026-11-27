@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Glasgow post-rock band Mogwai took their name from creatures in which film?",
+    "options": [
+      "Labyrinth",
+      "Ghostbusters",
+      "Gremlins",
+      "The Goonies"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mogwai",
+      "band name",
+      "Gremlins"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which Mogwai album reached No. 1 in the UK in 2021?",
+    "options": [
+      "As the Love Continues",
+      "Come On Die Young",
+      "Young Team",
+      "Rave Tapes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mogwai",
+      "As the Love Continues"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Mogwai wrote the soundtrack for a 2006 film portrait of which footballer?",
+    "options": [
+      "Diego Maradona",
+      "Zinedine Zidane",
+      "Kenny Dalglish",
+      "David Beckham"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mogwai",
+      "Zidane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Mogwai scored which French supernatural TV drama, released as an album in 2013?",
+    "options": [
+      "Les Revenants",
+      "Spiral",
+      "The Tunnel",
+      "Braquo"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mogwai",
+      "Les Revenants"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Who is Mogwai's guitarist and vocalist, a founder member in 1995?",
+    "options": [
+      "Aidan Moffat",
+      "Barry Burns",
+      "Stuart Braithwaite",
+      "Dominic Aitchison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mogwai",
+      "Stuart Braithwaite"
+    ],
+    "source": "manual"
+  }
+]

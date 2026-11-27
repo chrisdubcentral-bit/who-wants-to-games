@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which Pixar princess did Kelly Macdonald voice in Brave?",
+    "options": [
+      "Elinor",
+      "Merida",
+      "Moana",
+      "Rapunzel"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelly Macdonald",
+      "Brave",
+      "Merida"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In which 1996 film did Kelly Macdonald make her debut as Diane?",
+    "options": [
+      "Orphans",
+      "Small Faces",
+      "Shallow Grave",
+      "Trainspotting"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kelly Macdonald",
+      "Trainspotting"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which job was Kelly Macdonald doing in Glasgow when she saw the Trainspotting casting leaflet?",
+    "options": [
+      "Hairdresser",
+      "Barmaid",
+      "Waitress",
+      "Shop assistant"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelly Macdonald",
+      "Trainspotting"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which detective did Kelly Macdonald play in series 6 of Line of Duty?",
+    "options": [
+      "DS Kate Fleming",
+      "DI Lindsay Denton",
+      "DCI Roz Huntley",
+      "DCI Joanne Davidson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kelly Macdonald",
+      "Line of Duty"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which HBO series did Kelly Macdonald play Margaret Thompson?",
+    "options": [
+      "Deadwood",
+      "Boardwalk Empire",
+      "Game of Thrones",
+      "The Sopranos"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kelly Macdonald",
+      "Boardwalk Empire"
+    ],
+    "source": "manual"
+  }
+]

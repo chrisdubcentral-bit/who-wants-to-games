@@ -1,0 +1,7 @@
+# Jonathan Watson. Source: https://en.wikipedia.org/wiki/Jonathan_Watson
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | Jonathan Watson's long-running sketch show Only an Excuse? parodied which subject? | Scottish football | Scottish politics | Glasgow buses | The weather | Jonathan Watson; Only an Excuse?
+3 | film-tv | Who did Jonathan Watson play opposite Brian Cox in Bob Servant Independent? | Frank, Bob's sidekick | Bob Servant | The Prime Minister | A newsreader | Jonathan Watson; Bob Servant
+3 | film-tv | What was the name of Jonathan Watson's political satire on BBC Radio Scotland? | Watson's Wind Up | Watson Tonight | The Jonathan Watson Hour | Off the Ball | Jonathan Watson; Watson's Wind Up
+3 | famous-glaswegians | Which Glasgow school did actor Jonathan Watson attend? | Hillhead High School | Shawlands Academy | Glasgow Academy | Knightswood Secondary | Jonathan Watson; Hillhead High
+4 | film-tv | Which alien race did Jonathan Watson play two members of in Doctor Who: Flux? | Sontarans | Daleks | Cybermen | Ood | Jonathan Watson; Doctor Who; Sontarans

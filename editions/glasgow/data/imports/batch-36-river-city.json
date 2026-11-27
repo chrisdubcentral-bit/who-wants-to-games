@@ -1,0 +1,303 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "In which fictional Glasgow district was the soap River City set?",
+    "options": [
+      "Glenbogle",
+      "Craiglang",
+      "Burnistoun",
+      "Shieldinch"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "River City",
+      "Shieldinch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "What was the name of the pub in River City?",
+    "options": [
+      "The Rovers Return",
+      "The Woolpack",
+      "The Clansman",
+      "The Tall Ship"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "River City",
+      "The Tall Ship"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In which town was River City filmed on a purpose-built set?",
+    "options": [
+      "Clydebank",
+      "Greenock",
+      "Dumbarton",
+      "Paisley"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River City",
+      "Dumbarton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In which year was River City first broadcast?",
+    "options": [
+      "2005",
+      "2008",
+      "2002",
+      "1998"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River City",
+      "2002"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Who created the BBC Scotland soap River City?",
+    "options": [
+      "Ian Pattison",
+      "Peter May",
+      "Glenn Chandler",
+      "Stephen Greenhorn"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "River City",
+      "Stephen Greenhorn"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "The name Shieldinch comes from which two real places on opposite banks of the Clyde?",
+    "options": [
+      "Whiteinch and Shieldhall",
+      "Partick and Govan",
+      "Finnieston and Kinning Park",
+      "Yoker and Renfrew"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "River City",
+      "Shieldinch",
+      "Whiteinch",
+      "Shieldhall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which city did River City's creator first propose as the soap's setting?",
+    "options": [
+      "Dundee",
+      "Inverness",
+      "Edinburgh",
+      "Aberdeen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River City",
+      "Edinburgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What was the working title of the Leith-based idea that became River City?",
+    "options": [
+      "The Docks",
+      "Leith Walk",
+      "The Shore",
+      "Port of Leith"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "River City",
+      "The Shore"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Scottish comedy did River City cross over with for Children in Need in 2017?",
+    "options": [
+      "Still Game",
+      "Scot Squad",
+      "Two Doors Down",
+      "Burnistoun"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "River City",
+      "Scot Squad",
+      "Children in Need"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which year was the final episode of River City broadcast?",
+    "options": [
+      "2026",
+      "2019",
+      "2022",
+      "2024"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "River City"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What was River City called by the BBC before its name was revealed?",
+    "options": [
+      "The Scottish soap",
+      "Project Clyde",
+      "Untitled Drama",
+      "Glasgow Lives"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "River City"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What name was River City's title shortened from after a brainstorm?",
+    "options": [
+      "City on the River",
+      "River City People",
+      "River City Glasgow",
+      "River City Lives"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "River City",
+      "title"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "About how many viewers watched the first episode of River City in 2002?",
+    "options": [
+      "Over 2 million",
+      "About 250,000",
+      "About 1.5 million",
+      "Over 700,000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "River City",
+      "viewing figures"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Classic episodes of River City shown during the 2020 pandemic were given which title?",
+    "options": [
+      "River City Rewind",
+      "River City Gold",
+      "River City Classics",
+      "Back to Shieldinch"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "River City",
+      "River City Rewind"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which award did River City win at the RTS Scotland Awards in 2023?",
+    "options": [
+      "Audience Award",
+      "Soap of the Year",
+      "Best Ensemble",
+      "Drama"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "River City",
+      "RTS Scotland 2023"
+    ],
+    "source": "manual"
+  }
+]

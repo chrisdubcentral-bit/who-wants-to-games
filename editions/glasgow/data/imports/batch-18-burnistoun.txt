@@ -1,0 +1,12 @@
+# Burnistoun. Source: https://en.wikipedia.org/wiki/Burnistoun
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which two comedians wrote and starred in the BBC Scotland sketch show Burnistoun? | Robert Florence and Iain Connell | Ford Kiernan and Greg Hemphill | Kevin Bridges and Frankie Boyle | Sanjeev Kohli and Paul Riley | Burnistoun; Robert Florence; Iain Connell
+2 | film-tv | The name Burnistoun comes from which two areas of Glasgow? | Springburn and Dennistoun | Bridgeton and Dennistoun | Springburn and Bridgeton | Shettleston and Dennistoun | Burnistoun; Springburn; Dennistoun
+2 | film-tv | What do Burnistoun's police officers MacGregor and Toshan call themselves? | Quality Polis | Top Polis | Glesga Polis | Real Polis | Burnistoun; Quality Polis
+2 | film-tv | Which 17-year-old brothers run an ice-cream van in Burnistoun? | Paul and Walter | Scott and Peter | Joe and Barry | Jamesie and Andra | Burnistoun; Paul and Walter
+3 | film-tv | Which superhero is parodied by Burnistoun's Doberman Man? | Batman | Superman | Spider-Man | The Incredible Hulk | Burnistoun; Doberman Man
+3 | film-tv | Which aspiring girl band is led by Kelly McGlade in Burnistoun? | The Sloppy Seconds | The Burnistoun Belles | The Wee Spice Girls | The Bampots | Burnistoun; Kelly McGlade; Sloppy Seconds
+3 | film-tv | How many series of Burnistoun were made between 2010 and 2012? | Three | Two | Four | Five | Burnistoun
+3 | film-tv | Which documentary presenter is Burnistoun's Robert Clach often thought to parody? | Neil Oliver | David Starkey | Simon Schama | Tony Robinson | Burnistoun; Robert Clach; Neil Oliver
+4 | film-tv | Which old TV show does Burnistoun Kilty Club parody? | The White Heather Club | The Kilt Is My Delight | Thingummyjig | Hogmanay Show | Burnistoun; Kilty Club; White Heather Club
+4 | film-tv | Which Glasgow theatre hosted "Burnistoun: Live and For Real" in 2015? | The King's Theatre | The Pavilion Theatre | The Theatre Royal | The Citizens Theatre | Burnistoun; King's Theatre; 2015

@@ -1,0 +1,7 @@
+# Jack Bruce. Source: https://en.wikipedia.org/wiki/Jack_Bruce
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | glasgow-bands | Jack Bruce was bassist and lead singer of which 1960s supergroup with Eric Clapton and Ginger Baker? | Cream | Blind Faith | The Yardbirds | Traffic | Jack Bruce; Cream
+2 | songs-albums | Which Cream song did Jack Bruce co-write with Pete Brown? | Sunshine of Your Love | Layla | Badge | Crossroads | Jack Bruce; Sunshine of Your Love
+3 | famous-glaswegians | In which town near Glasgow was Jack Bruce born in 1943? | Bishopbriggs | Paisley | Kirkintilloch | Rutherglen | Jack Bruce; Bishopbriggs
+3 | glasgow-bands | Jack Bruce had a UK No. 1 with which band's "Pretty Flamingo" in 1966? | Manfred Mann | The Animals | The Hollies | The Kinks | Jack Bruce; Manfred Mann
+4 | famous-glaswegians | Which instrument did Jack Bruce win a scholarship to study at the Royal Scottish Academy of Music and Drama? | Cello | Piano | Violin | Trumpet | Jack Bruce; cello

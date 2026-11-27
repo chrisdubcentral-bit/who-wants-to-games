@@ -1,0 +1,106 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which city did Glasgow beat to host the 2014 Commonwealth Games?",
+    "options": [
+      "Abuja",
+      "Delhi",
+      "Halifax",
+      "Auckland"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "2014 Commonwealth Games",
+      "bid",
+      "Abuja"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In what ratio did the Scottish Government and Glasgow City Council agree to underwrite the 2014 Games costs?",
+    "options": [
+      "90/10",
+      "60/40",
+      "50/50",
+      "80/20"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "2014 Commonwealth Games",
+      "bid",
+      "costs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which part of Glasgow was the 2014 Commonwealth Games athletes' village planned?",
+    "options": [
+      "Partick",
+      "Springburn",
+      "Dalmarnock",
+      "Govan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "2014 Commonwealth Games",
+      "athletes' village",
+      "Dalmarnock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which city did Glasgow beat to become Scotland's candidate for the 2014 Commonwealth Games?",
+    "options": [
+      "Aberdeen",
+      "Stirling",
+      "Edinburgh",
+      "Dundee"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "2014 Commonwealth Games",
+      "bid",
+      "Edinburgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "On what date did the 2014 Commonwealth Games open in Glasgow?",
+    "options": [
+      "14 August 2014",
+      "1 July 2014",
+      "3 August 2014",
+      "23 July 2014"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "2014 Commonwealth Games",
+      "opening date"
+    ],
+    "source": "manual"
+  }
+]

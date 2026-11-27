@@ -1,0 +1,7 @@
+# Bis. Source: https://en.wikipedia.org/wiki/Bis_(Scottish_band)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | Bis wrote and recorded the theme song for which cartoon? | The Powerpuff Girls | Dexter's Laboratory | Johnny Bravo | Rugrats | Bis; Powerpuff Girls
+3 | glasgow-bands | Bis were the first unsigned band to play on Top of the Pops, performing which song? | Kandy Pop | Eurodisco | Tell It to the Kids | Sweet Shop Avengerz | Bis; Kandy Pop; Top of the Pops
+3 | glasgow-bands | What is the stage name of Bis singer Amanda MacKinnon? | Manda Rin | Kandy Kay | Disco Di | Sci-Fi Mandy | Bis; Manda Rin
+4 | labels-scene | Which Glasgow label, run by the Delgados, released Bis's early EPs? | Chemikal Underground | Postcard | Creation | Rock Action | Bis; Chemikal Underground
+4 | venues-gigs | At which Glasgow venue did Bis play their farewell show in 2003? | King Tut's Wah Wah Hut | Barrowland | QMU | The Garage | Bis; King Tut's

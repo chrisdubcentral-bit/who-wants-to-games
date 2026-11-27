@@ -1,0 +1,27 @@
+# Glasgow gigs and venues. Source: user's gig list (Google Sheet 12jcAUZ9pQ41Dau2yOkS59qn6L4dlUF0x58Ixv4fQfmc)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | venues-gigs | Which band played the QMU in November 1991, with Shonen Knife supporting? | Nirvana | Pearl Jam | Mudhoney | Sonic Youth | QMU; Nirvana; 1991
+2 | venues-gigs | Which Manchester band played the Barrowland on 16 July 1986? | The Smiths | New Order | The Fall | James | Barrowland; The Smiths; 1986
+2 | venues-gigs | At which festival did Radiohead headline Glasgow Green in July 2017, with Belle & Sebastian supporting? | TRNSMT | T in the Park | Connect | The Big Day | Glasgow Green; Radiohead; TRNSMT; 2017
+3 | venues-gigs | Which band were on the bill supporting The Verve at The Cathouse in December 1993, alongside Acetone? | Oasis | Blur | Pulp | Suede | The Cathouse; The Verve; Oasis; 1993
+3 | venues-gigs | Which band played three nights in a row at the Barrowland in December 1987? | The Pogues | U2 | The Undertones | Simple Minds | Barrowland; The Pogues; 1987
+3 | venues-gigs | Which band headlined the Barrowland on 27 December 1994? | Oasis | Blur | Pulp | Primal Scream | Barrowland; Oasis; 1994
+3 | venues-gigs | Which garage rock duo played the Glasgow Academy in April 2003? | The White Stripes | The Black Keys | The Kills | The Ting Tings | The Academy; The White Stripes; 2003
+3 | venues-gigs | Which Britpop band played King Tut's in July 1990 and again in May 1991? | Blur | Oasis | Pulp | Suede | King Tut's; Blur; 1990
+3 | venues-gigs | Which Scottish band played King Tut's in March 1997? | Travis | Texas | Idlewild | Mogwai | King Tut's; Travis; 1997
+3 | venues-gigs | Which Welsh band held a "Furrymania" event at Nice N Sleazy in June 2001? | Super Furry Animals | Manic Street Preachers | Catatonia | Stereophonics | Nice N Sleazy; Super Furry Animals; 2001
+4 | venues-gigs | Who supported Nirvana at the QMU in November 1991? | Shonen Knife | Bis | Teenage Fanclub | Babes in Toyland | QMU; Nirvana; Shonen Knife; 1991
+4 | venues-gigs | Which band supported Simple Minds at Ibrox Stadium in June 1986? | The Cult | Big Country | The Alarm | The Waterboys | Ibrox; Simple Minds; The Cult; 1986
+4 | venues-gigs | Which band supported U2 at Celtic Park in August 1993, along with Utah Saints? | Stereo MCs | Hoodoo Gurus | The Pogues | Primal Scream | Celtic Park; U2; Stereo MCs; 1993
+4 | venues-gigs | What was the 1990 Glasgow Green concert headlined by Sheena Easton, with Big Country and Deacon Blue, called? | The Big Day | Festival in the City | Mayfest | Glasgow Live | Glasgow Green; The Big Day; 1990
+4 | venues-gigs | What was the name of the 1992 SECC tour headlined by the Jesus and Mary Chain, with My Bloody Valentine, Blur and Dinosaur Jr? | Rollercoaster | Lollapalooza | Sound City | Reading Revue | SECC; Jesus and Mary Chain; Rollercoaster; 1992
+4 | venues-gigs | Who supported Sonic Youth at the Barrowland in December 1992? | Pavement | Mudhoney | Dinosaur Jr | Nirvana | Barrowland; Sonic Youth; Pavement; 1992
+4 | venues-gigs | Which band headlined Festival in the City on Glasgow Green on 26 August 2000, with Teenage Fanclub supporting? | Primal Scream | Paul Weller | Oasis | Travis | Glasgow Green; Festival in the City; Primal Scream; 2000
+4 | venues-gigs | Who headlined Festival in the City on Glasgow Green on 25 August 2000, with Beck and Elliott Smith on the bill? | Paul Weller | Primal Scream | Blur | Super Furry Animals | Glasgow Green; Festival in the City; Paul Weller; 2000
+4 | venues-gigs | Which Glasgow band supported Super Furry Animals at King Tut's in March 1996? | Bis | Mogwai | Belle and Sebastian | Arab Strap | King Tut's; Super Furry Animals; Bis; 1996
+4 | venues-gigs | Which band supported Mogwai at the Hydro in December 2017? | Ride | Slowdive | Swervedriver | Spiritualized | Hydro; Mogwai; Ride; 2017
+4 | venues-gigs | In which Glasgow park did Mogwai headline the East End Social gig in 2014? | Richmond Park | Glasgow Green | Bellahouston Park | Kelvingrove Park | Mogwai; East End Social; Richmond Park; 2014
+5 | venues-gigs | Who supported Sonic Youth at Strathclyde Union in March 1989? | Mudhoney | Pavement | Dinosaur Jr | Big Black | Strathclyde Union; Sonic Youth; Mudhoney; 1989
+5 | venues-gigs | Before it became King Tut's, the St Vincent Street venue was briefly called what, after Saints and Sinners? | The Buck | The Doublet | Rooftops | Fury Murrys | King Tut's; The Buck; Saints and Sinners
+5 | venues-gigs | Which comedy character supported Kitchens of Distinction at The Revue at the Barras in 1989? | Frank Sidebottom | Mr Blobby | Max Headroom | Spitting Image | The Barras; Kitchens of Distinction; Frank Sidebottom; 1989
+5 | venues-gigs | Who supported Belle & Sebastian at the Botanic Gardens in June 2004? | V-Twin | Camera Obscura | Teenage Fanclub | The Delgados | Botanic Gardens; Belle and Sebastian; V-Twin; 2004

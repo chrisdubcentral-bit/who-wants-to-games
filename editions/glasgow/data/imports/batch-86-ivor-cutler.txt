@@ -1,0 +1,7 @@
+# Ivor Cutler. Source: https://en.wikipedia.org/wiki/Ivor_Cutler
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | In which Beatles film did Ivor Cutler play Buster Bloodvessel? | Magical Mystery Tour | Help! | A Hard Day's Night | Yellow Submarine | Ivor Cutler; Magical Mystery Tour
+2 | famous-glaswegians | In which area of Glasgow was Ivor Cutler born in 1923? | Govan | Partick | Gorbals | Dennistoun | Ivor Cutler; Govan
+3 | famous-glaswegians | Which instrument did Ivor Cutler often play in live performances? | Harmonium | Accordion | Bagpipes | Ukulele | Ivor Cutler; harmonium
+3 | film-tv | Which DJ recorded many sessions with Ivor Cutler from 1969? | John Peel | Kenny Everett | Tony Blackburn | Jimmy Young | Ivor Cutler; John Peel
+4 | songs-albums | What is the title of Ivor Cutler's album and book about a Scottish home? | Life in a Scotch Sitting Room | Glasgow Dreams | A Wet Day in Govan | Up a Close | Ivor Cutler; Life in a Scotch Sitting Room

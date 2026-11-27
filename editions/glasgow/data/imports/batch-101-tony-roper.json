@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Tony Roper played the postman in which 1973 cult film?",
+    "options": [
+      "Get Carter",
+      "Don't Look Now",
+      "The Wicker Man",
+      "The Prime of Miss Jean Brodie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Tony Roper",
+      "The Wicker Man"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which comedy legend did Tony Roper play in the stage show Rikki and Me?",
+    "options": [
+      "Chic Murray",
+      "Stanley Baxter",
+      "Rikki Fulton",
+      "Jimmy Logan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Tony Roper",
+      "Rikki Fulton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which charity football team did Tony Roper co-found in the 1980s?",
+    "options": [
+      "Inter Shettleston",
+      "Partizan Possil",
+      "Real Mulvenny",
+      "Dukla Pumpherston"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tony Roper",
+      "Dukla Pumpherston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "What is the title of Tony Roper's 2014 autobiography?",
+    "options": [
+      "I'll No Tell You Again",
+      "A Wee Bit of Rab",
+      "Jamesie and Me",
+      "Up the Steamie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Tony Roper",
+      "autobiography"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "What did Tony Roper win a BAFTA for?",
+    "options": [
+      "Playing Jamesie Cotter",
+      "Directing Naked Video",
+      "Hosting Scotch and Wry",
+      "Writing The Steamie"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tony Roper",
+      "BAFTA",
+      "The Steamie"
+    ],
+    "source": "manual"
+  }
+]

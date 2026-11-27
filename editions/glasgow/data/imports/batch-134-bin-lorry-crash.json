@@ -1,0 +1,61 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "On which Glasgow street did the bin lorry crash of December 2014 happen?",
+    "options": [
+      "Queen Street",
+      "Buchanan Street",
+      "Sauchiehall Street",
+      "Argyle Street"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Bin lorry crash",
+      "Queen Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which month was the 2014 Glasgow bin lorry crash?",
+    "options": [
+      "June",
+      "October",
+      "December",
+      "March"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Bin lorry crash"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Where was the fatal accident inquiry into the 2014 bin lorry crash held?",
+    "options": [
+      "Hampden Park",
+      "The City Chambers",
+      "The High Court in Edinburgh",
+      "Glasgow Sheriff Court"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bin lorry crash",
+      "fatal accident inquiry"
+    ],
+    "source": "manual"
+  }
+]

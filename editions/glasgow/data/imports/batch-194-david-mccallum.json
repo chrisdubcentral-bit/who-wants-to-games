@@ -1,0 +1,107 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which character did Glasgow-born David McCallum play in NCIS for 20 seasons?",
+    "options": [
+      "Tony DiNozzo",
+      "Timothy McGee",
+      "Leroy Jethro Gibbs",
+      "Ducky Mallard"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "David McCallum",
+      "NCIS",
+      "Ducky"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which spy did David McCallum play in The Man from U.N.C.L.E.?",
+    "options": [
+      "Alexander Waverly",
+      "Mark Slate",
+      "Illya Kuryakin",
+      "Napoleon Solo"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "David McCallum",
+      "Man from U.N.C.L.E.",
+      "Illya Kuryakin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Who starred opposite David McCallum in Sapphire & Steel?",
+    "options": [
+      "Diana Rigg",
+      "Joanna Lumley",
+      "Honor Blackman",
+      "Linda Thorson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "David McCallum",
+      "Sapphire & Steel",
+      "Joanna Lumley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "On which Hillhead street is the blue plaque outside David McCallum's birthplace?",
+    "options": [
+      "Kersland Street",
+      "Byres Road",
+      "Great George Street",
+      "Otago Street"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "David McCallum",
+      "Hillhead",
+      "Kersland Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "songs-albums",
+    "difficulty": 5,
+    "question": "Which Dr. Dre track sampled \"The Edge\" from a David McCallum album?",
+    "options": [
+      "Still D.R.E.",
+      "The Next Episode",
+      "Nuthin' but a \"G\" Thang",
+      "Forgot About Dre"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "David McCallum",
+      "The Edge",
+      "Dr. Dre"
+    ],
+    "source": "manual"
+  }
+]

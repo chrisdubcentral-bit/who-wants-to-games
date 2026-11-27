@@ -1,0 +1,12 @@
+# Alex Ferguson. Source: https://en.wikipedia.org/wiki/Alex_Ferguson
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | sport | Which Scottish club did Alex Ferguson lead to the 1983 European Cup Winners' Cup? | Aberdeen | Dundee United | Rangers | Celtic | Alex Ferguson; Aberdeen
+2 | sport | In which year was Alex Ferguson appointed Manchester United manager? | 1986 | 1982 | 1990 | 1978 | Alex Ferguson; Manchester United
+2 | sport | In which year was Alex Ferguson knighted, after United's treble? | 1999 | 1993 | 2003 | 2008 | Alex Ferguson; knighthood
+2 | sport | Which famous phrase about the tense end of a season did Alex Ferguson coin? | Squeaky-bum time | Fergie time | Hairdryer treatment | Mind games | Alex Ferguson; squeaky-bum time
+3 | sport | What trade did Alex Ferguson serve an apprenticeship in? | Toolmaker | Welder | Joiner | Electrician | Alex Ferguson; toolmaker
+3 | sport | Which club gave Alex Ferguson his first managerial job in 1974? | East Stirlingshire | St Mirren | Aberdeen | Falkirk | Alex Ferguson; East Stirlingshire
+3 | sport | Which Glasgow club did Alex Ferguson make his debut for as an amateur aged 16? | Queen's Park | Rangers | Partick Thistle | Clyde | Alex Ferguson; Queen's Park
+3 | sport | How many trophies did Alex Ferguson win in his 26 years at Manchester United? | 38 | 21 | 27 | 45 | Alex Ferguson; trophies
+3 | sport | Whom did Alex Ferguson overtake as Manchester United's longest-serving manager in 2010? | Sir Matt Busby | Ernest Mangnall | Tommy Docherty | Ron Atkinson | Alex Ferguson; Matt Busby
+4 | sport | Which club did Alex Ferguson manage between 1974 and 1978? | St Mirren | Morton | Ayr United | Dunfermline | Alex Ferguson; St Mirren

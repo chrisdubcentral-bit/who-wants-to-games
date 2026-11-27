@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "What was Tommy Docherty's famous nickname?",
+    "options": [
+      "Tommy Gun",
+      "The Doc",
+      "The Gaffer",
+      "The Boss"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tommy Docherty",
+      "The Doc"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "With which club did Tommy Docherty win the 1977 FA Cup, beating Liverpool?",
+    "options": [
+      "Manchester United",
+      "Chelsea",
+      "Aston Villa",
+      "Derby County"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Tommy Docherty",
+      "1977 FA Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What was Tommy Docherty's young Chelsea team nicknamed?",
+    "options": [
+      "The Blue Boys",
+      "Docherty's Diamonds",
+      "The Doc's Boys",
+      "Tommy's Tigers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tommy Docherty",
+      "Chelsea"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Glasgow club did Tommy Docherty join as a player in 1947?",
+    "options": [
+      "Partick Thistle",
+      "Celtic",
+      "Rangers",
+      "Clyde"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tommy Docherty",
+      "Celtic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Tommy Docherty joked he promised to take which club out of the Second Division, then took them into the Third?",
+    "options": [
+      "Wolves",
+      "Rotherham United",
+      "Preston North End",
+      "Aston Villa"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tommy Docherty",
+      "Rotherham"
+    ],
+    "source": "manual"
+  }
+]

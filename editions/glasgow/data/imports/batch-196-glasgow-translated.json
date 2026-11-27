@@ -1,0 +1,404 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "patter",
+    "difficulty": 1,
+    "question": "When a Glaswegian says \"It's Baltic out\", what is the weather like?",
+    "options": [
+      "Very, very cold",
+      "Very wet",
+      "Very hot",
+      "Very windy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "patter",
+      "Baltic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "patter",
+    "difficulty": 1,
+    "question": "What is a \"wean\" in Glasgow patter?",
+    "options": [
+      "A dog",
+      "A bus",
+      "A small child",
+      "A pint"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "patter",
+      "wean"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "patter",
+    "difficulty": 1,
+    "question": "In Glasgow patter, what does it mean to \"greet\"?",
+    "options": [
+      "To shout",
+      "To wave",
+      "To laugh",
+      "To cry"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "patter",
+      "greet"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "patter",
+    "difficulty": 1,
+    "question": "What is a \"Weegie\"?",
+    "options": [
+      "A small dog",
+      "A tram",
+      "A native of Glasgow",
+      "A type of pie"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "patter",
+      "Weegie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "If a Glaswegian says \"That's boggin'\", what do they mean?",
+    "options": [
+      "It's brilliant",
+      "It's disgusting",
+      "It's broken",
+      "It's expensive"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "patter",
+      "boggin'"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "In Glasgow patter, what is your \"coupon\"?",
+    "options": [
+      "Your feet",
+      "Your face",
+      "Your hands",
+      "Your belly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "patter",
+      "coupon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "What does \"crabbit\" mean in Glasgow patter?",
+    "options": [
+      "Hungry",
+      "Foul-tempered",
+      "Clumsy",
+      "Lazy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "patter",
+      "crabbit"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "If someone is \"taking a beamer\", what is happening?",
+    "options": [
+      "They're laughing hard",
+      "They're driving a BMW",
+      "They're running late",
+      "They're blushing with embarrassment"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "patter",
+      "beamer"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "What does \"feart\" mean in Glasgow patter?",
+    "options": [
+      "Afraid",
+      "Hungry",
+      "Tired",
+      "Angry"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "patter",
+      "feart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "If you won \"hee-haw\" last night, what did you win?",
+    "options": [
+      "A tenner",
+      "Everything",
+      "Nothing",
+      "A donkey"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "patter",
+      "hee-haw"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "If you \"lose the rag\", what have you done?",
+    "options": [
+      "Lost your way",
+      "Lost a bet",
+      "Lost your job",
+      "Lost your temper"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "patter",
+      "lose the rag"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "If you \"don't have a scooby\", what don't you have?",
+    "options": [
+      "A dog",
+      "A penny",
+      "A clue",
+      "A pal"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "patter",
+      "scooby",
+      "rhyming slang"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "Ask for \"a bottle of ginger\" in Glasgow and what will you get?",
+    "options": [
+      "Ginger shampoo",
+      "Ginger wine",
+      "Fizzy juice",
+      "A bottle of whisky"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "patter",
+      "ginger"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "What does \"gallus\" mean in Glasgow patter?",
+    "options": [
+      "Skint",
+      "Amazing or self-confident",
+      "Nervous",
+      "Grumpy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "patter",
+      "gallus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "What is Lorne sausage also known as?",
+    "options": [
+      "Square sausage",
+      "Link sausage",
+      "Black pudding",
+      "White pudding"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "patter",
+      "Lorne sausage"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "patter",
+    "difficulty": 3,
+    "question": "What does \"peely-wally\" describe?",
+    "options": [
+      "A suntan",
+      "A pale skin colour",
+      "Freckles",
+      "Red cheeks"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "patter",
+      "peely-wally"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "patter",
+    "difficulty": 3,
+    "question": "When a Glaswegian says \"Awayyego\", what do they mean?",
+    "options": [
+      "Go away now",
+      "See you later",
+      "Good luck",
+      "I do not believe you"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "patter",
+      "awayyego"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "patter",
+    "difficulty": 3,
+    "question": "At the football, what does the shout \"Gaun yersel\" mean?",
+    "options": [
+      "Pass the ball",
+      "Get off the pitch",
+      "Go home",
+      "Go on yourself"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "patter",
+      "gaun yersel",
+      "football"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "patter",
+    "difficulty": 3,
+    "question": "What does \"skelp\" mean in Glasgow patter?",
+    "options": [
+      "To slap or hit",
+      "To run away",
+      "To shout",
+      "To steal"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "patter",
+      "skelp"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "patter",
+    "difficulty": 3,
+    "question": "Discover Glasgow's patter guide is written in the spirit of which comedian?",
+    "options": [
+      "Rikki Fulton",
+      "Billy Connolly",
+      "Stanley Baxter",
+      "Chic Murray"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "patter",
+      "Stanley Baxter"
+    ],
+    "source": "manual"
+  }
+]

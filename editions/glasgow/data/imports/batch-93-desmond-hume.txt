@@ -1,0 +1,5 @@
+# Desmond Hume. Source: https://en.wikipedia.org/wiki/Desmond_Hume
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | film-tv | Desmond Hume, whose former home is given as Glasgow, is a character in which TV series? | Lost | Heroes | Fringe | Battlestar Galactica | Desmond Hume; Lost
+3 | film-tv | Which actor played Desmond Hume in Lost? | Henry Ian Cusick | Dominic Monaghan | Josh Holloway | Daniel Dae Kim | Desmond Hume; Henry Ian Cusick
+3 | film-tv | What word does Lost's Desmond Hume famously call people? | Brother | Pal | Mate | Jimmy | Desmond Hume; brother

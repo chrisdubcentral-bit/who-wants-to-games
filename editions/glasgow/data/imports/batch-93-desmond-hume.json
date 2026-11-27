@@ -1,0 +1,62 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Desmond Hume, whose former home is given as Glasgow, is a character in which TV series?",
+    "options": [
+      "Fringe",
+      "Battlestar Galactica",
+      "Heroes",
+      "Lost"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Desmond Hume",
+      "Lost"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which actor played Desmond Hume in Lost?",
+    "options": [
+      "Dominic Monaghan",
+      "Daniel Dae Kim",
+      "Henry Ian Cusick",
+      "Josh Holloway"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Desmond Hume",
+      "Henry Ian Cusick"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What word does Lost's Desmond Hume famously call people?",
+    "options": [
+      "Pal",
+      "Mate",
+      "Jimmy",
+      "Brother"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Desmond Hume",
+      "brother"
+    ],
+    "source": "manual"
+  }
+]

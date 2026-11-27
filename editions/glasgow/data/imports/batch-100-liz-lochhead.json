@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Liz Lochhead wrote the play \"Mary Queen of Scots Got Her...\" what?",
+    "options": [
+      "Wings Clipped",
+      "Castle Burned Down",
+      "Crown Taken Away",
+      "Head Chopped Off"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Liz Lochhead",
+      "Mary Queen of Scots"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Liz Lochhead was the second person to hold which national post, from 2011 to 2016?",
+    "options": [
+      "Makar",
+      "Lord Lyon",
+      "First Minister",
+      "Poet Laureate"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Liz Lochhead",
+      "Makar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which art college did Liz Lochhead attend from 1965 to 1970?",
+    "options": [
+      "Glasgow School of Art",
+      "Duncan of Jordanstone",
+      "Gray's School of Art",
+      "Edinburgh College of Art"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Liz Lochhead",
+      "Glasgow School of Art"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Liz Lochhead translated which Molière comedy into Scots in 1985?",
+    "options": [
+      "The Misanthrope",
+      "The Hypochondriac",
+      "The Miser",
+      "Tartuffe"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Liz Lochhead",
+      "Tartuffe"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which poet succeeded Liz Lochhead as Makar in 2016?",
+    "options": [
+      "Jackie Kay",
+      "Kathleen Jamie",
+      "Don Paterson",
+      "Carol Ann Duffy"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Liz Lochhead",
+      "Jackie Kay"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,7 @@
+# Andy Cameron. Source: https://en.wikipedia.org/wiki/Andy_Cameron
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | songs-albums | Which comedian sang "Ally's Tartan Army" for the 1978 World Cup? | Andy Cameron | Billy Connolly | Rikki Fulton | Jimmy Logan | Andy Cameron; Ally's Tartan Army
+2 | songs-albums | What position did "Ally's Tartan Army" reach in the UK Singles Chart? | 6 | 1 | 15 | 32 | Andy Cameron; Ally's Tartan Army
+3 | film-tv | Which character did Andy Cameron play in Take the High Road? | Chic Cherry | Dougal Lachlan | Sorry Watson | Inverdarroch | Andy Cameron; Take the High Road
+3 | famous-glaswegians | In which burgh south-east of Glasgow was Andy Cameron raised? | Rutherglen | Cambuslang | Paisley | Hamilton | Andy Cameron; Rutherglen
+4 | film-tv | On which TV talent show did Andy Cameron come second in 1975? | New Faces | Opportunity Knocks | Search for a Star | Rising Stars | Andy Cameron; New Faces

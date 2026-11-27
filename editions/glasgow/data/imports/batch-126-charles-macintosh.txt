@@ -1,0 +1,7 @@
+# Charles Macintosh. Source: https://en.wikipedia.org/wiki/Charles_Macintosh
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | history | Which item of clothing is named after Glasgow chemist Charles Macintosh? | The raincoat | The cardigan | The wellington boot | The bowler hat | Charles Macintosh; mackintosh
+2 | history | Charles Macintosh's waterproof fabric cemented two layers of cloth together with what? | Rubber | Tar | Wax | Glue | Charles Macintosh; rubber
+3 | history | Which coal-tar product did Charles Macintosh use to dissolve the rubber? | Naphtha | Turpentine | Paraffin | Creosote | Charles Macintosh; naphtha
+3 | history | In which year was Charles Macintosh born in Glasgow? | 1766 | 1736 | 1801 | 1820 | Charles Macintosh
+4 | history | Whose hot blast patent did Charles Macintosh help exploit from 1828? | James Beaumont Neilson | James Watt | Henry Bell | William Murdoch | Charles Macintosh; James Beaumont Neilson

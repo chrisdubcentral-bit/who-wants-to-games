@@ -1,0 +1,7 @@
+# Pollokshields. Source: https://en.wikipedia.org/wiki/Pollokshields
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | Which family established Pollokshields in 1849? | The Stirling-Maxwells | The Campbells | The Montgomeries | The Hamiltons | Pollokshields; Stirling-Maxwell; 1849
+3 | history | In which year did Pollokshields become a burgh? | 1876 | 1849 | 1891 | 1912 | Pollokshields; burgh; 1876
+4 | landmarks | For how much was Pollokshields Burgh Hall bought by a charitable trust in 1986? | £1 | £100 | £1,000 | £10,000 | Pollokshields; Burgh Hall; 1986
+3 | sport | Which Glasgow club, founded in Kinning Park in 1848, is the city's oldest surviving team sports club? | Clydesdale Cricket Club | Queen's Park FC | Glasgow Academicals | West of Scotland Cricket Club | Pollokshields; Clydesdale Cricket Club; Titwood
+2 | famous-glaswegians | Which comedian is listed among the notable residents of Pollokshields? | Frankie Boyle | Kevin Bridges | Limmy | Billy Connolly | Pollokshields; Frankie Boyle

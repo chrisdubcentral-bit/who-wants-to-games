@@ -1,0 +1,105 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which TV talent show did Michelle McManus win in December 2003?",
+    "options": [
+      "Fame Academy",
+      "Popstars",
+      "Pop Idol",
+      "The X Factor"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Michelle McManus",
+      "Pop Idol",
+      "2003"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "What was Michelle McManus's debut single, a UK No. 1 for three weeks?",
+    "options": [
+      "Anything Is Possible",
+      "The Meaning of Love",
+      "All This Time",
+      "Evergreen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Michelle McManus",
+      "All This Time"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "In which area east of Glasgow did Michelle McManus live before Pop Idol?",
+    "options": [
+      "Easterhouse",
+      "Baillieston",
+      "Shettleston",
+      "Carmyle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Michelle McManus",
+      "Baillieston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Pop Idol judge stormed off the set when Michelle McManus won?",
+    "options": [
+      "Pete Waterman",
+      "Simon Cowell",
+      "Nicki Chapman",
+      "Neil Fox"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Michelle McManus",
+      "Pop Idol",
+      "Pete Waterman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Michelle McManus became main presenter of which STV lifestyle show in October 2009?",
+    "options": [
+      "The Hour",
+      "The Five Thirty Show",
+      "The Riverside Show",
+      "The Martin Lewis Money Show"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Michelle McManus",
+      "The Hour",
+      "STV"
+    ],
+    "source": "manual"
+  }
+]

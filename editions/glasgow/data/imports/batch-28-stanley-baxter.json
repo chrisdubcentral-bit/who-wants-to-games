@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which Glasgow comedian was famous for his \"Parliamo Glasgow\" sketches?",
+    "options": [
+      "Jimmy Logan",
+      "Billy Connolly",
+      "Stanley Baxter",
+      "Rikki Fulton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Stanley Baxter",
+      "Parliamo Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which children's TV show saw Stanley Baxter play a magic teacher?",
+    "options": [
+      "The Box of Delights",
+      "Worzel Gummidge",
+      "Mr Majeika",
+      "Rentaghost"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Stanley Baxter",
+      "Mr Majeika"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which member of the Royal Family was Stanley Baxter famous for impersonating?",
+    "options": [
+      "The Queen Mother",
+      "Queen Elizabeth II",
+      "Prince Philip",
+      "Princess Margaret"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Stanley Baxter",
+      "impressions"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Which Glasgow school did Stanley Baxter attend?",
+    "options": [
+      "Hillhead High School",
+      "Hutchesons' Grammar",
+      "Glasgow Academy",
+      "High School of Glasgow"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stanley Baxter",
+      "Hillhead High School"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "On which channel did The Stanley Baxter Show run from 1963 to 1971?",
+    "options": [
+      "BBC One",
+      "BBC Two",
+      "ITV",
+      "STV"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stanley Baxter",
+      "The Stanley Baxter Show"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "During World War II, Stanley Baxter worked down the mines as what?",
+    "options": [
+      "A conscientious objector",
+      "A pit pony driver",
+      "A Land Girl",
+      "A Bevin Boy"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Stanley Baxter",
+      "Bevin Boy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Carry On star served alongside Stanley Baxter in the Combined Services Entertainment unit?",
+    "options": [
+      "Charles Hawtrey",
+      "Kenneth Williams",
+      "Bernard Bresslaw",
+      "Sid James"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Stanley Baxter",
+      "Kenneth Williams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "At which Glasgow theatre did Stanley Baxter spend three years on stage after the war?",
+    "options": [
+      "The Citizens Theatre",
+      "The Pavilion",
+      "The Alhambra",
+      "The King's Theatre"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stanley Baxter",
+      "Citizens Theatre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Glasgow comic was Stanley Baxter's radio partner before pantomime success?",
+    "options": [
+      "Jimmy Logan",
+      "Jack Milroy",
+      "Chic Murray",
+      "Rikki Fulton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stanley Baxter",
+      "Jimmy Logan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which queen-like character was among Stanley Baxter's best-known impressions?",
+    "options": [
+      "Lady Muck",
+      "Lady Penelope",
+      "The Duchess of Brendagh",
+      "The Duchess of Duke Street"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Stanley Baxter",
+      "Duchess of Brendagh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which Joe Orton play did Stanley Baxter appear in on its original 1969 London run?",
+    "options": [
+      "What the Butler Saw",
+      "The Ruffian on the Stair",
+      "Entertaining Mr Sloane",
+      "Loot"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stanley Baxter",
+      "What the Butler Saw"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Whose last Christmas special, taped in 1977, featured Stanley Baxter in several roles?",
+    "options": [
+      "Bing Crosby",
+      "Bob Hope",
+      "Perry Como",
+      "Morecambe and Wise"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stanley Baxter",
+      "Bing Crosby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "Which honour did Stanley Baxter turn down?",
+    "options": [
+      "An MBE",
+      "A CBE",
+      "A knighthood",
+      "An OBE"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Stanley Baxter",
+      "OBE"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "Where in Glasgow were Stanley Baxter's ashes scattered after his death in 2025?",
+    "options": [
+      "Queen's Park",
+      "Glasgow Green",
+      "The Botanic Gardens",
+      "Kelvingrove Park"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Stanley Baxter",
+      "Botanic Gardens"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "Which comedian presented The Stanley Baxter Story on BBC Radio 2 in 2009?",
+    "options": [
+      "Billy Connolly",
+      "Ronnie Corbett",
+      "Paul Merton",
+      "Eddie Izzard"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Stanley Baxter",
+      "Eddie Izzard"
+    ],
+    "source": "manual"
+  }
+]

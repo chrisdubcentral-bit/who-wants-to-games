@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Who is the singer and main songwriter of Glasgow band Camera Obscura?",
+    "options": [
+      "Clare Grogan",
+      "Tracyanne Campbell",
+      "Lauren Mayberry",
+      "Isobel Campbell"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Camera Obscura",
+      "Tracyanne Campbell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Camera Obscura's \"Lloyd, I'm Ready to Be Heartbroken\" answers a song by which band?",
+    "options": [
+      "Orange Juice",
+      "The Smiths",
+      "Lloyd Cole and the Commotions",
+      "Aztec Camera"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Camera Obscura",
+      "Lloyd Cole"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which 2007 film used \"Lloyd, I'm Ready to Be Heartbroken\" in its opening credits?",
+    "options": [
+      "Love Actually",
+      "Juno",
+      "P.S. I Love You",
+      "(500) Days of Summer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Camera Obscura",
+      "P.S. I Love You"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which Belle & Sebastian member produced two tracks on Camera Obscura's debut album?",
+    "options": [
+      "Stuart Murdoch",
+      "Stevie Jackson",
+      "Chris Geddes",
+      "Stuart David"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Camera Obscura",
+      "Stuart Murdoch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which Camera Obscura album, released on 4AD in 2009, was their first UK Top 40 album?",
+    "options": [
+      "My Maudlin Career",
+      "Underachievers Please Try Harder",
+      "Let's Get Out of This Country",
+      "Desire Lines"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Camera Obscura",
+      "My Maudlin Career"
+    ],
+    "source": "manual"
+  }
+]

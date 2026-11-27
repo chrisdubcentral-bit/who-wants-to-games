@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which king is George Square named after?",
+    "options": [
+      "George V",
+      "George III",
+      "George I",
+      "George IV"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Square",
+      "George III"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Whose statue stands on top of the tall central column in George Square?",
+    "options": [
+      "Sir Walter Scott",
+      "James Watt",
+      "Queen Victoria",
+      "Robert Burns"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Square",
+      "Scott Monument"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which railway station stands on the north side of George Square?",
+    "options": [
+      "Queen Street",
+      "Argyle Street",
+      "Central",
+      "High Street"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Square",
+      "Queen Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "George Square has the only known equestrian statues of which monarch as a young woman?",
+    "options": [
+      "Queen Anne",
+      "Queen Victoria",
+      "Mary, Queen of Scots",
+      "Elizabeth II"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Square",
+      "Queen Victoria"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Whose statue, erected in 1819, was the first in George Square?",
+    "options": [
+      "Sir Walter Scott",
+      "Sir John Moore",
+      "Robert Peel",
+      "James Watt"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "George Square",
+      "Sir John Moore"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which Hollywood zombie film shot scenes in George Square in 2011, dressed as Philadelphia?",
+    "options": [
+      "28 Days Later",
+      "I Am Legend",
+      "Shaun of the Dead",
+      "World War Z"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "George Square",
+      "World War Z"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which war memorial on George Square was unveiled by Earl Haig in 1924?",
+    "options": [
+      "The Scott Monument",
+      "The Lion Gates",
+      "The Cenotaph",
+      "The Nelson Monument"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "George Square",
+      "Cenotaph"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "How tall is the Scott Monument column in George Square?",
+    "options": [
+      "80 feet",
+      "200 feet",
+      "120 feet",
+      "50 feet"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Square",
+      "Scott Monument"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which hotel occupies the only surviving original townhouses on George Square?",
+    "options": [
+      "The Millennium Hotel",
+      "The Kimpton Blythswood",
+      "The Malmaison",
+      "The Grand Central"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Square",
+      "Millennium Hotel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "landmarks",
+    "difficulty": 5,
+    "question": "Who sculpted the equestrian statues of Victoria and Albert in George Square?",
+    "options": [
+      "Carlo Marochetti",
+      "Francis Chantrey",
+      "John Mossman",
+      "John Flaxman"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "George Square",
+      "Marochetti"
+    ],
+    "source": "manual"
+  }
+]

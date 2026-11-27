@@ -1,0 +1,143 @@
+/* Glasgow edition only: the "Red Wash" extras that colours alone can't do.
+   Loaded after the engine's stylesheets (engine/css/chrome.css), so these rules win.
+   Colours come from theme.css. The pictures come from tools/brand/make-glasgow-images.js. */
+
+/* ================= Backdrop: a gig at the Barras, black and white, washed in red ================= */
+/* The roof squares, rigging and stage sit at the top of every screen and fade to black below.
+   About the top half of the screen: never wider than 150vh (its edges fade to black), never narrower than 900px. */
+body {
+  background-image:
+    url("assets/img/gig-backdrop.jpg"),
+    radial-gradient(ellipse 60% 35% at 50% 108%, var(--studio-glow-bottom), transparent 70%);
+  background-repeat: no-repeat;
+  background-position: center top, 0 0;
+  background-size: max(min(100%, 150vh), 900px) auto, auto;
+  background-attachment: fixed;
+}
+/* No spotlight beams: the photo has its own light */
+body::before, body::after { display: none; }
+/* Heavy grain over the backdrop (behind the content), like a photocopied poster */
+html::before {
+  content: ""; position: fixed; inset: 0; z-index: -1; pointer-events: none;
+  opacity: 0.1;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.9 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+
+/* ================= Lettering: fly-poster type ================= */
+.title-main, .stage-title h1, .page-head h1, .results-hero h1, .btn, .brand-title {
+  font-family: var(--font-title);
+  font-weight: 400;
+}
+.title-main, .stage-title h1, .page-head h1, .results-hero h1 { letter-spacing: 0.02em; }
+/* Solid bone white with a red print slipped out of register behind it */
+.brand-title, .title-main, .title-main .accent, .stage-title h1, .page-head h1, .results-hero h1,
+.results.is-won .results-hero h1, .results.is-eliminated .results-hero h1 {
+  background: none;
+  -webkit-background-clip: border-box; background-clip: border-box;
+  color: var(--white);
+  filter: none;
+}
+.stage-title h1, .page-head h1, .results-hero h1 { text-shadow: -2px 2px 0 var(--gold); }
+.brand-title { letter-spacing: 0.08em; }
+
+/* Home: "Who Wants To Play" small, "The Barras" huge */
+.title-main {
+  font-size: clamp(1.25rem, 5.6vw, 2.3rem);
+  letter-spacing: 0.08em; line-height: 1;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.8);
+}
+.title-main .accent {
+  display: inline-block; margin-top: 4px;
+  font-size: 2.35em; letter-spacing: 0.01em; line-height: 0.95;
+  text-shadow: -3px 2px 0 var(--gold), 0 6px 24px rgba(0, 0, 0, 0.7);
+}
+/* "Glasgow Edition" typed on a red strip */
+.title-edition.gold-rule {
+  display: inline-block; justify-self: center;
+  padding: 5px 12px;
+  background: var(--gold);
+  font-family: var(--font-type); font-weight: 400;
+  font-size: clamp(0.85rem, 2vw, 1rem); letter-spacing: 0.16em;
+  color: #ffffff;
+}
+.title-edition.gold-rule::before, .title-edition.gold-rule::after { display: none; }
+.home-tagline { font-family: var(--font-type); color: var(--grey-light); text-shadow: 0 1px 6px rgba(0, 0, 0, 0.9); }
+
+/* ================= Buttons: square blocks, poster type ================= */
+.btn { letter-spacing: 0.08em; text-transform: uppercase; }
+.btn:not(.btn-ghost, .btn-danger, .btn-gold-outline), .btn.btn-primary, .btn.lifeline {
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.5);
+}
+.btn.btn-primary { font-size: 1.2em; }
+.btn:not(.btn-ghost, .btn-danger, .btn-gold-outline):hover:not(:disabled) {
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.5), 0 0 0 1px var(--white);
+}
+.btn.btn-primary:hover:not(:disabled), .btn.lifeline:hover:not(:disabled) {
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.5), 0 0 24px rgba(var(--gold-rgb), 0.55);
+}
+
+/* ================= Front page: the rubber stamp instead of a trophy ================= */
+/* The image is set by images.home in data/edition.json. */
+.home { align-content: start; padding-top: clamp(14px, 3vh, 32px); }
+.home-trophy {
+  width: clamp(150px, 26vw, 220px); height: auto;
+  rotate: -12deg;
+  margin-bottom: clamp(8px, 2vh, 20px);
+  animation: none;
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.7));
+}
+@media (max-width: 640px) {
+  .home { padding-top: 28px; }
+  .home-trophy { width: min(44vw, 170px); margin-bottom: 6px; }
+}
+/* The won screen's prize, stamped on at an angle */
+.trophy { rotate: -10deg; animation: none; filter: drop-shadow(0 10px 18px rgba(0, 0, 0, 0.7)); }
+/* The newspaper's photo box: black, so the bone-white stamp shows */
+.paper-photo { background: #0a0606; }
+
+/* ================= Square corners ================= */
+.btn, .answer, .rung, .recent li, .card { border-radius: var(--radius); }
+.ladder { border-radius: var(--radius-lg); }
+
+/* ================= Answers: black plates, red letter blocks ================= */
+.answer { border-width: 2px; }
+.answer .letter { border-radius: 0; font-family: var(--font-title); font-weight: 400; font-size: 1.15rem; }
+.answer.is-selected { background: var(--gold-plate) padding-box, var(--gold-rim) border-box; }
+.answer.is-selected .letter { background: #0a0606; color: #ffffff; }
+.how-card .icon { border-radius: 0; background: var(--gold); color: #ffffff; }
+
+/* ================= Question: a fly-poster, taped up, torn along the bottom ================= */
+.question-panel {
+  border: 0; border-radius: 0;
+  padding-bottom: calc(clamp(22px, 4vw, 34px) + 16px);
+  background: var(--question-plate);
+  box-shadow: none;
+  rotate: 0.6deg;
+  clip-path: polygon(0 0, 100% 0, 100% 90%, 94% 95%, 88% 91%, 80% 97%, 71% 92%, 62% 98%, 52% 93%, 43% 99%,
+    33% 94%, 24% 99%, 15% 93%, 7% 98%, 0 93%);
+}
+/* Two strips of masking tape across the top corners */
+.question-panel::before, .question-panel::after {
+  content: ""; display: block; position: absolute; top: 8px; z-index: 1;
+  width: 74px; height: 20px; background: rgba(214, 200, 165, 0.75);
+}
+.question-panel::before { left: -16px; right: auto; transform: rotate(-30deg); }
+.question-panel::after { right: -16px; transform: rotate(28deg); }
+.question-panel .eyebrow { font-family: var(--font-type); font-weight: 400; letter-spacing: 0.1em; color: #b0141a; }
+.question-text { font-family: var(--font-title); font-weight: 400; letter-spacing: 0.01em; color: #120a0a; }
+
+@media (max-width: 640px) {
+  .question-panel::before, .question-panel::after { width: 56px; height: 16px; }
+}
+
+/* Phone: the sticky 50:50 bar fades up from black, not the engine's green-black */
+@media (max-width: 640px) {
+  .quiz-actions { background: linear-gradient(180deg, rgba(10, 6, 6, 0), rgba(10, 6, 6, 0.92) 30%); }
+}
+
+/* Every "Start The Tour" button (front page, Hall of Fame, How To Play, Stats) in the tagline's typewriter lettering */
+/* "Play Again" on the That's Yer Lot page matches it */
+.btn.btn-primary[data-go="play"], .results .btn[data-action="again"] {
+  font-family: var(--font-type); font-weight: 400; letter-spacing: 0.1em;
+  font-size: clamp(1.35rem, 3.4vw, 1.6rem);
+}

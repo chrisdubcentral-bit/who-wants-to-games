@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "Who is the lead singer of Glasgow synth-pop band Chvrches?",
+    "options": [
+      "Lauren Mayberry",
+      "Amy Macdonald",
+      "Tracyanne Campbell",
+      "Nina Nesbitt"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Chvrches",
+      "Lauren Mayberry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Why do Chvrches spell their name with a \"v\"?",
+    "options": [
+      "A typo on their first poster",
+      "It stands for \"victory\"",
+      "To stand out from real churches in online searches",
+      "It is Latin"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Chvrches",
+      "band name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "What was Chvrches' debut single, released in November 2012?",
+    "options": [
+      "Leave a Trace",
+      "Lies",
+      "The Mother We Share",
+      "Recover"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Chvrches",
+      "The Mother We Share"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which DJ did Chvrches team up with on the 2019 hit \"Here with Me\"?",
+    "options": [
+      "Calvin Harris",
+      "David Guetta",
+      "Marshmello",
+      "Avicii"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Chvrches",
+      "Marshmello"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which Cure singer features on Chvrches' 2021 single \"How Not to Drown\"?",
+    "options": [
+      "Ian McCulloch",
+      "Siouxsie Sioux",
+      "Morrissey",
+      "Robert Smith"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Chvrches",
+      "Robert Smith"
+    ],
+    "source": "manual"
+  }
+]

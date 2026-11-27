@@ -1,0 +1,27 @@
+# Scottish Football Association. Source: https://en.wikipedia.org/wiki/Scottish_Football_Association
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | sport | Where are the headquarters of the Scottish Football Association? | Hampden Park | Murrayfield | Celtic Park | Ibrox | SFA; Hampden
+2 | sport | In which year was the Scottish Football Association founded? | 1873 | 1867 | 1890 | 1903 | SFA; 1873
+2 | sport | The SFA is the second-oldest national football association in the world, after which country's? | England | Wales | Ireland | Uruguay | SFA; second-oldest
+2 | sport | The SFA holds a permanent seat on which body that sets the Laws of the Game? | IFAB | FIFA Council | UEFA Executive | CAS | SFA; IFAB
+2 | sport | Which annual cup competition is run by the SFA? | The Scottish Cup | The League Cup | The Challenge Cup | The Glasgow Cup | SFA; Scottish Cup
+2 | sport | Which club took the lead in forming the SFA in 1873? | Queen's Park | Rangers | Vale of Leven | Kilmarnock | SFA; Queen's Park
+3 | sport | How many clubs formed the Scottish Football Association in 1873? | Eight | Four | Twelve | Sixteen | SFA; founding clubs
+3 | sport | Which Ayrshire club wrote a letter to join the SFA on its founding day in 1873? | Kilmarnock | Ayr United | Queen of the South | St Mirren | SFA; Kilmarnock
+3 | sport | Which Dunbartonshire club was a founding member of the SFA in 1873? | Vale of Leven | Dumbarton | Clydebank | Renton | SFA; Vale of Leven
+3 | sport | In which year did the SFA join the International Football Association Board? | 1886 | 1873 | 1904 | 1954 | SFA; IFAB
+3 | sport | In which year did the SFA become a member of UEFA? | 1954 | 1946 | 1960 | 1973 | SFA; UEFA
+3 | sport | What is the most prominent role of the SFA chief executive? | Hiring and sacking the Scotland manager | Refereeing cup finals | Running Hampden's museum | Picking the Scotland team | SFA; chief executive
+3 | sport | Which club was the only one to hold an SFA platinum club licence as of June 2025? | Celtic | Rangers | Aberdeen | Hearts | SFA; club licensing
+3 | sport | Who became SFA chief executive in 2018? | Ian Maxwell | Stewart Regan | Gordon Smith | David Taylor | SFA; Ian Maxwell
+3 | sport | Which former Rangers winger was SFA chief executive from 2007 to 2010? | Gordon Smith | Davie Cooper | Willie Johnston | Ian Durrant | SFA; Gordon Smith
+3 | sport | Which museum is located at Hampden alongside the SFA's offices? | The Scottish Football Museum | The Riverside Museum | The People's Palace | The Hunterian | SFA; Scottish Football Museum
+4 | sport | Who was the SFA's first chief executive, in 1873–74? | Archibald Rae | John McDowall | Willie Allan | George Graham | SFA; Archibald Rae
+4 | sport | Which SFA chief executive served from 1882 to 1928? | John McDowall | Archibald Rae | Willie Allan | Ernie Walker | SFA; John McDowall
+4 | sport | Which SFA chief executive served from 1957 to 1977? | Willie Allan | Ernie Walker | George Graham | John McDowall | SFA; Willie Allan
+4 | sport | Which SFA chief executive served from 2010 to 2018? | Stewart Regan | Gordon Smith | Ian Maxwell | David Taylor | SFA; Stewart Regan
+4 | sport | In which year were the SFA's Performance Schools for young players set up? | 2012 | 2002 | 2018 | 1998 | SFA; Performance Schools
+4 | sport | In which year did the SFA disband its semi-professional national team? | 2008 | 1998 | 2015 | 2020 | SFA; semi-professional team
+4 | sport | What is the Scottish Gaelic name of the Scottish Football Association? | Comann Ball-coise na h-Alba | Pàirc Hampden | Lìog Ball-coise na h-Alba | Sgioba Nàiseanta | SFA; Gaelic
+4 | sport | What are the five levels of SFA club licence, from top to bottom? | Platinum, gold, silver, bronze, entry | Gold, silver, bronze, red, green | A, B, C, D, E | Premier, first, second, third, fourth | SFA; club licensing
+5 | sport | As of June 2026, how many full member clubs did the SFA have? | 134 | 42 | 96 | 210 | SFA; members

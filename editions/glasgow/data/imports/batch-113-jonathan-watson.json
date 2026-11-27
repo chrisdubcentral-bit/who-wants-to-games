@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Jonathan Watson's long-running sketch show Only an Excuse? parodied which subject?",
+    "options": [
+      "The weather",
+      "Glasgow buses",
+      "Scottish politics",
+      "Scottish football"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jonathan Watson",
+      "Only an Excuse?"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Who did Jonathan Watson play opposite Brian Cox in Bob Servant Independent?",
+    "options": [
+      "Bob Servant",
+      "The Prime Minister",
+      "Frank, Bob's sidekick",
+      "A newsreader"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jonathan Watson",
+      "Bob Servant"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What was the name of Jonathan Watson's political satire on BBC Radio Scotland?",
+    "options": [
+      "The Jonathan Watson Hour",
+      "Off the Ball",
+      "Watson's Wind Up",
+      "Watson Tonight"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jonathan Watson",
+      "Watson's Wind Up"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "Which Glasgow school did actor Jonathan Watson attend?",
+    "options": [
+      "Glasgow Academy",
+      "Hillhead High School",
+      "Shawlands Academy",
+      "Knightswood Secondary"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Jonathan Watson",
+      "Hillhead High"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which alien race did Jonathan Watson play two members of in Doctor Who: Flux?",
+    "options": [
+      "Ood",
+      "Sontarans",
+      "Cybermen",
+      "Daleks"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Jonathan Watson",
+      "Doctor Who",
+      "Sontarans"
+    ],
+    "source": "manual"
+  }
+]

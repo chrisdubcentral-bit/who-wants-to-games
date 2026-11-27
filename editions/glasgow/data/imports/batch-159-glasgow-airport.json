@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which town is Glasgow Airport located?",
+    "options": [
+      "Paisley",
+      "Clydebank",
+      "Erskine",
+      "Renfrew"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Airport",
+      "Paisley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What was Glasgow Airport formerly called?",
+    "options": [
+      "Renfrew Airport",
+      "Prestwick Airport",
+      "Inchinnan Airport",
+      "Abbotsinch Airport"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Airport",
+      "Abbotsinch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which airport did Glasgow Airport replace in 1966?",
+    "options": [
+      "Barra Airport",
+      "Renfrew Airport",
+      "Edinburgh Airport",
+      "Prestwick Airport"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Airport",
+      "Renfrew"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which architect designed Glasgow Airport's 1966 terminal?",
+    "options": [
+      "Norman Foster",
+      "Robert Matthew",
+      "Richard Rogers",
+      "Basil Spence"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Airport",
+      "Basil Spence"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which Scottish airline has its headquarters at Glasgow Airport?",
+    "options": [
+      "Flybe",
+      "Loganair",
+      "Highland Airways",
+      "British Midland"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Airport",
+      "Loganair"
+    ],
+    "source": "manual"
+  }
+]

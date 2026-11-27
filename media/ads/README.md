@@ -30,6 +30,14 @@ Use the compressed 720p copies, not the 1080p masters:
 | `beatles-liverpool-book-portrait-720x1280.mp4` | 9:16 | phone held upright |
 | `celtic-jungle-days-landscape-1280x720.mp4` | 16:9 | browser / phone held sideways |
 | `celtic-jungle-days-portrait-720x1280.mp4` | 9:16 | phone held upright |
+| `celtic-maestro-landscape-1280x720.mp4` | 16:9 | browser / phone held sideways |
+| `celtic-maestro-portrait-720x1280.mp4` | 9:16 | phone held upright |
+| `glasgow-depardon-landscape-1280x720.mp4` | 16:9 | browser / phone held sideways |
+| `glasgow-depardon-portrait-720x1280.mp4` | 9:16 | phone held upright |
+| `glasgow-cookery-book-landscape-1280x720.mp4` | 16:9 | browser / phone held sideways |
+| `glasgow-cookery-book-portrait-720x1280.mp4` | 9:16 | phone held upright |
+| `glasgow-get-around-glasgow-landscape-1280x720.mp4` | 16:9 | browser / phone held sideways |
+| `glasgow-get-around-glasgow-portrait-720x1280.mp4` | 9:16 | phone held upright |
 
 Sources, in `Who Wants To Games - Marketing/editions/CelticPools/Adverts/` (Celtic Pools) and
 `…/editions/celtic/Adverts/` (everything else):
@@ -53,3 +61,11 @@ Sources, in `Who Wants To Games - Marketing/editions/CelticPools/Adverts/` (Celt
 - The Beatles' Liverpool book (Beatles edition): `…/editions/beatles/Adverts/beatles-liverpool/output/` (9 seconds,
   Mike Haskins' guide, links to Amazon UK via https://link.amazon/B0i6DIVhA, which carries the whowantstowin-21
   affiliate tag).
+- Maestro, the Paul McStay autobiography: `maestro/output/` (9 seconds, links to Amazon UK via https://link.amazon/B044pK3Hd,
+  which carries the whowantstowin-21 affiliate tag).
+- Glasgow by Raymond Depardon (Glasgow edition): `…/editions/glasgow/Adverts/depardon-glasgow/output/` (9 seconds,
+  photo book, links to Amazon UK via https://link.amazon/B08I0c4DY, which carries the whowantstowin-21 affiliate tag).
+- The Glasgow Cookery Book (Glasgow edition): `…/editions/glasgow/Adverts/glasgow-cookery-book/output/` (9 seconds,
+  links to Amazon UK via https://link.amazon/B075Nwu09, which carries the whowantstowin-21 affiliate tag).
+- Get Around Glasgow t-shirt shop (Glasgow edition): `…/editions/glasgow/Adverts/get-around-glasgow/output/` (9 seconds,
+  links to the shop at getaroundglasgow.myspreadshop.co.uk).

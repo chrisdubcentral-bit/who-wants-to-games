@@ -1,0 +1,7 @@
+# The Poets. Source: https://en.wikipedia.org/wiki/The_Poets
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | glasgow-bands | Which Rolling Stones manager also managed and produced Glasgow 1960s band The Poets? | Andrew Loog Oldham | Brian Epstein | Kit Lambert | Larry Parnes | The Poets; Andrew Loog Oldham
+3 | songs-albums | Which 1964 single gave The Poets a UK No. 31 hit? | Now We're Thru' | Baby Don't You Do It | Call Again | Wooden Spoon | The Poets; Now We're Thru'
+3 | glasgow-bands | Who was the lead singer of 1960s Glasgow band The Poets? | George Gallacher | Frankie Miller | Alex Harvey | Hume Paton | The Poets; George Gallacher
+4 | labels-scene | Which Andrew Loog Oldham label released some of The Poets' singles? | Immediate Records | Pye | Fontana | Island | The Poets; Immediate Records
+4 | glasgow-bands | The Poets' Edwardian velvet-jacket look was read in the West of Scotland as based on whom? | Robert Burns | Walter Scott | Bonnie Prince Charlie | Lord Byron | The Poets; image

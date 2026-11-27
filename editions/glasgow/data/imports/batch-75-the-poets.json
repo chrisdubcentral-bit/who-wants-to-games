@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which Rolling Stones manager also managed and produced Glasgow 1960s band The Poets?",
+    "options": [
+      "Andrew Loog Oldham",
+      "Kit Lambert",
+      "Larry Parnes",
+      "Brian Epstein"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Poets",
+      "Andrew Loog Oldham"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which 1964 single gave The Poets a UK No. 31 hit?",
+    "options": [
+      "Wooden Spoon",
+      "Call Again",
+      "Now We're Thru'",
+      "Baby Don't You Do It"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Poets",
+      "Now We're Thru'"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Who was the lead singer of 1960s Glasgow band The Poets?",
+    "options": [
+      "Hume Paton",
+      "Frankie Miller",
+      "George Gallacher",
+      "Alex Harvey"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Poets",
+      "George Gallacher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "labels-scene",
+    "difficulty": 4,
+    "question": "Which Andrew Loog Oldham label released some of The Poets' singles?",
+    "options": [
+      "Island",
+      "Fontana",
+      "Immediate Records",
+      "Pye"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Poets",
+      "Immediate Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "The Poets' Edwardian velvet-jacket look was read in the West of Scotland as based on whom?",
+    "options": [
+      "Robert Burns",
+      "Lord Byron",
+      "Bonnie Prince Charlie",
+      "Walter Scott"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Poets",
+      "image"
+    ],
+    "source": "manual"
+  }
+]

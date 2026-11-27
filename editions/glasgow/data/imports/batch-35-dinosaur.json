@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Who plays Nina, the autistic palaeontologist, in the Glasgow comedy Dinosaur?",
+    "options": [
+      "Kate Dickie",
+      "Kat Ronney",
+      "Ashley Storrie",
+      "Sharon Rooney"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dinosaur",
+      "Ashley Storrie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What is Nina McArthur's job in the comedy drama Dinosaur?",
+    "options": [
+      "Zookeeper",
+      "Librarian",
+      "Palaeontologist",
+      "Vet"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dinosaur",
+      "Nina McArthur"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Glasgow museum was used as the \"Natural History Museum of Glasgow\" in Dinosaur?",
+    "options": [
+      "The People's Palace",
+      "The Riverside Museum",
+      "Kelvingrove Art Gallery and Museum",
+      "The Hunterian"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dinosaur",
+      "Kelvingrove"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "On which BBC channel was the comedy drama Dinosaur first shown in 2024?",
+    "options": [
+      "BBC Two",
+      "BBC One",
+      "BBC Four",
+      "BBC Three"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Dinosaur",
+      "BBC Three"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which Still Game star plays Ade in Dinosaur?",
+    "options": [
+      "Greg Hemphill",
+      "Sanjeev Kohli",
+      "Paul Riley",
+      "Ford Kiernan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Dinosaur",
+      "Greg Hemphill"
+    ],
+    "source": "manual"
+  }
+]

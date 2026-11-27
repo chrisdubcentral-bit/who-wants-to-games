@@ -1,0 +1,309 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which instrument did Mick Cooke play in Belle and Sebastian?",
+    "options": [
+      "Saxophone",
+      "Trumpet",
+      "Violin",
+      "Cello"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Belle and Sebastian",
+      "Mick Cooke"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which instrument does Sarah Martin play alongside singing in Belle and Sebastian?",
+    "options": [
+      "Cello",
+      "Harp",
+      "Trumpet",
+      "Violin"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Sarah Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "labels-scene",
+    "difficulty": 3,
+    "question": "What was the name of the Stow College label that first released Belle and Sebastian?",
+    "options": [
+      "Postcard",
+      "Jeepster",
+      "Chemikal Underground",
+      "Electric Honey"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Electric Honey"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Belle and Sebastian release gave the band their first top 40 single in 1997?",
+    "options": [
+      "Dog on Wheels",
+      "3.. 6.. 9 Seconds of Light",
+      "Lazy Line Painter Jane",
+      "Legal Man"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Belle and Sebastian",
+      "3.. 6.. 9 Seconds of Light"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "For which Todd Solondz film did Belle and Sebastian record a soundtrack album in 2002?",
+    "options": [
+      "Storytelling",
+      "Welcome to the Dollhouse",
+      "Palindromes",
+      "Happiness"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Belle and Sebastian",
+      "Storytelling",
+      "Todd Solondz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which American singer features on Belle and Sebastian's \"Little Lou, Ugly Jack, Prophet John\"?",
+    "options": [
+      "Neko Case",
+      "Zooey Deschanel",
+      "Feist",
+      "Norah Jones"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Write About Love",
+      "Norah Jones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Two Belle and Sebastian songs featured on the soundtrack of which 2007 film?",
+    "options": [
+      "500 Days of Summer",
+      "Juno",
+      "Garden State",
+      "Little Miss Sunshine"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Belle and Sebastian",
+      "Juno"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which American singer did Isobel Campbell make three albums with after leaving Belle and Sebastian?",
+    "options": [
+      "Nick Cave",
+      "Kurt Vile",
+      "Mark Lanegan",
+      "Bonnie \"Prince\" Billy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Belle and Sebastian",
+      "Isobel Campbell",
+      "Mark Lanegan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Where did Belle and Sebastian hold their 2019 Boaty Weekender festival?",
+    "options": [
+      "At Pontins in Camber Sands",
+      "On Loch Lomond",
+      "On a cruise ship in the Mediterranean",
+      "At Butlin's in Minehead"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Belle and Sebastian",
+      "Boaty Weekender"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which actress sings on the title track of Belle and Sebastian's album Write About Love?",
+    "options": [
+      "Keira Knightley",
+      "Emma Watson",
+      "Kelly Macdonald",
+      "Carey Mulligan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Write About Love",
+      "Carey Mulligan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which bassist from V-Twin replaced Stuart David in Belle and Sebastian?",
+    "options": [
+      "Dave McGowan",
+      "Richard Colburn",
+      "Bobby Kildea",
+      "Chris Geddes"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Belle and Sebastian",
+      "Bobby Kildea"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which singer guested on Belle and Sebastian's 1997 EP Lazy Line Painter Jane?",
+    "options": [
+      "Monica Queen",
+      "Isobel Campbell",
+      "Eddi Reader",
+      "Karine Polwart"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Belle and Sebastian",
+      "Lazy Line Painter Jane",
+      "Monica Queen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "labels-scene",
+    "difficulty": 4,
+    "question": "Which former Associates musician led the Stow College course that released Tigermilk?",
+    "options": [
+      "Edwyn Collins",
+      "Billy Mackenzie",
+      "Bob Last",
+      "Alan Rankine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Alan Rankine",
+      "Stow College"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "In the 2000 film High Fidelity, a clip of which Belle and Sebastian song is heard?",
+    "options": [
+      "Judy and the Dream of Horses",
+      "Seymour Stein",
+      "The Boy with the Arab Strap",
+      "Get Me Away from Here, I'm Dying"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Belle and Sebastian",
+      "High Fidelity",
+      "Seymour Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "glasgow-bands",
+    "difficulty": 5,
+    "question": "Which award did Belle and Sebastian receive at the NME Awards 2014?",
+    "options": [
+      "Best Live Band",
+      "Godlike Genius",
+      "Outstanding Contribution to Music",
+      "Best British Band"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Belle and Sebastian",
+      "NME Awards 2014"
+    ],
+    "source": "manual"
+  }
+]

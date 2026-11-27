@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which Glasgow commercial radio station began broadcasting on 31 December 1973?",
+    "options": [
+      "Radio Scotland",
+      "West Sound",
+      "Radio Clyde",
+      "Radio Forth"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Radio Clyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Radio Clyde was the first Independent Local Radio station outside which city?",
+    "options": [
+      "Manchester",
+      "Birmingham",
+      "Edinburgh",
+      "London"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Radio Clyde",
+      "ILR"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "To which town did Radio Clyde's studios move in 1983?",
+    "options": [
+      "Clydebank",
+      "Paisley",
+      "Dumbarton",
+      "Motherwell"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Radio Clyde",
+      "Clydebank"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which two stations did Radio Clyde split into in 1990?",
+    "options": [
+      "Clyde FM and Clyde Gold",
+      "Clyde West and Clyde East",
+      "Clyde Hits and Clyde Classics",
+      "Clyde 1 and Clyde 2"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Radio Clyde",
+      "Clyde 1",
+      "Clyde 2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What was Radio Clyde's original slogan?",
+    "options": [
+      "Hits and Homegrown",
+      "Radio Clyde, 261, all together now",
+      "Glasgow's Number One",
+      "The Sound of the West"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Radio Clyde",
+      "slogan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "On which medium wave wavelength did Radio Clyde launch?",
+    "options": [
+      "261 metres",
+      "208 metres",
+      "194 metres",
+      "301 metres"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Radio Clyde",
+      "261"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which FM frequency did Radio Clyde later move to?",
+    "options": [
+      "97.6 FM",
+      "95.1 FM",
+      "102.5 FM",
+      "105.2 FM"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Radio Clyde",
+      "102.5"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Where were Radio Clyde's first studios?",
+    "options": [
+      "The Barras",
+      "Pacific Quay",
+      "The Anderston Centre",
+      "Queen Margaret Drive"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Radio Clyde",
+      "Anderston Centre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Hollywood-based presenter was Radio Clyde's youngest ever DJ?",
+    "options": [
+      "Kirsty Young",
+      "Lorraine Kelly",
+      "Ewan McGregor",
+      "Ross King"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Radio Clyde",
+      "Ross King"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which future BBC Breakfast presenter began his journalism career at Radio Clyde?",
+    "options": [
+      "Charlie Stayt",
+      "Dan Walker",
+      "Jeremy Bowen",
+      "Bill Turnbull"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Radio Clyde",
+      "Bill Turnbull"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What did Radio Clyde plc later rename itself?",
+    "options": [
+      "Bauer Scotland",
+      "Clyde Media Group",
+      "Scottish Radio Holdings",
+      "West of Scotland Radio"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Radio Clyde",
+      "Scottish Radio Holdings"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which long-running Radio Clyde show did Tom Russell present?",
+    "options": [
+      "Clyde Club",
+      "Superscoreboard",
+      "The Rock Show Saturday",
+      "The Friday Night Rock Show"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Radio Clyde",
+      "Tom Russell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What time did Radio Clyde first go on air on 31 December 1973?",
+    "options": [
+      "7pm",
+      "6am",
+      "Midnight",
+      "10.30pm"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Radio Clyde",
+      "launch"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What format did Clyde 2 broadcast after the 1990 split?",
+    "options": [
+      "Top 40",
+      "Talk radio",
+      "Country music",
+      "Classic hits"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Radio Clyde",
+      "Clyde 2"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "What was the name of Radio Clyde's two-hour weekly arts magazine in the 1980s?",
+    "options": [
+      "Clyde Culture",
+      "Artbeat",
+      "Interact",
+      "The Arts Hour"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Radio Clyde",
+      "Interact"
+    ],
+    "source": "manual"
+  }
+]

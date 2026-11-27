@@ -1,0 +1,42 @@
+# Partick Thistle F.C. Source: https://en.wikipedia.org/wiki/Partick_Thistle_F.C.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | sport | What is Partick Thistle's best-known nickname? | The Jags | The Spiders | The Bully Wee | The Sons | Partick Thistle; The Jags
+1 | sport | In which area of Glasgow is Partick Thistle's Firhill Stadium? | Maryhill | Partick | Govan | Springburn | Partick Thistle; Firhill; Maryhill
+1 | sport | What is the name of Partick Thistle's sun-shaped mascot, unveiled in 2015? | Kingsley | Jaggy MacBee | Pee Tee | Sunny Jim | Partick Thistle; Kingsley
+1 | sport | Which team did Partick Thistle beat 4–1 in the 1971 League Cup final? | Celtic | Rangers | Hibernian | Aberdeen | Partick Thistle; 1971 League Cup final
+2 | sport | In which year was Partick Thistle founded? | 1876 | 1867 | 1888 | 1872 | Partick Thistle
+2 | sport | Which team did Partick Thistle beat 1–0 to win the 1921 Scottish Cup? | Rangers | Celtic | Hearts | Motherwell | Partick Thistle; Scottish Cup 1921
+2 | sport | What was the half-time score in Partick Thistle's 1971 League Cup final win over Celtic? | 4–0 to Thistle | 2–0 to Thistle | 1–0 to Thistle | 3–1 to Thistle | Partick Thistle; 1971 League Cup final
+2 | sport | Which future Liverpool great scored Celtic's goal in the 1971 League Cup final against Partick Thistle? | Kenny Dalglish | Lou Macari | Jimmy Johnstone | Bobby Lennox | Partick Thistle; 1971 League Cup final; Kenny Dalglish
+2 | sport | Which EuroMillions winner completed a takeover of Partick Thistle in 2019? | Colin Weir | Ken Bates | Chien Lee | Paul Conway | Partick Thistle; Colin Weir
+2 | sport | Which colours did Partick Thistle adopt in 1936–37? | Red, yellow and black | Blue and white | Black and white | Maroon and gold | Partick Thistle; colours
+2 | sport | Which Turner Prize-nominated artist designed Partick Thistle's mascot Kingsley? | David Shrigley | Martin Creed | Douglas Gordon | Simon Starling | Partick Thistle; Kingsley; David Shrigley
+2 | sport | Which club plays the "Glasgow derby" against Partick Thistle, sometimes called the "Old Firm alternative"? | Clyde | Queen's Park | Airdrieonians | Greenock Morton | Partick Thistle; Clyde; Glasgow derby
+3 | sport | Who managed Partick Thistle to the 1971 League Cup? | Davie McParland | John Lambie | Bertie Auld | Scot Symon | Partick Thistle; Davie McParland; 1971 League Cup final
+3 | sport | Which BBC broadcaster said before the 1971 League Cup final that Partick Thistle had "no chance"? | Sam Leitch | Archie Macpherson | Arthur Montford | David Coleman | Partick Thistle; 1971 League Cup final; Sam Leitch
+3 | sport | Who scored the winner for Partick Thistle in the 1921 Scottish Cup final? | Johnny Blair | Jimmy McMenemy | Willie Sharp | Alex Hair | Partick Thistle; Scottish Cup 1921; Johnny Blair
+3 | sport | Why were Partick Thistle forced out of their Meadowside ground in 1908? | To make way for a shipyard | To build a railway | For a new tramway depot | For housing | Partick Thistle; Meadowside
+3 | sport | Partick Thistle bought the Firhill land in 1909 from which company? | Caledonian Railway | Glasgow Corporation | North British Railway | Forth and Clyde Canal Company | Partick Thistle; Firhill
+3 | sport | In which year did Partick Thistle play their first home match at Firhill? | 1909 | 1897 | 1921 | 1876 | Partick Thistle; Firhill
+3 | sport | Which bumble bee was Partick Thistle's mascot before Kingsley? | Jaggy MacBee | Buzzy Jag | Thistle Bee | Bumble Jag | Partick Thistle; Jaggy MacBee
+3 | sport | What was Partick Thistle's mascot before Jaggy MacBee? | A toucan called Pee Tee | A lion called Leo | A thistle called Jaggy | A bee called Buzz | Partick Thistle; Pee Tee
+3 | sport | Which Chelsea chairman owned Partick Thistle from 1986 to 1989? | Ken Bates | Matthew Harding | Roman Abramovich | Brian Mears | Partick Thistle; Ken Bates
+3 | sport | What was the name of the fan campaign that saved Partick Thistle from bankruptcy in 1998? | Save the Jags | Jags Forever | Firhill First | Thistle Trust | Partick Thistle; Save the Jags
+3 | sport | Which manager led Partick Thistle to back-to-back promotions in 2000–01 and 2001–02? | John Lambie | Dick Campbell | Ian McCall | Alan Archibald | Partick Thistle; John Lambie
+3 | sport | Which Firhill stand was renamed after a former manager in 2018? | The John Lambie Stand | The Davie McParland Stand | The Jackie Husband Stand | The Bertie Auld Stand | Partick Thistle; John Lambie Stand
+3 | sport | Which Firhill stand was renamed the Colin Weir Stand in 2016? | The Main Stand | The North Stand | The Jackie Husband Stand | The Bing | Partick Thistle; Colin Weir Stand
+3 | sport | In 2008–09, Partick Thistle became the first Scottish club to use which colour as their main away colour? | Pink | Purple | Orange | Lime green | Partick Thistle; pink away kit
+3 | sport | Which Glasgow rugby team had a residency at Firhill from 2007 to 2012? | Glasgow Warriors | Glasgow Hawks | West of Scotland | Glasgow Academicals | Partick Thistle; Firhill; Glasgow Warriors
+3 | sport | Which former Baywatch star is listed among Partick Thistle's famous supporters? | David Hasselhoff | Pamela Anderson | David Charvet | Jeremy Jackson | Partick Thistle; David Hasselhoff
+4 | sport | Who was the Partick Thistle goalkeeper in the 1971 League Cup-winning team? | Alan Rough | Jim Leighton | Andy Goram | Bobby Clark | Partick Thistle; Alan Rough; 1971 League Cup final
+4 | sport | What was the grass embankment at the south end of Firhill, demolished in 2006, called? | The Bing | The Jungle | The Shed | The Hill | Partick Thistle; The Bing
+4 | sport | In 2019–20, Partick Thistle became the first Scottish club to put which flag on a jersey? | The rainbow flag | The Saltire | The European flag | The Lion Rampant | Partick Thistle; rainbow flag
+4 | sport | Who scored Partick Thistle's goals at half-time in the 1971 League Cup final, along with Bobby Lawrie and Jimmy Bone? | Alex Rae | Denis McQuade | Alex Forsyth | Frank Coulston | Partick Thistle; 1971 League Cup final
+4 | sport | Which club did Partick Thistle beat 2–0 at Falkirk to clinch the 2013 First Division title? | Falkirk | Greenock Morton | Dundee | Livingston | Partick Thistle; 2013
+4 | sport | Which team beat Partick Thistle in the 2018 Premiership play-off, sending them down? | Livingston | Dundee United | Hamilton | St Mirren | Partick Thistle; Livingston; 2018
+4 | sport | What was the first recorded home ground of Partick Thistle? | Overnewton Park | Meadowside | Inchview | Jordanvale | Partick Thistle; Overnewton Park
+4 | sport | Who was appointed Partick Thistle's first-ever sporting director in April 2025? | Ian Baraclough | Mark Wilson | Alex Rae | Brian Graham | Partick Thistle; Ian Baraclough
+4 | sport | Which BBC political editor is listed among Partick Thistle's famous supporters? | Laura Kuenssberg | Nick Robinson | Andrew Marr | Chris Mason | Partick Thistle; Laura Kuenssberg
+5 | sport | Who were Partick Thistle's opponents in their first-ever home match at Firhill, in 1909? | Dumbarton Harp | Queen's Park | Clyde | Third Lanark | Partick Thistle; Firhill; Dumbarton Harp
+5 | sport | What was the attendance at the 1971 League Cup final between Partick Thistle and Celtic? | 62,470 | 48,250 | 81,000 | 105,200 | Partick Thistle; 1971 League Cup final
+5 | sport | How much did Partick Thistle pay the Caledonian Railway for the Firhill land in 1909? | £5,500 | £1,200 | £12,000 | £25,000 | Partick Thistle; Firhill

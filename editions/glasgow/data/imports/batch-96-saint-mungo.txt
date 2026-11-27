@@ -1,0 +1,12 @@
+# Saint Mungo. Source: https://en.wikipedia.org/wiki/Saint_Mungo
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | What is St Mungo's other name? | Kentigern | Columba | Ninian | Serf | Saint Mungo; Kentigern
+2 | history | Where is St Mungo said to be buried? | On the site of Glasgow Cathedral | Iona | Culross | St Andrews | Saint Mungo; Glasgow Cathedral
+2 | history | On which day of the year is St Mungo's feast day in the West? | 13 January | 17 March | 30 November | 25 January | Saint Mungo; feast day
+3 | history | In which Fife town is St Mungo said to have been born? | Culross | Dunfermline | Kirkcaldy | St Andrews | Saint Mungo; Culross
+3 | history | Which saint brought up St Mungo and gave him his pet name? | St Serf | St Columba | St Ninian | St David | Saint Mungo; St Serf
+3 | history | In St Mungo's ring miracle, where was the queen's lost ring found? | Inside a fish | In a bird's nest | Under a tree | Inside a bell | Saint Mungo; ring; fish
+3 | history | In the miracle of the tree, what kind of branch did St Mungo use to relight a fire? | Hazel | Oak | Rowan | Birch | Saint Mungo; tree miracle
+4 | history | What was the name of St Mungo's mother? | Teneu | Languoreth | Penarwen | Brigid | Saint Mungo; Teneu
+4 | history | In which Welsh place did St Mungo found a cathedral during his exile? | Llanelwy (St Asaph) | St David's | Bangor | Llandaff | Saint Mungo; St Asaph
+4 | history | Which saint did St Mungo meet at Kilmacolm, exchanging pastoral staves? | St Columba | St Patrick | St Ninian | St Serf | Saint Mungo; Columba; Kilmacolm

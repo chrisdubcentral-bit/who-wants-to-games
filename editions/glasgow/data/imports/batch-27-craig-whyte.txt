@@ -1,0 +1,7 @@
+# Craig Whyte. Source: https://en.wikipedia.org/wiki/Craig_Whyte
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | For how much did Craig Whyte's company buy David Murray's controlling stake in Rangers in 2011? | £1 | £1 million | £18 million | £30 million | Craig Whyte; Rangers; 2011
+2 | sport | From which businessman did Craig Whyte buy control of Rangers in May 2011? | David Murray | Charles Green | Dave King | Fergus McCann | Craig Whyte; David Murray
+3 | sport | In which month and year did Rangers enter administration under Craig Whyte? | February 2012 | May 2011 | June 2012 | August 2013 | Craig Whyte; Rangers administration
+3 | famous-glaswegians | In which town was Craig Whyte born in 1971? | Motherwell | Paisley | Hamilton | Greenock | Craig Whyte; Motherwell
+4 | sport | In which year was Craig Whyte acquitted of all charges by a jury at Glasgow High Court? | 2017 | 2014 | 2015 | 2019 | Craig Whyte; trial

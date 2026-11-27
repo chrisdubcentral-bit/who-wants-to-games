@@ -1,0 +1,7 @@
+# Ibrox, Glasgow. Source: https://en.wikipedia.org/wiki/Ibrox,_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | history | Ibrox is part of which former burgh? | Govan | Partick | Pollokshields | Rutherglen | Ibrox; Govan
+4 | patter | The name Ibrox is often said to come from the Gaelic for what? | Badger ford | Fox hill | Deer field | Otter pool | Ibrox; Gaelic; name
+1 | sport | Which football club plays its home games at Ibrox? | Rangers | Celtic | Partick Thistle | Queen's Park | Ibrox; Rangers
+4 | art-culture | Which South African artist made an artwork on Copland Road in Ibrox before the 2014 Commonwealth Games? | Faith47 | Banksy | Blek le Rat | Os Gemeos | Ibrox; Faith47; Copland Road
+3 | landmarks | Which school sits on Edmiston Drive, directly across from Ibrox Stadium? | Ibrox Primary School | Govan High School | Bellahouston Academy | Hillhead Primary School | Ibrox; Ibrox Primary; Edmiston Drive

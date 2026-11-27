@@ -1,0 +1,63 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which 1984 Bronski Beat hit, sung by Jimmy Somerville, reached No. 3 in the UK?",
+    "options": [
+      "Tainted Love",
+      "Smalltown Boy",
+      "Don't Leave Me This Way",
+      "Relax"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Jimmy Somerville",
+      "Bronski Beat",
+      "Smalltown Boy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which duo did Jimmy Somerville form with Richard Coles in 1985?",
+    "options": [
+      "Pet Shop Boys",
+      "Soft Cell",
+      "Erasure",
+      "The Communards"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jimmy Somerville",
+      "The Communards"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which area of northern Glasgow did Jimmy Somerville grow up?",
+    "options": [
+      "Ruchill",
+      "Partick",
+      "Castlemilk",
+      "Govan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jimmy Somerville",
+      "Ruchill"
+    ],
+    "source": "manual"
+  }
+]

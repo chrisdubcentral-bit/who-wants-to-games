@@ -1,0 +1,622 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What part of the Barrowland's original rooftop wheelbarrow figure was saved and put in the foyer?",
+    "options": [
+      "The cartwheel",
+      "The barrow tray",
+      "The neon sign",
+      "The handles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barrowland",
+      "wheelbarrow",
+      "cartwheel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What wood is the Barrowland's sprung dancefloor made from?",
+    "options": [
+      "Scottish oak",
+      "Canadian maple",
+      "Swedish pine",
+      "English ash"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barrowland",
+      "dancefloor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "By 1988, how many steel pillars were needed to hold up the Barrowland's dancefloor?",
+    "options": [
+      "12",
+      "30",
+      "18",
+      "6"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "dancefloor",
+      "1988"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "The company that installed the Barrowland's steel floor pillars usually designed what?",
+    "options": [
+      "Ships",
+      "Bridges",
+      "Oil rigs",
+      "Football stadiums"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "dancefloor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Sheet music for which Will Fyffe song is set into the Barrowland's 1960 foyer floor?",
+    "options": [
+      "I Belong to Glasgow",
+      "Roamin' in the Gloamin'",
+      "The Jeely Piece Song",
+      "Glasgow Belongs to Me"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barrowland",
+      "Will Fyffe",
+      "I Belong to Glasgow"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band's lyrics are painted up the Barrowland's interior stairs?",
+    "options": [
+      "Mogwai",
+      "Simple Minds",
+      "Biffy Clyro",
+      "Franz Ferdinand"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "Biffy Clyro"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band were first to use the lighting rig Simple Minds left at the Barrowland in 1985?",
+    "options": [
+      "Del Amitri",
+      "Deacon Blue",
+      "The Proclaimers",
+      "Big Country"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barrowland",
+      "Simple Minds",
+      "Big Country",
+      "1985"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which family still owns the Barrowland?",
+    "options": [
+      "The Templetons",
+      "The McIvers",
+      "The Coias",
+      "The Kings"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barrowland",
+      "McIver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "What did David Bowie keep in his Paris bathroom from the Barrowland?",
+    "options": [
+      "A floorboard",
+      "Its neon sign",
+      "One of its ceiling stars",
+      "A dressing room mirror"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "David Bowie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "On which tour did David Bowie play the Barrowland in 1991?",
+    "options": [
+      "Serious Moonlight",
+      "Glass Spider",
+      "Tin Machine",
+      "Sound+Vision"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "David Bowie",
+      "Tin Machine",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What was the Royal Conservatoire of Scotland called when it opened in 1847?",
+    "options": [
+      "The Glasgow College of Music",
+      "The Glasgow Conservatory",
+      "The Glasgow Athenaeum",
+      "The Andersonian Institute"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Royal Conservatoire of Scotland",
+      "Athenaeum",
+      "1847"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which famous author was invited to the opening of the Glasgow Athenaeum in 1847?",
+    "options": [
+      "Robert Louis Stevenson",
+      "Charles Dickens",
+      "Walter Scott",
+      "Thomas Carlyle"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Royal Conservatoire of Scotland",
+      "Athenaeum",
+      "Charles Dickens"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which Outlander star is a former student of the Royal Conservatoire of Scotland?",
+    "options": [
+      "Ewan McGregor",
+      "Sam Heughan",
+      "Billy Connolly",
+      "Gerard Butler"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Royal Conservatoire of Scotland",
+      "Sam Heughan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "In which year was the Britannia Panopticon rediscovered above shop floors?",
+    "options": [
+      "1977",
+      "1997",
+      "1987",
+      "2007"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Britannia Panopticon",
+      "1997"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which American folk singer played Glasgow's Victoria Bar during the Second World War?",
+    "options": [
+      "Johnny Cash",
+      "Pete Seeger",
+      "Lead Belly",
+      "Woody Guthrie"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Victoria Bar",
+      "Woody Guthrie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "How many nights did Frank Sinatra play at the Empire on Sauchiehall Street in 1953?",
+    "options": [
+      "One",
+      "Ten",
+      "Three",
+      "Five"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Frank Sinatra",
+      "Empire",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which Glasgow hotel did Frank Sinatra stay at in 1953?",
+    "options": [
+      "The Beresford Hotel",
+      "The North British Hotel",
+      "The Central Hotel",
+      "The Malmaison"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Frank Sinatra",
+      "Central Hotel",
+      "1953"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which guitarist was on a 1967 bill at Green's Playhouse with Pink Floyd, The Move and The Nice?",
+    "options": [
+      "Eric Clapton",
+      "Jeff Beck",
+      "Jimi Hendrix",
+      "Pete Townshend"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Green's Playhouse",
+      "Apollo",
+      "Jimi Hendrix",
+      "1967"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What did Bob Dylan buy at the National Piping Centre in 2011?",
+    "options": [
+      "A set of bagpipes",
+      "A kilt",
+      "A tin whistle",
+      "A fiddle"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "National Piping Centre",
+      "Bob Dylan",
+      "2011"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which Belle and Sebastian member was a student on the Stow College course behind Electric Honey?",
+    "options": [
+      "Stuart David",
+      "Stevie Jackson",
+      "Chris Geddes",
+      "Richard Colburn"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Richard Colburn",
+      "Electric Honey"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "labels-scene",
+    "difficulty": 3,
+    "question": "Electric Honey helped build the careers of Biffy Clyro and which other band?",
+    "options": [
+      "Snow Patrol",
+      "Idlewild",
+      "Travis",
+      "Mogwai"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Electric Honey",
+      "Snow Patrol",
+      "Biffy Clyro"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "In which bar did Stuart Murdoch and Stevie Jackson meet at an open mic night?",
+    "options": [
+      "The Sparkle Horse",
+      "The Griffin",
+      "The Halt Bar",
+      "The Grosvenor Café"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Belle and Sebastian",
+      "Halt Bar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which music mogul did Belle and Sebastian meet at One Devonshire Gardens?",
+    "options": [
+      "Seymour Stein",
+      "Tony Wilson",
+      "Alan McGee",
+      "Geoff Travis"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Belle and Sebastian",
+      "Seymour Stein"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which Belle and Sebastian video is set in Kelvingrove Park?",
+    "options": [
+      "Like Dylan in the Movies",
+      "The Boy with the Arab Strap",
+      "Legal Man",
+      "Dog on Wheels"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Belle and Sebastian",
+      "Kelvingrove Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which Belle and Sebastian video features the Charing Cross footbridge?",
+    "options": [
+      "Like Dylan in the Movies",
+      "Jonathan David",
+      "Dog on Wheels",
+      "Legal Man"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Belle and Sebastian",
+      "Dog on Wheels",
+      "Charing Cross"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Stuart Murdoch was caretaker of which church while living above its hall?",
+    "options": [
+      "Wellington Church",
+      "Glasgow Cathedral",
+      "St Mary's Cathedral",
+      "Broomhill Hyndland Parish Church"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Stuart Murdoch",
+      "Broomhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "How many people saw Belle and Sebastian's free \"School's Out\" gig at the Botanic Gardens in 2004?",
+    "options": [
+      "3,000",
+      "50,000",
+      "25,000",
+      "12,000"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Belle and Sebastian",
+      "Botanic Gardens",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "About how many Highland cattle are in Pollok Country Park's fold?",
+    "options": [
+      "500",
+      "10",
+      "50",
+      "200"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pollok",
+      "Highland cattle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "patter",
+    "difficulty": 1,
+    "question": "What is a group of Highland cattle called?",
+    "options": [
+      "A fold",
+      "A flock",
+      "A clan",
+      "A pack"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pollok",
+      "Highland cattle",
+      "fold"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "For how long have Highland cattle been kept at Pollok Country Park?",
+    "options": [
+      "Over 20 years",
+      "Over 300 years",
+      "Over 50 years",
+      "Over 180 years"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pollok",
+      "Highland cattle"
+    ],
+    "source": "manual"
+  }
+]

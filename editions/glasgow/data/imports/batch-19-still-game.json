@@ -1,0 +1,826 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which two comedians created and starred in Still Game?",
+    "options": [
+      "Robert Florence and Iain Connell",
+      "Kevin Bridges and Frankie Boyle",
+      "Ford Kiernan and Greg Hemphill",
+      "Gregor Fisher and Tony Roper"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Ford Kiernan",
+      "Greg Hemphill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "What are the names of the two pensioner pals at the heart of Still Game?",
+    "options": [
+      "Navid and Boabby",
+      "Jack and Victor",
+      "Tam and Winston",
+      "Rab and Jamesie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "Jack Jarvis",
+      "Victor McDade"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "In which fictional area of Glasgow is Still Game set?",
+    "options": [
+      "Glenbogle",
+      "Craigmont",
+      "Craiglang",
+      "Burnistoun"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Craiglang"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which character in Still Game runs the local shop?",
+    "options": [
+      "Winston Ingram",
+      "Tam Mullen",
+      "Boabby the Barman",
+      "Navid Harrid"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Still Game",
+      "Navid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "In which earlier sketch show did Jack and Victor first appear?",
+    "options": [
+      "Burnistoun",
+      "Only an Excuse?",
+      "Chewin' the Fat",
+      "Naked Video"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Chewin' the Fat"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "What is the name of the pub in Still Game?",
+    "options": [
+      "The Clansman",
+      "The Giblet",
+      "The Two Ways Inn",
+      "The Gimlet"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Still Game",
+      "The Clansman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actor plays Victor McDade in Still Game?",
+    "options": [
+      "Ford Kiernan",
+      "Greg Hemphill",
+      "Paul Riley",
+      "Mark Cox"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "Victor McDade",
+      "Greg Hemphill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actor plays Jack Jarvis in Still Game?",
+    "options": [
+      "Gavin Mitchell",
+      "Sanjeev Kohli",
+      "Greg Hemphill",
+      "Ford Kiernan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Still Game",
+      "Jack Jarvis",
+      "Ford Kiernan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What is the name of the high-rise where Jack and Victor live in Still Game?",
+    "options": [
+      "Kestrel Court",
+      "Falcon Towers",
+      "Osprey Heights",
+      "Eagle House"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Osprey Heights"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actor plays Navid Harrid in Still Game?",
+    "options": [
+      "Paul Riley",
+      "Sanjeev Kohli",
+      "Gavin Mitchell",
+      "Mark Cox"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "Navid",
+      "Sanjeev Kohli"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Who plays Isa Drennan in Still Game?",
+    "options": [
+      "Elaine C. Smith",
+      "Jane McCarry",
+      "Barbara Rafferty",
+      "Kate Donnelly"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "Isa",
+      "Jane McCarry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which Still Game character is played by Paul Riley?",
+    "options": [
+      "Winston Ingram",
+      "Boabby the Barman",
+      "Tam Mullen",
+      "Shug"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Still Game",
+      "Winston",
+      "Paul Riley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which Still Game character is famously played by Gavin Mitchell?",
+    "options": [
+      "Boabby the Barman",
+      "Pete the Jakey",
+      "Methadone Mick",
+      "Tam Mullen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Still Game",
+      "Boabby",
+      "Gavin Mitchell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "At which Glasgow arena did Still Game Live play 21 shows in 2014?",
+    "options": [
+      "The King's Theatre",
+      "The SSE Hydro",
+      "Braehead Arena",
+      "The SECC"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "Hydro",
+      "2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In which year was Still Game first shown on TV?",
+    "options": [
+      "2005",
+      "2002",
+      "1999",
+      "2007"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "2002"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actor plays Tam Mullen in Still Game?",
+    "options": [
+      "Paul Young",
+      "Mark Cox",
+      "Jake D'Arcy",
+      "Paul Riley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "Tam Mullen",
+      "Mark Cox"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which three characters appeared in the original Still Game stage play?",
+    "options": [
+      "Jack, Victor and Winston",
+      "Jack, Victor and Isa",
+      "Jack, Victor and Tam",
+      "Jack, Victor and Navid"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Still Game",
+      "stage play"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In the original Still Game stage play, what traps the three men in Victor's flat?",
+    "options": [
+      "A locked door",
+      "A snowstorm",
+      "A broken lift",
+      "A power cut"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "stage play"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "At which Glasgow theatre was the Still Game stage play filmed in 1999?",
+    "options": [
+      "The Tron",
+      "The Pavilion",
+      "The Citizens Theatre",
+      "Cottiers Theatre"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Still Game",
+      "Cottiers Theatre",
+      "1999"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Roughly how many fans saw the 21 Still Game Live shows at the Hydro in 2014?",
+    "options": [
+      "350,000",
+      "120,000",
+      "210,000",
+      "85,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Hydro",
+      "2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Still Game character is played by Shamshad Akhtar?",
+    "options": [
+      "Isa Drennan",
+      "Meena Harrid",
+      "Peggy McAlpine",
+      "Frances Mullen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "Meena",
+      "Shamshad Akhtar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Glasgow district provided the tower block used as Osprey Heights?",
+    "options": [
+      "Ruchill",
+      "Possilpark",
+      "Maryhill",
+      "Townhead"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Osprey Heights",
+      "Maryhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In 2016 Still Game returned after how many years off screen?",
+    "options": [
+      "Five",
+      "Twelve",
+      "Seven",
+      "Nine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Still Game",
+      "2016 revival"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What happened to Still Game's characters at the end of series 9, according to the BBC?",
+    "options": [
+      "They went into comedy retirement",
+      "They won the lottery",
+      "They moved to a care home",
+      "They emigrated to Spain"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Still Game",
+      "series 9"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Hollywood actor based Davy Jones's Scottish accent in Pirates of the Caribbean on Still Game?",
+    "options": [
+      "Orlando Bloom",
+      "Johnny Depp",
+      "Bill Nighy",
+      "Geoffrey Rush"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Bill Nighy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which channel showed the first three series of Still Game?",
+    "options": [
+      "Channel 4",
+      "BBC Two",
+      "BBC One Scotland",
+      "STV"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "BBC One Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which BBC Scotland soap did Jack and Victor visit in a 2014 Children in Need sketch?",
+    "options": [
+      "Monarch of the Glen",
+      "Take the High Road",
+      "River City",
+      "Shetland"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "River City",
+      "Children in Need"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Glasgow pub was the outside of the Clansman in Still Game's first three series?",
+    "options": [
+      "The Scotia Bar",
+      "Sloans",
+      "The Horseshoe Bar",
+      "The Gimlet"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Still Game",
+      "The Gimlet",
+      "Ruchill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which Still Game character is played by Paul Young?",
+    "options": [
+      "Stevie the Bookie",
+      "Shug",
+      "Pete the Jakey",
+      "Tam"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "Shug",
+      "Paul Young"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Who plays Tam's wife Frances in Still Game?",
+    "options": [
+      "Lynne McCallum",
+      "Jane McCarry",
+      "Kate Donnelly",
+      "Maureen Carr"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Frances",
+      "Kate Donnelly"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "How much did the 2014 Still Game Live shows make in ticket sales?",
+    "options": [
+      "£10 million",
+      "£4 million",
+      "£6 million",
+      "£2 million"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Hydro",
+      "2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What share of the Scottish TV audience watched the first episode of Still Game's 2016 revival?",
+    "options": [
+      "35%",
+      "72%",
+      "44%",
+      "58%"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Still Game",
+      "2016 revival"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which famous factory was used for the bakery scenes in the Still Game episode \"Recipe\"?",
+    "options": [
+      "Scott's Porage Oats",
+      "Mackie's in Aberdeenshire",
+      "Tunnock's in Uddingston",
+      "Mother's Pride in Glasgow"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Recipe",
+      "Tunnock's"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What was the 2007 Still Game Hogmanay special called?",
+    "options": [
+      "Hootenanny",
+      "The Bells",
+      "Auld Lang Syne",
+      "Hogmanay"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Still Game",
+      "Hootenanny"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Who played Winston in the stage play before going on to play Boabby in the series?",
+    "options": [
+      "Mark Cox",
+      "Sanjeev Kohli",
+      "Paul Riley",
+      "Gavin Mitchell"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Still Game",
+      "Gavin Mitchell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "What was the name of Still Game's second live show at the Hydro, in 2017?",
+    "options": [
+      "Bon Voyage",
+      "Back in the Game",
+      "The Final Farewell",
+      "Heaven Sent"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Still Game",
+      "Bon Voyage",
+      "2017"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which band recorded \"Cuban Boy\", used as Still Game's original theme tune?",
+    "options": [
+      "The Proclaimers",
+      "The Bluebells",
+      "Texas",
+      "The Cuban Boys"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Still Game",
+      "Cuban Boys",
+      "theme tune"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "In which fictional seaside town, filmed in Largs and Saltcoats, is the episode \"Saucy\" set?",
+    "options": [
+      "Saltford",
+      "Craigport",
+      "Finport",
+      "Port Craiglang"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Still Game",
+      "Saucy",
+      "Finport"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "Which Still Game character is played by Scott Reid?",
+    "options": [
+      "Chris the Postie",
+      "Methadone Mick",
+      "Fergie the Ned",
+      "Stevie the Bookie"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Still Game",
+      "Methadone Mick",
+      "Scott Reid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "In which year did Scotsman readers vote Still Game the best Scottish TV programme of all time?",
+    "options": [
+      "2020",
+      "2023",
+      "2014",
+      "2017"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Still Game",
+      "Scotsman poll"
+    ],
+    "source": "manual"
+  }
+]

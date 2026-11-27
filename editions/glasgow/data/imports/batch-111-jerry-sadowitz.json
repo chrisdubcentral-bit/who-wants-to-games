@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Apart from stand-up, comedian Jerry Sadowitz is a highly skilled what?",
+    "options": [
+      "Juggler",
+      "Ventriloquist",
+      "Close-up magician",
+      "Puppeteer"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jerry Sadowitz",
+      "magic"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which US state was Glasgow-raised comedian Jerry Sadowitz born?",
+    "options": [
+      "Florida",
+      "New York",
+      "California",
+      "New Jersey"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jerry Sadowitz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "Which Glasgow secondary school did Jerry Sadowitz attend?",
+    "options": [
+      "Shawlands Academy",
+      "Hutchesons' Grammar",
+      "Hyndland Secondary",
+      "Hillhead High"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jerry Sadowitz",
+      "Shawlands Academy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What was Jerry Sadowitz's 1992 BBC Two show called?",
+    "options": [
+      "The Pall Bearer's Revue",
+      "Bib and Bob",
+      "Total Abuse",
+      "The Sadowitz Show"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jerry Sadowitz",
+      "Pall Bearer's Revue"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "Which famous TV illusionist befriended Jerry Sadowitz at a London magic shop?",
+    "options": [
+      "David Copperfield",
+      "Paul Daniels",
+      "Dynamo",
+      "Derren Brown"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jerry Sadowitz",
+      "Derren Brown"
+    ],
+    "source": "manual"
+  }
+]

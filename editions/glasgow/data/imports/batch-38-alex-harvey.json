@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "Which band did Alex Harvey form in 1972?",
+    "options": [
+      "The Sensational Alex Harvey Band",
+      "The Average White Band",
+      "Nazareth",
+      "Stone the Crows"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alex Harvey",
+      "SAHB"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which Tom Jones hit did the Sensational Alex Harvey Band take to No. 7 in 1975?",
+    "options": [
+      "It's Not Unusual",
+      "She's a Lady",
+      "Delilah",
+      "Green, Green Grass of Home"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alex Harvey",
+      "Delilah"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which guitarist played in the Sensational Alex Harvey Band?",
+    "options": [
+      "Les Harvey",
+      "Manny Charlton",
+      "Zal Cleminson",
+      "Jimmy McCulloch"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alex Harvey",
+      "Zal Cleminson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Alex Harvey won a contest to find \"Scotland's answer to\" which singer?",
+    "options": [
+      "Tommy Steele",
+      "Billy Fury",
+      "Elvis Presley",
+      "Cliff Richard"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alex Harvey",
+      "Tommy Steele"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "In which London musical's pit band did Alex Harvey play from 1967?",
+    "options": [
+      "Oliver!",
+      "Godspell",
+      "Hair",
+      "Jesus Christ Superstar"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alex Harvey",
+      "Hair"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which singer did Alex Harvey's brother Les form Stone the Crows with?",
+    "options": [
+      "Maggie Bell",
+      "Annie Lennox",
+      "Lulu",
+      "Barbara Dickson"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alex Harvey",
+      "Les Harvey",
+      "Maggie Bell"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which Glasgow district was Alex Harvey born and raised?",
+    "options": [
+      "Maryhill",
+      "Kinning Park",
+      "Partick",
+      "Bridgeton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alex Harvey",
+      "Kinning Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "What was the name of Alex Harvey's band from 1958 to 1965?",
+    "options": [
+      "Alex Harvey's Big Soul Band",
+      "The Alex Harvey Skiffle Group",
+      "Alex Harvey and the Hipsters",
+      "The Kinning Park Kats"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alex Harvey",
+      "Big Soul Band"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Where was the Sensational Alex Harvey Band's 1975 Live album recorded?",
+    "options": [
+      "Rainbow Theatre",
+      "Glasgow Apollo",
+      "Barrowland Ballroom",
+      "Hammersmith Odeon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Alex Harvey",
+      "SAHB Live",
+      "Hammersmith Odeon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which band were most of the Sensational Alex Harvey Band members in before SAHB?",
+    "options": [
+      "Tear Gas",
+      "Nazareth",
+      "The Beatstalkers",
+      "The Poets"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alex Harvey",
+      "Tear Gas"
+    ],
+    "source": "manual"
+  }
+]

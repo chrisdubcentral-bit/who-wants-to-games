@@ -1,0 +1,1485 @@
+{
+  "schemaVersion": 1,
+  "collection": "rejected",
+  "updatedAt": "2026-11-27T13:33:07.835Z",
+  "questions": [
+    {
+      "id": "q_002007",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "film-tv",
+      "difficulty": 4,
+      "question": "After cinema mogul Alexander King bought the White Elephant in 1934, what was it renamed?",
+      "options": [
+        "The Elephant",
+        "The King's",
+        "The Shawlands",
+        "The Ritz"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "White Elephant",
+        "Alexander King",
+        "1934"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T13:23:17.787Z",
+      "updatedAt": "2026-11-27T13:24:30.703Z",
+      "review": {
+        "reviewedAt": "2026-11-27T13:24:30.703Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_002006",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "the-academy",
+      "category": "film-tv",
+      "difficulty": 4,
+      "question": "About how many people could the White Elephant cinema's main auditorium seat?",
+      "options": [
+        "1,900",
+        "900",
+        "600",
+        "3,500"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "White Elephant",
+        "Kilmarnock Road"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T13:23:17.787Z",
+      "updatedAt": "2026-11-27T13:24:30.703Z",
+      "review": {
+        "reviewedAt": "2026-11-27T13:24:30.703Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_002005",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "film-tv",
+      "difficulty": 3,
+      "question": "Which showman commissioned the White Elephant cinema on Kilmarnock Road, which opened in 1927?",
+      "options": [
+        "George Green",
+        "Alexander King",
+        "Harry Barnes",
+        "A.E. Pickard"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "White Elephant",
+        "Kilmarnock Road",
+        "A.E. Pickard"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T13:23:17.787Z",
+      "updatedAt": "2026-11-27T13:24:30.703Z",
+      "review": {
+        "reviewedAt": "2026-11-27T13:24:30.703Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_002003",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "history",
+      "difficulty": 4,
+      "question": "In which year were the Harbour Tunnel's two vehicle tunnels abandoned and the lifts removed?",
+      "options": [
+        "1932",
+        "1915",
+        "1926",
+        "1943"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Harbour Tunnel",
+        "1943"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T13:09:49.939Z",
+      "updatedAt": "2026-11-27T13:18:14.062Z",
+      "review": {
+        "reviewedAt": "2026-11-27T13:18:14.062Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_002002",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "the-academy",
+      "category": "history",
+      "difficulty": 4,
+      "question": "How much did Glasgow Corporation pay to take control of the Harbour Tunnel in 1926?",
+      "options": [
+        "£30,000",
+        "£1 million",
+        "£100,000",
+        "£500"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Harbour Tunnel",
+        "1926",
+        "Glasgow Corporation"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T13:09:49.939Z",
+      "updatedAt": "2026-11-27T13:18:14.062Z",
+      "review": {
+        "reviewedAt": "2026-11-27T13:18:14.062Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_002000",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "the-academy",
+      "category": "history",
+      "difficulty": 4,
+      "question": "Which American company supplied the hydraulic hoists in the Harbour Tunnel's rotundas?",
+      "options": [
+        "Singer",
+        "Westinghouse",
+        "Otis Elevator Company",
+        "General Electric"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Harbour Tunnel",
+        "Otis",
+        "hydraulic lifts"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T13:09:49.939Z",
+      "updatedAt": "2026-11-27T13:18:14.062Z",
+      "review": {
+        "reviewedAt": "2026-11-27T13:18:14.062Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001979",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "patter",
+      "difficulty": 3,
+      "question": "Discover Glasgow's patter guide is written in the spirit of which comedian?",
+      "options": [
+        "Rikki Fulton",
+        "Billy Connolly",
+        "Stanley Baxter",
+        "Chic Murray"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "patter",
+        "Stanley Baxter"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T13:00:10.360Z",
+      "updatedAt": "2026-11-27T13:16:32.547Z",
+      "review": {
+        "reviewedAt": "2026-11-27T13:16:32.547Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001914",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "king-tuts",
+      "category": "food-drink",
+      "difficulty": 2,
+      "question": "Singl-end in the Sauchiehall Street district is recommended for which meal?",
+      "options": [
+        "Afternoon tea",
+        "Late-night snacks",
+        "Brunch",
+        "Pre-theatre dinner"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Sauchiehall Street",
+        "Singl-end"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001912",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "king-tuts",
+      "category": "food-drink",
+      "difficulty": 2,
+      "question": "What does Himba on Sauchiehall Street serve?",
+      "options": [
+        "Curry",
+        "Coffee and pastries",
+        "Burgers",
+        "Ramen"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Sauchiehall Street",
+        "Himba"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001911",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "the-academy",
+      "category": "food-drink",
+      "difficulty": 4,
+      "question": "Which two Sauchiehall Street restaurants are recommended for pre-theatre menus?",
+      "options": [
+        "Grumpy Pedros and Sprigg",
+        "Hajar's and Himba",
+        "Red Onion and Roya",
+        "Singl-end and Dun Dun Xiang"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Sauchiehall Street",
+        "Red Onion",
+        "Roya",
+        "pre-theatre"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001907",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "oran-mor",
+      "category": "food-drink",
+      "difficulty": 3,
+      "question": "Which two Sauchiehall Street bars are known for their long curved bars?",
+      "options": [
+        "Howlin' Wolf and The Garage",
+        "Variety Bar and Nice N Sleazy",
+        "The State Bar and The Griffin",
+        "Nico's and Lauders"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Sauchiehall Street",
+        "State Bar",
+        "The Griffin"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001905",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "venues-gigs",
+      "difficulty": 3,
+      "question": "Which Sauchiehall Street jazz venue hosts intimate gigs?",
+      "options": [
+        "Lauders Lounge",
+        "Basement Jazz Bar",
+        "The Jazz Cellar",
+        "The Blue Arrow"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Sauchiehall Street",
+        "Basement Jazz Bar"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001904",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "oran-mor",
+      "category": "venues-gigs",
+      "difficulty": 3,
+      "question": "Which Sauchiehall Street venue hosts comedy and cabaret?",
+      "options": [
+        "The Buff Club",
+        "Berlinkys",
+        "Nice N Sleazy",
+        "The Garage"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Sauchiehall Street",
+        "Berlinkys"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001903",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "venues-gigs",
+      "difficulty": 3,
+      "question": "Which Sauchiehall Street venues carry on a long history of ballrooms, dance halls and discos?",
+      "options": [
+        "The Garage, The Vic and The Buff Club",
+        "The Cathouse, Sub Club and SWG3",
+        "The Barrowland, The Plaza and The Savoy",
+        "The Arches, The Shed and Fury Murrys"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Sauchiehall Street",
+        "The Garage",
+        "The Vic",
+        "The Buff Club"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001901",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "the-barras",
+      "category": "venues-gigs",
+      "difficulty": 5,
+      "question": "Alongside Spandau Ballet, which act does Visit Glasgow say Sauchiehall Street has inspired?",
+      "options": [
+        "Biffy Clyro",
+        "Lewis Capaldi",
+        "Chvrches",
+        "corto.alto"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Sauchiehall Street",
+        "corto.alto"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001900",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "venues-gigs",
+      "difficulty": 3,
+      "question": "Visit Glasgow says Sauchiehall Street has inspired music by which 1980s band?",
+      "options": [
+        "Wham!",
+        "Spandau Ballet",
+        "Duran Duran",
+        "Culture Club"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Sauchiehall Street",
+        "Spandau Ballet"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001899",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "oran-mor",
+      "category": "art-culture",
+      "difficulty": 3,
+      "question": "A self-guided walk of which area covers the achievements of women in Glasgow's history?",
+      "options": [
+        "Anderston",
+        "Woodlands",
+        "Blythswood",
+        "Garnethill"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Sauchiehall Street",
+        "Garnethill",
+        "women's history"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001898",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "patter",
+      "difficulty": 3,
+      "question": "Visit Glasgow tells visitors to look up on Sauchiehall Street for a \"chooky\" what on a light?",
+      "options": [
+        "Fish",
+        "Dog",
+        "Bird",
+        "Cat"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Sauchiehall Street",
+        "chooky bird"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:17:06.101Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:17:06.101Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001895",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "oran-mor",
+      "category": "art-culture",
+      "difficulty": 3,
+      "question": "Which gallery is named with Glasgow School of Art and Grateful Gallery as a Sauchiehall Street exhibition venue?",
+      "options": [
+        "GoMA",
+        "RGI Kelly Gallery",
+        "The Modern Institute",
+        "Transmission"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Sauchiehall Street",
+        "RGI Kelly Gallery"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:14:50.768Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:14:50.768Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001893",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "art-school",
+      "category": "art-culture",
+      "difficulty": 2,
+      "question": "Which architect does Visit Glasgow call \"the more famous architect\" on Sauchiehall Street?",
+      "options": [
+        "William Leiper",
+        "Alexander Thomson",
+        "Charles Rennie Mackintosh",
+        "John Burnet"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Sauchiehall Street",
+        "Mackintosh"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:14:50.768Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:14:50.768Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001888",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "food-drink",
+      "difficulty": 3,
+      "question": "Which bar is inside the CCA on Sauchiehall Street?",
+      "options": [
+        "Variety Bar",
+        "The Griffin",
+        "Nico's",
+        "Third Eye Bar"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Sauchiehall Street",
+        "CCA",
+        "Third Eye Bar"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:14:50.768Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:14:50.768Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001887",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "art-school",
+      "category": "art-culture",
+      "difficulty": 2,
+      "question": "Which arts centre is now in Alexander 'Greek' Thomson's Grecian Chambers?",
+      "options": [
+        "GoMA",
+        "The Tramway",
+        "The CCA",
+        "The Lighthouse"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Sauchiehall Street",
+        "CCA",
+        "Grecian Chambers",
+        "Alexander Thomson"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:14:50.768Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:14:50.768Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001885",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "nice-n-sleazys",
+      "category": "venues-gigs",
+      "difficulty": 1,
+      "question": "Which Sauchiehall Street bar hosts smaller gigs and gives this game's first venue its name?",
+      "options": [
+        "Variety Bar",
+        "The Buff Club",
+        "The Garage",
+        "Nice N Sleazy"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Sauchiehall Street",
+        "Nice N Sleazy"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:53:45.957Z",
+      "updatedAt": "2026-11-27T12:14:50.768Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:14:50.768Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001884",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "king-tuts",
+      "category": "food-drink",
+      "difficulty": 2,
+      "question": "Gathering Ground in North Glasgow is what kind of café?",
+      "options": [
+        "A cat café",
+        "A dog-friendly community café",
+        "A board game café",
+        "A vegan bakery"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "North Glasgow",
+        "Gathering Ground"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:46:25.542Z",
+      "updatedAt": "2026-11-27T12:14:50.768Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:14:50.768Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001876",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "food-drink",
+      "difficulty": 3,
+      "question": "Rockvilla was named Pizza Restaurant of the Year at which year's Scottish Restaurant Awards?",
+      "options": [
+        "2021",
+        "2019",
+        "2023",
+        "2024"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "North Glasgow",
+        "Rockvilla"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:46:25.542Z",
+      "updatedAt": "2026-11-27T12:14:50.768Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:14:50.768Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001864",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "history",
+      "difficulty": 3,
+      "question": "Lambhill Stables were built in the early 1800s, when goods were moved by what?",
+      "options": [
+        "Tram",
+        "Steam train",
+        "Lorry",
+        "Horse"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "North Glasgow",
+        "Lambhill Stables"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:46:25.542Z",
+      "updatedAt": "2026-11-27T12:14:50.768Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:14:50.768Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001830",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "history",
+      "difficulty": 3,
+      "question": "Which castle does Visit Glasgow call the city's only surviving medieval castle?",
+      "options": [
+        "Crookston Castle",
+        "Provan Hall",
+        "Cathcart Castle",
+        "Haggs Castle"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Southside",
+        "Crookston Castle"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:44:07.526Z",
+      "updatedAt": "2026-11-27T12:08:58.740Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:08:58.740Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001824",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "nice-n-sleazys",
+      "category": "sport",
+      "difficulty": 1,
+      "question": "Which football club's East End stadium offers stadium tours?",
+      "options": [
+        "Queen's Park",
+        "Rangers",
+        "Partick Thistle",
+        "Celtic"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "East End",
+        "Celtic Park"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:27:59.071Z",
+      "updatedAt": "2026-11-27T12:08:58.740Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:08:58.740Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001801",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "nice-n-sleazys",
+      "category": "venues-gigs",
+      "difficulty": 1,
+      "question": "Which East End venue does Visit Glasgow call the city's most legendary music venue?",
+      "options": [
+        "Saint Luke's",
+        "The Hydro",
+        "King Tut's",
+        "Barrowland Ballroom"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "East End",
+        "Barrowland"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:27:59.071Z",
+      "updatedAt": "2026-11-27T12:08:58.740Z",
+      "review": {
+        "reviewedAt": "2026-11-27T12:08:58.740Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001773",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "food-drink",
+      "difficulty": 3,
+      "question": "The Once Upon a Whisky walking tour starts at which bar?",
+      "options": [
+        "The Pot Still",
+        "The Islay Inn",
+        "The Park Bar",
+        "The Ben Nevis Bar"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Finnieston",
+        "Once Upon a Whisky",
+        "Ben Nevis"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:25:21.533Z",
+      "updatedAt": "2026-11-27T11:27:39.401Z",
+      "review": {
+        "reviewedAt": "2026-11-27T11:27:39.401Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001772",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "oran-mor",
+      "category": "food-drink",
+      "difficulty": 3,
+      "question": "What does Once Upon a Whisky run in Glasgow?",
+      "options": [
+        "A whisky distillery",
+        "A whisky festival",
+        "Walking tours of whisky bars",
+        "A whisky shop"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Finnieston",
+        "Once Upon a Whisky"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:25:21.533Z",
+      "updatedAt": "2026-11-27T11:27:39.401Z",
+      "review": {
+        "reviewedAt": "2026-11-27T11:27:39.401Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001766",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "nice-n-sleazys",
+      "category": "landmarks",
+      "difficulty": 1,
+      "question": "Finnieston is set beside which river?",
+      "options": [
+        "River Clyde",
+        "River Leven",
+        "River Forth",
+        "River Tay"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Finnieston",
+        "River Clyde"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:25:21.533Z",
+      "updatedAt": "2026-11-27T11:27:39.401Z",
+      "review": {
+        "reviewedAt": "2026-11-27T11:27:39.401Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001761",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "oran-mor",
+      "category": "food-drink",
+      "difficulty": 3,
+      "question": "Chaakoo Bombay Cafe draws its inspiration from which country's food?",
+      "options": [
+        "Lebanon",
+        "Thailand",
+        "Turkey",
+        "Iran"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "City Centre",
+        "Chaakoo"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:23:31.094Z",
+      "updatedAt": "2026-11-27T11:25:58.118Z",
+      "review": {
+        "reviewedAt": "2026-11-27T11:25:58.118Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001747",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "king-tuts",
+      "category": "venues-gigs",
+      "difficulty": 2,
+      "question": "Which music festival is held on Glasgow Green in the summer?",
+      "options": [
+        "T in the Park",
+        "TRNSMT",
+        "Connect",
+        "Summer Sessions"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "City Centre",
+        "TRNSMT",
+        "Glasgow Green"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T11:23:31.094Z",
+      "updatedAt": "2026-11-27T11:25:58.118Z",
+      "review": {
+        "reviewedAt": "2026-11-27T11:25:58.118Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001700",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "nice-n-sleazys",
+      "category": "landmarks",
+      "difficulty": 1,
+      "question": "Which part of Glasgow is Maryhill in?",
+      "options": [
+        "East End",
+        "Southside",
+        "North",
+        "West End"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "areas",
+        "Maryhill"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T09:44:56.310Z",
+      "updatedAt": "2026-11-27T10:02:42.307Z",
+      "review": {
+        "reviewedAt": "2026-11-27T10:02:42.306Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001673",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "history",
+      "difficulty": 3,
+      "question": "Which medal did John Smeaton receive for his part in the 2007 Glasgow Airport attack?",
+      "options": [
+        "The Distinguished Service Medal",
+        "The George Cross",
+        "The Queen's Gallantry Medal",
+        "The Victoria Cross"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "John Smeaton",
+        "Queen's Gallantry Medal"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T09:17:10.039Z",
+      "updatedAt": "2026-11-27T10:01:46.438Z",
+      "review": {
+        "reviewedAt": "2026-11-27T10:01:46.438Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001621",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "the-barras",
+      "category": "history",
+      "difficulty": 5,
+      "question": "In which year did the M8's eastern extension from Newbridge to the Edinburgh City Bypass open?",
+      "options": [
+        "1980",
+        "2001",
+        "1995",
+        "1992"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "M8",
+        "Newbridge",
+        "1995"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T09:17:07.339Z",
+      "updatedAt": "2026-11-27T09:50:54.904Z",
+      "review": {
+        "reviewedAt": "2026-11-27T09:50:54.904Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not Glasgow questions"
+      }
+    },
+    {
+      "id": "q_001614",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "history",
+      "difficulty": 4,
+      "question": "The Monkland Motorway was built over the former route of which canal?",
+      "options": [
+        "The Union Canal",
+        "The Monkland Canal",
+        "The Paisley Canal",
+        "The Forth and Clyde Canal"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "M8",
+        "Monkland Motorway",
+        "Monkland Canal"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-27T09:17:07.339Z",
+      "updatedAt": "2026-11-27T09:50:54.904Z",
+      "review": {
+        "reviewedAt": "2026-11-27T09:50:54.904Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Not Glasgow questions"
+      }
+    },
+    {
+      "id": "q_001557",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "the-academy",
+      "category": "venues-gigs",
+      "difficulty": 4,
+      "question": "Which London band played SWG3 in May 2019?",
+      "options": [
+        "Black Midi",
+        "Shame",
+        "Fat White Family",
+        "Idles"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "SWG3",
+        "Fat White Family",
+        "2019"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-25T21:33:35.178Z",
+      "updatedAt": "2026-11-25T21:37:30.235Z",
+      "review": {
+        "reviewedAt": "2026-11-25T21:37:30.235Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001556",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "venues-gigs",
+      "difficulty": 4,
+      "question": "Which band played Nice N Sleazy in December 2013?",
+      "options": [
+        "Glass Animals",
+        "Django Django",
+        "Alt-J",
+        "Wild Beasts"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Nice N Sleazy",
+        "Django Django",
+        "2013"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-25T21:33:35.178Z",
+      "updatedAt": "2026-11-25T21:37:30.235Z",
+      "review": {
+        "reviewedAt": "2026-11-25T21:37:30.235Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001547",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "venues-gigs",
+      "difficulty": 3,
+      "question": "Which Glasgow band, led by Bobby Gillespie, played the Barrowland in October 1991?",
+      "options": [
+        "Primal Scream",
+        "Jesus and Mary Chain",
+        "Teenage Fanclub",
+        "The Soup Dragons"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Barrowland",
+        "Primal Scream",
+        "1991"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-25T21:33:35.178Z",
+      "updatedAt": "2026-11-25T21:37:30.235Z",
+      "review": {
+        "reviewedAt": "2026-11-25T21:37:30.235Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001545",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "venues-gigs",
+      "difficulty": 3,
+      "question": "Which Glasgow band played the Barrowland in December 2016, just after Pixies' night there?",
+      "options": [
+        "Mogwai",
+        "Teenage Fanclub",
+        "Belle and Sebastian",
+        "Franz Ferdinand"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Barrowland",
+        "Teenage Fanclub",
+        "2016"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-25T21:33:35.178Z",
+      "updatedAt": "2026-11-25T21:37:30.235Z",
+      "review": {
+        "reviewedAt": "2026-11-25T21:37:30.235Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001525",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "venues-gigs",
+      "difficulty": 3,
+      "question": "Which artist headlined TRNSMT on Glasgow Green in July 2024, with Sprints supporting?",
+      "options": [
+        "Alison Goldfrapp",
+        "The Snuts",
+        "Kasabian",
+        "Radiohead"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Glasgow Green",
+        "TRNSMT",
+        "Alison Goldfrapp",
+        "2024"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-25T21:31:07.166Z",
+      "updatedAt": "2026-11-25T21:34:28.031Z",
+      "review": {
+        "reviewedAt": "2026-11-25T21:34:28.031Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001503",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "venues-gigs",
+      "difficulty": 4,
+      "question": "Which band headlined Festival in the City on Glasgow Green on 26 August 2000, with Teenage Fanclub supporting?",
+      "options": [
+        "Primal Scream",
+        "Paul Weller",
+        "Travis",
+        "Oasis"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Glasgow Green",
+        "Festival in the City",
+        "Primal Scream",
+        "2000"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-25T21:22:51.344Z",
+      "updatedAt": "2026-11-25T21:29:13.716Z",
+      "review": {
+        "reviewedAt": "2026-11-25T21:29:13.716Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001498",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "venues-gigs",
+      "difficulty": 4,
+      "question": "Which band supported Simple Minds at Ibrox Stadium in June 1986?",
+      "options": [
+        "The Alarm",
+        "The Waterboys",
+        "Big Country",
+        "The Cult"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Ibrox",
+        "Simple Minds",
+        "The Cult",
+        "1986"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-25T21:22:51.344Z",
+      "updatedAt": "2026-11-25T21:28:36.911Z",
+      "review": {
+        "reviewedAt": "2026-11-25T21:28:36.911Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001495",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "qmu",
+      "category": "venues-gigs",
+      "difficulty": 3,
+      "question": "Which Scottish band played King Tut's in March 1997?",
+      "options": [
+        "Idlewild",
+        "Texas",
+        "Travis",
+        "Mogwai"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "King Tut's",
+        "Travis",
+        "1997"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-25T21:22:51.344Z",
+      "updatedAt": "2026-11-25T21:28:18.063Z",
+      "review": {
+        "reviewedAt": "2026-11-25T21:28:18.063Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001368",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "sport",
+      "difficulty": 4,
+      "question": "What are the five levels of SFA club licence, from top to bottom?",
+      "options": [
+        "Premier, first, second, third, fourth",
+        "Gold, silver, bronze, red, green",
+        "Platinum, gold, silver, bronze, entry",
+        "A, B, C, D, E"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "SFA",
+        "club licensing"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-24T22:58:51.030Z",
+      "updatedAt": "2026-11-25T19:08:54.220Z",
+      "review": {
+        "reviewedAt": "2026-11-25T19:08:54.220Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Rubbish questions"
+      }
+    },
+    {
+      "id": "q_001366",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "sport",
+      "difficulty": 4,
+      "question": "In which year did the SFA disband its semi-professional national team?",
+      "options": [
+        "2015",
+        "1998",
+        "2020",
+        "2008"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "SFA",
+        "semi-professional team"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-24T22:58:51.030Z",
+      "updatedAt": "2026-11-25T19:08:54.220Z",
+      "review": {
+        "reviewedAt": "2026-11-25T19:08:54.220Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Rubbish questions"
+      }
+    },
+    {
+      "id": "q_000531",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "famous-glaswegians",
+      "difficulty": 4,
+      "question": "Which honour did Stanley Baxter turn down?",
+      "options": [
+        "An MBE",
+        "A CBE",
+        "A knighthood",
+        "An OBE"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Stanley Baxter",
+        "OBE"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-23T16:18:28.162Z",
+      "updatedAt": "2026-11-24T07:45:32.244Z",
+      "review": {
+        "reviewedAt": "2026-11-24T07:45:32.244Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "No royalty questions"
+      }
+    },
+    {
+      "id": "q_000506",
+      "schemaVersion": 1,
+      "club": "glasgow",
+      "stage": "swg3",
+      "category": "famous-glaswegians",
+      "difficulty": 3,
+      "question": "In which year was Kenny Dalglish knighted?",
+      "options": [
+        "2018",
+        "2012",
+        "2023",
+        "2008"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Kenny Dalglish",
+        "knighthood"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-23T16:18:27.493Z",
+      "updatedAt": "2026-11-24T07:44:47.971Z",
+      "review": {
+        "reviewedAt": "2026-11-24T07:44:47.971Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "No Royalty trinket questions"
+      }
+    }
+  ]
+}

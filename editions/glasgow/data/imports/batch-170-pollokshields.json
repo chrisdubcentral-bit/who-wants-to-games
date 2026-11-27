@@ -1,0 +1,106 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which family established Pollokshields in 1849?",
+    "options": [
+      "The Stirling-Maxwells",
+      "The Montgomeries",
+      "The Campbells",
+      "The Hamiltons"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pollokshields",
+      "Stirling-Maxwell",
+      "1849"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year did Pollokshields become a burgh?",
+    "options": [
+      "1876",
+      "1891",
+      "1912",
+      "1849"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pollokshields",
+      "burgh",
+      "1876"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "For how much was Pollokshields Burgh Hall bought by a charitable trust in 1986?",
+    "options": [
+      "£1,000",
+      "£10,000",
+      "£1",
+      "£100"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pollokshields",
+      "Burgh Hall",
+      "1986"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Glasgow club, founded in Kinning Park in 1848, is the city's oldest surviving team sports club?",
+    "options": [
+      "Glasgow Academicals",
+      "West of Scotland Cricket Club",
+      "Queen's Park FC",
+      "Clydesdale Cricket Club"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pollokshields",
+      "Clydesdale Cricket Club",
+      "Titwood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Which comedian is listed among the notable residents of Pollokshields?",
+    "options": [
+      "Billy Connolly",
+      "Kevin Bridges",
+      "Limmy",
+      "Frankie Boyle"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pollokshields",
+      "Frankie Boyle"
+    ],
+    "source": "manual"
+  }
+]

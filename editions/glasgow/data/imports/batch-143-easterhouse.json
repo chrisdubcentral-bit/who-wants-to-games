@@ -1,0 +1,200 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Roughly how far east of Glasgow city centre is Easterhouse?",
+    "options": [
+      "Twenty miles",
+      "Two miles",
+      "Twelve miles",
+      "Six miles"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Easterhouse"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which 15th-century mansion in Easterhouse is owned by the National Trust for Scotland?",
+    "options": [
+      "Provan Hall",
+      "Crookston Castle",
+      "Pollok House",
+      "Haggs Castle"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Easterhouse",
+      "Provan Hall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which entertainer got involved with Easterhouse's youth gangs in the 1960s?",
+    "options": [
+      "Tom Jones",
+      "Jimmy Logan",
+      "Cliff Richard",
+      "Frankie Vaughan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Easterhouse",
+      "Frankie Vaughan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What is the name of Easterhouse's arts, library and swimming centre opened in 2004?",
+    "options": [
+      "The Forge",
+      "The Phoenix",
+      "The Hub",
+      "The Bridge"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Easterhouse",
+      "The Bridge"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Easterhouse took its name from a farm that lay east of which other farm?",
+    "options": [
+      "Westerhouse",
+      "Northfield",
+      "Provanhall",
+      "Blairtummock"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Easterhouse",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which decade did the building of the Easterhouse housing scheme begin?",
+    "options": [
+      "1930s",
+      "1960s",
+      "1970s",
+      "1950s"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Easterhouse"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which motorway runs east to west through Easterhouse?",
+    "options": [
+      "The M80",
+      "The M77",
+      "The M74",
+      "The M8"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Easterhouse",
+      "M8"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which year was Glasgow's 100,000th council home completed in Easterhouse?",
+    "options": [
+      "1965",
+      "1948",
+      "1975",
+      "1955"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Easterhouse",
+      "council homes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Roughly what was Easterhouse's peak population in the early 1960s?",
+    "options": [
+      "About 100,000",
+      "Over 56,000",
+      "About 20,000",
+      "About 35,000"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Easterhouse",
+      "population"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which canal bounded the original village of Easterhouse?",
+    "options": [
+      "The Paisley Canal",
+      "The Monkland Canal",
+      "The Forth and Clyde Canal",
+      "The Union Canal"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Easterhouse",
+      "Monkland Canal"
+    ],
+    "source": "manual"
+  }
+]

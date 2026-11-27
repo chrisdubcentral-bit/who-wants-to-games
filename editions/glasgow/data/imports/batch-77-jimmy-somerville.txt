@@ -1,0 +1,5 @@
+# Jimmy Somerville. Source: https://en.wikipedia.org/wiki/Jimmy_Somerville
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | songs-albums | Which 1984 Bronski Beat hit, sung by Jimmy Somerville, reached No. 3 in the UK? | Smalltown Boy | Don't Leave Me This Way | Relax | Tainted Love | Jimmy Somerville; Bronski Beat; Smalltown Boy
+2 | glasgow-bands | Which duo did Jimmy Somerville form with Richard Coles in 1985? | The Communards | Erasure | Pet Shop Boys | Soft Cell | Jimmy Somerville; The Communards
+3 | famous-glaswegians | In which area of northern Glasgow did Jimmy Somerville grow up? | Ruchill | Govan | Castlemilk | Partick | Jimmy Somerville; Ruchill

@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Which stand-up comedian is listed as a notable person from Pollokshaws?",
+    "options": [
+      "Limmy",
+      "Billy Connolly",
+      "Kevin Bridges",
+      "Frankie Boyle"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pollokshaws",
+      "Frankie Boyle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was Pollokshaws annexed to the City of Glasgow?",
+    "options": [
+      "1846",
+      "1938",
+      "1891",
+      "1912"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Pollokshaws"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What was Pollokshaws' main industry as a 17th-century village?",
+    "options": [
+      "Weaving",
+      "Coal mining",
+      "Shipbuilding",
+      "Brewing"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Pollokshaws",
+      "weaving"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What is the Round Toll at Pollokshaws?",
+    "options": [
+      "A bandstand",
+      "A former tollbooth",
+      "A church",
+      "A clock tower"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Pollokshaws",
+      "Round Toll"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which daughter of Robert Burns is buried in Pollokshaws?",
+    "options": [
+      "Isabella Burns",
+      "Jean Burns",
+      "Betty Burns",
+      "Agnes Burns"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Pollokshaws",
+      "Betty Burns"
+    ],
+    "source": "manual"
+  }
+]

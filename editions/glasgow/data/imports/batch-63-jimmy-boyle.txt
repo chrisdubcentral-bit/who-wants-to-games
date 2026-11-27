@@ -1,0 +1,7 @@
+# Jimmy Boyle. Source: https://en.wikipedia.org/wiki/Jimmy_Boyle_(artist)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | What is the title of Jimmy Boyle's 1977 autobiography? | A Sense of Freedom | Hard Man | Pain of Confinement | Hero of the Underworld | Jimmy Boyle; A Sense of Freedom
+3 | art-culture | Which art therapist helped Jimmy Boyle discover art in Barlinnie's Special Unit? | Joyce Laing | Sara Trevelyan | Evlynn Smith | Kate Fenwick | Jimmy Boyle; Joyce Laing
+3 | art-culture | What is "Gulliver", designed by Jimmy Boyle for the Craigmillar Festival Society? | A concrete sculpture | A mural | A stage play | A stained glass window | Jimmy Boyle; Gulliver
+3 | art-culture | To which city did Jimmy Boyle move after his release from prison? | Edinburgh | London | Dundee | Paris | Jimmy Boyle; Edinburgh
+4 | art-culture | Which Scottish poet was Jimmy Boyle commissioned to make a memorial statue of in 1979? | William McGonagall | Robert Burns | Hugh MacDiarmid | Robert Fergusson | Jimmy Boyle; William McGonagall

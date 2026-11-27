@@ -1,0 +1,7 @@
+# Mogwai. Source: https://en.wikipedia.org/wiki/Mogwai
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | glasgow-bands | Glasgow post-rock band Mogwai took their name from creatures in which film? | Gremlins | Ghostbusters | Labyrinth | The Goonies | Mogwai; band name; Gremlins
+2 | songs-albums | Which Mogwai album reached No. 1 in the UK in 2021? | As the Love Continues | Rave Tapes | Young Team | Come On Die Young | Mogwai; As the Love Continues
+3 | film-tv | Mogwai wrote the soundtrack for a 2006 film portrait of which footballer? | Zinedine Zidane | David Beckham | Diego Maradona | Kenny Dalglish | Mogwai; Zidane
+3 | film-tv | Mogwai scored which French supernatural TV drama, released as an album in 2013? | Les Revenants | Spiral | Braquo | The Tunnel | Mogwai; Les Revenants
+4 | glasgow-bands | Who is Mogwai's guitarist and vocalist, a founder member in 1995? | Stuart Braithwaite | Barry Burns | Dominic Aitchison | Aidan Moffat | Mogwai; Stuart Braithwaite

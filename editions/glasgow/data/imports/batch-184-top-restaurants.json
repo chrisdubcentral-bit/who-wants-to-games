@@ -1,0 +1,404 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Which Glasgow restaurant is said to be the birthplace of chicken tikka masala?",
+    "options": [
+      "Mother India",
+      "Shish Mahal",
+      "Ashoka",
+      "Mister Singh's India"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shish Mahal",
+      "chicken tikka masala"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "What do the waiters wear at Mister Singh's India?",
+    "options": [
+      "Singh tartan kilts",
+      "Chef's whites",
+      "Bow ties and tails",
+      "Football tops"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mister Singh's India",
+      "kilts"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "What is the signature dish at Mister Singh's India?",
+    "options": [
+      "Butter chicken",
+      "Lamb rogan josh",
+      "Haggis pakora",
+      "Chicken tikka masala"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Mister Singh's India",
+      "haggis pakora"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "In which year did Mother India open?",
+    "options": [
+      "1982",
+      "1990",
+      "2001",
+      "1970"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mother India",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which Hope Street restaurant does Visit Glasgow call the oldest Italian restaurant in Glasgow?",
+    "options": [
+      "La Lanterna",
+      "Eusebi",
+      "Sarti",
+      "Celino's"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "La Lanterna",
+      "Hope Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "In which year did La Lanterna open?",
+    "options": [
+      "1982",
+      "1970",
+      "1928",
+      "1990"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "La Lanterna",
+      "1970"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Celino's first opened in the East End in 1982 as what?",
+    "options": [
+      "An ice cream parlour",
+      "A chip shop",
+      "A delicatessen",
+      "A pizzeria"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Celino's",
+      "1982"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "In which year did the Coia family open their original café in the East End?",
+    "options": [
+      "1910",
+      "1928",
+      "1948",
+      "1970"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Coia's Café",
+      "1928"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Paesano Pizza specialises in which style of pizza?",
+    "options": [
+      "Chicago deep dish",
+      "New York",
+      "Neapolitan",
+      "Roman"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paesano",
+      "pizza"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "How long is the dough proofed for at Paesano Pizza?",
+    "options": [
+      "Two hours",
+      "Over 24 hours",
+      "Six hours",
+      "Over 72 hours"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paesano",
+      "dough"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Ramen Dayo began in 2016 as a pop-up in an alleyway beside which station?",
+    "options": [
+      "Queen Street",
+      "Central Station",
+      "Partick",
+      "Charing Cross"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ramen Dayo",
+      "Central Station",
+      "2016"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Which West End lane is home to one of Ramen Dayo's restaurants?",
+    "options": [
+      "Ashton Lane",
+      "Ruthven Lane",
+      "Otago Lane",
+      "Cresswell Lane"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Ramen Dayo",
+      "Ashton Lane"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "On which street is Sichuan House, Glasgow's first Sichuan restaurant?",
+    "options": [
+      "Sauchiehall Street",
+      "Byres Road",
+      "Buchanan Street",
+      "Argyle Street"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sichuan House",
+      "Sauchiehall Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "What is the motto of Sichuan House?",
+    "options": [
+      "Fire in every bowl",
+      "Live life with a little bit of spice",
+      "The spice of Glasgow",
+      "Hot food for cold nights"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sichuan House",
+      "motto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "In which year did the Amber Regent Chinese restaurant open?",
+    "options": [
+      "1996",
+      "1988",
+      "2005",
+      "1970"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Amber Regent",
+      "1988"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "food-drink",
+    "difficulty": 1,
+    "question": "The Wee Paree's interior is themed on which city?",
+    "options": [
+      "Barcelona",
+      "Rome",
+      "Venice",
+      "Paris"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Wee Paree",
+      "Paris"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Maison by Glaschu is in which historic Glasgow shopping centre?",
+    "options": [
+      "Merchant Square",
+      "Princes Square",
+      "Buchanan Galleries",
+      "St Enoch Centre"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Maison by Glaschu",
+      "Princes Square"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Cubatas restaurant takes its inspiration from which Spanish city?",
+    "options": [
+      "Valencia",
+      "Barcelona",
+      "Madrid",
+      "Seville"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Cubatas",
+      "Valencia"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Dennistoun Bar-B-Que is inspired by the food of which US state?",
+    "options": [
+      "California",
+      "Louisiana",
+      "Texas",
+      "Tennessee"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Dennistoun Bar-B-Que",
+      "Texas"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Maggie's Rock'n'Rodeo in the Merchant City is inspired by dive bars in which city?",
+    "options": [
+      "Nashville",
+      "New Orleans",
+      "Memphis",
+      "Austin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Maggie's Rock'n'Rodeo",
+      "Merchant City",
+      "Nashville"
+    ],
+    "source": "manual"
+  }
+]

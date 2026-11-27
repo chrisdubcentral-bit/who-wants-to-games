@@ -1,0 +1,106 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year was GoMA's building built as a townhouse for Tobacco Lord William Cunninghame?",
+    "options": [
+      "1778",
+      "1817",
+      "1745",
+      "1832"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "GoMA",
+      "William Cunninghame",
+      "1778"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "What does the Duke of Wellington statue outside GoMA usually have on its head?",
+    "options": [
+      "A traffic cone",
+      "A football scarf",
+      "A crown",
+      "A tartan bunnet"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "GoMA",
+      "Duke of Wellington",
+      "traffic cone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Whose solo show \"Cut and Run\" drew 180,000 visitors to GoMA in 2023?",
+    "options": [
+      "Banksy",
+      "David Shrigley",
+      "Grayson Perry",
+      "Jack Vettriano"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "GoMA",
+      "Banksy",
+      "Cut and Run"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "In which year did GoMA open as a gallery?",
+    "options": [
+      "2001",
+      "1988",
+      "1990",
+      "1996"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "GoMA",
+      "1996"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which artist made GoMA's mirrored pediment, \"Tympanum\"?",
+    "options": [
+      "Niki de Saint Phalle",
+      "Yayoi Kusama",
+      "Barbara Hepworth",
+      "Louise Bourgeois"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "GoMA",
+      "Niki de Saint Phalle",
+      "Tympanum"
+    ],
+    "source": "manual"
+  }
+]

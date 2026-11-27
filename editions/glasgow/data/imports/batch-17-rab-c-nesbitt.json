@@ -1,0 +1,310 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which actor played Rab C. Nesbitt?",
+    "options": [
+      "Ford Kiernan",
+      "Greg Hemphill",
+      "Gregor Fisher",
+      "Tony Roper"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Gregor Fisher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which famous item of clothing does Rab C. Nesbitt wear under his pinstripe suit?",
+    "options": [
+      "A string vest",
+      "A kilt",
+      "A Celtic top",
+      "A cardigan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rab C. Nesbitt",
+      "string vest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "In which area of Glasgow is Rab C. Nesbitt set and made?",
+    "options": [
+      "Possilpark",
+      "Partick",
+      "Easterhouse",
+      "Govan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Govan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Who played Rab's long-suffering wife Mary Doll in Rab C. Nesbitt?",
+    "options": [
+      "Elaine C. Smith",
+      "Barbara Rafferty",
+      "Sanjeev Kohli",
+      "Jane McCarry"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Mary Doll",
+      "Elaine C. Smith"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Who created and wrote Rab C. Nesbitt?",
+    "options": [
+      "Ford Kiernan",
+      "Peter McDougall",
+      "Colin Gilbert",
+      "Ian Pattison"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Ian Pattison"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What are the names of Rab C. Nesbitt's two sons?",
+    "options": [
+      "Gash and Burney",
+      "Screech and Norrie",
+      "Jamesie and Andra",
+      "Dodie and Shug"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Gash",
+      "Burney"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Rab C. Nesbitt began as a character in which BBC2 sketch show?",
+    "options": [
+      "Naked Video",
+      "Chewin' the Fat",
+      "Absolutely",
+      "Only an Excuse?"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Naked Video"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actor played Rab's pal Jamesie Cotter?",
+    "options": [
+      "Iain McColl",
+      "Alex Norton",
+      "Brian Pettifer",
+      "Tony Roper"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Jamesie Cotter",
+      "Tony Roper"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which drink is Jamesie Cotter's trademark in Rab C. Nesbitt?",
+    "options": [
+      "Irn-Bru",
+      "Buckfast",
+      "Whisky",
+      "Tennent's"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Jamesie Cotter",
+      "Irn-Bru"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What is the house-cleaning business run by Mary Doll and Ella called?",
+    "options": [
+      "Spick and Span",
+      "The House Mice",
+      "The Govan Gleamers",
+      "The Dust Busters"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rab C. Nesbitt",
+      "House Mice"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Britain's Got Talent star appeared in series 10 of Rab C. Nesbitt?",
+    "options": [
+      "Susan Boyle",
+      "Michael McIntyre",
+      "Paul Potts",
+      "Diversity"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Susan Boyle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Hollywood star based his Mad Hatter accent in Alice in Wonderland on Rab C. Nesbitt?",
+    "options": [
+      "Johnny Depp",
+      "Brad Pitt",
+      "Robert Downey Jr.",
+      "Jim Carrey"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Johnny Depp",
+      "Mad Hatter"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "In which year was the first Rab C. Nesbitt Christmas special, \"Seasonal Greet\", shown?",
+    "options": [
+      "1988",
+      "1992",
+      "1986",
+      "1990"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Seasonal Greet",
+      "1988"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Who played Burney Nesbitt in the early series of Rab C. Nesbitt?",
+    "options": [
+      "Iain Robertson",
+      "Eric Cullen",
+      "Andrew Fairlie",
+      "David McKay"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Burney",
+      "Eric Cullen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "film-tv",
+    "difficulty": 5,
+    "question": "What was the name of the 2014 New Year special of Rab C. Nesbitt?",
+    "options": [
+      "Holiday",
+      "Hoodie",
+      "Seasonal Greet",
+      "Clean"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Rab C. Nesbitt",
+      "Hoodie",
+      "2014"
+    ],
+    "source": "manual"
+  }
+]

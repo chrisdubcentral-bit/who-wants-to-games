@@ -1,0 +1,7 @@
+# Tommy Sheridan. Source: https://en.wikipedia.org/wiki/Tommy_Sheridan
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | Tommy Sheridan was the public face of the campaign against which tax? | The poll tax | VAT | The bedroom tax | Council tax | Tommy Sheridan; poll tax
+3 | history | Which party did Tommy Sheridan help found in 1998? | The Scottish Socialist Party | Solidarity | Respect | The Scottish Green Party | Tommy Sheridan; Scottish Socialist Party
+3 | history | In which year was Tommy Sheridan first elected to the Scottish Parliament? | 1999 | 2003 | 2007 | 1997 | Tommy Sheridan; MSP
+3 | history | Which party did Tommy Sheridan launch in 2006 after leaving the SSP? | Solidarity | Respect | Alba | Rise | Tommy Sheridan; Solidarity
+4 | history | At which university did Tommy Sheridan study economics? | Stirling | Glasgow | Strathclyde | Edinburgh | Tommy Sheridan; Stirling

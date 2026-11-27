@@ -1,0 +1,7 @@
+# Administration and liquidation of Rangers FC plc. Source: https://en.wikipedia.org/wiki/Administration_and_liquidation_of_the_Rangers_Football_Club_plc
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | How many points were Rangers deducted on entering administration in February 2012? | 10 | 15 | 3 | 25 | Rangers administration; points deduction
+3 | sport | Which firm were appointed Rangers' administrators in February 2012? | Duff & Phelps | BDO | KPMG | Deloitte | Rangers administration; Duff & Phelps
+3 | sport | In which division did Rangers start the 2012–13 season after the club's liquidation? | The Third Division | The First Division | The Second Division | The SPL | Rangers administration; Third Division
+3 | sport | Which company bought the business and assets of Rangers in 2012? | Sevco Scotland Ltd | Wavetower Ltd | Liberty Capital | Ticketus | Rangers administration; Sevco
+4 | sport | Who were Rangers' opponents in their first fixture after the 2012 restart, a Ramsdens Cup tie? | Brechin City | Peterhead | East Stirlingshire | Annan Athletic | Rangers administration; Brechin City

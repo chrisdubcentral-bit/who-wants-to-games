@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "What nickname was given to Mary Barbour's rent-strike protesters?",
+    "options": [
+      "The Tenement Rebels",
+      "The Housewives' Brigade",
+      "The Govan Lassies",
+      "Mrs Barbour's Army"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Mary Barbour",
+      "Mrs Barbour's Army"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which Renfrewshire village was Mary Barbour born?",
+    "options": [
+      "Houston",
+      "Lochwinnoch",
+      "Bridge of Weir",
+      "Kilbarchan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Mary Barbour",
+      "Kilbarchan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was Mary Barbour elected to Glasgow Town Council?",
+    "options": [
+      "1928",
+      "1935",
+      "1915",
+      "1920"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Mary Barbour",
+      "councillor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Where in Govan does Mary Barbour's statue stand?",
+    "options": [
+      "Ibrox",
+      "Govan Cross",
+      "Linthouse",
+      "Elder Park"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Mary Barbour",
+      "statue",
+      "Govan Cross"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Who sculpted the statue of Mary Barbour?",
+    "options": [
+      "Andrew Brown",
+      "Andy Scott",
+      "George Wyllie",
+      "Kenny Hunter"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Mary Barbour",
+      "Andrew Brown"
+    ],
+    "source": "manual"
+  }
+]

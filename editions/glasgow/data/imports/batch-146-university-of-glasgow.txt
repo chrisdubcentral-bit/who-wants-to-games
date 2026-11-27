@@ -1,0 +1,12 @@
+# University of Glasgow. Source: https://en.wikipedia.org/wiki/University_of_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | Which famous economist studied at the University of Glasgow? | Adam Smith | John Maynard Keynes | David Ricardo | Karl Marx | University of Glasgow; Adam Smith
+2 | history | In which year did the University of Glasgow move to Gilmorehill? | 1870 | 1820 | 1901 | 1451 | University of Glasgow; Gilmorehill
+2 | history | Which pope issued the bull founding the University of Glasgow? | Nicholas V | Pius II | Sixtus IV | Alexander VI | University of Glasgow; Nicholas V
+3 | history | Which bishop received permission to found the University of Glasgow? | William Turnbull | Jocelin | Robert Wishart | James Beaton | University of Glasgow; William Turnbull
+3 | history | Where did teaching first take place at the University of Glasgow? | The Chapter House of Glasgow Cathedral | Provand's Lordship | The Tolbooth | The Tron Kirk | University of Glasgow
+3 | history | What is the University of Glasgow's Latin motto? | Via, Veritas, Vita | Let Glasgow Flourish | Nemo Me Impune Lacessit | Lux et Veritas | University of Glasgow; motto
+3 | history | Which whistleblower was elected rector of the University of Glasgow in 2014? | Edward Snowden | Julian Assange | Chelsea Manning | Daniel Ellsberg | University of Glasgow; rector; Edward Snowden
+3 | history | Which Olympic rower is the University of Glasgow's first female chancellor? | Dame Katherine Grainger | Dame Kelly Holmes | Laura Muir | Eilidh Doyle | University of Glasgow; Katherine Grainger
+4 | history | Which famous physicist gave the first Gibson Lecture at the University of Glasgow in 1933? | Albert Einstein | Niels Bohr | Max Planck | Marie Curie | University of Glasgow; Einstein
+4 | history | In 2014, Glasgow became the first academic institution in Europe to divest from what? | Fossil fuels | Tobacco | Arms | Gambling | University of Glasgow; divestment

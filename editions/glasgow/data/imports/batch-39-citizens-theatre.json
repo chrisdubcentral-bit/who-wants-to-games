@@ -1,0 +1,382 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "art-culture",
+    "difficulty": 1,
+    "question": "In which area of Glasgow is the Citizens Theatre?",
+    "options": [
+      "Partick",
+      "Gorbals",
+      "Merchant City",
+      "West End"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Citizens Theatre",
+      "Gorbals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which playwright co-founded the Citizens Theatre company in 1943?",
+    "options": [
+      "John McGrath",
+      "J. M. Barrie",
+      "James Bridie",
+      "Liz Lochhead"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Citizens Theatre",
+      "James Bridie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which two statues of writers stood on the Citizens Theatre roofline?",
+    "options": [
+      "Shakespeare and Dickens",
+      "Scott and Stevenson",
+      "Burns and Walter Scott",
+      "Shakespeare and Robert Burns"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Citizens Theatre",
+      "statues"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "In which year did the Citizens Theatre reopen after a seven-year redevelopment?",
+    "options": [
+      "2021",
+      "2025",
+      "2019",
+      "2023"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Citizens Theatre",
+      "redevelopment"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What was the Citizens Theatre building called when it opened in 1878?",
+    "options": [
+      "Her Majesty's Theatre",
+      "The Royal Princess's",
+      "The Gorbals Empire",
+      "The Grand"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "Her Majesty's Theatre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What was the theatre renamed in December 1879, before it became the Citizens?",
+    "options": [
+      "The Empire",
+      "The Palace Theatre",
+      "The Royal Princess's Theatre",
+      "The Lyceum"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Citizens Theatre",
+      "Royal Princess's"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which year did the Citizens Theatre company move into the Gorbals theatre?",
+    "options": [
+      "1945",
+      "1955",
+      "1965",
+      "1878"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "1945"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Where did the Citizens Theatre company first perform before moving to the Gorbals?",
+    "options": [
+      "The Athenaeum Theatre",
+      "The Pavilion",
+      "The King's Theatre",
+      "The Tron"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "Athenaeum"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which sculptor made the statues on the Citizens Theatre's roofline?",
+    "options": [
+      "George Wyllie",
+      "John Mossman",
+      "Alexander Stoddart",
+      "Andy Scott"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Citizens Theatre",
+      "John Mossman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which artistic director's adaptation of Travels with My Aunt won an Olivier Award in 1993?",
+    "options": [
+      "Giles Havergal",
+      "Robert David MacDonald",
+      "Dominic Hill",
+      "Philip Prowse"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "Giles Havergal"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Glasgow theatre still has its original Victorian machinery under the stage?",
+    "options": [
+      "The Citizens Theatre",
+      "The King's Theatre",
+      "The Pavilion",
+      "The Theatre Royal"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "stage machinery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which theatre company merged with the Citizens in 2007?",
+    "options": [
+      "7:84",
+      "Borderline",
+      "TAG Theatre Company",
+      "Wildcat"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Citizens Theatre",
+      "TAG"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "What were Harry McKelvie's famous productions at the Royal Princess's Theatre?",
+    "options": [
+      "Pantomimes",
+      "Operas",
+      "Musicals",
+      "Variety shows"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "Harry McKelvie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Who was the first managing director of the Citizens Theatre company?",
+    "options": [
+      "Alastair Sim",
+      "Guy McCrone",
+      "Tyrone Guthrie",
+      "Tom Honeyman"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Citizens Theatre",
+      "Guy McCrone"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which former Citizens wardrobe mistress designed costumes for the Star Wars prequels?",
+    "options": [
+      "Trisha Biggar",
+      "Colleen Atwood",
+      "Jenny Beavan",
+      "Sandy Powell"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "Trisha Biggar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "What was the first production when the Citizens Theatre reopened in 2025?",
+    "options": [
+      "Small Acts of Love",
+      "Hamlet",
+      "The Steamie",
+      "Dracula"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "Small Acts of Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which architect designed the 1878 theatre that became the Citizens?",
+    "options": [
+      "James Sellars",
+      "Charles Rennie Mackintosh",
+      "Alexander Thomson",
+      "Frank Matcham"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "James Sellars"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which artistic director came to the Citizens from Edinburgh's Traverse Theatre in 2011?",
+    "options": [
+      "Dominic Hill",
+      "Giles Havergal",
+      "Jeremy Raison",
+      "Guy Hollands"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "Dominic Hill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "art-culture",
+    "difficulty": 5,
+    "question": "How much did the Citizens Theatre's redevelopment cost?",
+    "options": [
+      "£29.8 million",
+      "£68 million",
+      "£9.6 million",
+      "£15 million"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Citizens Theatre",
+      "redevelopment"
+    ],
+    "source": "manual"
+  }
+]

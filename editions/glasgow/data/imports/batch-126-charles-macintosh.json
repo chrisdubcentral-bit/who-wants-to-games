@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "history",
+    "difficulty": 1,
+    "question": "Which item of clothing is named after Glasgow chemist Charles Macintosh?",
+    "options": [
+      "The wellington boot",
+      "The cardigan",
+      "The raincoat",
+      "The bowler hat"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Charles Macintosh",
+      "mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Charles Macintosh's waterproof fabric cemented two layers of cloth together with what?",
+    "options": [
+      "Wax",
+      "Glue",
+      "Tar",
+      "Rubber"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Charles Macintosh",
+      "rubber"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which coal-tar product did Charles Macintosh use to dissolve the rubber?",
+    "options": [
+      "Naphtha",
+      "Turpentine",
+      "Paraffin",
+      "Creosote"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Charles Macintosh",
+      "naphtha"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was Charles Macintosh born in Glasgow?",
+    "options": [
+      "1736",
+      "1820",
+      "1766",
+      "1801"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Charles Macintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Whose hot blast patent did Charles Macintosh help exploit from 1828?",
+    "options": [
+      "James Beaumont Neilson",
+      "Henry Bell",
+      "James Watt",
+      "William Murdoch"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Charles Macintosh",
+      "James Beaumont Neilson"
+    ],
+    "source": "manual"
+  }
+]

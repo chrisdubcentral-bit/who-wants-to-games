@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which year was Partick incorporated into the city of Glasgow?",
+    "options": [
+      "1891",
+      "1846",
+      "1926",
+      "1912"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick",
+      "burgh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "The name Partick comes from a Cumbric word meaning what?",
+    "options": [
+      "River ford",
+      "Green hollow",
+      "Bush or thicket",
+      "Smith's town"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which Scottish king granted the lands of \"Perdyc\" (Partick) to the see of Glasgow in 1136?",
+    "options": [
+      "David I",
+      "William the Lion",
+      "Malcolm III",
+      "Alexander I"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Partick",
+      "David I"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which cricket club plays at Hamilton Crescent in Partick?",
+    "options": [
+      "Clydesdale",
+      "Uddingston",
+      "West of Scotland Cricket Club",
+      "Poloc"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Partick",
+      "Hamilton Crescent"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "What was Partick Central railway station renamed in 1959?",
+    "options": [
+      "Partick West",
+      "Byres Road",
+      "Merkland Street",
+      "Kelvin Hall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Partick",
+      "Kelvin Hall station"
+    ],
+    "source": "manual"
+  }
+]

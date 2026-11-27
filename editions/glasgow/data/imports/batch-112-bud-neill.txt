@@ -1,0 +1,7 @@
+# Bud Neill. Source: https://en.wikipedia.org/wiki/Bud_Neill
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | Which cartoon sheriff of Calton Creek did Glasgow cartoonist Bud Neill create? | Lobey Dosser | Oor Wullie | Desperate Dan | Lord Snooty | Bud Neill; Lobey Dosser
+2 | art-culture | On which Glasgow road does the statue of Lobey Dosser stand? | Woodlands Road | Sauchiehall Street | Byres Road | Duke Street | Bud Neill; Lobey Dosser; Woodlands Road
+3 | art-culture | What is the name of Lobey Dosser's two-legged horse? | El Fideldo | Rank Bajin | Silver | Trigger | Bud Neill; El Fideldo
+3 | art-culture | Who is the villain in Bud Neill's Lobey Dosser stories? | Rank Bajin | Fairy Nuff | Big Chief Toffy Teeth | Rid Skwerr | Bud Neill; Rank Bajin
+4 | art-culture | In which Glasgow newspaper did Lobey Dosser first appear in 1949? | The Evening Times | The Daily Record | The Herald | The Sunday Post | Bud Neill; Evening Times

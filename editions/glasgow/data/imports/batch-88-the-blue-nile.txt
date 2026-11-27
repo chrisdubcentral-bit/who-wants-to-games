@@ -1,0 +1,7 @@
+# The Blue Nile. Source: https://en.wikipedia.org/wiki/The_Blue_Nile_(band)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | labels-scene | Which hi-fi company released The Blue Nile's debut album as its first record? | Linn | Naim | Bang & Olufsen | Cambridge Audio | The Blue Nile; Linn Records
+3 | songs-albums | What was the title of The Blue Nile's 1984 debut album? | A Walk Across the Rooftops | Hats | Peace at Last | High | The Blue Nile; A Walk Across the Rooftops
+3 | glasgow-bands | The Blue Nile took their name from a 1962 book by which author? | Alan Moorehead | Graham Greene | Wilbur Smith | Evelyn Waugh | The Blue Nile; band name
+4 | songs-albums | Which Blue Nile song did Annie Lennox cover on her album Medusa? | The Downtown Lights | Tinseltown in the Rain | Saturday Night | Headlights on the Parade | The Blue Nile; Annie Lennox
+4 | songs-albums | Which 1989 Blue Nile album was given a rare five-star review by Q magazine? | Hats | A Walk Across the Rooftops | Peace at Last | High | The Blue Nile; Hats

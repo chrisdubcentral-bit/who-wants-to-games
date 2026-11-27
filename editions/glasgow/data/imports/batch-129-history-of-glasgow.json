@@ -1,0 +1,402 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "history",
+    "difficulty": 1,
+    "question": "In which year was Glasgow European City of Culture?",
+    "options": [
+      "1988",
+      "1999",
+      "2003",
+      "1990"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "History of Glasgow",
+      "City of Culture"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which year did Glasgow host the Commonwealth Games?",
+    "options": [
+      "2018",
+      "2010",
+      "2014",
+      "2002"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "History of Glasgow",
+      "Commonwealth Games"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which ancient Roman wall separated Britannia from Caledonia near Glasgow?",
+    "options": [
+      "The Antonine Wall",
+      "Offa's Dyke",
+      "The Gask Ridge",
+      "Hadrian's Wall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "History of Glasgow",
+      "Antonine Wall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which month and year did the Clydebank Blitz take place?",
+    "options": [
+      "September 1940",
+      "June 1944",
+      "May 1942",
+      "March 1941"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "History of Glasgow",
+      "Clydebank Blitz"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which year did the Scottish Reformation end Catholic rituals at Glasgow Cathedral?",
+    "options": [
+      "1603",
+      "1707",
+      "1451",
+      "1560"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "History of Glasgow",
+      "Reformation"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which bishop founded the burgh of Glasgow?",
+    "options": [
+      "William Turnbull",
+      "John Cameron",
+      "Jocelin",
+      "Robert Wishart"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "History of Glasgow",
+      "Jocelin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "By 1760, Glasgow had overtaken which city as Britain's main tobacco port?",
+    "options": [
+      "Liverpool",
+      "Bristol",
+      "London",
+      "Edinburgh"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "History of Glasgow",
+      "tobacco"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which war ended most of Glasgow's tobacco trade?",
+    "options": [
+      "The American War of Independence",
+      "The Napoleonic Wars",
+      "The Seven Years' War",
+      "The Crimean War"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "History of Glasgow",
+      "tobacco"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which ancient kingdom was Glasgow part of after the Romans left?",
+    "options": [
+      "Dál Riata",
+      "Northumbria",
+      "Fortriu",
+      "Strathclyde"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "History of Glasgow",
+      "Strathclyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What was the capital of the Kingdom of Strathclyde?",
+    "options": [
+      "Dumbarton",
+      "Paisley",
+      "Govan",
+      "Glasgow"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "History of Glasgow",
+      "Dumbarton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which disastrous colonial scheme bankrupted Scotland in 1700?",
+    "options": [
+      "The Nova Scotia venture",
+      "The South Sea Bubble",
+      "The Virginia Company",
+      "The Darien scheme"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "History of Glasgow",
+      "Darien"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which burn joins the Clyde at the ford where Glasgow was first settled?",
+    "options": [
+      "The Kelvin",
+      "The Cart",
+      "The Camlachie Burn",
+      "The Molendinar Burn"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "History of Glasgow",
+      "Molendinar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "By 1770 Glasgow had become Britain's largest manufacturer of what?",
+    "options": [
+      "Wool",
+      "Linen",
+      "Lace",
+      "Silk"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "History of Glasgow",
+      "linen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which Glasgow Corporation engineer produced the famous post-war report on rebuilding the city?",
+    "options": [
+      "Basil Spence",
+      "Patrick Abercrombie",
+      "Robert Matthew",
+      "Robert Bruce"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "History of Glasgow",
+      "Bruce Report"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What was the 1977 Glasgow Eastern Area Renewal initiative known as?",
+    "options": [
+      "GEAR",
+      "GEAR-UP",
+      "REGEN",
+      "EAST"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "History of Glasgow",
+      "GEAR"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which police force was established in 1975 and merged into Police Scotland in 2013?",
+    "options": [
+      "Lanarkshire Constabulary",
+      "Clyde Police",
+      "City of Glasgow Police",
+      "Strathclyde Police"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "History of Glasgow",
+      "Strathclyde Police"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Who won West Fife in 1935 to become the only Communist Party MP?",
+    "options": [
+      "Willie Gallacher",
+      "John Maclean",
+      "Manny Shinwell",
+      "James Maxton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "History of Glasgow",
+      "Willie Gallacher"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Glasgow's population grew from 32,000 in 1750 to about how many by 1850?",
+    "options": [
+      "80,000",
+      "500,000",
+      "200,000",
+      "1 million"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "History of Glasgow",
+      "population"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Who laid out Glasgow's new grid of streets above Ingram Street in 1772?",
+    "options": [
+      "James Barrie",
+      "Robert Adam",
+      "William Young",
+      "James Craig"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "History of Glasgow",
+      "grid"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which was the largest guild in Glasgow in 1604?",
+    "options": [
+      "The Hammermen",
+      "The Weavers",
+      "The Maltmen",
+      "The Incorporation of Tailors"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "History of Glasgow",
+      "guilds"
+    ],
+    "source": "manual"
+  }
+]

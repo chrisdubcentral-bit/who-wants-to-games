@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Tommy Sheridan was the public face of the campaign against which tax?",
+    "options": [
+      "The bedroom tax",
+      "VAT",
+      "The poll tax",
+      "Council tax"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Tommy Sheridan",
+      "poll tax"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which party did Tommy Sheridan help found in 1998?",
+    "options": [
+      "Solidarity",
+      "Respect",
+      "The Scottish Socialist Party",
+      "The Scottish Green Party"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Tommy Sheridan",
+      "Scottish Socialist Party"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year was Tommy Sheridan first elected to the Scottish Parliament?",
+    "options": [
+      "1997",
+      "1999",
+      "2003",
+      "2007"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tommy Sheridan",
+      "MSP"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which party did Tommy Sheridan launch in 2006 after leaving the SSP?",
+    "options": [
+      "Respect",
+      "Rise",
+      "Alba",
+      "Solidarity"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tommy Sheridan",
+      "Solidarity"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "At which university did Tommy Sheridan study economics?",
+    "options": [
+      "Glasgow",
+      "Strathclyde",
+      "Edinburgh",
+      "Stirling"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tommy Sheridan",
+      "Stirling"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which future Hollywood comedy star made his first stage appearance at Glasgow's Britannia Panopticon in 1906?",
+    "options": [
+      "Stan Laurel",
+      "Harry Lauder",
+      "Buster Keaton",
+      "Charlie Chaplin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Britannia Panopticon",
+      "Stan Laurel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "On which Glasgow street is the Britannia Panopticon music hall?",
+    "options": [
+      "Trongate",
+      "Gallowgate",
+      "Sauchiehall Street",
+      "Argyle Street"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Britannia Panopticon",
+      "Trongate"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which showman renamed the Britannia Music Hall the Panopticon in 1906?",
+    "options": [
+      "A. E. Pickard",
+      "Harry McKelvie",
+      "Tom Honeyman",
+      "Arthur Lloyd"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Britannia Panopticon",
+      "A. E. Pickard"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What did A. E. Pickard install in the basement of the Panopticon?",
+    "options": [
+      "A swimming pool",
+      "A boxing ring",
+      "A cinema",
+      "An indoor zoo"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Britannia Panopticon",
+      "zoo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "On which day of the year did the Britannia Music Hall first open in 1859?",
+    "options": [
+      "Christmas Day",
+      "Hogmanay",
+      "Easter Sunday",
+      "Burns Night"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Britannia Panopticon",
+      "1859"
+    ],
+    "source": "manual"
+  }
+]

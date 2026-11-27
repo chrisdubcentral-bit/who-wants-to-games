@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#09110C">
+  <meta name="robots" content="noindex">
+  <meta name="storage-prefix" content="wwtpbge:v1:">
+  <title>Question Review · Who Wants To Play The Barras</title>
+  <link rel="icon" href="assets/img/logo.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap">
+  <link rel="stylesheet" href="theme.css">
+  <link rel="stylesheet" href="../../engine/css/base.css">
+  <link rel="stylesheet" href="../../engine/css/components.css">
+  <link rel="stylesheet" href="../../engine/css/animations.css">
+  <link rel="stylesheet" href="../../engine/css/game.css">
+  <link rel="stylesheet" href="../../engine/css/admin.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="container">
+      <a class="brand" href="#dashboard" aria-label="Admin dashboard">
+        <img class="brand-mark" src="assets/img/logo.svg" alt="" width="32" height="32">
+        <span class="brand-text">
+          <span class="brand-title">Question Review</span>
+          <span class="brand-sub">Glasgow Edition · Admin</span>
+        </span>
+      </a>
+      <div class="topbar-actions">
+        <a class="btn btn-ghost btn-sm" href="index.html">Play Game</a>
+      </div>
+    </div>
+  </header>
+  <div class="admin-subbar">
+    <div class="container">
+      <nav class="admin-nav" id="admin-nav" aria-label="Admin sections">
+        <a href="#dashboard" data-section="dashboard">Dashboard</a>
+        <a href="#review" data-section="review">Review<span class="n"></span></a>
+        <a href="#bulk" data-section="bulk">Bulk Review</a>
+        <a href="#new" data-section="new">Add Question</a>
+        <a href="#adverts" data-section="adverts">Adverts</a>
+      </nav>
+      <div class="publish-zone" id="publish-zone"></div>
+    </div>
+  </div>
+
+  <main id="admin" class="container">
+    <p class="muted" style="text-align:center;padding:64px 0">Loading questions…</p>
+  </main>
+
+  <div id="live" class="sr-only" aria-live="assertive"></div>
+  <script>
+    if (location.protocol === 'file:') {
+      document.getElementById('admin').innerHTML =
+        '<section class="card notice"><span class="eyebrow">Admin</span>' +
+        '<h1>Open this through Live Server</h1>' +
+        '<p>In VS Code, right-click <code>admin-review.html</code> and choose <strong>Open with Live Server</strong>.</p></section>';
+    }
+  </script>
+  <script type="module" src="../../engine/js/admin/main.js"></script>
+</body>
+</html>

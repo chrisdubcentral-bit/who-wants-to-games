@@ -1,0 +1,7 @@
+# Jim Farry. Source: https://en.wikipedia.org/wiki/Jim_Farry
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | Which organisation did Jim Farry lead as chief executive from 1990 to 1999? | The Scottish Football Association | The Scottish Premier League | UEFA | Celtic | Jim Farry; SFA
+3 | sport | The delayed registration of which Celtic player led to Jim Farry's downfall? | Jorge Cadete | Pierre van Hooijdonk | Paolo Di Canio | Henrik Larsson | Jim Farry; Jorge Cadete
+3 | sport | Which Celtic managing director brought the complaint about Jorge Cadete's registration? | Fergus McCann | Dermot Desmond | Brian Quinn | Kevin Kelly | Jim Farry; Fergus McCann
+3 | sport | In 1997, Jim Farry refused to cancel a Scotland game on the day of whose funeral? | Princess Diana | The Queen Mother | Jock Stein | Billy Bremner | Jim Farry; Princess Diana
+4 | sport | Whom did Jim Farry succeed as SFA chief executive in 1990? | Ernie Walker | David Taylor | Gordon Smith | Willie Allan | Jim Farry; Ernie Walker

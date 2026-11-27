@@ -1,0 +1,7 @@
+# Middle of the Road. Source: https://en.wikipedia.org/wiki/Middle_of_the_Road_(band)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | songs-albums | Which Middle of the Road song was a UK No. 1 in 1971? | Chirpy Chirpy Cheep Cheep | Sacramento | Soley Soley | Tweedle Dee, Tweedle Dum | Middle of the Road; Chirpy Chirpy Cheep Cheep
+2 | glasgow-bands | Who was the original lead singer of Middle of the Road? | Sally Carr | Lulu | Linda Carroll | Barbara Dickson | Middle of the Road; Sally Carr
+3 | glasgow-bands | To which country did Middle of the Road move in 1970 in search of success? | Italy | Germany | Spain | The Netherlands | Middle of the Road; Italy
+3 | glasgow-bands | Which TV talent show did Middle of the Road win under an earlier name? | Opportunity Knocks | New Faces | Top Town | Search for a Star | Middle of the Road; Opportunity Knocks
+4 | songs-albums | Which Middle of the Road hit was covered by Nana Mouskouri? | Soley Soley | Sacramento | Chirpy Chirpy Cheep Cheep | Samson and Delilah | Middle of the Road; Soley Soley; Nana Mouskouri

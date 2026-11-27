@@ -1,0 +1,7 @@
+# The Barras. Source: https://en.wikipedia.org/wiki/The_Barras
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | patter | In Glaswegian dialect, what is a "barra", which gave The Barras market its name? | A barrow | A bar | A barrel | A barricade | The Barras; name
+2 | landmarks | Which husband and wife founded The Barras market? | James and Maggie McIver | John and Mary Barr | Tom and Agnes Gallagher | William and Jean Templeton | The Barras; McIver
+2 | landmarks | On which main road out of the city towards Parkhead is The Barras? | Gallowgate | London Road | Duke Street | High Street | The Barras; Gallowgate
+3 | landmarks | In which district of Glasgow is The Barras market? | Calton | Bridgeton | Gorbals | Dennistoun | The Barras; Calton
+4 | landmarks | In which year did Maggie McIver decide to cover The Barras market? | 1926 | 1934 | 1910 | 1948 | The Barras; 1926

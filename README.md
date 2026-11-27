@@ -11,6 +11,7 @@ Plain HTML, CSS and JavaScript. No frameworks, no build step.
 |---|---|---|
 | Who Wants To Win The European Cup — Celtic Edition | `editions/celtic/` | Celtic football quiz in the "Celtic European Nights" style |
 | Who Wants To Play Shea Stadium — Beatles Edition | `editions/beatles/` | Beatles quiz: the band's journey from Hamburg to Shea Stadium. Still in the Celtic colours |
+| Who Wants To Play The Barras — Glasgow Edition | `editions/glasgow/` | Glasgow quiz: a band's tour of eight Glasgow venues, from Nice N Sleazys to The Barras. "Red Wash" gig-poster look |
 
 To add another, see [Starting a new edition](#starting-a-new-edition).
 
@@ -208,9 +209,18 @@ https://developers.facebook.com/tools/debug/ and press **Scrape Again**.
 `about.html`, `contact.html` and `thanks.html` (styled by `site.css`) sit at the project root and at the root of the
 live site (`/about`, `/contact`). Each edition's home screen links to them, as does the "Choose your quiz" page.
 
-- **About:** the site logo, every hosted edition (the build fills in the list between the `editions:start` and
-  `editions:end` markers, so new editions appear on their own), the X account (@WhoWants2Win) and a Contact button.
-  Add other social accounts next to the X button under "Follow us".
+- **About:** the site logo, a 3D carousel of every hosted edition, the X account (@WhoWants2Win), the Instagram
+  account (@whowantstowingames), the Facebook page and a Contact button. Add other social accounts next to these
+  under "Follow us", and in the footer of the "Choose your quiz" page (`tools/build.js`).
+  - **The carousel** shows each game's front page in miniature: the current one in the middle, the others tilted
+    either side. It moves both ways with the arrows, a swipe or drag, the ← → keys and the dots, and loops round.
+    `about.js` moves it. The build writes one card per hosted edition between the `editions:start` and
+    `editions:end` markers, using the home screen's words (`text.home` and `vars.start` in `data/edition.json`) and
+    picture (`images.home`, or `images.prize`), so new editions appear on their own. The cards in the project's own
+    `about.html` are a copy for Live Server and are replaced in the build.
+  - **Each edition's look** on its card (fonts, colours, backdrop) is in `editions/<id>/about-card.css`, which styles
+    `.front.<id>`. The build links it between the `edition-styles` markers. Without one, the card gets a plain look in
+    the edition's background colour. For a new edition, copy another edition's file and change the colours and fonts.
 - **Contact:** Name, Email Address, Subject (a drop-down) and Message. It's a **Netlify form**: Netlify finds it when
   it deploys and emails each message out. Spam protection is a hidden trap field that bots fill in, Google reCAPTCHA
   (Netlify's own, so no Google keys are needed) and Netlify's spam filter. After sending, people land on `thanks.html`.

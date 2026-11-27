@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which Donovan single topped the US Billboard Hot 100 in 1966?",
+    "options": [
+      "Sunshine Superman",
+      "Hurdy Gurdy Man",
+      "Catch the Wind",
+      "Mellow Yellow"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Donovan",
+      "Sunshine Superman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Which Beatle did Donovan teach a fingerpicking guitar style in 1968?",
+    "options": [
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Donovan",
+      "John Lennon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "What is Donovan's full name?",
+    "options": [
+      "Donald Donovan Leitch",
+      "Donovan Phillips Leitch",
+      "Donovan Patrick Lynch",
+      "Donovan James Leitch"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Donovan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Donovan single reached the top 5 in both the UK and US in 1968?",
+    "options": [
+      "Colours",
+      "Atlantis",
+      "Universal Soldier",
+      "Hurdy Gurdy Man"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Donovan",
+      "Hurdy Gurdy Man"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "In which year was Donovan inducted into the Rock and Roll Hall of Fame?",
+    "options": [
+      "2019",
+      "2012",
+      "1995",
+      "2004"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Donovan",
+      "Rock and Roll Hall of Fame"
+    ],
+    "source": "manual"
+  }
+]

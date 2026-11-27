@@ -1,0 +1,531 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which Boston band, fronted by Black Francis, played the Barrowland in November 2013?",
+    "options": [
+      "Dinosaur Jr",
+      "Throwing Muses",
+      "Pixies",
+      "The Breeders"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "Pixies",
+      "2013"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which Manchester band, fronted by Shaun Ryder, played the Barrowland in December 1989?",
+    "options": [
+      "The Charlatans",
+      "The Stone Roses",
+      "Happy Mondays",
+      "Inspiral Carpets"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "Happy Mondays",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which Bristol band, fronted by Joe Talbot, played the Barrowland in December 2019?",
+    "options": [
+      "Fontaines D.C.",
+      "Idles",
+      "Shame",
+      "Yard Act"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barrowland",
+      "Idles",
+      "2019"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band played the U2 SECC shows of July 1987 as support?",
+    "options": [
+      "Hoodoo Gurus",
+      "Simple Minds",
+      "The Pogues",
+      "The Waterboys"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "SECC",
+      "U2",
+      "Hoodoo Gurus",
+      "1987"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band supported The Rapture at the ABC in March 2007?",
+    "options": [
+      "Shit Disco",
+      "Dananananaykroyd",
+      "The Go! Team",
+      "Franz Ferdinand"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "ABC",
+      "The Rapture",
+      "Shit Disco",
+      "2007"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Oxford band played the Barrowland in May 2025?",
+    "options": [
+      "Radiohead",
+      "Supergrass",
+      "Foals",
+      "Ride"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barrowland",
+      "Supergrass",
+      "2025"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band, known for \"Dry the Rain\", played the Barrowland in September 2025?",
+    "options": [
+      "The Phantom Band",
+      "Belle and Sebastian",
+      "Django Django",
+      "The Beta Band"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barrowland",
+      "The Beta Band",
+      "2025"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Glasgow band played the Barrowland in January 2025?",
+    "options": [
+      "Arab Strap",
+      "The Pastels",
+      "The Delgados",
+      "Bis"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "The Delgados",
+      "2025"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Glasgow band played the Barrowland in December 2016, just after Pixies' night there?",
+    "options": [
+      "Mogwai",
+      "Teenage Fanclub",
+      "Belle and Sebastian",
+      "Franz Ferdinand"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barrowland",
+      "Teenage Fanclub",
+      "2016"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band played the Barrowland in December 1988, fronted by Mark E. Smith?",
+    "options": [
+      "Magazine",
+      "The Smiths",
+      "Joy Division",
+      "The Fall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barrowland",
+      "The Fall",
+      "1988"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Glasgow band, led by Bobby Gillespie, played the Barrowland in October 1991?",
+    "options": [
+      "Primal Scream",
+      "Jesus and Mary Chain",
+      "Teenage Fanclub",
+      "The Soup Dragons"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barrowland",
+      "Primal Scream",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Oklahoma band led by Wayne Coyne played the Glasgow Academy in November 2009?",
+    "options": [
+      "Mercury Rev",
+      "Wilco",
+      "Grandaddy",
+      "The Flaming Lips"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Academy",
+      "The Flaming Lips",
+      "2009"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Kim Deal-led band played King Tut's in May 2009?",
+    "options": [
+      "The Breeders",
+      "Pixies",
+      "The Amps",
+      "Throwing Muses"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "King Tut's",
+      "The Breeders",
+      "2009"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Blur guitarist played a solo gig at King Tut's in May 2009?",
+    "options": [
+      "Graham Coxon",
+      "Alex James",
+      "Damon Albarn",
+      "Dave Rowntree"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "King Tut's",
+      "Graham Coxon",
+      "2009"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Australian singer-songwriter played the Glasgow Academy in November 2018?",
+    "options": [
+      "Courtney Barnett",
+      "Natalie Imbruglia",
+      "Sia",
+      "Kylie Minogue"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Academy",
+      "Courtney Barnett",
+      "2018"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which New Order and Joy Division bassist played the Art School in September 2015?",
+    "options": [
+      "Peter Hook",
+      "Gillian Gilbert",
+      "Bernard Sumner",
+      "Stephen Morris"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Art School",
+      "Peter Hook",
+      "2015"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which American band played the Barrowland in May 2010, as part of their reunion?",
+    "options": [
+      "Dinosaur Jr",
+      "Sebadoh",
+      "Pavement",
+      "Pixies"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "Pavement",
+      "2010"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which Chicago band led by Jeff Tweedy played the Barrowland in September 2010?",
+    "options": [
+      "Calexico",
+      "Lambchop",
+      "My Morning Jacket",
+      "Wilco"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barrowland",
+      "Wilco",
+      "2010"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which Dallas choir-rock group played the QMU in November 2004?",
+    "options": [
+      "Arcade Fire",
+      "Okkervil River",
+      "The Polyphonic Spree",
+      "The Flaming Lips"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "QMU",
+      "The Polyphonic Spree",
+      "2004"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band played Nice N Sleazy in December 2013?",
+    "options": [
+      "Glass Animals",
+      "Django Django",
+      "Alt-J",
+      "Wild Beasts"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Nice N Sleazy",
+      "Django Django",
+      "2013"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which London band played SWG3 in May 2019?",
+    "options": [
+      "Black Midi",
+      "Shame",
+      "Fat White Family",
+      "Idles"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "SWG3",
+      "Fat White Family",
+      "2019"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which Anglo-French band played SWG3 in June 2019?",
+    "options": [
+      "Stereolab",
+      "Broadcast",
+      "Air",
+      "Saint Etienne"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "SWG3",
+      "Stereolab",
+      "2019"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which American country singer played Oran Mor in January 2017?",
+    "options": [
+      "Kacey Musgraves",
+      "Margo Price",
+      "Brandi Carlile",
+      "Sturgill Simpson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Oran Mor",
+      "Margo Price",
+      "2017"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which band supported Public Service Broadcasting at Strathclyde Union in September 2014?",
+    "options": [
+      "Kasule",
+      "Teleman",
+      "Public Enemy",
+      "Wu-Lu"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Strathclyde Union",
+      "Public Service Broadcasting",
+      "Kasule",
+      "2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which band supported Tunng at Broadcast in October 2013?",
+    "options": [
+      "Pinkumoizu",
+      "Endor",
+      "Race Horses",
+      "Dirty Cuts"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Broadcast",
+      "Tunng",
+      "Pinkumoizu",
+      "2013"
+    ],
+    "source": "manual"
+  }
+]

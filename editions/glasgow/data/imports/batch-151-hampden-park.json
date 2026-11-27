@@ -1,0 +1,303 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "In which year did the current Hampden Park open?",
+    "options": [
+      "1873",
+      "1950",
+      "1903",
+      "1923"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hampden Park",
+      "1903"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which two teams met in the 1960 European Cup final at Hampden Park?",
+    "options": [
+      "Celtic and Inter Milan",
+      "Real Madrid and Eintracht Frankfurt",
+      "Benfica and Barcelona",
+      "AC Milan and Ajax"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hampden Park",
+      "1960 European Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which organisation owns Hampden Park?",
+    "options": [
+      "Glasgow City Council",
+      "Queen's Park",
+      "The SPFL",
+      "The Scottish Football Association"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hampden Park",
+      "SFA"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Hampden Park's name comes from a terrace named after which English Civil War figure?",
+    "options": [
+      "John Hampden",
+      "Thomas Fairfax",
+      "John Pym",
+      "Oliver Cromwell"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hampden Park",
+      "John Hampden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which Glasgow club played the first match at the current Hampden in 1903, against Celtic?",
+    "options": [
+      "Third Lanark",
+      "Rangers",
+      "Queen's Park",
+      "Partick Thistle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hampden Park",
+      "first match"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What was the crowd at the 1960 European Cup final at Hampden, still a record for the final?",
+    "options": [
+      "98,000",
+      "150,000",
+      "76,200",
+      "127,621"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hampden Park",
+      "1960 European Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which club took over the second Hampden Park in 1903 and renamed it Cathkin Park?",
+    "options": [
+      "Partick Thistle",
+      "Clyde",
+      "Third Lanark",
+      "Queen's Park"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hampden Park",
+      "Third Lanark",
+      "Cathkin Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "How many European club finals has Hampden Park hosted?",
+    "options": [
+      "Four",
+      "Six",
+      "Three",
+      "Nine"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Hampden Park",
+      "European finals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which year did Hampden host its most recent Champions League final?",
+    "options": [
+      "2010",
+      "1998",
+      "1976",
+      "2002"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hampden Park",
+      "2002"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which 1909 event led the SFA to stop using Hampden for Scottish Cup finals?",
+    "options": [
+      "A pitch flooding",
+      "A fire in the main stand",
+      "A crowd crush",
+      "A riot at the Old Firm final"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hampden Park",
+      "1909 riot"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which multi-sport event's closing ceremony was held at Hampden Park in 2014?",
+    "options": [
+      "The Olympics",
+      "The World Athletics Championships",
+      "The European Championships",
+      "The Commonwealth Games"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hampden Park",
+      "Commonwealth Games"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which American football team played at Hampden from 1998 to 2004?",
+    "options": [
+      "Scottish Claymores",
+      "Glasgow Lions",
+      "London Monarchs",
+      "Edinburgh Eagles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hampden Park",
+      "Scottish Claymores"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which two railway stations are nearest to Hampden Park?",
+    "options": [
+      "Mount Florida and King's Park",
+      "Crosshill and Pollokshields",
+      "Queen's Park and Langside",
+      "Cathcart and Muirend"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Hampden Park",
+      "transport"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "What crowd watched the 1937 Scottish Cup final between Celtic and Aberdeen at Hampden?",
+    "options": [
+      "98,500",
+      "125,000",
+      "183,388",
+      "147,365"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Hampden Park",
+      "1937 Scottish Cup final"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which club was briefly a tenant at Hampden in 1994–95 while its own ground was rebuilt?",
+    "options": [
+      "Partick Thistle",
+      "Clyde",
+      "Celtic",
+      "Rangers"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Hampden Park",
+      "Celtic"
+    ],
+    "source": "manual"
+  }
+]

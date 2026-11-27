@@ -1,0 +1,7 @@
+# Bible John. Source: https://en.wikipedia.org/wiki/Bible_John
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | Which Glasgow dance hall is linked to the unsolved Bible John case of the late 1960s? | Barrowland Ballroom | The Locarno | The Plaza | The Majestic | Bible John; Barrowland
+2 | history | How did the unidentified suspect known as Bible John get his nickname? | He quoted from the Bible | He carried a Bible | He was a church minister | He left Bible verses | Bible John
+3 | history | In which years did the Bible John murders take place? | 1968 and 1969 | 1958 and 1959 | 1972 and 1973 | 1964 and 1965 | Bible John
+3 | history | In the Bible John case, what was released to the press for the first time in a Scottish murder hunt? | A composite drawing of the suspect | A recording of his voice | His fingerprints | A DNA profile | Bible John; composite drawing
+4 | history | Which convicted killer was speculated to be Bible John in the late 2000s, before police ruled him out? | Peter Tobin | Peter Manuel | Ian Brady | Dennis Nilsen | Bible John; Peter Tobin

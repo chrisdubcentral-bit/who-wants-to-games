@@ -1,0 +1,105 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Who opened the People's Palace on 22 January 1898?",
+    "options": [
+      "Queen Victoria",
+      "William Gladstone",
+      "The Earl of Rosebery",
+      "Lord Kelvin"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "People's Palace",
+      "Rosebery",
+      "1898"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "The Doulton Fountain outside the People's Palace is the largest fountain in the world made of what?",
+    "options": [
+      "Marble",
+      "Granite",
+      "Cast iron",
+      "Terracotta"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "People's Palace",
+      "Doulton Fountain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Since the 1940s, the People's Palace has been Glasgow's museum of what?",
+    "options": [
+      "Social history",
+      "Transport",
+      "Modern art",
+      "Natural history"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "People's Palace",
+      "social history"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which union did the People's Palace cat Smudge join in the 1980s?",
+    "options": [
+      "Unison",
+      "GMB",
+      "NALGO",
+      "Unite"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "People's Palace",
+      "Smudge",
+      "GMB"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which artist painted the People's Palace dome panels marking the 1787 Calton weavers massacre?",
+    "options": [
+      "Alasdair Gray",
+      "Ken Currie",
+      "Steven Campbell",
+      "Peter Howson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "People's Palace",
+      "Ken Currie",
+      "Calton weavers"
+    ],
+    "source": "manual"
+  }
+]

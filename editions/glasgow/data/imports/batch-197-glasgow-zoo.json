@@ -1,0 +1,205 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Glasgow Zoo was also known by the name of which estate?",
+    "options": [
+      "Linn",
+      "Tollcross",
+      "Calderpark",
+      "Pollok"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Zoo",
+      "Calderpark"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which part of Glasgow was Glasgow Zoo?",
+    "options": [
+      "Maryhill",
+      "Govan",
+      "Baillieston",
+      "Shawlands"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Zoo",
+      "Baillieston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year did Glasgow Zoo open?",
+    "options": [
+      "1962",
+      "1936",
+      "1955",
+      "1947"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Zoo",
+      "1947"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "In which year did Glasgow Zoo close?",
+    "options": [
+      "2003",
+      "1995",
+      "2008",
+      "1999"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Zoo",
+      "2003"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What was the name of Glasgow Zoo's polar bear?",
+    "options": [
+      "Winston",
+      "Hamish",
+      "Teddy",
+      "Nanook"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Zoo",
+      "polar bear",
+      "Winston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Along with the lions, which rare bird was a prize exhibit when Glasgow Zoo opened?",
+    "options": [
+      "A golden eagle",
+      "A white peacock",
+      "A pink flamingo",
+      "A snowy owl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Zoo",
+      "white peacock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which Tintin book features Glasgow Zoo?",
+    "options": [
+      "Cigars of the Pharaoh",
+      "The Black Island",
+      "The Calculus Affair",
+      "The Shooting Star"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Zoo",
+      "Tintin",
+      "The Black Island"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Some Glasgow Zoo enclosures were built from metal taken from what?",
+    "options": [
+      "Battleships",
+      "Shipyard cranes",
+      "Railway bridges",
+      "Tramcars"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Zoo",
+      "wartime"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which zoology professor founded the Zoological Society of Glasgow in 1936?",
+    "options": [
+      "Edward Hindle",
+      "Julian Huxley",
+      "Gerald Durrell",
+      "David Attenborough"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Zoo",
+      "Edward Hindle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "history",
+    "difficulty": 5,
+    "question": "From which island did Glasgow Zoo's Soay sheep come?",
+    "options": [
+      "Arran",
+      "Mull",
+      "Islay",
+      "St Kilda"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Zoo",
+      "Soay sheep",
+      "St Kilda"
+    ],
+    "source": "manual"
+  }
+]

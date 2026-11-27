@@ -1,0 +1,12 @@
+# Glasgow Harbour Tunnel and the Rotundas. Source: text pasted by the user (Hidden Glasgow page, including an extract from the AA Touring Guide to Scotland, 1975)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | What are the circular brick towers at each end of the old Glasgow Harbour Tunnel known as? | The Rotundas | The Cupolas | The Drums | The Beehives | Harbour Tunnel; Rotunda
+2 | landmarks | The North Rotunda of the Harbour Tunnel stands in which area? | Finnieston | Partick | Anderston | Yorkhill | Harbour Tunnel; Rotunda; Finnieston
+3 | history | How many parallel tunnels made up the Glasgow Harbour Tunnel under the Clyde? | Three | Two | Four | Six | Harbour Tunnel
+3 | history | The centre tunnel of the three Harbour Tunnels was used by whom? | Pedestrians | Trams | Horse and cart traffic | Trains | Harbour Tunnel; pedestrian tunnel
+3 | history | In which year did the Glasgow Harbour Tunnel open? | 1895 | 1875 | 1912 | 1926 | Harbour Tunnel; 1895
+4 | history | Which American company supplied the hydraulic hoists in the Harbour Tunnel's rotundas? | Otis Elevator Company | Westinghouse | General Electric | Singer | Harbour Tunnel; Otis; hydraulic lifts
+4 | history | During which holiday did the Harbour Tunnel open in July 1895? | The Glasgow Fair | Hogmanay | Easter | The Trades holiday | Harbour Tunnel; Glasgow Fair; 1895
+4 | history | How much did Glasgow Corporation pay to take control of the Harbour Tunnel in 1926? | £100,000 | £30,000 | £500 | £1 million | Harbour Tunnel; 1926; Glasgow Corporation
+4 | history | In which year were the Harbour Tunnel's two vehicle tunnels abandoned and the lifts removed? | 1943 | 1915 | 1926 | 1932 | Harbour Tunnel; 1943
+3 | history | During the Glasgow Garden Festival, the South Rotunda briefly became a copy of which Largs ice cream parlour? | Nardini's | Equi's | Coia's | Crolla's | Harbour Tunnel; South Rotunda; Nardini's; Garden Festival

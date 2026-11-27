@@ -1,8 +1,695 @@
 {
   "schemaVersion": 1,
   "collection": "rejected",
-  "updatedAt": "2026-11-16T00:04:02.661Z",
+  "updatedAt": "2026-11-27T10:27:06.867Z",
   "questions": [
+    {
+      "id": "q_001867",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "In which season did Celtic win their first league championship?",
+      "options": [
+        "1894-95",
+        "1897-98",
+        "1892-93",
+        "1890-91"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "league title",
+        "1892-93"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:31.450Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:31.450Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001866",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "domestic-trophies",
+      "difficulty": 3,
+      "question": "In which year did Celtic win the Scottish Cup for the first time?",
+      "options": [
+        "1895",
+        "1899",
+        "1889",
+        "1892"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Scottish Cup",
+        "1892"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:25.132Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:25.132Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001864",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "celtic-park",
+      "difficulty": 1,
+      "question": "Celtic Park is also widely known by which name, taken from its district?",
+      "options": [
+        "Firhill",
+        "Shawfield",
+        "Parkhead",
+        "Cathkin"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Celtic Park",
+        "Parkhead"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:12.835Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:12.835Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001863",
+      "schemaVersion": 1,
+      "club": "general",
+      "stage": "semi-final",
+      "category": "general-football",
+      "difficulty": 4,
+      "question": "Which Scottish club's entire first-team squad enlisted together in November 1914?",
+      "options": [
+        "Queen's Park",
+        "Hibernian",
+        "Rangers",
+        "Hearts"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Hearts",
+        "First World War",
+        "1914"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-24T23:11:54.720Z",
+      "updatedAt": "2026-11-25T22:26:12.835Z",
+      "review": {
+        "reviewedAt": "2026-11-25T22:26:12.835Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001773",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Murdo MacLeod, born in Glasgow, was a midfielder during the manager's era?",
+      "options": [
+        "Martin O'Neill",
+        "Billy McNeill",
+        "Jock Stein",
+        "Wim Jansen"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Murdo MacLeod",
+        "Glasgow",
+        "1980s"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:24:53.337Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:24:53.337Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001772",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "players",
+      "difficulty": 1,
+      "question": "Which East Dunbartonshire-born goalkeeper with 436 appearances played in the 1920s?",
+      "options": [
+        "Charlie Shaw",
+        "Pat Bonner",
+        "Peter Latchford",
+        "John Fallon"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Charlie Shaw",
+        "Twechar",
+        "goalkeeper"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:24:36.158Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:24:36.158Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001769",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "The Swedish striker Henrik Larsson, born in Helsingborg, was at Celtic during which manager's era?",
+      "options": [
+        "Wim Jansen",
+        "Jock Stein",
+        "Martin O'Neill",
+        "Billy McNeill"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Henrik Larsson",
+        "Sweden",
+        "manager"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:24:19.959Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:24:19.959Z",
+        "rejectionReason": "Factually Incorrect",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001771",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Wishaw and Motherwell area produced which Lanarkshire player with 331 Celtic appearances?",
+      "options": [
+        "Jimmy McStay",
+        "Roy Aitken",
+        "Andy McAtee",
+        "Jimmy Quinn"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Jimmy Quinn",
+        "Lanarkshire",
+        "striker"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:23:46.731Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:23:46.731Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001770",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "celtic-history",
+      "difficulty": 1,
+      "question": "How many of the 25 players represented Celtic in the 20th century?",
+      "options": [
+        "20",
+        "24",
+        "25",
+        "23"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "Celtic",
+        "20th century",
+        "players"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:23:35.395Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:23:35.395Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001765",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "players",
+      "difficulty": 1,
+      "question": "The Lisbon Lions feature which three players with 50+ appearances from this list?",
+      "options": [
+        "Stevie Chalmers, Bobby Murdoch, Billy McNeill",
+        "Roy Aitken, Tom Boyd, Henrik Larsson",
+        "Stevie Chalmers, Bobby Lennox, John Hughes",
+        "Billy McNeill, Danny McGrain, Paul McStay"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Lisbon 1967",
+        "Chalmers",
+        "Murdoch"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:22:40.112Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:22:40.111Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001764",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Which decade saw the most debuts for these 50+ appearance players?",
+      "options": [
+        "1900-1910",
+        "1910-1920",
+        "1950-1960",
+        "1920-1930"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Celtic",
+        "history",
+        "debuts"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:22:31.272Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:22:31.271Z",
+        "rejectionReason": "Factually Incorrect",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001763",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "celtic-history",
+      "difficulty": 1,
+      "question": "Patsy Gallacher and Pat Bonner, both from Irish counties, combined for how many Celtic appearances?",
+      "options": [
+        "1098",
+        "1115",
+        "1089",
+        "1105"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Patsy Gallacher",
+        "Pat Bonner",
+        "Ireland"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:22:17.661Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:22:17.661Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001761",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Which city produced the most Celtic players with 50+ appearances in this dataset?",
+      "options": [
+        "Scotland",
+        "Lanarkshire",
+        "Glasgow",
+        "Ayrshire"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Glasgow",
+        "players",
+        "city"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:18:50.860Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:18:50.860Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001760",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "players",
+      "difficulty": 1,
+      "question": "Rutherglen produced multiple Celtic players. Which two 50+ appearance players came from there?",
+      "options": [
+        "Jimmy McStay and Danny McGrain",
+        "Bobby Murdoch and Roy Aitken",
+        "Bobby Murdoch and Jimmy McMenemy",
+        "Jimmy McMenemy and Tom Boyd"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Rutherglen",
+        "Murdoch",
+        "McMenemy"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:18:34.588Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:18:34.588Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001758",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "club-records",
+      "difficulty": 1,
+      "question": "Billy McNeill's 789 appearances is a record that spans which years?",
+      "options": [
+        "1957-1975",
+        "1960-1978",
+        "1955-1973",
+        "1958-1976"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Billy McNeill",
+        "record",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:17:36.807Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:17:36.807Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001757",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "players",
+      "difficulty": 3,
+      "question": "Coatbridge-born striker John Hughes played during which memorable Celtic era?",
+      "options": [
+        "Quality Street Gang",
+        "Lisbon Lions",
+        "Big Tommy",
+        "Jock Stein"
+      ],
+      "correctAnswer": 1,
+      "tags": [
+        "John Hughes",
+        "Coatbridge",
+        "Lisbon 1967"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:17:26.532Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:17:26.532Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001755",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "celtic-history",
+      "difficulty": 1,
+      "question": "Henrik Larsson joined Celtic from which Swedish club in 1997?",
+      "options": [
+        "Helsingborg",
+        "PSV Eindhoven",
+        "Ajax",
+        "Fiorentina"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Henrik Larsson",
+        "Sweden",
+        "transfer"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:16:53.040Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:16:53.040Z",
+        "rejectionReason": "Factually Incorrect",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001751",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "celtic-history",
+      "difficulty": 3,
+      "question": "Roy Aitken played for Celtic during which manager's era?",
+      "options": [
+        "Jock Stein",
+        "Willie Maley",
+        "Celtic Jock",
+        "Jock Stein and Billy McNeill"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Roy Aitken",
+        "manager",
+        "era"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:15:29.369Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:15:29.369Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001743",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-2",
+      "category": "club-records",
+      "difficulty": 4,
+      "question": "Which two players both made 667+ Celtic appearances?",
+      "options": [
+        "Bobby Lennox and Billy McNeill",
+        "Alec McNair and Pat Bonner",
+        "Roy Aitken and Paul McStay",
+        "Billy McNeill and Danny McGrain"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Roy Aitken",
+        "Paul McStay",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:15:12.915Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:15:12.915Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001766",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "club-records",
+      "difficulty": 3,
+      "question": "How many appearances did Paul McStay make compared to Roy Aitken?",
+      "options": [
+        "McStay 11 more",
+        "McStay 15 more",
+        "Same number",
+        "Aitken 11 more"
+      ],
+      "correctAnswer": 0,
+      "tags": [
+        "Paul McStay",
+        "Roy Aitken",
+        "appearances"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:13:36.519Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:13:36.519Z",
+        "rejectionReason": "Factually Incorrect",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001775",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-2",
+      "category": "players",
+      "difficulty": 2,
+      "question": "Bobby Lennox, the winger who made 571 Celtic appearances, was a native of which Ayrshire town?",
+      "options": [
+        "Troon",
+        "Irvine",
+        "Saltcoats",
+        "Ayr"
+      ],
+      "correctAnswer": 2,
+      "tags": [
+        "Bobby Lennox",
+        "Saltcoats",
+        "winger"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:12:38.481Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:12:38.481Z",
+        "rejectionReason": "Duplicate Question",
+        "rejectionNote": null
+      }
+    },
+    {
+      "id": "q_001728",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "round-1",
+      "category": "club-records",
+      "difficulty": 3,
+      "question": "Alec McNair's 641 appearances spans which era of Celtic's history?",
+      "options": [
+        "1900-1920",
+        "1920-1940",
+        "1910-1930",
+        "1904-1925"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Alec McNair",
+        "appearances",
+        "historic"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:12:16.339Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:12:16.339Z",
+        "rejectionReason": "Other",
+        "rejectionNote": "Too difficult"
+      }
+    },
+    {
+      "id": "q_001726",
+      "schemaVersion": 1,
+      "club": "celtic",
+      "stage": "qualifier-1",
+      "category": "club-records",
+      "difficulty": 1,
+      "question": "Roy Aitken and Paul McStay both made 667+ appearances for Celtic. How many did Aitken make exactly?",
+      "options": [
+        "678",
+        "679",
+        "641",
+        "667"
+      ],
+      "correctAnswer": 3,
+      "tags": [
+        "Roy Aitken",
+        "appearances",
+        "club record"
+      ],
+      "source": "manual",
+      "status": "rejected",
+      "createdAt": "2026-11-22T09:54:35.676Z",
+      "updatedAt": "2026-11-22T10:11:57.777Z",
+      "review": {
+        "reviewedAt": "2026-11-22T10:11:57.777Z",
+        "rejectionReason": "Poor Wording",
+        "rejectionNote": null
+      }
+    },
     {
       "id": "q_001699",
       "schemaVersion": 1,

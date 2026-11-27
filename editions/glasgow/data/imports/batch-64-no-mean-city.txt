@@ -1,0 +1,7 @@
+# No Mean City. Source: https://en.wikipedia.org/wiki/No_Mean_City
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | Which Glasgow district is the setting of the novel No Mean City? | The Gorbals | Govan | Maryhill | Easterhouse | No Mean City; Gorbals
+2 | film-tv | A song called "No Mean City" was the theme tune of which TV detective series? | Taggart | Rebus | Shoestring | Bergerac | No Mean City; Taggart
+3 | art-culture | In which year was the novel No Mean City published? | 1935 | 1955 | 1925 | 1968 | No Mean City; 1935
+3 | art-culture | The title No Mean City comes from words of which biblical figure? | Paul the Apostle | Moses | King David | St Peter | No Mean City; Paul
+4 | art-culture | Which journalist co-wrote No Mean City with Alexander McArthur? | H. Kingsley Long | William McIlvanney | Jack House | Hugh MacDiarmid | No Mean City; H. Kingsley Long

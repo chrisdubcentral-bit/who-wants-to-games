@@ -1,0 +1,62 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "What job did John Smeaton do at Glasgow Airport?",
+    "options": [
+      "Security guard",
+      "Pilot",
+      "Baggage handler",
+      "Air traffic controller"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "John Smeaton",
+      "Glasgow Airport"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which medal did John Smeaton receive for his part in the 2007 Glasgow Airport attack?",
+    "options": [
+      "The Distinguished Service Medal",
+      "The George Cross",
+      "The Queen's Gallantry Medal",
+      "The Victoria Cross"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "John Smeaton",
+      "Queen's Gallantry Medal"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "patter",
+    "difficulty": 2,
+    "question": "John Smeaton told ITV News: \"This is Glasgow; we'll...\" what?",
+    "options": [
+      "Sort ye out",
+      "Set about ye",
+      "Show ye the door",
+      "See ye later"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Smeaton",
+      "quote"
+    ],
+    "source": "manual"
+  }
+]

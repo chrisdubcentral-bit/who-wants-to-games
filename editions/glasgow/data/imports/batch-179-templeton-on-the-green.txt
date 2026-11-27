@@ -1,0 +1,7 @@
+# Templeton On The Green. Source: https://en.wikipedia.org/wiki/Templeton_On_The_Green
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | landmarks | Which architect designed the Templeton carpet factory on Glasgow Green? | William Leiper | Charles Rennie Mackintosh | Alexander Thomson | John Burnet | Templeton; William Leiper
+4 | history | Which patented carpets was the Templeton factory built to make? | Spool Axminster | Persian rugs | Wilton | Brussels weave | Templeton; Axminster; carpets
+4 | history | In which year did the Templeton factory's façade collapse during construction? | 1889 | 1892 | 1900 | 1876 | Templeton; 1889; collapse
+2 | food-drink | Which brewery, bar and restaurant occupies the ground floor of Templeton On The Green? | WEST | Tennent's | Drygate | BrewDog | Templeton; WEST brewery
+4 | history | In which year did the Scottish Development Agency turn the Templeton building into a business centre? | 1984 | 1972 | 1995 | 2005 | Templeton; Business Centre; 1984

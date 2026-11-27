@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "What is the railway bridge over Argyle Street at Central Station known as?",
+    "options": [
+      "The Squinty Bridge",
+      "The Glesga Brolly",
+      "The Clyde Arc",
+      "The Hielanman's Umbrella"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Argyle Street",
+      "Hielanman's Umbrella"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Argyle Street was renamed in honour of which nobleman?",
+    "options": [
+      "The Duke of Argyll",
+      "The Duke of Hamilton",
+      "The Marquess of Bute",
+      "The Earl of Glasgow"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Argyle Street",
+      "Duke of Argyll"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What kind of shops mainly fill the Argyll Arcade?",
+    "options": [
+      "Tailors",
+      "Jewellers",
+      "Bookshops",
+      "Toyshops"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Argyle Street",
+      "Argyll Arcade"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What was Argyle Street originally called?",
+    "options": [
+      "Westergait",
+      "Westport Road",
+      "St Thenew's Gait",
+      "The Drygate"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Argyle Street",
+      "Westergait"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "What does Argyle Street become as it crosses the River Kelvin into Partick?",
+    "options": [
+      "Great Western Road",
+      "Byres Road",
+      "Dumbarton Road",
+      "Crow Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Argyle Street",
+      "Dumbarton Road"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,7 @@
+# University of Strathclyde. Source: https://en.wikipedia.org/wiki/University_of_Strathclyde
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | What is the University of Strathclyde's motto? | The Place of Useful Learning | Let Glasgow Flourish | Via, Veritas, Vita | Knowledge is Power | University of Strathclyde; motto
+3 | history | In which year was the institution that became Strathclyde University founded? | 1796 | 1451 | 1845 | 1912 | University of Strathclyde; 1796
+3 | history | Whose will founded the institution that became the University of Strathclyde? | John Anderson | James Watt | Adam Smith | Lord Kelvin | University of Strathclyde; John Anderson
+3 | history | In 1964, Strathclyde became the UK's first university of what kind? | Technological | Open | Women's | Online | University of Strathclyde; 1964
+4 | history | Which college of education did Strathclyde incorporate in 1993? | Jordanhill | Notre Dame | Craiglockhart | Moray House | University of Strathclyde; Jordanhill

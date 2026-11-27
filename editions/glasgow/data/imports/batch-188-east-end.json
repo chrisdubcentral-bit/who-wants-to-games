@@ -1,0 +1,611 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Which Victorian garden cemetery overlooks Glasgow Cathedral?",
+    "options": [
+      "Cathcart Cemetery",
+      "The Necropolis",
+      "Sighthill Cemetery",
+      "The Southern Necropolis"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "East End",
+      "Necropolis",
+      "Cathedral"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which building does Visit Glasgow call the oldest house in Glasgow?",
+    "options": [
+      "Pollok House",
+      "Hutchesons' Hall",
+      "The Tenement House",
+      "Provand's Lordship"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "East End",
+      "Provand's Lordship"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Provand's Lordship shows life in Glasgow roughly how many years ago?",
+    "options": [
+      "About 200",
+      "About 300",
+      "About 500",
+      "About 800"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "East End",
+      "Provand's Lordship"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What kind of garden does Provand's Lordship have?",
+    "options": [
+      "A medicinal garden",
+      "A walled vegetable garden",
+      "A Japanese garden",
+      "A rose garden"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "East End",
+      "Provand's Lordship"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which museum near Glasgow Cathedral explores the role of religion in people's lives?",
+    "options": [
+      "Kelvingrove Art Gallery",
+      "The People's Palace",
+      "St Mungo Museum of Religious Life and Art",
+      "The Hunterian"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "East End",
+      "St Mungo Museum"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "How much does it cost to visit the Cathedral, Necropolis, Provand's Lordship and St Mungo Museum?",
+    "options": [
+      "£5 each",
+      "Nothing: all are free",
+      "£2 each",
+      "£10 for all four"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "East End",
+      "Cathedral Precinct"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "venues-gigs",
+    "difficulty": 1,
+    "question": "Which East End venue does Visit Glasgow call the city's most legendary music venue?",
+    "options": [
+      "Saint Luke's",
+      "The Hydro",
+      "King Tut's",
+      "Barrowland Ballroom"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "East End",
+      "Barrowland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "food-drink",
+    "difficulty": 1,
+    "question": "When is the Barras Market open?",
+    "options": [
+      "Every weekend",
+      "The first Sunday of the month",
+      "Fridays only",
+      "Weekdays only"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "East End",
+      "Barras"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "What are the Barras Market's opening hours?",
+    "options": [
+      "11am to 8pm",
+      "8am to noon",
+      "10am to 4pm",
+      "9am to 6pm"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "East End",
+      "Barras"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which Mexican food stall trades at the Barras Market?",
+    "options": [
+      "Topolabamba",
+      "Taco Mazama",
+      "Alma Mexicana",
+      "Pinto"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "East End",
+      "Barras",
+      "Alma Mexicana"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Which brewer's East End mural reads \"Turning Rain into Beer Since 1885\"?",
+    "options": [
+      "Drygate",
+      "Tennent's",
+      "WEST",
+      "Belhaven"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "East End",
+      "Tennent's",
+      "mural"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which East End hospital has a museum about its history and global impact?",
+    "options": [
+      "Victoria Infirmary",
+      "Western Infirmary",
+      "Southern General",
+      "Glasgow Royal Infirmary"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "East End",
+      "Glasgow Royal Infirmary"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "What does Visit Glasgow call Glickman's Confectionery?",
+    "options": [
+      "Glasgow's first ice cream parlour",
+      "Glasgow's oldest sweet shop",
+      "Glasgow's biggest bakery",
+      "Glasgow's oldest chip shop"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "East End",
+      "Glickman's"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which Mackintosh work in the Necropolis is believed to be his first recorded work?",
+    "options": [
+      "A cast-iron gate",
+      "A Celtic cross",
+      "A stained glass window",
+      "A mausoleum"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "East End",
+      "Necropolis",
+      "Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "The Winged Ox Bar & Kitchen and the Saint Luke's venue are in a former what?",
+    "options": [
+      "Tram depot",
+      "Carpet factory",
+      "19th-century church",
+      "Victorian bathhouse"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "East End",
+      "Saint Luke's",
+      "Winged Ox"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which East End café is an award winner for brunch and pizza slices?",
+    "options": [
+      "Zennor",
+      "Mesa",
+      "Scran + Roadie",
+      "Tibo"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "East End",
+      "Scran + Roadie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Van Winkle in the East End claims Glasgow's largest selection of which spirit?",
+    "options": [
+      "Bourbon",
+      "Rum",
+      "Tequila",
+      "Gin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "East End",
+      "Van Winkle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Which three breweries make up the East End's \"brewery triangle\"?",
+    "options": [
+      "WEST, Tennent's and Belhaven",
+      "Drygate, WEST and Shilling",
+      "Tennent's, Drygate and WEST",
+      "Tennent's, BrewDog and Drygate"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "East End",
+      "brewery triangle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "How many rotating taps does Drygate have?",
+    "options": [
+      "12",
+      "26",
+      "18",
+      "40"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "East End",
+      "Drygate"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "WEST Brewery makes beers in which country's style?",
+    "options": [
+      "German",
+      "American",
+      "Belgian",
+      "Czech"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "East End",
+      "WEST Brewery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "La Bodega in Dennistoun is a family-owned café serving food from which country?",
+    "options": [
+      "Spain",
+      "Venezuela",
+      "Mexico",
+      "Argentina"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "East End",
+      "Dennistoun",
+      "La Bodega"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "What is Tibo in Dennistoun known for?",
+    "options": [
+      "Neapolitan pizza",
+      "Venezuelan arepas",
+      "Sourdough sandwiches",
+      "Philly cheesestack toasties"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "East End",
+      "Dennistoun",
+      "Tibo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which park does Visit Glasgow call the city's newest, on a former industrial site?",
+    "options": [
+      "Glasgow Green",
+      "Tollcross Park",
+      "Alexandra Park",
+      "Cuningar Loop"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "East End",
+      "Cuningar Loop"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "The Album Pathway in Barrowland Park lists bands who have played the Barrowland since which year?",
+    "options": [
+      "1983",
+      "1990",
+      "1960",
+      "1975"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "East End",
+      "Album Pathway",
+      "Barrowland Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which Turner Prize nominee created the Album Pathway at Barrowland Park?",
+    "options": [
+      "Jim Lambie",
+      "Martin Boyce",
+      "Douglas Gordon",
+      "Simon Starling"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "East End",
+      "Album Pathway",
+      "Jim Lambie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "On which street is the St Mungo mural, one of the UK's most Instagrammed murals?",
+    "options": [
+      "Duke Street",
+      "Gallowgate",
+      "High Street",
+      "London Road"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "East End",
+      "St Mungo mural"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which independent gallery in the East End shows emerging and established artists?",
+    "options": [
+      "The Modern Institute",
+      "Transmission",
+      "Street Level Photoworks",
+      "David Dale Gallery"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "East End",
+      "David Dale Gallery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which velodrome sits next to the Glasgow International Arena?",
+    "options": [
+      "Manchester Velodrome",
+      "Meadowbank Velodrome",
+      "Sir Chris Hoy Velodrome",
+      "Lee Valley VeloPark"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "East End",
+      "Sir Chris Hoy Velodrome"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "The East End's sports venues are a legacy of the 2014 Commonwealth Games and which 2023 event?",
+    "options": [
+      "The World Swimming Championships",
+      "The UCI Cycling World Championships",
+      "The Rugby World Cup",
+      "The European Athletics Championships"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "East End",
+      "2023 UCI Cycling World Championships"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Which football club's East End stadium offers stadium tours?",
+    "options": [
+      "Queen's Park",
+      "Rangers",
+      "Partick Thistle",
+      "Celtic"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "East End",
+      "Celtic Park"
+    ],
+    "source": "manual"
+  }
+]

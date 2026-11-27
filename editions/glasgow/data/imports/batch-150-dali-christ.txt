@@ -1,0 +1,7 @@
+# Christ of Saint John of the Cross. Source: https://en.wikipedia.org/wiki/Christ_of_Saint_John_of_the_Cross
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | In which year did Salvador Dalí paint Christ of Saint John of the Cross? | 1951 | 1931 | 1965 | 1944 | Dalí; Christ of Saint John of the Cross
+3 | art-culture | Which Glasgow Museums director bought Dalí's Christ of Saint John of the Cross in 1952? | Tom Honeyman | Francis Newbery | Julian Spalding | Mark O'Neill | Dalí; Tom Honeyman
+3 | art-culture | How much did Glasgow pay for Dalí's Christ of Saint John of the Cross, including the copyright? | £8,200 | £82,000 | £1,200 | £25,000 | Dalí; price
+3 | art-culture | In which year was Dalí's Christ of Saint John of the Cross voted Scotland's favourite painting? | 2006 | 1996 | 2016 | 1986 | Dalí; favourite painting
+4 | art-culture | Which bay, where Dalí lived, appears in Christ of Saint John of the Cross? | Portlligat | Cadaqués | Barcelona | Tossa de Mar | Dalí; Portlligat

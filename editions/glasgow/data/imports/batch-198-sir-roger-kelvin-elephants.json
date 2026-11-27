@@ -1,0 +1,110 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "art-culture",
+    "difficulty": 1,
+    "question": "What is the name of the famous stuffed elephant in Kelvingrove Museum?",
+    "options": [
+      "Big Rab",
+      "Sir Walter",
+      "Sir Roger",
+      "King Billy"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sir Roger",
+      "Kelvingrove",
+      "elephant"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "On which Glasgow road was the Scottish Zoo where Sir Roger the elephant lived?",
+    "options": [
+      "Duke Street",
+      "Great Western Road",
+      "Paisley Road",
+      "New City Road"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sir Roger",
+      "Scottish Zoo",
+      "New City Road",
+      "Bostock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year was Sir Roger the elephant put down at the Scottish Zoo?",
+    "options": [
+      "1885",
+      "1900",
+      "1897",
+      "1912"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sir Roger",
+      "Scottish Zoo",
+      "1900"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "What did the taxidermists have to remove to get the mounted Sir Roger out of their Sauchiehall Street shop?",
+    "options": [
+      "Their whole shop front",
+      "The roof",
+      "The back wall",
+      "The staircase"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sir Roger",
+      "Charles Kirk",
+      "taxidermy",
+      "Sauchiehall Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which newspaper ran the 1997 competition that named Kelvingrove's young elephant \"Kelvin\"?",
+    "options": [
+      "Sunday Mail",
+      "Daily Record",
+      "The Herald",
+      "Evening Times"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kelvin",
+      "Kelvingrove",
+      "Evening Times",
+      "1997"
+    ],
+    "source": "manual"
+  }
+]

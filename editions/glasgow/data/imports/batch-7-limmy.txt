@@ -1,0 +1,7 @@
+# Limmy. Source: https://en.wikipedia.org/wiki/Limmy
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | What is the real name of Glasgow comedian Limmy? | Brian Limond | Brian Lindsay | Barry Limond | Brian Lyons | Limmy; Brian Limond
+2 | film-tv | On which streaming platform has Limmy broadcast almost daily since 2018? | Twitch | YouTube | Kick | TikTok | Limmy; Twitch
+3 | famous-glaswegians | In which area of Glasgow did Limmy grow up? | Carnwadric | Castlemilk | Drumchapel | Easterhouse | Limmy; Carnwadric
+3 | film-tv | In which sitcom did Limmy cameo as a window cleaner with an unintelligible Glaswegian accent? | The IT Crowd | Still Game | Peep Show | Father Ted | Limmy; The IT Crowd
+4 | famous-glaswegians | Which university did Limmy graduate from in 1996, after studying multimedia technology? | Glasgow Caledonian University | University of Strathclyde | University of Glasgow | University of the West of Scotland | Limmy; Glasgow Caledonian University

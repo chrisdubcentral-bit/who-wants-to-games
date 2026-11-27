@@ -1,0 +1,204 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "For which Ken Loach film did Peter Mullan win Best Actor at Cannes?",
+    "options": [
+      "Sweet Sixteen",
+      "Kes",
+      "Riff-Raff",
+      "My Name Is Joe"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Peter Mullan",
+      "My Name Is Joe",
+      "Cannes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which character did Peter Mullan play in Trainspotting?",
+    "options": [
+      "Johnny \"Mother Superior\" Swan",
+      "Spud",
+      "Tommy",
+      "Begbie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Mullan",
+      "Trainspotting"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which dwarf king did Peter Mullan play in The Rings of Power?",
+    "options": [
+      "Durin III",
+      "Thorin",
+      "Thrór",
+      "Dáin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Mullan",
+      "Rings of Power"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which film directed by Peter Mullan won the Golden Lion at Venice in 2002?",
+    "options": [
+      "Tyrannosaur",
+      "Neds",
+      "Orphans",
+      "The Magdalene Sisters"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Peter Mullan",
+      "The Magdalene Sisters"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which Scottish town was Peter Mullan born?",
+    "options": [
+      "Greenock",
+      "Peterhead",
+      "Paisley",
+      "Fraserburgh"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Peter Mullan",
+      "Peterhead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "To which district of Glasgow did Peter Mullan's family move?",
+    "options": [
+      "Mosspark",
+      "Maryhill",
+      "Govan",
+      "Partick"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Mullan",
+      "Mosspark"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Death Eater did Peter Mullan play in Harry Potter and the Deathly Hallows?",
+    "options": [
+      "Yaxley",
+      "Dolohov",
+      "Macnair",
+      "Rookwood"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Mullan",
+      "Harry Potter",
+      "Yaxley"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Peter Mullan film won the Golden Shell at San Sebastián in 2010?",
+    "options": [
+      "The Magdalene Sisters",
+      "Neds",
+      "Hallam Foe",
+      "Orphans"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Peter Mullan",
+      "Neds"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which character did Peter Mullan play in Ozark?",
+    "options": [
+      "Marty Byrde",
+      "Roy Petty",
+      "Jacob Snell",
+      "Del Rio"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Peter Mullan",
+      "Ozark"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which character did Peter Mullan play in Westworld?",
+    "options": [
+      "James Delos",
+      "Logan Delos",
+      "William",
+      "Robert Ford"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Mullan",
+      "Westworld"
+    ],
+    "source": "manual"
+  }
+]

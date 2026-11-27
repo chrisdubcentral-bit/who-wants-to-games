@@ -1,0 +1,17 @@
+# Rab C. Nesbitt. Source: https://en.wikipedia.org/wiki/Rab_C._Nesbitt
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which actor played Rab C. Nesbitt? | Gregor Fisher | Ford Kiernan | Greg Hemphill | Tony Roper | Rab C. Nesbitt; Gregor Fisher
+1 | film-tv | Which famous item of clothing does Rab C. Nesbitt wear under his pinstripe suit? | A string vest | A Celtic top | A kilt | A cardigan | Rab C. Nesbitt; string vest
+1 | film-tv | In which area of Glasgow is Rab C. Nesbitt set and made? | Govan | Partick | Easterhouse | Possilpark | Rab C. Nesbitt; Govan
+2 | film-tv | Who played Rab's long-suffering wife Mary Doll in Rab C. Nesbitt? | Elaine C. Smith | Barbara Rafferty | Jane McCarry | Sanjeev Kohli | Rab C. Nesbitt; Mary Doll; Elaine C. Smith
+2 | film-tv | Who created and wrote Rab C. Nesbitt? | Ian Pattison | Colin Gilbert | Ford Kiernan | Peter McDougall | Rab C. Nesbitt; Ian Pattison
+2 | film-tv | What are the names of Rab C. Nesbitt's two sons? | Gash and Burney | Jamesie and Andra | Dodie and Shug | Screech and Norrie | Rab C. Nesbitt; Gash; Burney
+2 | film-tv | Rab C. Nesbitt began as a character in which BBC2 sketch show? | Naked Video | Chewin' the Fat | Absolutely | Only an Excuse? | Rab C. Nesbitt; Naked Video
+2 | film-tv | Which actor played Rab's pal Jamesie Cotter? | Tony Roper | Brian Pettifer | Iain McColl | Alex Norton | Rab C. Nesbitt; Jamesie Cotter; Tony Roper
+3 | film-tv | Which drink is Jamesie Cotter's trademark in Rab C. Nesbitt? | Irn-Bru | Buckfast | Tennent's | Whisky | Rab C. Nesbitt; Jamesie Cotter; Irn-Bru
+3 | film-tv | What is the house-cleaning business run by Mary Doll and Ella called? | The House Mice | The Govan Gleamers | Spick and Span | The Dust Busters | Rab C. Nesbitt; House Mice
+3 | film-tv | Which Britain's Got Talent star appeared in series 10 of Rab C. Nesbitt? | Susan Boyle | Paul Potts | Diversity | Michael McIntyre | Rab C. Nesbitt; Susan Boyle
+3 | film-tv | Which Hollywood star based his Mad Hatter accent in Alice in Wonderland on Rab C. Nesbitt? | Johnny Depp | Robert Downey Jr. | Brad Pitt | Jim Carrey | Rab C. Nesbitt; Johnny Depp; Mad Hatter
+4 | film-tv | In which year was the first Rab C. Nesbitt Christmas special, "Seasonal Greet", shown? | 1988 | 1986 | 1990 | 1992 | Rab C. Nesbitt; Seasonal Greet; 1988
+4 | film-tv | Who played Burney Nesbitt in the early series of Rab C. Nesbitt? | Eric Cullen | Andrew Fairlie | David McKay | Iain Robertson | Rab C. Nesbitt; Burney; Eric Cullen
+5 | film-tv | What was the name of the 2014 New Year special of Rab C. Nesbitt? | Hoodie | Clean | Seasonal Greet | Holiday | Rab C. Nesbitt; Hoodie; 2014

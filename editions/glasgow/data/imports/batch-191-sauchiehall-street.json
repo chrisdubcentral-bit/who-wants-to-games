@@ -1,0 +1,616 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "venues-gigs",
+    "difficulty": 1,
+    "question": "Which Sauchiehall Street bar hosts smaller gigs and gives this game's first venue its name?",
+    "options": [
+      "Variety Bar",
+      "The Buff Club",
+      "The Garage",
+      "Nice N Sleazy"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sauchiehall Street",
+      "Nice N Sleazy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "According to Visit Glasgow, Sauchiehall Street is legendary for what?",
+    "options": [
+      "Its nightlife",
+      "Its fish market",
+      "Its football grounds",
+      "Its shipyards"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "nightlife"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which arts centre is now in Alexander 'Greek' Thomson's Grecian Chambers?",
+    "options": [
+      "GoMA",
+      "The Tramway",
+      "The CCA",
+      "The Lighthouse"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "CCA",
+      "Grecian Chambers",
+      "Alexander Thomson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which bar is inside the CCA on Sauchiehall Street?",
+    "options": [
+      "Variety Bar",
+      "The Griffin",
+      "Nico's",
+      "Third Eye Bar"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sauchiehall Street",
+      "CCA",
+      "Third Eye Bar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which building is the Scottish Jewish Heritage Centre based?",
+    "options": [
+      "The Mitchell Library",
+      "The Tenement House",
+      "Hutchesons' Hall",
+      "Garnethill Synagogue"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sauchiehall Street",
+      "Garnethill Synagogue",
+      "Scottish Jewish Heritage Centre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which regiment's museum is in the Sauchiehall Street district?",
+    "options": [
+      "Cameronians",
+      "Black Watch",
+      "Royal Highland Fusiliers",
+      "Argyll and Sutherland Highlanders"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "Royal Highland Fusiliers Museum"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which library houses Glasgow's City Archives and Special Collections?",
+    "options": [
+      "The Mitchell Library",
+      "Stirling's Library",
+      "The Hunterian",
+      "Baillie's Library"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "Mitchell Library",
+      "archives"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which hotel is named as a Sauchiehall Street landmark alongside the Mitchell Library?",
+    "options": [
+      "The Grand Central Hotel",
+      "The Radisson Red",
+      "The Beresford Hotel",
+      "The Blythswood"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "Beresford Hotel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which architect does Visit Glasgow call \"the more famous architect\" on Sauchiehall Street?",
+    "options": [
+      "William Leiper",
+      "Alexander Thomson",
+      "Charles Rennie Mackintosh",
+      "John Burnet"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Sauchiehall Street gallery commissions a new mural every month?",
+    "options": [
+      "Street Level Photoworks",
+      "Transmission",
+      "RGI Kelly Gallery",
+      "Grateful Gallery"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sauchiehall Street",
+      "Grateful Gallery",
+      "murals"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which gallery is named with Glasgow School of Art and Grateful Gallery as a Sauchiehall Street exhibition venue?",
+    "options": [
+      "GoMA",
+      "RGI Kelly Gallery",
+      "The Modern Institute",
+      "Transmission"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sauchiehall Street",
+      "RGI Kelly Gallery"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Fireworks in the Sauchiehall Street district is a studio and shop for what?",
+    "options": [
+      "Ceramics",
+      "Jewellery",
+      "Stained glass",
+      "Fireworks"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "Fireworks Ceramics"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What does Paint and Mortar in the Sauchiehall Street district sell?",
+    "options": [
+      "Art supplies",
+      "Building materials",
+      "Records",
+      "Vintage furniture"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "Paint and Mortar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "patter",
+    "difficulty": 3,
+    "question": "Visit Glasgow tells visitors to look up on Sauchiehall Street for a \"chooky\" what on a light?",
+    "options": [
+      "Fish",
+      "Dog",
+      "Bird",
+      "Cat"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "chooky bird"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "A self-guided walk of which area covers the achievements of women in Glasgow's history?",
+    "options": [
+      "Anderston",
+      "Woodlands",
+      "Blythswood",
+      "Garnethill"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sauchiehall Street",
+      "Garnethill",
+      "women's history"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Visit Glasgow says Sauchiehall Street has inspired music by which 1980s band?",
+    "options": [
+      "Wham!",
+      "Spandau Ballet",
+      "Duran Duran",
+      "Culture Club"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sauchiehall Street",
+      "Spandau Ballet"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Alongside Spandau Ballet, which act does Visit Glasgow say Sauchiehall Street has inspired?",
+    "options": [
+      "Biffy Clyro",
+      "Lewis Capaldi",
+      "Chvrches",
+      "corto.alto"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sauchiehall Street",
+      "corto.alto"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which orchestra does Glasgow Royal Concert Hall host?",
+    "options": [
+      "The BBC Scottish Symphony Orchestra",
+      "The Scottish Chamber Orchestra",
+      "The Royal Scottish National Orchestra",
+      "The Scottish Opera Orchestra"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "Royal Concert Hall",
+      "RSNO"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Sauchiehall Street venues carry on a long history of ballrooms, dance halls and discos?",
+    "options": [
+      "The Garage, The Vic and The Buff Club",
+      "The Cathouse, Sub Club and SWG3",
+      "The Barrowland, The Plaza and The Savoy",
+      "The Arches, The Shed and Fury Murrys"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "The Garage",
+      "The Vic",
+      "The Buff Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Sauchiehall Street venue hosts comedy and cabaret?",
+    "options": [
+      "The Buff Club",
+      "Berlinkys",
+      "Nice N Sleazy",
+      "The Garage"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sauchiehall Street",
+      "Berlinkys"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Sauchiehall Street jazz venue hosts intimate gigs?",
+    "options": [
+      "Lauders Lounge",
+      "Basement Jazz Bar",
+      "The Jazz Cellar",
+      "The Blue Arrow"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sauchiehall Street",
+      "Basement Jazz Bar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which institution gives lunchtime concerts in the Sauchiehall Street district?",
+    "options": [
+      "University of Strathclyde",
+      "Glasgow School of Art",
+      "Glasgow Caledonian University",
+      "Royal Conservatoire of Scotland"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sauchiehall Street",
+      "Royal Conservatoire of Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which two Sauchiehall Street bars are known for their long curved bars?",
+    "options": [
+      "Howlin' Wolf and The Garage",
+      "Variety Bar and Nice N Sleazy",
+      "The State Bar and The Griffin",
+      "Nico's and Lauders"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "State Bar",
+      "The Griffin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Which Sauchiehall Street bar is known for its vibrant neon signs and cocktails?",
+    "options": [
+      "Variety Bar",
+      "Lauders",
+      "The State Bar",
+      "The Griffin"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "Variety Bar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "What does The Butterfly and Pig serve its food and drink on?",
+    "options": [
+      "Tin plates",
+      "Vintage crockery",
+      "Slates",
+      "Wooden boards"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sauchiehall Street",
+      "Butterfly and Pig"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Hajar's on Sauchiehall Street is known for what food?",
+    "options": [
+      "Shawarma",
+      "Sushi",
+      "Pizza",
+      "Fish and chips"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "Hajar's"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "Which two Sauchiehall Street restaurants are recommended for pre-theatre menus?",
+    "options": [
+      "Grumpy Pedros and Sprigg",
+      "Hajar's and Himba",
+      "Red Onion and Roya",
+      "Singl-end and Dun Dun Xiang"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "Red Onion",
+      "Roya",
+      "pre-theatre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "What does Himba on Sauchiehall Street serve?",
+    "options": [
+      "Curry",
+      "Coffee and pastries",
+      "Burgers",
+      "Ramen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sauchiehall Street",
+      "Himba"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "What does Visit Glasgow call \"unmissable\" at the Mackintosh Tearooms?",
+    "options": [
+      "Afternoon tea",
+      "Cocktail hour",
+      "A haggis supper",
+      "Sunday roast"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "Mackintosh Tearooms",
+      "afternoon tea"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Singl-end in the Sauchiehall Street district is recommended for which meal?",
+    "options": [
+      "Afternoon tea",
+      "Late-night snacks",
+      "Brunch",
+      "Pre-theatre dinner"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "Singl-end"
+    ],
+    "source": "manual"
+  }
+]

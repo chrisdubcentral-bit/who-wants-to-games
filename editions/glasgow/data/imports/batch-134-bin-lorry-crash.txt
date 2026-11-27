@@ -1,0 +1,5 @@
+# 2014 Glasgow bin lorry crash. Source: https://en.wikipedia.org/wiki/2014_Glasgow_bin_lorry_crash
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | On which Glasgow street did the bin lorry crash of December 2014 happen? | Queen Street | Buchanan Street | Argyle Street | Sauchiehall Street | Bin lorry crash; Queen Street
+3 | history | In which month was the 2014 Glasgow bin lorry crash? | December | October | June | March | Bin lorry crash
+4 | history | Where was the fatal accident inquiry into the 2014 bin lorry crash held? | Glasgow Sheriff Court | The High Court in Edinburgh | The City Chambers | Hampden Park | Bin lorry crash; fatal accident inquiry

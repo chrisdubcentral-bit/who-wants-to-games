@@ -1,0 +1,124 @@
+# Celtic Wiki mix (Beattie, Walfrid, visiting greats, Lisbon, Hogan, McGrory and Arsenal, Hjulian, club records, Great War), Glasgow Express and Not The View
+# Sources: thecelticwiki.com (9 pages), glasgowexpress.co.uk area guide, ntvcelticfanzine.com/about
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+# --- The Fix: the sad demise of Dick Beattie ---
+3 | players | From which junior club did Celtic sign goalkeeper Dick Beattie in September 1954? | Duntocher Hibernian | Petershill | Shettleston | Kirkintilloch Rob Roy | Dick Beattie; 1954
+3 | players | Goalkeeper Dick Beattie took over as Celtic's first choice from which keeper? | John Bonnar | Willie Miller | Frank Haffey | Ronnie Simpson | Dick Beattie; John Bonnar
+4 | players | Dick Beattie's Celtic debut in 1955 was a 1-1 League Cup draw with which club? | Falkirk | Airdrieonians | Queen of the South | East Fife | Dick Beattie; League Cup; 1955
+2 | cup-finals | Celtic keeper Dick Beattie was pictured holding up seven fingers after which 1957 final? | League Cup final | Scottish Cup final | Glasgow Cup final | Charity Cup final | Dick Beattie; 1957; League Cup final; 7-1
+3 | players | Roughly how many appearances did goalkeeper Dick Beattie make for Celtic in five seasons? | 156 | 96 | 212 | 274 | Dick Beattie
+3 | players | Dick Beattie left Celtic in August 1959 for which English club? | Portsmouth | Southampton | Sunderland | Preston North End | Dick Beattie; Portsmouth; 1959
+4 | players | Ex-Celtic keeper Dick Beattie joined which English club in 1962, playing only 10 games for them? | Peterborough United | Mansfield Town | Swindon Town | Northampton Town | Dick Beattie; Peterborough United; 1962
+4 | general-football | Which former striker sold the story of a 1960s match-fixing ring, which named Dick Beattie, to the Sunday People? | Jimmy Gauld | Peter Swan | Tony Kay | David Layne | Dick Beattie; Jimmy Gauld; match-fixing; 1964
+4 | players | What punishment did ex-Celtic keeper Dick Beattie receive after being found guilty of match-fixing? | Nine months in prison and a life ban | A £500 fine and a two-year ban | Four years in prison and a life ban | A one-year ban and no prison | Dick Beattie; match-fixing
+4 | players | Which two Scottish clubs did Dick Beattie play for after leaving Peterborough? | St Mirren and Brechin | Morton and Arbroath | Dundee and Forfar | Partick Thistle and Stenhousemuir | Dick Beattie; St Mirren; Brechin
+# --- Brother Walfrid: pilgrimage to his resting place ---
+3 | celtic-history | How old was Andrew Kerins, later Brother Walfrid, when he came from Ireland to Glasgow in 1855? | 15 | 12 | 19 | 22 | Brother Walfrid; Andrew Kerins; 1855
+3 | celtic-history | How did the young Andrew Kerins, later Brother Walfrid, travel from Ireland to Glasgow? | On a coal ship | On a cattle boat | On a mail steamer | On a fishing boat | Brother Walfrid; Andrew Kerins
+4 | celtic-history | In which country did Brother Walfrid train as a Marist novice and take his religious name? | France | Belgium | Italy | Spain | Brother Walfrid; Marist Brothers; Beauchamps
+2 | celtic-history | In which month of 1887 was Celtic formed in St Mary's parish hall? | November | March | June | September | Brother Walfrid; 1887; St Mary's
+4 | celtic-history | Which two clubs played the 1887 exhibition match in Glasgow that Brother Walfrid arranged? | Hibernian and Renton | Hibernian and Queen's Park | Renton and Dumbarton | Hearts and Third Lanark | Brother Walfrid; Hibernian; Renton; 1887
+2 | celtic-history | In which year did Brother Walfrid die? | 1915 | 1908 | 1922 | 1911 | Brother Walfrid; 1915
+4 | celtic-history | In which Scottish town did Brother Walfrid die and is buried? | Dumfries | Ayr | Stirling | Kilmarnock | Brother Walfrid; Dumfries; Mount St Michael's
+4 | celtic-history | In which year did Brother Walfrid retire? | 1908 | 1898 | 1892 | 1913 | Brother Walfrid; 1908
+4 | celtic-history | What marks Brother Walfrid's grave at Mount St Michael's in Dumfries? | A simple metal cross | A granite angel | A tall stone Celtic cross | A marble obelisk | Brother Walfrid; Dumfries; grave
+5 | celtic-history | A sponsored walk to Celtic Park, helping to fund a Brother Walfrid sculpture in Sligo, began in which town? | Ballymote | Ballina | Tubbercurry | Collooney | Brother Walfrid; Sligo; Ballymote
+# --- Greatest non-Celtic players to play at Celtic Park ---
+4 | opponents | Real Madrid beat Celtic 3-1 in a 1962 challenge match at Celtic Park. Roughly how big was the crowd? | 72,000 | 45,000 | 92,000 | 58,000 | Real Madrid; 1962; Di Stefano; Puskas
+4 | opponents | Bobby Charlton returned to Celtic Park in August 1974 as player-manager of which club? | Preston North End | Burnley | Blackpool | Bolton Wanderers | Bobby Charlton; Preston North End; 1974
+2 | opponents | George Best played once at Celtic Park, for Hibs in 1980. What was the score? | Celtic 4-0 Hibs | Celtic 2-0 Hibs | Celtic 3-1 Hibs | Celtic 1-1 Hibs | George Best; Hibernian; 1980
+4 | european-nights | Which Dukla Prague star, European Footballer of the Year in 1962, played at Celtic Park in the 1967 semi-final? | Josef Masopust | Ladislav Novak | Jan Popluhar | Ivo Viktor | Josef Masopust; Dukla Prague; 1967
+4 | european-nights | Celtic beat Red Star Belgrade 5-1 in November 1968. Which Yugoslav winger starred for Red Star? | Dragan Dzajic | Dragoslav Sekularac | Ilija Petkovic | Velibor Vasovic | Dragan Dzajic; Red Star Belgrade; 1968
+3 | european-nights | AC Milan won 1-0 at Celtic Park in the 1969 European Cup. Which Milan star was 1969 European Player of the Year? | Gianni Rivera | Pierino Prati | Kurt Hamrin | Giovanni Trapattoni | Gianni Rivera; AC Milan; 1969
+3 | european-nights | Who scored in Celtic's 3-0 home win over Eusebio's Benfica in November 1969? | Gemmell, Wallace and Hood | Lennox, Hughes and Johnstone | Murdoch, Auld and Chalmers | Macari, Dalglish and Hay | Benfica; Eusebio; 1969; Tommy Gemmell; Willie Wallace; Harry Hood
+4 | european-nights | Which great goalkeeper was in the Juventus side beaten 1-0 at Celtic Park in September 1981? | Dino Zoff | Stefano Tacconi | Walter Zenga | Gianluigi Buffon | Dino Zoff; Juventus; 1981
+3 | opponents | Kevin Keegan's Liverpool drew 1-1 at Celtic Park in August 1974 in whose testimonial? | Billy McNeill | Bobby Murdoch | Jimmy Johnstone | Tommy Gemmell | Kevin Keegan; Liverpool; Billy McNeill; testimonial; 1974
+4 | opponents | Lothar Matthaus captained Bayern Munich to a 2-1 win at Celtic Park in February 1997 in whose testimonial? | Peter Grant | Paul McStay | Tom Boyd | Roy Aitken | Lothar Matthaus; Bayern Munich; Peter Grant; testimonial; 1997
+# --- Lisbon Lions: when the Lions devoured catenaccio ---
+2 | cup-finals | In which Lisbon stadium did Celtic win the 1967 European Cup final? | Estadio Nacional | Estadio da Luz | Estadio Jose Alvalade | Estadio do Restelo | Lisbon 1967; Estadio Nacional
+2 | cup-finals | Which Celtic player led his team-mates in singing The Celtic Song in the tunnel before the 1967 final? | Bertie Auld | Billy McNeill | Jimmy Johnstone | Bobby Lennox | Lisbon 1967; Bertie Auld
+4 | cup-finals | Which reserve goalkeeper did Jock Stein sit on the bench nearest halfway in Lisbon, as a psychological blow? | John Fallon | Frank Haffey | Bent Martin | Denis Connaghan | Lisbon 1967; John Fallon; Jock Stein
+4 | cup-finals | Jimmy Johnstone said the Inter players in the Lisbon tunnel looked like what? | Movie stars | Giants | Soldiers | Male models | Lisbon 1967; Jimmy Johnstone; Inter Milan
+4 | managers | Inter Milan coach Helenio Herrera was born in which country in 1910? | Argentina | Spain | Morocco | France | Helenio Herrera; Inter Milan
+4 | managers | Helenio Herrera won the Spanish league in 1950 and 1951 with which club? | Atletico Madrid | Valencia | Sevilla | Real Sociedad | Helenio Herrera; Atletico Madrid
+3 | managers | Helenio Herrera was sacked by which club in 1960, just before joining Inter Milan? | Barcelona | Atletico Madrid | Real Madrid | Valencia | Helenio Herrera; Barcelona; 1960
+5 | general-football | The Italian defensive system catenaccio is often translated as what? | The padlock | The wall | The chain | The cage | catenaccio; Inter Milan; Lisbon 1967
+5 | general-football | Which Austrian-born coach of Switzerland devised the catenaccio-style defence in the 1930s? | Karl Rappan | Hugo Meisl | Vittorio Pozzo | Nereo Rocco | catenaccio; Karl Rappan
+2 | opponents | How many European Cups had Inter Milan won before they met Celtic in the 1967 final? | Two | One | Three | None | Inter Milan; Lisbon 1967; Helenio Herrera
+# --- Jimmy Hogan: right man, wrong time ---
+4 | managers | Coach Jimmy Hogan, who joined Celtic in 1948, was born in which Lancashire town? | Nelson | Burnley | Blackburn | Accrington | Jimmy Hogan
+4 | managers | Future Celtic coach Jimmy Hogan prepared which nation for the 1912 Olympics in Stockholm? | Austria | Hungary | Netherlands | Switzerland | Jimmy Hogan; Austria; 1912 Olympics
+4 | managers | During the First World War, Jimmy Hogan coached which club to Hungarian titles in 1917 and 1918? | MTK Budapest | Ferencvaros | Ujpest | Honved | Jimmy Hogan; MTK Budapest
+5 | managers | Which Austrian football chief first hired the future Celtic coach Jimmy Hogan? | Hugo Meisl | Matthias Sindelar | Karl Rappan | Ernst Happel | Jimmy Hogan; Hugo Meisl; Austria
+3 | managers | Which Celtic chairman brought in Jimmy Hogan as coach in 1948? | Robert Kelly | Tom White | Desmond White | Jack McGinn | Jimmy Hogan; Robert Kelly; 1948
+3 | managers | Which was the only trophy Celtic won in Jimmy Hogan's two seasons as coach? | Glasgow Cup | Scottish Cup | League Cup | Scottish League | Jimmy Hogan; Glasgow Cup
+4 | managers | Which then Celtic player called Jimmy Hogan "the finest coach the world had ever known"? | Tommy Docherty | Bobby Evans | Bertie Peacock | Sean Fallon | Jimmy Hogan; Tommy Docherty
+5 | managers | Where were Celtic's players introduced to new coach Jimmy Hogan in summer 1948? | At a golf day in Uddingston | At a dinner in Seamill | At training at Barrowfield | At a reception in the City Chambers | Jimmy Hogan; Uddingston; 1948
+4 | general-football | Former Celtic coach Jimmy Hogan watched Hungary beat England by what score at Wembley in 1953? | 6-3 | 7-1 | 4-2 | 5-3 | Jimmy Hogan; Hungary; Wembley; 1953
+4 | managers | Which Belfast-born Celtic winger was a big fan of coach Jimmy Hogan's ideas? | Charlie Tully | Bertie Peacock | Jimmy Delaney | Johnny Paton | Jimmy Hogan; Charlie Tully
+# --- McGrory, Chapman and the miracle of Lourdes ---
+2 | players | Which English club tried to sign Jimmy McGrory from Celtic in 1928? | Arsenal | Everton | Sunderland | Aston Villa | Jimmy McGrory; Arsenal; 1928
+3 | players | Which Arsenal manager tried and failed to sign Jimmy McGrory in 1928? | Herbert Chapman | George Allison | Tom Whittaker | Leslie Knighton | Jimmy McGrory; Herbert Chapman; Arsenal; 1928
+4 | players | Where was Jimmy McGrory travelling with Willie Maley in summer 1928 when Arsenal tried to sign him? | Lourdes | Rome | Fatima | Knock | Jimmy McGrory; Willie Maley; Lourdes; 1928
+4 | players | At which London station were Arsenal's manager and chairman waiting for Jimmy McGrory in 1928? | Euston | King's Cross | Paddington | Victoria | Jimmy McGrory; Arsenal; Euston
+5 | players | What British record fee had Celtic agreed with Arsenal for Jimmy McGrory in 1928? | £8,000 | £5,000 | £12,000 | £3,000 | Jimmy McGrory; Arsenal; 1928
+5 | players | What signing-on fee did Jimmy McGrory ask Arsenal for at the Euston Hotel in 1928? | £2,000 | £500 | £1,000 | £10,000 | Jimmy McGrory; Arsenal; 1928
+5 | players | Which Arsenal chairman met Jimmy McGrory at Euston in 1928? | Sir Samuel Hill-Wood | Sir Henry Norris | Denis Hill-Wood | Peter Hill-Wood | Jimmy McGrory; Arsenal; Samuel Hill-Wood
+1 | players | Jimmy McGrory said "McGrory of Arsenal" never sounded as good as what? | McGrory of Celtic | McGrory of Glasgow | McGrory of Scotland | McGrory of Parkhead | Jimmy McGrory; Arsenal
+4 | players | After Jimmy McGrory turned down Arsenal, what happened to his Celtic wages? | They were kept below his team-mates' | They were doubled | They matched Arsenal's offer | They were frozen for one season | Jimmy McGrory; Arsenal; Willie Maley
+3 | players | Willie Maley said of Arsenal's bid for Jimmy McGrory: "We left him to say 'Yes' or 'No'." What did McGrory say? | No | Yes | Maybe | Not yet | Jimmy McGrory; Willie Maley; Arsenal
+# --- Julius Hjulian ---
+3 | players | Julius Hjulian, a goalkeeper with Celtic's reserves in 1925-26, was born in which country? | Sweden | Norway | Denmark | Finland | Julius Hjulian; Sweden
+4 | players | Which country did former Celtic reserve goalkeeper Julius Hjulian play for at the 1934 World Cup? | USA | Sweden | Canada | Norway | Julius Hjulian; USA; 1934 World Cup
+4 | players | Ex-Celtic keeper Julius Hjulian was in goal as the USA lost 7-1 to which country at the 1934 World Cup? | Italy | Spain | Germany | Austria | Julius Hjulian; USA; Italy; 1934 World Cup
+4 | players | In which American city did former Celtic goalkeeper Julius Hjulian live and play? | Chicago | New York | St Louis | Philadelphia | Julius Hjulian; Chicago
+5 | players | With which club did ex-Celtic keeper Julius Hjulian win the Swedish championship in 1921? | IFK Eskilstuna | AIK | IFK Gothenburg | Hammarby | Julius Hjulian; IFK Eskilstuna; 1921
+# --- Club records ---
+2 | club-records | What was the score in Celtic's record defeat, against Motherwell in 1937? | 8-0 | 6-0 | 7-1 | 5-0 | club records; Motherwell; 1937
+4 | club-records | Which club inflicted Celtic's record home defeat, 5-0 in 1895? | Hearts | Rangers | Queen's Park | Dundee | club records; Hearts; 1895
+4 | club-records | Celtic's record post-war home defeat, 5-1 in 1947, came against which club? | Aberdeen | Hibernian | Rangers | Motherwell | club records; Aberdeen; 1947
+3 | club-records | How many points did Celtic win in 1987-88, their record in the two-points-for-a-win era? | 72 | 64 | 68 | 76 | club records; 1987-88; centenary
+2 | celtic-park | What is Celtic Park's record attendance, set against Rangers on 1 January 1938? | 92,000 | 83,500 | 102,000 | 75,000 | club records; Celtic Park; attendance; 1938
+3 | cup-finals | Over 146,000 watched Celtic win the 1937 Scottish Cup final at Hampden against which club? | Aberdeen | Rangers | Motherwell | Hearts | club records; attendance; Scottish Cup final; 1937; Aberdeen
+3 | club-records | Who holds Celtic's record for league appearances, with 540 between 1904 and 1925? | Alec McNair | Billy McNeill | Jimmy McMenemy | Paul McStay | club records; Alec McNair
+3 | club-records | Who became Celtic's youngest player and youngest scorer, aged 16 years 71 days, in May 2016? | Jack Aitchison | Kieran Tierney | Karamoko Dembele | Mikey Johnston | club records; Jack Aitchison; 2016
+3 | club-records | Which Celtic player scored the fastest goal in SPL history, after 12.2 seconds against Aberdeen in 2013? | Kris Commons | Gary Hooper | Georgios Samaras | Anthony Stokes | club records; Kris Commons; fastest goal; 2013
+1 | club-records | Who holds Celtic's record for goals in a season, with 53? | Henrik Larsson | Jimmy McGrory | Kenny Dalglish | Charlie Nicholas | club records; Henrik Larsson
+3 | club-records | Willie Maley, Celtic's longest-serving manager, was in charge for how many years? | 43 | 35 | 39 | 47 | club records; Willie Maley
+2 | club-records | Which Celtic player won a club-record 76 caps for Scotland? | Paul McStay | Danny McGrain | Roy Aitken | Tommy Boyd | club records; Paul McStay; Scotland caps
+3 | club-records | How many caps did Pat Bonner win for the Republic of Ireland, a Celtic record? | 80 | 64 | 72 | 92 | club records; Pat Bonner; Republic of Ireland
+4 | european-campaigns | Who scored a hat-trick against Jeunesse Esch in 2000, said to be the fastest in European club football? | Mark Burchill | Henrik Larsson | Chris Sutton | Tommy Johnson | club records; Mark Burchill; Jeunesse Esch; 2000
+3 | european-campaigns | Celtic's record European win, 9-0 in 1970, came against which Finnish club? | KPV Kokkola | HJK Helsinki | Haka | TPS Turku | club records; KPV Kokkola; 1970
+3 | european-campaigns | Celtic's record European defeat, 5-0 in July 2005, was against which club? | Artmedia Bratislava | Partizan Belgrade | Sparta Prague | Dinamo Bucharest | club records; Artmedia Bratislava; 2005
+4 | european-campaigns | Celtic beat which Lithuanian club 8-1 in European competition in 2003? | Suduva | Zalgiris Vilnius | Kaunas | Ekranas | club records; Suduva; 2003
+5 | european-campaigns | Celtic beat which Icelandic club 7-0 in European competition in 1975? | Valur | KR Reykjavik | IA Akranes | Fram | club records; Valur; 1975
+4 | club-records | Celtic had four goals disallowed in 17 minutes against Kilmarnock in April 2000. Who had three ruled out? | Tommy Johnson | Mark Burchill | Mark Viduka | Eyal Berkovic | club records; Kilmarnock; Tommy Johnson; 2000
+4 | club-records | Celtic's 77-match unbeaten home run in the SPL ended with a 3-2 defeat to which club in April 2004? | Aberdeen | Rangers | Hearts | Dundee United | club records; Aberdeen; 2004; unbeaten home run
+# --- The War Years: Celtic and the Great War ---
+4 | players | Which Celtic player was the first Scottish Territorial soldier to win the Victoria Cross, at Givenchy in 1915? | Willie Angus | Peter Johnstone | Patsy Gallacher | Joe Dodds | Willie Angus; Victoria Cross; First World War; 1915
+3 | celtic-history | How many players on Celtic's books were killed in the First World War, according to the Celtic Wiki? | Seven | Three | Twelve | Twenty | First World War
+4 | players | Which Celtic player from the six-in-a-row side, with 223 appearances, was killed at Arras in May 1917? | Peter Johnstone | Willie Angus | Jimmy McMenemy | Alec McNair | Peter Johnstone; Arras; First World War; 1917
+5 | players | Which Welsh international goalkeeper, who played once for Celtic on loan in 1910, was killed on the Somme in 1916? | Leigh Roose | Dai Davies | Jack Kelsey | Bob Evans | Leigh Roose; First World War; Somme; 1916
+4 | general-football | Which Scottish club's entire first-team squad enlisted together in November 1914? | Hearts | Hibernian | Queen's Park | Rangers | Hearts; First World War; 1914
+# --- Glasgow Express: Celtic FC in Glasgow ---
+1 | celtic-park | Celtic Park is also widely known by which name, taken from its district? | Parkhead | Shawfield | Firhill | Cathkin | Celtic Park; Parkhead
+3 | celtic-history | St Mary's Church hall, where Celtic were founded, is in which district of Glasgow's East End? | Calton | Bridgeton | Dennistoun | Shettleston | Celtic history; St Mary's; Calton
+3 | domestic-trophies | In which year did Celtic win the Scottish Cup for the first time? | 1892 | 1889 | 1895 | 1899 | Scottish Cup; 1892
+3 | domestic-trophies | In which season did Celtic win their first league championship? | 1892-93 | 1890-91 | 1894-95 | 1897-98 | league title; 1892-93
+2 | club-achievements | Jock Stein's nine league titles in a row began in which season? | 1965-66 | 1962-63 | 1966-67 | 1968-69 | nine in a row; Jock Stein; 1965-66
+# --- Not The View fanzine: About ---
+3 | celtic-history | In which year did the Celtic fanzine Not The View first appear? | 1987 | 1984 | 1990 | 1993 | Not The View; NTV; fanzine; 1987
+4 | celtic-history | Not The View's first issue went on sale in August 1987 before Celtic played which team? | Rangers | Hearts | Aberdeen | Hibernian | Not The View; NTV; fanzine; 1987
+4 | celtic-history | How many photocopied copies of the first Not The View were printed in 1987? | 500 | 100 | 2,000 | 5,000 | Not The View; NTV; fanzine; 1987
+4 | celtic-park | Near the top of which street was the first issue of Not The View sold in 1987? | Janefield Street | London Road | Kerrydale Street | Springfield Road | Not The View; NTV; fanzine; Janefield Street
+3 | opponents | Who scored the only goal as Celtic beat Rangers 1-0 at Celtic Park on 29 August 1987? | Billy Stark | Andy Walker | Frank McAvennie | Paul McStay | Billy Stark; Rangers; 1987-88; Not The View
+2 | opponents | Which Rangers player-manager was sent off as Celtic beat Rangers 1-0 in August 1987? | Graeme Souness | Terry Butcher | Graham Roberts | Chris Woods | Graeme Souness; Rangers; 1987-88; Not The View
+4 | players | Not The View's second issue mocked which former Celtic striker, then at Nantes? | Maurice Johnston | Charlie Nicholas | Brian McClair | Frank McGarvey | Maurice Johnston; Nantes; Not The View; NTV
+5 | celtic-history | Which issue of Not The View was the first in its familiar 36-page format with a three-colour cover? | Issue 4 | Issue 1 | Issue 10 | Issue 2 | Not The View; NTV; fanzine; 1988
+4 | celtic-history | Which club's win at Parkhead in May 1987 was the "final straw" that led to Not The View? | Falkirk | Dundee United | Hamilton Academical | Motherwell | Not The View; NTV; fanzine; Falkirk; 1987
+2 | opponents | Celtic beat Rangers 2-1 on 20 March 1988 in their centenary title run. Where was the game played? | Ibrox | Celtic Park | Hampden Park | Tynecastle | Rangers; 1987-88; centenary; Ibrox; Not The View
+4 | celtic-history | Not The View handed out about 6,000 of what at Ibrox in March 1988? | Red cards | Yellow cards | Green and white balloons | Paper hats | Not The View; NTV; fanzine; 1988; Ibrox
+4 | celtic-history | What did Not The View give out at Hampden for the 1988 Scottish Cup final, instead of a planned flexi-disc? | Green and white balloons | Red cards | Paper hats | Song sheets | Not The View; NTV; fanzine; 1988; Scottish Cup final
+2 | managers | Not The View commissioned a bust of which Celtic legend, only for the board to turn it down? | Jock Stein | Willie Maley | Jimmy McGrory | Billy McNeill | Not The View; NTV; Jock Stein; bust
+5 | celtic-history | Where was Not The View's bust of Jock Stein put on display after the board turned it down? | People's Palace | Kelvingrove Art Gallery | Scottish Football Museum | Glasgow City Chambers | Not The View; NTV; Jock Stein; People's Palace
+5 | managers | Who presented Not The View's bust of Jock Stein at the People's Palace? | Sean Fallon | Billy McNeill | Jim Craig | Bobby Lennox | Not The View; NTV; Jock Stein; Sean Fallon

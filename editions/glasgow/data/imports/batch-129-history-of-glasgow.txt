@@ -1,0 +1,22 @@
+# History of Glasgow. Source: https://en.wikipedia.org/wiki/History_of_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | history | In which year was Glasgow European City of Culture? | 1990 | 1988 | 1999 | 2003 | History of Glasgow; City of Culture
+2 | history | In which year did Glasgow host the Commonwealth Games? | 2014 | 2002 | 2010 | 2018 | History of Glasgow; Commonwealth Games
+2 | history | Which ancient Roman wall separated Britannia from Caledonia near Glasgow? | The Antonine Wall | Hadrian's Wall | The Gask Ridge | Offa's Dyke | History of Glasgow; Antonine Wall
+2 | history | In which month and year did the Clydebank Blitz take place? | March 1941 | September 1940 | May 1942 | June 1944 | History of Glasgow; Clydebank Blitz
+2 | history | In which year did the Scottish Reformation end Catholic rituals at Glasgow Cathedral? | 1560 | 1603 | 1451 | 1707 | History of Glasgow; Reformation
+3 | history | Which bishop founded the burgh of Glasgow? | Jocelin | William Turnbull | John Cameron | Robert Wishart | History of Glasgow; Jocelin
+3 | history | By 1760, Glasgow had overtaken which city as Britain's main tobacco port? | London | Bristol | Liverpool | Edinburgh | History of Glasgow; tobacco
+3 | history | Which war ended most of Glasgow's tobacco trade? | The American War of Independence | The Seven Years' War | The Napoleonic Wars | The Crimean War | History of Glasgow; tobacco
+3 | history | Which ancient kingdom was Glasgow part of after the Romans left? | Strathclyde | Dál Riata | Northumbria | Fortriu | History of Glasgow; Strathclyde
+3 | history | What was the capital of the Kingdom of Strathclyde? | Dumbarton | Govan | Paisley | Glasgow | History of Glasgow; Dumbarton
+3 | history | Which disastrous colonial scheme bankrupted Scotland in 1700? | The Darien scheme | The Nova Scotia venture | The Virginia Company | The South Sea Bubble | History of Glasgow; Darien
+3 | history | Which burn joins the Clyde at the ford where Glasgow was first settled? | The Molendinar Burn | The Camlachie Burn | The Kelvin | The Cart | History of Glasgow; Molendinar
+3 | history | By 1770 Glasgow had become Britain's largest manufacturer of what? | Linen | Wool | Silk | Lace | History of Glasgow; linen
+3 | history | Which Glasgow Corporation engineer produced the famous post-war report on rebuilding the city? | Robert Bruce | Patrick Abercrombie | Basil Spence | Robert Matthew | History of Glasgow; Bruce Report
+3 | history | What was the 1977 Glasgow Eastern Area Renewal initiative known as? | GEAR | GEAR-UP | EAST | REGEN | History of Glasgow; GEAR
+3 | history | Which police force was established in 1975 and merged into Police Scotland in 2013? | Strathclyde Police | City of Glasgow Police | Lanarkshire Constabulary | Clyde Police | History of Glasgow; Strathclyde Police
+4 | history | Who won West Fife in 1935 to become the only Communist Party MP? | Willie Gallacher | John Maclean | James Maxton | Manny Shinwell | History of Glasgow; Willie Gallacher
+4 | history | Glasgow's population grew from 32,000 in 1750 to about how many by 1850? | 200,000 | 80,000 | 500,000 | 1 million | History of Glasgow; population
+4 | history | Who laid out Glasgow's new grid of streets above Ingram Street in 1772? | James Barrie | Robert Adam | James Craig | William Young | History of Glasgow; grid
+4 | history | Which was the largest guild in Glasgow in 1604? | The Incorporation of Tailors | The Hammermen | The Weavers | The Maltmen | History of Glasgow; guilds

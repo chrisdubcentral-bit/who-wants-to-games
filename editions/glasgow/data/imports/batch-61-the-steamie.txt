@@ -1,0 +1,7 @@
+# The Steamie. Source: https://en.wikipedia.org/wiki/The_Steamie
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | art-culture | Who wrote the Glasgow play The Steamie? | Tony Roper | Ian Pattison | Liz Lochhead | John Byrne | The Steamie; Tony Roper
+2 | art-culture | On which night of the year is The Steamie set? | Hogmanay | Christmas Eve | Burns Night | Halloween | The Steamie; Hogmanay
+2 | art-culture | What is a "steamie", the setting of Tony Roper's play? | A public washhouse | A tea room | A railway station | A sauna | The Steamie
+3 | art-culture | Which theatre company first staged The Steamie in 1987? | Wildcat | 7:84 | TAG | Communicado | The Steamie; Wildcat
+4 | art-culture | In which year did The Steamie play six nights at Glasgow's SSE Hydro? | 2019 | 2015 | 2012 | 2022 | The Steamie; Hydro

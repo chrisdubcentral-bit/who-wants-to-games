@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "famous-glaswegians",
+    "difficulty": 1,
+    "question": "In which town was comedian Kevin Bridges born and raised?",
+    "options": [
+      "Motherwell",
+      "Clydebank",
+      "Paisley",
+      "Greenock"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Kevin Bridges",
+      "Clydebank"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "How many record-breaking sold-out nights did Kevin Bridges play at the Hydro on his 2018 tour?",
+    "options": [
+      "9",
+      "12",
+      "19",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Kevin Bridges",
+      "Hydro"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What was the name of Kevin Bridges' 2012 BBC One series based on his stand-up?",
+    "options": [
+      "The Story So Far",
+      "Bridges Over Glasgow",
+      "Kevin Live",
+      "Kevin Bridges: What's the Story?"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kevin Bridges",
+      "What's the Story?"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "On whose BBC One comedy show did Kevin Bridges make his TV debut in 2009?",
+    "options": [
+      "Live at the Apollo",
+      "Frankie Boyle's Show",
+      "Mock the Week",
+      "Michael McIntyre's Comedy Roadshow"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Kevin Bridges",
+      "Michael McIntyre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "What is the title of Kevin Bridges' 2022 novel?",
+    "options": [
+      "The Black Dog",
+      "A Whole Different Story",
+      "Clydebank Blues",
+      "The Story So Far"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Kevin Bridges",
+      "The Black Dog"
+    ],
+    "source": "manual"
+  }
+]

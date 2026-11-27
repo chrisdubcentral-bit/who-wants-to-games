@@ -1,0 +1,12 @@
+# Red Clydeside. Source: https://en.wikipedia.org/wiki/Red_Clydeside
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | Which rent strike leader was honoured with a statue in Govan in 2018? | Mary Barbour | Helen Crawfurd | Agnes Dollan | Jane Rae | Red Clydeside; Mary Barbour; rent strike
+2 | history | In which year did the famous Glasgow rent strike begin? | 1915 | 1919 | 1922 | 1911 | Red Clydeside; rent strike
+3 | history | Who led the Clyde Workers' Committee during Red Clydeside? | Willie Gallacher | James Maxton | John Wheatley | Manny Shinwell | Red Clydeside; Willie Gallacher
+3 | history | Workers at which Clydebank factory struck in 1911 in support of 12 women? | Singer | John Brown | Beardmore | Yarrow | Red Clydeside; Singer strike
+3 | history | At which general election did several Red Clydesiders win seats in the House of Commons? | 1922 | 1918 | 1929 | 1931 | Red Clydeside; 1922 election
+3 | history | How many tanks arrived in Glasgow in February 1919, after the George Square rally? | Six | Two | Twelve | Twenty | Red Clydeside; tanks; 1919
+3 | history | Who was jailed along with Willie Gallacher after the 1919 George Square events? | Manny Shinwell | John Maclean | James Maxton | Neil Maclean | Red Clydeside; Manny Shinwell
+4 | history | Which Clyde Workers' Committee treasurer was attacked leaving the City Chambers in 1919? | David Kirkwood | John Wheatley | George Buchanan | Arthur McManus | Red Clydeside; David Kirkwood
+4 | history | Where did the Women's Peace Crusade arise in November 1916? | Govan | Partick | Bridgeton | Clydebank | Red Clydeside; Women's Peace Crusade
+4 | history | Which man sacked after the 1911 Singer strike became first chairman of the Communist Party of Great Britain? | Arthur McManus | Willie Gallacher | John Maclean | James Maxton | Red Clydeside; Arthur McManus

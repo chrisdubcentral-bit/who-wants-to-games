@@ -1,0 +1,7 @@
+# 2013 Glasgow helicopter crash. Source: https://en.wikipedia.org/wiki/2013_Glasgow_helicopter_crash
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | Onto which Glasgow pub did a police helicopter crash in November 2013? | The Clutha | The Scotia Bar | The Horseshoe Bar | The Grove | Helicopter crash; Clutha
+3 | history | For which police force was the helicopter that crashed onto the Clutha operating? | Police Scotland | Strathclyde Police | The Met | British Transport Police | Helicopter crash; Police Scotland
+3 | history | On which Glasgow street is the Clutha pub? | Stockwell Street | Hope Street | Bath Street | Argyle Street | Helicopter crash; Clutha; Stockwell Street
+4 | history | Which Scottish public event was cancelled after the Clutha helicopter crash? | St Andrew's Day events in George Square | The Hogmanay street party | The Christmas lights switch-on | The Great Scottish Run | Helicopter crash; St Andrew's Day
+4 | history | Where was a temporary court set up for the 2019 inquiry into the Clutha helicopter crash? | Hampden Park | The SECC | Celtic Park | The Kelvin Hall | Helicopter crash; inquiry; Hampden

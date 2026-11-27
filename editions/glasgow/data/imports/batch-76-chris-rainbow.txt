@@ -1,0 +1,7 @@
+# Chris Rainbow. Source: https://en.wikipedia.org/wiki/Chris_Rainbow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | glasgow-bands | Glasgow singer Chris Rainbow sang with which progressive rock project from 1979? | The Alan Parsons Project | Yes | Genesis | The Moody Blues | Chris Rainbow; Alan Parsons Project
+3 | glasgow-bands | Why did Christopher Harley adopt the stage name Chris Rainbow? | To avoid confusion with Steve Harley | After a song title | His mother's maiden name | After a club in London | Chris Rainbow
+4 | glasgow-bands | Alan Parsons called Chris Rainbow a "One Man" version of which band? | The Beach Boys | The Beatles | The Hollies | The Bee Gees | Chris Rainbow; Beach Boys
+4 | glasgow-bands | Which Gaelic rock band's albums did Chris Rainbow produce under his birth name? | Runrig | Capercaillie | Big Country | Wolfstone | Chris Rainbow; Runrig
+5 | glasgow-bands | On which island did Chris Rainbow run the Vital Spark music studio? | Skye | Mull | Arran | Lewis | Chris Rainbow; Skye

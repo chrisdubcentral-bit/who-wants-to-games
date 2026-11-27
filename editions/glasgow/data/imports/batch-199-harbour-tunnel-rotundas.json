@@ -1,0 +1,207 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What are the circular brick towers at each end of the old Glasgow Harbour Tunnel known as?",
+    "options": [
+      "The Beehives",
+      "The Rotundas",
+      "The Cupolas",
+      "The Drums"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Harbour Tunnel",
+      "Rotunda"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "The North Rotunda of the Harbour Tunnel stands in which area?",
+    "options": [
+      "Partick",
+      "Finnieston",
+      "Yorkhill",
+      "Anderston"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Harbour Tunnel",
+      "Rotunda",
+      "Finnieston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "How many parallel tunnels made up the Glasgow Harbour Tunnel under the Clyde?",
+    "options": [
+      "Two",
+      "Four",
+      "Three",
+      "Six"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Harbour Tunnel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "The centre tunnel of the three Harbour Tunnels was used by whom?",
+    "options": [
+      "Pedestrians",
+      "Horse and cart traffic",
+      "Trams",
+      "Trains"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Harbour Tunnel",
+      "pedestrian tunnel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which year did the Glasgow Harbour Tunnel open?",
+    "options": [
+      "1926",
+      "1895",
+      "1912",
+      "1875"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Harbour Tunnel",
+      "1895"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which American company supplied the hydraulic hoists in the Harbour Tunnel's rotundas?",
+    "options": [
+      "Singer",
+      "Westinghouse",
+      "Otis Elevator Company",
+      "General Electric"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Harbour Tunnel",
+      "Otis",
+      "hydraulic lifts"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "During which holiday did the Harbour Tunnel open in July 1895?",
+    "options": [
+      "The Glasgow Fair",
+      "Easter",
+      "Hogmanay",
+      "The Trades holiday"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Harbour Tunnel",
+      "Glasgow Fair",
+      "1895"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "How much did Glasgow Corporation pay to take control of the Harbour Tunnel in 1926?",
+    "options": [
+      "£30,000",
+      "£1 million",
+      "£100,000",
+      "£500"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Harbour Tunnel",
+      "1926",
+      "Glasgow Corporation"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year were the Harbour Tunnel's two vehicle tunnels abandoned and the lifts removed?",
+    "options": [
+      "1932",
+      "1915",
+      "1926",
+      "1943"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Harbour Tunnel",
+      "1943"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "During the Glasgow Garden Festival, the South Rotunda briefly became a copy of which Largs ice cream parlour?",
+    "options": [
+      "Nardini's",
+      "Crolla's",
+      "Coia's",
+      "Equi's"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Harbour Tunnel",
+      "South Rotunda",
+      "Nardini's",
+      "Garden Festival"
+    ],
+    "source": "manual"
+  }
+]

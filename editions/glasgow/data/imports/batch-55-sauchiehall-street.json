@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "The name Sauchiehall comes from Scots words for a meadow full of which trees?",
+    "options": [
+      "Willows",
+      "Oaks",
+      "Birches",
+      "Rowans"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year was the first stretch of Sauchiehall Street pedestrianised?",
+    "options": [
+      "1985",
+      "1972",
+      "1958",
+      "1999"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Sauchiehall Street",
+      "pedestrianisation"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Sauchiehall Street theatre hosted Frank Sinatra and Judy Garland before closing in 1963?",
+    "options": [
+      "The Alhambra",
+      "The Pavilion",
+      "The Glasgow Empire",
+      "The Metropole"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Sauchiehall Street",
+      "Glasgow Empire"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which concert hall stands at the eastern end of Sauchiehall Street?",
+    "options": [
+      "The Old Fruitmarket",
+      "City Halls",
+      "The Usher Hall",
+      "Glasgow Royal Concert Hall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Sauchiehall Street",
+      "Royal Concert Hall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which hotel, built for the 1938 Empire Exhibition, was called Glasgow's first \"skyscraper\"?",
+    "options": [
+      "The Beresford",
+      "The Grand",
+      "The Central",
+      "The North British"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Sauchiehall Street",
+      "Beresford Hotel"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,7 @@
+# Camera Obscura. Source: https://en.wikipedia.org/wiki/Camera_Obscura_(band)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | glasgow-bands | Who is the singer and main songwriter of Glasgow band Camera Obscura? | Tracyanne Campbell | Isobel Campbell | Lauren Mayberry | Clare Grogan | Camera Obscura; Tracyanne Campbell
+3 | songs-albums | Camera Obscura's "Lloyd, I'm Ready to Be Heartbroken" answers a song by which band? | Lloyd Cole and the Commotions | The Smiths | Aztec Camera | Orange Juice | Camera Obscura; Lloyd Cole
+3 | film-tv | Which 2007 film used "Lloyd, I'm Ready to Be Heartbroken" in its opening credits? | P.S. I Love You | Juno | Love Actually | (500) Days of Summer | Camera Obscura; P.S. I Love You
+4 | glasgow-bands | Which Belle & Sebastian member produced two tracks on Camera Obscura's debut album? | Stuart Murdoch | Stevie Jackson | Chris Geddes | Stuart David | Camera Obscura; Stuart Murdoch
+4 | songs-albums | Which Camera Obscura album, released on 4AD in 2009, was their first UK Top 40 album? | My Maudlin Career | Let's Get Out of This Country | Desire Lines | Underachievers Please Try Harder | Camera Obscura; My Maudlin Career

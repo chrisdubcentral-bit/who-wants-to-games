@@ -1,0 +1,12 @@
+# Third Lanark A.C. Source: https://en.wikipedia.org/wiki/Third_Lanark_A.C.
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | What was the name of Third Lanark's home ground? | Cathkin Park | Shawfield | Firhill | Lesser Hampden | Third Lanark; Cathkin Park
+2 | sport | In which year did Third Lanark go out of business? | 1967 | 1957 | 1977 | 1986 | Third Lanark; 1967
+3 | sport | Third Lanark began as the football team of which organisation? | The 3rd Lanarkshire Rifle Volunteers | A Govan shipyard | Glasgow University | A Catholic church | Third Lanark; Rifle Volunteers
+3 | sport | Which nickname, supposedly from a crowd chant about a high kick, did Third Lanark have? | The Hi-Hi | The Jags | The Spiders | The Bully Wee | Third Lanark; Hi-Hi
+3 | sport | In which season did Third Lanark win their only Scottish League title? | 1903–04 | 1889–90 | 1923–24 | 1960–61 | Third Lanark; league title
+3 | sport | Which team beat Third Lanark in the 1959 League Cup final? | Hearts | Celtic | Rangers | Hibernian | Third Lanark; League Cup
+3 | sport | Which team beat Third Lanark 1–0 in the 1936 Scottish Cup final? | Rangers | Celtic | Aberdeen | Motherwell | Third Lanark; 1936 Scottish Cup final
+4 | sport | Third Lanark's 1921 North America tour was billed under which name? | Scotland XI | Glasgow Select | The Warriors | Lanark Rovers | Third Lanark; 1921 tour
+4 | sport | Third Lanark's last senior trophy was the 1963 Glasgow Cup, beating which team in the final? | Celtic | Rangers | Clyde | Partick Thistle | Third Lanark; Glasgow Cup
+4 | sport | Where did Third Lanark play their final game, losing 5–1 in 1967? | Boghead Park, Dumbarton | Cliftonhill | Somerset Park | Brockville | Third Lanark; final game

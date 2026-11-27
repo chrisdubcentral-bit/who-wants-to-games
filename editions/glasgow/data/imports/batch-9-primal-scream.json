@@ -1,0 +1,418 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "Who is the lead singer of Primal Scream?",
+    "options": [
+      "Alex Kapranos",
+      "Norman Blake",
+      "Bobby Gillespie",
+      "Jim Reid"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Primal Scream",
+      "Bobby Gillespie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which 1991 Primal Scream album won the first Mercury Music Prize?",
+    "options": [
+      "XTRMNTR",
+      "Vanishing Point",
+      "Riot City Blues",
+      "Screamadelica"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Primal Scream",
+      "Screamadelica",
+      "Mercury Prize"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Before concentrating on Primal Scream, Bobby Gillespie was the drummer in which band?",
+    "options": [
+      "Orange Juice",
+      "Teenage Fanclub",
+      "The Pastels",
+      "The Jesus and Mary Chain"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Primal Scream",
+      "Bobby Gillespie",
+      "The Jesus and Mary Chain"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which Primal Scream single, a 2006 UK No. 5, was their highest-charting?",
+    "options": [
+      "Loaded",
+      "Rocks",
+      "Country Girl",
+      "Kowalski"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Primal Scream",
+      "Country Girl",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which former Stone Roses bassist joined Primal Scream?",
+    "options": [
+      "Andy Rourke",
+      "Peter Hook",
+      "Paul Ryder",
+      "Gary \"Mani\" Mounfield"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Primal Scream",
+      "Mani",
+      "The Stone Roses"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which DJ remixed a Primal Scream track into the hit \"Loaded\"?",
+    "options": [
+      "Paul Oakenfold",
+      "Norman Cook",
+      "Andrew Weatherall",
+      "Andrew Innes"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Primal Scream",
+      "Loaded",
+      "Andrew Weatherall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "In which year were Primal Scream formed in Glasgow?",
+    "options": [
+      "1991",
+      "1987",
+      "1982",
+      "1977"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Primal Scream",
+      "formation"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Primal Scream took their name from a line in a song by which band?",
+    "options": [
+      "The Fall",
+      "The Stooges",
+      "Joy Division",
+      "The Cramps"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Primal Scream",
+      "band name",
+      "The Fall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Primal Scream single reached No. 7 in March 1994?",
+    "options": [
+      "Swastika Eyes",
+      "Kowalski",
+      "Jailbird",
+      "Rocks"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Primal Scream",
+      "Rocks",
+      "1994"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Primal Scream's \"Vanishing Point\" title track came from the soundtrack of which film?",
+    "options": [
+      "Trainspotting",
+      "Small Faces",
+      "Shallow Grave",
+      "The Acid House"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Primal Scream",
+      "Vanishing Point",
+      "Trainspotting"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which former My Bloody Valentine guitarist worked with Primal Scream from the late 1990s?",
+    "options": [
+      "Bilinda Butcher",
+      "Debbie Googe",
+      "Kevin Shields",
+      "Colm Ó Cíosóig"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Primal Scream",
+      "Kevin Shields",
+      "My Bloody Valentine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "What was the title of Primal Scream's debut album, released in 1987?",
+    "options": [
+      "Sonic Flower Groove",
+      "Velocity Girl",
+      "Give Out But Don't Give Up",
+      "Primal Scream"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Primal Scream",
+      "Sonic Flower Groove"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which guitarist, nicknamed \"Throb\", died in September 2014?",
+    "options": [
+      "Jim Beattie",
+      "Barrie Cadogan",
+      "Robert Young",
+      "Andrew Innes"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Primal Scream",
+      "Robert Young",
+      "Throb"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which supermodel sang \"Some Velvet Morning\" on Primal Scream's album Evil Heat?",
+    "options": [
+      "Jodie Kidd",
+      "Kate Moss",
+      "Naomi Campbell",
+      "Helena Christensen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Primal Scream",
+      "Evil Heat",
+      "Kate Moss"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which Primal Scream B-side appeared on the C86 compilation?",
+    "options": [
+      "Velocity Girl",
+      "Crystal Crescent",
+      "Gentle Tuesday",
+      "All Fall Down"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Primal Scream",
+      "Velocity Girl",
+      "C86"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Who formed Primal Scream with Bobby Gillespie in 1982?",
+    "options": [
+      "Jim Beattie",
+      "Andrew Innes",
+      "Martin Duffy",
+      "Robert Young"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Primal Scream",
+      "Jim Beattie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Which Manchester singer sang lead on \"Higher Than the Sun\" and \"Don't Fight It, Feel It\"?",
+    "options": [
+      "Beverley Knight",
+      "Rowetta",
+      "Denise Johnson",
+      "Sonya Madan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Primal Scream",
+      "Denise Johnson",
+      "Screamadelica"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which band was keyboardist Martin Duffy in before joining Primal Scream full time?",
+    "options": [
+      "The Weather Prophets",
+      "Felt",
+      "The Loft",
+      "The Jasmine Minks"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Primal Scream",
+      "Martin Duffy",
+      "Felt"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "What was Primal Scream's twelfth studio album, released in November 2024?",
+    "options": [
+      "More Light",
+      "Come Ahead",
+      "Chaosmosis",
+      "Beautiful Future"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Primal Scream",
+      "Come Ahead",
+      "2024"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "songs-albums",
+    "difficulty": 5,
+    "question": "Which 1999 Primal Scream single reached No. 22?",
+    "options": [
+      "Swastika Eyes",
+      "Accelerator",
+      "Kill All Hippies",
+      "Miss Lucifer"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Primal Scream",
+      "Swastika Eyes",
+      "XTRMNTR"
+    ],
+    "source": "manual"
+  }
+]

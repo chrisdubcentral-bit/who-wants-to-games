@@ -1,0 +1,203 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "What is the Glasgow Subway's famous nickname?",
+    "options": [
+      "The Glasgow Loop",
+      "The Tube",
+      "The Clockwork Orange",
+      "The Wee Train"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Subway",
+      "Clockwork Orange"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "How many stations does the Glasgow Subway have?",
+    "options": [
+      "15",
+      "10",
+      "25",
+      "20"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Subway",
+      "stations"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which year did the Glasgow Subway open?",
+    "options": [
+      "1935",
+      "1896",
+      "1902",
+      "1863"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Subway",
+      "1896"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What are the Glasgow Subway's two lines called?",
+    "options": [
+      "The Red and Blue Lines",
+      "The Inner Circle and Outer Circle",
+      "The East and West Lines",
+      "The North and South Loops"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Subway",
+      "Inner Circle",
+      "Outer Circle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "How were the Glasgow Subway's trains powered until 1935?",
+    "options": [
+      "By steam",
+      "By horses",
+      "By cable",
+      "By diesel"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Subway",
+      "cable"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What was the Glasgow Subway renamed in 1936, before SPT readopted \"Subway\" in 2003?",
+    "options": [
+      "The Clyde Line",
+      "The Glasgow Metro",
+      "The Glasgow Underground",
+      "The Circle Railway"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Subway",
+      "Underground"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which company built the Glasgow Subway's new driverless trains?",
+    "options": [
+      "Stadler",
+      "Siemens",
+      "Bombardier",
+      "Hitachi"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Subway",
+      "Stadler"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which monarch inaugurated the modernised Glasgow Subway in 1979?",
+    "options": [
+      "The Queen Mother",
+      "Queen Elizabeth II",
+      "King George VI",
+      "Prince Charles"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Glasgow Subway",
+      "1979"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "What was the Glasgow Subway's nickname before the 1970s trains, according to the article?",
+    "options": [
+      "The Clockwork Orange",
+      "The Rattler",
+      "The Wee Tube",
+      "The Shoogly Train"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Glasgow Subway",
+      "Shoogly Train"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Between which two stations is the Glasgow Subway's Broomloan Road depot?",
+    "options": [
+      "Partick and Kelvinhall",
+      "Bridge Street and West Street",
+      "Govan and Ibrox",
+      "Hillhead and Kelvinbridge"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Glasgow Subway",
+      "Broomloan depot"
+    ],
+    "source": "manual"
+  }
+]

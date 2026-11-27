@@ -1,0 +1,201 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "history",
+    "difficulty": 2,
+    "question": "Which Glasgow socialist was appointed Bolshevik consul in Scotland in 1918?",
+    "options": [
+      "Manny Shinwell",
+      "James Maxton",
+      "John Maclean",
+      "Willie Gallacher"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "John Maclean",
+      "Bolshevik consul"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "history",
+    "difficulty": 2,
+    "question": "What was John Maclean's profession?",
+    "options": [
+      "Shipwright",
+      "Schoolteacher",
+      "Lawyer",
+      "Minister"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Maclean"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which area of Glasgow was John Maclean born in 1879?",
+    "options": [
+      "Pollokshaws",
+      "Partick",
+      "Bridgeton",
+      "Govan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Maclean",
+      "Pollokshaws"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which prison near Aberdeen was John Maclean held after his 1918 sedition trial?",
+    "options": [
+      "Peterhead",
+      "Perth",
+      "Craiginches",
+      "Barlinnie"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Maclean",
+      "Peterhead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Who wrote \"The John Maclean March\"?",
+    "options": [
+      "Hugh MacDiarmid",
+      "Hamish Henderson",
+      "Matt McGinn",
+      "Ewan MacColl"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Maclean",
+      "Hamish Henderson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which party did John Maclean found in 1923?",
+    "options": [
+      "The Communist Party of Great Britain",
+      "The Scottish Workers Republican Party",
+      "The Independent Labour Party",
+      "The Scottish National Party"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "John Maclean",
+      "Scottish Workers Republican Party"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which Russian revolutionary called John Maclean one of the \"isolated heroes\" of world revolution?",
+    "options": [
+      "Lenin",
+      "Stalin",
+      "Trotsky",
+      "Kerensky"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "John Maclean",
+      "Lenin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Roughly how long did John Maclean's famous \"Speech from the Dock\" last?",
+    "options": [
+      "10 minutes",
+      "30 minutes",
+      "3 hours",
+      "75 minutes"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Maclean",
+      "Speech from the Dock"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Which country issued a postage stamp in 1979 for John Maclean's centenary?",
+    "options": [
+      "East Germany",
+      "Ireland",
+      "The USSR",
+      "Cuba"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "John Maclean",
+      "stamp"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which constituency did John Maclean stand as Labour candidate in 1918?",
+    "options": [
+      "Glasgow Shettleston",
+      "Glasgow Bridgeton",
+      "Glasgow Govan",
+      "Glasgow Gorbals"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "John Maclean",
+      "1918 election"
+    ],
+    "source": "manual"
+  }
+]

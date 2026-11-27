@@ -1,0 +1,32 @@
+# Glasgow's East End. Source: https://www.visitglasgow.com/neighbourhoods/east-end
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | Which Victorian garden cemetery overlooks Glasgow Cathedral? | The Necropolis | The Southern Necropolis | Sighthill Cemetery | Cathcart Cemetery | East End; Necropolis; Cathedral
+2 | history | Which building does Visit Glasgow call the oldest house in Glasgow? | Provand's Lordship | Pollok House | The Tenement House | Hutchesons' Hall | East End; Provand's Lordship
+3 | history | Provand's Lordship shows life in Glasgow roughly how many years ago? | About 500 | About 200 | About 300 | About 800 | East End; Provand's Lordship
+3 | history | What kind of garden does Provand's Lordship have? | A medicinal garden | A rose garden | A Japanese garden | A walled vegetable garden | East End; Provand's Lordship
+2 | art-culture | Which museum near Glasgow Cathedral explores the role of religion in people's lives? | St Mungo Museum of Religious Life and Art | The People's Palace | Kelvingrove Art Gallery | The Hunterian | East End; St Mungo Museum
+2 | landmarks | How much does it cost to visit the Cathedral, Necropolis, Provand's Lordship and St Mungo Museum? | Nothing: all are free | £5 each | £10 for all four | £2 each | East End; Cathedral Precinct
+1 | venues-gigs | Which East End venue does Visit Glasgow call the city's most legendary music venue? | Barrowland Ballroom | King Tut's | The Hydro | Saint Luke's | East End; Barrowland
+1 | food-drink | When is the Barras Market open? | Every weekend | Weekdays only | Fridays only | The first Sunday of the month | East End; Barras
+3 | food-drink | What are the Barras Market's opening hours? | 10am to 4pm | 8am to noon | 9am to 6pm | 11am to 8pm | East End; Barras
+3 | food-drink | Which Mexican food stall trades at the Barras Market? | Alma Mexicana | Taco Mazama | Topolabamba | Pinto | East End; Barras; Alma Mexicana
+2 | food-drink | Which brewer's East End mural reads "Turning Rain into Beer Since 1885"? | Tennent's | Drygate | WEST | Belhaven | East End; Tennent's; mural
+3 | history | Which East End hospital has a museum about its history and global impact? | Glasgow Royal Infirmary | Western Infirmary | Victoria Infirmary | Southern General | East End; Glasgow Royal Infirmary
+2 | food-drink | What does Visit Glasgow call Glickman's Confectionery? | Glasgow's oldest sweet shop | Glasgow's biggest bakery | Glasgow's oldest chip shop | Glasgow's first ice cream parlour | East End; Glickman's
+4 | art-culture | Which Mackintosh work in the Necropolis is believed to be his first recorded work? | A Celtic cross | A stained glass window | A mausoleum | A cast-iron gate | East End; Necropolis; Mackintosh
+3 | venues-gigs | The Winged Ox Bar & Kitchen and the Saint Luke's venue are in a former what? | 19th-century church | Victorian bathhouse | Tram depot | Carpet factory | East End; Saint Luke's; Winged Ox
+3 | food-drink | Which East End café is an award winner for brunch and pizza slices? | Scran + Roadie | Tibo | Mesa | Zennor | East End; Scran + Roadie
+3 | food-drink | Van Winkle in the East End claims Glasgow's largest selection of which spirit? | Bourbon | Rum | Gin | Tequila | East End; Van Winkle
+2 | food-drink | Which three breweries make up the East End's "brewery triangle"? | Tennent's, Drygate and WEST | Tennent's, BrewDog and Drygate | Drygate, WEST and Shilling | WEST, Tennent's and Belhaven | East End; brewery triangle
+4 | food-drink | How many rotating taps does Drygate have? | 26 | 12 | 18 | 40 | East End; Drygate
+3 | food-drink | WEST Brewery makes beers in which country's style? | German | Belgian | Czech | American | East End; WEST Brewery
+3 | food-drink | La Bodega in Dennistoun is a family-owned café serving food from which country? | Venezuela | Mexico | Spain | Argentina | East End; Dennistoun; La Bodega
+4 | food-drink | What is Tibo in Dennistoun known for? | Philly cheesestack toasties | Neapolitan pizza | Venezuelan arepas | Sourdough sandwiches | East End; Dennistoun; Tibo
+2 | landmarks | Which park does Visit Glasgow call the city's newest, on a former industrial site? | Cuningar Loop | Tollcross Park | Alexandra Park | Glasgow Green | East End; Cuningar Loop
+3 | art-culture | The Album Pathway in Barrowland Park lists bands who have played the Barrowland since which year? | 1983 | 1960 | 1975 | 1990 | East End; Album Pathway; Barrowland Park
+4 | art-culture | Which Turner Prize nominee created the Album Pathway at Barrowland Park? | Jim Lambie | Douglas Gordon | Martin Boyce | Simon Starling | East End; Album Pathway; Jim Lambie
+2 | art-culture | On which street is the St Mungo mural, one of the UK's most Instagrammed murals? | High Street | Duke Street | Gallowgate | London Road | East End; St Mungo mural
+3 | art-culture | Which independent gallery in the East End shows emerging and established artists? | David Dale Gallery | Transmission | The Modern Institute | Street Level Photoworks | East End; David Dale Gallery
+2 | sport | Which velodrome sits next to the Glasgow International Arena? | Sir Chris Hoy Velodrome | Meadowbank Velodrome | Manchester Velodrome | Lee Valley VeloPark | East End; Sir Chris Hoy Velodrome
+3 | sport | The East End's sports venues are a legacy of the 2014 Commonwealth Games and which 2023 event? | The UCI Cycling World Championships | The European Athletics Championships | The Rugby World Cup | The World Swimming Championships | East End; 2023 UCI Cycling World Championships
+1 | sport | Which football club's East End stadium offers stadium tours? | Celtic | Rangers | Partick Thistle | Queen's Park | East End; Celtic Park

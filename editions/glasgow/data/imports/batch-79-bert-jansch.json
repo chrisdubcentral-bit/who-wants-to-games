@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which folk band did Glasgow-born guitarist Bert Jansch co-found in 1968?",
+    "options": [
+      "Steeleye Span",
+      "Pentangle",
+      "The Incredible String Band",
+      "Fairport Convention"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bert Jansch",
+      "Pentangle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which Led Zeppelin track was based on Bert Jansch's arrangement of \"Blackwaterside\"?",
+    "options": [
+      "Black Mountain Side",
+      "Tangerine",
+      "Going to California",
+      "Bron-Yr-Aur"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Bert Jansch",
+      "Led Zeppelin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which Glasgow hospital was Bert Jansch born in 1943?",
+    "options": [
+      "The Southern General",
+      "Glasgow Royal Infirmary",
+      "The Western Infirmary",
+      "Stobhill Hospital"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bert Jansch",
+      "Stobhill"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "Bert Jansch's \"Needle of Death\" is a lament warning against what?",
+    "options": [
+      "Drink",
+      "Drugs",
+      "Gambling",
+      "War"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bert Jansch",
+      "Needle of Death"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Which guitarist did Bert Jansch record the 1966 album \"Bert and John\" with?",
+    "options": [
+      "John Paul Jones",
+      "John Renbourn",
+      "John Martyn",
+      "John McLaughlin"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bert Jansch",
+      "John Renbourn"
+    ],
+    "source": "manual"
+  }
+]

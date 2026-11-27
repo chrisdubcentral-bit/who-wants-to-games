@@ -1,0 +1,201 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Castlemilk lies next to which town on Glasgow's southern edge?",
+    "options": [
+      "Paisley",
+      "Rutherglen",
+      "East Kilbride",
+      "Barrhead"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Castlemilk",
+      "Rutherglen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which decade was the Castlemilk housing scheme developed?",
+    "options": [
+      "1970s",
+      "1950s",
+      "1920s",
+      "1980s"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Castlemilk"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which family owned the Castlemilk estate until the 1930s?",
+    "options": [
+      "The Maxwells",
+      "The Campbells",
+      "The Stewarts",
+      "The Hamiltons"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Castlemilk",
+      "Stewarts"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What was the Castlemilk estate called before the Stewarts moved the name there in 1579?",
+    "options": [
+      "Cassiltoun",
+      "Carmunnock",
+      "Croftfoot",
+      "Kingspark"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Castlemilk",
+      "Cassiltoun"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Castlemilk was one of Glasgow's \"big four\" peripheral schemes, along with Pollok, Easterhouse and which other?",
+    "options": [
+      "Drumchapel",
+      "Possilpark",
+      "Castlemilk East",
+      "Toryglen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Castlemilk",
+      "big four"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Who became Glasgow's first City Architect in 1951 and designed Castlemilk's tower blocks?",
+    "options": [
+      "Basil Spence",
+      "Robert Bruce",
+      "Robert Matthew",
+      "Archibald Jury"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Castlemilk",
+      "Archibald Jury"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "What is the name of Castlemilk's only pub, in the arcade?",
+    "options": [
+      "The Oasis",
+      "The Clansman",
+      "The Milk Bar",
+      "The Castle"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Castlemilk",
+      "The Oasis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Roughly how many people was Castlemilk built to house?",
+    "options": [
+      "10,000",
+      "120,000",
+      "34,000",
+      "80,000"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Castlemilk",
+      "population"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which Simple Minds bassist is listed as a notable Castlemilk resident?",
+    "options": [
+      "Mick MacNeil",
+      "Mel Gaynor",
+      "Derek Forbes",
+      "Charlie Burchill"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Castlemilk",
+      "Derek Forbes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "Which Castlemilk minister became Moderator of the Church of Scotland in 2001?",
+    "options": [
+      "Rev. John D. Miller",
+      "Rev. Andrew McLellan",
+      "Rev. Richard Holloway",
+      "Rev. Ian Paisley"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Castlemilk",
+      "John Miller"
+    ],
+    "source": "manual"
+  }
+]

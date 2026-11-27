@@ -1,0 +1,7 @@
+# The Bluebells. Source: https://en.wikipedia.org/wiki/The_Bluebells
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | songs-albums | Which Bluebells song became a UK No. 1 in 1993 after featuring in a TV advert? | Young at Heart | I'm Falling | Cath | Sugar Bridge | The Bluebells; Young at Heart; 1993
+2 | songs-albums | Which car maker's 1993 TV advert sent the Bluebells' "Young at Heart" back up the charts? | Volkswagen | Ford | Renault | Vauxhall | The Bluebells; Young at Heart; Volkswagen
+3 | songs-albums | Siobhan Fahey of which band co-wrote "Young at Heart" with Bobby Bluebell? | Bananarama | Shakespears Sister | The Belle Stars | Strawberry Switchblade | The Bluebells; Young at Heart; Siobhan Fahey; Bananarama
+3 | film-tv | In which BBC Scotland sitcom did the Bluebells perform "Young at Heart" in 2019? | Still Game | Two Doors Down | Rab C. Nesbitt | Gary: Tank Commander | The Bluebells; Still Game; 2019
+4 | glasgow-bands | Bluebells bassist Lawrence Donegan left to join which band before their chart success? | Lloyd Cole and the Commotions | Aztec Camera | Orange Juice | Deacon Blue | The Bluebells; Lawrence Donegan; Lloyd Cole and the Commotions

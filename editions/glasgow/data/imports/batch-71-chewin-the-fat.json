@@ -1,0 +1,202 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "What does lighthouse keeper Duncan say to Malcolm in Chewin' the Fat?",
+    "options": [
+      "Ah can dae that",
+      "See you, Jimmy",
+      "Gonnae no dae that?",
+      "Away and bile yer heid"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Chewin' the Fat",
+      "Gonnae no dae that"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Which Chewin' the Fat character always says \"Ah can dae that\"?",
+    "options": [
+      "The Big Man",
+      "Ronald Villiers",
+      "Big Jock",
+      "Rab McGlinchy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Chewin' the Fat",
+      "Ronald Villiers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actress starred in Chewin' the Fat alongside Ford Kiernan and Greg Hemphill?",
+    "options": [
+      "Jane McCarry",
+      "Elaine C. Smith",
+      "Kate Donnelly",
+      "Karen Dunbar"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Chewin' the Fat",
+      "Karen Dunbar"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Chewin' the Fat began on which station before moving to TV?",
+    "options": [
+      "Radio Clyde",
+      "BBC Radio Scotland",
+      "Radio Forth",
+      "BBC Radio 4"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Chewin' the Fat",
+      "BBC Radio Scotland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "How many TV series of Chewin' the Fat were made?",
+    "options": [
+      "Four",
+      "Two",
+      "Six",
+      "Eight"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Chewin' the Fat"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "On which fictional island do Chewin' the Fat's lighthouse keepers live?",
+    "options": [
+      "Toder",
+      "Inchmurrin",
+      "Craiglang",
+      "Aonoch Mor"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Chewin' the Fat",
+      "Aonoch Mor"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What job do Chewin' the Fat's Tony and Wullie do while stealing from clients?",
+    "options": [
+      "Window cleaners",
+      "Painters and decorators",
+      "Removal men",
+      "Plumbers"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Chewin' the Fat",
+      "Tony and Wullie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What is the QVC parody shopping channel in Chewin' the Fat called?",
+    "options": [
+      "QTV",
+      "Bargain Bin TV",
+      "ShopScot",
+      "QSC"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Chewin' the Fat",
+      "QSC"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which Chewin' the Fat sketch parodied Star Trek with a crew from Dundee?",
+    "options": [
+      "The Final Frontier",
+      "Taysiders in Space",
+      "Dundee Voyager",
+      "Star Trek: Tayside"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Chewin' the Fat",
+      "Taysiders in Space"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which Gaelic children's show do Chewin' the Fat's sock puppets Sluich parody?",
+    "options": [
+      "Bìdeasan",
+      "Dòtaman",
+      "Balamory",
+      "Machair"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Chewin' the Fat",
+      "Sluich",
+      "Dòtaman"
+    ],
+    "source": "manual"
+  }
+]

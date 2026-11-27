@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "Frankie Boyle was a regular on which BBC panel show from its first episode in 2005?",
+    "options": [
+      "Have I Got News for You",
+      "QI",
+      "Never Mind the Buzzcocks",
+      "Mock the Week"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Frankie Boyle",
+      "Mock the Week"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What was the name of Frankie Boyle's BBC Two chat show that began in 2017?",
+    "options": [
+      "Frankie Boyle's New World Order",
+      "Frankie Tonight",
+      "Boyle Point",
+      "The Frankie Boyle Show"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Frankie Boyle",
+      "New World Order"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What was Frankie Boyle's 2010 Channel 4 sketch show called?",
+    "options": [
+      "Tramadol Nights",
+      "Frankie's Lot",
+      "Boyle Over",
+      "Deal With This"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Frankie Boyle",
+      "Tramadol Nights"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What is the title of Frankie Boyle's 2022 crime novel set in Glasgow?",
+    "options": [
+      "Lap of Shame",
+      "Morons",
+      "Full Power",
+      "Meantime"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Frankie Boyle",
+      "Meantime"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "At which English university did Frankie Boyle study English literature?",
+    "options": [
+      "Aston",
+      "Sussex",
+      "Leeds",
+      "Warwick"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Frankie Boyle",
+      "Sussex"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,634 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "At which Glasgow venue did the Stone Roses play in June 1989?",
+    "options": [
+      "Rooftops",
+      "The QMU",
+      "The Barrowland",
+      "King Tut's"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stone Roses",
+      "Rooftops",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "In which year did the Stone Roses play Glasgow Green?",
+    "options": [
+      "1995",
+      "1992",
+      "1990",
+      "1989"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Stone Roses",
+      "Glasgow Green",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "In which year did New Order play the SECC?",
+    "options": [
+      "1986",
+      "1993",
+      "1997",
+      "1989"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "New Order",
+      "SECC",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which Washington DC band played The Mayfair in November 1989?",
+    "options": [
+      "Minor Threat",
+      "Jawbox",
+      "Bad Brains",
+      "Fugazi"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Fugazi",
+      "The Mayfair",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which band, led by Sonic Boom and Jason Pierce, played Fury Murrys in February 1989?",
+    "options": [
+      "Loop",
+      "Spacemen 3",
+      "The Telescopes",
+      "Spectrum"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Spacemen 3",
+      "Fury Murrys",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "At which Glasgow college did My Bloody Valentine play in April 1990?",
+    "options": [
+      "Langside College",
+      "Stow College",
+      "College of Building & Printing",
+      "Glasgow Tech"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "My Bloody Valentine",
+      "College of Building & Printing",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which Oxford band played Glasgow Tech in February 1990?",
+    "options": [
+      "Radiohead",
+      "Ride",
+      "Supergrass",
+      "Swervedriver"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ride",
+      "Glasgow Tech",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Who supported Loop at Glasgow Tech in February 1990?",
+    "options": [
+      "The Telescopes",
+      "Spacemen 3",
+      "Cranes",
+      "World Domination Enterprises"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Loop",
+      "Glasgow Tech",
+      "World Domination Enterprises",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which band played the Plaza Ballroom in April 1993?",
+    "options": [
+      "Elastica",
+      "Suede",
+      "Pulp",
+      "Blur"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Suede",
+      "Plaza Ballroom",
+      "1993"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which band played The Cathouse in May 1992?",
+    "options": [
+      "Ride",
+      "Swervedriver",
+      "Slowdive",
+      "Lush"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Swervedriver",
+      "The Cathouse",
+      "1992"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which Glasgow band played the Plaza Ballroom in July 1991?",
+    "options": [
+      "Teenage Fanclub",
+      "Jesus and Mary Chain",
+      "The Soup Dragons",
+      "Primal Scream"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Primal Scream",
+      "Plaza Ballroom",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which Beach Boy played the Clyde Auditorium (the Armadillo) in January 2002?",
+    "options": [
+      "Brian Wilson",
+      "Mike Love",
+      "Carl Wilson",
+      "Al Jardine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Brian Wilson",
+      "Armadillo",
+      "2002"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which French duo played the Old Fruitmarket in November 1998?",
+    "options": [
+      "Daft Punk",
+      "Phoenix",
+      "Air",
+      "Justice"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Air",
+      "Fruitmarket",
+      "1998"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "On which floating venue did The Fall play in 2004 and again in 2009?",
+    "options": [
+      "The Tuxedo Princess",
+      "The Glenlee",
+      "The Renfrew Ferry",
+      "The Waverley"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Fall",
+      "Renfrew Ferry"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which reggae singer played the Renfrew Ferry in March 2006?",
+    "options": [
+      "Gregory Isaacs",
+      "Burning Spear",
+      "Max Romeo",
+      "Lee \"Scratch\" Perry"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Max Romeo",
+      "Renfrew Ferry",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which reggae singer played The Arches in November 2006?",
+    "options": [
+      "Max Romeo",
+      "Horace Andy",
+      "Gregory Isaacs",
+      "Dennis Brown"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Horace Andy",
+      "The Arches",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Who supported Johnny Clarke at King Tut's during the Triptych festival in 2002?",
+    "options": [
+      "Max Romeo",
+      "U-Roy",
+      "Horace Andy",
+      "Dennis Alcapone"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Johnny Clarke",
+      "King Tut's",
+      "Dennis Alcapone",
+      "Triptych",
+      "2002"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "In which year did Arctic Monkeys play the Hydro?",
+    "options": [
+      "2013",
+      "2018",
+      "2015",
+      "2011"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Arctic Monkeys",
+      "Hydro",
+      "2013"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which Manchester band played the Hydro in April 2014?",
+    "options": [
+      "Doves",
+      "Elbow",
+      "James",
+      "The Courteeners"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Elbow",
+      "Hydro",
+      "2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which post-punk band played The Arches in September 2008?",
+    "options": [
+      "The Fall",
+      "Wire",
+      "Magazine",
+      "Gang of Four"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Wire",
+      "The Arches",
+      "2008"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which Sonic Youth guitarist played a solo gig at The Arches in November 2011?",
+    "options": [
+      "Lee Ranaldo",
+      "Thurston Moore",
+      "Kim Gordon",
+      "Steve Shelley"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Thurston Moore",
+      "The Arches",
+      "2011"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which former Pavement frontman played The Arches in November 2011?",
+    "options": [
+      "Stephen Malkmus",
+      "Scott Kannberg",
+      "Bob Nastanovich",
+      "Mark Ibold"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Stephen Malkmus",
+      "The Arches",
+      "2011"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which Californian band played the ABC in August 2012?",
+    "options": [
+      "Mercury Rev",
+      "Band of Horses",
+      "Grandaddy",
+      "The Shins"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Grandaddy",
+      "ABC",
+      "2012"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Where did Wilco play in Glasgow in October 2011?",
+    "options": [
+      "The Academy",
+      "The Royal Concert Hall",
+      "The Barrowland",
+      "The ABC"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Wilco",
+      "Concert Hall",
+      "2011"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "At which outdoor venue did Belle & Sebastian play in July 2014?",
+    "options": [
+      "Kelvingrove Bandstand",
+      "Bellahouston Park",
+      "Queen's Park",
+      "Glasgow Green"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Belle and Sebastian",
+      "Kelvingrove Bandstand",
+      "2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "At which college venue did Teenage Fanclub play in June 1991?",
+    "options": [
+      "Glasgow Tech",
+      "Stow College",
+      "Strathclyde Union",
+      "The QMU"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Teenage Fanclub",
+      "Glasgow Tech",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which comedian played Strathclyde Union in October 1990?",
+    "options": [
+      "Vic Reeves",
+      "Frank Skinner",
+      "Harry Enfield",
+      "Rik Mayall"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Vic Reeves",
+      "Strathclyde Union",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which David Berman band played the Tramway in April 2006?",
+    "options": [
+      "Smog",
+      "Silver Jews",
+      "Pavement",
+      "Lambchop"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Silver Jews",
+      "Tramway",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which Scottish dance band played The Arches in May 1993?",
+    "options": [
+      "The Shamen",
+      "Slam",
+      "Primal Scream",
+      "One Dove"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "One Dove",
+      "The Arches",
+      "1993"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which band played the Barrowland in April 1991, the year \"Move Any Mountain\" came out?",
+    "options": [
+      "Utah Saints",
+      "The Shamen",
+      "KLF",
+      "808 State"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Shamen",
+      "Barrowland",
+      "1991"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What were the Tuxedo Princess and Tuxedo Royale before becoming floating nightclubs?",
+    "options": [
+      "Paddle steamers",
+      "Warships",
+      "Car ferries",
+      "Cruise liners"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Tuxedo Princess",
+      "floating nightclub"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What was the Tuxedo Princess's original ferry name?",
+    "options": [
+      "Clyde Princess",
+      "Caledonian Princess",
+      "Royal Scotsman",
+      "Queen of the Isles"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tuxedo Princess",
+      "Caledonian Princess"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "On which river was the Tuxedo Princess moored for most of its life?",
+    "options": [
+      "The Clyde",
+      "The Tyne",
+      "The Thames",
+      "The Tees"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Tuxedo Princess",
+      "Tyne"
+    ],
+    "source": "manual"
+  }
+]

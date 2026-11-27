@@ -1,0 +1,7 @@
+# Partick. Source: https://en.wikipedia.org/wiki/Partick
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | In which year was Partick incorporated into the city of Glasgow? | 1912 | 1846 | 1891 | 1926 | Partick; burgh
+3 | history | The name Partick comes from a Cumbric word meaning what? | Bush or thicket | Green hollow | River ford | Smith's town | Partick; name
+3 | history | Which Scottish king granted the lands of "Perdyc" (Partick) to the see of Glasgow in 1136? | David I | Malcolm III | Alexander I | William the Lion | Partick; David I
+3 | landmarks | Which cricket club plays at Hamilton Crescent in Partick? | West of Scotland Cricket Club | Clydesdale | Poloc | Uddingston | Partick; Hamilton Crescent
+4 | landmarks | What was Partick Central railway station renamed in 1959? | Kelvin Hall | Partick West | Byres Road | Merkland Street | Partick; Kelvin Hall station

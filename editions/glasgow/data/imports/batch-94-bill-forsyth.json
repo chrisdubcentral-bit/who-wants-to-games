@@ -1,0 +1,104 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which Hollywood legend starred in Bill Forsyth's 1983 film Local Hero?",
+    "options": [
+      "Kirk Douglas",
+      "Gregory Peck",
+      "Burt Lancaster",
+      "Paul Newman"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Bill Forsyth",
+      "Local Hero",
+      "Burt Lancaster"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "What was the title of Bill Forsyth's 1999 sequel to Gregory's Girl?",
+    "options": [
+      "Gregory Grows Up",
+      "Gregory's Girl 2",
+      "Return of Gregory",
+      "Gregory's Two Girls"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bill Forsyth",
+      "Gregory's Two Girls"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "What was Bill Forsyth's first feature film, made in 1979 with youth theatre actors?",
+    "options": [
+      "Gregory's Girl",
+      "Local Hero",
+      "Comfort and Joy",
+      "That Sinking Feeling"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Bill Forsyth",
+      "That Sinking Feeling"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which Hollywood star led Bill Forsyth's 1994 film Being Human?",
+    "options": [
+      "Bill Murray",
+      "Robin Williams",
+      "Tom Hanks",
+      "Burt Reynolds"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Bill Forsyth",
+      "Being Human",
+      "Robin Williams"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which Glasgow secondary school did director Bill Forsyth leave at 17?",
+    "options": [
+      "Shawlands Academy",
+      "Whitehill Secondary",
+      "Knightswood Secondary",
+      "Hillhead High"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Bill Forsyth",
+      "Knightswood"
+    ],
+    "source": "manual"
+  }
+]

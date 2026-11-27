@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In which Beatles film did Ivor Cutler play Buster Bloodvessel?",
+    "options": [
+      "Help!",
+      "A Hard Day's Night",
+      "Yellow Submarine",
+      "Magical Mystery Tour"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ivor Cutler",
+      "Magical Mystery Tour"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "In which area of Glasgow was Ivor Cutler born in 1923?",
+    "options": [
+      "Dennistoun",
+      "Partick",
+      "Gorbals",
+      "Govan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Ivor Cutler",
+      "Govan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "Which instrument did Ivor Cutler often play in live performances?",
+    "options": [
+      "Bagpipes",
+      "Ukulele",
+      "Harmonium",
+      "Accordion"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ivor Cutler",
+      "harmonium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which DJ recorded many sessions with Ivor Cutler from 1969?",
+    "options": [
+      "Jimmy Young",
+      "John Peel",
+      "Kenny Everett",
+      "Tony Blackburn"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Ivor Cutler",
+      "John Peel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "What is the title of Ivor Cutler's album and book about a Scottish home?",
+    "options": [
+      "Up a Close",
+      "Glasgow Dreams",
+      "Life in a Scotch Sitting Room",
+      "A Wet Day in Govan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Ivor Cutler",
+      "Life in a Scotch Sitting Room"
+    ],
+    "source": "manual"
+  }
+]

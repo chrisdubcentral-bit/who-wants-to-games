@@ -1,0 +1,12 @@
+# Robbie Coltrane. Source: https://en.wikipedia.org/wiki/Robbie_Coltrane
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which Harry Potter character did Robbie Coltrane play? | Hagrid | Dumbledore | Filch | Slughorn | Robbie Coltrane; Hagrid
+2 | film-tv | Which criminal psychologist did Robbie Coltrane play in Cracker? | Fitz | Taggart | Rebus | Frost | Robbie Coltrane; Cracker; Fitz
+2 | film-tv | Robbie Coltrane took his stage name in tribute to which jazz musician? | John Coltrane | Miles Davis | Charlie Parker | Louis Armstrong | Robbie Coltrane; John Coltrane
+2 | famous-glaswegians | In which town was Robbie Coltrane born? | Rutherglen | Paisley | Hamilton | Cumbernauld | Robbie Coltrane; Rutherglen
+3 | famous-glaswegians | What was Robbie Coltrane's real name? | Anthony Robin McMillan | Robert Coltrane Howie | Robin Anthony Baxter | Anthony McMillan Ross | Robbie Coltrane
+3 | film-tv | Which Bond character did Robbie Coltrane play in GoldenEye and The World Is Not Enough? | Valentin Zukovsky | Jack Wade | Boris Grishenko | General Ourumov | Robbie Coltrane; James Bond
+3 | film-tv | Robbie Coltrane starred with Emma Thompson in which 1987 BBC drama? | Tutti Frutti | Your Cheatin' Heart | Takin' Over the Asylum | The Steamie | Robbie Coltrane; Tutti Frutti
+3 | film-tv | Robbie Coltrane co-starred with which Monty Python member in Nuns on the Run? | Eric Idle | John Cleese | Michael Palin | Terry Jones | Robbie Coltrane; Nuns on the Run
+3 | film-tv | Which Gruffalo character did Robbie Coltrane voice in 2009? | The Gruffalo | The Mouse | The Fox | The Owl | Robbie Coltrane; The Gruffalo
+4 | film-tv | How many years in a row did Robbie Coltrane win the BAFTA TV Best Actor award for Cracker? | Three | Two | Four | Five | Robbie Coltrane; BAFTA; Cracker

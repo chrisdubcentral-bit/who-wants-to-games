@@ -1,0 +1,108 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which Bluebells song became a UK No. 1 in 1993 after featuring in a TV advert?",
+    "options": [
+      "Sugar Bridge",
+      "Cath",
+      "I'm Falling",
+      "Young at Heart"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Bluebells",
+      "Young at Heart",
+      "1993"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which car maker's 1993 TV advert sent the Bluebells' \"Young at Heart\" back up the charts?",
+    "options": [
+      "Volkswagen",
+      "Vauxhall",
+      "Ford",
+      "Renault"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Bluebells",
+      "Young at Heart",
+      "Volkswagen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Siobhan Fahey of which band co-wrote \"Young at Heart\" with Bobby Bluebell?",
+    "options": [
+      "The Belle Stars",
+      "Bananarama",
+      "Shakespears Sister",
+      "Strawberry Switchblade"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Bluebells",
+      "Young at Heart",
+      "Siobhan Fahey",
+      "Bananarama"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which BBC Scotland sitcom did the Bluebells perform \"Young at Heart\" in 2019?",
+    "options": [
+      "Gary: Tank Commander",
+      "Still Game",
+      "Rab C. Nesbitt",
+      "Two Doors Down"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Bluebells",
+      "Still Game",
+      "2019"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Bluebells bassist Lawrence Donegan left to join which band before their chart success?",
+    "options": [
+      "Lloyd Cole and the Commotions",
+      "Orange Juice",
+      "Deacon Blue",
+      "Aztec Camera"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Bluebells",
+      "Lawrence Donegan",
+      "Lloyd Cole and the Commotions"
+    ],
+    "source": "manual"
+  }
+]

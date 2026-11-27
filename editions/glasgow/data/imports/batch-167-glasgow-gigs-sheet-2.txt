@@ -1,0 +1,27 @@
+# Glasgow gigs and venues (2). Source: user's gig list (Google Sheet 12jcAUZ9pQ41Dau2yOkS59qn6L4dlUF0x58Ixv4fQfmc)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | venues-gigs | Which New York band played the Barrowland in March 2002? | The Strokes | The Killers | Interpol | Yeah Yeah Yeahs | Barrowland; The Strokes; 2002
+2 | venues-gigs | Which American band played the Glasgow Academy in December 2003 and again in December 2004? | Kings of Leon | The Killers | The Strokes | The White Stripes | The Academy; Kings of Leon
+3 | venues-gigs | Which Irish-language rap trio played the Barrowland in November 2024? | Kneecap | Fontaines D.C. | The Mary Wallopers | Sprints | Barrowland; Kneecap; 2024
+3 | venues-gigs | Which American hip-hop group played the Glasgow Academy in October 2006? | Public Enemy | Run-DMC | Beastie Boys | Wu-Tang Clan | The Academy; Public Enemy; 2006
+3 | venues-gigs | Which band supported Saint Etienne at The Mayfair in February 1993? | Pulp | Blur | Suede | Elastica | The Mayfair; Saint Etienne; Pulp; 1993
+3 | venues-gigs | Which band supported the Boo Radleys at the Tramway for Sound City in April 1994? | Oasis | Blur | Supergrass | Shed Seven | Tramway; Boo Radleys; Oasis; Sound City; 1994
+3 | venues-gigs | Which band supported Blur at the Plaza Ballroom in May 1994? | Sleeper | Elastica | Echobelly | Pulp | Plaza Ballroom; Blur; Sleeper; 1994
+3 | venues-gigs | Which Icelandic band, fronted by Björk, played the Art School in March 1988? | The Sugarcubes | Sigur Rós | Múm | Of Monsters and Men | The Art School; The Sugarcubes; 1988
+3 | venues-gigs | Which band supported Oasis at The Cathouse in June 1994? | The Real People | The Verve | Shed Seven | Ocean Colour Scene | The Cathouse; Oasis; The Real People; 1994
+3 | venues-gigs | Which Manchester band supported The Wedding Present at the Barrowland in November 1988? | Inspiral Carpets | The Stone Roses | Happy Mondays | James | Barrowland; The Wedding Present; Inspiral Carpets; 1988
+3 | venues-gigs | Which James Murphy band played the Barrowland in April 2010? | LCD Soundsystem | The Rapture | Hot Chip | !!! | Barrowland; LCD Soundsystem; 2010
+3 | venues-gigs | Which Glasgow band played the QMU in August 2013 with The Amazing Snakeheads supporting? | Franz Ferdinand | Mogwai | Glasvegas | Biffy Clyro | QMU; Franz Ferdinand; The Amazing Snakeheads; 2013
+3 | venues-gigs | Which shoegaze band played the QMU in February 1989? | My Bloody Valentine | Slowdive | Ride | Lush | QMU; My Bloody Valentine; 1989
+3 | venues-gigs | Which artist headlined TRNSMT on Glasgow Green in July 2024, with Sprints supporting? | Alison Goldfrapp | Radiohead | Kasabian | The Snuts | Glasgow Green; TRNSMT; Alison Goldfrapp; 2024
+4 | venues-gigs | Which band supported Dinosaur Jr at the Barrowland in September 1991? | The Boo Radleys | Teenage Fanclub | Mudhoney | Pavement | Barrowland; Dinosaur Jr; The Boo Radleys; 1991
+4 | venues-gigs | Which band supported Blur at King Tut's in May 1991? | Catherine Wheel | Slowdive | Chapterhouse | Ride | King Tut's; Blur; Catherine Wheel; 1991
+4 | venues-gigs | Which Irish band supported Moose at The Venue in June 1991? | The Cranberries | The Frank and Walters | My Bloody Valentine | Something Happens | The Venue; Moose; The Cranberries; 1991
+4 | venues-gigs | Which American band played Oran Mor in October 2008? | Lambchop | Wilco | Calexico | Grandaddy | Oran Mor; Lambchop; 2008
+4 | venues-gigs | Which band supported Sleaford Mods at the Barrowland in November 2021? | Billy Nomates | Yard Act | Idles | Dry Cleaning | Barrowland; Sleaford Mods; Billy Nomates; 2021
+4 | venues-gigs | Which American band played SWG3 in June 2014? | Parquet Courts | Pavement | The Strokes | Interpol | SWG3; Parquet Courts; 2014
+4 | venues-gigs | At which Glasgow venue did Happy Mondays play in December 1988, with The Stretchheads supporting? | Rooftops | King Tut's | The Barrowland | The Venue | Rooftops; Happy Mondays; 1988
+4 | venues-gigs | Which Manchester band played King Tut's in March 1990? | The Charlatans | The Stone Roses | Happy Mondays | Inspiral Carpets | King Tut's; The Charlatans; 1990
+4 | venues-gigs | Which band supported Chapterhouse at the QMU in October 1991? | Belltower | Slowdive | Lush | Moose | QMU; Chapterhouse; Belltower; 1991
+4 | venues-gigs | Which band supported Babes in Toyland at The Mayfair in August 1991? | Fenn | Hole | L7 | Mudhoney | The Mayfair; Babes in Toyland; Fenn; 1991
+5 | venues-gigs | Which band supported Phantom Band at King Tut's in April 2010? | Race Horses | Dirty Cuts | Endor | Twister | King Tut's; Phantom Band; Race Horses; 2010

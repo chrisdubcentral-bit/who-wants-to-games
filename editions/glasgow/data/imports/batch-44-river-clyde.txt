@@ -1,0 +1,12 @@
+# River Clyde. Source: https://en.wikipedia.org/wiki/River_Clyde
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | The River Clyde is described as the second-longest river in which country? | Scotland | The UK | Ireland | Wales | River Clyde
+2 | landmarks | Which famous Cunard liners were built at Clydebank? | The Queen Mary and QE2 | The Titanic and Olympic | Lusitania and Mauretania | Canberra and Oriana | River Clyde; Queen Mary; QE2
+2 | landmarks | Which World Heritage mill village built by David Dale and Robert Owen stands on the Clyde? | New Lanark | Catrine | Deanston | Stanley | River Clyde; New Lanark
+3 | landmarks | What is the most spectacular of the Falls of Clyde called? | Cora Linn | Bonnington Linn | Stonebyres Linn | Grey Mare's Tail | River Clyde; Falls of Clyde; Cora Linn
+3 | landmarks | In which range of hills does the River Clyde rise? | The Lowther Hills | The Campsie Fells | The Pentland Hills | The Ochil Hills | River Clyde; Lowther Hills
+3 | landmarks | Which two streams meet at Watermeetings to form the River Clyde? | Daer Water and Potrail Water | White Cart and Black Cart | Kelvin and Allander | Avon and Nethan | River Clyde; Watermeetings
+3 | landmarks | Which word became an industry symbol of high-quality ships? | Clydebuilt | Glasgow-made | Scotsteel | Riverbuilt | River Clyde; Clydebuilt
+3 | landmarks | At the Tail of the Bank, between Greenock and Ardmore Point, the Clyde flows into what? | The Firth of Clyde | Loch Long | The Gare Loch | The North Channel | River Clyde; Firth of Clyde
+4 | landmarks | Roughly how many ships have been built on the Clyde, its firth and tributaries since 1712? | Over 25,000 | About 5,000 | About 10,000 | Over 60,000 | River Clyde; shipbuilding
+4 | landmarks | What did the Roman geographer Ptolemy call the River Clyde? | Klōta | Tava | Bodotria | Itouna | River Clyde; Ptolemy

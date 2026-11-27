@@ -1,0 +1,7 @@
+# Glasgow bid for the 2014 Commonwealth Games. Source: https://en.wikipedia.org/wiki/Glasgow_bid_for_the_2014_Commonwealth_Games
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | sport | Which city did Glasgow beat to host the 2014 Commonwealth Games? | Abuja | Halifax | Delhi | Auckland | 2014 Commonwealth Games; bid; Abuja
+3 | sport | In what ratio did the Scottish Government and Glasgow City Council agree to underwrite the 2014 Games costs? | 80/20 | 50/50 | 60/40 | 90/10 | 2014 Commonwealth Games; bid; costs
+3 | sport | In which part of Glasgow was the 2014 Commonwealth Games athletes' village planned? | Dalmarnock | Govan | Partick | Springburn | 2014 Commonwealth Games; athletes' village; Dalmarnock
+3 | sport | Which city did Glasgow beat to become Scotland's candidate for the 2014 Commonwealth Games? | Edinburgh | Aberdeen | Dundee | Stirling | 2014 Commonwealth Games; bid; Edinburgh
+4 | sport | On what date did the 2014 Commonwealth Games open in Glasgow? | 23 July 2014 | 3 August 2014 | 1 July 2014 | 14 August 2014 | 2014 Commonwealth Games; opening date

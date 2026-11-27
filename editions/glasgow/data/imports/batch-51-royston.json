@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "What was the Glasgow district of Royston previously known as?",
+    "options": [
+      "The Calton",
+      "The Gallowgate",
+      "The Garngad",
+      "The Drygate"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Royston",
+      "Garngad"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which year did a Royston block become the first tower block in Glasgow to be demolished?",
+    "options": [
+      "1992",
+      "1978",
+      "2005",
+      "1985"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Royston",
+      "tower block"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Michael Martin, connected with Royston, was Speaker of which chamber from 2000 to 2009?",
+    "options": [
+      "The House of Commons",
+      "The European Parliament",
+      "The House of Lords",
+      "The Scottish Parliament"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Royston",
+      "Michael Martin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Lisbon Lion is listed among Royston's notable residents?",
+    "options": [
+      "Billy McNeill",
+      "Bobby Lennox",
+      "Stevie Chalmers",
+      "Jimmy Johnstone"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Royston",
+      "Stevie Chalmers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "What is the Royston Spire, now a monument?",
+    "options": [
+      "A war memorial",
+      "A former church steeple",
+      "An old mill chimney",
+      "A clock tower"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Royston",
+      "Royston Spire"
+    ],
+    "source": "manual"
+  }
+]

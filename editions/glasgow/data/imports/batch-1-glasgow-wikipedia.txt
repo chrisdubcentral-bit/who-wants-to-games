@@ -1,0 +1,144 @@
+# Glasgow: the city (history, landmarks, culture, sport). Source: https://en.wikipedia.org/wiki/Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | Which river flows through the heart of Glasgow? | River Clyde | River Tay | River Forth | River Dee | River Clyde
+1 | history | Which saint is said to have founded Glasgow? | St Mungo | St Andrew | St Columba | St Ninian | St Mungo; Kentigern
+1 | history | What is Glasgow's motto? | Let Glasgow Flourish | Glasgow Forever | People Make Glasgow | Nemo Me Impune Lacessit | motto; Let Glasgow Flourish
+1 | landmarks | Which city-centre square is home to Glasgow's City Chambers? | George Square | St Enoch Square | Blythswood Square | Royal Exchange Square | George Square; City Chambers
+1 | art-culture | Which architect designed the Glasgow School of Art? | Charles Rennie Mackintosh | Alexander Thomson | Norman Foster | Zaha Hadid | Charles Rennie Mackintosh; Glasgow School of Art
+1 | landmarks | Which three streets make up Glasgow's "Style Mile"? | Argyle, Sauchiehall and Buchanan Street | Argyle, Bath and Hope Street | Sauchiehall, Renfrew and West George Street | Buchanan, Queen and Union Street | Style Mile; Buchanan Street; Sauchiehall Street; Argyle Street
+1 | sport | What is the name of Scotland's national football stadium in Glasgow's Mount Florida? | Hampden Park | Ibrox Stadium | Celtic Park | Firhill Stadium | Hampden Park; Mount Florida
+1 | venues-gigs | Along with the Barras market, which famous music venue is in Glasgow's East End? | Barrowland Ballroom | King Tut's Wah Wah Hut | Sub Club | The Garage | Barrowland; The Barras; East End
+1 | food-drink | Which lager is brewed at Glasgow's Wellpark Brewery? | Tennent's | McEwan's | Belhaven | Carling | Tennent's; Wellpark Brewery
+1 | film-tv | Which long-running detective series was filmed in Glasgow? | Taggart | Rebus | Shetland | Vera | Taggart
+1 | landmarks | What do Glaswegians call the Clyde Arc bridge? | The Squinty Bridge | The Hielanman's Umbrella | The Wobbly Bridge | The Bendy Bridge | Clyde Arc; Squinty Bridge
+1 | history | In which century is St Mungo reputed to have founded Glasgow? | 6th century | 9th century | 11th century | 4th century | St Mungo; founding
+1 | patter | Which affectionate nickname is said to be the meaning of the name Glasgow? | The Dear Green Place | The Granite City | Auld Reekie | The Fair City | Dear Green Place; name
+1 | sport | Which Glasgow club won the European Cup in 1967? | Celtic | Rangers | Partick Thistle | Queen's Park | Celtic; 1967; European Cup
+1 | venues-gigs | Which Glasgow arena opened at Queen's Dock in September 2013? | The Hydro | The Armadillo | Braehead Arena | Kelvin Hall | Hydro; Queen's Dock
+1 | history | In the late 19th century, Glasgow was called the "Second City of" what? | The Empire | Scotland | Europe | The World | Second City of the Empire
+1 | landmarks | Which Glasgow station is the end of the West Coast Main Line from London Euston? | Glasgow Central | Queen Street | Partick | Charing Cross | Glasgow Central; West Coast Main Line
+1 | venues-gigs | At which Glasgow venue were Oasis spotted and signed by Alan McGee? | King Tut's Wah Wah Hut | Barrowland Ballroom | Queen Margaret Union | Nice N Sleazy | King Tut's; Oasis; Alan McGee
+1 | patter | In Scots, how is the name Glasgow often written? | Glesga | Embra | Aiberdeen | Peebs | Glesga; Scots
+1 | history | The Clyde became the world centre of which industry? | Shipbuilding | Steelmaking | Car making | Textiles | shipbuilding; Clyde
+1 | sport | Which sport do Glasgow Warriors play? | Rugby union | Ice hockey | Basketball | Shinty | Glasgow Warriors
+2 | history | In which year was the University of Glasgow founded? | 1451 | 1583 | 1495 | 1413 | University of Glasgow
+2 | history | On which burn did St Mungo build his church, where Glasgow Cathedral now stands? | Molendinar Burn | River Kelvin | White Cart Water | Pollok Burn | St Mungo; Glasgow Cathedral; Molendinar Burn
+2 | history | In the rhyme about Glasgow's coat of arms, what is it that "never swam"? | The fish | The swan | The duck | The ship | coat of arms; rhyme; fish
+2 | history | Which animals support the shield on Glasgow's coat of arms? | Two salmon, each with a ring | Two lions | Two unicorns | Two stags | coat of arms; salmon
+2 | sport | In which year was Celtic founded? | 1888 | 1872 | 1867 | 1876 | Celtic
+2 | sport | Which club has played at Firhill since 1909? | Partick Thistle | Queen's Park | Clyde | Third Lanark | Partick Thistle; Firhill; Maryhill
+2 | art-culture | Which museum on the Clyde was designed by Zaha Hadid? | Riverside Museum | Burrell Collection | Kelvingrove | Gallery of Modern Art | Riverside Museum; Zaha Hadid
+2 | landmarks | In which park is the Burrell Collection? | Pollok Country Park | Kelvingrove Park | Queen's Park | Bellahouston Park | Burrell Collection; Pollok Country Park
+2 | venues-gigs | At which Glasgow venue is Kurt Cobain's footprint said to be kept locked in a safe? | Queen Margaret Union | King Tut's Wah Wah Hut | Barrowland Ballroom | SWG3 | QMU; Kurt Cobain; Nirvana
+2 | history | Which political label came from industrial action in Glasgow's shipyards? | Red Clydeside | Radical Clyde | The Clyde Rising | The Red Yards | Red Clydeside
+2 | art-culture | In 2008, Glasgow was named a UNESCO City of what? | Music | Literature | Design | Film | UNESCO City of Music; 2008
+2 | landmarks | Which two broadcasters have their headquarters at Pacific Quay? | BBC Scotland and STV | ITV and Channel 4 | Sky and BBC Scotland | STV and Channel 5 | Pacific Quay; BBC Scotland; STV
+2 | sport | Which venue holds the European attendance record of 149,547, set in 1937? | Hampden Park | Celtic Park | Ibrox Stadium | Wembley Stadium | Hampden Park; 1937; attendance record
+2 | sport | Where was the opening ceremony of the 2014 Commonwealth Games held? | Celtic Park | Hampden Park | Ibrox Stadium | The Hydro | Commonwealth Games 2014; Celtic Park
+2 | landmarks | Which Glasgow cemetery, opened in 1831, has a 70 ft statue of John Knox? | The Necropolis | Southern Necropolis | Sighthill Cemetery | Cathcart Cemetery | Necropolis; John Knox
+2 | landmarks | What is the name of the bridge that carries the M8 over the Clyde? | Kingston Bridge | Squinty Bridge | Erskine Bridge | Jamaica Bridge | Kingston Bridge; M8
+2 | landmarks | Which Glasgow station serves the main line to Edinburgh and the north? | Queen Street | Central | High Street | Partick | Queen Street station
+2 | art-culture | Which Glasgow tearooms were designed by Charles Rennie Mackintosh? | Willow Tearooms | Rogano | Tchai-Ovna | The Butterfly and the Pig | Willow Tearooms; Charles Rennie Mackintosh
+2 | sport | Which sport do the Glasgow Clan play at Braehead Arena? | Ice hockey | Basketball | Rugby league | Speedway | Glasgow Clan; Braehead
+2 | sport | Who managed Celtic to the European Cup in 1967? | Jock Stein | Jimmy McGrory | Willie Waddell | Scot Symon | Jock Stein; 1967
+2 | history | Glasgow's Tobacco Lords gave their names to many streets in which part of the city? | Merchant City | West End | Gorbals | Govan | Tobacco Lords; Merchant City
+2 | history | From which loch does Glasgow get its water, along an aqueduct to Milngavie? | Loch Katrine | Loch Lomond | Loch Ness | Loch Tay | Loch Katrine; Milngavie; waterworks
+2 | history | Which advertising campaign for the city began in 1983? | Glasgow's Miles Better | People Make Glasgow | Scotland with Style | Glasgow: Scotland's Heart | Glasgow's Miles Better; 1983
+2 | history | In 1921, Glasgow's population first passed which figure? | One million | Half a million | Two million | 750,000 | population; 1921
+2 | history | By 1821, Glasgow's population had overtaken which city's? | Edinburgh | Liverpool | Manchester | Dublin | population; Edinburgh
+2 | history | In 1919, troops were deployed in Glasgow in what became known as the Battle of where? | George Square | Glasgow Green | Govan Cross | Clydebank | Battle of George Square; 1919
+2 | history | Which 1707 Acts opened Glasgow up to trade with British Empire markets? | The Acts of Union | The Navigation Acts | The Reform Acts | The Corn Laws | Acts of Union; 1707
+2 | history | By the late 18th century, over half of Britain's trade in which crop went through the Clyde? | Tobacco | Sugar | Cotton | Tea | tobacco; Tobacco Lords
+2 | landmarks | Which hospital in Govan is described as the largest hospital campus in Europe? | Queen Elizabeth University Hospital | Glasgow Royal Infirmary | Gartnavel General | Stobhill Hospital | Queen Elizabeth University Hospital; Govan
+2 | sport | Which Glasgow club, founded in 1867, plays at Hampden Park? | Queen's Park | Clyde | Third Lanark | Partick Thistle | Queen's Park; Hampden
+2 | sport | Who beat Rangers in the 2022 Europa League final? | Eintracht Frankfurt | Sevilla | Villarreal | Atalanta | Rangers; Europa League 2022
+2 | landmarks | Physicist Baron Kelvin took his title from which river in Glasgow? | River Kelvin | River Clyde | White Cart Water | River Leven | River Kelvin; Lord Kelvin
+2 | food-drink | In 2013, PETA named Glasgow the most what-friendly city in the UK? | Vegan | Dog | Cyclist | Family | vegan; PETA
+3 | history | In which year was Glasgow made a Royal Burgh? | 1611 | 1707 | 1451 | 1560 | Royal Burgh
+3 | sport | In which year were Rangers founded? | 1872 | 1888 | 1867 | 1876 | Rangers
+3 | history | Glasgow Fair dates back to which year? | 1190 | 1451 | 1611 | 1066 | Glasgow Fair
+3 | landmarks | Which is Glasgow's largest park? | Pollok Country Park | Glasgow Green | Kelvingrove Park | Queen's Park | Pollok Country Park; parks
+3 | art-culture | Which church is the only one Charles Rennie Mackintosh designed? | Queen's Cross Church | St Andrew's in the Square | Govan Old Parish Church | Lansdowne Church | Queen's Cross Church; Charles Rennie Mackintosh
+3 | sport | Which team beat Celtic in the 1970 European Cup final? | Feyenoord | Inter Milan | Ajax | Bayern Munich | Celtic; 1970; Feyenoord
+3 | sport | Which team beat Celtic 3–2 in the 2003 UEFA Cup final? | Porto | Valencia | Sevilla | Lazio | Celtic; UEFA Cup 2003; Seville
+3 | venues-gigs | Which Glasgow venue is described as the largest nightclub in Scotland? | The Garage | Sub Club | Cathouse | Polo Lounge | The Garage; nightclub
+3 | venues-gigs | Which Glasgow club has been nominated among the best clubs in the world? | Sub Club | The Garage | Cathouse | Sanctuary | Sub Club
+3 | history | Which tobacco merchant founded the Mitchell Library? | Stephen Mitchell | John Glassford | Andrew Buchanan | William Cunninghame | Mitchell Library; Stephen Mitchell
+3 | history | Who opened Glasgow's Loch Katrine waterworks in 1859? | Queen Victoria | Prince Albert | King Edward VII | King William IV | Loch Katrine; Queen Victoria; 1859
+3 | landmarks | The Glasgow Subway is the world's third-oldest underground railway, after London and which city? | Budapest | Paris | New York | Boston | Glasgow Subway
+3 | landmarks | What makes the Glasgow Subway unique among UK metros? | It's the only one completely underground | It's the only driverless one | It's the oldest | It's the longest | Glasgow Subway
+3 | landmarks | Which paddle steamer, the world's last seagoing one still working, is based on the Clyde? | PS Waverley | PS Maid of the Loch | SS Sir Walter Scott | PS Comet | PS Waverley; Clyde
+3 | landmarks | Which exhibition centre opened in Glasgow in 1985? | SECC | Kelvin Hall | The Hydro | Braehead Arena | SECC; 1985
+3 | history | Where was the 1938 Empire Exhibition held? | Bellahouston Park | Kelvingrove Park | Glasgow Green | Pollok Park | Empire Exhibition 1938; Bellahouston Park
+3 | history | Which park hosted Glasgow's International Exhibitions of 1888, 1901 and 1911? | Kelvingrove Park | Bellahouston Park | Queen's Park | Glasgow Green | International Exhibition; Kelvingrove Park
+3 | history | The City of Glasgow Police, formed in 1800, was one of the world's first what? | Municipal police forces | Mounted police units | River police forces | Detective branches | City of Glasgow Police; 1800
+3 | history | Which writer praised Glasgow in "A Tour thro' the whole island of Great Britain"? | Daniel Defoe | Samuel Johnson | Robert Burns | Walter Scott | Daniel Defoe
+3 | history | From 1668, Glasgow built a new deep-water port downriver at which town? | Port Glasgow | Greenock | Dumbarton | Ardrossan | Port Glasgow
+3 | art-culture | Who became Glasgow's first Poet Laureate when the post was created in 1999? | Edwin Morgan | Liz Lochhead | Jim Carruth | Tom Leonard | Poet Laureate; Edwin Morgan
+3 | venues-gigs | Which venue hosted the MTV Europe Music Awards in November 2014? | The Hydro | SECC | Barrowland Ballroom | Hampden Park | MTV EMA 2014; Hydro
+3 | landmarks | Which Glasgow street won the Academy of Urbanism's "Great Street Award" in 2008? | Buchanan Street | Sauchiehall Street | Argyle Street | Byres Road | Buchanan Street
+3 | art-culture | The brickwork of Templeton on the Green was designed to evoke which building? | The Doge's Palace in Venice | The Alhambra in Granada | Notre-Dame in Paris | St Mark's in Venice | Templeton on the Green; Glasgow Green
+3 | landmarks | On which hill does the University of Glasgow's main building stand? | Gilmorehill | Garnethill | Blythswood Hill | Woodlands Hill | University of Glasgow; Gilmorehill
+3 | art-culture | What was the nickname of the architect Alexander Thomson? | Greek | Roman | Gothic | Classic | Alexander Thomson; Holmwood House
+3 | history | Which 1956 law ended the soot that had blackened Glasgow's sandstone? | The Clean Air Act | The Public Health Act | The Housing Act | The Smoke Control Act | Clean Air Act; sandstone
+3 | sport | Where was the first international football match, Scotland v England, played in 1872? | Hamilton Crescent, Partick | Hampden Park | Cathkin Park | Kennington Oval | first international; 1872; Partick
+3 | sport | What was the score in the first international football match, Scotland v England in 1872? | 0–0 | 1–0 | 2–2 | 4–1 | first international; 1872
+3 | sport | In 1961, which Glasgow club became the first UK side to reach a European final? | Rangers | Celtic | Partick Thistle | Queen's Park | Rangers; 1961
+3 | sport | Which team beat Rangers in the 2008 UEFA Cup final? | Zenit Saint Petersburg | Porto | Sevilla | Shakhtar Donetsk | Rangers; UEFA Cup 2008
+3 | sport | At which stadium do Glasgow Warriors play their home games? | Scotstoun Stadium | Firhill Stadium | Hampden Park | Old Anniesland | Glasgow Warriors; Scotstoun
+3 | sport | Which sport is William Wilson believed to have invented at the Arlington Baths Club? | Water polo | Synchronised swimming | Diving | Lifesaving | Arlington Baths; water polo
+3 | sport | Which sport have Glasgow Tigers raced at Ashfield Stadium since 1928? | Speedway | Greyhound racing | Track cycling | Stock car racing | Glasgow Tigers; speedway
+3 | sport | Which city did Glasgow replace as host of the 2026 Commonwealth Games? | Victoria | Durban | Perth | Hamilton | Commonwealth Games 2026
+3 | history | Before 1975, which historic county was Glasgow part of? | Lanarkshire | Renfrewshire | Dunbartonshire | Stirlingshire | Lanarkshire
+3 | history | From 1975 to 1996, Glasgow was a district within which region? | Strathclyde | Lothian | Central | Dumfries and Galloway | Strathclyde
+3 | landmarks | Which Glasgow district was the heart of the locomotive-building industry? | Springburn | Govan | Partick | Bridgeton | Springburn; locomotives
+3 | landmarks | What is the name of Glasgow's main bus terminal? | Buchanan bus station | Anderston bus station | St Enoch bus station | Queen Street bus station | Buchanan bus station
+3 | history | Which German city has been twinned with Glasgow since 1985? | Nuremberg | Munich | Hamburg | Cologne | twin towns; Nuremberg
+3 | history | Which Cuban city has been twinned with Glasgow since 2002? | Havana | Santiago de Cuba | Varadero | Trinidad | twin towns; Havana
+4 | art-culture | Who designed the SEC Armadillo? | Norman Foster | Zaha Hadid | Richard Rogers | Basil Spence | Armadillo; Norman Foster
+4 | art-culture | Who designed Kelvingrove Art Gallery and Museum? | Sir John W. Simpson | Charles Rennie Mackintosh | Alexander Thomson | Sir George Gilbert Scott | Kelvingrove; John W. Simpson
+4 | art-culture | In which year did the Burrell Collection open? | 1983 | 1971 | 1990 | 1999 | Burrell Collection
+4 | history | In which year was the Glasgow Garden Festival held? | 1988 | 1990 | 1983 | 1999 | Glasgow Garden Festival
+4 | history | In which year did Glasgow's population peak at 1,127,825? | 1938 | 1921 | 1951 | 1965 | population peak
+4 | history | In 1605, what did Glasgow's 14 incorporated crafts form together? | The Trades House | The Merchants House | The Guildry | The Tolbooth | Trades House; 1605
+4 | landmarks | What part of the old Glasgow Tolbooth still survives? | Its steeple | Its bell | Its gateway | Its clock face | Tolbooth Steeple; Glasgow Cross
+4 | venues-gigs | Where were the 2009 MOBO Awards held, their first time outside London since 1995? | SECC | Barrowland Ballroom | Kelvin Hall | Hampden Park | MOBO Awards 2009; SECC
+4 | songs-albums | Outside London, which city is named in the most UK song titles? | Glasgow | Edinburgh | Manchester | Liverpool | song titles; PRS for Music
+4 | venues-gigs | Which magazine compared Glasgow's music scene to Detroit's Motown heyday? | Time | Rolling Stone | NME | Newsweek | Time magazine; Motown
+4 | landmarks | What is the Omniplex cinema on Renfrew Street described as? | The world's tallest cinema | The world's oldest cinema | Britain's biggest cinema | Europe's first multiplex | Omniplex; Renfrew Street
+4 | landmarks | Where is the 1641 replacement for St Mungo's Bell now displayed? | People's Palace | Kelvingrove | Provand's Lordship | Glasgow Cathedral | St Mungo's Bell; People's Palace
+4 | landmarks | Which Glasgow church, built 1739–1757, is the oldest post-Reformation church in Scotland? | St Andrew's in the Square | Glasgow Cathedral | The Tron Kirk | St David's (Ramshorn) | St Andrew's in the Square
+4 | landmarks | In which area of Glasgow is the Central Mosque, the largest in Scotland? | Gorbals | Pollokshields | Garnethill | Govanhill | Glasgow Central Mosque; Gorbals
+4 | history | In which area did Glasgow's Chinese community mainly settle? | Garnethill | Gorbals | Partick | Govan | Garnethill
+4 | art-culture | Who designed the spire of the University of Glasgow's main building? | Sir George Gilbert Scott | Charles Rennie Mackintosh | Alexander Thomson | John James Burnet | University of Glasgow; George Gilbert Scott
+4 | landmarks | Which South Side area is described as Britain's first major planned garden suburb? | Pollokshields | Newlands | Shawlands | Langside | Pollokshields
+4 | landmarks | Which Glasgow area was the UK's first tenement conservation area? | Hyndland | Partick | Dennistoun | Shawlands | Hyndland; tenements
+4 | history | Which body took over Glasgow's council housing stock in March 2003? | Glasgow Housing Association | Scottish Homes | Glasgow Corporation | Strathclyde Housing Trust | Glasgow Housing Association
+4 | sport | In 2023/24 Glasgow Warriors won the URC by beating which team in Pretoria? | The Bulls | The Stormers | Leinster | Munster | Glasgow Warriors; URC
+4 | sport | With which city did Glasgow co-host the 2018 European Championships? | Berlin | Munich | Amsterdam | Paris | European Championships 2018
+4 | landmarks | From which hills does the River Kelvin flow? | Campsie Fells | Ochil Hills | Pentland Hills | Kilpatrick Hills | River Kelvin; Campsie Fells
+4 | history | Glasgow is called the UK's rainiest city, with more than how many days of rain a year? | 170 | 120 | 200 | 100 | rain; climate
+4 | history | Which famous shipping line was formed in Glasgow? | Cunard | White Star Line | P&O | Blue Funnel Line | Cunard; shipping
+4 | history | In the late 19th century, about what share of the world's locomotives were built in Glasgow? | A quarter | A half | A tenth | Three quarters | locomotives
+4 | history | Govan was an independent burgh until Glasgow absorbed it in which year? | 1912 | 1891 | 1926 | 1975 | Govan
+4 | landmarks | Which defence firm runs one of the two Clyde shipyards, in Govan? | BAE Systems | Harland and Wolff | Ferguson Marine | Babcock | BAE Systems; Govan; shipbuilding
+4 | history | Which Glasgow school, founded in 1124, is described as Scotland's oldest? | The High School of Glasgow | Hutchesons' Grammar School | The Glasgow Academy | Allan Glen's School | High School of Glasgow
+4 | history | Which Italian city has been twinned with Glasgow since 2003? | Turin | Milan | Naples | Florence | twin towns; Turin
+4 | history | Which Ukrainian city was twinned with Glasgow in 2024? | Mykolaiv | Kharkiv | Odesa | Lviv | twin towns; Mykolaiv
+4 | landmarks | Which NASA rover drilled at an area on Mars named "Glasgow"? | Curiosity | Perseverance | Opportunity | Spirit | Mars; Curiosity
+4 | food-drink | Which Glasgow whisky distillery opened in 2017 in a former dock pump house? | The Clydeside Distillery | The Glasgow Distillery | Auchentoshan | Glengoyne | Clydeside Distillery
+4 | food-drink | Italian immigrants to Glasgow, many from Frosinone and Lucca, worked as what kind of seller? | "Hokey Pokey" men | Barrow boys | Rag-and-bone men | Chip-shop fryers | Italian Scots; hokey pokey; ice cream
+4 | film-tv | Which 2013 Jonathan Glazer film used Glasgow city-centre locations? | Under the Skin | Trainspotting | Sweet Sixteen | Red Road | Under the Skin; Jonathan Glazer
+4 | film-tv | Which BBC quiz show moved its production base to Glasgow? | Eggheads | Pointless | Mastermind | University Challenge | Eggheads
+4 | history | By what share did Glasgow vote Yes in the 2014 independence referendum? | 53.5% | 51.2% | 46.5% | 58.0% | independence referendum 2014
+5 | history | In which year did the City of Glasgow Bank collapse? | 1878 | 1857 | 1893 | 1907 | City of Glasgow Bank
+5 | history | Which historian coined the name "Merchant City" in the 1960s? | Charles Oakley | Jack House | Edwin Morgan | Alasdair Gray | Merchant City; Charles Oakley
+5 | songs-albums | In how many UK song titles is Glasgow mentioned, according to PRS for Music? | 119 | 95 | 64 | 150 | song titles; PRS for Music
+5 | venues-gigs | In 2010, where did PRS for Music rank Glasgow among the UK's "most musical" cities? | Fourth | First | Second | Tenth | PRS for Music; 2010
+5 | history | Who was Glasgow's first Lord Provost? | John Stewart | Patrick Colquhoun | Andrew Buchanan | Robert Wallace | Lord Provost; John Stewart; 1450
+5 | landmarks | Which Glasgow church is nicknamed the "Whistlin' Kirk"? | St Andrew's-by-the-Green | St Andrew's in the Square | The Tron Kirk | Govan Old Parish Church | Whistlin' Kirk; St Andrew's-by-the-Green
+5 | history | In which year did the Glasgow Necropolis open? | 1831 | 1851 | 1801 | 1878 | Necropolis
+5 | history | What is the warmest temperature recorded in Glasgow, set in 2018? | 31.9 °C | 29.4 °C | 33.2 °C | 35.1 °C | climate; record temperature
+5 | history | In which year was Glasgow's coat of arms granted by the Lord Lyon? | 1866 | 1707 | 1611 | 1975 | coat of arms
+5 | history | Who designed Glasgow's City Chambers on George Square? | William Young | Sir John W. Simpson | John James Burnet | Alexander Thomson | City Chambers; William Young
+5 | history | Who was the engineer behind Glasgow's Loch Katrine water scheme? | John Frederick Bateman | Thomas Telford | John Rennie | Robert Stevenson | Loch Katrine; John Frederick Bateman

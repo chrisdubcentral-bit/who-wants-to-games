@@ -1,0 +1,7 @@
+# Kingston Bridge. Source: https://en.wikipedia.org/wiki/Kingston_Bridge,_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | In which year did the Kingston Bridge open? | 1970 | 1962 | 1978 | 1985 | Kingston Bridge; 1970
+3 | landmarks | Who opened the Kingston Bridge in 1970? | The Queen Mother | Queen Elizabeth II | Prince Charles | Harold Wilson | Kingston Bridge; Queen Mother
+3 | landmarks | Roughly how many vehicles cross the Kingston Bridge every day? | 150,000 | 20,000 | 50,000 | 500,000 | Kingston Bridge; traffic
+3 | landmarks | Which dock, Glasgow's first enclosed dock, closed to make way for the Kingston Bridge? | Kingston Dock | Queen's Dock | Prince's Dock | Govan Dry Dock | Kingston Bridge; Kingston Dock
+4 | landmarks | The Kingston Bridge's deck was jacked up while it stayed open, using how many hydraulic jacks? | 128 | 16 | 52 | 500 | Kingston Bridge; repairs

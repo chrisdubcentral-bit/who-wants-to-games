@@ -1,0 +1,7 @@
+# Donald Dewar. Source: https://en.wikipedia.org/wiki/Donald_Dewar
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | history | Who was the first First Minister of Scotland? | Donald Dewar | Alex Salmond | Henry McLeish | Jack McConnell | Donald Dewar; First Minister
+2 | history | Donald Dewar is widely remembered by which title? | Father of the Nation | The Iron Chancellor | The Big Man | Mr Scotland | Donald Dewar
+2 | history | What famous words did Donald Dewar say at the opening of the Scottish Parliament in 1999? | There shall be a Scottish parliament | Let Glasgow flourish | Scotland is free | A new dawn has broken | Donald Dewar; Scottish Parliament
+3 | history | Which Glasgow constituency did Donald Dewar represent at both Westminster and Holyrood? | Glasgow Anniesland | Glasgow Govan | Glasgow Hillhead | Glasgow Pollok | Donald Dewar; Anniesland
+4 | history | Who succeeded Donald Dewar as First Minister in October 2000? | Henry McLeish | Jack McConnell | Alex Salmond | Wendy Alexander | Donald Dewar; Henry McLeish

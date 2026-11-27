@@ -1,0 +1,12 @@
+# Pollok. Source: https://en.wikipedia.org/wiki/Pollok
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | Which large shopping centre opened in Pollok in October 2007? | Silverburn | Braehead | The Fort | St Enoch Centre | Pollok; Silverburn
+2 | landmarks | On which side of Glasgow is the Pollok housing estate? | South-west | North-east | North-west | South-east | Pollok
+3 | landmarks | Pollok was the first of Glasgow's "big four" what? | Peripheral housing schemes | Shopping centres | Football grounds | New towns | Pollok; big four
+3 | landmarks | From which family did Glasgow buy the farmland for Pollok in 1935? | The Stirling-Maxwells | The Stewarts | The Hamiltons | The Campbells | Pollok; Stirling-Maxwell
+3 | landmarks | What does the Gaelic name for Pollok, "Pollag", mean? | A pool | A hill | A wood | A ford | Pollok; name
+3 | landmarks | Which ruined castle is said to have been visited by Mary, Queen of Scots, near Pollok? | Crookston Castle | Cathcart Castle | Haggs Castle | Mearns Castle | Pollok; Crookston Castle
+3 | landmarks | Which motorway serves Pollok at junctions 2 and 3? | The M77 | The M8 | The M74 | The M73 | Pollok; M77
+3 | landmarks | Which river forms part of Pollok's northern and eastern boundary? | The White Cart Water | The Kelvin | The Clyde | The Black Cart Water | Pollok; White Cart
+4 | landmarks | In which year was Pollok House built? | 1752 | 1652 | 1852 | 1902 | Pollok; Pollok House
+4 | landmarks | Which Pollok secondary school is recognised as a "school of ambition"? | St Paul's High School | Rosshall Academy | Penilee Secondary | Bellahouston Academy | Pollok; St Paul's

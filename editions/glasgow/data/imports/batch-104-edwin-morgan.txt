@@ -1,0 +1,7 @@
+# Edwin Morgan. Source: https://en.wikipedia.org/wiki/Edwin_Morgan_(poet)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | art-culture | In 2004, Edwin Morgan was named Scotland's first what? | Makar | Poet Laureate | Children's Laureate | Lord Rector | Edwin Morgan; Makar
+3 | art-culture | Which Edwin Morgan poem is named after birds in a famous Glasgow square? | Starlings in George Square | Pigeons in Buchanan Street | Gulls over the Clyde | Crows on the Necropolis | Edwin Morgan; Starlings in George Square
+3 | art-culture | Who read Edwin Morgan's poem at the opening of the Scottish Parliament building in 2004? | Liz Lochhead | Edwin Morgan himself | Sean Connery | Jackie Kay | Edwin Morgan; Scottish Parliament
+3 | art-culture | Which Old English epic did Edwin Morgan translate in 1952? | Beowulf | The Canterbury Tales | The Odyssey | Gawain and the Green Knight | Edwin Morgan; Beowulf
+4 | art-culture | In which burgh did poet Edwin Morgan grow up? | Rutherglen | Paisley | Bearsden | Cambuslang | Edwin Morgan; Rutherglen

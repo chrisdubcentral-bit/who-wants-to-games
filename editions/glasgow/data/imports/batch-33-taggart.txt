@@ -1,0 +1,12 @@
+# Taggart. Source: https://en.wikipedia.org/wiki/Taggart
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which actor played DCI Jim Taggart? | Mark McManus | Alex Norton | James MacPherson | John Michie | Taggart; Mark McManus
+2 | film-tv | Who created the detective series Taggart? | Glenn Chandler | Ian Pattison | Peter McDougall | Colin Gilbert | Taggart; Glenn Chandler
+2 | film-tv | Which actress played DS Jackie Reid in Taggart? | Blythe Duff | Elaine C. Smith | Kate Donnelly | Barbara Rafferty | Taggart; Blythe Duff; Jackie Reid
+2 | film-tv | In which Glasgow CID were Taggart's detectives first based? | Maryhill | Govan | Partick | Shettleston | Taggart; Maryhill CID
+3 | film-tv | What was the title of the 1983 pilot miniseries that launched Taggart? | Killer | Murder | Dead Ringer | Black Orchid | Taggart; Killer; 1983
+3 | film-tv | Which actor played DCI Matt Burke, who replaced Jardine in Taggart in 2002? | Alex Norton | Iain Anders | Colin McCredie | Robert Robertson | Taggart; Alex Norton; Matt Burke
+3 | film-tv | Which actor played DI Michael Jardine in Taggart? | James MacPherson | John Michie | Neil Duncan | Colin McCredie | Taggart; James MacPherson; Jardine
+3 | film-tv | Which Taggart episode, broadcast in 1995, opened with Jim Taggart's funeral? | Black Orchid | Killer | Dead Ringer | Genesis | Taggart; Black Orchid
+4 | film-tv | Which university's buildings were used as the police station in later series of Taggart? | University of Strathclyde | University of Glasgow | Glasgow Caledonian | University of Stirling | Taggart; University of Strathclyde
+4 | film-tv | What was the name of the fictional police station in Taggart? | John Street | Maryhill Road | Stewart Street | Partick Cross | Taggart; John Street

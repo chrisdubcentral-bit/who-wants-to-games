@@ -1,0 +1,7 @@
+# Gallery of Modern Art, Glasgow. Source: https://en.wikipedia.org/wiki/Gallery_of_Modern_Art,_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+4 | history | In which year was GoMA's building built as a townhouse for Tobacco Lord William Cunninghame? | 1778 | 1817 | 1832 | 1745 | GoMA; William Cunninghame; 1778
+1 | landmarks | What does the Duke of Wellington statue outside GoMA usually have on its head? | A traffic cone | A tartan bunnet | A crown | A football scarf | GoMA; Duke of Wellington; traffic cone
+2 | art-culture | Whose solo show "Cut and Run" drew 180,000 visitors to GoMA in 2023? | Banksy | David Shrigley | Jack Vettriano | Grayson Perry | GoMA; Banksy; Cut and Run
+2 | art-culture | In which year did GoMA open as a gallery? | 1996 | 1990 | 1988 | 2001 | GoMA; 1996
+4 | art-culture | Which artist made GoMA's mirrored pediment, "Tympanum"? | Niki de Saint Phalle | Yayoi Kusama | Louise Bourgeois | Barbara Hepworth | GoMA; Niki de Saint Phalle; Tympanum

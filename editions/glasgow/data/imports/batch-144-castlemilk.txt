@@ -1,0 +1,12 @@
+# Castlemilk. Source: https://en.wikipedia.org/wiki/Castlemilk
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Castlemilk lies next to which town on Glasgow's southern edge? | Rutherglen | Paisley | East Kilbride | Barrhead | Castlemilk; Rutherglen
+2 | landmarks | In which decade was the Castlemilk housing scheme developed? | 1950s | 1920s | 1970s | 1980s | Castlemilk
+3 | landmarks | Which family owned the Castlemilk estate until the 1930s? | The Stewarts | The Maxwells | The Hamiltons | The Campbells | Castlemilk; Stewarts
+3 | landmarks | What was the Castlemilk estate called before the Stewarts moved the name there in 1579? | Cassiltoun | Carmunnock | Croftfoot | Kingspark | Castlemilk; Cassiltoun
+3 | landmarks | Castlemilk was one of Glasgow's "big four" peripheral schemes, along with Pollok, Easterhouse and which other? | Drumchapel | Possilpark | Castlemilk East | Toryglen | Castlemilk; big four
+3 | landmarks | Who became Glasgow's first City Architect in 1951 and designed Castlemilk's tower blocks? | Archibald Jury | Basil Spence | Robert Matthew | Robert Bruce | Castlemilk; Archibald Jury
+3 | landmarks | What is the name of Castlemilk's only pub, in the arcade? | The Oasis | The Castle | The Milk Bar | The Clansman | Castlemilk; The Oasis
+4 | landmarks | Roughly how many people was Castlemilk built to house? | 34,000 | 10,000 | 80,000 | 120,000 | Castlemilk; population
+4 | sport | Which Simple Minds bassist is listed as a notable Castlemilk resident? | Derek Forbes | Mick MacNeil | Charlie Burchill | Mel Gaynor | Castlemilk; Derek Forbes
+4 | landmarks | Which Castlemilk minister became Moderator of the Church of Scotland in 2001? | Rev. John D. Miller | Rev. Ian Paisley | Rev. Richard Holloway | Rev. Andrew McLellan | Castlemilk; John Miller

@@ -1,0 +1,7 @@
+# William Haughey, Baron Haughey. Source: https://en.wikipedia.org/wiki/William_Haughey,_Baron_Haughey
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | famous-glaswegians | Which company did Willie Haughey found in 1985? | City Refrigeration | Arnold Clark | Stagecoach | Tunnock's | Willie Haughey; City Refrigeration
+3 | famous-glaswegians | In which area of Glasgow was businessman Willie Haughey born? | Gorbals | Govan | Partick | Easterhouse | Willie Haughey; Gorbals
+3 | sport | Which football club is Willie Haughey a former director of? | Celtic | Rangers | Partick Thistle | Queen's Park | Willie Haughey; Celtic
+3 | famous-glaswegians | In which year did Willie Haughey become Baron Haughey? | 2013 | 2003 | 2008 | 2019 | Willie Haughey; peerage
+4 | sport | Which competition did Willie Haughey sponsor with £2 million while it had no main sponsor? | The Scottish Cup | The League Cup | The Challenge Cup | The Glasgow Cup | Willie Haughey; Scottish Cup

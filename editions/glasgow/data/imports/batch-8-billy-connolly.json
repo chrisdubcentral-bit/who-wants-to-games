@@ -1,0 +1,617 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "famous-glaswegians",
+    "difficulty": 1,
+    "question": "What is Billy Connolly's famous nickname?",
+    "options": [
+      "The Glesga Kid",
+      "The Wee Man",
+      "The Big Yin",
+      "The Big Man"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Billy Connolly",
+      "The Big Yin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which Billy Connolly single was a UK No. 1 in November 1975?",
+    "options": [
+      "In the Brownies",
+      "Super Gran",
+      "The Welly Boot Song",
+      "D.I.V.O.R.C.E."
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "D.I.V.O.R.C.E.",
+      "1975"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "film-tv",
+    "difficulty": 1,
+    "question": "In which 2012 animated film did Billy Connolly voice King Fergus?",
+    "options": [
+      "Inside Out",
+      "Up",
+      "Brave",
+      "Ratatouille"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Billy Connolly",
+      "Brave",
+      "King Fergus"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "famous-glaswegians",
+    "difficulty": 1,
+    "question": "Which actress and comedian did Billy Connolly marry in 1989?",
+    "options": [
+      "Pamela Stephenson",
+      "Judi Dench",
+      "Victoria Wood",
+      "Dawn French"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Billy Connolly",
+      "Pamela Stephenson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "Before comedy, Billy Connolly served an apprenticeship in which Glasgow trade?",
+    "options": [
+      "Printer at a newspaper",
+      "Electrician on the railways",
+      "Boilermaker in a shipyard",
+      "Joiner on building sites"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Billy Connolly",
+      "shipyard",
+      "Linthouse"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which folk band did Billy Connolly form in 1965?",
+    "options": [
+      "The Tannahill Weavers",
+      "The Corries",
+      "The Humblebums",
+      "The Incredible String Band"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Billy Connolly",
+      "The Humblebums"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Which future \"Baker Street\" singer joined Billy Connolly in the Humblebums in 1969?",
+    "options": [
+      "Gerry Rafferty",
+      "Jim Diamond",
+      "Frankie Miller",
+      "Joe Egan"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Billy Connolly",
+      "Gerry Rafferty",
+      "The Humblebums"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "In the 1997 film Mrs Brown, Billy Connolly played the servant of which monarch?",
+    "options": [
+      "Mary, Queen of Scots",
+      "Queen Anne",
+      "Queen Victoria",
+      "Queen Elizabeth I"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Billy Connolly",
+      "Mrs Brown",
+      "Queen Victoria"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "On which BBC chat show did Billy Connolly appear a record 15 times?",
+    "options": [
+      "Friday Night with Jonathan Ross",
+      "Wogan",
+      "The Graham Norton Show",
+      "Parkinson"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "Parkinson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "At which famous 1985 concert did Billy Connolly perform just before Elton John?",
+    "options": [
+      "Live Aid",
+      "Nelson Mandela 70th Birthday Tribute",
+      "Band Aid 20",
+      "The Concert for Bangladesh"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Billy Connolly",
+      "Live Aid",
+      "1985"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which dwarf did Billy Connolly play in The Hobbit: The Battle of the Five Armies?",
+    "options": [
+      "Dáin II Ironfoot",
+      "Thorin Oakenshield",
+      "Balin",
+      "Gimli"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Billy Connolly",
+      "The Hobbit",
+      "Dáin"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "famous-glaswegians",
+    "difficulty": 2,
+    "question": "In which year was Billy Connolly knighted?",
+    "options": [
+      "2017",
+      "2003",
+      "2022",
+      "2010"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Billy Connolly",
+      "knighthood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which area of Glasgow was Billy Connolly born, at 69 Dover Street?",
+    "options": [
+      "Drumchapel",
+      "Govan",
+      "Partick",
+      "Anderston"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "Anderston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which Glasgow area was Billy Connolly raised by his aunts, in Stewartville Street?",
+    "options": [
+      "Maryhill",
+      "Partick",
+      "Gorbals",
+      "Anderston"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Billy Connolly",
+      "Partick"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "Where did Billy Connolly buy his first banjo?",
+    "options": [
+      "Argyle Street",
+      "The Barras",
+      "Paddy's Market",
+      "Sauchiehall Street"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Billy Connolly",
+      "banjo",
+      "The Barras"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which character did Billy Connolly play in The Boondock Saints?",
+    "options": [
+      "Papa Joe Yakavetta",
+      "Noah \"Il Duce\" MacManus",
+      "Paul Smecker",
+      "Rocco"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Billy Connolly",
+      "The Boondock Saints"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which 2003 Tom Cruise film featured Billy Connolly as Sergeant Zebulon Gant?",
+    "options": [
+      "Minority Report",
+      "Vanilla Sky",
+      "Collateral",
+      "The Last Samurai"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "The Last Samurai"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "Which pirate did Billy Connolly play in Muppet Treasure Island?",
+    "options": [
+      "Long John Silver",
+      "Blind Pew",
+      "Billy Bones",
+      "Captain Flint"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Billy Connolly",
+      "Muppet Treasure Island"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Billy Connolly's \"D.I.V.O.R.C.E.\" was a spoof of a song by which country singer?",
+    "options": [
+      "Dolly Parton",
+      "Tammy Wynette",
+      "Patsy Cline",
+      "Loretta Lynn"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Billy Connolly",
+      "D.I.V.O.R.C.E.",
+      "Tammy Wynette"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "film-tv",
+    "difficulty": 3,
+    "question": "In which 1990s US sitcom did Billy Connolly play teacher Billy MacGregor?",
+    "options": [
+      "Boy Meets World",
+      "Welcome Back, Kotter",
+      "Saved by the Bell",
+      "Head of the Class"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "Head of the Class"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In 2010, Billy Connolly was given which honour by his home city?",
+    "options": [
+      "Glasgow's Lord Provost Award",
+      "The Freedom of the City of Glasgow",
+      "An honorary Celtic season ticket",
+      "A statue in George Square"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Billy Connolly",
+      "Freedom of the City"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which year was Billy Connolly made a CBE?",
+    "options": [
+      "2017",
+      "1997",
+      "2010",
+      "2003"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "CBE"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "Which artist painted one of three 75th-birthday portraits of Billy Connolly that joined Glasgow's mural trail?",
+    "options": [
+      "Peter Howson",
+      "Jack Vettriano",
+      "Ken Currie",
+      "Alasdair Gray"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Billy Connolly",
+      "murals",
+      "Jack Vettriano"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "film-tv",
+    "difficulty": 4,
+    "question": "Which BBC series saw Billy Connolly ride a custom Harley Davidson trike?",
+    "options": [
+      "A Scot in the Arctic",
+      "World Tour of Australia",
+      "Route 66",
+      "World Tour of Scotland"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Billy Connolly",
+      "World Tour of Australia"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "In which town's Tudor Hotel was Billy Connolly's 1974 album \"Solo Concert\" recorded?",
+    "options": [
+      "Airdrie",
+      "Paisley",
+      "Cumbernauld",
+      "Motherwell"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Billy Connolly",
+      "Solo Concert",
+      "Airdrie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "In which Glasgow district did Billy Connolly live from 14 to 20, on a council estate?",
+    "options": [
+      "Castlemilk",
+      "Easterhouse",
+      "Pollok",
+      "Drumchapel"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "Drumchapel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "labels-scene",
+    "difficulty": 4,
+    "question": "Which record label signed the Humblebums?",
+    "options": [
+      "Island Records",
+      "Elektra Records",
+      "Topic Records",
+      "Transatlantic Records"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "The Humblebums",
+      "Transatlantic Records"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "In which town did Billy Connolly make his theatrical debut in 1972, at the Cottage Theatre?",
+    "options": [
+      "East Kilbride",
+      "Paisley",
+      "Airdrie",
+      "Cumbernauld"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "Cumbernauld",
+      "Connolly's Glasgow Flourish"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "famous-glaswegians",
+    "difficulty": 5,
+    "question": "At which Linthouse shipyard did Billy Connolly serve his apprenticeship?",
+    "options": [
+      "Yarrow Shipbuilders",
+      "Fairfield",
+      "Harland and Wolff",
+      "Alexander Stephen and Sons"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Billy Connolly",
+      "Alexander Stephen and Sons",
+      "Linthouse"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "glasgow-bands",
+    "difficulty": 5,
+    "question": "Who founded the Humblebums with Billy Connolly in 1965?",
+    "options": [
+      "Joe Egan",
+      "Tam Harvey",
+      "Danny Kyle",
+      "Gerry Rafferty"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Billy Connolly",
+      "The Humblebums",
+      "Tam Harvey"
+    ],
+    "source": "manual"
+  }
+]

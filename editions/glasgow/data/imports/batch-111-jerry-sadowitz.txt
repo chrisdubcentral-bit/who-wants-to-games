@@ -1,0 +1,7 @@
+# Jerry Sadowitz. Source: https://en.wikipedia.org/wiki/Jerry_Sadowitz
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | famous-glaswegians | Apart from stand-up, comedian Jerry Sadowitz is a highly skilled what? | Close-up magician | Ventriloquist | Juggler | Puppeteer | Jerry Sadowitz; magic
+3 | famous-glaswegians | In which US state was Glasgow-raised comedian Jerry Sadowitz born? | New Jersey | New York | California | Florida | Jerry Sadowitz
+3 | famous-glaswegians | Which Glasgow secondary school did Jerry Sadowitz attend? | Shawlands Academy | Hillhead High | Hutchesons' Grammar | Hyndland Secondary | Jerry Sadowitz; Shawlands Academy
+3 | film-tv | What was Jerry Sadowitz's 1992 BBC Two show called? | The Pall Bearer's Revue | Total Abuse | The Sadowitz Show | Bib and Bob | Jerry Sadowitz; Pall Bearer's Revue
+4 | famous-glaswegians | Which famous TV illusionist befriended Jerry Sadowitz at a London magic shop? | Derren Brown | Paul Daniels | David Copperfield | Dynamo | Jerry Sadowitz; Derren Brown

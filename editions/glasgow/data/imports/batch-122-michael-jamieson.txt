@@ -1,0 +1,5 @@
+# Michael Jamieson. Source: https://en.wikipedia.org/wiki/Michael_Jamieson
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | Which medal did Glasgow swimmer Michael Jamieson win at the London 2012 Olympics? | Silver | Gold | Bronze | None | Michael Jamieson; London 2012
+3 | sport | In which event did Michael Jamieson win his Olympic medal? | 200 m breaststroke | 100 m freestyle | 200 m butterfly | 400 m individual medley | Michael Jamieson; breaststroke
+4 | sport | Who beat Michael Jamieson to gold in the 200 m breaststroke at the 2014 Glasgow Commonwealth Games? | Ross Murdoch | Duncan Scott | Adam Peaty | Dániel Gyurta | Michael Jamieson; Ross Murdoch

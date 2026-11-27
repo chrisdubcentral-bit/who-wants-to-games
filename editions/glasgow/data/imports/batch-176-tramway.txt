@@ -1,0 +1,7 @@
+# Tramway (arts centre). Source: https://en.wikipedia.org/wiki/Tramway_(arts_centre)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | art-culture | Which Peter Brook production was the first show at the Tramway, in 1988? | The Mahabharata | Carmen | A Midsummer Night's Dream | The Tempest | Tramway; Peter Brook; 1988
+3 | art-culture | Which company moved into its new home at the Tramway in 2009? | Scottish Ballet | Scottish Opera | National Theatre of Scotland | Royal Scottish National Orchestra | Tramway; Scottish Ballet; 2009
+4 | art-culture | The Tramway hosted the Turner Prize in which year? | 2015 | 2005 | 2013 | 1990 | Tramway; Turner Prize; 2015
+2 | landmarks | What gardens sit behind the Tramway arts centre? | The Hidden Gardens | The Secret Garden | The Winter Gardens | The Botanic Gardens | Tramway; Hidden Gardens
+5 | art-culture | Who was appointed the first General Manager of the Tramway in 2008? | Sarah Munro | Jess Thorpe | Tashi Gore | Andrea Gibb | Tramway; Sarah Munro; 2008

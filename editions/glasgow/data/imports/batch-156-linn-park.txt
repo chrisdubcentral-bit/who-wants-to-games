@@ -1,0 +1,12 @@
+# Linn Park, Glasgow. Source: https://en.wikipedia.org/wiki/Linn_Park,_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | Which river flows through Linn Park? | The White Cart Water | The Kelvin | The Clyde | The Black Cart Water | Linn Park; White Cart
+2 | landmarks | What does the name "Linn" in Linn Park refer to? | A waterfall | A lake | A hill | A wood | Linn Park; name
+3 | landmarks | Which castle's remains stand at the northern end of Linn Park? | Cathcart Castle | Crookston Castle | Haggs Castle | Mearns Castle | Linn Park; Cathcart Castle
+3 | landmarks | Linn Park is Glasgow's third-largest park, after Pollok Country Park and which other? | Dams to Darnley Country Park | Kelvingrove Park | Glasgow Green | Queen's Park | Linn Park; third largest
+3 | landmarks | In which year did Glasgow Corporation acquire Linn Park? | 1919 | 1888 | 1938 | 1952 | Linn Park; 1919
+3 | landmarks | Which family originally owned the land that became Linn Park? | The Maxwells | The Stewarts | The Hamiltons | The Campbells | Linn Park; Maxwell
+3 | landmarks | Which cast-iron bridge in Linn Park is Category B listed? | The Ha'penny Bridge | The Snuff Mill Bridge | The Linn Bridge | The Cathcart Bridge | Linn Park; Ha'penny Bridge
+4 | landmarks | In which year was Cathcart Castle demolished? | 1980 | 1927 | 1950 | 1999 | Linn Park; Cathcart Castle
+4 | landmarks | Roughly how many acres does Linn Park cover? | 200 | 50 | 500 | 1,000 | Linn Park; size
+4 | landmarks | Which golf club was originally laid out in the 1890s on the land that is now Linn Park's course? | Cathcart Castle Golf Club | Haggs Castle Golf Club | Pollok Golf Club | Cowglen Golf Club | Linn Park; golf

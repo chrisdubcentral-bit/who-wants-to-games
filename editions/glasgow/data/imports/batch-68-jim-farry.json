@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which organisation did Jim Farry lead as chief executive from 1990 to 1999?",
+    "options": [
+      "The Scottish Premier League",
+      "UEFA",
+      "Celtic",
+      "The Scottish Football Association"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jim Farry",
+      "SFA"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "The delayed registration of which Celtic player led to Jim Farry's downfall?",
+    "options": [
+      "Paolo Di Canio",
+      "Jorge Cadete",
+      "Pierre van Hooijdonk",
+      "Henrik Larsson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Jim Farry",
+      "Jorge Cadete"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which Celtic managing director brought the complaint about Jorge Cadete's registration?",
+    "options": [
+      "Dermot Desmond",
+      "Kevin Kelly",
+      "Brian Quinn",
+      "Fergus McCann"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jim Farry",
+      "Fergus McCann"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In 1997, Jim Farry refused to cancel a Scotland game on the day of whose funeral?",
+    "options": [
+      "Billy Bremner",
+      "The Queen Mother",
+      "Jock Stein",
+      "Princess Diana"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jim Farry",
+      "Princess Diana"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Whom did Jim Farry succeed as SFA chief executive in 1990?",
+    "options": [
+      "Ernie Walker",
+      "Gordon Smith",
+      "Willie Allan",
+      "David Taylor"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Jim Farry",
+      "Ernie Walker"
+    ],
+    "source": "manual"
+  }
+]

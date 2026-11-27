@@ -1,0 +1,12 @@
+# Texas. Source: https://en.wikipedia.org/wiki/Texas_(band)
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | glasgow-bands | Who is the lead singer of Texas? | Sharleen Spiteri | Clare Grogan | Lorraine McIntosh | Eddi Reader | Texas; Sharleen Spiteri
+1 | songs-albums | What was Texas's debut single, a UK No. 8 in 1989? | I Don't Want a Lover | Say What You Want | Black Eyed Boy | Summer Son | Texas; I Don't Want a Lover; 1989
+2 | songs-albums | Which Texas album went to No. 1 in the UK in 1997? | White on Blonde | Southside | The Hush | Ricks Road | Texas; White on Blonde; 1997
+2 | glasgow-bands | Which hip-hop group added rap vocals to a new version of "Say What You Want"? | Wu-Tang Clan | Public Enemy | Cypress Hill | De La Soul | Texas; Wu-Tang Clan; Say What You Want
+2 | songs-albums | What was the title of Texas's debut album, released in 1989? | Southside | Mothers Heaven | Ricks Road | Red Book | Texas; Southside; 1989
+3 | glasgow-bands | What job was Sharleen Spiteri doing in Glasgow when Texas formed? | Hairdresser | Shop assistant | Waitress | Nurse | Texas; Sharleen Spiteri
+3 | songs-albums | Which Texas song, a UK No. 4 in 1999, featured on the Notting Hill soundtrack? | In Our Lifetime | Summer Son | In Demand | When We Are Together | Texas; In Our Lifetime; Notting Hill
+3 | film-tv | Which actor appeared in the video for Texas's 2000 single "In Demand"? | Alan Rickman | Robert Carlyle | Ewan McGregor | Peter Capaldi | Texas; In Demand; Alan Rickman
+4 | venues-gigs | Where did Texas play their first ever gig, in March 1988? | University of Dundee | Glasgow School of Art | QMU, Glasgow | University of Stirling | Texas; first gig; Dundee
+4 | glasgow-bands | Which Blue Nile singer joined Texas on their 2006 single "Sleep"? | Paul Buchanan | Edwyn Collins | Ricky Ross | Justin Currie | Texas; Sleep; Paul Buchanan; The Blue Nile

@@ -1,0 +1,12 @@
+# Glasgow Green. Source: https://en.wikipedia.org/wiki/Glasgow_Green
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | landmarks | Which is the oldest park in Glasgow? | Glasgow Green | Kelvingrove Park | Queen's Park | Pollok Country Park | Glasgow Green
+2 | landmarks | Which music festival has been held on Glasgow Green since 2017? | TRNSMT | T in the Park | Connect | Summer Sessions | Glasgow Green; TRNSMT
+2 | landmarks | Which inventor had the idea for the separate steam condenser while walking on Glasgow Green? | James Watt | John Logie Baird | Thomas Telford | Robert Stevenson | Glasgow Green; James Watt
+2 | landmarks | Which museum of Glasgow history stands on Glasgow Green? | The People's Palace | Kelvingrove | The Riverside Museum | The Hunterian | Glasgow Green; People's Palace
+3 | landmarks | Which admiral's monument, erected in 1806, stands on Glasgow Green? | Nelson | Wellington | Collingwood | Cochrane | Glasgow Green; Nelson Monument
+3 | landmarks | Which American superstar played his only Scottish concert on Glasgow Green in 1992? | Michael Jackson | Prince | Madonna | Bruce Springsteen | Glasgow Green; Michael Jackson; 1992
+3 | landmarks | Which fountain on Glasgow Green was moved there from Kelvingrove Park in 1890? | The Doulton Fountain | The Stewart Memorial Fountain | The Cameron Fountain | The Saracen Fountain | Glasgow Green; Doulton Fountain
+3 | landmarks | Which king granted the land of Glasgow Green to the people of Glasgow in 1450? | James II | James IV | Robert the Bruce | David I | Glasgow Green; James II; 1450
+4 | landmarks | Which arch, funded by James McLennan, stands on Glasgow Green? | The McLennan Arch | The Marble Arch | The Calton Arch | The Saltmarket Arch | Glasgow Green; McLennan Arch
+4 | landmarks | Which Glasgow football club played its first match on Fleshers' Haugh, Glasgow Green, in 1872? | Rangers | Celtic | Queen's Park | Partick Thistle | Glasgow Green; Fleshers' Haugh; Rangers

@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "In which Glasgow district was Gerry Cinnamon raised?",
+    "options": [
+      "Pollok",
+      "Drumchapel",
+      "Castlemilk",
+      "Easterhouse"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Gerry Cinnamon",
+      "Castlemilk"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which Gerry Cinnamon album went straight to No. 1 in the UK in 2020?",
+    "options": [
+      "Erratic Cinematic",
+      "Live at Hampden Park",
+      "Canter",
+      "The Bonny"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Gerry Cinnamon",
+      "The Bonny"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "At which Glasgow stadium did Gerry Cinnamon play two sold-out homecoming shows in 2022?",
+    "options": [
+      "Ibrox",
+      "Celtic Park",
+      "Hampden Park",
+      "Firhill"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Gerry Cinnamon",
+      "Hampden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "What is Gerry Cinnamon's real name?",
+    "options": [
+      "Gerry Callaghan",
+      "Gerald Cairns",
+      "Gerard Crosbie",
+      "Gerard Cinnamond"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Gerry Cinnamon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "What was the title of Gerry Cinnamon's debut album, funded through PledgeMusic?",
+    "options": [
+      "Erratic Cinematic",
+      "Hope Over Fear",
+      "Belter",
+      "The Bonny"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Gerry Cinnamon",
+      "Erratic Cinematic"
+    ],
+    "source": "manual"
+  }
+]

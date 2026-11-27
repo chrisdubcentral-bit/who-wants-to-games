@@ -1,0 +1,207 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which villa in Cathcart is described as Alexander Thomson's finest house?",
+    "options": [
+      "The Hill House",
+      "Pollok House",
+      "Provan Hall",
+      "Holmwood House"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Alexander Thomson",
+      "Holmwood House",
+      "Cathcart"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Which of Alexander Thomson's three great Glasgow churches survives intact?",
+    "options": [
+      "Queen's Cross Church",
+      "Caledonia Road Church",
+      "Queen's Park Church",
+      "St Vincent Street Church"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Alexander Thomson",
+      "St Vincent Street Church"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "On which Glasgow street are Alexander Thomson's Egyptian Halls?",
+    "options": [
+      "Argyle Street",
+      "Buchanan Street",
+      "Union Street",
+      "Hope Street"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alexander Thomson",
+      "Egyptian Halls",
+      "Union Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Alexander Thomson building stands on Sauchiehall Street?",
+    "options": [
+      "Grosvenor Building",
+      "Egyptian Halls",
+      "Grecian Buildings",
+      "Buck's Head Building"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alexander Thomson",
+      "Grecian Buildings",
+      "Sauchiehall Street"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Which Glasgow architect won the second Alexander Thomson Travelling Studentship?",
+    "options": [
+      "Charles Rennie Mackintosh",
+      "John James Burnet",
+      "John Keppie",
+      "James Salmon"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Alexander Thomson",
+      "Charles Rennie Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Alexander Thomson died at his home in which terrace he had designed in Strathbungo?",
+    "options": [
+      "Great Western Terrace",
+      "Moray Place",
+      "Millbrae Crescent",
+      "Walmer Crescent"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alexander Thomson",
+      "Moray Place",
+      "Strathbungo"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "In which Stirlingshire village was architect Alexander Thomson born in 1817?",
+    "options": [
+      "Fintry",
+      "Balfron",
+      "Killearn",
+      "Drymen"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alexander Thomson",
+      "Balfron"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which cemetery is Alexander Thomson buried?",
+    "options": [
+      "Cathcart Cemetery",
+      "Southern Necropolis",
+      "Sighthill Cemetery",
+      "Glasgow Necropolis"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Alexander Thomson",
+      "Southern Necropolis"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 4,
+    "question": "Which American architect is Alexander Thomson said to have probably influenced?",
+    "options": [
+      "H. H. Richardson",
+      "Daniel Burnham",
+      "Frank Lloyd Wright",
+      "Louis Sullivan"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alexander Thomson",
+      "Frank Lloyd Wright"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "art-culture",
+    "difficulty": 5,
+    "question": "What is the name of the only castle Alexander Thomson designed, at Cove on Loch Long?",
+    "options": [
+      "Knockderry Castle",
+      "Kilmahew Castle",
+      "Craigrownie Castle",
+      "Ardencaple Castle"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Alexander Thomson",
+      "Craigrownie Castle",
+      "Cove"
+    ],
+    "source": "manual"
+  }
+]

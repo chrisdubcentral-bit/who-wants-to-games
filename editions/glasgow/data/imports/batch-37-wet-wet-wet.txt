@@ -1,0 +1,7 @@
+# Wet Wet Wet. Source: https://en.wikipedia.org/wiki/Wet_Wet_Wet
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | songs-albums | Which Wet Wet Wet song spent 15 weeks at No. 1 after featuring in Four Weddings and a Funeral? | Love Is All Around | Goodnight Girl | Sweet Little Mystery | Wishing I Was Lucky | Wet Wet Wet; Love Is All Around
+2 | glasgow-bands | In which town did Wet Wet Wet form in 1982? | Clydebank | Paisley | Dumbarton | Motherwell | Wet Wet Wet; Clydebank
+2 | glasgow-bands | What is the stage name of Wet Wet Wet singer Mark McLachlan? | Marti Pellow | Graeme Clark | Tommy Cunningham | Neil Mitchell | Wet Wet Wet; Marti Pellow
+3 | glasgow-bands | Wet Wet Wet took their name from a lyric by which band? | Scritti Politti | Orange Juice | The Associates | Altered Images | Wet Wet Wet; band name; Scritti Politti
+3 | songs-albums | Which Beatles cover gave Wet Wet Wet their first UK No. 1 in 1988? | With a Little Help from My Friends | Help! | Let It Be | Yesterday | Wet Wet Wet; With a Little Help from My Friends

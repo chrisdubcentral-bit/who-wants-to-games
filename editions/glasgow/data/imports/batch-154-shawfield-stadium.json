@@ -1,0 +1,301 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "sport",
+    "difficulty": 1,
+    "question": "Which sport was Shawfield Stadium best known for hosting?",
+    "options": [
+      "Cricket",
+      "Greyhound racing",
+      "Rugby league",
+      "Horse racing"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shawfield Stadium",
+      "greyhound racing"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which football club played at Shawfield from 1898 to 1986?",
+    "options": [
+      "Queen's Park",
+      "Partick Thistle",
+      "Clyde",
+      "Third Lanark"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shawfield Stadium",
+      "Clyde"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "In which town is Shawfield Stadium?",
+    "options": [
+      "Rutherglen",
+      "Paisley",
+      "Cambuslang",
+      "Hamilton"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Shawfield Stadium",
+      "Rutherglen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "Which major greyhound race was held at Shawfield for decades?",
+    "options": [
+      "The English Derby",
+      "The St Leger",
+      "The Scottish Greyhound Derby",
+      "The Grand National"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shawfield Stadium",
+      "Scottish Greyhound Derby"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which year did Shawfield Stadium open?",
+    "options": [
+      "1872",
+      "1932",
+      "1898",
+      "1910"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shawfield Stadium",
+      "1898"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "In which year was greyhound racing introduced at Shawfield?",
+    "options": [
+      "1932",
+      "1926",
+      "1898",
+      "1950"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Shawfield Stadium",
+      "1932"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "To which ground did Clyde eventually move after leaving Shawfield?",
+    "options": [
+      "Cliftonhill",
+      "New Douglas Park",
+      "Firhill",
+      "Broadwood Stadium"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shawfield Stadium",
+      "Broadwood"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Which speedway team raced at Shawfield from 1988?",
+    "options": [
+      "Belle Vue Aces",
+      "Glasgow Tigers",
+      "Berwick Bandits",
+      "Edinburgh Monarchs"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shawfield Stadium",
+      "Glasgow Tigers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Why was greyhound racing at Shawfield suspended in March 2020?",
+    "options": [
+      "A ban by the council",
+      "Flooding",
+      "A fire",
+      "COVID-19"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shawfield Stadium",
+      "2020"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "Shawfield was the last remaining licensed track in Scotland for which sport?",
+    "options": [
+      "Stock car racing",
+      "Harness racing",
+      "Speedway",
+      "Greyhound racing"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Shawfield Stadium"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which bookmaker's consortium reopened Shawfield in 1987?",
+    "options": [
+      "Joe Coral's",
+      "Billy King's",
+      "Fred Done's",
+      "William Hill's"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shawfield Stadium",
+      "Billy King"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which greyhound cup, formerly run at Carntyne, came to Shawfield in 1971?",
+    "options": [
+      "The St Mungo Cup",
+      "The Clyde Stakes",
+      "The Glasgow Cup",
+      "The Scottish Grand National"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Shawfield Stadium",
+      "St Mungo Cup"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "Which club did Clyde play when a wall collapsed at Shawfield in 1957?",
+    "options": [
+      "Partick Thistle",
+      "Rangers",
+      "Celtic",
+      "Hearts"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Shawfield Stadium",
+      "1957"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "sport",
+    "difficulty": 4,
+    "question": "In which year was greyhound racing formally banned in Scotland?",
+    "options": [
+      "2026",
+      "2016",
+      "2020",
+      "2023"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Shawfield Stadium",
+      "greyhound ban"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "sport",
+    "difficulty": 5,
+    "question": "Who was the first recorded greyhound winner at Shawfield in 1932?",
+    "options": [
+      "Mick the Miller",
+      "Swordmanship",
+      "Ballyregan Bob",
+      "Mad Midnight"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Shawfield Stadium",
+      "Swordmanship"
+    ],
+    "source": "manual"
+  }
+]

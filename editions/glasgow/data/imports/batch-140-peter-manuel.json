@@ -1,0 +1,61 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "In which prison was Peter Manuel hanged in 1958?",
+    "options": [
+      "Duke Street",
+      "Peterhead",
+      "Barlinnie",
+      "Saughton"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Peter Manuel",
+      "Barlinnie"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Peter Manuel was known as the \"Beast of\" where?",
+    "options": [
+      "Bothwell",
+      "Barrhead",
+      "Blantyre",
+      "Birkenshaw"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Peter Manuel",
+      "nickname"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which city was Peter Manuel born?",
+    "options": [
+      "New York",
+      "Belfast",
+      "Coventry",
+      "Glasgow"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Peter Manuel"
+    ],
+    "source": "manual"
+  }
+]

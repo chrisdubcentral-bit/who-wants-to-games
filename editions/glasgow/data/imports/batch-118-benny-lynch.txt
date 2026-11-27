@@ -1,0 +1,7 @@
+# Benny Lynch. Source: https://en.wikipedia.org/wiki/Benny_Lynch
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | sport | Whom did Benny Lynch beat at Wembley in 1937 to become undisputed world flyweight champion? | Small Montana | Peter Kane | Jackie Brown | Jackie Jurich | Benny Lynch; Small Montana
+3 | sport | How did Benny Lynch lose his world flyweight title in 1938? | He failed to make the weight | He was knocked out | He lost on points | He retired injured | Benny Lynch; weight
+3 | sport | What was Benny Lynch's affectionate nickname? | Our Benny | The Gorbals Kid | Bonnie Benny | The Wee Champ | Benny Lynch; nickname
+4 | sport | At which Glasgow ground did Benny Lynch knock out Peter Kane in 1937? | Shawfield Park | Hampden Park | Celtic Park | Firhill | Benny Lynch; Shawfield; Peter Kane
+4 | sport | Which Scottish actor narrated a 2003 documentary about Benny Lynch? | Robert Carlyle | Peter Mullan | Billy Connolly | Robbie Coltrane | Benny Lynch; Robert Carlyle

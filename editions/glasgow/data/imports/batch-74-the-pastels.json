@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "In which year did The Pastels form in Glasgow?",
+    "options": [
+      "1986",
+      "1976",
+      "1981",
+      "1991"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Pastels"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "labels-scene",
+    "difficulty": 3,
+    "question": "Which Glasgow record shop are The Pastels partners in?",
+    "options": [
+      "Monorail",
+      "Avalanche",
+      "Missing Records",
+      "Fopp"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Pastels",
+      "Monorail"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 3,
+    "question": "Which 1986 NME compilation featured The Pastels?",
+    "options": [
+      "C86",
+      "Indie Top 20",
+      "C81",
+      "Sound of Young Scotland"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Pastels",
+      "C86"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Where did The Pastels play their first gig?",
+    "options": [
+      "The Venue",
+      "King Tut's",
+      "Glasgow School of Art",
+      "Bearsden Burgh Hall"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Pastels",
+      "Bearsden Burgh Hall"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "songs-albums",
+    "difficulty": 4,
+    "question": "What was the title of The Pastels' 1987 debut album?",
+    "options": [
+      "Mobile Safari",
+      "Illumination",
+      "Up for a Bit with The Pastels",
+      "Sittin' Pretty"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Pastels",
+      "Up for a Bit with The Pastels"
+    ],
+    "source": "manual"
+  }
+]

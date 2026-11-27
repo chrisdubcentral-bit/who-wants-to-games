@@ -1,0 +1,103 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "songs-albums",
+    "difficulty": 1,
+    "question": "Which Altered Images single reached No. 2 in the UK in 1981?",
+    "options": [
+      "Happy Birthday",
+      "I Could Be Happy",
+      "Dead Pop Stars",
+      "See Those Eyes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Altered Images",
+      "Happy Birthday"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "glasgow-bands",
+    "difficulty": 2,
+    "question": "Who was the lead singer of Altered Images?",
+    "options": [
+      "Lulu",
+      "Eddi Reader",
+      "Sharleen Spiteri",
+      "Clare Grogan"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Altered Images",
+      "Clare Grogan"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "The founders of Altered Images were all members of which band's fan club?",
+    "options": [
+      "The Clash",
+      "Buzzcocks",
+      "Siouxsie and the Banshees",
+      "Joy Division"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Altered Images",
+      "Siouxsie and the Banshees"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Which Radio 1 DJ championed Altered Images early on?",
+    "options": [
+      "Steve Wright",
+      "Kid Jensen",
+      "John Peel",
+      "Simon Bates"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Altered Images",
+      "John Peel"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "glasgow-bands",
+    "difficulty": 4,
+    "question": "Altered Images took their name from a sleeve design by which band?",
+    "options": [
+      "Buzzcocks",
+      "The Undertones",
+      "Wire",
+      "Magazine"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Altered Images",
+      "band name",
+      "Buzzcocks"
+    ],
+    "source": "manual"
+  }
+]

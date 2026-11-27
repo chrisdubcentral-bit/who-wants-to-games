@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which Simple Minds video, filmed there in 1983, relaunched the Barrowland as a concert venue?",
+    "options": [
+      "Promised You a Miracle",
+      "Alive and Kicking",
+      "Don't You (Forget About Me)",
+      "Waterfront"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barrowland",
+      "Simple Minds",
+      "Waterfront"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Who built the original Barrowland Ballroom, and was known as the \"Barras Queen\"?",
+    "options": [
+      "Mary Barbour",
+      "Maggie McIver",
+      "Jessie Kesson",
+      "Margaret Thomson"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barrowland",
+      "Maggie McIver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "In which year did the original Barrowland Ballroom open?",
+    "options": [
+      "1934",
+      "1922",
+      "1948",
+      "1960"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barrowland"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band has played sold-out Barrowland gigs every St Patrick's Day since 1992?",
+    "options": [
+      "Stiff Little Fingers",
+      "The Undertones",
+      "The Pogues",
+      "Runrig"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barrowland",
+      "Stiff Little Fingers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "On what date did the rebuilt Barrowland Ballroom reopen after the 1958 fire?",
+    "options": [
+      "1 January 1960",
+      "14 February 1961",
+      "24 December 1960",
+      "31 December 1959"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Barrowland",
+      "1958 fire"
+    ],
+    "source": "manual"
+  }
+]

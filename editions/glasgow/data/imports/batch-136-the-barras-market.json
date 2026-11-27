@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "patter",
+    "difficulty": 1,
+    "question": "In Glaswegian dialect, what is a \"barra\", which gave The Barras market its name?",
+    "options": [
+      "A barrow",
+      "A barrel",
+      "A bar",
+      "A barricade"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Barras",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which husband and wife founded The Barras market?",
+    "options": [
+      "Tom and Agnes Gallagher",
+      "William and Jean Templeton",
+      "John and Mary Barr",
+      "James and Maggie McIver"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Barras",
+      "McIver"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "On which main road out of the city towards Parkhead is The Barras?",
+    "options": [
+      "Duke Street",
+      "High Street",
+      "London Road",
+      "Gallowgate"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Barras",
+      "Gallowgate"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "In which district of Glasgow is The Barras market?",
+    "options": [
+      "Gorbals",
+      "Calton",
+      "Dennistoun",
+      "Bridgeton"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Barras",
+      "Calton"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 4,
+    "question": "In which year did Maggie McIver decide to cover The Barras market?",
+    "options": [
+      "1926",
+      "1948",
+      "1910",
+      "1934"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Barras",
+      "1926"
+    ],
+    "source": "manual"
+  }
+]

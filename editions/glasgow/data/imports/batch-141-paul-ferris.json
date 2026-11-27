@@ -1,0 +1,63 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "film-tv",
+    "difficulty": 2,
+    "question": "Which actor played Paul Ferris in the 2013 film The Wee Man?",
+    "options": [
+      "James McAvoy",
+      "Martin Compston",
+      "Robert Carlyle",
+      "Gerard Butler"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Paul Ferris",
+      "The Wee Man",
+      "Martin Compston"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "What was the title of Paul Ferris's first book, published in 2001?",
+    "options": [
+      "Villains",
+      "Vendetta",
+      "Deadly Divisions",
+      "The Ferris Conspiracy"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Paul Ferris",
+      "The Ferris Conspiracy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which Glasgow district was Paul Ferris born?",
+    "options": [
+      "Govan",
+      "Easterhouse",
+      "Blackhill",
+      "Possilpark"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Paul Ferris",
+      "Blackhill"
+    ],
+    "source": "manual"
+  }
+]

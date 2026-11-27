@@ -1,0 +1,12 @@
+# Victoria Park, Glasgow. Source: https://en.wikipedia.org/wiki/Victoria_Park,_Glasgow
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | landmarks | What famous ancient feature was discovered when Victoria Park was being built? | The Fossil Grove | A Roman fort | A Viking ship | A Bronze Age burial | Victoria Park; Fossil Grove
+2 | landmarks | Victoria Park was created to mark which event in 1887? | Queen Victoria's jubilee | The Glasgow Exhibition | The opening of the subway | The founding of Partick Thistle | Victoria Park; jubilee
+3 | landmarks | Who formally opened Victoria Park in 1887? | The Provost of Partick | Queen Victoria | The Lord Provost of Glasgow | The Prince of Wales | Victoria Park; opening
+3 | landmarks | Who built Victoria Park in the 1880s? | Unemployed men needing work | Prisoners from Barlinnie | Soldiers from Maryhill Barracks | Shipyard apprentices | Victoria Park; builders
+3 | landmarks | Who paid for Victoria Park's Jubilee Gates in 1887? | The "Ladies of Partick" | Queen Victoria | The Maxwell family | The Glasgow Corporation | Victoria Park; Jubilee Gates
+3 | landmarks | Which foundry made Victoria Park's Jubilee Gates? | Macfarlane's Saracen Foundry | Carron Ironworks | Beardmore's Parkhead Forge | Walter Macfarlane's Possil Works | Victoria Park; Saracen Foundry
+3 | landmarks | Which sport is Victoria Park understood to be the UK's only dedicated ground for? | Australian Rules football | Lacrosse | Baseball | Hurling | Victoria Park; Australian Rules
+3 | landmarks | Which birds form Scotland's most northerly flock of their kind in Victoria Park? | Parakeets | Flamingos | Peacocks | Pelicans | Victoria Park; parakeets
+4 | landmarks | Which ship is commemorated by a monument in Victoria Park? | SS Daphne | Queen Mary | PS Waverley | HMS Hood | Victoria Park; SS Daphne
+4 | landmarks | Which tunnel's approach roads took a large section of Victoria Park in the 1960s? | The Clyde Tunnel | The Kingston Tunnel | The Finnieston Tunnel | The Govan Tunnel | Victoria Park; Clyde Tunnel

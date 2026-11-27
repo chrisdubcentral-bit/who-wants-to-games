@@ -57,6 +57,11 @@ from-date, ask again.
   Scooby-Doo Cluedo bullets). Only use facts that the title, the box/cover photo or the user's notes agree with.
   Leave the price out of the advert, because it changes.
 - Read any extra pages the user gave in step 5.
+- **Shop links (not Amazon)**, e.g. a `*.myspreadshop.co.uk` store: there is no tag to check. Read the shop's home
+  page for its tagline (`og:description`) and product range, use "Shop Now" as the button and show the web address in
+  the copy. Build it as a product card cycling through 5 shots, like
+  `Marketing/editions/celtic/Adverts/rhebel-rhebel/` or `Marketing/editions/glasgow/Adverts/get-around-glasgow/`.
+  A folder of images the user names in step 5 counts as supplied for this advert.
 
 ## 2. Choose the artwork
 
@@ -67,6 +72,10 @@ from-date, ask again.
   sit about 110% wide so the cover's title isn't cut off at the sides. Put the card's tag in the bottom corner
   (`bottom: 28px`), because a top-corner tag covers the start of the cover's title. Celtic example:
   `Marketing/editions/celtic/Adverts/jungle-days/`.
+- A **landscape cover** needs a wide card (landscape ~780x630, portrait ~960x860) and a close-up that pans
+  sideways across it. Example: `Marketing/editions/glasgow/Adverts/depardon-glasgow/` (also the Glasgow "Red Wash"
+  look: red/bone/black, Anton with a red offset print, Special Elite typewriter text, grain, the edition's gig photo).
+- Listings sometimes include images of other products (the Depardon listing's 2nd image was a different book).
 - Use only the product's own listing photos or images the user supplied for this advert. Never use press photos of
   players or bands, or anything from the OneDrive folders the user hasn't cleared (see the Marketing memory note).
 - Copy the chosen image into `Marketing/editions/<edition>/Adverts/<advert-slug>/media/` with a plain name
@@ -129,7 +138,7 @@ if the user wants social media versions.
 ```
 
 - **`after` must be a `key` from that edition's `data/meta/stages.json`.** Stage keys differ between editions
-  (Celtic: `round-1`; Beatles: `royal-albert-hall`). Unless the user named a break, use the stage the admin page
+  (Celtic: `round-1`; Beatles: `royal-albert-hall`; Glasgow: `qmu`). Unless the user named a break, use the stage the admin page
   defaults to: the 4th stage (index `min(3, stages - 2)`). Adverts sharing a break take turns, one per game.
 - If there is no affiliate link yet, add the entry with `"enabled": false` and say so.
 - If the edition isn't live, skip this step and say the videos are ready for when it is.

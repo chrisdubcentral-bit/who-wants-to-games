@@ -1,0 +1,5 @@
+# Tuxedo floating nightclubs. Source: https://en.wikipedia.org/wiki/Tuxedo_floating_nightclubs
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | venues-gigs | What were the Tuxedo Princess and Tuxedo Royale before becoming floating nightclubs? | Car ferries | Warships | Paddle steamers | Cruise liners | Tuxedo Princess; floating nightclub
+3 | venues-gigs | What was the Tuxedo Princess's original ferry name? | Caledonian Princess | Clyde Princess | Royal Scotsman | Queen of the Isles | Tuxedo Princess; Caledonian Princess
+4 | venues-gigs | On which river was the Tuxedo Princess moored for most of its life? | The Tyne | The Clyde | The Thames | The Tees | Tuxedo Princess; Tyne

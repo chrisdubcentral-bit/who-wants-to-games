@@ -1,0 +1,7 @@
+# Bert Jansch. Source: https://en.wikipedia.org/wiki/Bert_Jansch
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | glasgow-bands | Which folk band did Glasgow-born guitarist Bert Jansch co-found in 1968? | Pentangle | Fairport Convention | Steeleye Span | The Incredible String Band | Bert Jansch; Pentangle
+3 | glasgow-bands | Which Led Zeppelin track was based on Bert Jansch's arrangement of "Blackwaterside"? | Black Mountain Side | Going to California | Bron-Yr-Aur | Tangerine | Bert Jansch; Led Zeppelin
+3 | famous-glaswegians | In which Glasgow hospital was Bert Jansch born in 1943? | Stobhill Hospital | Glasgow Royal Infirmary | The Western Infirmary | The Southern General | Bert Jansch; Stobhill
+4 | songs-albums | Bert Jansch's "Needle of Death" is a lament warning against what? | Drugs | War | Drink | Gambling | Bert Jansch; Needle of Death
+4 | glasgow-bands | Which guitarist did Bert Jansch record the 1966 album "Bert and John" with? | John Renbourn | John Martyn | John McLaughlin | John Paul Jones | Bert Jansch; John Renbourn

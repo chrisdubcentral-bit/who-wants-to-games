@@ -1,0 +1,7 @@
+# Glasgow Corporation Tramways. Source: https://en.wikipedia.org/wiki/Glasgow_Corporation_Tramways
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | In which year did Glasgow's trams stop running? | 1962 | 1952 | 1972 | 1948 | Glasgow trams; 1962
+3 | history | Glasgow's "Coronation" trams were named for the year of which king's coronation? | George VI | Edward VII | George V | Edward VIII | Glasgow trams; Coronation cars
+3 | history | The last Glasgow tram route, number 9, ran from Auchenshuggle to where? | Dalmuir | Partick | Rutherglen | Milngavie | Glasgow trams; route 9; Auchenshuggle
+3 | history | Roughly how many people watched Glasgow's farewell tram procession in 1962? | 250,000 | 25,000 | 75,000 | 1 million | Glasgow trams; farewell procession
+4 | history | What were the Coronation Mk II trams, built from 1948 to 1952, known as? | Cunarders | Clydesiders | Green Goddesses | Standards | Glasgow trams; Cunarder

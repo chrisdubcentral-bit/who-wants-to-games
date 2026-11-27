@@ -1,0 +1,102 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "glasgow-bands",
+    "difficulty": 1,
+    "question": "Jack Bruce was bassist and lead singer of which 1960s supergroup with Eric Clapton and Ginger Baker?",
+    "options": [
+      "The Yardbirds",
+      "Blind Faith",
+      "Traffic",
+      "Cream"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jack Bruce",
+      "Cream"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "songs-albums",
+    "difficulty": 2,
+    "question": "Which Cream song did Jack Bruce co-write with Pete Brown?",
+    "options": [
+      "Crossroads",
+      "Sunshine of Your Love",
+      "Layla",
+      "Badge"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Jack Bruce",
+      "Sunshine of Your Love"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "famous-glaswegians",
+    "difficulty": 3,
+    "question": "In which town near Glasgow was Jack Bruce born in 1943?",
+    "options": [
+      "Kirkintilloch",
+      "Paisley",
+      "Bishopbriggs",
+      "Rutherglen"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Jack Bruce",
+      "Bishopbriggs"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "glasgow-bands",
+    "difficulty": 3,
+    "question": "Jack Bruce had a UK No. 1 with which band's \"Pretty Flamingo\" in 1966?",
+    "options": [
+      "The Animals",
+      "The Kinks",
+      "The Hollies",
+      "Manfred Mann"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jack Bruce",
+      "Manfred Mann"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "famous-glaswegians",
+    "difficulty": 4,
+    "question": "Which instrument did Jack Bruce win a scholarship to study at the Royal Scottish Academy of Music and Drama?",
+    "options": [
+      "Trumpet",
+      "Piano",
+      "Violin",
+      "Cello"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Jack Bruce",
+      "cello"
+    ],
+    "source": "manual"
+  }
+]

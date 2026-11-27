@@ -1,0 +1,301 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "food-drink",
+    "difficulty": 1,
+    "question": "Which company makes Irn-Bru?",
+    "options": [
+      "A.G. Barr",
+      "Tunnock's",
+      "Walkers",
+      "Baxters"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Irn-Bru",
+      "A.G. Barr"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "food-drink",
+    "difficulty": 1,
+    "question": "Irn-Bru is often described as Scotland's \"other national drink\" after what?",
+    "options": [
+      "Scotch whisky",
+      "Buckfast",
+      "Tea",
+      "Tennent's lager"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Irn-Bru"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "food-drink",
+    "difficulty": 1,
+    "question": "Which famous advertising tagline said Irn-Bru was \"Made in Scotland from...\" what?",
+    "options": [
+      "Girders",
+      "Thistles",
+      "Iron ore",
+      "Rivets"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Irn-Bru",
+      "girders"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "What was Irn-Bru originally called?",
+    "options": [
+      "Ironade",
+      "Barr's Iron",
+      "Iron Brew",
+      "Bru-Iron"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Irn-Bru",
+      "Iron Brew"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "In which year was Barr's drink officially launched, according to Irn-Bru's history?",
+    "options": [
+      "1889",
+      "1948",
+      "1923",
+      "1901"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Irn-Bru",
+      "1901"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Which Christmas cartoon did a famous 2006 Irn-Bru advert parody?",
+    "options": [
+      "The Grinch",
+      "A Christmas Carol",
+      "The Snowman",
+      "Frosty the Snowman"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Irn-Bru",
+      "The Snowman"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "In which town is Irn-Bru now produced, at Westfield?",
+    "options": [
+      "Livingston",
+      "Falkirk",
+      "East Kilbride",
+      "Cumbernauld"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Irn-Bru",
+      "Cumbernauld"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "In which year was Irn-Bru first sold under that spelling?",
+    "options": [
+      "1932",
+      "1965",
+      "1948",
+      "1901"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Irn-Bru",
+      "name"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Why did Barr cut the sugar in Irn-Bru in January 2018?",
+    "options": [
+      "After an EU ban",
+      "Because of the UK sugar tax",
+      "After a fall in sales",
+      "To launch in America"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Irn-Bru",
+      "sugar tax"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "In which Glasgow district was the Irn-Bru factory before the move to Cumbernauld?",
+    "options": [
+      "Partick",
+      "Parkhead",
+      "Possilpark",
+      "Govan"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Irn-Bru",
+      "Parkhead"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "What was the comic-strip character in Irn-Bru adverts from 1939 to 1970 called?",
+    "options": [
+      "Barr Man",
+      "Ba-Bru",
+      "Iron Jock",
+      "Bru Boy"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Irn-Bru",
+      "Ba-Bru"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Irn-Bru is the third best-selling soft drink in the UK after Coca-Cola and which other drink?",
+    "options": [
+      "Fanta",
+      "Lucozade",
+      "Sprite",
+      "Pepsi"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Irn-Bru",
+      "UK sales"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "What did Scots call the deposit on returnable Irn-Bru glass bottles?",
+    "options": [
+      "A glass cheque",
+      "A ginger penny",
+      "A bottle bond",
+      "A Barr bob"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Irn-Bru",
+      "glass cheque"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "Which Hollywood-bound actor starred in a 2009 Irn-Bru advert parodying High School Musical?",
+    "options": [
+      "James McAvoy",
+      "Jack Lowden",
+      "Sam Heughan",
+      "Richard Madden"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Irn-Bru",
+      "Jack Lowden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "In which year did the Irn-Bru bottle deposit scheme end?",
+    "options": [
+      "2016",
+      "2006",
+      "2020",
+      "2010"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Irn-Bru",
+      "bottle deposit"
+    ],
+    "source": "manual"
+  }
+]

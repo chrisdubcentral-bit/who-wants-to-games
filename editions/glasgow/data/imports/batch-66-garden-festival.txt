@@ -1,0 +1,7 @@
+# Glasgow Garden Festival. Source: https://en.wikipedia.org/wiki/Glasgow_Garden_Festival
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | history | Who conducted the opening ceremony of the 1988 Glasgow Garden Festival? | Prince Charles and Princess Diana | The Queen and Prince Philip | Margaret Thatcher | The Queen Mother | Glasgow Garden Festival; opening
+3 | history | Roughly how many people visited the 1988 Glasgow Garden Festival? | 4.3 million | 1.2 million | 800,000 | 9 million | Glasgow Garden Festival; visitors
+3 | history | What was the Glasgow Garden Festival site renamed afterwards? | Pacific Quay | Plantation Park | Festival Park | Clyde Quay | Glasgow Garden Festival; Pacific Quay
+3 | history | Which pedestrian swing bridge was built across the Clyde for the 1988 Garden Festival? | Bell's Bridge | Clyde Arc | Tradeston Bridge | Millennium Bridge | Glasgow Garden Festival; Bell's Bridge
+4 | history | To which Welsh town was the Garden Festival's Clydesdale Bank tower moved? | Rhyl | Llandudno | Aberystwyth | Swansea | Glasgow Garden Festival; Rhyl

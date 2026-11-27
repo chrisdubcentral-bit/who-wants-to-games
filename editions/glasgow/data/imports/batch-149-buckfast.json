@@ -1,0 +1,101 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "food-drink",
+    "difficulty": 1,
+    "question": "Buckfast Tonic Wine was originally made by monks at which abbey?",
+    "options": [
+      "Paisley Abbey",
+      "Buckfast Abbey",
+      "Melrose Abbey",
+      "Fort Augustus Abbey"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Buckfast"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "In which English county is Buckfast Abbey?",
+    "options": [
+      "Devon",
+      "Cornwall",
+      "Somerset",
+      "Dorset"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Buckfast",
+      "Devon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Which stimulant does Buckfast Tonic Wine famously contain?",
+    "options": [
+      "Guarana",
+      "Taurine",
+      "Ginseng",
+      "Caffeine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Buckfast",
+      "caffeine"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which company distributes Buckfast in Great Britain?",
+    "options": [
+      "Diageo",
+      "J. Chandler & Company",
+      "Whyte & Mackay",
+      "A.G. Barr"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Buckfast",
+      "J. Chandler"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Which nickname for Buckfast is named after a Lanarkshire town?",
+    "options": [
+      "Hamilton Hooch",
+      "Airdrie Ale",
+      "Motherwell Merlot",
+      "Coatbridge Table Wine"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Buckfast",
+      "nickname"
+    ],
+    "source": "manual"
+  }
+]

@@ -1,0 +1,12 @@
+# Ibrox Stadium. Source: https://en.wikipedia.org/wiki/Ibrox_Stadium
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+2 | sport | Who designed Ibrox Stadium? | Archibald Leitch | Charles Rennie Mackintosh | Alexander Thomson | William Leiper | Ibrox Stadium; Archibald Leitch
+3 | sport | Which team did Rangers beat 3-1 when Ibrox Park opened on 30 December 1899? | Hearts | Hibernian | Celtic | Queen's Park | Ibrox Stadium; 1899; Hearts
+4 | sport | What is Ibrox's record attendance, set against Celtic on 2 January 1939? | 118,567 | 98,230 | 134,000 | 105,412 | Ibrox Stadium; record attendance; 1939
+2 | sport | What is the all-seated capacity of Ibrox Stadium? | 51,700 | 60,411 | 44,000 | 38,500 | Ibrox Stadium; capacity
+3 | sport | In which year was Ibrox Park renamed Ibrox Stadium after renovations? | 1997 | 1981 | 1971 | 2004 | Ibrox Stadium; Ibrox Park; 1997
+4 | landmarks | In which year did the Ibrox Main Stand become a Category B listed building? | 1987 | 1929 | 1971 | 1999 | Ibrox Stadium; Main Stand; listed
+5 | sport | Which writer called the Ibrox Main Stand Archibald Leitch's "greatest work"? | Simon Inglis | Hugh McIlvanney | Archie Macpherson | Stuart Cosgrove | Ibrox Stadium; Main Stand; Simon Inglis
+3 | sport | Which sport did Ibrox host at the 2014 Commonwealth Games? | Rugby sevens | Athletics | Hockey | Boxing | Ibrox Stadium; 2014 Commonwealth Games; rugby sevens
+4 | sport | Against which club were the Ibrox floodlights first used, in December 1953? | Arsenal | Manchester United | Tottenham Hotspur | Real Madrid | Ibrox Stadium; floodlights; 1953
+3 | sport | What is the name of the east stand at Ibrox Stadium? | Copland Road | Broomloan Road | Bill Struth Main | Edmiston Drive | Ibrox Stadium; Copland Road stand

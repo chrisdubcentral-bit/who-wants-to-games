@@ -1,0 +1,32 @@
+# Kenny Dalglish. Source: https://en.wikipedia.org/wiki/Kenny_Dalglish
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | sport | What is Kenny Dalglish's famous nickname among Liverpool fans? | King Kenny | The Big Yin | The Wee Man | Super Ken | Kenny Dalglish; King Kenny
+1 | sport | Which Scottish club did Kenny Dalglish play for before joining Liverpool in 1977? | Celtic | Rangers | Aberdeen | Partick Thistle | Kenny Dalglish; Celtic
+1 | sport | Which Liverpool striker did Kenny Dalglish replace in 1977? | Kevin Keegan | Ian Rush | John Toshack | Ian St John | Kenny Dalglish; Kevin Keegan
+2 | famous-glaswegians | In which area of Glasgow was Kenny Dalglish born? | Dalmarnock | Govan | Partick | Easterhouse | Kenny Dalglish; Dalmarnock
+2 | sport | How many caps did Kenny Dalglish win for Scotland? | 102 | 87 | 55 | 120 | Kenny Dalglish; Scotland caps
+2 | sport | Which club did Kenny Dalglish manage to the 1994–95 Premier League title? | Blackburn Rovers | Newcastle United | Liverpool | Everton | Kenny Dalglish; Blackburn Rovers; 1994–95
+2 | sport | Which club did Kenny Dalglish support as a boy? | Rangers | Celtic | Partick Thistle | Queen's Park | Kenny Dalglish; Rangers
+2 | sport | In which year did Kenny Dalglish become Liverpool player-manager? | 1985 | 1981 | 1988 | 1991 | Kenny Dalglish; player-manager
+2 | sport | Which team did Kenny Dalglish score the winner against in the 1978 European Cup final? | Club Brugge | Borussia Mönchengladbach | Real Madrid | Hamburg | Kenny Dalglish; European Cup 1978
+2 | sport | Which striker did Kenny Dalglish famously form a partnership with at Liverpool? | Ian Rush | John Aldridge | Peter Beardsley | David Fairclough | Kenny Dalglish; Ian Rush
+3 | sport | What was the British record fee Liverpool paid Celtic for Kenny Dalglish in 1977? | £440,000 | £180,000 | £1 million | £750,000 | Kenny Dalglish; transfer
+3 | sport | How many goals did Kenny Dalglish score for Scotland? | 30 | 22 | 18 | 41 | Kenny Dalglish; Scotland goals
+3 | sport | Kenny Dalglish's 30 Scotland goals equalled the record of which player? | Denis Law | Ally McCoist | Hughie Gallacher | Lawrie Reilly | Kenny Dalglish; Denis Law
+3 | sport | Which striker did Kenny Dalglish sign for Blackburn for a British record £3.5 million in 1992? | Alan Shearer | Chris Sutton | Mike Newell | Stan Collymore | Kenny Dalglish; Alan Shearer
+3 | sport | Which manager did Kenny Dalglish succeed at Newcastle United in January 1997? | Kevin Keegan | Ruud Gullit | Bobby Robson | Jack Charlton | Kenny Dalglish; Newcastle; Kevin Keegan
+3 | sport | Which Blackburn owner brought Kenny Dalglish to the club in 1991? | Jack Walker | Ken Bates | Freddie Shepherd | Peter Swales | Kenny Dalglish; Jack Walker
+3 | sport | Which manager did Kenny Dalglish replace as Liverpool caretaker in January 2011? | Roy Hodgson | Rafael Benítez | Gérard Houllier | Brendan Rodgers | Kenny Dalglish; Roy Hodgson; 2011
+3 | sport | Liverpool won which trophy in 2012 under Kenny Dalglish, their first since 2006? | The League Cup | The FA Cup | The Europa League | The Premier League | Kenny Dalglish; League Cup 2012
+3 | sport | In 1985–86, Kenny Dalglish's Liverpool won the double, beating which team in the FA Cup final? | Everton | Manchester United | Arsenal | Wimbledon | Kenny Dalglish; 1986 FA Cup final
+3 | sport | Which team beat Kenny Dalglish's Liverpool in the 1988 FA Cup final? | Wimbledon | Everton | Arsenal | Coventry City | Kenny Dalglish; 1988 FA Cup final
+3 | sport | Which German legend presented Kenny Dalglish with his 100th Scotland cap in 1986? | Franz Beckenbauer | Gerd Müller | Karl-Heinz Rummenigge | Berti Vogts | Kenny Dalglish; 100th cap; Franz Beckenbauer
+3 | sport | Who did Kenny Dalglish work with as head coach when he became Celtic's director of football in 1999? | John Barnes | Martin O'Neill | Wim Jansen | Tommy Burns | Kenny Dalglish; Celtic; John Barnes
+3 | famous-glaswegians | In which year was Kenny Dalglish knighted? | 2018 | 2008 | 2012 | 2023 | Kenny Dalglish; knighthood
+4 | sport | Which Lanarkshire junior club was Kenny Dalglish loaned to in his first season at Celtic, scoring 37 goals? | Cumbernauld United | Kirkintilloch Rob Roy | Pollok | Petershill | Kenny Dalglish; Cumbernauld United
+4 | sport | What was the nickname of the Celtic reserve side Kenny Dalglish played in? | The Quality Street Gang | The Lisbon Lions | The Kelly Kids | The Famous Five | Kenny Dalglish; Quality Street Gang
+4 | sport | Which goalkeeper did Kenny Dalglish famously nutmeg to score the winner for Scotland against England in 1976? | Ray Clemence | Peter Shilton | Gordon Banks | Joe Corrigan | Kenny Dalglish; Ray Clemence; 1976
+4 | sport | Which player was Kenny Dalglish's first signing as Liverpool manager? | Steve McMahon | John Aldridge | Peter Beardsley | John Barnes | Kenny Dalglish; Steve McMahon
+4 | sport | Against which club did Kenny Dalglish score to clinch the 1985–86 league title at Stamford Bridge? | Chelsea | Everton | Arsenal | West Ham | Kenny Dalglish; Chelsea; 1985–86
+4 | sport | Which director directed the 2025 documentary "Kenny Dalglish"? | Asif Kapadia | Danny Boyle | Ken Loach | Kevin Macdonald | Kenny Dalglish; Asif Kapadia; documentary
+5 | sport | Which Glasgow secondary school did Kenny Dalglish attend? | High Possil Senior Secondary | King's Park Secondary | St Gerard's Secondary | Hillhead High School | Kenny Dalglish; High Possil

@@ -1,0 +1,5 @@
+# Peter Manuel. Source: https://en.wikipedia.org/wiki/Peter_Manuel
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+3 | history | In which prison was Peter Manuel hanged in 1958? | Barlinnie | Peterhead | Saughton | Duke Street | Peter Manuel; Barlinnie
+3 | history | Peter Manuel was known as the "Beast of" where? | Birkenshaw | Bothwell | Barrhead | Blantyre | Peter Manuel; nickname
+4 | history | In which city was Peter Manuel born? | New York | Glasgow | Coventry | Belfast | Peter Manuel

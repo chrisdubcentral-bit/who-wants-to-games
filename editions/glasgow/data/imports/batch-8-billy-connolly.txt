@@ -1,0 +1,32 @@
+# Billy Connolly. Source: https://en.wikipedia.org/wiki/Billy_Connolly
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | famous-glaswegians | What is Billy Connolly's famous nickname? | The Big Yin | The Wee Man | The Big Man | The Glesga Kid | Billy Connolly; The Big Yin
+1 | songs-albums | Which Billy Connolly single was a UK No. 1 in November 1975? | D.I.V.O.R.C.E. | The Welly Boot Song | In the Brownies | Super Gran | Billy Connolly; D.I.V.O.R.C.E.; 1975
+1 | film-tv | In which 2012 animated film did Billy Connolly voice King Fergus? | Brave | Up | Ratatouille | Inside Out | Billy Connolly; Brave; King Fergus
+1 | famous-glaswegians | Which actress and comedian did Billy Connolly marry in 1989? | Pamela Stephenson | Victoria Wood | Judi Dench | Dawn French | Billy Connolly; Pamela Stephenson
+2 | famous-glaswegians | Before comedy, Billy Connolly served an apprenticeship in which Glasgow trade? | Boilermaker in a shipyard | Joiner on building sites | Electrician on the railways | Printer at a newspaper | Billy Connolly; shipyard; Linthouse
+2 | glasgow-bands | Which folk band did Billy Connolly form in 1965? | The Humblebums | The Corries | The Incredible String Band | The Tannahill Weavers | Billy Connolly; The Humblebums
+2 | glasgow-bands | Which future "Baker Street" singer joined Billy Connolly in the Humblebums in 1969? | Gerry Rafferty | Joe Egan | Frankie Miller | Jim Diamond | Billy Connolly; Gerry Rafferty; The Humblebums
+2 | film-tv | In the 1997 film Mrs Brown, Billy Connolly played the servant of which monarch? | Queen Victoria | Queen Elizabeth I | Queen Anne | Mary, Queen of Scots | Billy Connolly; Mrs Brown; Queen Victoria
+2 | film-tv | On which BBC chat show did Billy Connolly appear a record 15 times? | Parkinson | Wogan | The Graham Norton Show | Friday Night with Jonathan Ross | Billy Connolly; Parkinson
+2 | venues-gigs | At which famous 1985 concert did Billy Connolly perform just before Elton John? | Live Aid | The Concert for Bangladesh | Nelson Mandela 70th Birthday Tribute | Band Aid 20 | Billy Connolly; Live Aid; 1985
+2 | film-tv | Which dwarf did Billy Connolly play in The Hobbit: The Battle of the Five Armies? | Dáin II Ironfoot | Thorin Oakenshield | Balin | Gimli | Billy Connolly; The Hobbit; Dáin
+2 | famous-glaswegians | In which year was Billy Connolly knighted? | 2017 | 2003 | 2010 | 2022 | Billy Connolly; knighthood
+3 | famous-glaswegians | In which area of Glasgow was Billy Connolly born, at 69 Dover Street? | Anderston | Partick | Drumchapel | Govan | Billy Connolly; Anderston
+3 | famous-glaswegians | In which Glasgow area was Billy Connolly raised by his aunts, in Stewartville Street? | Partick | Anderston | Maryhill | Gorbals | Billy Connolly; Partick
+3 | famous-glaswegians | Where did Billy Connolly buy his first banjo? | The Barras | Paddy's Market | Sauchiehall Street | Argyle Street | Billy Connolly; banjo; The Barras
+3 | film-tv | Which character did Billy Connolly play in The Boondock Saints? | Noah "Il Duce" MacManus | Paul Smecker | Rocco | Papa Joe Yakavetta | Billy Connolly; The Boondock Saints
+3 | film-tv | Which 2003 Tom Cruise film featured Billy Connolly as Sergeant Zebulon Gant? | The Last Samurai | Minority Report | Collateral | Vanilla Sky | Billy Connolly; The Last Samurai
+3 | film-tv | Which pirate did Billy Connolly play in Muppet Treasure Island? | Billy Bones | Long John Silver | Blind Pew | Captain Flint | Billy Connolly; Muppet Treasure Island
+3 | songs-albums | Billy Connolly's "D.I.V.O.R.C.E." was a spoof of a song by which country singer? | Tammy Wynette | Dolly Parton | Loretta Lynn | Patsy Cline | Billy Connolly; D.I.V.O.R.C.E.; Tammy Wynette
+3 | film-tv | In which 1990s US sitcom did Billy Connolly play teacher Billy MacGregor? | Head of the Class | Saved by the Bell | Boy Meets World | Welcome Back, Kotter | Billy Connolly; Head of the Class
+3 | famous-glaswegians | In 2010, Billy Connolly was given which honour by his home city? | The Freedom of the City of Glasgow | Glasgow's Lord Provost Award | An honorary Celtic season ticket | A statue in George Square | Billy Connolly; Freedom of the City
+3 | famous-glaswegians | In which year was Billy Connolly made a CBE? | 2003 | 1997 | 2010 | 2017 | Billy Connolly; CBE
+3 | famous-glaswegians | Which artist painted one of three 75th-birthday portraits of Billy Connolly that joined Glasgow's mural trail? | Jack Vettriano | Peter Howson | Alasdair Gray | Ken Currie | Billy Connolly; murals; Jack Vettriano
+4 | film-tv | Which BBC series saw Billy Connolly ride a custom Harley Davidson trike? | World Tour of Australia | World Tour of Scotland | A Scot in the Arctic | Route 66 | Billy Connolly; World Tour of Australia
+4 | venues-gigs | In which town's Tudor Hotel was Billy Connolly's 1974 album "Solo Concert" recorded? | Airdrie | Paisley | Cumbernauld | Motherwell | Billy Connolly; Solo Concert; Airdrie
+4 | famous-glaswegians | In which Glasgow district did Billy Connolly live from 14 to 20, on a council estate? | Drumchapel | Castlemilk | Easterhouse | Pollok | Billy Connolly; Drumchapel
+4 | labels-scene | Which record label signed the Humblebums? | Transatlantic Records | Island Records | Topic Records | Elektra Records | Billy Connolly; The Humblebums; Transatlantic Records
+4 | venues-gigs | In which town did Billy Connolly make his theatrical debut in 1972, at the Cottage Theatre? | Cumbernauld | East Kilbride | Airdrie | Paisley | Billy Connolly; Cumbernauld; Connolly's Glasgow Flourish
+5 | famous-glaswegians | At which Linthouse shipyard did Billy Connolly serve his apprenticeship? | Alexander Stephen and Sons | Harland and Wolff | Fairfield | Yarrow Shipbuilders | Billy Connolly; Alexander Stephen and Sons; Linthouse
+5 | glasgow-bands | Who founded the Humblebums with Billy Connolly in 1965? | Tam Harvey | Gerry Rafferty | Danny Kyle | Joe Egan | Billy Connolly; The Humblebums; Tam Harvey

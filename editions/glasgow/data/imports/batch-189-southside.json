@@ -1,0 +1,612 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "sport",
+    "difficulty": 2,
+    "question": "What is the name of Hampden's tour, with its museum of football memorabilia?",
+    "options": [
+      "The Scottish Football Vault",
+      "The Hampden Story",
+      "The Hampden Experience",
+      "The Mount Florida Tour"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "Hampden Experience"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "sport",
+    "difficulty": 3,
+    "question": "What is Rangers' building at Ibrox with a museum, store and café called?",
+    "options": [
+      "Broomloan House",
+      "Struth House",
+      "Copland House",
+      "Edmiston House"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Southside",
+      "Edmiston House",
+      "Rangers"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "In which year did Glasgow become the UK's first UNESCO City of Music?",
+    "options": [
+      "2014",
+      "1990",
+      "1999",
+      "2008"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Southside",
+      "UNESCO City of Music",
+      "2008"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which country park does Visit Glasgow call the highest point in Glasgow?",
+    "options": [
+      "Cathkin Braes",
+      "Linn Park",
+      "Pollok Country Park",
+      "Queen's Park"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Southside",
+      "Cathkin Braes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "How high above sea level is Cathkin Braes, according to Visit Glasgow?",
+    "options": [
+      "100 metres",
+      "500 metres",
+      "350 metres",
+      "200 metres"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Southside",
+      "Cathkin Braes"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which castle does Visit Glasgow call the city's only surviving medieval castle?",
+    "options": [
+      "Crookston Castle",
+      "Provan Hall",
+      "Cathcart Castle",
+      "Haggs Castle"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Southside",
+      "Crookston Castle"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "art-culture",
+    "difficulty": 2,
+    "question": "Who designed the House for an Art Lover?",
+    "options": [
+      "William Leiper",
+      "Archibald Leitch",
+      "Charles Rennie Mackintosh",
+      "Alexander Thomson"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "House for an Art Lover",
+      "Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Mackintosh designed the House for an Art Lover in 1901. In which year was it completed?",
+    "options": [
+      "1910",
+      "1989",
+      "1951",
+      "2001"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Southside",
+      "House for an Art Lover"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "In which park is the House for an Art Lover?",
+    "options": [
+      "Bellahouston Park",
+      "Pollok Country Park",
+      "Queen's Park",
+      "Rouken Glen"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Southside",
+      "House for an Art Lover",
+      "Bellahouston Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "history",
+    "difficulty": 3,
+    "question": "Which Mackintosh-designed school on the Southside is now a museum?",
+    "options": [
+      "Martyrs' Public School",
+      "Hutchesons' Grammar",
+      "Govan High School",
+      "Scotland Street School"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Southside",
+      "Scotland Street School",
+      "Mackintosh"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "Holmwood House in Cathcart was designed by which architect?",
+    "options": [
+      "William Leiper",
+      "John Burnet",
+      "Alexander \"Greek\" Thomson",
+      "Charles Rennie Mackintosh"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "Holmwood House",
+      "Alexander Thomson"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "In which year was Holmwood House in Cathcart built?",
+    "options": [
+      "1858",
+      "1830",
+      "1888",
+      "1901"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Southside",
+      "Holmwood House"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "history",
+    "difficulty": 4,
+    "question": "How many carved stones make up the Govan Stones and Govan Sarcophagus?",
+    "options": [
+      "31",
+      "12",
+      "7",
+      "50"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Southside",
+      "Govan Stones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "history",
+    "difficulty": 4,
+    "question": "The Govan Stones date from which centuries?",
+    "options": [
+      "15th to 17th",
+      "5th to 7th",
+      "9th to 11th",
+      "12th to 14th"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "Govan Stones"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "history",
+    "difficulty": 3,
+    "question": "What was the A-listed building that now houses Govan's Fairfield Heritage Centre?",
+    "options": [
+      "A church",
+      "A shipbuilding office",
+      "A tram depot",
+      "A school"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Southside",
+      "Govan",
+      "Fairfield Heritage Centre"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "art-culture",
+    "difficulty": 3,
+    "question": "Queen's Park Railway Club is an artist-run gallery in a former station what?",
+    "options": [
+      "Goods shed",
+      "Waiting room",
+      "Ticket office",
+      "Signal box"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Southside",
+      "Queen's Park Railway Club"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which spot in Queen's Park offers one of Glasgow's best city views?",
+    "options": [
+      "The glasshouse",
+      "The bandstand",
+      "The flagpole",
+      "The boating pond"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "Queen's Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "landmarks",
+    "difficulty": 3,
+    "question": "Which garden can you visit in Queen's Park?",
+    "options": [
+      "The Scottish Poetry Rose Garden",
+      "The Physic Garden",
+      "The Hidden Gardens",
+      "The Japanese Peace Garden"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Southside",
+      "Queen's Park",
+      "Scottish Poetry Rose Garden"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "landmarks",
+    "difficulty": 2,
+    "question": "Which Southside park has a large boating pond and a historic bandstand?",
+    "options": [
+      "Queen's Park",
+      "Cathkin Braes",
+      "Pollok Country Park",
+      "Linn Park"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Southside",
+      "Queen's Park"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which Southside music venue regularly welcomes international acts?",
+    "options": [
+      "King Tut's",
+      "The Barrowland",
+      "SWG3",
+      "The O2 Academy"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Southside",
+      "O2 Academy"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Southside café hosts indie gigs?",
+    "options": [
+      "Bramble Café",
+      "The Glad Café",
+      "Café Strange Brew",
+      "Brooklyn Café"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Southside",
+      "Glad Café"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "What is the summer live music and events series at Queen's Park Arena called?",
+    "options": [
+      "Summer in the Park",
+      "Southside Sessions",
+      "Summer Nights on The Southside",
+      "Queen's Park Live"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "Queen's Park Arena"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "Ranjit's Kitchen serves authentic dishes from which region?",
+    "options": [
+      "Kerala",
+      "Bengal",
+      "Panjab",
+      "Goa"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "Ranjit's Kitchen"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "What is unusual about the menu at Big Counter?",
+    "options": [
+      "It has only one dish",
+      "It changes every hour",
+      "You don't know it until you arrive",
+      "It is written in Gaelic"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "Big Counter"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "art-school",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Battlefield Rest is an iconic bistro serving which cuisine?",
+    "options": [
+      "French",
+      "Italian",
+      "Greek",
+      "Spanish"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Southside",
+      "Battlefield Rest"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "What was Ginesi's Artisan Gelato formerly called?",
+    "options": [
+      "Battlefield Café",
+      "Café Strange Brew",
+      "Queen's Café",
+      "Brooklyn Café"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "Ginesi's",
+      "Queen's Café"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "food-drink",
+    "difficulty": 4,
+    "question": "Peacock's in Battlefield makes ice cream in which style?",
+    "options": [
+      "North American",
+      "Turkish",
+      "French",
+      "Italian"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Southside",
+      "Battlefield",
+      "Peacock's"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "food-drink",
+    "difficulty": 3,
+    "question": "In which year was Rude Cookies established?",
+    "options": [
+      "2020",
+      "2012",
+      "2016",
+      "2023"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Southside",
+      "Rude Cookies"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "food-drink",
+    "difficulty": 2,
+    "question": "Bar Vini is known for antipasti, homemade pasta and what kind of wine?",
+    "options": [
+      "Fortified wines",
+      "Dessert wines",
+      "Ice wines",
+      "Natural wines"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Southside",
+      "Bar Vini"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "nice-n-sleazys",
+    "category": "landmarks",
+    "difficulty": 1,
+    "question": "Glasgow's Southside is known for its expansive parks and what kind of housing?",
+    "options": [
+      "Tower blocks",
+      "Thatched cottages",
+      "Traditional tenements",
+      "Modern townhouses"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Southside",
+      "tenements"
+    ],
+    "source": "manual"
+  }
+]

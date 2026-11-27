@@ -1,0 +1,541 @@
+[
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which New York band played the Barrowland in March 2002?",
+    "options": [
+      "The Strokes",
+      "Yeah Yeah Yeahs",
+      "Interpol",
+      "The Killers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barrowland",
+      "The Strokes",
+      "2002"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "king-tuts",
+    "category": "venues-gigs",
+    "difficulty": 2,
+    "question": "Which American band played the Glasgow Academy in December 2003 and again in December 2004?",
+    "options": [
+      "Kings of Leon",
+      "The White Stripes",
+      "The Strokes",
+      "The Killers"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "The Academy",
+      "Kings of Leon"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Irish-language rap trio played the Barrowland in November 2024?",
+    "options": [
+      "The Mary Wallopers",
+      "Kneecap",
+      "Sprints",
+      "Fontaines D.C."
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barrowland",
+      "Kneecap",
+      "2024"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which American hip-hop group played the Glasgow Academy in October 2006?",
+    "options": [
+      "Run-DMC",
+      "Wu-Tang Clan",
+      "Public Enemy",
+      "Beastie Boys"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Academy",
+      "Public Enemy",
+      "2006"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band supported Saint Etienne at The Mayfair in February 1993?",
+    "options": [
+      "Suede",
+      "Elastica",
+      "Blur",
+      "Pulp"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Mayfair",
+      "Saint Etienne",
+      "Pulp",
+      "1993"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band supported the Boo Radleys at the Tramway for Sound City in April 1994?",
+    "options": [
+      "Supergrass",
+      "Shed Seven",
+      "Blur",
+      "Oasis"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Tramway",
+      "Boo Radleys",
+      "Oasis",
+      "Sound City",
+      "1994"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band supported Blur at the Plaza Ballroom in May 1994?",
+    "options": [
+      "Pulp",
+      "Elastica",
+      "Sleeper",
+      "Echobelly"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "Plaza Ballroom",
+      "Blur",
+      "Sleeper",
+      "1994"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Icelandic band, fronted by Björk, played the Art School in March 1988?",
+    "options": [
+      "Sigur Rós",
+      "The Sugarcubes",
+      "Múm",
+      "Of Monsters and Men"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "The Art School",
+      "The Sugarcubes",
+      "1988"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which band supported Oasis at The Cathouse in June 1994?",
+    "options": [
+      "Ocean Colour Scene",
+      "The Verve",
+      "The Real People",
+      "Shed Seven"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "The Cathouse",
+      "Oasis",
+      "The Real People",
+      "1994"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Manchester band supported The Wedding Present at the Barrowland in November 1988?",
+    "options": [
+      "Inspiral Carpets",
+      "The Stone Roses",
+      "Happy Mondays",
+      "James"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barrowland",
+      "The Wedding Present",
+      "Inspiral Carpets",
+      "1988"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which James Murphy band played the Barrowland in April 2010?",
+    "options": [
+      "Hot Chip",
+      "!!!",
+      "The Rapture",
+      "LCD Soundsystem"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Barrowland",
+      "LCD Soundsystem",
+      "2010"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which Glasgow band played the QMU in August 2013 with The Amazing Snakeheads supporting?",
+    "options": [
+      "Franz Ferdinand",
+      "Biffy Clyro",
+      "Mogwai",
+      "Glasvegas"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "QMU",
+      "Franz Ferdinand",
+      "The Amazing Snakeheads",
+      "2013"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "oran-mor",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which shoegaze band played the QMU in February 1989?",
+    "options": [
+      "Slowdive",
+      "Lush",
+      "My Bloody Valentine",
+      "Ride"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "QMU",
+      "My Bloody Valentine",
+      "1989"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "qmu",
+    "category": "venues-gigs",
+    "difficulty": 3,
+    "question": "Which artist headlined TRNSMT on Glasgow Green in July 2024, with Sprints supporting?",
+    "options": [
+      "Alison Goldfrapp",
+      "The Snuts",
+      "Kasabian",
+      "Radiohead"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Glasgow Green",
+      "TRNSMT",
+      "Alison Goldfrapp",
+      "2024"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band supported Dinosaur Jr at the Barrowland in September 1991?",
+    "options": [
+      "Teenage Fanclub",
+      "The Boo Radleys",
+      "Mudhoney",
+      "Pavement"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "Barrowland",
+      "Dinosaur Jr",
+      "The Boo Radleys",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band supported Blur at King Tut's in May 1991?",
+    "options": [
+      "Slowdive",
+      "Catherine Wheel",
+      "Chapterhouse",
+      "Ride"
+    ],
+    "correctAnswer": 1,
+    "tags": [
+      "King Tut's",
+      "Blur",
+      "Catherine Wheel",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which Irish band supported Moose at The Venue in June 1991?",
+    "options": [
+      "The Frank and Walters",
+      "Something Happens",
+      "My Bloody Valentine",
+      "The Cranberries"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Venue",
+      "Moose",
+      "The Cranberries",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which American band played Oran Mor in October 2008?",
+    "options": [
+      "Grandaddy",
+      "Calexico",
+      "Wilco",
+      "Lambchop"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Oran Mor",
+      "Lambchop",
+      "2008"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band supported Sleaford Mods at the Barrowland in November 2021?",
+    "options": [
+      "Billy Nomates",
+      "Yard Act",
+      "Dry Cleaning",
+      "Idles"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "Barrowland",
+      "Sleaford Mods",
+      "Billy Nomates",
+      "2021"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which American band played SWG3 in June 2014?",
+    "options": [
+      "Parquet Courts",
+      "Pavement",
+      "Interpol",
+      "The Strokes"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "SWG3",
+      "Parquet Courts",
+      "2014"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "At which Glasgow venue did Happy Mondays play in December 1988, with The Stretchheads supporting?",
+    "options": [
+      "King Tut's",
+      "The Venue",
+      "The Barrowland",
+      "Rooftops"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "Rooftops",
+      "Happy Mondays",
+      "1988"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which Manchester band played King Tut's in March 1990?",
+    "options": [
+      "Inspiral Carpets",
+      "Happy Mondays",
+      "The Charlatans",
+      "The Stone Roses"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "King Tut's",
+      "The Charlatans",
+      "1990"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-academy",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band supported Chapterhouse at the QMU in October 1991?",
+    "options": [
+      "Belltower",
+      "Slowdive",
+      "Moose",
+      "Lush"
+    ],
+    "correctAnswer": 0,
+    "tags": [
+      "QMU",
+      "Chapterhouse",
+      "Belltower",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "swg3",
+    "category": "venues-gigs",
+    "difficulty": 4,
+    "question": "Which band supported Babes in Toyland at The Mayfair in August 1991?",
+    "options": [
+      "Hole",
+      "Mudhoney",
+      "L7",
+      "Fenn"
+    ],
+    "correctAnswer": 3,
+    "tags": [
+      "The Mayfair",
+      "Babes in Toyland",
+      "Fenn",
+      "1991"
+    ],
+    "source": "manual"
+  },
+  {
+    "schemaVersion": 1,
+    "club": "glasgow",
+    "stage": "the-barras",
+    "category": "venues-gigs",
+    "difficulty": 5,
+    "question": "Which band supported Phantom Band at King Tut's in April 2010?",
+    "options": [
+      "Dirty Cuts",
+      "Endor",
+      "Race Horses",
+      "Twister"
+    ],
+    "correctAnswer": 2,
+    "tags": [
+      "King Tut's",
+      "Phantom Band",
+      "Race Horses",
+      "2010"
+    ],
+    "source": "manual"
+  }
+]

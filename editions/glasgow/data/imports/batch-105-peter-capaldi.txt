@@ -1,0 +1,12 @@
+# Peter Capaldi. Source: https://en.wikipedia.org/wiki/Peter_Capaldi
+# difficulty | category | question | correct | wrong | wrong | wrong | tags
+1 | film-tv | Which incarnation of the Doctor did Peter Capaldi play in Doctor Who? | The Twelfth | The Eleventh | The Tenth | The Thirteenth | Peter Capaldi; Doctor Who
+1 | film-tv | Which foul-mouthed spin doctor did Peter Capaldi play in The Thick of It? | Malcolm Tucker | Ollie Reeder | Hugh Abbot | Jamie McDonald | Peter Capaldi; Malcolm Tucker
+2 | film-tv | Which actor did Peter Capaldi succeed as the Doctor in Doctor Who? | Matt Smith | David Tennant | Christopher Eccleston | Jodie Whittaker | Peter Capaldi; Matt Smith
+2 | film-tv | Which grumpy neighbour did Peter Capaldi play in the Paddington films? | Mr Curry | Mr Brown | Mr Gruber | Mr Buchanan | Peter Capaldi; Paddington; Mr Curry
+2 | film-tv | Peter Capaldi won an Oscar for which short film he directed? | Franz Kafka's It's a Wonderful Life | Strictly Sinatra | The Thick of It | Local Hero | Peter Capaldi; Oscar
+3 | glasgow-bands | Which future US talk show host was the drummer in Peter Capaldi's punk band the Dreamboys? | Craig Ferguson | Jimmy Kimmel | Conan O'Brien | James Corden | Peter Capaldi; Dreamboys; Craig Ferguson
+3 | film-tv | Which Beatle did Peter Capaldi play in the 1985 TV film John and Yoko: A Love Story? | George Harrison | John Lennon | Paul McCartney | Ringo Starr | Peter Capaldi; George Harrison
+3 | famous-glaswegians | What business did Peter Capaldi's parents run in Springburn? | An ice cream business | A chip shop | A pub | A barber's | Peter Capaldi; Springburn
+3 | film-tv | Which actress succeeded Peter Capaldi as the Doctor? | Jodie Whittaker | Jenna Coleman | Pearl Mackie | Michelle Gomez | Peter Capaldi; Jodie Whittaker
+4 | film-tv | In which 1983 Bill Forsyth film did Peter Capaldi play Danny Oldsen? | Local Hero | Gregory's Girl | Comfort and Joy | That Sinking Feeling | Peter Capaldi; Local Hero
